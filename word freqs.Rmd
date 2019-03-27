@@ -1,0 +1,9 @@
+---
+title: "Extract word frequencies from text files"
+output: html_notebook
+---
+
+```{r}
+plot(cars)
+```
+
