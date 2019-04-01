@@ -1,0 +1,742 @@
+xabstract
+
+Benthic macroinvertebrate communities were quantified at natural cobble and artificial
+reef sites in Lake Ontario in 1983 (7 y pre-Dreissena invasion) and in 1991 to 1992 and 1999 to 2000
+(1ñ2 and 9ñ10 y post-Dreissena invasion, respectively). Overall, the cobble community had higher
+diversity and abundance than the reef community. In both communities, diversity and abundance of
+non-Dreissena taxa rose sharply between 1983 and 1991 to 1992 and declined to 1983 levels by 1999
+to 2000. However, taxonomic composition (excluding Dreissena and the recent invader Echinogammarus
+ischnus) was consistent across study years. Between 1983 and 1999 to 2000, Stagnicola catascopium and
+Physella spp. increased in abundance, several taxa (Musculium partumeium, Bithynia tentaculata, Elimia
+livescens, Trichoptera, and Chironomidae) decreased in abundance, and changes in the abundance of
+many taxa were correlated with Dreissena abundance. Dreissena continued to make up .40% of total
+macroinvertebrate abundance at the cobble site and .60% at the reef site in 1999 to 2000; however,
+numbers dropped sharply and the size of individual mussels increased as D. bugensis largely replaced
+D. polymorpha between 1991 to 1992 and 1999 to 2000. Dreissena biomass dropped sharply at the reef
+site between 1991 to 1992 and 1999 to 2000, but not at the cobble site. The exotic amphipod E. ischnus
+was abundant in 1999 to 2000, but any effect on the abundance of the related amphipod Gammarus
+fasciatus was unclear. At the time of this study, the round goby Neogobius melanostomus was not present.
+We conclude that the transition from D. polymorpha to D. bugensis and processes associated with the
+ongoing oligotrophication of Lake Ontario are responsible for reduced density of larger-bodied Dreissena
+in the nearshore region, and that changes in the Dreissena population are largely responsible for
+changes in the non-Dreissena benthic macroinvertebrate communities.
+
+
+xintroduction
+Nutrient loading and species introductions
+are thought to be 2 of the major environmental
+problems currently facing freshwater ecosystems (Richter et al. 1997, Hall et al. 2003), and
+both of these anthropogenic factors are of concern
+in the Great Lakes. The number of exotic
+species in the Great Lakes continues to increase
+(Ricciardi 2001), and nutrient levels have declined
+after changes in human inputs (Hall et
+al. 2003, Mills et al. 2003). Both of these anthropogenically
+controlled factors have the potential
+to alter secondary productivity and invertebrate
+community structure. The potential also exists
+for exotics and changing nutrient levels to interact,
+or for them to interact with abiotic factors
+
+ such as habitat or climate, to restructure benthic
+macroinvertebrate communities in lakes.
+One exotic species known to interact with
+benthic macroinvertebrate communities on hard
+substrates in littoral zones of lakes are mussels
+of the genus Dreissena (Griffiths 1993, Ricciardi
+et al. 1997, Karatayev et al. 1997). Dreissena positively
+affects benthic grazers on local (Stewart
+et al. 1998a, b, Kuhns and Berg 1999) and system-wide
+(Mayer et al. 2002) scales. However,
+Dreissena also negatively affects benthic invertebrate
+communities, especially filter-feeding or
+deep-dwelling invertebrates that rely on detrital
+rain (Dermott and Munawar 1993, Strayer et al.
+1998, Johannsson et al. 2000). Strayer et al.
+(1998) pointed out that the overall effects of
+Dreissena on macroinvertebrates may be positive
+or negative, and that community responses depend
+on critical habitat characteristics (e.g.,
+depth, substrate type, current velocity, nutrients,
+productivity).
+Similarly, effects of changing nutrient levels
+on benthic invertebrates may be difficult to predict
+because of their variety of feeding strategies.
+Some consume organic material originally
+produced in the pelagic zone and subsequently
+deposited on the bottom as detritus, whereas
+others graze on benthic primary producers.
+Benthic invertebrates with different feeding
+strategies may respond differently to changes in
+nutrient levels because a tradeoff probably exists
+between benthic and pelagic primary production
+with changing nutrient levels. For example,
+phytoplankton may be controlled by nutrients
+(Schindler 1977), whereas some benthic primary
+producers are light-limited (Duarte 1995, Millard
+et al. 1996). These factors may be confounded
+in lakes where shading is usually from phytoplankton.
+Therefore, predicting benthic invertebrate
+community response to a change in nutrient
+levels is very difficult, and the potential
+synergistic effects of nutrient alterations and exotics
+such as Dreissena are complex.
+Long-term studies can illuminate the interactions
+of exotic species, previously established
+communities, and changes in other environmental
+factors. Here, we analyze a unique data set
+collected on natural cobble and artificial reef
+substrates in southwestern Lake Ontario over a
+17-y period that spanned the introduction of
+Dreissena. Benthic invertebrate communities
+were sampled in 1983 (7 y pre-Dreissena invasion;
+Bader 1985) and in 1991 to 1992 (1ñ2 y
+post-Dreissena invasion; Stewart and Haynes
+1994). The initial post-Dreissena sampling in
+1991 to 1992 showed that even though Dreissena
+constituted 42 to 78% of the benthic fauna, other
+macroinvertebrates were more diverse and more
+abundant than before the arrival of Dreissena.
+However, differences between the 1995 and 1983
+communities were much less pronounced
+(Haynes et al. 1999). We repeated the sampling
+in 1999 to 2000. This expanded time scale allowed
+us to assess changes in these benthic invertebrate
+consortia (Karatayev et al. 1997) over
+a period of time in which nutrient levels remained
+stable (Millard et al. 1996, Hall et al.
+2003, Mills et al. 2003) and other exotic species
+(e.g., the round goby, Neogobius melanostomus,
+and the amphipod Echinogammarus ischnus) colonized
+Lake Ontario.
+The major objective of our study was to evaluate
+long-term changes in the benthic macroinvertebrate
+community, collectively and within
+individual taxa, in relation to the Dreissena invasion
+of southwestern Lake Ontario. Establishing
+relationships between changes in the benthic
+community and Dreissena required eliminating
+or separating other factors that might
+have caused the changes we observed. These
+factors include the weather preceding sampling,
+predation or competition, and temporal and
+spatial differences in sampling (year, month,
+habitat).
+xmethods
+
+
+
+Sampling methods for our study were reported
+in Bader (1985), Stewart and Haynes (1994),
+and Haynes et al. (1999). Samples were collected
+within same 2 to 3 wk periods in May, July, August,
+and September during 1983, 1991 to 1992,
+and 1999 to 2000. Five replicate samples (3 min
+each) were collected with a dome suction sampler
+(Gale and Thompson 1975) along 30-m
+transects on each of the natural cobble and artificial
+reef substrates in 5 to 7 m of water 1.6
+km west of Olcott, New York (map in Stewart
+and Haynes 1994). When run with a freshly
+charged battery, the pump attached to the suction
+sampler could pump water at a constant
+rate for 30 min in the laboratory. Each transect
+was sampled using a freshly charged battery. If
+the sampler clogged, the 3-min timer was stopped, the system was cleared, and the timer
+was restarted. The collection method did not
+sample unionid bivalves because they were too
+widely scattered to be found in the 0.165 m2
+area of the sampler. The method also underestimated
+the abundance of Dreissena because the
+suction power of the sampler did not dislodge
+all of them from rocks. Thus, dome suction sampler
+counts of Dreissena are relative, not absolute,
+density estimates.Taxonomically related macroinvertebrates
+were combined so that they numbered $10/m2
+in $1 sampling year. This technique caused
+some loss of taxonomic resolution, but it facilitated
+statistical comparisons across years (1983,
+1991ñ1992, 1999ñ2000), months (May, July, August,
+September), and habitats (cobble, reef).
+The following taxa were combined for analysis:
+Turbellaria (flatworms), Oligochaeta (aquatic
+earthworms), and Hirudinea (leeches) as
+Worms; small numbers of Gyraulus and Helisoma
+snails as family Planorbidae; and a few taxa in
+each of Trichoptera (caddisflies), Ephemeroptera
+(mayflies), and Chironomidae (midgeflies) as
+Insecta, resulting in 15 taxa for analysis. Macroinvertebrate
+counts (1983 data from Bader
+1985) were converted to no./m2 for each taxon
+for each sampling month, and transformed
+(log[no./m2 1 1]).
+Multiple analysis of variance (MANOVA) and
+Tukeyís Honestly Significant Difference (HSD)
+tests (Statistix 2001, version 7.0, Analytical Software,
+Tallahassee, Florida) were used to evaluate
+changes in Dreissena and other taxa, individually
+and collectively, by year, month, and habitat.
+For these data, the level of significance was
+a 5 0.05, but a trend was noted if 0.05 ,a,
+0.1. In addition, environmental variables (air
+temperature, precipitation, solar radiation) during
+the 30 d preceding each sampling day were
+compared (after log[x 1 1] transformations) by
+1-way analysis of variance (ANOVA) (Statistix
+2001). Pearson correlation and stepwise regression
+were used to establish relationships among
+benthic macroinvertebrate abundance (dependent
+variable) and Dreissena abundance and the
+environmental variables (Statistix 2001). Wet
+masses of whole and fragmented Dreissena with
+shells were calculated as reported in Stewart
+(1993), and differences between Dreissena biomass
+at the cobble and reef sites were compared
+by KruskalñWallis 1-way nonparametric ANOVA
+(Statistix 2001).
+Multivariate analyses (PC-ORD 1999, MJM
+Software, Gleneden Beach, Oregon) were done
+on the log(no./m2 1 1)-transformed data. Cluster
+analysis (Unweighted Pair-Group Method
+using Arithmetic Averages, Sorenson distance
+measure) gave insight into relationships among
+non-Dreissena benthic macroinvertebrate communities
+in different years, months, and habitats.
+Canonical correspondence analysis (CCA)
+displayed relationships among non-Dreissena
+taxa and Dreissena and environmental conditions
+30 d before each sampling date.
+xresults
+
+Dreissena abundance was higher in 1991 to
+1992 than in 1999 to 2000 (p , 0.0001), and
+higher at the reef than at the cobble site (p ,
+0.0001). Dreissena abundance did not differ
+among months (p 5 0.179), and no interactions
+among months, years, or habitats were statistically
+significant. In 1991 to 1992, D. bugensis
+constituted ;1% of the Dreissena community at
+each study site (Stewart and Haynes 1994), but
+by 1999 to 2000 it was the dominant dreissenid
+at the cobble (80%) and reef (87%) sites. During
+1991 to 1992 and 1999 to 2000, the relative abundance
+of Dreissena was .47% at the study sites,
+but absolute abundance decreased by factors of
+5 and 10 at the cobble and reef sites, respectively
+(Table 1).
+The trend of decreased Dreissena abundance
+was not fully paralleled by changes in biomass.
+Between 1991 to 1992 and 1999 to 2000, Dreissena
+biomass did not change at the cobble site
+(483 1 116 [SE] vs 328 1 54 g/m2
+, p 5 0.753),
+but biomass declined markedly at the reef site
+(1123 1 187 vs 434 1 62 g/m2
+, p 5 0.004). However,
+mean individual mussel size approximately
+doubled (0.09 and 0.12 g/individual in 1991ñ
+1992, and 0.22 and 0.20 g/individual in 1999ñ
+2000 at the cobble and reef sites, respectively).Many of the changes described above were
+statistically significant (Table 3). For all taxa
+combined, abundance was significantly higher
+in 1991 to 1992 than in 1983 or 1999 to 2000.
+Individual taxa that were significantly more
+abundant in 1991 to 1992 than in the other sampling
+years included Worms, Planorbidae, Valvatidae,
+Hydrobiidae, Pleuroceridae, Cambaridae,
+Trichoptera, and Other. Several taxa (Lymnaeidae,
+Physidae, Bithyniidae, and Gammaridae)
+were significantly more abundant in 1991
+to 1992 than in 1 of the other 2 sampling years.
+Only Chironomidae was significantly less abundant
+in 1991 to 1992 than in another year, and
+only Ephemeroptera (always in low abundance)
+showed no difference in abundance among
+years.
+For combined taxa, abundance was signifi-
+cantly greater at the cobble habitat than at the
+reef habitat, and the same was true for 9 of the
+15 individual taxa (Worms, Sphaeriidae, Planorbidae,
+Valvatidae, Pleuroceridae, Cambaridae,
+Chironomidae, Trichoptera [p 5 0.079], and
+Other; Table 3). Abundance of all taxa combined
+did not differ among months, and the same was
+true for 6 of the 15 taxa. For 7 of the remaining
+9 taxa, macroinvertebrate abundance was lower
+in May than in one or more other months.
+The interactions among years, months, or
+habitats were not significant for all taxa combined
+and for 5 of the 15 individual taxa. Taxa
+significantly affected by a month 3 year interaction
+were Planorbidae, Physidae, Hydrobiidae,
+Pleuroceridae, Chironomidae, and Other; taxa
+significantly affected by a habitat 3 month interaction
+were Planorbidae, Pleuroceridae, and
+Chironomidae; and taxa significantly affected
+by a year 3 habitat interaction were Sphaeriidae,
+Physidae, Valvatidae, Pleuroceridae, Cambaridae,
+Trichoptera, and Other (Table 3)Environmental variables. For the 30-d period
+before sampling, the high, low, and mean air
+temperatures were lower in May and higher in
+July and August of 1983 than in other years. Air
+temperatures did not differ among years in September,
+and neither solar radiation nor precipitation
+differed among years for any sampling
+month (Table 4). Correlations among environmental
+variables were strong and significant
+(range: r 5 20.762ñ0.724, p , 0.0001), but no
+relationship was identified between Dreissena
+and the environmental variables (range: r 5
+0.016ñ0.069, p 5 0.190ñ0.764). In stepwise regression,
+the relationships between the abundance
+of non-Dreissena taxa and temperature (p
+5 0.610), precipitation (p 5 0.807), and solar radiation
+(p 5 0.573) were not significant, but the
+relationship between the abundance of nonDreissena
+taxa and Dreissena abundance was
+strong (p 5 0.0004).
+Community relationships. Colonization of the
+reef site in 1983 by taxa from nearby cobble habitat
+was rapid, and species richness was similar
+between the sites. In 1983, months after construction
+of the reef (Bader 1985), 15 and 13 taxa
+(as combined in Table 1) were collected at the
+cobble and reef sites, respectively. Among nonDreissena
+taxa, 17 and 13 taxa were found at the
+cobble and reef sites, respectively, in 1991 to
+1992 and 16 and 13 taxa were found at the same
+sites in 1999 to 2000. As expected for a lessdiverse
+substrate, the reef site (limestone cobbles/boulders)
+had slightly fewer taxa than the
+cobble site (sandstone cobbles/mud) in all
+years.
+Three clusters of samples were identified (Fig.
+1). One cluster consisted of all of the monthly
+samples from 1991 to 1992, the 2nd consisted of
+5 of the 8 samples from 1983, and the 3rd consisted
+of the samples from 1999 to 2000 and the
+remaining samples from 1983. The 1991 to 1992
+community was distinctly different from the
+somewhat-overlapping 1983 and 1999 to 2000
+communities. In addition, monthly cobble and
+reef samples were mixed in 1983 and in 1999 to
+2000, whereas in 1991 to 1992, the monthly cobble
+samples clustered separately from the
+monthly reef samples. This result indicates that
+
+ the arrival of Dreissena in 1991 to 1992 influenced
+the 2 non-Dreissena communities differently.
+In a separate cluster analysis (not shown),
+the mean annual abundance of each taxon (May,
+July, August, and September sample means
+combined) was computed for each habitat (cobble,
+reef) in each year of the study (1983, 1991ñ
+1992, 1999ñ2000). In that analysis, cobble and
+reef communities in each year clustered together,
+indicating that, on an annual basis, there
+were few differences between the benthic communities
+on artificial and natural substrates.
+CCA was used to explore further the relationships
+among non-Dreissena taxa and Dreissena
+(Fig. 2). All axes were canonical, but little of the
+variation among taxa along axes 1 (17.5%), 2
+(5.9%), and 3 (3.7%) was explained by the 3 environmental
+variables and Dreissena. The eigenvalue
+(0.069) for axis 1 was significant (p 5
+0.004), but eigenvalues for axes 2 (0.023) and 3
+(0.015) were not (p 5 0.124 and 0.058, respectively).
+Dreissena abundance was strongly correlated
+with axis 1 (r 5 0.986), solar radiation
+was strongly correlated with axis 2 (r 5 20.973),
+and temperature and precipitation were strongly
+correlated with axis 3 (r 5 20.838 and 0.615,
+respectively). Speciesñenvironment correlations
+(1000 Monte Carlo simulations) were significant
+for axes 1 (p 5 0.002) and 2 (p 5 0.004), but not
+for axis 3 (p 5 0.608). Relationships were sought
+on all 3 axes of the CCA because of high correlations
+among environmental variables and
+the nearly significant eigenvalue for CCA axis 3.
+Axes 1 and 3 gave the clearest view of our data
+(Fig. 2).
+A number of interesting patterns emerged
+from the CCA. All of the 1983 monthly samples
+(pre-Dreissena) arrayed on the negative side of
+axis 1, the Dreissena axis of the CCA, whereas
+all but one of the post-Dreissena monthly samples
+arrayed on the positive side of axis 1 (Fig.
+2). No Dreissena were collected at the cobble site
+in September 1999, so that month was among
+the 1983 sampling months. In hindsight, the
+barren appearance and sparse benthic macroinvertebrate
+community at this sampling site
+suggested that it had been disturbed by storms
+or scoured by ice. The CCA identified the September
+1999 sample as unusual, and this identification
+increased our confidence in the ability
+of the analysis to identify correctly the relationships
+of non-Dreissena taxa and sampling
+months to the canonical axes (Fig. 2). For example,
+axis 3 represented a combination of the
+inversely related (r 5 20.762) temperature and
+precipitation variables. Monthly samples from
+May through September in all years are arrayed
+along a coldñwet (positive side) to warmñdry
+(negative side) continuum.
+The MANOVA, cluster analysis, CCA, and
+narrative results presented above showed remarkable
+agreement on changes in the macroinvertebrate
+communities at the study sites. The
+1999 to 2000 community was more like the 1983
+community than either was like the 1991 to 1992
+community (Fig. 1); this result corresponds with
+colonization by Dreissena after 1989 and the decline
+of Dreissena between 1991 to 1992 and 1999
+to 2000 (Table 1). Taxa with abundances that
+rose and fell with the abundance of Dreissena
+have values near the origin on axis 1 of the CCA
+(the Dreissena axis, Fig. 2), whereas taxa with
+abundances negatively or positively associated
+with Dreissena have values to the left or right of
+the origin, respectively. The abundances of 7
+taxa (Worms, Planorbidae, Pleuroceridae, G. fasciatus,
+Cambaridae, Trichoptera, Other) had
+scores between 20 and 80 (out of 100) on axis 1
+and were positively correlated with Dreissena
+abundance (Table 1). Two taxa (Lymnaeidae,
+Physidae) with scores between 20 and 80 on axis
+1 were exceptions to the pattern; they increased
+sharply between 1983 and 1991 to 1992 and remained
+high in 1999 to 2000. These taxa seem
+not to have been affected by the decline in Dreissena
+abundance. Two taxa (Hydrobiidae, Valvatidae),
+whose abundances also were positively
+correlated with Dreissena abundance, had scores
+.80 on CCA axis 1 (Fig. 2). The cause of this
+pattern is not clear, but Valvatidae numbered
+.10/m2 only in 1991 to 1992 (Table 1) and their
+low sample sizes may have influenced the CCA.
+The 3 taxa (Sphaeriidae, Ephemeroptera, Chironomidae)
+with scores ,20 (Fig. 2) virtually
+disappeared from the study sites between 1991
+to 1992 and 1999 to 2000 (Table 1).
+xdiscussion
+
+The effects of exotic species such as Dreissena
+on native communities are difficult to predict,
+especially in the case of benthic macroinvertebrate
+communities that include a wide variety
+of feeding guilds and ecological niches. Further,effects arising from an exotic species are diffi-
+cult to differentiate from effects caused by natural
+or anthropogenic environmental changes or
+the effects of patchy distributions on sampling
+results. We used a unique long-term data set to
+evaluate changes in the non-Dreissena nearshore
+benthic community after exotic species introductions
+in Lake Ontario but over a period of
+stable P levels.
+Several trends in the non-Dreissena communities
+were apparent from 1983 to 2000, despite
+the temporal and spatial variability characteristic
+of benthic communities. First, the 1983 and
+1999 to 2000 non-Dreissena communities were
+more closely related to each other than either
+was to the 1991 to 1992 community. Specifically,
+the abundances of non-dreissenids overall, and
+of most individual taxa, were higher in 1991 to
+1992 (1ñ2 y post-Dreissena) than in 1983 (7 y preDreissena)
+and in 1999 to 2000 (7ñ9 y post-Dreissena).
+Second, the abundances of non-dreissenids
+and most individual taxa were higher at the
+cobble site than at the reef site. Third, neither
+overall benthic macroinvertebrate abundance
+nor abundances of 40% of individual taxa differed
+among sampling months (May, July, August,
+September), but nearly half of the individual
+taxa were less abundant in May than in one
+or more other months. Fourth, D. bugensis became
+the most abundant member of the benthic
+community, exceeding D. polymorpha abundance
+by a factor of 3.4 in 1999 to 2000. Fifth, the abundance
+of Dreissena declined sharply between
+1991 to 1992 and 1999 to 2000, but the average
+mass of individuals doubled. Dreissena biomass
+remained unchanged at the cobble site, but decreased
+sharply at the artificial reef where dreissenid
+numbers had exploded in 1991 to 1992.
+Sixth, significant correlations were found among
+environmental variables (temperature, precipitation,
+and sunlight), but no significant relationships
+were found between environmental variables
+and the abundances of Dreissena and nonDreissena
+taxa. Seventh, E. ischnus colonized the
+study sites between 1995 and 1999, and became
+the 3rd-most-abundant taxon.Establishing cause-and-effect relationships
+between changes in benthic communities and
+environmental factors is difficult, and our 17-y
+observational data set cannot do so. Our data
+point to Dreissena as the driver of change from
+1983 to 2000, but other factors may have influenced
+the richness and abundances of nonDreissena
+taxa. These factors include predation,
+new exotic species, benthic algae, competition,
+or temporal changes in environmental conditions.
+Before arguing for Dreissena as the chief
+driver, we explore these other potential influences.
+Predation. Haynes et al. (1999) excluded predation
+by aquatic fauna as a cause for the decline
+of invertebrate taxa between 1991 to 1992 and 1995. However, small-bodied snails such as
+Gyraulus and Amnicola may have avoided predation
+in the many small interstitial spaces of
+D. polymorpha during the early phase of colonization,
+and they may have lost this refuge in the
+fewer large interstitial spaces of D. bugensis now
+dominant along the southern shore of Lake Ontario
+(Mills et al. 1999).
+The assemblage of small and juvenile fishes
+(slimy sculpin, Cottus cognatus; johnny darter,
+Etheostoma nigrum; pumpkinseed, Lepomis gibbosus;
+rock bass, Ambloplites rupestris; smallmouth
+bass, Micropterus dolomieu; yellow perch,
+Perca flavescens) has remained unchanged at our
+study sites since 1983 (Merritt 1985, Haynes
+1991, 1995); therefore, new forms of fish predation
+are an unlikely cause of the changes observed
+in the non-Dreissena community. A possible
+exception may be selective predation on
+crayfish (Orconectes spp.) by increasing numbers
+of freshwater drum (Aplodinotus grunniens) that
+also eat Dreissena (JMH, personal observation).
+Transect surveys by SCUBA and baited minnow
+traps failed to produce evidence of round gobies
+at our study sites in 1999 to 2000. As the round
+goby becomes established at our study sites (it
+is now common in Lake Ontario), it may well
+alter the benthic community (Dubs and Corkum
+1996, Kuhns and Berg 1999, French and Jude
+2001, Gonzalez and Burkhart 2004).
+Petrie and Knapton (1999) reported high levels
+of predation by waterfowl on dreissenids at
+Long Point Bay, Lake Erie where the habitat was
+shallow (0ñ4 m), highly vegetated, and muddybottomed.
+Given the substantial differences in
+substrate type and depth between our study
+sites and Long Point Bay, and the fact that we
+saw no waterfowl during .15 sampling trips
+since 1990, it is unlikely that waterfowl predation
+accounts for the reductions in Dreissena.
+It appears unlikely that predation from any
+source has caused the overall decline in nonDreissena
+abundance at our sites. However, the
+effect of larger interstitial spaces created by D.
+bugensis on selective predation of certain taxa
+should be explored experimentally.
+A new exotic species. After E. ischnus colonized
+our study sites, it replaced G. fasciatus as
+the most abundant non-Dreissena member of the
+community (33% and 64% of amphipod abundance
+at the cobble and reef sites, respectively).
+Similar results have been observed in Lake Erie
+(Stewart et al. 1998a, b, Ratti and Barton 2003).
+Van Overdijk et al. (2003) and Gonzalez and
+Burkart (2004) reported that E. ischnus predominated
+on dressenid substrate in the lab and
+field, but G. fasciatus was more abundant in macrophytes.
+The 2 species were distributed evenly,
+especially at higher densities, on substrates with
+both Cladophora and Dreissena. Gonzalez and
+Burkart (2004) showed that interhabitat differences
+in diet did not explain observed abundance
+patterns, but fish predation did. Both yellow
+perch and round goby preferred E. ischnus
+in macrophytes and G. fasciatus among dreissenids.
+Echinogammarus ischnus appeared to be favored in dreissenid habitat, the major habitat
+available at our sites; therefore, it has the potential
+to further displace G. fasciatus, as suggested
+by our data. However, our data provide no evidence
+that E. ischnus has affected other nonDreissena
+taxa relative to conditions in 1995
+(Haynes et al. 1999).
+Benthic algae. Haynes et al. (1999) hypothesized
+that thick growths of filamentous green
+algae may have accounted for lower abundances
+of benthic macroinvertebrates in 1995, relative to
+abundances in 1991 to 1992 when no algae was
+present, by interfering with the ability of benthic
+macroinvertebrates to attach or feed. Water clarity
+increased substantially at our sites and
+throughout the Great Lakes following colonization
+by Dreissena (MacIsaac 1996, Nicholls 1997),
+and clarity remained high in 1999 to 2000. However,
+few filamentous algae were observed at
+our sites in 1999 to 2000, and few changes in
+macroinvertebrate abundance or diversity were
+observed between 1995 (Haynes et al. 1999) and
+1999 to 2000. Therefore, benthic algal cover cannot
+account for observed changes in the invertebrate
+communities at the cobble and reef sites.
+Temporal environmental variation. Temporal
+environmental variations, rather than Dreissena,
+could have accounted for the differences in macroinvertebrate
+communities among years. Unfortunately,
+only one pre-Dreissena data set
+(1983) is available, so interannual changes in
+community structure potentially caused by
+Dreissena cannot be separated clearly from other
+effects. Stepwise regression and CCA showed
+no associations among the physical environmental
+variables, Dreissena, and the non-Dreissena
+communities. Moreover, an extensive survey
+along the Canadian shore of Lake Ontario found
+no effects of fetch, upwelling, or substrate (all
+particle sizes from clay to bedrock) on the structure
+of benthic communities at 5-m depths (Kilgour
+et al. 2000). The 2 trends that are apparent in our non-Dreissena data are a sharp increase
+in abundance from 1983 to 1991 to 1992 and a
+substantial decrease toward 1983 levels since
+1991 to 1992. These trends have no counterparts
+in the physical environmental data we and Kilgour
+et al. (2000) examined. Thus, there is no
+evidence that the physical variables measured
+played a role in structuring nearshore benthic
+communities in Lake Ontario.Dreissena is the most likely factor accounting
+for the community changes we observed. The
+changes reported here are not unusual for benthic
+communities on hard substrates in the
+Great Lakes, and they suggest a geographically
+broad phenomenon that has implications for
+Dreissena-impacted food webs. Dreissena abundance
+rises exponentially soon after colonization
+(e.g., Stewart and Haynes 1994, Nalepa et
+al. 2003), and the diversity, abundance, or biomass
+of non-dreissenids rise in the short term
+(Dermott et al. 1993, Griffiths 1993, Stewart and
+Haynes 1994) followed by declines to near preDreissena
+conditions (Haynes et al. 1999). In addition,
+non-Dreissena species composition also
+changes. The typical pattern is an increase in
+snail abundance, a decrease in insect abundance,
+and continuing prominence of gammarids (Nalepa
+et al. 2003, Ratti and Barton 2003). Most
+authors cited above attributed these changes to
+Dreissena.
+Short-term manipulative experiments conducted
+on hard substrates in shallow water
+demonstrated that Dreissena caused positive
+changes in biomass and abundance of other
+benthic macroinvertebrates (Wisenden and Bailey
+1995, Ricciardi et al. 1997, Thayer et al. 1997,
+Kuhns and Berg 1999). For example, Stewart et
+al. (1998a, b) showed that non-Dreissena biomass
+was 53 greater on substrates with ;7500 dreissenids/m2
+than on substrates with ;680/m2
+.
+Corroborative field evidence showed that dreissenid
+densities averaging 730/m2 (range: 0ñ
+3250/m2
+) had no effect on community structure
+(Kilgour et al. 2000). These results show general
+agreement with our results; decreases in densities
+of Dreissena (cobble: 3.53 decrease, reef:
+4.43 decrease) corresponded with decreases in
+densities of non-dreissenids (cobble: 2.23 decrease,
+reef: 3.13 decrease) at our study sites
+between 1991 to 1992 and 1999 to 2000.
+Several factors associated with Dreissena probably
+accounted for the changes in the abundance
+of non-Dreissena taxa we observed between
+1991 to 1992 and 1999 to 2000. Dreissena
+feces and pseudofeces are energy-rich resources
+for detritus-feeding invertebrates (Izvekova and
+Lvova-Katchanova 1972, Roditi et al. 1997), and
+they provide substrate and shelter for some
+taxa. In the presence of higher densities of
+smaller Dreissena at our study sites in 1991 to
+1992, more detritus was available for feeding
+and more shell area was available for attachment
+(Stewart et al. 1998a, b). In addition, smaller interstitial
+spaces may have provided protection
+from predation and may have trapped organic
+particles that otherwise would be washed away
+and unavailable as food (Stewart et al. 1998a, b).
+Change from D. polymorpha to D. bugensis.
+Mills et al. (1999) found a sharp increase and a
+strong westward gradient of D. bugensis biomass
+from 1992 to 1995 at depths of 15 to 130 m on
+the southern shore of Lake Ontario. At the same
+time, Mills et al. (1999) observed decreases by
+factors of 2 to 17 in D. polymorpha biomass. Dreissena
+polymorpha biomass was higher than D. bugensis
+biomass only at the shallowest depth sampled
+by Mills et al. (1999), a result consistent
+with our observations, where both dreissenid
+species were present at our sites in western Lake
+Ontario (7 m), but D. bugensis predominated in
+1999 to 2000. The shift from D. polymorpha to D.
+bugensis (100:1 ratio in 1991ñ1992 to 100:343 ratio
+in 1999ñ2000) coincided with an approximate
+halving of non-Dreissena taxa abundance.
+Our data cannot answer whether changed dreissenid
+dominance played a role in the observed
+alteration of the non-Dreissena community, but
+they are suggestive.
+Competition. Driessena may out-compete other
+filter-feeders for food or smother organisms
+such as unionids (Lewandowski 1976, Hunter
+and Bailey 1992, Stanczykowska and Lewandowski
+1993). Dreissena polymorpha colonized
+southern Lake Michigan in 1991 and settled on
+sphaeriids .1 mm in diameter. By 1997, sphaeriids
+at a depth of 10 m had disappeared (Lauer
+and McComish 2001). Similar disappearances of
+sphaeriids after dreissenid invasion have been
+reported in Lake Ontario (Haynes et al. 1999),
+in Lake Erie (Nalepa et al. 1996, Dermott and
+Kerec 1997, Johannsson et al. 2000), in Lake
+Michigan (Nalepa et al. 1998), in Saginaw Bay
+in Lake Huron (Nalepa et al. 2003), in the Hudson River (Strayer et al. 1998), and in the Illinois
+River (Tucker 1994). In addition, Ratti and Barton
+(2003) suggested that filter-feeding hydropsychid
+caddisflies were displaced by D. bugensis
+in the wave zone of eastern Lake Erie, just as
+filter-feeding chironomids have been displaced
+by Dreissena in deep water in eastern Lake Erie
+(Dermott and Kerec 1997).We think the declines in non-Dreissena benthic
+macroinvertebrate abundance are strongly
+linked to the declines in Dreissena densities at
+our study sites. Two factors support this contention.
+1) Dreissena abundance and biomass decreased
+at our study sites and throughout Lake
+Ontario (Mills et al. 1999, Kilgour et al. 2000),
+and densities of non-Dreissena taxa are clearly
+related to Dreissena densities (Stewart et al.
+1998a, b, Kuhns and Berg 1999, Mayer et al.
+2002). 2) None of the physical or chemical factors
+(e.g., substrate, depth, weather, P) that potentially
+could alter benthic habitat sufficiently
+to create the changes seen in the benthic communities
+of Lake Ontario have changed signifi-
+cantly across sampling years at our sites, and
+fetch and upwelling also do not appear to influence
+benthic invertebrate communities in Lake
+Ontario (Kilgour et al. 2000).
+The overall decline in Lake Ontarioís productivity
+after decades of planned P reductions (oligotrophication)
+probably has contributed to the
+decreasing density of Dreissena. The bottom-up
+effect (Carpenter et al. 1986, McQueen et al.
+1989) of less P entering Lake Ontario (Hall et al.
+2003, Mills et al. 2003) and more P probably
+bound up long-term in Dreissena shells may
+have translated into lower phytoplankton production
+by decoupling chlorophyll a and total P
+in the nearshore region of Lake Ontario (Hall et
+al. 2003). The consequences probably were less
+food for dreissenid mussels, less feces and pseudofeces
+production as food for other invertebrates,
+and fewer bacterial decomposers (Mills
+et al. 1995, 2003). Therefore, we predict that unless
+more P becomes available in the food web
+leading to Dreissena, benthic invertebrate abundance
+and biomass will continue to decline to
+levels at or below those before the Dreissena invasion.

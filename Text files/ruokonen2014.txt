@@ -1,0 +1,711 @@
+xabstract
+1. Invasive crayfish are widely acknowledged to have negative effects on benthic food webs in lakes,
+but few studies have investigated such effects at wider spatial scales and in varying habitats under
+natural conditions.
+2. We examined the effects of introduced signal crayfish (Pacifastacus leniusculus) on the macroinvertebrate
+assemblages of different habitats in two large boreal lakes. We evaluated whether the density,
+taxon richness and species composition are altered by the non-native crayfish and whether the
+responses are similar for stony and vegetated habitats and across a depth gradient. We also studied
+the influence of crayfish on periphyton biomass at stony sites, as a potential link to changes in macroinvertebrate
+communities.
+3. In both lakes, macroinvertebrate density was similar between crayfish and non-crayfish sites across
+the habitats and depths studied. However, macroinvertebrate taxon richness was significantly lower,
+and community composition was altered in the presence of crayfish at stony sites. No similar pattern
+was detected at vegetated sites or in deeper sublittoral areas. The amount of periphyton was similar
+regardless of the presence of crayfish, and no clear direct or indirect crayfish–periphyton interaction
+was detected.
+4. Our results suggest that introduced signal crayfish can have negative effects on the littoral macroinvertebrates
+of large boreal lakes, but that these effects are habitat specific. Our findings highlight
+how the evaluation of possible effects of invasive species needs to be carried out comprehensively
+across different habitats and spatial scales if conclusions are to be robust.
+
+xintroduction
+Fresh waters are among the most threatened environments
+in the world (Strayer & Dudgeon, 2010), and the
+spread of non-native species is a major reason for
+decreased biodiversity and impaired ecosystem processes
+(Dudgeon et al., 2006; Strayer, 2010). Crayfish are among
+the most effective invaders worldwide, establishing large
+populations in all kinds of waterbodies (Lodge et al., 2000;
+Holdich et al., 2009). In lakes, the shallow littoral supports
+high biodiversity (Strayer & Findlay, 2010) and is
+important in whole-lake energy flow (Vadeboncoeur,
+Vander Zanden & Lodge, 2002; Vander Zanden et al.,
+2006). Unfortunately, these diversity hotspots have been
+extensively altered by human activities (Dudgeon et al.,
+2006) and are also the preferred habitat of crayfish
+(Westman, Savolainen & Julkunen, 2002; Nystr€om et al.,
+2006). Many studies suggest that non-native crayfish, as
+omnivores and effective ecosystem engineers, can have
+detrimental effects on the native biota (e.g. Nystr€om,
+Br€onmark & Graneli, 1999; Wilson et al., 2004; McCarthy
+et al., 2006) with their scale of influence ranging from
+changes in the population size of single species up to
+impacts on ecosystem processes (Covich, Palmer & Crowl,
+1999; Crooks, 2002; Pulkkinen et al., 2013).
+Non-native crayfish can substantially change assemblages
+of littoral macroinvertebrates by direct and
+indirect pathways. Previous studies have shown that
+crayfish predation can strongly decrease populations of
+slow-moving macroinvertebrates, and of snails in particular
+(Nystr€om et al., 1999; Wilson et al., 2004; McCarthy
+et al., 2006). The consequent reduction in snail grazing
+could increase periphyton biomass (Lodge et al., 1994;
+Nystr€om et al., 1999, 2001) and thus indirectly benefit
+other grazers less sensitive to crayfish predation. However,
+omnivorous crayfish could also compete for food
+with other macroinvertebrates by feeding on attached
+algae and detritus (Nystr€om, 1999; Gherardi & Lazzara,
+2006).
+Most previous studies on the effects of non-native
+crayfish on littoral macroinvertebrates have been
+small-scale experiments conducted in the laboratory, or
+in outdoor artificial ponds or enclosures. Although studies
+at more realistic spatial and temporal scales suggest
+that the effects on macroinvertebrates are similar across
+varying spatial scales (Wilson et al., 2004; McCarthy
+et al., 2006; Rosenthal, Stevens & Lodge, 2006; Nilsson
+et al., 2012), recent results also suggest that the effects of
+invasive crayfish may vary, depending on the characteristics
+of the ecosystem invaded (Stenroth et al., 2008;
+Klose & Cooper, 2012). Impacts of crayfish might also be
+specific to different prey species. Therefore, there is an
+obvious need to investigate the effects of non-native
+crayfish in varying relevant environmental settings (e.g.
+Degerman et al., 2007; Ruokonen et al., 2012a,b). In this
+context, information is still lacking on how signal crayfish
+(Pacifastacus leniusculus) affect macroinvertebrates
+under natural conditions in large boreal lakes, which are
+presently among the most important habitats in Europe
+for this introduced species. Direct extrapolation of
+results from small-scale studies to such large ecosystems
+might be misleading, since the environmental conditions
+and ecological processes are influenced by lake size and
+may differ substantially between small and large lakes
+(e.g. Vadeboncoeur et al., 2002). Moreover, large lakes
+typically contain extensive littoral patches of contrasting
+habitat types with differing conditions and assemblages
+(e.g. Tolonen et al., 2001) and hence with potentially
+differing responses to crayfish invasions.
+Habitat complexity is known to affect predator–prey
+interactions in aquatic environments in several ways
+(reviewed in Kovalenko, Thomaz & Warfe, 2012). For
+example, encounters between predator and prey might
+be less probable in complex habitats or, alternatively,
+prey could actively use habitat structures as a shelter
+(Persson & Eklov, 1995). Aquatic vegetation strongly
+affects the structure of littoral macroinvertebrate
+communities (Theel, Dibble & Madsen, 2008), and the
+physical complexity created by macrophytes supports
+high invertebrate biomass and diversity (Diehl, 1992;
+Tolonen et al., 2003). Hard-stemmed macrophyte stands,
+which are less affected by crayfish (e.g. Nystr€om &
+Strand, 1996), could act as a refuge for invertebrates
+such as snails, which are known to have behavioural
+escape responses in the presence of crayfish predator
+(Nystr€om & Perez, 1998; Turner, Bernot & Boes, 2000).
+Habitat features could also influence predator densities,
+and signal crayfish are thought to prefer stony rather
+than vegetated habitats in areas where they have
+invaded (Westman et al., 2002).
+Littoral habitat type strongly determines littoral
+macroinvertebrates (Tolonen et al., 2001; Johnson &
+Goedkoop, 2002), whose assemblage structure is quite
+different on stony and vegetated shores of large lakes,
+although in both habitats, invertebrate abundances and
+species composition change similarly from shallow to
+deeper water (Tolonen et al., 2001). The distribution of
+crayfish might also differ with depth (Rajala, 2006), and
+hence, these factors together might make the effects of
+crayfish depth dependent.
+Our main aim of this study was to examine the effects
+of introduced signal crayfish (Pacifastacus leniusculus) on
+the macroinvertebrate assemblages of different habitats
+in large boreal lakes. More specifically, we expected that
+(i) the overall macroinvertebrate density and species
+richness would be lower in the presence of crayfish; (ii)
+the density and species richness of snails, which are
+especially vulnerable to crayfish, would be heavily
+reduced by crayfish; (iii) the macroinvertebrate assemblage
+composition would be consistently different
+between sites with and without crayfish; and (iv) the
+responses to crayfish would be different between stony
+and vegetated habitats and less pronounced at vegetated
+sites due to more complex habitat structure and lower
+crayfish density. We also asked whether the impacts of
+crayfish are similar across littoral and sublittoral areas.
+Since crayfish could have complex influences on periphyton
+directly by grazing or indirectly by influencing
+other macroinvertebrate grazers, the impacts of crayfish
+on the biomass of periphyton growing on stony substrata
+were also studied, as a potential ‘bottom-up’ link
+to changes in macroinvertebrate communities. The outcomes
+of crayfish impacts on periphyton biomass are
+difficult to predict, but two alternatives could be
+expected: (i) periphyton biomass would be higher in the
+presence of crayfish, due to decreased snail grazing
+pressure; and (ii) no change in periphyton biomass, due
+to direct feeding on algae by omnivorous crayfish or the
+replacement of snails by other grazers.
+
+xmethods
+The study was conducted in 2008 at Lake P€aij€anne
+(61°31′N, 25°24′E) and in 2009 at Lake Saimaa (61°15′N,
+25°13′E) (Fig. 1), the two largest lakes in Finland. Signal
+crayfish were introduced to the study lakes 10–15 years
+ago (Finnish Game and Fisheries Institute, crayfish introduction
+register) and they reproduce naturally. The
+natural distribution of the only native Finnish crayfish
+(Astacus astacus) was confined mainly to rivers and small
+lakes, and the open water of the study lakes was not
+previously inhabited by crayfish (J€arvi, 1910). The overall
+distribution of signal crayfish in the study lakes is
+still patchy, since the lakes are divided into several
+management units. These areas are administered by
+their own shareholder associations which have decided
+whether or not to introduce signal crayfish. Even though
+signal crayfish also spread naturally within the lakes,
+their spread is relatively low (Bubb, Thom & Lucas,
+2004). The present situation thus provides an excellent
+opportunity to study the effects of invading signal crayfish
+in a large-scale natural setting.
+In each lake, five sites with signal crayfish and five
+otherwise similar sites without crayfish were selected
+(Fig. 1). At each site, a stony habitat and the nearest vegetated
+habitat were studied. In general, the shores of the
+study lakes are mostly stony with a broad belt of cobbles
+and boulders. Sheltered bays and less steep shores
+are typically covered with dense stands of common reed
+(Phragmites australis), a native and dominant macrophyte
+in the area. The stony shores selected were open and
+without macrophytes, and the bed was composed of
+mixed size cobbles (Table 1) from the shoreline to a
+depth of 2–2.5 m. Each vegetated site selected was 50–
+200 m distant from the corresponding stony site and
+was covered from the shore to 2–2.5 m depth by dense
+stands of common reed. At vegetated sites, the bottom
+was soft (fine silt/sand or mud) and contained decomposing
+macrophytes and terrestrial detritus (around
+0.5 m depth in particular). Crayfish are known to affect
+macrophytes negatively, but to prefer species with soft
+tissues (Olsen et al., 1991; Nystr€om & Strand, 1996).
+Therefore, we expected that any impact of crayfish on
+common reed, which has hard stems, would be minor,
+and therefore, vegetated sites would be similar between
+crayfish and non-crayfish sites.
+Tolonen et al. (2001) found that in the various basins
+of Lake Saimaa, factors related to habitat type explained
+most of the variation in the taxonomic and functional
+composition of littoral macroinvertebrate assemblages.
+Hence, we presumed that the macroinvertebrate assemblage
+at the study sites was similar within similar habitats
+before the introduction of crayfish. In addition, the
+main habitat features known to shape the structure of
+littoral communities were measured, to control for possible
+variation among sites (Tolonen et al., 2001; Johnson
+& Goedkoop, 2002). To avoid spatial bias in the study
+design, sites were distributed equally around the lakes
+in longitudinal and latitudinal directions, and the shortest
+distance between crayfish and non-crayfish sites
+separated by large open water areas was 4 km (Fig. 1).
+All study sites were trapped for crayfish at the end of
+July (2008 in P€aij€anne, 2009 in Saimaa) to estimate the
+density of individuals >60 mm in total length (the traps
+are size-selective) and to confirm the absence of crayfish
+from control sites. At stony sites, 25 cylindrical traps
+(mesh size 15 mm) baited with fresh fish flesh (Rutilus
+rutilus) were set during the evening at 5-m intervals
+along transects parallel to the shore line at 1–3 m depth
+and were collected the following morning. At vegetated
+sites, 13–15 traps were placed close to the outer edge of
+the dense macrophyte stands (depth 2–2.5 m). Fewer
+traps were used at vegetated sites due to smaller patch
+size compared with stony sites. Mean catch per unit
+effort (CPUE) was used as an estimate of crayfish population
+density (Table 1). Additionally, a scuba diver confirmed
+visually the absence of crayfish at control sites
+during invertebrate sampling.
+Macroinvertebrates were sampled using an ejector
+pump system powered by a high-pressure water pump
+operated on a boat (Tolonen et al., 2001). At stony sites, a
+scuba diver cleaned a framed area of substratum
+(0.25 m2) with a brush, simultaneously sucking up the
+loosened material (containing epi- and infauna) through
+the ejector inlet hose (diameter 80 mm). The material was
+led thorough the ejector outlet hose to a sieve with mesh
+size of 0.5 mm. At the vegetated sites, the area sampled
+(0.24 m2) was delimited by a heavy metal frame with a
+2.5-m-long net (mesh size 0.5 mm) (Tolonen et al., 2001).
+The net, long enough to reach the surface, was laid from a
+boat to enclose all Phragmites stems from bottom to surface.
+Stems inside the net were first agitated vigorously to
+detach invertebrates, and then, all loose material was
+sucked from surface to bottom using a metal funnel
+attached to a thick plastic pipe connected to the ejector
+pump system. At each site, from both habitats, three random
+replicate samples were taken from each depth of 0.5,
+1 and 2 m. In addition, five replicate samples from sublittoral
+soft bottom habitats were taken with an Ekman-grab
+(0.026 m2) at approximately 2 m distance from the outer
+edge of the stony substratum (depth 3.6–8.5 m) at stony
+sites. The invertebrates were preserved in 70% ethanol
+immediately after sampling. In the laboratory, invertebrates
+were sorted from the samples, identified as far as
+possible (usually species or genus, except Chironomidae
+and Oligochaeta) and counted.
+The slope of the shore was determined by measuring
+the horizontal distance from the shore line to 0.5, 1.0, 2.0
+and 3.0 m depth using a laser distance measurer and an
+echo sounder. Slope was calculated as the angle between
+the bed and water surface. A mean calculated over these
+four depths was used as the shore slope for each site.
+The wind-induced disturbance (relative exposure) at
+each shore was calculated from wind and fetch measurements
+according to Brodersen (1995). Relative exposure
+combines the weighted wind fetch, the mean wind
+velocity, wind direction and sampling depth into a single
+index. Mean wind values for the ice-free season
+(May–November) 2006–2008 from the nearest observation
+stations of the Finnish Meteorological Institute were
+used for the calculations.
+At stony sites, substratum particle size at 0.5, 1 and
+2 m depth was estimated from three replicate plots
+enclosed with a metallic frame (0.25 m2) using a modified
+Wentworth scale (Allan, 1995). The percentage cover
+of each size category was estimated visually, and a per-
+centage-weighted average of the midpoints of the category
+ranges was calculated for each replicate plot and
+then averaged for the depth.
+Periphyton samples were taken at stony sites from
+three depth zones (0.5, 1.0 and 2.0 m) at each site. From
+each depth, one pooled sample (total area of 48.1 cm2)
+was taken consisting of five random subsamples collected
+from flat stone surfaces using a brush sampler
+(Meril€ainen, Kokko & J€arvinen, 1987). Each sample was
+filtered onto a glass fibre filter and frozen. In the laboratory,
+chlorophyll-a was analysed according to Finnish
+standard SFS 5772. The amount of chlorophyll-a
+(mg m"2) was used to represent abundance of periphyton
+at each site and depth.
+Statistical analyses
+The differences in mean density of all taxa, the density
+of snails and taxon richness between crayfish and
+non-crayfish sites were tested separately for stony and
+vegetated habitats with a linear mixed effects split-plot
+model using the lme-function in R (Bates, Maechler &
+Dai, 2008). Crayfish status, depth and lake were used as
+fixed factors and site as a random factor to block
+measured variables within each site in the model. When
+analysis indicated significant interaction effect, a pairwise
+post hoc analysis of interactions was conducted for
+cell means obtained from the initial model in the package
+phia in R. We analysed the effect of crayfish on the
+sublittoral benthos adjacent to the stony sites using
+two-factor ANOVA (crayfish status and lake as the fixed
+factors) separately because of different sampling methods
+and distinct species composition and density as
+compared to the stony and vegetated sites. Density and
+taxon richness of snails were not analysed separately for
+the sublittoral habitat, due to the large number of zero
+values in the samples. The effect of crayfish on the
+amount of periphyton (chlorophyll-a) was tested with
+data collected from three depths at each stony site, using
+a similar split-plot design as described above for macroinvertebrate
+density and taxon richness. In all cases,
+only significant interactions were reported. Normality
+and homogeneity of the variables tested were checked
+visually by boxplots and residual plots, and data were
+square root-transformed if needed. All analyses of variance
+and mixed effect models were performed with R
+(R Development Core Team, 2009).
+Patterns in the macroinvertebrate and snail assemblage
+compositions between crayfish and non-crayfish
+sites were examined and illustrated separately for stony
+and vegetated habitats by non-metric multidimensional
+scaling (NMS) ordination, using Bray–Curtis distance
+measure and transformed [log(x + 1)] macroinvertebrate
+taxa mean density (m2) data for the three depths at each
+site. Ekman-grab samples were excluded from the analysis
+because this method clearly collected fever taxa and
+individuals than other methods. Separate solutions (50
+runs with real data and randomised data with random
+starting point) were run for both lakes and habitats. To
+reveal the impact of environmental factors on community
+composition, solution axes were correlated with a
+secondary matrix containing environmental variables
+which are known to shape macroinvertebrate assemblages
+in large lakes (Table 1). To confirm visual interpretation
+of NMS ordination results, differences in
+community composition between crayfish and non-crayfish
+sites were tested with Multi-Response Permutation
+Procedures (MRPP). Community composition analysis
+was continued with the indicator species analysis (ISA)
+(Dufr^ene & Legendre, 1997) to recognise taxa that were
+characteristic of either crayfish or non-crayfish sites. ISA
+was conducted separately for the two lakes and habitats
+using transformed [log(x + 1)] density data. The significance
+of indicator values was tested with 4999 permutations
+in the Monte Carlo tests. NMS, MRPP and ISA
+were performed with PC-ORD 5.0. software (MjM
+Software, Gleneden Beach, OR, U.S.A.).
+
+
+xresults
+At stony littoral sites, the mean density of all macroinvertebrates
+did not differ between crayfish and non-crayfish
+sites (F = 0.01, d.f. = 1, P = 0.99) or between depth zones
+(F = 1.76, d.f. = 2, P = 0.19) (Fig. 2a). However, macroinvertebrates
+were more numerous at stony sites in Saimaa
+than in P€aij€anne (F = 13.51, d.f. = 1, P < 0.01) (Fig. 2a).
+Similarly, at vegetated sites, the mean density did not
+differ between crayfish and non-crayfish sites (Fig. 2b)
+(F = 0.74, d.f. = 1, P = 0.41), or between depths (F = 1.96,
+d.f. = 2, P = 0.16), and mean density was again higher in
+Saimaa (F = 6.74, d.f. = 1, P = 0.02).
+The overall mean snail density was higher on stony
+shores without crayfish (F = 4.95, d.f. = 1, P = 0.04) and
+again higher in Saimaa (F = 14.30, d.f. = 2, P < 0.01)
+(Fig. 2c). Depth did not show a clear main effect on snail
+density (F = 2.62, d.f. = 2, P = 0.09), but there was a significant
+interaction between depth and lake (F = 3.71,
+d.f. = 2, P = 0.04), suggesting that depth had a different
+effect on snail density in the two lakes. Pairwise post hoc
+comparisons (all P-values <0.01) showed that mean snail
+density was significantly higher in Saimaa in all depths
+than in P€aij€anne. Snail density at vegetated sites did not
+differ overall between crayfish and non-crayfish sites
+(F = 0.37, d.f. = 1, P = 0.55) or depths (F = 1.45, d.f. = 2,
+P = 0.25), but was higher in Saimaa (F = 6.74, d.f. = 1,
+P = 0.02) (Fig. 2d).
+At stony sites, overall mean taxon richness was
+higher at sites without crayfish (F = 7.55, d.f. = 1,
+P = 0.01) (Fig. 3a), but a significant interaction between
+crayfish status and depth (F = 5.53, d.f. = 2, P < 0.01)
+suggested that the effect of crayfish on taxon richness
+was related to depth. Pairwise comparisons showed
+that taxon richness was significantly lower at crayfish
+sites at 2 m depth (P < 0.01) and nearly so at 0.5 m
+(P = 0.06). Overall taxon richness was higher in Saimaa
+than in P€aij€anne (F = 9.39, d.f. = 1, P < 0.01), and there
+was an interaction between lake and depth (F = 7.44,
+d.f. = 2, P < 0.01). Pairwise analysis showed that taxon
+richness in Saimaa was higher at 0.5 m (P < 0.01) and
+1 m (P < 0.01) depths than in P€aij€anne. At 2 m, taxon
+richness was similar in both lakes (P = 0.37). At vegetated
+sites, the mean number of taxa did not differ
+with the presence or absence of crayfish (F = 0.03,
+d.f. = 1, P = 0.86) or among depths (F = 0.18, d.f. = 2,
+P = 0.83) (Fig. 3b). However, there were more taxa at
+vegetated sites in Saimaa (F = 9.73, d.f. = 1, P < 0.01)
+than in P€aij€anne.
+Taxon richness of snails showed a similar pattern, with
+stony sites without crayfish having more taxa overall than
+sites with crayfish (F = 7.29, d.f. = 1, P = 0.02) (Fig. 3c).
+The model showed no significant main effect of depth
+(F = 2.10, d.f. = 2, P = 0.13) or lake on taxon richness
+(F = 0.85, d.f. = 1, P = 0.37), although interactions
+between crayfish status and depth (F = 9.98, d.f. = 2,
+P < 0.01), and between depth and lake (F = 7.39, d.f. = 2,
+P < 0.01), were significant. When comparing crayfish and
+non-crayfish sites, snail taxon richness was significantly
+lower only at 2 m depth (P < 0.01). Pairwise analysis also
+showed that taxon richness was similar between all
+depths when compared between lakes (all P > 0.27),
+although in Saimaa, snail taxon richness was lower at 2 m
+depth than at 0.5 or 1 m. At vegetated sites, snail taxon
+richness was similar between non-crayfish and crayfish
+sites (F = 0.71, d.f. = 1, P = 0.41) as well as between
+depths (F = 1.54, d.f. = 2, P = 0.23) and lakes (F = 1.97,
+d.f. = 2, P = 0.18) (Fig. 3d).
+Mean invertebrate density in the sublittoral zone was
+similar between non-crayfish and crayfish sites (F = 0.71,
+d.f. = 1, P = 0.41) (Fig. 2a), but, in contrast to stony and
+vegetated habitats, density was higher in P€aij€anne
+(F = 7.19, d.f. = 1, P = 0.02). Taxon richness in the sublittoral
+was similar (F = 0.02, d.f. = 1, P = 0.88) between
+non-crayfish (mean: P€aij€anne 8.0; Saimaa 6.4) and crayfish
+sites (mean: P€aij€anne 8.0; Saimaa 7.2) as well as
+between lakes (F = 1.13, d.f. = 1, P = 0.30).
+At stony sites, three-dimensional solutions (P€aij€anne:
+final stress = 11.5; Saimaa: final stress = 11.2) in the
+NMS ordination analysis best described the variation
+in macroinvertebrate community composition in both
+lakes. Sites were clustered according to crayfish status
+across axes 2 and 3 in P€aij€anne and axes 1 and 3 in
+Saimaa (Fig 4a,b). From the measured environmental
+factors (Table 1), relative exposure showed the strongest
+correlation with axis 2 in P€aij€anne (r = 0.56) and
+with axis 3 scores (r = 0.54) in Saimaa (Fig. 4a,b).
+Multi-response Permutation Procedures (MRPP) confirmed
+compositional differences between stony crayfish
+and non-crayfish sites in both lakes (P€aij€anne
+A = 0.037, P = 0.0008; Saimaa: A = 0.056, P = 0.00001).
+In contrast, the vegetated sites were not clustered
+according to crayfish status in the NMS ordinations
+(P€aij€anne final stress = 14.3; Saimaa: final stress = 11.01;
+Fig. 4c,d). Nor did MRPP results suggest any significant
+differences in community composition between
+crayfish and non-crayfish sites (P€aij€anne: A = 0.007,
+P = 0.12; Saimaa: A = 0.013, P = 0.07). In both lakes,
+shore slope (P€aij€anne r = 0.71, Saimaa r = "0.45) and
+relative exposure (P€aij€anne r = 0.54; Saimaa r = "0.59)
+correlated with NMS-solution axes (Fig. 4c,d).
+In both lakes, snail assemblages at stony sites clustered
+clearly according to crayfish status in the NMS
+solutions (P€aij€anne, three-dimensional solution, final
+stress = 10.2; Saimaa: two-dimensional solution, final
+stress = 13.5) (Fig 5a,b), and MRPP results confirmed a
+significant difference between crayfish and non-crayfish
+sites (P€aij€anne: A = 0.07, P = 0.0007; Saimaa: A = 0.09,
+P < 0.0001). At vegetated sites, two-dimensional solutions
+described snail community composition in both
+lakes (Final stress, P€aij€anne = 20.95, Saimaa = 22.0), and
+no evident aggregation according to crayfish status was
+noticeable (Fig. 5c,d), as also suggested by the MRPP
+results (P€aij€anne: A = 0.019, P = 0.056; Saimaa: A =
+0.009, P = 0.18). In Saimaa, relative exposure (r = "0.54)
+correlated with NMS-solution axes.
+Indicator species analysis revealed several significant
+indicator taxa for stony sites without crayfish in both
+lakes (Table 2). Characteristic taxa of such sites
+included snails (Gastropoda), aquatic beetles (Coleoptera)
+and caddisflies (Trichoptera). In Saimaa, three
+leeches (Hirudinea) also had high indicator values. Typical
+taxa at stony sites with crayfish were nectonic bugs
+(Micronectinae sp.) in Saimaa, and swimming mayflies
+from the family Leptophlebiidae and a net spinning
+caddisfly Polycentropus flavomaculatus in P€aij€anne. Overall,
+analysis revealed fewer taxa with significant indicator
+value for vegetated sites (Table 2). At crayfish sites
+in Saimaa, six taxa had significant indicator value
+(Table 2), including two mayflies (Caenis horaria, Cloeon
+simile) and aquatic bugs (Micronectinae sp.). Only snails
+(Gyraulus sp.) were indicator taxa of non-crayfish sites
+in Saimaa, while, in P€aij€anne, Nematoda had significant
+indicator value. As at crayfish stony sites, Polycentropus
+flavomaculatus had significant indicator value at vegetated
+sites in P€aij€anne.
+The amount of periphyton at stony sites was similar
+with and without crayfish (F = 0.38, d.f. = 1, P = 0.54)
+(Table 1) and did not vary with depth (F = 2.04, d.f. = 1,
+P = 0.16). However, in Saimaa, the mean biomass was
+clearly higher than in P€aij€anne (F = 10.86, d.f. = 1,
+P < 0.01) (Table 1).
+
+xdiscussion
+A number of studies have clearly demonstrated detrimental
+effects of several non-native crayfish species on
+native biota (Nystr€om, 1999; Lodge et al., 2000; Gherardi
+et al., 2011). Nevertheless, most studies of their effects
+on macroinvertebrates in lakes have been small-scale
+experiments, using mesocosms or other manipulations
+(see review in McCarthy et al., 2006), in which experi-
+mental artefacts are particularly likely. Hence, direct
+extrapolation of small-scale studies to nature, with
+greater spatial scale and more complex environmental
+settings, could be misleading (Lodge et al., 1998). Here,
+we combined examination of different habitats and the
+influence of environmental factors to achieve a more
+realistic picture of effects of non-native crayfish in lakes.
+Our finding that macroinvertebrate taxon richness,
+and snail density and taxon richness were lower at stony
+sites with crayfish was expected on the basis of previous
+works. Overall taxon richness at stony sites was, on
+average, 10 taxa (16%) lower at sites with crayfish and
+was linked to the loss of snail taxa. Several experimental
+studies have shown that crayfish decrease the density of
+snails very effectively (Nystr€om et al., 1999; McCarthy
+et al., 2006; Gherardi & Acquistapace, 2007). Wilson et al.
+(2004) showed with long-term data that snail densities
+decreased drastically in a small lake following the
+appearance of an invasive crayfish (Orconectes rusticus).
+Nilsson et al. (2012) also found a clear negative relationship
+between invasive crayfish (O. rusticus) abundance
+and macroinvertebrate density and species richness in a
+survey of 10 lakes. Thus, our result that overall invertebrate
+density was not affected by crayfish at stony sites
+refuted our hypothesis and conflicted with previous
+findings. Nevertheless, community composition analysis
+(NMS & MRPP) did show consistent differences between
+crayfish and non-crayfish sites in both our study lakes,
+indicating an effect of crayfish on assemblage structure
+in stony littoral areas.
+However, our results indicate that effects of crayfish
+on all taxa and on snail taxon richness were related to
+depth, being most evident at 2 m. The selected stony
+sites were open shores and exposed to heavy wave
+action during the ice-free season (May–November), and
+this factor is known to affect the structure of
+macroinvertebrate assemblages (Tolonen et al., 2001).
+Crayfish may also avoid the upper littoral due to harsh
+conditions (Abrahamsson & Goldman, 1970), resulting
+in reduced predation pressure there.
+Our finding that macroinvertebrate density, taxon
+richness and species composition at vegetated sites were
+similar with and without crayfish suggests that signal
+crayfish do not strongly affect macroinvertebrate assemblages,
+or even snails, on the shores of large boreal lakes
+dominated by Phragmites. Previous studies of signal
+crayfish invasions have shown a strict habitat preference
+for stony sites (Westman et al., 2002; Nystr€om et al.,
+2006). The fairly high crayfish density at vegetated sites
+(Table 1) indicates that crayfish do inhabit vegetated
+areas in these lakes. However, crayfish abundance at
+vegetated areas was on average less than half (45%) of
+that at stony sites, suggesting lesser crayfish predation
+at vegetated areas. Dense macrophytes may also physically
+inhibit crayfish movements (Hessen, Skurdal &
+Braathen, 2004), which could decrease crayfish predation
+efficiency. The complex habitats created by dense
+Phragmites stems also provides habitat in the vertical
+dimension and thereby potential refugia for prey. For
+instance, snails are the most vulnerable group for crayfish
+predation, yet show anti-predator behaviour and
+could avoid predators by moving up to Phragmites stems
+(Nystr€om & Perez, 1998; Turner et al., 2000).
+Signal crayfish can move considerable distances of
+10–100 s of metres per day (Bubb et al., 2004) and also
+can forage in deeper water (Ruokonen et al., 2012b).
+Therefore, their effects could also be expected in deeper
+sublittoral areas, close to the densely populated stony
+shallows. However, our finding that mean invertebrate
+density and taxon richness were not different in
+sublittoral area adjacent to stony sites with and without
+crayfish suggests that the signal crayfish does not affect
+macroinvertebrates in deep water. Macroinvertebrate
+density was low in the sublittoral and assemblages were
+dominated by small-bodied taxa such as Oligochaeta
+and Chironomidae, which live mainly within the substratum
+(as ‘in fauna’). Therefore, their vulnerability to
+crayfish predation and value as prey could be low, as
+Nystr€om et al. (1999) suggested. However, because we
+did not identify these dominant sublittoral groups to
+species, we cannot draw conclusions about possible
+crayfish effects on taxon richness or species composition.
+Nystr€om et al. (1999) concluded that any effect of crayfish
+could be taxon specific and depend, for example, on
+the activity of prey. Direct predation is supposed to be
+among the most important mechanisms for the effects of
+crayfish on the benthos (McCarthy et al., 2006). We also
+suggest that predation was one of the most likely reasons
+for the differences detected between stony sites with and
+without crayfish. Snails were clearly affected in terms of
+overall density and taxon richness. Furthermore, the
+snail assemblages at crayfish sites were dominated by
+hard shelled spherical species (e.g. P. planorbis, Valvata
+spp., A. crista) which are probably less vulnerable to
+crayfish predation (Alexander & Covich, 1991; but see
+Kreps, Baldridge & Lodge, 2012). Our finding that indicators
+of crayfish presence included taxa which are active
+swimmers (mayflies, aquatic bugs; Jansson, 1996; Merrit
+& Cummins, 1996) supports our view about the importance
+of direct predation. Our previous finding that
+signal crayfish at stony shores in these lakes predominantly
+feed on benthic invertebrates (Ruokonen et al.,
+2012a,b) also supports a direct feeding effect.
+In addition to direct predatory effects on the invertebrate
+benthos, invasive crayfish have several potential
+indirect effects, which could offer alternative explanations
+for our results. Crayfish could change the relationships
+and behaviour of native predators and prey (Nystr€om
+et al., 2001). At stony shores, several predatory species
+(the leeches Glossiphonia complanata, Helobdella stagnalis
+and Erpobdella octoculata L., the stonefly Diura bicaudata
+and the dragonfly Somatochlora metallica) were indicators
+of crayfish absence. For example, leeches (Br€onmark,
+1992) and dragonflies (Turner & Chislock, 2007) prey on
+snails, so decreased prey availability could decrease their
+performance or change their spatial distribution. The riffle
+beetles Normandia nitens and Oulinmnius tuberculatus were
+indicators of a lack of crayfish at stony sites in both lakes,
+indicating that they might be excluded by crayfish.
+Detailed knowledge of the ecology and behaviour of riffle
+beetles is still lacking (Elliot, 2008), although they have
+been noted to be very sensitive to various disturbances in
+the environment (Aroviita & H€am€al€ainen, 2008; Elliot,
+2008), apparently including the introduction of a crayfish
+to a previously naive system.
+Several experimental studies have reported that the
+reduction of snail grazers by crayfish has resulted in a
+clear increase in periphyton biomass via a trophic cascade
+(Weber & Lodge, 1990; Lodge et al., 1994; Nystr€om
+et al., 1999, 2001). We found a similar periphyton biomass
+at stony sites with and without crayfish in both
+study lakes and at all depths, regardless of differences
+in snail density. This could have several explanations.
+Firstly, perhaps grazing by snails is unimportant in
+these large boreal lakes. Secondly, other grazers, such as
+the mobile mayflies, might benefit from the reduction in
+snails and replace them. However, our data do not show
+any clear evidence for this ‘grazer replacement’
+hypothesis. Thirdly, crayfish are omnivorous and could
+simply feed directly on periphyton (Nystr€om & Strand,
+1996; Gherardi & Lazzara, 2006), thereby preventing a
+cascading effect. In fact, we observed high variation in
+periphyton biomass among sites, especially in Saimaa
+(Table 1), which could obscure detection of any simple
+interaction between crayfish and periphyton. Nevertheless,
+since we measured only periphyton biomass, we
+cannot exclude the possibility that algal species
+composition was influenced by signal crayfish, for example
+by direct grazing, as has been found for other crayfish
+species (Dorn & Wojdak, 2004; Gherardi & Lazzara,
+2006).
+The factors structuring the littoral macroinvertebrate
+benthos form a complex network of abiotic and biotic
+interactions (Tolonen et al., 2001; Johnson & Goedkoop,
+2002; Holomuzki, Feminella & Power, 2010), which
+might mask or be confounded with the effect of crayfish.
+The correlation between macroinvertebrate species composition
+and slope and relative exposure of the shore
+indicated that those environmental factors are influential
+in both stony and vegetated habitats. However, the
+directions of these environmental correlations did not
+coincide with the crayfish status and associated compositional
+difference (Fig 4a,b), suggesting that the apparent
+effects of crayfish cannot be explained by differences
+in abiotic habitat features between sites with and without
+crayfish. Predation by fish is one important factor
+shaping macroinvertebrate assemblages (e.g. Diehl,
+1992). However, the species composition and density of
+benthic fish were similar across sites with and without
+crayfish (Ruokonen et al., 2012a,b), and hence, we infer
+that the effects of fish on macroinvertebrates were probably
+similar among our study sites.
+The density (CPUE) of larger (<60 mm total length) signal
+crayfish (Table 1) at stony sites was relatively high,
+compared with records from other Finnish lakes, and
+reflect the present general status of crayfish in large Finnish
+lakes (Erkamo et al., 2010). Although the abundances
+observed were within the range found for the signal crayfish
+in other Scandinavian lakes (e.g. Nystr€om et al., 2006),
+those were clearly lower than typically reported for other
+non-native crayfish elsewhere. For example, McCarthy
+et al. (2006) and Nilsson et al. (2012) reported 10-fold
+greater abundances for rusty crayfish at invaded lakes in
+North American temperate lakes. This lower abundance
+of crayfish in our boreal lakes is likely to be one reason
+why effects on invertebrates density and periphyton
+biomass, as well as on benthic fish (Ruokonen et al.,
+2012a,b), were less evident than reported previously.
+Our results increase the evidence that invasive crayfish
+can exert great harm on native biota across different
+waterbodies and emphasise the importance of further
+research to understand the responses in different habitats.
+Even the relatively small effects on invertebrate
+assemblages documented here might have significant
+implications. For instance, the decreased abundance of
+snails and some other invertebrates is reflected in the
+fish parasite communities (Pulkkinen et al., 2013).
+Several recent reviews have emphasised the challenges
+and priorities for freshwater conservation to maintain
+biodiversity and ecosystem processes (Dudgeon et al.,
+2006; Strayer & Dudgeon, 2010). Regardless of welldocumented
+negative effects of invasive crayfish on
+native biota, their rapid spread continues (e.g. Holdich
+et al., 2009). Management of non-native crayfish that are
+already established is difficult or even impossible (Holdich
+et al., 2009; Gherardi et al., 2011). Hence, the focus
+should be placed on the prevention of further crayfish
+invasions, in particular to waterbodies harbouring rare
+or protected species.

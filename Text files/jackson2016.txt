@@ -1,0 +1,460 @@
+xabstract
+1. Invasive species are a key driver of global environmental change, with frequently strong
+negative consequences for native biodiversity and ecosystem processes. Understanding competitive
+interactions between invaders and functionally similar native species provides an
+important benchmark for predicting the consequences of invasion. However, even though
+having a broad dietary niche is widely considered a key factor determining invasion success,
+little is known about the effects of competition with functionally similar native competitors
+on the dietary niche breadths of invasive species.
+2. We used a combination of field experiments and field surveys to examine the impacts of
+competition with a functionally similar native crab species on the population densities, growth
+rates and diet of the globally widespread invasive red swamp crayfish in an African river
+ecosystem.
+3. The presence of native crabs triggered significant dietary niche constriction within the invasive
+crayfish population. Further, growth rates of both species were reduced significantly, and
+by a similar extent, in the presence of one another. In spite of this, crayfish maintained positive
+growth rates in the presence of crabs, whereas crabs lost mass in the presence of crayfish.
+Consequently, over the 3-year duration of the study, crab abundance declined at those sites
+invaded by the crayfish, becoming locally extinct at one.
+4. The invasive crayfish had a dramatic effect on ecosystem structure and functioning, halving
+benthic invertebrate densities and increasing decomposition rates fourfold compared to
+the crabs. This indicates that replacement of native crabs by invasive crayfish likely alters the
+structure and functioning of African river ecosystems significantly.
+5. This study provides a novel example of the constriction of the dietary niche of a successful
+invasive population in the presence of competition from a functionally similar native species.
+This finding highlights the importance of considering both environmental and ecolo
+xintroduction
+The increasingly rapid spread of biological invaders in recent
+decades (e.g. Ricciardi 2006; Jackson & Grey 2013) is a key
+driver of global environmental change with major implications
+for biodiversity and ecosystem functioning (Chapin
+et al. 2000; Gurevitch & Padilla 2004; Pejchar & Mooney
+2009). Invasive species can have dramatic and often irreversible
+effects on ecosystem services, frequently with considerable
+economic Walsh, Carpenter & Vander Zanden 2016), particularly in
+aquatic ecosystems, which tend to be especially susceptible
+(Rahel & Olden 2008). They can change fundamental ecological
+processes from the level of the individual to the whole
+ecosystem (Peltzer et al. 2010; Penk, Irvine & Donohue
+2015; Penk et al. 2016) and frequently alter the distribution
+of native species via a range of competitive interactions, predation
+pressure and/or habitat degradation (Mack et al.
+2000; Simon & Townsend 2003; Hooper et al. 2005). Classic
+invasion theory (Elton 1958) predicts that a successful invader
+can establish itself in an unoccupied niche or displace
+similar native species by overlapping their niche and eventually
+out-competing them for limited resources. Having a generalist
+diet is a common trait of successful invaders, allowing
+them to opportunistically exploit diverse resources in novel
+environments and competitively exclude native species (Snyder
+& Evans 2006). Hence, the decline of native species following
+an invasion is often a consequence of direct
+interspecific competition for resources (e.g. Porter & Savignano
+1990; Olsson et al. 2009).
+Classic niche theory predicts that species occupy a larger
+niche in the absence of interspecific competition
+(Hutchinson 1957; Van Valen 1965). Hence, competing
+invasive and native species would be expected to occupy
+smaller niches than their allopatric counterparts (Bolnick
+et al. 2010). However, increased competition for resources
+might necessitate an increase in dietary niche breadth in
+order to maintain energy requirements (SvanbÄack & Bolnick
+2007). Empirical evidence indicates that interspecific
+competition can cause the niche widths of consumers to
+increase or decrease depending on the context but the reason
+for this variation is still unclear (Araujo, Bolnick &
+Layman 2011). Despite these apparently contradictory
+processes (Araujo, Bolnick & Layman 2011), the dietary
+niche breadth of invasive and native competitors has
+rarely been examined, even though it is likely a key factor
+in determining invasion success and predicting impacts of
+invaders on biodiversity (e.g. Jackson & Britton 2013;
+Penk, Irvine & Donohue 2015).
+Some of the most destructive freshwater invaders are
+crayfish (Lodge et al. 2012), which can alter ecosystem
+structure and processes by, for example, homogenizing biotic
+assemblages and altering rates of both primary production
+and decomposition (Stenroth & NystrÄom 2003; Renai
+& Gherardi 2004; Gherardi & Acquistapace 2007; Jackson
+et al. 2014). Ecologists have yet to examine fully the range
+of mechanisms underpinning the impacts of invasive crayfish
+on ecosystem structure and functioning (Lodge et al.
+2012). The red swamp crayfish (Procambarus clarkii) is a
+particularly important invader due to its global distribution
+(Capinha, Leung & Anastacio 2011) and the severe
+impacts it has on ecosystems (Klose & Cooper 2012;
+Jackson et al. 2014). In the 1960s, the species was introduced
+to multiple locations throughout East Africa for
+aquaculture (Harper et al. 2002), where its effects remain
+largely unknown. This widespread introduction of crayfish
+in the region has led to encroachment on the range of
+many native freshwater crab species, several of which are
+endangered and endemic (Cumberlidge et al. 2009).
+Indeed, crayfish have replaced crabs as the primary food
+source of African clawless otters in some Kenyan rivers
+(Ogada 2006), providing indirect evidence that they are
+becoming more abundant and out-competing crabs. Crabs
+and crayfish are both benthic omnivores with similar feeding
+mechanisms. They frequently occupy similar functional
+roles as shredders driving detrital processing (NystrÄom,
+Bronmark & Graneli 1996; Dudgeon 1999; Dobson et al.
+2002; Lancaster et al. 2008) and, consequently, the introduced
+crayfish might be expected to be functionally redundant
+(sensu Naeem 1998). However, even morphologically
+similar species can vary significantly in their effects on
+ecosystems (OíConnor & Bruno 2007; Matthews et al.
+2011; Jackson et al. 2014; Penk, Irvine & Donohue 2015).
+Furthermore, highly invasive species tend to be more voracious
+than their native counterparts (Haddaway et al.
+2012; Alexander et al. 2014), implying that red swamp
+crayfish could cause considerable alteration to ecosystem
+structure and processes were they to replace native crabs.
+Using a combination of field experiments and surveys,
+we examined interactions between the globally widespread
+invasive red swamp crayfish and a native crab, Potamonautes
+loveni, and compared their impacts on the structure
+and functioning of a Kenyan river ecosystem. We quantified
+dietary niche breadth in experimental and natural
+populations of both species in allopatry and sympatry by
+analysis of carbon and nitrogen stable isotopes from muscle
+tissue, which provides information on dietary preferences
+integrated over time. We then obtained quantitative
+measures of total foraging niche space at the population
+level using methods that incorporate individual variation
+of stable isotope ratios (Layman et al. 2007a; Newsome
+et al. 2007; Jackson et al. 2011). We hypothesized that (i)
+the invasive crayfish has stronger per capita effects on
+ecosystem structure and functioning than the native crab
+and (ii) the invasive crayfish and native crabs will have a
+larger niche breadth when present together.
+xmethods
+The River Malewa is the primary tributary of Lake Naivasha
+(catchment area 1750 km2) in Kenyaís Rift Valley in East Africa.
+Red swamp crayfish were introduced to Lake Naivasha in 1970
+and subsequently spread throughout the catchment as a result of
+further introductions and natural dispersal, leading to their intrusion
+upon the range of a native river crab, P. loveni (Foster &
+Harper 2007). The native range of P. loveni extends from Eastern
+Kenya into Western Uganda (Cumberlidge 2008).river temperatures (15ñ20 ∞C; Fantle et al. 1999; Fry et al. 2003;
+McIntyre & Flecker 2006). We also collected epilithic algae,
+macrophytes, detritus and dominant benthic invertebrate species
+from the experimental location for stable isotope analysis. All tissue
+samples were oven-dried at 60 ∞C, ground using an agate pestle
+and mortar and 06ñ10 mg weighed into 6 9 4 mm tin cups
+using a microbalance. Stable carbon and nitrogen isotope analyses
+were carried out using an elemental analyser (Flash EA 1112
+series; Thermo-Finnigan, Waltham, MA, USA) coupled to a continuous
+flow isotope ratio mass spectrometer (Finnigan MAT
+DeltaPlus; Thermo-Finnigan). Secondary standards (sucrose for
+carbon; ammonium sulphate for nitrogen) with known relation to
+international standards (Pee Dee Belemnite for carbon; nitrogen
+in air for nitrogen) were used as reference materials. Cyclohaxonone-
+2,4-Dinitrophemylhydrazone was used as an internal standard
+and resulted in typical precision of < 01& for carbon and
+< 03% for nitrogen.
+Finally, upon completion of the first field experiment, the guts
+were dissected from 5 randomly selected individual crayfish from
+each treatment and stored in 50% ethanol. A Novex Holland
+Microscope (Euromex Microscopen BV, Arnhem, the Netherlands)
+at 910 magnification was then used to separate vegetation
+and invertebrate contents before drying to constant weight to calculate
+the relative proportion of plant to animal material ingested
+by each individual.
+field surveys
+We examined the distribution of both crabs and crayfish at four
+sites in the River Malewa, located approximately 10, 30, 35 and
+40 km upstream of Lake Naivasha, in 2008, 2009 and 2010. We
+quantified the abundance of adult crayfish and crabs on 3ñ8
+occasions at each site in each year over a 6-week period, using a
+series of crayfish traps of 5 mm mesh, baited with fish pellets and
+left for between 1 and 2 h. All crayfish and/or crabs were
+removed and counted, and we used the catch per unit effort
+(CPUE; number of individuals per trap per hour) to quantify relative
+abundance among sites. Samples (n = 6ñ18) of a selected
+common size range of crabs (26ñ35 mm carapace width) and
+crayfish (31ñ45 mm carapace length) from all sites on all sampling
+occasions were prepared for stable isotope analysis as
+described previously. Epilithic algae, macrophytes, detritus and
+dominant benthic invertebrate species were also collected from all
+the sites for subsequent stable isotope analysis.
+data analyses
+We used analysis of variance (ANOVA) to test for independent and
+combined effects of crayfish and crabs on algal biomass, rates of
+leaf litter breakdown, trophic niche widths (see below), total
+invertebrate abundance and invertebrate taxon richness. We measured
+leaf litter breakdown in both field experiments (Table 1)
+and tested for differences between experiments by incorporating
+experiment number as an additional random factor. There was
+no difference between the two experiments, and this random
+effect was then removed to maximize the power of the subsequent
+analysis. The Tukeyís procedure was used to make post hoc comparisons
+among levels of significant terms. We used permutational
+multivariate analysis of variance (PERMANOVA; Anderson,
+Gorley & Clarke 2008) to test for effects of our experimental
+manipulations on the structure of invertebrate assemblages using
+the PERMANOVA+ add-in to PRIMER
+ version 6.1 (PRIMER-E Ltd,
+Plymouth, UK). These analyses were performed with 9999 permutations
+of the residuals under a reduced model (McArdle &
+Anderson 2001; Anderson, Gorley & Clarke 2008) and were
+based on BrayñCurtis similarity matrices calculated from log
+(X + 1)-transformed abundance data. Similarity percentages
+(SIMPER; Clark & Warwick 2001) analysis was used to determine
+the contribution of each benthic invertebrate taxon to the
+pairwise BrayñCurtis dissimilarities between experimental treatments.
+All analyses were balanced and variables were transformed
+where necessary prior to analysis to homogenize
+variances.
+The stable isotope-derived population metrics of carbon range
+(CRb) and nitrogen range (NRb) were used as measures of the
+trophic niche width of crabs and crayfish (Layman et al. 2007b;
+Jackson et al. 2012) in both the field experiments and field surveys.
+CRb and NRb were calculated as the Euclidean distance
+between the individuals with the lowest and highest d13C and
+d15N, respectively, and therefore reflect the total range of isotopic
+space used by a group of organisms. To enable comparison
+among variables and to account for small sample sizes, the metrics
+were bootstrapped (n = 10 000; indicated with a subscript ëbí)
+based on the minimum sample sizes (2 individuals in the field
+experiment [in the enclosures containing 2 crabs and 2 crayfish ñ
+each measurement was therefore replicated independently five
+times (Table 1)] and 6 individuals in the field surveys [at field
+sites with declining crab numbers]). We then used ANOVA to test
+for differences in the trophic niche width of crayfish and crabs
+when together and apart in the field experiment. However, given
+that one of our experimental treatments contained no crayfish or
+crabs, and could not therefore provide measurements of trophic
+niche widths of either species, our statistical model testing for differences
+in trophic niche width comprised two fixed factors: species
+(two levels: crabs and crayfish) and the presence of
+interspecific competition with a functionally similar species (two
+levels: competition and no competition). For the field survey
+data, we tested for correlations between our metrics of trophic
+niche width of each species and the corresponding CPUE of its
+functionally similar competitor. To ensure comparability in the
+isotopic data among survey sites and years, we used PERMANOVA
+to test for any effect of site or year on the stable isotopic signature
+of putative resources (biofilm, macrophytes, detritus and
+dominant invertebrate taxa). We found similar stable isotope values
+of putative resources both among survey sites and years
+(Table S1), indicating that any differences in trophic niche width
+between crayfish and crabs were attributable to actual dietary
+variation.
+xresults
+There was a significant interaction between the presence
+of crayfish and crab on rates of leaf litter breakdown
+(ANOVA; F1,36 = 1266, P = 0001). Rates of breakdown
+were significantly higher in the cages containing only crayfish
+compared with those containing none of the manipulated
+consumers (control treatment). In contrast, cages
+containing crabs were similar to those in the control treatment,
+while cages containing both crayfish and crabs had intermediate effect on breakdown rates (Fig. 1). The latter
+result indicates that the presence of crabs did not alter the
+per capita effects of crayfish on leaf litter breakdown
+rates. Neither crabs nor crayfish affected the standing
+stock of epilithic algae.
+Crayfish reduced the density of benthic invertebrates
+(ANOVA, F1,16 = 939, P = 0007, Fig. 2) and altered their
+multivariate structure significantly (PERMANOVA; pseudo-
+F1,17 = 605, P = 0004). The latter result was driven primarily
+by reductions in the density of hydropsychid caddis
+flies (Trichoptera) together with an increase in the
+density of oligochaete worms (Table 2). In contrast, crabs
+had no effect on the density or multivariate structure of
+benthic invertebrate assemblages. However, both crabs
+and crayfish reduced the taxon richness of benthic invertebrates
+significantly, irrespective of the presence or absence
+of the other decapod consumer species (ANOVA; crayfish:
+F1,16 = 676, P = 0019; crabs: F1,16 = 484, P = 0043;
+Fig. 2).
+The nitrogen range (NRb) of both crabs and crayfish
+was reduced significantly in the presence of the other
+functionally similar species (ANOVA; F1,17 = 464,
+P = 0046; Fig. 3a). There was, however, no effect of the
+presence of crab or crayfish on the carbon range (CRb;
+Fig. 3b) of the other species. Gut content analysis
+revealed that the relative contribution of animal and plant
+material to the diet of crayfish did not change in the presence
+of crabs (455  177% and 468  98% animal
+material in sympatric and allopatric populations, respectively).
+Per capita growth rates of both crabs and crayfish were
+reduced significantly by the presence of the other species
+compared with a similar biomass of conspecifics (ANOVA;
+F1,48 = 664, P = 0013; Fig. 4). Both crabs and crayfish
+experienced similar reductions in both absolute (ANOVA;
+species*competition interaction: F1,48 = 0003, P = 096)
+and relative (F1,48 = 002, P = 09) growth rates due to
+the presence of the other species. However, growth rates
+of crayfish were significantly higher than those of crabs
+(F1,48 = 1063, P = 0002). Thus, even though their growth
+rates were reduced significantly in the presence of crabs,
+crayfish still gained significant biomass over the course of
+the experiment. In contrast, crabs generally lost biomass
+when present together with crayfish (Fig. 4).
+field surveys
+Crabs and crayfish were found coexisting at the two middle
+sampling sites (Sites 2 and 3) of the survey for at least
+two of the three study years (Fig. 5). Both sites showed a
+similar trend from 2008 to 2010 of crayfish CPUE
+increasing simultaneously with a decline in crab CPUE.
+In fact, crabs appeared to be locally extinct at Site 2 by
+2010, while the crayfish population was seven times larger
+compared with the previous year. In contrast, only crayfish were present at the most downstream of our survey
+sites, whereas only crabs were found at the most
+upstream location throughout the study period (Fig. 5).
+We found significant inverse correlations between the
+abundance of crabs and both the nitrogen (NRb;
+r11 = 067, P = 0018; Fig. 6a) and carbon (CRb;
+r11 = 080, P = 0002; Fig. 6b) range of crayfish over the
+four sites. However, neither measure of crab trophic niche
+width correlated significantly with the abundance of
+crayfish (CRb: r11 = 054, P = 0071; NRb: r11 = 053,
+P = 0074).
+xdiscussion
+In 1958, Elton proposed that invasive species can outcompete
+similar native competitors by occupying a
+broader niche. This classic mechanism of invasion was
+exemplified recently by Olsson et al. (2009) and Ercoli
+et al. (2014), showing that trophic niche breadth of an
+invasive crayfish (Pacifastacus leniusculus) was double or
+treble that of a native crayfish (Astacus astacus). Indeed,
+it is typically reported that invasive species occupy a
+broad niche and suppress the niche of similar natives (e.g.
+Human & Gordon 1996; Thomson 2004). Conversely, we
+found that competition between invasive crayfish and
+native crabs resulted in reduction in the diet breadth of both species. In our field experiments, the presence of
+interspecific competition between crayfish and crabs
+caused a decline in the nitrogen range of both species and
+our field surveys revealed that both the carbon and nitrogen
+ranges of the invasive crayfish correlated inversely
+with the abundance of crabs. While it has been shown
+that invaders can alter their feeding behaviour in the presence
+of native species (e.g. Harrington et al. 2009), our
+study provides a novel example of the constriction of the
+dietary niche of a successful invasive population in the
+presence of competition from a functionally similar native
+species.
+Invasive species regularly out-compete and reduce the
+growth rate of native species (e.g. Smith 2005; Riley 2009;
+Britton et al. 2011). However, we found strong and
+apparently symmetric interspecific competition, measured
+in terms of biomass change, between the invasive crayfish
+and native crabs. Growth rates of crayfish individuals
+were reduced in the presence of crabs compared to in the
+presence of a similar biomass of conspecifics, implying
+that interspecific competition was significantly greater
+than intraspecific competition. This is consistent with the
+presence of significant interspecific aggression, which we
+observed repeatedly during the study, causing reductions
+in foraging efficiency of both species when present
+together. Such aggressive behaviour between species is frequently
+greater than aggression with conspecifics (Polo-
+Cavia, Lopez & Martin 2011). Even though both absolute
+and relative reductions in growth rates were similar for
+both decapod consumers, crayfish still exhibited positive per capita growth rates in the presence of crabs, whereas
+crabs generally lost mass in the presence of the invasive
+crayfish. This likely contributed to the decline in crab
+abundance at sites invaded by crayfish. Invasive crayfish
+have out-competed native crayfish across North America
+and Europe by triggering similar declines in growth rates
+of natives (Hill & Lodge 1999; Nakata & Goshima 2006;
+Dunn et al. 2009). As far as we are aware, this is the first
+study to test experimentally for interspecific competition
+between native crabs and introduced crayfish, despite
+numerous overlapping populations in both Europe and
+Africa (e.g. Barbaresi & Gherardi 1997; Foster & Harper
+2007; du Preez & Smit 2013).
+As omnivores, crayfish and crabs can survive when a
+resource is limited by shifting their diet to alternative
+resources to compensate (Tillberg et al. 2007; Grey & Jackson
+2012). This is advantageous when exploiting niches
+with novel resources, which may explain the successful
+widespread distribution of some invasive crayfish and crab
+species (Capinha, Leung & Anastacio 2011). Flexibility in
+diet choice does not necessarily imply a wide niche breadth
+because in some scenarios, it may benefit the consumer to
+focus on one abundant but under-used resource (Popa-Lisseanu
+et al. 2007). The observed reduction in crayfish and
+crab diet breadth in the presence of interspecific competition
+could be a result of increased dietary specialization
+and hence a consequent decline in the variation in diet
+choice of individuals (Bolnick et al. 2010). Alternatively,
+the isotopic variability could be reduced due to individuals
+becoming more generalist and therefore reducing the variation
+among the diets of each individual (Bolnick et al.
+2010). Examination of gut contents revealed no significant
+overall shift in the diets of crayfish in the presence of crabs.
+Therefore, that we found significant reductions in the
+trophic niche breadth of crayfish populations in the presence
+of crabs in both the field experiments and field surveys
+indicates that, although the overall dietary preferences of
+crayfish were not altered in the presence of crabs, the individuals
+within the crayfish population were tending to feed
+in a more similar manner. These results were consistent
+across both the field experiments and field surveys, strongly
+supporting the robustness and generality of this finding.
+The presence of the crabs appears to have triggered dietary
+homogenization within the crayfish population. Crabs
+exhibited a significant decline in diet breadth only in the
+experiments and not in the field surveys. This inconsistency
+in results perhaps suggests less flexibility in diet choice of
+crabs compared to the crayfish.
+Since the crayfish and crab species in our study ecosystem
+are both relatively large decapod Crustacea, individuals
+of each of the same biomass might be expected to
+have similar effects on ecosystem structure and functioning.
+Both species are considered important shredders, yet
+invasive crayfish had a considerably greater influence on
+detrital processing in our field experiments, quadrupling
+rates of leaf litter breakdown compared to native crabs.
+Analysis of gut contents demonstrated that this was due
+to direct consumption; indeed, leaf litter is considered to
+be an important part of crayfish diet when available
+(Bobeldyk & Lamberti 2008). Some invasive predators
+consume native shredders, causing a trophic cascade
+whereby leaf litter decomposition is reduced. Crayfish can
+decouple this trophic cascade by feeding directly both on
+shredders and the leaf litter itself (Jackson et al. 2014).
+Previous studies have found that functionally similar
+sympatric crab species can interact to moderate one
+anotherís impact due to consumer redundancy (Griffen &
+Byers 2008). However, we found intermediate leaf litter
+breakdown rates in the combined species treatment in our
+field experiment suggesting there was no consumer interaction,
+as was also found for pairs of crayfish in the United
+Kingdom (Jackson et al. 2014). We also found that the
+invasive crayfish significantly altered benthic community
+structure and approximately halved invertebrate densities
+compared with the native crabs. These latter findings are
+consistent with previous studies on invasive crayfish in Europe
+(Stenroth & NystrÄom 2003; Haddaway et al. 2012;
+Moorhouse et al. 2013). In contrast, native crabs had no
+effect on the structure or density of benthic assemblages,
+which were similar to those in the experimental units containing
+no decapod consumers. In spite of the similarities
+between these decapod crustaceans, results from our field
+experiments suggest that replacement of the native crabs
+by the invasive crayfish will considerably alter both the
+structure and functioning of African river ecosystems.
+Moreover, these shifts in ecosystem structure and functioning
+may even have facilitated indirectly the replacement of
+the native crabs by the crayfish by reducing suitable habitat
+for the crabs (Parker et al. 1999) by, for example, removing
+leaf litter as refugia. Such changes also have the potential
+to alter key ecosystem services such as fishery production
+and water quality, both of which are extremely important
+in this semi-arid region of East Africa. Many river crabs in
+East Africa are already highly endangered (Cumberlidge
+et al. 2009) and local biodiversity will only become increasingly
+impaired as crayfish spread or are introduced further
+in both rivers and lakes (Lodge et al. 2005).
+In contrast to classic invasion theory, here we have
+shown that competition with a native species can drive
+niche constriction in invader populations without impairing
+invasion success. Interactions between native crabs
+and invasive crayfish caused a decline in the dietary niche
+width of both species but this only resulted in a reduction
+in performance in the native crabs. We conclude that both
+environmental context and species interactions need to be
+considered in order to predict invasion potential and the
+impacts of invasive species on ecosystems.

@@ -1,0 +1,1340 @@
+xabstract
+This paper reports on the response by amphibians, benthic macroinvertebrates,
+and zooplankton in naturally fishless alpine lakes to fish introductions and subsequent
+fish disappearance. We assessed resistance (the degree to which a system is altered when
+the environment changes) by comparing faunal distribution and abundance in lakes that
+have never been stocked with fish vs. the distribution and abundance in lakes that have
+been stocked and still contain fish. We assessed resilience (the degree and rate of a system’s
+return to its previous configuration once the perturbation is removed) by comparing faunal
+distribution and abundance in lakes that were stocked at one time but have since reverted
+to a fishless condition (stocked-now-fishless lakes) vs. the distribution and abundance in
+lakes that have never been stocked. We quantified recovery rates and trajectories by comparing
+faunal assemblages of stocked-now-fishless lakes that had been fishless for 5–10,
+11–20, and .20 yr.
+Faunal assemblages in the study lakes had low resistance to fish introductions, but in
+general showed high resilience. The mountain yellow-legged frog (Rana muscosa), conspicuous
+benthic macroinvertebrates, and large crustacean zooplankton (.1 mm) were
+dramatically reduced in distribution and abundance by fish introductions but generally
+recovered to predisturbance levels after fish disappearance. Inconspicuous benthic invertebrate
+taxa, small crustacean zooplankton (,1 mm), and rotiferan zooplankton (,0.2 mm)
+were either unaffected by fish or increased in the presence of fish. For both the benthic
+macroinvertebrate community and the zooplankton community as a whole, fish disappearance
+was followed by a steady change away from the configuration characteristic of fishcontaining
+lakes and toward that of lakes that had never been stocked. Both communities
+remained markedly different from those in never-stocked lakes 5–10 yr after fish disappearance
+and converged on the configuration of never-stocked lakes only 11–20 yr after
+fish disappearance.
+Recovery was likely facilitated by the winged adult stages of many benthic macroinvertebrates,
+resting eggs of zooplankton, and nearby source populations of frogs. However,
+many frog populations have disappeared since the time that lakes in this study reverted to
+a fishless condition, and the viability of zooplankton egg banks should decline in fishcontaining
+lakes over time. As a result, faunal resilience may be lower in lakes that revert
+to a fishless condition today than is suggested by the results of our study. These findings
+have important implications for the restoration of alpine lake ecosystems.
+
+xintroduction
+The question of how natural communities respond
+to biotic and abiotic perturbations is central to many
+of today’s most pressing ecological problems, including
+the maintenance of biodiversity in the face of escalating
+habitat alteration and the invasion of ecosystems
+by exotic species. Although these problems are
+often best studied at large spatial and temporal scales,
+these scales are rarely amenable to experimentation,
+and as a result many of the advances in our understanding
+of how communities respond to perturbations
+have come from small-scale, short-term field experiments
+(Connell and Sousa 1983). The scaling up of
+these results to more relevant spatial and temporal
+scales is, at best, problematic (Brown et al. 1986, Yodzis
+1988, Pimm 1991). As a consequence, while we
+often have a good understanding of how communities
+respond to perturbations at small spatial and temporal
+scales, this perspective may provide few insights into
+the nature of responses to perturbations that increasingly
+are occurring at the scale of landscapes and entire
+ecosystems (Pimm 1991).
+Freshwater communities are subject to a wide range
+of both natural and anthropogenic disturbances, and
+whole-lake experiments have been a particularly ef
+fective means by which to describe in detail the response
+to perturbation at the scale of the entire ecosystem
+(Carpenter and Kitchell 1993, Frost et al. 1998).
+Whole-lake experiments, however, generally have several
+shortcomings that limit their generality. First, these
+studies are typically short term, often lasting only two
+to three years (Mittelbach et al. 1995). Such short temporal
+scales may only capture the transient dynamics
+that characterize food webs following a perturbation
+(Yodzis 1988, Tilman 1989). Second, experimental perturbations
+of whole lakes have usually been conducted
+in only a single direction (e.g., a species is either added
+or removed). As suggested by Mittelbach et al. (1995),
+studies that examine the effect of a perturbation followed
+by removal of the perturbation would allow us
+to examine not only system resistance (the degree to
+which a system is altered when the environment changes),
+but also resilience (Carpenter and Kitchell 1993,
+Persson et al. 1993, Mittelbach et al. 1995, Frost et al.
+1998), where resilience is the degree to and the rate at
+which a system returns to its previous configuration
+once the perturbation is removed (sensu Pimm 1991).
+Lastly, whole-lake experiments are generally conducted
+only at a single site or pair of sites, making it difficult
+to generalize from the observed response to how other
+similar sites might respond to the same perturbation.
+Overcoming these limitations by conducting longterm
+experiments, examining both system resistance
+and resilience, and replicating these experiments at numerous
+sites will often be logistically impossible. However,
+many perturbations, such as invasions of exotic
+species (Huckins et al. 2000), have been occurring for
+decades over large landscapes. Some of these perturbations
+offer rare opportunities to understand system
+resistance and resilience over spatial and temporal
+scales not possible with traditional experiments. For
+example, the mountains of western North America contain
+thousands of glacially formed alpine lakes, nearly
+all of which were historically fishless (Bahls 1992,
+Knapp 1996). During the past century, many of these
+lakes have been stocked with nonnative fishes to create
+recreational fisheries. In some of these lakes, fish introductions
+failed to result in a self-sustaining population
+and the fish eventually disappeared (Donald
+1987). Comparison of faunal assemblages among many
+lakes that either remain in a natural fishless condition,
+have been stocked and still contain fish, or were stocked
+in the past but have since reverted to a fishless condition,
+would provide a valuable perspective on the
+long-term community response to fish introductions
+and the capacity of these communities to recover after
+fish disappearance. While the effect of introduced trout
+on alpine lake faunal assemblages has been described
+using such a single-survey (snapshot) approach (Anderson
+1980, Stoddard 1987, Bradford et al. 1998, Carlisle
+and Hawkins 1998, Knapp and Matthews 2000),
+these studies have generally relied on relatively coarse
+presence/absence data (but see Carlisle and Hawkins
+1998). In addition, we are not aware of any studies that
+have used the snapshot approach to evaluate faunal
+recovery after fish disappearance.
+Here we present the results of a study of the response
+by alpine lake faunal assemblages to fish introductions,
+based on snapshot samples of hundreds of lakes with
+or without introduced fishes. In addition to evaluating
+the resistance of amphibian, zooplankton, and benthic
+macroinvertebrate communities, we also evaluate the
+resilience of these communities by quantifying faunal
+assemblages in lakes that were stocked in the past but
+have since reverted to a fishless condition. A key advantage
+of our data set is that we can reliably estimate
+the year of fish disappearance. Within the class of lakes
+that lost their fish populations, there was a wide range
+of durations since fish disappearance, which enabled
+us to indirectly examine recovery dynamics. Although
+the snapshot approach had several limitations, our
+study design allowed us to compare resistance and resilience
+of lake fauna at a much larger temporal and
+spatial scale than in any previous study. We show that
+the taxonomic composition and abundance of faunal
+assemblages in lakes with or without introduced fishes
+were dramatically different, as expected based on previous
+studies. Using data from previously stocked but
+now fishless lakes, taxonomic composition and abundance
+of amphibian, zooplankton, and benthic macroinvertebrate
+communities appeared generally to
+have recovered within 10–20 yr after fish disappearance.
+Therefore, while these alpine lake faunal assemblages
+show low resistance to fish introductions, they
+appear to be fairly resilient.
+
+xmethods
+Study area description
+The study area was located in the Sierra Nevada of
+eastern California, and encompassed portions of the
+John Muir Wilderness (Inyo and Sierra National Forests)
+and Kings Canyon National Park (see Knapp and
+Matthews 2000 for a map of the study area). The 1400-
+km2 study area contains hundreds of lakes (defined as
+water bodies with surface areas $0.5 ha), the majority
+of which are located in the subalpine and alpine zones
+(.2800 m). Lakes throughout the study area are generally
+small (,10 ha), oligotrophic, depauperate, and
+cold (maximum temperature ,178C, ice-free for 4 mo/
+yr; Melack et al. 1985, Stoddard 1987, Bradford et al.
+1998). Lakes are similar in physical and chemical characteristics
+due to their common glacial origin and their
+location in watersheds dominated by intrusive igneous
+bedrock (California Division of Mines and Geology
+1958, Melack et al. 1985). The entire study area was
+naturally fishless as a result of numerous barriers to
+upstream movement by fishes (Knapp 1996). Between
+1900 and 1960, ;60% of these fishless lakes were
+stocked with trout (golden trout, Oncorhynchus mykiss
+aguabonita; rainbow trout, O. mykiss; brook trout, Sal
+velinus fontinalis; and brown trout, Salmo trutta) to
+create recreational fisheries (Knapp and Matthews
+2000; National Park Service and California Department
+of Fish and Game, unpublished stocking records).
+Study design
+As part of a larger study of the effects of introduced
+trout on alpine lake ecosystems, field surveys were conducted
+during 1995–1997 to describe the physical characteristics
+and fish and amphibian populations in all
+lakes and ponds in the study area (n 5 2258; Matthews
+and Knapp 1999). In addition, zooplankton and benthic
+macroinvertebrate samples were collected from a subset
+of water bodies. The present study includes only
+those larger, deeper lakes located in the subalpine and
+alpine zones (n 5 533; surface area $0.5 ha, maximum
+depth .3 m, elevation 2870–3600 m). We used this
+restriction to reduce habitat variation among lakes and
+to ensure that only those lakes capable of supporting
+trout were considered. Lakes were visited once during
+the survey, during 26 July–14 September 1995, 22
+July–13 September 1996, or 29 June–14 September
+1997. Most of the precipitation in the study area falls
+as snow, and snowfall in 1995, 1996, and 1997 was
+168%, 108%, and 100% of the mean, respectively (California
+Department of Water Resources, online reports
+DLYSWEQ.19950331, DLYSWEQ.19960331, DLYSWEQ.
+19970331; accessed on 31 October 2000.)4
+Prior to sampling, we used fish stocking records provided
+by the California Department of Fish and Game
+and National Park Service to divide the study lakes
+into three categories based on their fish stocking histories.
+These categories were (1) lakes that were never
+stocked (‘‘never-stocked’’; n 5 215), (2) lakes that
+were stocked at least once and still contained a trout
+population due to continued stocking or natural reproduction
+(‘‘stocked-fish-present’’; n 5 289), and (3)
+lakes that were stocked at least once, but no longer
+contained trout due to a halt to stocking and a lack of
+spawning habitat (‘‘stocked-now-fishless’’; n 5 29).
+Stocked-now-fishless lakes included only those that
+had been fishless for $5 yr (range 5 5–59 yr). Stocking
+records were also used to estimate the year in which
+each stocked-now-fishless lake reverted to a fishless
+condition. We assumed that trout disappeared from individual
+lakes 10 yr after the last stocking. This assumption
+was based on a mean maximum trout age in
+the study area of 8.3 yr (range 5 2–16, SD 5 2.8),
+which we determined by aging 1570 fish collected from
+103 lakes (see Methods: Fish surveys). This assumption
+is further supported by the fact that all four lakes that
+were surveyed 10–15 yr after the last stocking date
+were found to be fishless.
+We used these three lake categories (never-stocked,
+stocked-fish-present, stocked-now-fishless) to quantify
+(1) the impacts of fish introductions (resistance) by
+comparing faunal assemblages of never-stocked vs.
+stocked-fish-present lakes, (2) the ability of communities
+to recover from the perturbation caused by trout
+introductions (resilience) by comparing faunal assemblages
+of never-stocked vs. stocked-now-fishless lakes,
+and (3) recovery rates and trajectories by comparing
+species composition of stocked-now-fishless lakes that
+had been fishless for 5–10, 11–20, and .20 yr.
+Fish surveys
+To verify the presence/absence of trout in each lake,
+we used visual encounter surveys and gillnets. In relatively
+small, shallow water bodies in which the entire
+bottom could be seen, trout presence/absence was determined
+visually while walking the entire shoreline
+and the first 100 m of each inlet and outlet stream (n
+5 35). In larger, deeper water bodies, we determined
+fish presence/absence and species composition using a
+single monofilament gill net set for 8–12 h combined
+with a visual survey (n 5 498).
+Amphibian surveys
+Mountain yellow-legged frogs (Rana muscosa) were
+the most common amphibian species in our study lakes.
+Other amphibian species (Hyla regilla, Bufo canorus)
+were found primarily in shallow ponds and were too
+rare in our lakes to be included in this study. Surveys
+for the mountain yellow-legged frog were conducted
+at all 533 study lakes. The number of frogs at each
+water body was determined using visual encounter surveys
+(Crump and Scott 1994) of the entire shoreline.
+During the summer, adults and larvae occur almost
+exclusively in shallow water near shore and are easily
+detected even in the deepest lakes by shoreline searches
+(Bradford 1989). In addition, larvae overwinter 2–3
+times before metamorphosing into subadult frogs, and
+larvae are therefore present in lakes year-round. As a
+result, visual surveys produce counts of mountain yellow-
+legged frogs that are highly repeatable between
+years (Knapp and Matthews 2000). If frogs were present,
+we counted the number of adult (i.e., post-metamorphic)
+frogs and larvae. Frog density (number of
+individuals/m of shoreline) was calculated by dividing
+the total number of adults or larvae by the lake perimeter.
+Lake perimeters were obtained from a geographic
+information system (GIS).
+Benthic macroinvertebrate sampling
+Benthic macroinvertebrate samples were collected
+from a subset of the 533 study lakes. Samples were
+collected from 67 never-stocked lakes, 100 stockedfish-
+present lakes, and 22 stocked-now-fishless lakes,
+selected at random. Benthic macroinvertebrates were
+sampled from the littoral zone of each lake by conducting
+15 standard sweeps with a D-net (mesh size 5
+1 mm). A standard sweep consisted of a 1-m sweep in
+one direction followed immediately by a 1-m sweep
+across the same area in the opposite direction. D-net
+zooplankton
+in each subsample were identified and counted
+in a Sedgwick-Rafter cell at 403 under a compound
+microscope. Depending on the abundance of zooplankton,
+from 1 to 30% of each sample was counted. Crustaceans
+were identified using Edmondson (1959) and
+Pennak (1989), and rotifers were identified using Stemberger
+(1979). Crustaceans and rotifers were identified
+to species except for cyclopoid copepods, which were
+identified to family (Cyclopoda), and the rotifers Kellicottia,
+Keratella, and Polyarthra, which were identified
+to genus. The density of each taxon (number of
+individuals/L) was calculated assuming a net efficiency
+of 50% (Walters and Vincent 1973). For each sample,
+up to 100 individuals of each taxon were measured
+using a computer-based image analysis system.
+Habitat description
+To allow comparison of the physical attributes of
+never-stocked, stocked-fish-present, and stocked-nowfishless
+lakes, we used information on lake elevation,
+surface area, maximum depth, littoral zone substrate
+composition, isolation from other waterbodies, and solar
+input. Lake surface area was obtained from a GIS
+and lake elevation was obtained from 1:24 000 U.S.
+Geological Survey topographic maps. Maximum lake
+depth was determined by sounding with a weighted
+line. Littoral zone substrate composition was quantified
+by visually estimating the dominant substrate along
+;50, 3-m long transects evenly spaced around the lake
+perimeter and placed perpendicular to shore. Substrates
+were categorized as silt (,0.5 mm), sand (0.5–2 mm),
+gravel (.2–75 mm), cobble (.75–300 mm), boulder
+(.300 mm), or bedrock. The frequencies of these substrate
+categories were highly intercorrelated (e.g., lakes
+with abundant silt had little boulder or bedrock substrates)
+so only the percentage of the littoral zone dominated
+by silt was used to describe littoral zone substrate
+characteristics. Two measures of water body isolation,
+the number of lakes (water bodies with surface
+area $0.5 ha) within 1 km of the shoreline of each
+study lake and the number of ponds (water bodies with
+surface area ,0.5 ha) within 250 m of the shoreline of
+each study lake, were calculated using a GIS. For these
+isolation measures, only water bodies within the same
+drainage as the target lake were considered because we
+assumed that the movement of frogs, benthic macroinvertebrates,
+and zooplankton among lakes was most
+likely to occur within, rather than between drainages.
+Solar input, used as a surrogate for water temperature
+and the duration of the ice-free period, was calculated
+for each water body using the program SOLARFLUX
+(Dubayah and Rich 1995). SOLARFLUX calculates direct-
+beam radiation across a digital elevation model
+according to slope and aspect. We first divided the
+study area into 10 3 10-m cells by inputting 50 m
+contour intervals from USGS digital line graphs into
+the TOPOGRID algorithm in Arc/Info version 7.1
+(ESRI 1992). Next, we estimated the daily radiation
+received by a particular lake by calculating radiation
+loads for each cell whose center lay within the water
+body. Radiation loads were calculated for all daylight
+hours using a 1-h time step and then averaged across
+time steps and across all cells associated with that water
+body. Daily radiation was calculated on the longest and
+shortest days of the year and on the days halfway between
+the longest and shortest days of the year. Radiation
+levels for these four dates were highly correlated
+and were averaged to produce a single relative
+measure of mean daily solar radiation.
+Statistical analyses
+Comparisons of faunal assemblages between the
+three lake categories were made only for common taxa
+(amphibians found in $10% of all 533 study lakes,
+invertebrate taxa found in $10% of the 189 analyzed
+benthic samples or the 177 analyzed zooplankton samples).
+Rare taxa (present in ,10% of all samples) were
+eliminated because sample sizes associated with these
+taxa were too small to allow meaningful comparisons
+between lake categories. Given that rare taxa occurred
+in only a small number of samples in each lake category
+and, when present, made up a small proportion of the
+total sample, the inclusion of only common taxa in this
+study should not have introduced any biases into our
+analyses. For benthic invertebrates, rare taxa occurred
+in 1–15 (1–8%) of the 189 samples that were collected
+(median 5 2 samples), never occurred in .18% of the
+samples from any one lake category, and were uncommon
+even in those lakes where they were present (median
+5 6% of the total individuals per sample). Two
+of the 189 samples (one from a never-stocked lake, one
+from a stocked-fish-present lake) were eliminated from
+the data set because they contained only rare taxa. Similarly,
+rare zooplankton taxa occurred in 1–17 (1–10%)
+of the 177 samples that were processed (median 5 2
+samples), never occurred in .16% of the samples from
+any one lake category, and were uncommon even in
+those lakes where they were present (median 5 3% of
+the total individuals per sample). None of the 177 zooplankton
+samples were eliminated from the data set as
+all contained at least one common taxon.
+Benthic macroinvertebrate taxa were divided into
+three groups based on their likely vulnerability to predatory
+trout. ‘‘Clinger/swimmer’’ taxa were those that
+cling to substrate surfaces (e.g., mayfly larvae) or swim
+up in the water column (e.g., water beetles) and are
+therefore likely to be highly vulnerable to trout. ‘‘Casedwelling’’
+taxa were caddisfly larvae (Order Trichoptera),
+taxa that cling to substrate surfaces but reside in
+a self-constructed case or web that might afford some
+protection from predators. The third group included the
+burrowing taxa, Sialis, Pisidium, and Oligochaeta, and
+the distasteful taxon, Acari (mites; Smith and Cook
+1991). ‘‘Burrowing/distasteful’’ taxa should be the
+least vulnerable to predatory trout due to their inconspicuousness
+or unpalatability.
+We compared the frequency of occurrence (percentage
+of lakes) of frogs, benthic macroinvertebrates, and
+zooplankton between never-stocked lakes vs. stockedfish-
+present lakes and never-stocked lakes vs. stockednow-
+fishless lakes using Pearson’s chi-square tests
+when expected values were .5 and Fisher’s exact tests
+when expected values were #5. We did not test the
+significance of the overall 3 3 2 table (presence/absence
+of a particular taxon in the three lake categories)
+because we were not interested in the comparison of
+stocked-fish-present lakes vs. stocked-now-fishless
+lakes. To allow comparison between taxa of the magnitude
+of differences in percent occurrence in neverstocked
+and stocked-fish-present lakes, we calculated
+an ‘‘effect size’’ as percentage of occurrence in Category
+1 divided by percentage of occurrence in Category
+2 (where Category 1 was the lake category with the
+higher percentage of occurrence). We compared abundances
+of frogs, benthic macroinvertebrates, and zooplankton
+in never-stocked vs. stocked-fish-present
+lakes and in never-stocked vs. stocked-now-fishless
+lakes using Wilcoxon rank-sum tests. We used a nonparametric
+test because it often was not possible to
+normalize distributions or stabilize variances via transformation.
+Results for frog adults and larvae were similar,
+so only results based on larvae are presented.
+We used nonmetric multidimensional scaling
+(NMMDS) to ask whether there were significant differences
+in overall community structure between the
+three lake categories. NMMDS is an ordination technique
+based on ranked distances, and is better suited
+to data that are not normally distributed (such as most
+animal abundance data) than more commonly used linear
+techniques (e.g., principal components analysis;
+Minchin 1987, Clarke 1993). Ordinations were based
+on abundances of all taxa found in $10% of samples.
+Rare taxa generally have little influence on ordinations
+(Jongman et al. 1995), and preliminary analyses of our
+data indicated little difference between ordinations using
+all observed taxa and those using only common
+taxa. Absolute abundances were log10(x 1 1) transformed,
+and benthic macroinvertebrate and zooplankton
+data were analyzed separately. Ordinations were
+performed using the ‘‘autopilot’’ mode in PC-ORD v.
+4.14 (McCune and Mefford 1999). The optimal dimensionality
+(i.e., the number of dimensions beyond
+which additional dimensions provide only small reductions
+in stress) was first determined using 40 ‘‘runs’’
+performed on the real data followed by 50 runs using
+randomized data, with each run stepping down in dimensionality
+from six axes to one axis. The final ordination
+was then obtained using the optimal dimensionality
+(optimal dimensionality 5 3 for both the benthic
+macroinvertebrate and zooplankton data) and the
+best starting configuration as determined from the previous
+runs. Differences in NMMDS scores between the
+three lake categories were analyzed using one-way ANOVAs
+and Tukey’s HSD tests. To provide information
+on the rates and trajectories of recovery, we also divided
+the NMMDS scores for the stocked-now-fishless
+lakes into three categories based on the time since fish
+disappearance: 5–10 yr, 11–20 yr, and .20 yr. To simplify
+the graphical display of the ordination results,
+only two of the three NMMDS axes were used to define
+the ordination space. The two axes used in these figures
+were those that showed the strongest associations with
+fish stocking history.
+To determine whether the effect of lake category
+(never-stocked, stocked-fish-present, stocked-nowfishless)
+on benthic macroinvertebrate and zooplankton
+assemblages was confounded by differences among
+categories in habitat characteristics and sampling date,
+we used univariate and multivariate analyses of variance.
+We first used one-way ANOVAs and Tukey’s
+HSD tests to determine whether habitat variables differed
+between the three lake categories, using the entire
+lake data set (n 5 533). One-way ANOVAs based only
+on the subset of lakes for which we had zooplankton
+data or benthic macroinvertebrate data provided results
+that were identical to those based on the full data set
+and were therefore not reported separately. Independent
+variables analyzed were elevation, depth, surface area,
+percentage of the littoral zone dominated by silt, number
+of lakes within 1 km of the lake shoreline, number
+of ponds within 250 m of the lake shoreline, solar input,
+and sampling date (expressed as the number of days
+since January 1). Because significant differences in independent
+variables were observed between lake categories,
+we then used MANCOVAs to evaluate the influence
+of lake category on benthic macroinvertebrate
+and zooplankton assemblages after accounting for the
+effects of habitat and sampling date. Benthic macroinvertebrate
+and zooplankton data were analyzed separately.
+Response variables were the NMMDS scores on
+axes 1, 2, and 3 (optimal dimensionality 5 3) for the
+benthic macroinvertebrate or zooplankton data, and independent
+variables included lake category and all
+eight variables related to habitat and sampling date.
+Prior to univariate and multivariate analyses, we normalized
+these data by applying log10 transformations
+to depth and area, a log10(x 1 1) transformation to the
+number of ponds within 250 m, and an angular transformation
+to percentage of littoral zone composed of
+silt. We were unable to perform a similar analysis on
+the amphibian data because of a large number of zeros
+in the response variable, larval abundance.
+MANCOVAs indicated that some habitat variables
+and sampling dates had significant effects on NMMDS
+scores (see Results). Therefore, to evaluate the effect
+of differences in habitat between lake categories on the
+outcome of the ordination analyses, we ‘‘corrected’’
+the NMMDS scores using multiple linear regression
+with scores from each of the three NMMDS axes as
+the dependent variable and all eight habitat and sampling
+date measures as independent variables. Regression
+analyses were conducted in a stepwise manner,
+using both forward and backward selection. Residuals
+obtained from the resulting regression equations represent
+the effect of fish, other unmeasured factors that
+influenced NMMDS scores, and error. These residuals
+were used instead of the raw NMMDS scores in oneway
+ANOVAs and Tukey HSD tests. While this procedure
+eliminated habitat effects on NMMDS scores,
+it could also have removed some effects that were actually
+associated with fish. Unintentional removal of
+fish effects would have resulted whenever fish presence/
+absence was associated with habitat differences.
+Because fish presence/absence was not included in the
+regression analysis, any effect due to fish but associated
+with habitat effects would have been attributed to the
+associated habitat effects and subsequently corrected
+for.
+
+
+xresults
+Adequacy of treatment contrasts
+Never-stocked, stocked-fish-present, and stockednow-
+fishless lakes were similar in physical characteristics
+and sampling date, although significant differences
+between lake categories were observed for most
+variables (Fig. 1). Overall differences between lake categories
+were statistically significant (P # 0.05) for six
+of the eight variables (elevation, depth, surface area,
+percentage of littoral zone composed of silt, number
+of lakes within 1 km, number of ponds within 250 m),
+marginally nonsignificant for sampling date (P 5 0.08),
+and nonsignificant for solar input (P 5 0.24). Pairwise
+differences between (1) never-stocked and stockedfish-
+present lakes, (2) never-stocked and stocked-nowfishless
+lakes, and (3) stocked-fish-present and stockednow-
+fishless lakes were statistically significant (Tukey’s
+HSD, P , 0.05) for six of eight variables, two
+of eight variables, and one of eight variables, respectively
+(Fig. 1). Comparisons between never-stocked
+and stocked-fish-present lakes had high statistical power
+(.0.9) as a result of relatively large sample sizes (n
+5 215 and 289, respectively); as a result, even small
+differences in habitat variables were often found to be
+statistically significant.
+For both the benthic macroinvertebrate and zooplankton
+assemblages, MANCOVAs indicated that lake
+category had highly significant effects on NMMDS
+scores after the influence of habitat and sampling date
+was accounted for (Pillai-Bartlett trace: benthic macroinvertebrates,
+n 5 187, PB 5 0.50, P , 0.0001;
+zooplankton, n 5 177, PB 5 0.30, P , 0.0001). In
+addition to lake category, benthic macroinvertebrate
+NMMDS scores were influenced by sample date (P 5
+0.03), elevation (P , 0.0001), maximum lake depth (P
+5 0.0002), percentage of littoral zone composed of silt
+(P 5 0.0002), and number of ponds within a 250 m
+radius (P 5 0.04). Zooplankton NMMDS scores were
+influenced by elevation (P 5 0.001) and lake area (P
+, 0.0001). Taken together, these results indicate that
+while we were not completely successful in creating
+lake categories that eliminated all between-category
+differences in habitat characteristics, the strong effects
+of lake category on faunal assemblage structure were
+independent of the confounding influences of habitat
+variables.
+Amphibians
+Mountain yellow-legged frog larvae were much less
+likely to be found in stocked-fish-present lakes than in
+never-stocked lakes (P , 0.001; Fig. 2A). Densities of
+frog larvae were also much lower in stocked-fish-present
+lakes than in never-stocked lakes (P , 0.001; Fig.
+2B). Frogs appeared to recover after fish disappearance,
+as percentage of occurrence and density were very similar
+between never-stocked and stocked-now-fishless
+lakes (Fig. 2A, B). Neither difference approached statistical
+significance (P . 0.8). For lakes that had been
+fishless for 5–10 yr, 11–20 yr, or .20 yr, mountain
+yellow-legged frog larvae were found in 0% (n 5 5),
+20% (n 5 10), and 28% (n 5 14), respectively. Abundance
+of frog larvae showed a similar pattern, and together
+with the frequency data suggest that recovery
+of frog populations may require .10 yr after fish disappearance.
+Benthic macroinvertebrates
+As predicted, five of the six ‘‘clinger/swimmer’’ taxa
+were found in a lower percentage of stocked-fish-present
+lakes than in never-stocked lakes (Fig. 3A). For
+these five taxa, differences were most marked for the
+largest taxa (Ameletus, Callibaetis, Agabus, Corixidae;
+median effect size 5 13.2) and least marked for the
+smallest taxon (Hydroporini; effect size 5 1.4). In contrast
+to the reduced occurrence of these five taxa, Culex
+(mosquito larvae) were found in a much higher percentage
+of stocked-fish-present lakes than in neverstocked
+lakes (P , 0.001; Fig. 3A). Similar patterns
+were found for taxon-specific abundance data (Fig.
+4A), with Ameletus, Callibaetis, Agabus, Corixidae,
+and Hydroporini all less abundant (P , 0.001) and
+Culex more abundant (P , 0.001) in stocked-fish-present
+lakes compared to never-stocked lakes. The frequency
+of occurrence and abundance for Culex increased
+despite its similar size to clinger/swimmer taxa
+whose frequencies of occurrence were reduced in the
+presence of trout (Fig. 3A).
+At least four of the six clinger/swimmer taxa appeared
+to recover completely after fish disappearance,
+as indicated by the similar percent occurrence and
+abundance of Ameletus, Callibaetis, Culex, and Hydroporini
+in stocked-now-fishless and never-stocked
+lakes (Poccur . 0.60, Pabund . 0.3; Figs. 3A, 4A). The
+percent occurrence and abundance of Agabus was lower
+in stocked-now-fishless lakes than in never-stocked
+lakes (Figs. 3A, 4A), although these differences were
+not statistically significant (Poccur 5 0.26, Pabund 5 0.13).
+Percent occurrence and abundance of corixids was
+higher in stocked-now-fishless than never-stocked
+lakes (Figs. 3A, 4A), but only differences in abundance
+approached statistical significance (Poccur 5 0.12, Pabund
+5 0.053).
+Contrary to expectation, the percentage occurrence
+and abundance of four of the five caddisfly taxa (Limnephilidae:
+Hesperophylax, Desmona, Psychoglypha;
+Polycentropidae: Polycentropus) were lower in
+stocked-fish-present lakes than in never-stocked lakes
+(P , 0.003; Figs. 3B, 4B). Limnephilus (Limnephilidae)
+was found in a similar percentage of stocked-fishpresent
+and never-stocked lakes (P 5 0.71; Fig. 3B)
+and at similar abundances (P 5 0.19; Fig. 4B). The
+lack of a fish effect on Limnephilus did not appear to
+be related to its size, as its size was similar to that of
+taxa whose frequencies of occurrence and abundances
+were reduced by fish (Fig. 3B). However, across all five
+caddisfly taxa, body size was weakly correlated with
+effect size (n 5 5, r 5 0.84, P 5 0.08).
+Of the four caddisfly taxa whose distributions were
+influenced by the presence of fish, at least one (Desmona)
+completely recovered after fish disappearance.
+Desmona had a similar percentage of occurrence and
+abundance in stocked-now-fishless and never-stocked
+lakes (P . 0.30; Figs. 3B, 4B). Hesperophylax, Polycentropus,
+and Psychoglypha were found in fewer
+stocked-now-fishless lakes than in never-stocked lakes
+(Fig. 3B), but these differences approached statistical
+significance only for Polycentropus (PHe 5 0.31, PPo 5
+0.08, PPs 5 0.17). Abundances of these three taxa were
+also lower in stocked-now-fishless lakes than in neverstocked
+lakes (Fig. 4B). These differences were marginally
+nonsignificant for Polycentropus and Psychoglypha
+(P 5 0.06), but were not significant for Hesperophylax
+(P 5 0.20). Therefore, Polycentropus and Psychoglypha
+may not have completely recovered after
+fish disappearance. The frequency of occurrence and
+abundance of Limnephilus, a taxon not affected by trout
+presence, was similar between stocked-now-fishless
+and never-stocked lakes (Poccur 5 0.30, Pabund 5 0.20;
+Figs. 3B, 4B)
+As predicted, the distribution and abundance of two
+burrowing taxa, alderfly larvae (Sialidae: Sialis) and
+freshwater clams (Sphaeridae: Pisidium), were similar
+between never-stocked and stocked-fish-present lakes
+(P . 0.40; Figs. 3C, 4C). In contrast, one burrowing
+taxon, oligochaetes (Oligochaeta), and one distasteful
+taxon, mites (Acari), occurred more frequently and
+were more abundant in stocked-fish-present lakes than
+in never-stocked lakes (P , 0.007; Figs. 3C, 4C). After
+fish disappearance, oligochaete frequency and abundance
+returned to levels similar to that in never-stocked
+lakes (Poccur . 0.40, Pabund . 0.20; Figs. 3C, 4C). The
+frequency of occurrence and abundance of mites also
+decreased after fish disappearance, but both were lower
+(marginally nonsignificant) in stocked-now-fishless
+lakes than in never-stocked lakes (P 5 0.06; Figs. 3C,
+4C). Sialis and Pisidium, taxa that were not affected
+by trout presence, had similar distributions and abundances
+in stocked-now-fishless vs. never-stocked lakes
+(P . 0.50; Figs. 3C, 4C)
+The non-metric multidimensional scaling analysis of
+the benthic macroinvertebrate community generally
+supported the results of the taxon-specific analyses.
+NMMDS Axes 1, 2, and 3 accounted for 68% of the
+total variation in the ordination (r2 5 0.16, 0.18, and
+0.34, respectively; NMMDS axis numbers are arbitrary,
+so that percent of variance on a given axis does
+not necessarily decrease with increasing axis number;
+stress 5 20.0). NMMDS scores on Axis 1 were not
+significantly different between lake categories (F2, 184
+5 0.2, P . 0.8), while differences in scores between
+lake categories on Axis 2 and 3 were highly significant
+(Fig. 5A; Axis 2: F2, 184 5 11.4, P , 0.0001; Axis 3:
+F2, 184 5 51.2, P , 0.0001). Taxa showing significant
+negative correlations with Axis 2 or positive correlations
+with Axis 3 were generally those associated with
+fishless lakes (Table 1). These included mayfly nymphs
+(Ameletus, Callibaetis), corixids (Corixidae), dytiscid
+beetles (Hydroporini), and caddisfly larvae (Desmona,
+Polycentropus, Psychoglypha). Taxa showing significant
+positive correlations with Axis 2 or negative correlations
+with Axis 3 were generally those associated
+with fish-containing lakes (Table 1). These included
+mosquito larvae (Culex), oligochaetes (Oligochaeta),
+and clams (Pisidium). Taxa that showed significant correlations
+with Axis 1 showed no obvious pattern related
+to fish effects (Table 1). The strong influence of fish
+on the benthic invertebrate community was shown by
+the significantly different scores of never-stocked and
+stocked-fish-present lakes on NMMDS Axis 2 and 3
+(Fig. 5A; Tukey’s HSD, P , 0.05). The significant
+difference between stocked-fish-present and stocked
+now-fishless lakes on Axis 2 and 3 (Tukey’s HSD, P
+, 0.05) and the lack of a significant difference between
+stocked-now-fishless and never-stocked lakes on Axis
+2 and 3 (Fig. 5A; Tukey’s HSD, P . 0.05) suggest that
+the benthic invertebrate community was able to recover
+to its previous configuration after fish disappearance.
+The strong similarity in mean NMMDS scores for
+stocked-now-fishless and never-stocked lakes on both
+Axis 2 and 3 (Fig. 5A) indicates that the lack of a
+statistically significant difference between these two
+lake categories was not simply the result of statistical
+power being too low to detect a difference.
+Fish disappearance was followed by a steady and
+predictable change in the benthic macroinvertebrate
+community away from that characteristic of stockedfish-
+present lakes and toward that characteristic of never-
+stocked lakes (Fig. 5B). The largest changes in community
+structure occurred in the first 5–20 yr after fish
+disappearance, followed by negligible changes after
+.20 yr when mean community structure was nearly
+identical to that of never-stocked lakes.
+Correcting NMMDS scores for habitat differences
+between lake categories had little effect on the ordination
+results. Stepwise multiple regression results
+used to correct the NMMDS scores are shown in Table
+2. As with uncorrected scores, NMMDS scores on Axis
+1 were not significantly different between lake categories
+(F2, 184 5 0.1, P . 0.9), while differences in
+scores between lake categories on Axis 2 and 3 were
+highly significant (Axis 2: F2, 184 5 8.0, P , 0.0005;
+Axis 3: F2, 184 5 17.2, P , 0.0001). In addition, in
+comparisons between never-stocked and stocked-fishpresent
+lakes on Axis 2 and 3, corrected NMMDS
+scores were significantly different (Tukey’s HSD, P ,
+0.05) as were corrected NMMDS scores between
+stocked-fish-present and stocked-now-fishless lakes on
+Axis 2 and 3 (Tukey’s HSD, P , 0.05). Differences
+between corrected NMMDS scores between stockednow-
+fishless and never-stocked lakes on Axis 2 and 3
+were not significant (Tukey’s HSD, P . 0.05). Taken
+together, the lack of any significant changes in ordination
+results after accounting for habitat differences
+between lake categories suggests that lake stocking his
+tories, not habitat effects, were largely responsible for
+the observed patterns.
+Zooplankton
+For the analyzed zooplankton samples, the mean volume
+filtered by the zooplankton net during sample collection
+(61 SD) was 1.47 6 1.00 m3 with a range of
+0.25–6.15 m3. The volume filtered per sample was not
+significantly different between lake categories (ANOVA;
+n 5 177, F2, 174 5 0.95, P . 0.3). The median
+number of individuals counted per sample was 243,
+with a range of 2–7689.
+Six crustacean taxa were commonly found in the
+study lakes, and the two largest (.1 mm; Hesperodiaptomus
+shoshone, Daphnia middendorffiana) were
+found much less often in stocked-fish-present lakes
+than in never-stocked lakes (P , 0.001; Fig. 6A). The
+remaining four taxa had mean sizes ,1 mm, and three
+of these taxa (Leptodiaptomus signicauda, Daphnia rosea,
+Chydorus sphaericus) were found in a similar percentage
+of stocked-fish-present and never-stocked lakes
+(PLe 5 0.22, PDr 5 0.26, PCh 5 0.88; Fig. 6A). Cyclopoda
+were more likely to be found in stocked-fishpresent
+than in never-stocked lakes, although this difference
+was marginally nonsignificant (P 5 0.06; Fig.
+6A). Zooplankton abundance data showed similar patterns,
+with H. shoshone and D. middendorffiana being
+less abundant in stocked-fish-present lakes than in never-
+stocked lakes (P , 0.001; Fig. 7A), and L. signicauda,
+D. rosea, and C. sphaericus having similar
+abundances in stocked-fish-present and never-stocked
+lakes (PLe 5 0.13, PDr 5 0.18, PCh 5 0.97; Fig. 7A).
+Cyclopoids were more abundant in stocked-fish-present
+lakes than in never-stocked lakes (P 5 0.03; Fig. 7A).
+Due to a highly non-normal distribution, the mean
+abundance of cyclopoids in stocked-fish-present and
+never-stocked lakes shown in Fig. 7A does not reflect
+the relatively large differences in ranked data that were
+used in the statistical analysis.
+Of the five common rotifer taxa, three were found
+in a similar percentage of stocked-fish-present and never-
+stocked lakes (Kellicottia sp., Conochilus unicornis,
+Keratella spp.; PKl 5 0.75, PCo 5 0.37, PKs 5 0.25;
+Fig. 6B) and two (Keratella quadrata, Polyarthra spp.)
+were found in a higher percentage of stocked-fish-present
+lakes than never-stocked lakes. These differences
+were significant for K. quadrata (P 5 0.012; Fig. 6B)
+and marginally nonsignificant for Polyarthra spp. (P
+5 0.07; Fig. 6B). Rotifer abundances showed stronger
+effects of trout than did presence/absence data, with
+abundances of Keratella quadrata, Keratella spp., and
+Polyarthra spp. all being significantly higher in
+stocked-fish-present lakes than in never-stocked lakes
+(P , 0.006; Fig. 7B). Abundances of Kellicottia spp.
+and C. unicornis were similar between stocked-fishpresent
+and never-stocked lakes (PKl 5 0.78, PCo 5
+0.24; Fig. 7B).
+The two crustacean species that were strongly affected
+by fish presence (H. shoshone and D. middendorffiana)
+were both able to recover after fish disappearance.
+The frequency of occurrence and abundance
+of these two taxa were similar between stocked-nowfishless
+and never-stocked lakes (Poccur . 0.80, Pabund .
+0.30; Figs. 6A, 7A). The frequency of occurrence of
+D. rosea and Cyclopoda was higher in stocked-nowfishless
+lakes than in never-stocked lakes (Fig. 6A), but
+neither difference was statistically significant (PDr 5
+0.13, PCy 5 0.15). The abundances of D. rosea and
+Cyclopoda were also higher in stocked-now-fishless
+lakes than in never-stocked lakes, but these differences
+approached statistical significance only for D. rosea
+(PDr 5 0.07, PCy 5 0.12; Fig. 7A). The large, but nonsignificant
+difference in mean abundance of cyclopoid
+copepods was the result of only two of 26 stockednow-
+fishless lakes containing cyclopoids, but both
+lakes having high densities of this taxon. The percent
+occurrence and abundance of L. signicauda and C.
+sphaericus were similar between never-stocked and
+stocked-now-fishless lakes (Poccur . 0.3, Pabund . 0.4;
+Figs. 6A, 7A). Of the three rotifer taxa whose distributions
+or abundances increased in the presence of fish
+(K. quadrata, Keratella spp., Polyarthra spp.), all appeared
+to return to predisturbance levels after fish disappearance.
+Frequencies of occurrence and abundances
+of Keratella spp. and K. quadrata were similar in
+stocked-now-fishless and never-stocked lakes (Poccur .
+0.50, Pabund . 0.20; Figs. 6B, 7B). Polyarthra spp. was
+also found in a similar percentage of stocked-now-fishless
+and never-stocked lakes (P 5 0.75; Fig. 6B), but
+its abundance was lower in stocked-now-fishless lakes
+than in never-stocked lakes. The latter difference was
+not statistically significant, however (P 5 0.71; Fig.
+7B). The percentage of occurrence and abundance of
+Kellicottia sp. and C. unicornis were similar between
+stocked-now-fishless and never-stocked lakes (occurrence,
+PKe 5 0.37, PCo 5 0.72; abundance, PKe 5 0.27,
+PCo 5 0.53).
+A nonmetric multidimensional scaling analysis of
+the zooplankton community generally confirmed the
+results of the taxon-specific analyses. Axes 1, 2, and
+3 accounted for 74% of the variation in the ordination
+(r2 5 0.23, 0.13, and 0.37, respectively; stress 5 17.0).
+NMMDS scores on Axis 1 were not significantly different
+between lake categories (F2, 174 5 0.4, P . 0.6),
+while differences in scores between lake categories
+were marginally significant on Axis 2 (Fig. 8A; F2, 174
+5 2.9, P 5 0.06) and highly significant on Axis 3 (Fig.
+8A; F2, 174 5 28.8, P , 0.0001). Taxa showing positive
+correlations with Axis 3 were those associated with
+fishless lakes (H. shoshone, D. middendorffiana; Table
+3) while those showing negative correlations with Axis
+3 were those associated with fish-containing lakes (L.
+signicauda, D. rosea, Cyclopoda, Kellicottia sp., K.
+quadrata, C. unicornis, Keratella spp., and Polyarthra
+spp.; Table 3). Taxa significantly correlated with Axis
+1 and 2 did not show any obvious association with fish,
+but taxa positively correlated with Axis 1 were gen
+erally those with high abundances (Table 3). The strong
+influence of fish on the zooplankton community was
+shown by the significantly different scores of neverstocked
+and stocked-fish-present lakes on Axis 3 (Fig.
+8A; Tukey’s HSD, P , 0.05). The significant difference
+between stocked-fish-present and stocked-now-fishless
+lakes on Axis 3 (Tukey’s HSD, P , 0.05) and the lack
+of a significant difference between stocked-now-fishless
+lakes and never-stocked lakes on Axis 3 (Fig. 8A;
+Tukey’s HSD, P . 0.05) suggest that the zooplankton
+community was able to recover to its previous configuration
+after fish disappearance. The similarity in mean
+NMMDS scores for stocked-now-fishless and neverstocked
+lakes on both Axis 2 and 3 (Fig. 8A) indicates
+that the lack of a statistically significant difference between
+these two lake categories was not simply the
+result of statistical power being too low to detect a
+difference.
+As with the benthic macroinvertebrate community,
+fish disappearance was followed by a steady change in
+the zooplankton community away from that characteristic
+of stocked-fish-present lakes and toward that characteristic
+of never-stocked lakes (Fig. 8B). Eleven to
+twenty years were required before the configuration of
+the zooplankton community in stocked-now-fishless
+lakes approached that of never-stocked lakes. Changes
+in community configuration after 20 yr were negligible.
+The correction of NMMDS scores for habitat differences
+between lake categories had little effect on the
+ordination results. Stepwise multiple regression results
+used to correct the NMMDS scores are shown in Table
+4. As with uncorrected scores, corrected NMMDS
+scores on Axis 1 were not significantly different between
+lake categories (F2, 174 5 0.1, P . 0.6) but were
+significantly different on Axis 3 (Axis 3, F2, 184 5 17.2,
+P , 0.0001). The stepwise multiple regression of Axis
+2 against all habitat variables resulted in no habitat
+variables being included in the model (Table 4), so no
+correction was possible. In comparisons between never-
+stocked and stocked-fish-present lakes, corrected
+Axis 3 NMMDS scores were significantly different (Tukey’s
+HSD, P , 0.05) as were corrected Axis 3
+NMMDS scores between stocked-fish-present and
+stocked-now-fishless lakes (Tukey’s HSD, P , 0.05).
+Differences between corrected NMMDS scores for
+stocked-now-fishless and never-stocked lakes on Axis
+3 were not significant (Tukey’s HSD, P . 0.05). Taken
+together, the lack of any significant changes in ordination
+results after correcting for habitat differences
+between lake categories suggests that lake stocking histories,
+not habitat effects, were largely responsible for
+the observed patterns.
+
+xdiscussion
+Comparisons of the faunal assemblages between
+never-stocked, stocked-fish-present, and stocked-nowfishless
+lakes indicate that the introduction of trout into
+fishless alpine lakes in the Sierra Nevada caused dramatic
+changes in the configuration of these communities,
+and that most common taxa recovered after trout
+disappeared. The changes associated with trout introductions
+into our study lakes are consistent with those
+reported in other studies of fish effects on mountain
+lake faunal assemblages (United States: Bahls 1990,
+Stoddard 1987, Bradford et al. 1998, Carlisle and Hawkins
+1998, Tyler et al. 1998, Knapp and Matthews
+2000; Canada: Anderson 1980, McNaught et al. 1999;
+Spain: Bran˜a et al. 1996), and suggest that effects of
+introduced trout on high elevation lakes are remarkably
+consistent across geographically disparate areas. The
+community-level response to fish disappearance has
+rarely been studied, but our results showing recovery
+by most taxa are similar to those reported by the few
+studies that have evaluated the resilience of faunal assemblages
+(Keller and Yan 1991, Locke and Sprules
+1994, Mittelbach et al. 1995, Yan et al. 1996, Harig
+and Bain 1998; but see Parker et al. 1996, Frost et al.
+1998).
+Resistance of amphibian populations
+Comparisons between never-stocked and stockedfish-
+present lakes indicated that the distribution and
+abundance of mountain yellow-legged frog larvae was
+dramatically reduced by introduced trout. These results
+are consistent with those of Bradford (1989), Bradford
+et al. (1998), and Knapp and Matthews (2000), all of
+which suggested that predation by introduced trout has
+contributed to the decline of the mountain yellow-leg
+ged frog in the Sierra Nevada. Similar negative effects
+of fishes on other amphibians have also been reported
+(Macan 1966, Bro¨nmark and Edenhamn 1994, Bran˜a
+et al. 1996, Gamradt and Kats 1996, Hecnar and
+M’Closkey 1997, Tyler et al. 1998, Goodsell and Kats
+1999). Negative effects of fish may be particularly
+strong for amphibians such as the mountain yellowlegged
+frog that require permanent water bodies for
+successful reproduction and overwintering (Knapp and
+Matthews 2000). Amphibians that are able to breed in
+temporary (and therefore fishless) habitats and have
+adult stages that overwinter in areas free of fish (e.g.,
+terrestrial habitats) should be much less affected by
+fish introductions. Given that fish have been widely
+introduced into naturally fishless habitats worldwide
+(Nilsson 1972, Donald 1987, Bahls 1992, Bran˜a et al.
+1996, Townsend 1996), exotic fishes may play a more
+important role in global amphibian declines (Blaustein
+and Wake 1990, 1995) than is generally recognized.
+Resistance of the benthic macroinvertebrate
+community
+Introduced trout also had strong effects on the benthic
+macroinvertebrate community, and these effects
+were similar in direction and magnitude to those reported
+for alpine lakes by Bradford et al. (1998) and
+Carlisle and Hawkins (1998). Our results are also consistent
+with the results of several previous studies of
+fish effects on benthic macroinvertebrates conducted
+in a wide variety of lentic habitats (e.g., Macan 1966,
+Hall et al. 1970, Gilinsky 1984, Luecke 1990). In our
+study, the frequency and abundance of most of the taxa
+that swim up in the water column or cling to substrates,
+including case dwellers, was reduced in stocked-fishpresent
+lakes relative to never-stocked lakes. There
+were two exceptions to this pattern; the distribution
+and abundance of Limnephilus caddisfly larvae was unchanged
+by the presence of fish, and more strikingly,
+the distribution and abundance of mosquito larvae (Culex)
+increased in the presence of fish. Although the
+reason for the lack of a fish effect on Limnephilus is
+unclear, one possibility is that its case, which is constructed
+from organic materials, affords more effective
+camouflage against the predominantly organic substrates
+of the study lakes than do the sand-grain cases
+of Psychoglypha, Desmona, and Hesperophylax, or the
+web retreat of Polycentropus (Otto and Svensson
+1980). The unexpected increase in Culex in stockedfish-
+present lakes may be the result of the elimination
+of invertebrate predators by fish. In our study lakes,
+Culex larvae are typically found in dense littoral zone
+aquatic vegetation. This habitat may provide a relatively
+high degree of protection from trout but relatively
+little protection from smaller invertebrate pred
+ators such as dytiscid beetles (Nilsson and Svensson
+1995), taxa whose abundances were significantly reduced
+in our study by the presence of trout.
+Our results indicated that burrowing or distasteful
+taxa either were unaffected by trout presence, or, as in
+the case of oligochaetes and mites, increased in the
+presence of trout. Carlisle and Hawkins (1998) also
+provided evidence that oligochaetes (Lumbriculus)
+were more abundant in trout-containing lakes and suggested
+that this could be the result of either decreased
+interspecific competition or of trout enhancing food
+availability to deposit feeding taxa such as oligochaetes
+by increasing the flow of nutrients to lake bottoms (e.g.,
+Leavitt et al. 1994). Given the relatively high abundances
+of oligochaetes in alpine lakes, understanding
+the causes and consequences of changes in the abundance
+of this taxon may provide important insights into
+the food web structure and energy flow in these systems
+(Carlisle and Hawkins 1998).
+Resistance of the zooplankton community
+Comparisons between never-stocked and stockedfish-
+present lakes showed that trout reduced the distribution
+and abundance of large zooplankton. Similar
+results have been reported in many others studies of
+fish effects on zooplankton communities in alpine lakes
+(Anderson 1980, Stoddard 1987, Bradford et al. 1998,
+Carlisle and Hawkins 1998) and lentic systems in general
+(Brooks and Dodson 1965, Northcote et al. 1978,
+Vanni 1987, Mittelbach et al. 1995). Small crustacean
+zooplankton taxa were relatively unaffected by the
+presence of fish, with the exception of cyclopoid copepods
+which increased in abundance. The abundance
+of rotifer taxa also increased markedly in the presence
+of fish, although changes in rotifer distribution were
+small. Bradford et al. (1998), using presence/absence
+data, reported no effects of trout on rotifers in Sierra
+Nevada lakes. The similarity of our results based on
+rotifer presence/absence data to those of Bradford et
+al. (1998) but the much stronger effects we observed
+based on abundance data highlights the importance of
+using abundance data to better characterize the subtler
+effects of fish on invertebrate communities. The positive
+response of cyclopoids and rotifers to fish presence
+is common in alpine lakes (Anderson 1972, Stoddard
+1987, Carlisle and Hawkins 1998) and in other
+lentic habitats (Vanni 1987, Gilbert 1988, Christofferson
+et al. 1993). In alpine lakes, the increase in rotifer
+abundance may result from the elimination of planktonic
+predators (Hesperodiaptomus) and competitors
+(Daphnia) by fish (Anderson 1980, Gilbert 1988, Paul
+and Schindler 1994, Paul et al. 1995, Sarnelle 1997).
+Resilience of amphibian populations
+One of the most striking results of our study was
+that mountain yellow-legged frog larvae recovered after
+fish disappearance to levels typical of those in neverstocked
+lakes. In light of the increasing alarm about
+worldwide amphibian disappearances (Blaustein and
+Wake 1990, 1995) and the likely role of introduced
+fishes in a number of these declines, our results suggest
+that some of these declines could be reversed simply
+by removing trout from some of the lakes where they
+have been introduced (Funk and Dunlap 1999). However,
+because the mountain yellow-legged frog is closely
+tied to water and apparently moves only relatively
+short distances (Matthews and Pope 1999), recolonization
+of lakes that have been returned to a fishless
+condition may be strongly influenced by the proximity
+of nearby source populations. This possibility is supported
+by the fact that in our study, stocked-now-fishless
+lakes that contained frogs were much more likely
+to have one or more reproducing mountain yellowlegged
+frog populations within 1 km than were stockednow-
+fishless lakes that lacked frogs (77% vs. 5%; Fisher’s
+exact test, n 5 29, P , 0.001).
+The apparent importance of nearby source populations
+for successful recolonization by the mountain yellow-
+legged frog has important implications for the resilience
+of this species. The majority of stocked-now
+fishless lakes in our study lost their fish populations
+.20 yr ago. Given that mountain yellow-legged frogs
+have declined by .80% during the past century (Drost
+and Fellers 1996) and remaining populations continue
+to disappear (R. Knapp, unpublished data—apparently
+as a result of habitat fragmentation and isolation by
+introduced trout; Bradford et al. 1993), lakes that revert
+to a fishless condition in the future will be increasingly
+unlikely to be recolonized as the number of potential
+frog source populations continues to diminish (Bradford
+et al. 1993).
+Resilience of the benthic invertebrate community
+Although the benthic macroinvertebrate community
+was profoundly altered by fish introductions, most taxa
+appeared to recover after fish disappearance to levels
+characteristic of never-stocked lakes, as did the configuration
+of the benthic community as a whole. These
+results support the conclusions of Niemi et al. (1990)
+that lake benthic macroinvertebrate communities are
+generally resilient to most disturbances that leave habitats
+unimpaired. In our study, none of 15 taxa had
+frequencies of occurrence that were significantly different
+between stocked-now-fishless and never-stocked
+lakes. All taxa in the clinger/swimmer category recovered
+to levels at or above that of never-stocked lakes,
+and this resilience may have been facilitated by the
+strong flying abilities of their adult stages. Adult mayflies
+are known to disperse tens of kilometers (Gibbs
+et al. 1998), a distance sufficient to allow recolonization
+of most stocked-now-fishless lakes by animals dispersing
+from never-stocked lakes. Oligochaetes and
+mites (burrowing/distasteful category) increased in the
+presence of fish, but also returned to predisturbance
+levels (or nearly so) after fish disappearance. Mites
+were not found in any of the 22 stocked-now-fishless
+lakes, but based on the occurrence of mites in only
+15% of never-stocked lakes, they would only have been
+expected to occur in three stocked-now-fishless lakes.
+Therefore, our failure to detect mites in any of the
+stocked-fishless lakes is likely the result of sampling
+error and not recovery failure.
+In contrast to the relatively high resilience of clinger/
+swimmer and burrower/distasteful taxa, case-dwelling
+caddisflies appeared to have relatively limited abilities
+to recover after fish disappearance. While Desmona did
+recover to predisturbance levels, Polycentropus and
+Psychoglypha may have failed to do so. The reasons
+for the low resilience of these taxa are unclear as little
+natural history information is available. However, dispersal
+by caddisflies is often relatively restricted (Kovats
+et al. 1996, Bunn and Hughes 1997, Collier and
+Smith 1997) and Sode and Wiberg-Larsen (1993) concluded
+that because of this limited dispersal, recovery
+of caddisflies after disturbance may often require decades.
+Resilience of the zooplankton community
+Despite the substantial alteration of the zooplankton
+community by fish introductions, after fish disappearance
+the distribution and abundance of most zooplankton
+taxa returned to levels characteristic of neverstocked
+lakes. This capacity to recovery after a disturbance
+has also been reported for zooplankton communities
+in other lentic ecosystems (Keller and Yan
+1991, Locke and Sprules 1994, Mittelbach et al. 1995,
+Yan et al. 1996, Harig and Bain 1998; but see Parker
+et al. 1996, Frost et al. 1998). In our study, all of the
+11 common taxa showed similar percent occurrences
+in stocked-now-fishless and never-stocked lakes.
+Abundances in stocked-now-fishless lakes and neverstocked
+lakes were similar for all taxa except Daphnia
+rosea, a species that was unaffected by fish introductions
+but may have increased slightly after fish disappearance.
+The reduction in rotifer abundances following
+fish disappearance was probably a consequence
+of an increase in the abundance of Hesperodiaptomus
+shoshone and Daphnia middendorffiana to predisturbance
+levels. Reintroduction of Hesperodiaptomus arcticus
+into an alpine lake in the Canadian Rocky Mountains
+also resulted in the rapid suppression of the rotifer
+community (McNaught et al. 1999).
+The recovery of H. shoshone and D. middendorffiana
+after fish disappearance was likely facilitated by the
+relatively long-lived resting eggs characteristic of these
+two genera. Parker et al. (1996) presented evidence that
+the resting egg bank of Hesperodiaptomus articus in
+alpine lakes of the Canadian Rocky Mountains could
+remain viable for at least 15–20 yr, and .100 yr-old
+eggs of a related copepod, Diaptomus sanguineus, have
+been hatched (Hairston et al. 1995). Similarly, resting
+eggs of Daphnia can remain viable for .125 yr (Ca´-
+ceres 1998). However, if resting eggs of H. shoshone
+remain viable only for several decades (like those of
+H. arcticus), recovery of H. shoshone may be much
+less likely in lakes that return to a fishless condition
+in the future than in the lakes used in this study. On
+average, fish were first introduced to our stocked-nowfishless
+lakes in the mid-1940s. By the time stocking
+was halted and fish populations disappeared, these
+lakes had harbored fish populations for a mean of only
+29 yr. By contrast, lakes that were first stocked at the
+same time but that still contain fish populations today
+(either because of continued stocking or because of
+natural reproduction) have had fish populations for .50
+yr and may no longer contain a viable H. shoshone egg
+bank (e.g., Parker et al. 1996). The possibility that the
+resilience of H. shoshone populations is a function of
+fish-occupancy time is supported by recent research in
+which we used paleoecological analyses to establish
+the historical occurrence of H. shoshone in 25 stockednow-
+fishless lakes. H. shoshone reappeared in 86% of
+those lakes that had contained an introduced trout population
+for ,50 yr, while it failed to reappear in any
+of the lakes that had contained a trout population for
+.50 yr (R. Knapp and O. Sarnelle, unpublished data).
+With depletion of the egg bank, the only means by
+which H. shoshone could recolonize stocked-now-fishless
+lakes is via over-land transfers from nearby H.
+shoshone populations. The likelihood of such transfers
+resulting in the successful reestablishment of a population
+is likely to be very low (Boileau and Hebert
+1988).
+Conclusions
+Our snapshot sampling of never-stocked, stockedfish-
+present, and stocked-now-fishless lakes was successful
+in providing a broad, albeit relatively coarsegrained
+view of the resistance and resilience of amphibian,
+benthic macroinvertebrate, and zooplankton
+communities to fish introductions. In doing so, we believe
+we have satisfied many of the criteria set forth
+by Connell and Sousa (1983) as necessary to demonstrate
+system stability. Our study was based on data
+collected at least 30 yr after fish introductions took
+place and given the short generation times of zooplankton
+and benthic macroinvertebrates (generally one year
+or less) this time frame would have allowed many complete
+turnovers of these communities. We evaluated
+recovery of these faunal assemblages over a similarly
+long time frame. In addition, our study utilized dozens
+of replicate lakes and demonstrated that, with some
+minor exceptions, the response of these systems to a
+perturbation and to the removal of the perturbation was
+highly predictable.
+Our snapshot approach provided a greater spatial and
+temporal perspective of the resistance and resilience of
+lake fauna than any previous study, but our approach
+also had several limitations. First, our study was observational
+in nature and therefore did not allow us to
+unambiguously determine cause and effect. Such a determination
+would only be possible with a replicated
+whole-lake design, such as the one we are currently
+using to assess recovery of lake ecosystems after the
+experimental removal of exotic trout (R. Knapp and O.
+Sarnelle, unpublished data). Second, because our
+‘‘treatments’’ were constructed from lakes with different
+fish stocking histories (never-stocked, stocked-fishpresent,
+and stocked-now-fishless) instead of from
+lakes that had treatments randomly assigned to them,
+our study design confounded effects due to fish and
+those due to habitat differences between lake categories.
+The fact that correcting for habitat influences had
+little effect on the ordination results suggests that the
+observed differences in faunal assemblages between
+lake categories were largely the result of fish stocking
+history and not habitat effects. A third shortcoming of
+our approach is that one-time sampling may only poorly
+characterize benthic macroinvertebrate and zooplankton
+presence/absence and abundance due to the
+high seasonal and interannual variability of many taxa
+(Arnott et al. 1998, 1999). In the alpine lakes that were
+the focus of our study, the summer growing season is
+short, allowing only a single generation for many taxa.
+Perhaps as a result, invertebrate species composition
+and richness changes little over the course of the summer
+(Stoddard 1987, Engle and Melack 1995; R. Knapp
+and O. Sarnelle, unpublished data). Our sampling undoubtedly
+failed to document the presence of some rare
+taxa, but inclusion of these rare taxa as a result of a
+more intensive sampling regime would likely have had
+little effect on the results due to their relative unimportance
+in describing community structure. Abundances
+of some species characteristic of our study lakes
+do fluctuate markedly over the course of a single summer
+(e.g., rotifers; R. Knapp and O. Sarnelle, unpublished
+data). Although these fluctuations make it impossible
+to precisely quantify species abundance from
+a single sample, these inaccuracies are a source of
+noise, not bias, and should therefore not have unduly
+influenced our results. The fact that correction of
+NMMDS scores for sampling date (and habitat variables)
+did not alter the ordination results further suggests
+that snapshot sampling was sufficient to describe
+resistance and resilience of the invertebrate communities.
+A final weakness of our study is that we were
+only able to estimate resilience by comparison of the
+frequency and abundance of taxa between stockednow-
+fishless and never-stocked lakes. While this comparison
+should provide a reasonable approximation
+given our relatively large sample sizes, the strength of
+our inferences as to whether a taxon had recovered or
+not was considerably lower than what could be
+achieved by following faunal changes after fish disappearance
+in multiple lakes whose past community
+structure was known. To increase the strength of our
+inferences, we are currently combining our snapshot
+approach with paleoecological analyses (Knapp et al.
+2001) to determine more accurately how often the large
+zooplankton species, H. shoshone and D. middendorffiana,
+fail to recolonize and what the consequences of
+such failures are for zooplankton community structure.
+Indeed, preliminary results from these finer scale analyses
+indicate that H. shoshone fails to reestablish in
+;10% of lakes following fish disappearance.
+Our finding that the fauna included in this study generally
+have high resilience after fish disappearance has
+important implications for restoration of these alpine
+lake ecosystems. The majority of high mountain lakes
+in the Sierra Nevada are located within national parks
+and national forest wilderness areas, areas set aside in
+part to protect natural processes. However, the introduction
+of trout into these naturally fishless habitats
+has dramatically altered these systems, and there is
+increasing interest in returning some lakes to a fishless
+condition (Knapp and Matthews 1998). The National
+Park Service has already initiated such a program by
+ending fish stocking on many of the lands under its
+jurisdiction. In the Kings Canyon National Park portion
+of our study area, all fish stocking was halted in 1977,
+and many of our stocked-now-fishless lakes are the
+result of this policy change. The results of our study
+indicate that this policy change has accomplished its
+goal of allowing the fauna of these lakes to recover
+their predisturbance configurations, and argue for more
+intensive fish removal efforts not only in the national
+parks, but also in national forest wilderness areas,
+where upwards of 80% of larger lakes still contain
+introduced trout populations (Bahls 1992, Knapp and
+Matthews 2000). Given the declining status of the
+mountain yellow-legged frog and the likely decline in
+zooplankton egg bank viability with increasing duration
+of trout occupation, we suggest that any delay in
+undertaking these restoration activities may further reduce
+the chances that the target aquatic communities
+will fully recover.

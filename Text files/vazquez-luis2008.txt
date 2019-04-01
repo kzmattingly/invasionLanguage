@@ -1,0 +1,457 @@
+﻿xabstract
+The effects of the invasive species Caulerpa racemosa var. cylindracea (hereafter C. racemosa) on amphipod assemblages associated
+with shallow-water rocky habitats were studied. Two habitats located along the SE Iberian Peninsula were compared; invaded and
+non-invaded. The results showed that growth of C. racemosa affects habitat structure, influencing the species composition and biomass
+of macroalgae, and detritus accumulation. In turn, such changes in habitat features affected the associated amphipod assemblages with
+different ecological requirements. However, the species richness of amphipods was relatively high in both habitats, while the species composition
+of amphipods changed completely. For example, some species such as Ampithoe ramondi and Hyale schmidti did not colonize
+invaded habitats, while others such as Apocorophium acutum were favoured by the spread of C. racemosa. Habitat invasion by C. racemosa
+can have an important influence on biotic assemblages, modifying both habitat structure and the associated fauna, with unknown
+effects on the overall ecosystem.
+
+xintroduction
+The green alga Caulerpa racemosa (Forsska˚l) J. Agardh
+var. cylindracea (Sonder) Verlaque, Huisman et Boudouresque
+(Verlaque et al., 2003) (hereafter C. racemosa) was
+first detected in Tunisia (Mediterranean Sea) in 1926. More
+recently, during the 1990s, C. racemosa spread steadily
+throughout the Mediterranean region (see Piazzi et al.,
+2005). Recent genetic analyses have shown that the C. racemosa
+population originated from the southwest coast of
+Western Australia (Verlaque et al., 2003), and is not a Lessepsian
+migrant as thought originally. A remarkable spread
+of C. racemosa throughout the Mediterranean has been
+recorded during the last 15 years or so, during which the
+alga invaded different habitats located at water depths of
+0 m to more than 60 m. The recorded rate of invasion
+has been much faster than that for other invasive species
+such as Caulerpa taxifolia (Verlaque et al., 2003). The rapid
+spread of C. racemosa can be explained by its very efficient
+reproductive strategies, both sexual and asexual (via propagules),
+which is not the case with C. taxifolia (Panayotidis
+and Zˇ uljevicˇ, 2001; Renoncourt and Meinesz, 2002).
+Several studies have demonstrated that habitat heterogeneity
+and complexity play an important role in influencing
+the assemblage structure of epibenthic marine fauna
+(Johnson, 1970; Stoner, 1980; Dean and Conell, 1987;
+Edgar, 1992; Taylor and Cole, 1994; Ayala and Martı´n,
+2003). The pattern of distribution and species richness
+and abundance of epifauna on rocky bottoms is affected
+by changes in the composition of associated macroalgae
+(Connell, 1972). Therefore, changes in habitat structure
+of vegetated substrates resulting from the invasion of
+species such as C. racemosa could affect the associated
+fauna, including amphipods.
+Amphipods are one of the most important groups of
+invertebrates associated with vegetated habitats, and they
+play an important role as trophic resources for fish populations
+(Sanchez-Jerez et al., 1999; Sta˚l et al., 2006). Amphipods
+respond to habitat alteration and can therefore be
+used as an indicator of environmental impacts on vegetated
+habitats (Bellan-Santini, 1980; Virnstein, 1987; Conradi
+et al., 1997; Sanchez-Jerez et al., 2000).
+Since the first records of spread of C. racemosa along
+Mediterranean coastal areas, several studies concerning
+the ecology of this species have been undertaken (see Ruitton
+et al., 2005; Cavas et al., 2006). However, information
+on changes on the associated fauna brought about by the
+invasive alga is lacking (Argyrou et al., 1999; Piazzi and
+Balata, 2007). The main aim of this study was to assess
+the effects of C. racemosa on amphipod assemblages associated
+with a shallow-water rocky bottom habitat in the
+southwestern Mediterranean Sea, by comparing natural
+rocky algal assemblages and the same habitat type that
+has been invaded by C. racemosa. The hypothesis tested
+in our study was: invasion by C. racemosa should influence
+the habitat structure of rocky bottom algal assemblages
+and, consequently, the assemblage structure of associated
+epifauna such as amphipods may be affected, in terms of
+species richness and abundance.
+
+
+xmethods
+Fieldwork was carried out along the Cape of Santa Pola
+(Alicante, south-east Spain; Fig. 1) on a shallow rocky platform.
+In Alicante, C. racemosa was first recorded in 2002 at
+a site located around ten kilometres north of our study
+area, where it colonised soft sediments and dead matte of
+Posidonia oceanica. Following two months, C. racemosa
+was detected on the rocky platform in our study area
+(Pena-Martı´n et al., 2003). The alien alga now occurs in
+extensive areas of ecologically important rocky bottoms,
+on sandy and muddy substrata, and on dead matte of
+P. oceanica. It also occurs intermixed with Cymodocea nodosa
+in meadows of the seagrass within a wide depth range (0.2–
+1.5 m) and with patchy distribution.
+Shallow rocky habitat, located within the 0.2–0.5 m
+depth range, was sampled. Several sampling sites, separated
+by hundreds of metres, with C. racemosa and without
+the alien alga, were randomly selected across the study
+area. All sites presented similar environmental conditions
+with respect to wave exposure and light (Ferrandis-Ballester
+and Bartolome´-Pina, 1985). Three ‘invaded’ rocky habitat
+sites and another three ‘non-invaded’ rocky habitat
+sites were sampled in September 2004 (average water temperature
+= 27.5 C), which coincides with the period of
+maximum vegetative growth of the alga (Piazzi and Cinelli,
+1999). Other sites were sampled again in March 2005
+(water temperature = 13 C) which coincides with the period
+of minimum vegetative grow. At each site, three random
+replications were taken using a 20  20 cm quadrat
+by scraping the whole surface using a trowel (Edgar,
+1990). Samples were separated by tens of meters. A
+300 lm mesh bag was attached to the quadrat to avoid loss
+of the motile fauna. Samples were preserved in 4% solution
+of formaldehyde in seawater. Each replicate was sieved in
+sea-water through a 500 lm mesh, obtaining the fine fraction
+of detritus. In the laboratory, the amphipods were separated,
+identified, and counted. After that, algae were
+sorted as well as the bigger fragments of detritus. Afterwards
+the macrophytes and the detritus were dried for
+24 h at 80 C, and weighed. The macrophytes were identified
+to the species level. Habitat structure was characterised
+using three attributes: species richness of macrophytes, biomass
+of each species (g) and quantity of detritus (g).
+Two different statistical approaches were used to identify
+potential changes in the amphipod assemblages and
+habitat features, based on the null hypothesis of no change
+in amphipod assemblage composition between the two
+habitat types across different sampling times.
+Non-parametric multidimensional scaling (MDS) was
+used as the ordination method for exploring changes in
+amphipod and macroalgal assemblages (Clarke and Warwick,
+1994). The similarity matrix, which was calculated
+using the Bray–Curtis index and double square transformation
+of data, was used to construct bivariate MDS plots.
+Calculation of percentage similarities (SIMPER) was then
+applied to calculate the contribution of each species to
+the dissimilarity between sampling times and habitats.
+(PRIMER software; Clarke, 1993).
+Algal biomass, C. racemosa biomass, species richness of
+seaweeds, biomass of detritus, total abundance of amphipods,
+species richness of amphipods and abundance of
+seven amphipod species (the most important by SIMPER)
+were analysed using ANOVA. To test whether the abundance
+of amphipods was similar across habitats and times
+we used an analysis of variance (ANOVA) which incorporated
+the following factors: ‘Time of sampling’, a fixed factor
+and orthogonal, with two treatments: September-04
+and March-05; ‘habitat’, a fixed factor, with two treatments:
+macroalgal community with C. racemosa (invaded
+habitat) and without C. racemosa (non-invaded habitat),
+and ‘Site’, a random factor and nested with the both main
+factors, with three random sampling sites.
+Prior to ANOVA, heterogeneity of variance was tested
+with Cochran’s C-test. Data were
+p
+x + 1 transformed if
+variances were significantly different at p = 0.05, and
+log(x + 1) transformed if variance was still heterogeneous.
+Where variance remained heterogeneous, untransformed
+data were analysed, as ANOVA is a robust statistical test
+and is relatively unaffected by heterogeneity of variances,
+particularly in balanced experiments (Underwood, 1997),
+however, in such cases special care was taken in the interpretation
+of results. Furthermore, in such cases, to reduce
+type I error, the level of significance was reduced to
+<0.01. When ANOVA indicted a significant difference for
+a given factor, the source of difference was identified by
+applying the Student–Newman–Keul (SNK) test (Underwood,
+1981; Underwood, 1997).
+
+xresults
+A total of 24 taxa of macroalgae and one seagrass
+species were identified (Table 1). Species richness showed
+significant seasonal differences (Table 2; Ti=P < 0.05).
+During September, the invaded habitat showed a reduced
+number of macroalgal species: only five together with C.
+racemosa, compared with 11 species recorded from the
+non-invaded habitat. The most important species in
+terms of biomass in the non-invaded places were Jania
+rubens, Halopteris scoparia and Cystoseira brachicarpa,
+while in the invaded habitat C. racemosa, J. rubens and
+Padina pavonica were most important (Table 1). In
+March, differences between invaded and non-invaded
+habitats were lower (14 where C. racemosa was present
+and 16 species where it was absent). The most important
+species in non-invaded sites during March were Corallina
+elongata, J. rubens and Dictiota fasciola; and C. racemosa,
+Cladophora sp. and H. scoparia dominated at invaded
+sites (Table 1). The MDS two-dimensional representation
+of macrophyte biomass clearly showed segregation of
+sampling sites mainly related to sampling time and
+habitat (Fig. 2).
+In the case of algal biomass, excluding C. racemosa, significant
+differences were noted for the invaded habitat with
+respect to the non-invaded habitat (Table 2; Fig. 3). Total
+algal biomass recorded in September was similar between
+the two different habitats (347.67 ± 117.44 g dw m2 for
+non-invaded habitat compared to 379.55 ± 64.63 g dw m2
+for invaded habitat; Table 1), however, C. racemosa contributed
+a high value (74.6%), and replacing other native
+species. Non-invaded sites showed the highest mean biomass
+value, which reached a maximum value of
+826.46 ± 203.15 in September (Fig. 3). However, total biomass
+(326.52 ± 79.21 g dw m2) at the invaded sites, without
+a recovery of the community in spite of the reduction
+of C. racemosa biomass.
+Differences in accumulated detritus biomass was significant
+between habitats (P < 0.05, Table 2). The highest values
+were recorded from invaded habitats during both
+sampling periods (472.48 g dw m2 in September and
+466.92 g dw m2 in March). On the other hand, detritus
+biomass was relatively low at non-invaded habitats during
+September (5.87 ± 1.51 g dw m2), and higher in March
+(242.22 ± 47.25 g dw m2; Fig. 3).
+A total of 31 amphipod taxa, belonging to 13 families,
+were recorded (Table 3). Species richness was significantly
+different (Ti, P < 0.05, Table 4; Fig. 4a) among sampling
+times but similar between habitats. In September, species
+richness recorded from the habitat dominated by C. racemosa
+was similar to that recorded from the non-invaded
+habitat (16 and 14 species respectively; Table 3), while for
+both habitats, values were higher in March (20 and 24 species,
+Table 3). Only ten species were present in both habitats
+and in both months: Amphilochus neapolitanus,
+Ampithoe ramondi, Microdeutopus spp., Caprella spp., Apocorophium
+acutum, Elasmopus spp., Lysianassa costae,
+Pereionotus testudo, Stenothoe monoculodes and Hyale
+schmidti. Seven species were found only in the non-invaded
+habitats: Amphilochus sp., Ampelisca serraticaudata,
+Ampithoe ferox, Lembos sp., Leptocheirus guttatus, Leptocheirus
+sp. and Stenothoe tergestina; while there seemed to
+be a relationship between the invaded habitat and the following
+six amphipods: Ampelisca diadema, Corophium spp.
+Corophium insidiosum, Gammarella fucicola, Melita palmata
+and Orchomene humilis. Total abundance was similar
+between habitats in September, but there were significant
+differences between the two habitats in March, with a
+maximum value of 6497.22 ind/m2 recorded from the noninvaded
+habitat (TixHa P < 0.01, Table 4; Fig. 4b).
+The two-dimensional MDS plot for the amphipod
+assemblages showed segregation of sampling sites that
+was mainly related to the sampling period, while moderate
+segregation was noted by habitat type during March
+(Fig. 5). The main species responsible for dissimilarities
+in amphipod assemblages were Caprella spp., A. ramondi,
+Microdeutopus spp., Elasmopus spp., A. acutum,
+H. schmidti and L. costae, for which an average dissimilarity
+of 64.73 % was noted between habitats. Together, these
+species comprised 90 % of the total amphipod abundance.
+The seven most important amphipod species showed different
+patterns of abundance values with respect to macroalgal
+assemblage. Abundance of A. ramondi and H. schmidti
+were significantly higher in non-invaded habitats (Ha,
+P < 0.05, Table 4; Fig. 6a, b). On the other hand, A. acutum
+had a significantly higher abundance in the invaded habitat
+(Ha, P < 0.05, Table 4; Fig. 6c). Significant differences were
+recorded for Microdeutopus spp. in terms of sampling times
+(Ti, P < 0.05, Table 4; Fig. 6d), while it was more abundant
+in September at invaded habitats but without significant
+differences.
+With regard to differences between sampling times
+(Table 3), several species appeared only in September
+(Amphilochus sp., Melita palmata and Orchomene humilis);
+or in March (Ampelisca diadema, Ampelisca serraticaudata,
+Lembos sp., Leptocheirus guttatus, Corophium spp., Corophium
+insidiosum, Dexamine spiniventris, Gammarella fucicola,
+Melita hergensis, Lysianassa sp. and Stenothoe
+tergestina). Dissimilarity between sampling times within
+non-invaded sites was not very high (48.09%); the most
+important species contributing to this dissimilarity were
+Caprella spp. and H. schmidti. Dissimilarity between sampling
+times within invaded sites was 51.71%, the most
+important species contributing to this dissimilarity were
+Caprella spp. and L. costae.
+The abundance of two species (Caprella spp. and Elasmopus
+spp.) was not significantly different between the two
+habitat types, but there was a clear pattern of higher abundances
+in non-invaded habitat. The abundance of Caprella
+spp. varied significantly with respect to season, being more
+abundant in March, especially in the non-invaded habitat
+(Ti, P < 0.05, Table 4; Fig. 6e). Elasmopus spp. seemed to
+be more abundant on native seaweeds, especially during
+September, but not statistical differences were noted (Table
+4, Fig. 6f). Finally, the abundance of L. costae, was higher
+in non-invaded habitats, but this was true only in March
+(TixHa, P < 0.01, Table 4, Fig. 6g); the pattern was opposite
+during September, but without any significant
+differences.
+
+xdiscussion
+Our results show that the presence and abundance of
+C. racemosa had a marked effect on the macroalgal assemblage
+structure of Mediterranean shallow rocky communities,
+affecting the species composition of vegetation and
+increasing the detritus stock. This causes important
+changes in the associated amphipod assemblage, in terms
+of both abundance and species composition. The effects of
+the invasive species on habitat structure were more important
+in September because the alga was dominant at that
+time. The seasonal variation in abundance values for C.
+racemosa recorded from our study area was similar to that
+described in other localities, i.e. with maximum development
+in the warm season, while biomass values were similar
+or even greater than those recorded from other Mediterranean
+localities (Piazzi and Cinelli, 1999). The peculiar
+growth of C. racemosa, with stolons that spread rapidly
+in all directions, and its colonisation pattern that results
+from sexual reproduction (Panayotidis and Zˇ uljevicˇ,
+2001), together with dispersal of fragments detached from
+the plant (Ceccherelli et al., 2001; Ceccherelli and Piazzi,
+2001) and propagules (Renoncourt andMeinesz, 2002) permit
+C. racemosa to colonize a habitat very efficiently. This
+results in strong modification of habitat structure, particularly
+that of macroalgal assemblages. On the SE coast of
+Spain and other locations (e.g. Nervi, Italy; Modena
+et al., 2000), colonisation by C. racemosa has been mostly
+recorded from rocky bottom habitats located in shallow
+waters (0.5 m), however, on a wider scale across the Mediterranean
+region (e.g. France, Italy and Cyprus) more
+extensive spread of the alga have been recorded on soft
+bottom habitats in deeper waters (15–20 m) (Argyrou
+et al., 1999; Verlaque et al., 2004), and on dead matte of
+P. oceanica. Therefore, one would expect that the spread
+of C. racemosa will extend to both rocky and soft bottom
+habitats, as well as to degraded P. oceanica meadows.
+With respect to changes in vegetation resulting from the
+presence of C. racemosa, an important reduction in species
+richness was recorded in September. On the other hand,
+contrary to results from other studies (Piazzi et al., 2001),
+species richness was similar between invaded and noninvaded
+habitats in March (the colder month), which
+implies that some native species colonized the habitat irrespective
+of the different species composition and biomass of
+benthic vegetation. Some authors have shown that several
+years are necessary for the development of dense and continuous
+C. racemosa stands (Ruitton et al., 2005); possibly
+during the forthcoming years the effects will persist also
+during the coldest period at the study area, reducing the
+possibility of algae colonization. However, the total
+biomass of C. racemosa recorded from our study
+(259 g dw m2) is comparable or higher than that recorded
+from studies carried out on French and Italian coasts, and
+is also higher than values obtained for C. taxifolia and C.
+prolifera meadows at some localities (see a review in Capiomont
+et al., 2005).
+One of the remarkable impacts of C. racemosa is the
+accumulation of detritus, which persists throughout the
+year. In spite of the important seasonal variability of
+C. racemosa biomass, detritus accumulation persist in winter.
+The mesh generated by the stolons of this species ensure
+that detritus is retained, while the multilayered structure
+formed by the thallus traps the sediment (Piazzi et al.,
+2001). Detritus values recorded during both seasons were
+2–6 times higher than those recorded from native seaweeds.
+This accumulation of detritus causes import changes in the
+structure of the sediment and in the granulometric compo-
+sition (Walker et al., 1991), leading to anoxic conditions in
+which toxic substances can be possibly accumulated. On the
+other hand, detritus plays a very important role as a trophic
+resource for marine invertebrates, being one of the main
+trophic pathways of the marine ecosystem (Valiela, 1995)
+and is one of the most important features of habitat structure
+in vegetated habitats (Allesina et al., 2005). Therefore,
+any modification of the detritus compartment can affect the
+overall trophic web, because it could lead to a change in the
+faunal assemblage structure resulting from modification of
+trophic guilds due to different trophic requirements.
+With respect to the epifauna, various studies have demonstrated
+that modification of habitat complexity affects
+crustacean assemblages (Hicks, 1997; Hicks, 1982; Stoner,
+1980; Virnstein, 1987; Virnstein and Howard, 1987; Edgar,
+1983, 1992; Sanchez-Jerez et al., 1999; Ayala and Martı´n,
+2003). In our study, the amphipod assemblages were
+affected by changes in habitat structure due to colonisation
+by C. racemosa. The total abundance of amphipods was
+greater on native seaweeds, mainly in March. However,
+the species richness of the amphipod assemblage did not
+decrease because of the spread of C. racemosa but because
+of an indirect effect; namely the increase in detritus biomass
+in invaded habitat resulted in an increase in the abundance
+of detritivores species (e.g. A. acutum), and decrease in the
+abundance of herbivorous species (e.g. A. ramondi and
+H. schmidti), hence resulting in a large overall modification
+of the assemblage species composition.
+The main modification in amphipod assemblage structure
+was manifested as an increase in abundance of A. acutum
+in habitat invaded by C. racemosa, which was four
+times higher than that of other Corophiidae species in
+eutrophic habitats (Guerra-Garcı´a and Garcı´a-Go´mez,
+2005). Species belonging to the genus Apocorophium are
+tube-dwelling amphipods that inhabit small U-shaped
+tubes and are selective deposit feeders (Ciarelli et al.,
+1997), and feed on bacteria, algae, and diatoms adsorbed
+onto the surface of sediment particles (Meadows and Reid,
+1966). Several species of this genus are continuously
+exposed to toxicants in the sediment, which they ingest
+while feeding (Bat and Raffaelli, 1998), hence they have
+been used for sediment toxicity tests. The accumulation
+of detritus in habitats invaded by C. racemosa seems to
+favour colonization by Corophium spp., resulting in a dramatic
+increase in abundance and establishment of a large
+population in an altered habitat. Microdeutopus spp. also
+showed a small increase in abundance in habitat invaded
+by C. racemosa, but the effect was only recorded in September.
+This genus is generally associated with P. oceanica and
+fine sand habitats (Ruffo, 1982), but in experiments carried
+out recently by Roberts and Poore (2005), the family Aoridae
+were noted to prefer bare rock with a thin cover of sediment
+than an algal substratum. Furthermore, other
+taxonomic groups, such as the polychaetes, are favoured
+by accumulation of detritus amongst the C. racemosa stolons,
+as shown by Argyrou et al. (1999) from their study
+carried out in Cyprus.
+On the other hand, the abundance of some species, such
+as A. ramondi, H. schmidti or Caprella spp., was reduced in
+habitat invaded by C. racemosa, since these species have a
+preference for native seaweeds (Kocatas, 1976; Russo,
+1997; Guerra-Garcı´a and Garcı´a-Go´mez, 2001; Roberts
+and Poore, 2005). Other studies have also shown displacement
+of A. ramondi resulting from the presence of other
+Caulerpa species, e.g. Caulerpa prolifera (Sa´nchez-Moyano
+et al., 2001). The displaced species have a close relationship
+with seaweeds, as has been demonstrated by Viejo (1999).
+In the case of other species, such as L. costae, the effects
+of C. racemosa seem to be seasonal, inhabiting habitats
+that have a large algal biomass, irrespective of the species
+composition.
+Comparing the results of the present study with ones on
+the effects of C. taxifolia on amphipod assemblages, the
+species richness recorded from the latter appears to be
+lower (Bellan-Santini, 1995). Furthermore, the effects of
+C. taxifolia on the abundance of amphipods also seem to
+be more critical (Bellan-Santini, 1995). Such differences
+could be due to several factors, such as the species composition
+of Caulerpa beds. Stands of C. taxifolia are monospecific,
+while in our case; the C. racemosa grew intermixed
+with other macroalgal species during both sampling periods.
+Consequently, during the initial stages of invasion of
+a host habitat by an invasive seaweed, an increment in habitat
+complexity will occur if the initial cover is low, hence a
+new and additional habitat for the local epifauna becomes
+available (Viejo, 1999). However, if growth of the invasive
+species continues, leading to a monospecific and dense
+meadow, it could lead to impoverishment of the amphipod
+assemblage as has been noted for C. taxifolia elsewhere.
+Several studies have demonstrated that consequences of
+C. racemosa in host systems are very important, particularly
+since it appears that this introduced species most invasive
+in the Mediterranean Sea (Verlaque et al., 2003). The
+presence of C. racemosa in the southeastern coast of Spain
+is an incipient problem. It was recorded from Alicante in
+2002 and, in less than three years, important changes in
+the structure of shallow rocky habitat assemblages
+occurred, although to date the distribution of C. racemosa
+has been rather patchy, hence its effects are not very widespread
+locally. Several years may be necessary for development
+of a dense and continuous C. racemosa meadow
+(Ruitton et al., 2005); therefore in the near future, one
+can expect dramatic changes in rocky bottom habitats,
+leading to a direct impact on marine benthic communities
+along the western Mediterranean coast. It is therefore very
+important to increase our research effort to establish the
+ecological implications of the spread of C. racemosa in
+the Mediterranean Sea, as this will provide the necessary
+information and tools to develop new mitigation and eradication
+programs.

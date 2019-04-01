@@ -1,0 +1,657 @@
+xabstract
+Twelve wet meadows in Dane County, Wisconsin showed vegetation patterns that correlate with hydrologic disturbance and presence of a clonal invasive grass, Phalaris arundinacea L., at two scales, 4500-m(2) (0.45 ha) "sites" and 1-m(2) plots. Sites with indicators of hydrologic disturbance had lower species richness and diversity than reference sites, and species richness, diversity, and mean coefficients of conservatism (Mean C) were inversely related to the abundance of Phalaris on sites. Within 1-m(2) plots, 5.5 +/- 0.4 (SE) species coexisted with Phalaris, while about twice as many coexisted with two widespread native graminoids: 11.5 +/- 0.3 with Carex stricta Lam. and 10.6 +/- 0.3 with Calamagrostis canadensis (Michx.) Beauv. Cover of Phalaris was approximately six times higher in plots on sites with disturbance indicators than on reference sites. Overall, plots with either Phalaris or hydrologic disturbance had 2/3 the species of plots lacking Phalaris on reference sites, as well as lower diversity and Mean C. These results suggest a strong negative effect of hydrologic disturbance or presence of Phalaris on the quantity and quality of species in a wetland. When Phalaris and disturbance indicators co-occurred, the difference was more severe. Plots with Phalaris on disturbed sites had 1/3 the species of reference plots and the lowest diversity and Mean C. Species were grouped into seven "response types" based on apparent sensitivity to the presence of Phalaris and hydrologic disturbance. Only the clonal grass Phragmites australis (Cav.) Trin. ex Steud. responded positively to the combination of Phalaris and hydrologic disturbance
+
+xintroduction
+Soil hydrologic conditions are considered
+the most important factor in the establishment
+and maintenance of specific types of
+wetlands a9d wetland processes (Mitsch
+and Gosselink 1993, Silvertown et al.
+1999, Keddy 2000). The source of water
+for a wetland determines both the water ·
+chemistry and hydroperiod (Brinson 1993,
+e.g., Hunt et al. 1999) and influences the
+types of plant species that can establish and
+grow there (Goslee et al. 1997, Godwin et
+al. 2003, Kraemer 2003).
+Urbanization causes both major and subtle
+changes in the hydrologic regimes of wetlands.
+Construction of stormwater sewers
+or drainage ditches can increase surlace
+flow irito wetlands or decrease water
+table depth. Increased area of impervious
+surlaces in the watershed may increase
+the frequency and severity of Hooding
+(Watson etal.1981,Pitt 1996).Atthesame
+time, groundwater-fed wetlands can be
+profoundly affected by municipal pumping.
+of groundwater and diversion of recharge
+(infiltration) by impervious surfaces in
+urbanized areas - phenomena that often
+appear to be decoupled from influences
+on wetlands (Brinson 1993).
+Few studies link specific hydrologic disturbances
+with vegetation characteristics,
+but hydrologic changes are suspected to
+be responsible for the spread of some invasive
+species (Galatowitsch et al. 1999).
+Galatowitsch et al. (2000) found landscapescale
+associations between stormwater
+runoff and introduced perennials in the
+prairie pothole region of Minnesota. The
+introduced perennials are often undesirable
+invasive species, either exotic in origin
+(e.g., Lythrum salicaria L.) or possibly
+hybrids of exotic and native strains (e.g.,
+Typha X glauca, Phalaris arundinacea
+L.).
+In July of 2000, we surveyed vegetation
+in three reference-wet meadows and in
+nine wet meadows with visible indicators
+of hydrologic disturbances (e.g., drainage
+ditches, storm water basins, proximate municipal
+wells) in Dane County, Wisconsin.
+Our objectives were: (1) to determine if
+hydrologic disturbances correlated with
+patterns in the distribution and abundance
+of plant species, and (2) to describe species
+associations both on the scale of whole
+sites (measuring 4500-m2, or 0.45 ha) and
+within 1-m2 plots.
+We hypothesized that lower species richness
+and diversity.would occur on sites with
+indicators ofhydrologic disturbances present.
+Likewise, we predicted that invasive
+species would correlate with low diversity
+at the scale of both sites and plots. Finally,
+we asked if mean coefficient of conservatism
+(Mean C), a measure of fioristic
+quality, was related to presence of Phalaris
+arundinacea and/or disturbance.
+
+xmethods
+Twelve wet meadows were grouped into
+two categories: (1) reference sites, for
+which no indicators of hydrologic disturbance
+were visible, and (2) sites with indicators
+of hydrologic disturbance apparent
+e ither within the site or in adjacent areas
+(Table 1). The indicators were existing
+structures, including stormwater sewer
+outlets and basins, drainage ditches, and
+nearby municipal wells. ·
+All sites are located within the Yahara
+River watershed near Madison, Wisconsin
+(Figure 1). All are slightly (0.5 to 1.5 m)
+above the levels of the present chain of
+Yahara Lakes (Mendota, Wingra, Monona,
+Waubesa; Table l).· Fine-grained glaciolacustrine
+deposits from the extensive
+glacial lake(s) that formed at the close of
+the Pleistocene cover much of the lower
+portion of the landscape; these deposits
+form aquitards that encouraged wetland
+formation, especially in the shallow bays
+of the post-glacial Yahara Lakes. Houghton
+Mucks (Typic Medisaprists) and Palms
+Mucks (Terrie Medisaprists) are common
+in former bays. Slightly above these and
+along drainageways, lineal wetlands form
+over the glacio-lacustrine deposits but do
+not form histosols because they are only
+intermittently saturated. Common series
+include Orion (Aquic Udifluvents) and
+Wacousta (Typic Haplaquolls).
+Three study sites were located in the Cherokee
+Marsh wetland complex north of Lake
+Mendota. Originally a continuous wetland
+of ca. 2000 ha, the area now suffers from
+filling for an airport, agricultural drainage
+ditches, and stormwater drainageways. A
+50-ha core area remains unaltered except
+for a drainageway (Cherokee Marsh-CM).
+Along the bound~ of the undisturbed core
+and the last drainage ditch, we established
+side-by-side study sites with Cherokee
+Ditch (CD) proximate and Cherokee Fen
+(CF) distal to the ditch.
+Two study sites were located in the Pheasant
+Branch wetland complex at the west end
+of Lake Mendota. Located at the terminus
+of a natural drainageway, the Pheasant
+Branch Pond (PBP) site suffered from postsettlement
+sediment deposition and recent
+stormwater augmentation from suburban
+development. In contrast, the Pheasant
+Branch Fen (PBF) site is located just below
+the nose of a hill and thus escapes large
+storrnwater flows.
+Located at the edge of Lake Wingra, the
+Wingra Marsh (WM) site is sometimes
+flooded by stormwater from a nearby
+golf course and surrounding residential
+developments. ,Nearby city water supply
+and private irrigation wells may also affect
+the site. Southeast Marsh (SEM) was
+once part of a connec.ted wetland complex
+around Lake Wingra, but a berm protecting
+a sinking housing development coupled
+with increased storinwater inputs have
+converted portions of it into a de facto
+detention pond that can experience a one
+meter fluctuation in water levels in a 24 h
+period ( unpubl. data). The Arboretum Pond
+(AP) is located about 1.5 m above Lake
+Wingra along a natural drainageway that
+receives conditioned water via a series of
+detention areas.
+The Nine-Springs valley drains into the
+Yahara River between Lakes Monona and
+Waubesa. Deep freshwater lake deposits
+suggest that it was once a small, narrow
+lake, but it is now an extensive peatland
+with numerous large springs along its
+edges. A road floats across the peat in
+one area funneling all spring and storm
+flow through one undersized culvert. One
+study site above the road and alongside the
+straightened stream (Nine-Springs Ditch
+- NSD) and one below the road and a few
+meters away from the ditch (Syene Road
+Meadow - SRM) were chosen for contrast.
+Another site (Nine-Springs Meadow
+- NSM) suffers from adjacent filling and
+agricultural development (ponds, ditches)
+while nearby several areas escaped these
+intrusions (Nine-Springs Fen - NSF).
+During July 10-20, 2000, two teams
+sampled each of the 12 sites with l -m2
+plots using a square PVC frame. The twoperson
+teams sampled 30 plots per site for
+a total of 360 plots. Ten plots per site were
+double-sampled by the two teams to assess
+the quality of data (Kercher et al. 2003).
+Plots were placed along a 90-m transect
+line stretched across the approximate center
+of a site. Every 3 meters a team walked
+a random perpendicular distanc.e (from 1
+to 25 m) away from the transect line and
+laid down a plot. Half of the plots were
+placed to the right of the line and half to
+the left.
+
+Within plots, all taxa present were recorded
+and their abundance was estimated using
+nine cover classes in a Log2 system ( <
+0.5%, 0.5-1 %, 1-2%, 2-4%, 4-8%, 8-16%,
+16-32%, 32-64%, and > /
+64%; Gauch
+1982). Data were analyzed using coverclass
+midpoints. Nomenclature followed
+the PLANTS Database (USDA, NRCS ·
+2002).
+Species richness (S), Shannon-Wiener
+diversity (H') and mean coefficient of
+conservatism, or Mean C (Swink and
+Wilhelm 1994), were calculated for each
+plot and site. Coefficients of conservatism
+came from a statewide system (Bemthal
+2003) where botanical experts assigned
+coefficients to individual plant species
+ranging'from 0 (weedy) to 10 (found only in
+undegraded natural communities). Exotic
+species, including i>halaris arundinacea,
+were not rated and thus did not affect our
+calculations of Mean C.
+For analytic purposes, we divided the plots
+into four categories based on presence of
+the invasive grass Phalaris arundinacea
+(Pa) and indicators of disturbance: (1) plate;
+containing Phalaris in sites with indicators
+of hydrologic disturbance (+Pa +Dist; n
+= 115), (2) plots lacking Phalaris in sites
+with indicators of hydrologic -disturbance
+(cPa +Dist; n = 155), (3) plots containing
+Phalaris in reference sites (+Pa -Dist; n =
+26), and (4) plots lacking Phalaris in reference
+sites (-Pa -Dist; n = 64). For each of
+the 30 most frequently encountered taxa in
+the 360 plots (except Phalaris), chi-square
+analyses were used to test for homogeneity
+of occurrence within the four categories of
+plots, using a Bonferroni-corrected alpha
+of 0.0017. Using both cover estimation
+and presence/absence data, plots were
+subjected to Bray-Curtis ordinations in
+PC-Ord (McCune and Mefford 1997), with
+overlays of individuaI taxa, plot species
+richness (S), Shannon-Wiener diversity
+(H' ), and mean coefficient of conservatism
+(Mean C).
+Plots were also divided into± disturbance
+categories to examine the patterns of S, H',
+and Mean C, for plots with and without two
+other major dominant species sampled in
+our study: the native sedge Care.x stricta
+Lam. and the native gras~ Calamagrostis
+canadensis (Michx.) Beauv. One-way
+ANOVAs, two-tailed t-tests, and simple linear
+regressions were performed in Minitab
+(Minitab, Inc. 2000), using a = 0.05.
+
+xresults
+The survey found 116 species. Site species
+richness (based on n = 30 plots) ranged
+from 11 species at Nine Springs Ditch to
+68 at Pheasant Branch Fen ~ site diversity
+(H') ranged from 0.5 at Nine Springs
+Meadow to 2.6 at Cherokee Fen; and Mean
+C ranged from 3.2 at Nine Springs Di~ch
+to 5.5 at Cherokee Fen (Table 2). The
+nine hydrologically disturbed sites had
+35.7 ± 6.0 (mean ± SE) species, which
+was significantly fewer than in reference
+sites (59.3 ± 4.4, t = 3.203, df = 10, P
+= 0.01). Disturbed sites also had lower
+diversity than reference sites (mean 1.7 ±
+0.2 versus 2.4 ± 0.1, t = -2.672, df ;;;. 10,
+P = 0.02), but there was no statistically
+significant difference between Mean C on
+disturbed and reference sites (mean 4.1 ±
+0.1 vs. 4.6 ± 0.4, respectively, t = -1.66,
+~! = 10, p = 0.13).
+Most sites were dominated by widely
+distributed native species, including Carex
+stricta, Calamagrostis canadensis, the
+annual forb Impatiens capensis Meerb.,
+and the perennial forbs Aster puniceus L.
+and Solidago spp. (Table 2). Four of the
+nine disturbed sites were dominated by
+Plzalaris arnndinacea, Typlza spp., and/or
+Phragmites australis (Cav.) Trin. ex Steud.,
+all of which are tall; clonal perennial taxa
+that are known to be invasive throughout
+large areas of North America (Galatowitsch
+et al. 1999; Table 2). There were moderate
+to strong negative correlations between
+the frequency of Phalaris on sites and site
+species richness and diversity (r = -0.62
+and -0.76, respectively), and there was
+a moderate negative correlation between
+frequency of Phalaris and site Mean C
+values (r = -0.47).
+Within l -m2 plots, species richness ranged
+from 1 to 22 species (mean ± SE, 10.0
+± 0.3, n = 360); species diversity (H')
+ranged from 0 to 2.9 (mean 1.9 ± 0.04),
+and Mean C ranged from 1 to 7 .8 (mean
+4.6 ± 0.07). The widespread tussock sedge,
+Carex stricta, was the most frequently
+encountered species and had the highest
+total cover summed across all 360 plots,
+while Phalaris was the fifth most frequently
+encountered species but had the second
+highest total cover and the highest average
+cover in plots ~here it occurred (Table 3).
+The native bluejoint grass, Calamagrostis
+canadensis, was frequently encountered,
+but it h;i.d, on average, less than half the
+cover of C. stricta and about one-fifth the
+cover of Phalaris when present in plots
+(Table.3).
+The one-way ANOVAs for species richness,
+H', and Mean C in the four plot
+types (±Pa ±Dist) were highly significant
+(F ~ 92.6 for all, df = 359, P << 0.0001;
+Figure 1). Plots without Phalaris in disturbed
+sites (-Pa +Dist), and plots with
+Phalaris in reference sites (+Pa -Dist),
+had similar moderate numbers of species,
+H', and Mean C, and both plot types had
+significantly fewer species, lower H', and
+lower Mean C than plots without Phalaris
+in reference sites. Plots with Phalaris in
+disturbed sites (+Pa +Dist) had the lowest
+species richness, H', and Mean C of the
+four plot types (Figure 1).
+When the plots were partitioned into those
+in reference versus disturbed sites and those
+containing or lacking ·carex stricta (±Cs
+±Dist), the one-way ANOVAs for species
+richness, H' , and Mean C were again all
+significant (P << 0.0001; Figure 1). This
+was also the case for Calamagrostis canadensis
+(±Cc ±Dist). Plots that contained
+C. stricta (or C. canadensis) and were in
+reference sites generally had the highest
+values (Figure I). Plots that contained
+C. stricta (or C. canadensis) and were
+in disturbed sites, or plots that lacked C.
+stricta (or C. canadensis) and were in reference
+sites, usually had high or moderate
+values. Plots that lacked C. stricta (or C.
+canadensis) and were in disturbed sites
+always had the lowest species richness,
+H', and Mean C (Figure 1).
+Species richness within individual 1-m2
+plots was significantly negatively related
+to the cover of Phalaris; this was tme both
+for plots in disturbed sites (r = -0.59, F =
+59.8, df = 114, P << 0.0001) and for plots
+in reference sites (r = -0.47, F = 6. 7, df =
+25, P = 0.016), with an overall correlation
+coefficient r = -0.67 (F = 110.2, df = 140,
+P << 0.0001). However, the mean cover
+of Phalaris was about six times higher
+in plots in disturbed sites (42.4% ± 2.8,
+n = 115) than in plots in reference sites
+(6.9 % ± 2.5, n = 26; t = 5.86, df = 139,
+P < 0.0001). Species richness also had a
+significant negative relationship to cover
+of Carex stricta both in plots in disturbed
+sites and in plots in reference sites (overall,
+r = -0.21, F = 9.94, df= 221, P < 0.002),
+but mean cover of C. stricta did not differ
+for plots in disturbed versus r~fereiice sites
+(overall mean cover= 18.0% ± 1.3; t = -
+0.07, df= 220, P = 0.95). Species richness
+was unrelated to cover of Calamagrostis
+· canadensis within both plots in disturbed
+sites and plots in reference sites (overall, r
+= 0.05, F = 0.46, df = 200, P = 0.46), and
+mean cover of C. canadensis did not differ
+among plots in disturbed versus reference
+sites (overall mean cover = 8.1 % ± 1.0; t
+= 0.47, df = 199, P = 0.64). On average,
+5.5 ± 0.4 species coexisted with Phalai-is
+on the 1-m2 scale, compared to 11.5 ±
+0.3 for Carex stricta and 10.6 ± 0.3 for
+Calamagrostis canadensis (n = 141, 222,
+and 201, respectively).
+The Bray-Curtis ordinations based on cover
+class data and presence/absence data were
+very similar (Figure 2). Although there
+were no discrete clusters in the resulting
+graphs, plots did tend to congregate
+with others of the same type (i.e., ±Pa
+±Dist; Figure 2). Using the ordination
+produced with the cover data, Phalaris
+and Phragmites australis had negative correlations
+with Axis 1 (r = -0.88 and -0.38,
+respectively), and Carex stricta, Impatiens
+capensis, Calamagrostis canadensis, and
+Eupatori_um maculatwn L. had the highest
+positive correlations with Axis 1 (r = 0.67,
+0.53, 0.48, and 0.47, respectively). Phalaris
+had a moderate negative correlation with
+Axis 2 (r = -0.52), while Aster puniceus,
+Agrostis gig ante a Roth, Equisetum arvense
+L., Poa pratensis L., Viola cucullata Ait.,
+and Oligoneuron riddellii (Frank ex Riddell)
+Rydb. had the highest positive correlations
+with Axis 2 (r = 0.59, 0.56, 0.56,
+0.49, 0.45, and 0.44, respectively). Plot
+species richness, H', and Mean C were all
+positively correlated with both Axis 1 (r =
+0.62, 0.76, and 0.69, respectively) and Axis
+2 (r = 0.64, 0.63, 0.51, respectively).
+Most species showed significant deviations
+from their expected abundance within the
+four major plot types (±Pa, ±Dist), based on
+chi-square tests of homogeneity (Table 4).
+The 30 tax.a we tested could be grouped into
+seven "response types," which include: (1)
+taxa that were less common than expected
+only in plots containing Phalaris, (2) taxa
+that were less common than expected only
+in plots in disturbed sites, (3) tax.a that were
+more common than expected only in plots
+lacking Phalaris in disturbed sites, ( 4) taxa
+that were less common than expected only
+in plots containing Phalaris in disturbed
+sites, (5)taxa that were more common than
+expected in plots containing Phalaris that
+were in disturbed sites (only the clonal
+invasive grass Phragmites australis fell
+into this category), (6) taxa with no clear
+pattern despite a significant chi-square
+test, and (7) taxa with no significant pattern
+(Table 4).
+
+
+xdiscussion
+We hypothesized that species richness and
+diversity would be lower on sites with visible.
+indicators of hydrologic disturbance
+than on apparently undisturbed reference
+sites. Likewise, we predicted that invasive
+species would correlate with low diversity
+on 0.45 ha "sites" and within 1-m2 plots.
+Our results support both hypotheses. Disturbed
+sites had lower overall species richness
+and diversity, and there were negative
+relationships between the abundance of the
+invasive grass Phalaris arundinacea and
+measures of site quality. At the l-m2 scale,
+we found that plots containing Phalaris in
+reference sites (+Pa-Dist) and plots lacking
+Phalaris in disturbed sites (-Pa +Dist) had
+roughly 2/3 the species richness of plots
+that occurred in reference sites and lacked
+Phalaris (-Pa -Dist). Plots that both contained
+Phalaris and occurred in disturbed
+sites (+Pa +Dist), however, had only 113
+the species of -Pa -Dist plots. Our correlational
+study suggests independent, and
+possibly interactive, effects of hydrologic
+disturbance and presence of Phalaris on
+vegetation diversity and quality (Figure 3
+and see below).
+Two common native graminoids, Carex
+stricta and Calamagrostis canadensis,
+displayed patterns of species richness, H',
+and Mean C that differed greatly from those
+of Phalaris. Plots in sites that lacked indicators
+of hydrologic disturbance in which
+C. stricta or C. canadensis occurred had
+the highest quantity and quality of taxa,
+while plots in disturbed sites that lacked
+either of the two native species had the
+lowest values. Thus, while fewer species
+and lower floristic quality are associated
+with Phalaris, more species of higher
+quality co-occur with C. stricta and C.
+canadensis. At least in the case of Phalaris
+versus C. stricta, this pattern may be due
+to the greater microtopographic variability
+created by C. stricta tussocks (Werner and
+Zedler 2002). Further support that Phalaris
+reduces plant diversity comes from management
+experiments (e.g., Paveglio and
+Kilbride 2000).
+We asked if mean coefficient of conservatism
+(Mean C), one measure of floristic
+quality, was related to presence of Phalaris
+and/or disturbance within our 12 wet meadows.
+A closely related measure, ftoristic
+quality index (FQI), has been criticized for
+its subjectivity and sensitivity to differences
+in sampling intensity, season, or habitat
+type (Bowles et al. 2000, Francis et al.
+2000, Matthews 2003). Although Mean C is
+still based on the subjective assignment of
+coefficients to taxa by experts, it has been
+suggested that Mean C yields more intuitive
+results with no hidden information and with
+little effect of species richness/sampling
+intensity (Rooney and Rogers 2003). In
+our survey, we found that Mean C declined
+with disturbance or presence of Phalaris
+within 1-m2 plots, and was lowest when
+disturbance and Phalaris were combined
+(note that our results for Mean C were not
+confounded by the presence of Phalaris,
+since it was not assigned a community
+coefficient). This pattern parallels those
+for species richness and diversity, and we
+detected a significant positive relationship
+between Mean C and species richness and
+diversity (r= 0.51and0.52, respectively; P
+< 0.0001 for both) for plots though not for
+sites (r = 0.36 and 0.46; P = 0.24 and 0.13,
+respectively): Matthews (2003) likewise
+found a significant positive relationship
+between species richness and Mean C
+for diverse wetland types censused in Illinois,
+USA (r = 0.44 in that study). This
+correlation may indicate concomitant but
+independent declines in species richness
+and quality, or it may reflect multicollinearity
+of these variables.
+Taxa responded in several different ways to
+the presence of Phalaris and disturbance.
+Some taxa (response type 1) were less
+common than expected only when Plwlaris
+was present (i.e., the forbs Campanula
+aparinoides Pursh, Eupatorium maculatum,
+and Lycopus unijiorus Michx., the
+fem Thelypteris palustris Schott, the grass
+Bromus ciliatus L., and mosses), suggesting
+competitive exclusion of these taxa by the
+taller, clonalPhalaris. Other taxa (response
+type 2) were less common than expected
+only in plots in sites with indicators of
+hydrologic disturbance (i.e., the forbsAster
+puniceus, Oligoneuron riddellii, Solidago
+giganteaAit. and Viola cucullata, the grass
+Glyceria striata (Lam.) A.S. Hitchc., and
+the horsetail Equisetum arvense ), suggesting
+the primacy of hydrologic alterations
+over competition with Phalaris in influencing
+the distribution of these taxa.
+Most taxa had more complicated patterns.
+Several (response type 3) appeared
+to thrive with disturbance, as long as
+Phalaris was not present (i.e., the grass
+Calamagrostis canadensis, and the forbs
+Epilobium coloratum Biehler, Impatiens
+capensis, Lysimachia thyrsiflora L., and
+Rumex orbiculatus Gray); and several
+(response type 4) were as common as
+expected in plots with either Phalaris or
+disturbance alone, but were especially rare
+in plots with both factors combined (i.e.,
+the sedges Carex lasiocarpa Ehrh. and
+Carex stricta, the forbs Lycopus americanus
+Muhl. ex W. Bart., Pilea pumila (L.)
+Gray, and Solidago canadensis L., and the
+shrub Camus stolonifera Michx.). Only
+Phragmites australis had positive associations
+with both Phalaris and disturbance
+(response type 5), and, not surprisingly,
+this species is very similar to Phalaris in
+that it is a tall, clonal perennial grass that
+is invasive in wetlands (Galatowitsch et
+al. 1999). This suggests that the two species
+have similar responses to disturbed
+hydro logic regimes (but see Choi and Bury
+2003) and are probably in the early stages
+of competition or facilitating one another
+in our sites. However, Typha latifolia L.,
+another tall, widespread clonal perennial
+graminoid, showed no discernible tendency
+to increase with disturbance and/or
+Phalaris in our study.
+Our survey of 12 wet meadows points to a
+shift from more to less diverse communities
+that are dominated by clonal invasive
+species, especially Phalaris arundinacea,
+due to changes that have altered the hydrologic
+regimes of wetlands, a hypothesis
+that is also supported by other field studies.
+Owen's (1999) hydrologic study of
+an urban wetland in southern Wisconsin
+showed that, in less than 25 years, Phalaris
+and Typha spp. (including T. latifolia, T.
+angustifolia L., and T. x glauca) had in-
+324 Natural Areas journal
+creased their cover in the wetland; Phalaris
+had expanded in areas that experienced the
+largest variations in water levels, ranging
+from flashy spring and summer flooding
+due to urban storm water runoff to very dry
+conditions during long periods of no inflow,
+while Typha angustifolia had expanded in
+the wettest areas. A study of wetlands in
+northwestern Indiana documented Phalaris
+expansion primarily into artificially drained
+urban wetlands, Typha angustifolia expansion
+in impounded wetlands, and invasion
+of Typha litter mounds by Phragmites
+australis (Choi and Bury 2003). A survey
+of wetlands in the prairie pothole region
+of Minnesota found positive associations
+between presence of stormwater runoff
+and, to a lesser extent, presence of ditches
+and dominance by introduced perennials
+including both Phalaris arundinacea and
+Typha angustifolia (Galatowitsch et al.
+2000). We found evidence in support of the
+hypothesis that both surface and groundwater
+alterations contribute to the spread
+of invasive perennial species. Typha spp.
+were not sampled with high frequency on
+our sites but did dominate Cherokee Marsh,
+a site that receives inputs of stormwater
+runoff. Phragmites australis was likewise
+infrequently sampled but was co-dominant
+with Phalaris at Nine Springs Meadow, a
+site with indicators of both groundwater
+· (city wells, a drainage ditch) and surface
+water (major road) alterations. Phalaris,
+the most common invasive species in our
+survey, dominated three of the 12 wet
+meadows. One of these sites (Nine Springs
+Meadow) has been drained, while the other
+two sites had indicators of both decreased
+groundwater and increased surface flow.
+In sites lacking disturbance, we saw 21 %
+fewer species, 11 % lower diversity, and
+8% lower Mean C in plots containing
+Phalaris, while in disturbed sites, we saw
+52% fewer species, 18% lower diversity,
+and 45 % lower Mean C in plots containing
+Phalaris. Elsewhere, we suggested that hydrologic
+disturbance simultaneously makes
+sites more invasible and Phalaris more
+aggressive (Maurer et al. 2003). Phalaris
+is known to tolerate a range of hydro logic
+regimes (Lefor 1987, Rice and Pinkerton
+1993, Figiel et al. 1995, Owen 1999, Miller
+and Zedler 2003, Kercher, unpubl. data).
+Either increased surface water flow or decreased
+groundwater influence could make
+wet meadows more susceptible to Phalaris
+invasion by reducing growth of sensitive
+native species. The effect of increased
+surface water has been demonstrated by
+Kercher and Zedler (2004) in a mesocosm
+study, which showed that floods lasting four
+weeks or longer caused several sensitive
+native species to decline and more tolerant
+Phalaris plants to grow and spread rapidly
+into the large gaps created during the dieoff
+of the natives. Canopy gaps could also
+increase opportunities for invasion from
+seed (Lindig-Cisneros and Zedler 2002).
+At the same time, nutrients carried in surface
+runoff or released with lowered water
+tables may favor the vegetative expansion
+and growth of Phalaris over that of native
+species (Green and Galatowitsch 2001,
+2002; Kercher and Zedler 2004). Direct
+tests of our conceptual model (Figure 3)
+are underway in mesocosms, and further
+research is warranted for other wetland
+communities affected by both hydrologic
+disturbances and invasive species.

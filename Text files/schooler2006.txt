@@ -1,0 +1,892 @@
+xabstract Invasive plants can simplify plant community structure, alter ecosystem processes
+and undermine the ecosystem services that we derive from biotic diversity. Two
+invasive plants, purple loosestrife (
+Lythrum salicaria
+) and reed canary grass (
+Phalaris
+arundinacea
+), are becoming the dominant species in many wetlands across temperate
+North America. We used a horizontal, observational study to estimate per capita
+effects (PCEs) of purple loosestrife and reed canary grass on plant diversity in 24
+wetland communities in the Pacific Northwest, USA. Four measures of diversity were
+used: the number of species (S), evenness of relative abundance (J), the Shannonñ
+Wiener index (H
+'
+) and Simpsonís index (D). We show that (1) the PCEs on biotic
+diversity were similar for both invasive species among the four measures of
+diversity we examined; (2) the relationship between plant diversity and invasive
+plant abundance ranges from linear (constant slope) to negative exponential (variable
+slope), the latter signifying that the PCEs are density-dependent; (3) the PCEs were
+density-dependent for measures of diversity sensitive to the number of species (S,
+H
+'
+, D) but not for the measure that relied solely upon relative abundance (J); and (4)
+invader abundance was not correlated with other potential influences on biodiversity
+(hydrology, soils, topography). These results indicate that both species are capable of
+reducing plant community diversity, and management strategies need to consider
+the simultaneous control of multiple species if the goal is to maintain diverse plant
+communities.
+
+
+ xintroduction
+
+
+ The increasing number, distribution and abundance of invasive
+plant species are reducing biological diversity worldwide (Vitousek
+et al
+., 1997; Wilcove
+et al
+., 1998; Mack
+et al
+., 2000). Declines in
+plant diversity can alter ecosystem functions and services (Schulze
+& Mooney, 1994; Kinzig
+et al
+., 2001). To respond effectively to
+invasive species problems, we require quantitative measures of
+the impact of invaders on diversity. The impact (I) of an invader
+depends on the invaders abundance (A), distribution (D) and
+per capita effect (E) according to the equation: I = A
+◊
+D
+◊
+E
+(Parker
+et al
+., 1999). Estimates of the abundance and distribution
+of invaders are widely reported, but estimates of per capita effects
+are rare (Parker
+et al
+., 1999). Quantitative measures of the sign
+and strength of per capita effects are necessary to (1) understand
+how invasive organisms affect natural environments, (2) prioritize
+weed management actions, and (3) determine what levels of control
+are needed to achieve an acceptable level of impact. Here we
+report results of a horizontal, observational study assessing how
+severely two invasive plants, purple loosestrife (
+Lythrum salicaria
+L. Lythraceae) and reed canary grass (
+Phalaris arundinacea
+L.
+Poaceae), reduce wetland plant diversity as invader abundance
+increases.
+The expected response of biotic diversity to an introduced
+species depends on the relative abundance the invader attains in the
+community. The organism may be a ëweak invaderí and may colonize
+and persist at low abundance with minimal influence on other
+species, thus incrementally increasing species richness (Ortega
+& Pearson, 2005). However, as a ëstrong invaderí increases in
+density, abundances of most other species are expected to decrease,
+increasing the probability of local extinctions, eventually reducing
+both species richness and evenness of abundance among
+species (Parker
+et al
+., 1999; Myers & Bazely, 2003; Ortega &
+Pearson, 2005).
+Community diversity and invader abundance can be linked in
+a complex positive feedback relationship whereby increases in invader abundance lead to decreases in diversity that in turn lead
+to increasing invader abundance (Fig. 1). In extreme cases, this
+positive feedback loop can lead to community collapse or ëinvasion
+meltdowní (Simberloff & Von Holle, 1999). To investigate
+the feedback relationship, one needs to interrupt the feedback,
+controlling one factor and measuring the response of the other.
+Thus, some studies control diversity and measure the response of
+the invader, showing that increasing diversity sometimes decreases
+the abundance of an invader, i.e. increases the communityís
+resistance to invasion (Kinzig
+et al
+., 2001). Other studies control
+the invader abundance and measure the response of diversity,
+showing that increasing invader abundance sometimes decreases
+diversity (Parker
+et al
+., 1999; Goodell
+et al
+., 2000). Taken together,
+these studies indicate how low diversity can be both a cause and /
+or a consequence of invasions: as increasing invader abundance
+decreases diversity, the decrease in diversity facilitates still further
+increase in invader abundance. For our study species, prior
+experiments conducted in an artificial garden and greenhouse
+environments show that increasing abundance of these invaders
+can decrease diversity (Weiher
+et al
+., 1996; Green & Galatowitsch,
+2002; Kercher & Zedler, 2004). Here we extend those studies by
+showing how increasing invader abundance can decrease diversity
+under natural field conditions. To isolate the effect of invader
+abundance on diversity, we show that three additional factors
+(hydrology, soils, topography) known to influence diversity did not
+covary with invader abundance. Purple loosestrife and reed canary grass are two invasive emergent
+wetland plants that currently dominate vegetation in many
+wetlands across temperate North America (Galatowitsch
+et al
+.,
+1999; Magee
+et al
+., 1999; Blossey
+et al
+., 2001). Both species are
+known to form dense monospecific stands that may negatively
+affect local wetland plant and animal communities (Galatowitsch
+et al
+., 1999; Merigliano & Lesica, 1998; Blossey
+et al
+., 2001).
+Purple loosestrife is a tall perennial wetland plant native to
+Europe. Two thorough reviews of the biology, ecology and history
+of invasion in North America of purple loosestrife are found
+in Thompson
+et al
+. (1987) and Mal
+et al
+. (1992). Purple loosestrife
+is an invasive species that is thought to displace native
+wetland vegetation in wetlands and riparian areas. Early reports
+of adverse effects published prior to 1998 have been criticized
+(Anderson, 1995; Hager & McCoy, 1998). Subsequent reports
+have not resolved whether loosestrife negatively affects wetland
+diversity. Two articles summarize what had been known to date
+as suspected and documented negative effects (Blossey, 1999;
+Blossey
+et al
+., 2001). Direct evidence that purple loosestrife can
+dominate wetland plant assemblages and reduce species richness
+is provided by extended germination trials (Weiher
+et al
+., 1996),
+tests of competitive response (Johansson & Keddy, 1991; Keddy
+et al
+., 1998), removal studies using herbicides (Gabor
+et al
+.,
+1996) and increases in plant diversity following biological control
+(Landis
+et al
+., 2003). However, not all recent studies agree
+that purple loosestrife reduces the diversity of local wetland plant
+communities (Treberg & Husband, 1999; Farnsworth & Elis,
+2001; Morrison, 2002; Hager & Vinebrook, 2004; Houlahan &
+Findlay, 2004). More research is needed to clarify the negative
+effects of purple loosestrife, specifically a representative sample
+to discover what levels of invader abundance decrease diversity
+and a random sample to discover how often invader abundance
+reaches these levels.
+Reed canary grass is a perennial wetland plant. Its origin is
+currently in dispute, and some believe it has mixed origins stemming
+from hybridization of North American and European populations
+(Galatowitsch
+et al
+., 1999; Lavergne & Molofsky, 2004).
+Its competitive ability and rapid growth make reed canary grass
+both a useful forage plant and an aggressive invader (see review
+in Lavergne & Molofsky, 2004). Studies in mesocosms have
+shown that it is capable of out-competing other wetland species,
+particularly when nutrient concentrations are elevated (Green &
+Galatowitsch, 2002; Kercher & Zedler, 2004; Mahaney
+et al
+.,
+2004) and under conditions of increased sedimentation (Mahaney
+et al
+., 2004). Reed canary grass is associated with reduction of
+native plant species in a survey of 58 wetlands in south-western
+Ontario (Houlahan & Findlay, 2004). In addition, presence of
+reed canary grass (often approaching 75ñ100% cover) impedes
+revegetation efforts in prairie pothole wetlands in the midwestern
+USA (Mulhouse & Galatowitsch, 2003). In a study of 96 randomly
+chosen wetlands in north-west Oregon, reed canary grass was
+present in 93% of the sites (Magee
+et al
+., 1999). In a subset of 43
+wetlands, canary grass was found in 813 of 1026 plots (79%) and
+when present had a mean cover of 67% (Magee & Kentula, 2005).
+Unlike purple loosestrife, all studies of reed canary grass concur
+that it is capable of reducing plant diversity. Environmental variables that are correlated with invasive plant
+abundance may influence plant diversity. To control for these
+potential environmental effects, the wetlands were characterized
+by (1) hydrologic regime, (2) wetland microtopography, and
+(3) soil characteristics. The environmental data were used to assess
+whether covarying environmental factors may be responsible for
+the observed patterns of diversity. A result of no relationship
+between the abundance of the invasive species and the environmental
+factors strengthens the evidence that the invasive species are the
+cause of the diversity patterns observed.
+Hydrologic regime (duration of inundation) is the primary
+factor influencing the diversity of wetland plant communities
+(Van der Valk
+et al
+., 1994; Magee
+et al
+., 1999; Silvertown
+et al
+.,
+1999; Azous & Cooke, 2000; Keddy, 2000; Mitsch & Gosselink,
+2000) with the greatest number of plant species coexisting in
+seasonally flooded freshwater habitats (Keddy, 2000) like the wet
+meadows that are the focus of this study. Topographical variation
+and cyclic water level fluctuation create a landscape of waxing
+and waning soil oxygen concentrations. Plant roots need oxygen
+to respire, and standing water slows the rate at which plant roots
+obtain oxygen from the environment. In addition, water depth
+influences seed germination rates and photosynthetic ability
+(Keddy, 2000). Theoretically, habitats with greater topographical
+heterogeneity should provide a greater diversity of niches and
+thereby allow a greater number of species to coexist (Whittaker,
+1965; Grime, 1973; Grubb, 1977). Therefore, reduced variation in
+microtopography should lead to a fewer number of plant species
+per unit area regardless of invasive species dominance.
+Another factor that may influence plant diversity is soil fertility,
+where more fertile conditions tend to be associated with fewer
+species and greater biomass of the dominant species (Auclair
+et al
+., 1976; Weiher
+et al
+., 1996; Bedford
+et al
+., 1999; Keddy,
+2000). Nitrogen is considered the primary limiting nutrient for
+plant growth in emergent marsh ecosystems, followed by phosphorus
+(Bedford
+et al
+., 1999; Keddy, 2000; Mitsch & Gosselink,
+2000; Bridgham
+et al
+., 2001). There is evidence that phosphorus
+may be limiting in some urban wetlands (Woo & Zedler, 2002). Carbon, potassium and micronutrients (primarily Mn, Mg and
+Ca) may also be limiting nutrients for plant growth, but we found
+no prior literature that presents evidence that these nutrients are
+limiting in emergent wetland ecosystems. Based on prior evidence and field observations, we predicted that
+(1) both purple loosestrife and reed canary grass are capable of
+forming dense stands that can negatively affect community
+diversity; (2) as invader abundance increases, plant community
+diversity will decrease; and (3) the negative effect of canary grass
+is greater than that of purple loosestrife. Our analysis is based on
+(1) an observational survey of wetlands in the Pacific Northwest
+stratified to yield a range in invader abundance, (2) multiple
+measures of diversity, and (3) assessment of potentially confounding
+variables (hydrology, soils, topography) that might
+combine with invader abundance to influence diversity. xmethods This study was based on a representative sample of 24 wetland
+field sites chosen to span a range in the abundance of each invader
+(Fig. 2, see Appendix S1 for site information). Sixteen sites were
+established in the Willamette Valley, Oregon, four study sites
+were established on islands within the Columbia River Estuary,
+and an additional four sites were located east of the Cascade
+Mountain Range along the Columbia and Snake Rivers. Twenty sites are seasonally flooded emergent palustrine wetlands and
+the four estuary sites are tidally influenced freshwater wetlands
+inundated on a monthly cycle. The plant community at all sites
+was dominated by herbaceous vegetation and at none of the sites
+was the vegetation being actively managed. Sites were selected
+based on: (1) wetland type, (2) abundance of purple loosestrife or
+reed canary grass, (3) area and shape of invasive-species stand,
+(4) accessibility, (5) permission to sample, and (6) probability that
+the site would not be modified during the study. We could not
+choose sites based on a stratified random selection method because
+the necessary data did not exist. Instead, we employed a quasiexperimental
+approach using site matching along with assessing
+the covariance between invader abundance and potentially influential
+environmental variables. 
+
+Percentage plant cover was measured for each vascular plant species
+at each of the 24 sites during July 2001. Each sample universe
+was circular, with a 50-m radius (7854 m
+2
+). Thirty 1 m
+2
+plots were
+randomly selected from within 50 m of a centre point. This was
+done by randomly selecting a direction (1-360
+∞
+with north at 360
+∞
+)
+and a random distance between 0 and 2500 m, of which the square
+root of the result was the radial distance to the plot. This permitted
+sampling in proportion to area, which increases as the square of
+the radius with increasing radial distance from the centre of the circle.
+The percentage cover of each plant species was visually estimated
+in each plot to the nearest 1%. Due to overlapping canopy cover,
+the total cover for each plot sometimes exceeded 100%.
+We sampled plant abundance non-destructively using the
+visual cover estimation method because many of the sites were
+mitigation wetlands, parks or other sensitive areas where we could
+not destructively sample biomass. To avoid the additional source
+of error introduced by multiple observers (Sykes
+et al
+., 1983), the
+lead author sampled all sites. The observer was trained prior to
+making measurements by calibrating cover estimates using a
+series of figures where the percentage cover had been calculated.
+The observer tested against the figures again after measuring the
+sites to determine change in bias with experience.
+Species identifications and nomenclature follow Hitchcock
+and Cronquist (1973). A voucher collection of the plant species
+sampled was assembled. Richard Halse (Department of Botany
+and Plant Pathology, Oregon State University) verified the voucher
+plant identifications and these specimens were deposited in the
+Oregon State University Herbarium. Sampling adequacy was analysed by constructing speciesñarea
+curves for each site using multivariate analysis software (
+??
+-
+???
+,
+McCune & Mefford, 1999). The speciesñarea curves were calculated
+using a nonparametric resampling procedure (jackknife). This
+procedure determines the number of unique species in 500 randomly
+selected ëresampledí combinations of subsamples (1 m
+2
+plots) for each increase in level of sampling area (1ñ30 plots)
+(McCune & Mefford, 1999; McCune & Grace, 2002). Then, the
+mean and standard deviation are calculated for each level of
+effort (stepwise increase of total area sampled). If the mean
+number of species reaches a plateau, it suggests fewer species are
+being added through each subsequent increase in sample area
+and therefore the majority of the species within the site have been
+sampled (McCune & Grace, 2002).
+We qualitatively examined community structure between sites
+using rank-abundance diagrams. Rank-abundance diagrams plot
+mean species abundance against species rank (Whittaker, 1965;
+Magurran, 1988) thereby visually integrating the two diversity
+components, species richness and evenness (Fisher
+et al
+., 1943;
+Peet, 1974; Magurran, 1988). The width of the curve represents
+the species richness of the site, and the slope indicates the degree
+of unevenness or dominance.
+We quantitatively examined diversity using four standard
+nonparametric community diversity descriptors. These were
+species richness (S), Pielouís evenness (J), ShannonñWiener
+diversity index (H
+'
+) and Simpsonís index of diversity (D) (equations
+from Magurran, 1988). The indices S, H
+'
+and D were transformed
+to Hillís Series (N
+a
+), where N
+0
+= S, N
+1
+= exp(H
+'
+) and
+N
+2
+= (1/D) (Hill, 1973). We first tested whether the abundance
+of the two invader species differently affected diversity. The
+summed residual error in linear regression models fit separately
+for each species was compared with the residual error in a full
+model that pooled the observations for both species (Snedecor &
+Cochran, 1967). The result of no significant difference in summed
+error between the separately fit models and the error in the
+pooled model indicates no difference between the effect of the
+abundance of the two invasive species and the diversity measure
+being examined. We then applied linear regression analysis to
+determine whether to reject the null hypothesis of no significant
+relationship between plant abundance and the measures of
+diversity. Data were transformed where necessary to improve
+normality and equality of variance before applying regression
+analyses.
+We assessed the effect of dominant plant cover on native vascular
+plant species richness and abundance. Native species status
+was determined from Hitchcock and Cronquist (1973). Proportion
+of the number of native species per site and combined cover
+of all native plants per site were plotted against the mean abundance
+of the dominant plant to examine whether native plants
+were more negatively affected than introduced plants. As with
+the measures of diversity, regression analysis was used to determine
+whether the observed trends were significant.
+We looked for negative patterns of association consistent with
+the hypothesis that the two species are competitors. The interaction
+was quantified as the correlation between the abundances
+of the two invasive species. Significance of the trend was tested
+by computing a correlation coefficient and by determining its
+significance using a
+t
+-test (Moore & McCabe, 2001). In March and April of 2001, a shallow well was sunk at each of the
+sites to measure water level throughout the year. Wells consisted
+of a 1.3-m PVC tube (5 cm inside diameter) with opposing perforations
+(1 cm diameter) at 10 cm intervals down each side. The
+bottom was capped and had two perforations. The tube was then
+wrapped with fibreglass window-screening (2 mm mesh) on the
+exterior to prevent sediment accumulation. The wells were installed
+to extend 1 m below the ground surface by digging a hole with a
+soil auger, inserting the well, and filling in with sand. Water levels
+were taken at monthly intervals over a span of 21 months.
+The microtopographical basin survey method used a surveyor
+grade differentially correcting GPS receiver (Trimble Navigation
+Limited, Sunnyvale, CA, USA) in conjunction with a rotating
+laser level (Latec Instruments Inc., Ontario, Canada) to obtain a
+digital elevation model (DEM, grid-based contour map) of each
+site. A laser level was set at each site and the distance to ground
+from the laser plane was measured at the well (usually within 2 m
+from centre). A laser sensing device and stadia rod (Crain Enterprises,
+Mound City, IL, USA) were used to map deviation from
+the laser level plane to the ground surface for multiple locations
+(50ñ100) at each site.
+The data were then downloaded and differentially corrected
+using
+??????????
+software (version 4.1, Trimble). The GPS
+receiver, through real-time and post-processing differential
+correction, was able to locate the horizontal position of a given
+survey point within a calculated precision of < 1.0 m. Louhaichi
+et al
+. (2003) studied this technique and reported a vertical accuracy
+of 1ñ3 cm for agricultural fields. Using
+???????
+(version
+3.2, ESRI, Redlands, CA, USA), the elevation of each point was
+relativized to the elevation of the well. These point data were then
+used to interpolate an elevation grid with 1
+◊
+1 m cells (7854
+cells) for each site (Schooler, 2003).
+The hydrological regimes were compared among sites using
+mean water depth (cm), maximum water depth (cm), range of water
+depth (cm), cumulative water volume (m
+3
+/year), cumulative area
+inundated (m
+2
+/year), maximum area inundated (m
+2
+), and the
+number of months to 50 and 90% drawdown. Elevation and
+topographical variation were included as separate variables as
+they may influence plant diversity independent from their role in
+defining intrasite flooding regimes. Elevation above sea level for
+each site was acquired from digital elevation models (USGS-DEM).
+To assess soil characteristics, we collected soil samples from
+four randomly selected locations within wetland sites during
+June of 2002. Samples were taken by first removing the top 5 cm
+of soil from the centre of the plot using a spade. Then the next
+5 cm (
+c
+. 2 L) was placed into a paper bag. Prior studies have
+found no significant difference in soil properties (organic C, N,
+pH, Ca and Mg) within small (0.25ñ0.35 ha) palustrine wetland
+sites among samples taken at the same depth (Stolt
+et al
+., 2001).
+Therefore, we restricted soil sampling to the root zone at a single
+depth (5ñ10 cm below surface) within and across sites (Binkley
+& Vitousek, 1989).
+The soil characteristics measured were: total nitrogen, nitrate,
+ammonium, mineralizable ammonium, total phosphorus, phosphate,
+organic carbon, potassium, magnesium, calcium, manganese,
+conductivity, acidity and percentage of sand/silt /clay. Since variation
+of nutrients within a site may contribute to diversity, we
+also included the standard deviation of the soil variables in the
+analysis. Soil nutrient analyses were conducted by the Oregon
+State University Department of Crop and Soil Science Soils
+Laboratory, and physical soil properties were measured under
+the direction of Crop and Soil Science staff using their methods
+(Horneck
+et al
+., 1989). Random number generation and data entry were performed in
+Excel (Office XP, Microsoft 2002). Spatial data were collected
+using a Trimble Surveyor (XR Pro) global positioning system
+receiver (GPS) with real-time and post-processing differential
+correction capable of submetre spatial accuracy. Spatial data
+were differentially corrected using
+??????????
+Office software
+(version 2.70, Trimble 2000).
+???????
+(version 3.2, ESRI 1999)
+was used to calculate basin topography. Linear regression and
+multiple regression analyses were performed using
+?
+-
+????
+(version
+6.1, Insightful 2002, Seattle, WA, USA). The community
+analysis software
+?????
+(version 4.17, MjM 2002, Gleneden
+Beach, OR, USA) was used to compute speciesñarea curves and
+implement canonical correspondence analysis (CCA) ordination
+procedures.
+CCA was used to determine whether the conditions of the reference
+uninvaded wetlands adequately represented those of the
+invaded wetlands. CCA is a direct gradient analysis method that
+seeks to structure one data matrix so as to maximize the strength
+of the relationships with a second matrix (McCune & Grace,
+2002; Anderson & Willis, 2003). We used the method to constrain
+an ordination of the site characteristics by the abundance of
+purple loosestrife and reed canary grass. A Monte Carlo test was
+then used to evaluate whether the environmental variables were
+significantly related to the abundance of the invasive plant species.
+A finding of no significant difference among the correlations of
+the real data set and the randomized data sets suggests that the
+relationship between the matrices is not stronger than that
+expected by random chance and supports the hypothesis of no
+linear relationship between the two matrices (Ramsey & Schafer,
+1997; McCune & Grace, 2002). The main data matrix consisted
+of the wetland habitat parameters and the second matrix contained
+the mean proportional cover of loosestrife and reed
+canary grass for the wetland sites. Since CCA incorporates linear
+regression, assumptions of normality and constant variance were
+examined for the abundances of invasive species in the second
+matrix. Normality was improved using an arcsine square-root
+transformation on the proportional cover data (McCune &
+Mefford, 1999).
+xresults The overall plant community composition of the 24 wetland sites
+consisted of 196 vascular plant species distributed within 36 families
+(see Appendix S2 for plant species information). The six families with the most species recorded were the: Poaceae (23),
+Fabaceae (17), Asteraceae (17), Cyperaceae (17), Rosaceae (11) and
+Juncaceae (9). Native species comprised 60% of the regional wetland
+flora (118 species) while 34% (67) were exotic plant species. The
+origins (native or introduced) of 11 species (6%) were unknown.
+Ten plant species were dominant (most abundant in the
+community) across the 24 wetland sites. Purple loosestrife was
+dominant at seven sites (13.8ñ91.7% cover), reed canary grass
+dominated six sites (18.8ñ94.7%) and the remaining 11 sites
+were dominated by eight other plant species (12.5ñ47.8%). These
+species were:
+Alopecurus pratensis
+,
+Juncus effusus
+,
+Typha latifolia
+,
+Oenanthe sarmentosa
+,
+Eleocharis palustris
+,
+Scirpus microcarpus
+,
+Veronica americana
+and
+Carex obnupta
+(see Appendix S3 for
+complete data set of plant abundance by site information). 
+
+
+The speciesñarea curves reached a plateau for the plant communities
+at the wetland sites, creating a reliable basis for comparing
+species richness among sites (Fig. 3). Rank-abundance diagrams
+of the plant community at the 24 wetland sites indicate that as
+the abundance of purple loosestrife and reed canary grass increase
+and approach 100% cover, species richness and evenness invariably
+decrease (Fig. 4). Sites not dominated by the invasive species
+tend to have a greater number of species and have more equitable
+distributions of abundances between species.
+Comparison of regression models indicated that there was no
+difference between the effect of purple loosestrife and reed canary
+grass abundance on any of the four diversity measures (Table 1).
+Data were transformed (S, and D, natural log; H
+'
+, square root)
+before analysis, which stabilized variances. Evenness (J) did not
+require transformation. Finding no difference between invader
+species in the effect of invader abundance on diversity, we pooled
+data for the two invader species in subsequent analyses.
+All measures of diversity decreased with increasing abundance
+of the dominant plant species. Regression analysis indicated that
+trends were significant (Table 2). Analyses were conducted on
+transformed data when necessary to meet assumptions of
+constant variance and linearity (S, and D, natural log; H
+'
+, square
+root). The data for S, H
+'
+and D are plotted as Hillís Series values
+without transformation for ease of interpretation and to facilitate
+comparison between diversity measures (Fig. 5añc).
+Species richness (N
+0
+) ranged from 4 to 46 species (Fig. 5a).
+Fanno Creek (FC), an urban site (within city boundary) dominated
+by reed canary grass (95% canopy cover), included only
+three other plant species all of which were introduced including
+blackberry (
+Rubus discolor
+), bedstraw (
+Galium aparine
+) and
+nightshade (
+Solanum dulcamara
+). An urban site, Pickle Pond
+(PP), and a rural site, Champoeg State Park (CP), tied for a total
+of 46 plant species despite CP being dominated by the introduced
+grass, short-awned foxtail (
+A. pratensis
+(48%)) and PP being a restored urban wetland (Rivergate Industrial District)
+with small amounts of both reed canary grass (2%) and purple
+loosestrife (14%). The number of species within each site
+decreased exponentially as the cover of the dominant species
+increased (Fig. 4a).
+Hillís N1 (exp(ShannonñWiener index)) ranged from 1.1 (FC)
+to 24.0 (PP and AB) and was associated with cover of the dominant
+species in a negative exponential relationship (Fig. 5b).
+Hillís N2 (reciprocal of Simpsonís index) ranged from 1.0 (FC) to
+18.8 (AB) and also decreased exponentially with increasing cover
+of the dominant species (Fig. 5c).
+Pielouís Evenness ranged from 0.04 at Fanno Creek (FC) to
+0.86 at Apache Bluff Wetland (AB). Apache Bluff is an urban
+wetland (Tualatin) dominated by short-awned foxtail (13%). As
+with species richness, evenness declined with the increasing
+abundance of the dominant species (Fig. 5d). However, the relationship
+was linear, indicating that the evenness of abundance
+between plant species is less sensitive to changes in the cover of
+dominant species when at low abundance than are the measures
+of diversity influenced by species richness.
+We also examined whether native plant species richness and
+abundance were associated with increasing cover of the dominant
+species. Linear regression indicated that the percentage of
+native plant species (PNS) at each site did not decrease with
+increasing abundance (x) of the dominant plant species (PNS =
+-0.27x + 65.6, R2 = 0.16, MSE = 296.8, t23 = 2.04, P = 0.053)
+(Fig. 6a). However, this low P value is heavily influenced by one
+reed canary grass-dominated site (FC) that contained only four
+introduced plant species. Removing this outlier increases the
+P value to 0.34 (t22 = 0.98). However, abundance of native species (ANS) declined exponentially with increasing cover of the dominant
+species (ln ANS = -0.04x + 4.85, R2 = 0.74, MSE = 0.41,
+t23 = 7.97, P = 6.3 ◊ 10-8) (Fig. 6b). Abundance was transformed by
+the natural log before regression analysis to stabilize residuals, improve
+normality and make the relationship approximately linear.
+Untransformed data are presented for ease of interpretation.
+Correlation analysis was used to determine the relationship
+between reed canary grass and purple loosestrife. The two species
+were negatively correlated (r = ñ0.65). The test for zero population
+correlation indicated that the negative relationship between
+purple loosestrife and reed canary grass was significant (t22 = 4.0,
+P = 0.0006).
+We also used correlation to assess the accuracy of the percentage
+cover observations. The observer determined the percentage
+cover of space occupied in a series of images both before and after
+determining plant cover in field plots. The test for zero population
+correlation indicated that the positive relationships were
+significant for both the before (r = 0.98, t12 = 18.85, P < 0.0001)
+and after (r = 0.99, t12 = 31.15, P < 0.0001) data. There was a negative correlation between the abundances of the
+two invasive species comprising the second matrix (r = ñ0.39).
+Axis 1 was primarily associated with the abundance of purple
+loosestrife (r = ñ0.99), whereas axis 2 was associated with the
+abundance of reed canary grass (r = ñ0.86). The Monte Carlo randomization procedure was run 100 times and the result was
+compared with that of the nonrandomized data. The Monte
+Carlo test statistic indicated that the relationship between loosestrife
+abundance (axis 1) and the environmental variables was
+not significantly greater than expected by chance (P = 0.17). The
+relationship between reed canary grass abundance (axis 2) and
+the environmental variables was also not statistically significant
+(P = 0.47). xdiscussion 
+The primary objective of this study was to measure and compare
+the per capita effects (PCEs) of two invasive plant species on wetland
+plant diversity. We have shown that (1) the relationship
+between plant diversity and invasive plant abundance ranges
+from linear (constant slope) to negative exponential (variable
+slope), the latter signifying that the PCEs are density-dependent;
+(2) the PCEs on biotic diversity were similar for both invasive
+species among the four measures of diversity we examined;
+(3) the PCEs were density-dependent for measures of diversity
+sensitive to the number of species (S, H', D), but not for the
+measure that relies solely on relative abundance (J); and (4) invader
+abundance was not correlated with other potential influences on
+plant diversity (hydrology, soils, topography).
+One adverse effect of loosestrife and canary grass invasion is
+the negative effect on native plant species richness and abundance.
+During field sampling, we observed that native species
+richness appeared to be more greatly reduced than the number of
+introduced species in wetlands with high densities of loosestrife
+and canary grass. After plotting the proportion of native species
+against the percentage cover of the invasive species, we discerned
+no clear pattern that the number of native species was reduced
+more than that of the introduced species. However, the abundance
+of native species is exponentially reduced by the introduced invasive
+species, thus increasing risk of local extinction in the future. To
+take an extreme example, Fanno Creek (FC) was entirely devoid
+of native plant species.
+In this study, we detected a strong negative association between
+invader density and plant diversity. Previous research underscored
+the uncertainty surrounding the impact of purple loosestrife
+on biotic diversity and this uncertainty has fostered criticism
+of biological control efforts. Prior to 1998, multiple papers report
+purple loosestrifeís negative effect on community diversity
+(Rawinski & Malecki, 1984; Thompson et al., 1987; Mal et al.,
+1992), but subsequent papers criticize the results as inconsistent
+and inconclusive (Anderson, 1995; Hager & McCoy, 1998). The
+best evidence comes from an experimental study where loosestrife
+dominated wetland plant assemblages consisting of 20
+selected plant species under conditions of low water fluctuation
+or high nutrient concentration (Weiher et al., 1996).
+Since Hagar and McCoyís review (1998), six additional studies
+that examined the influence of purple loosestrife on plant community
+diversity (Treberg & Husband, 1999; Farnsworth & Ellis,
+2001; Morrison, 2002; Landis et al., 2003; Hager & Vinebrook,
+2004; Houlahan & Findlay, 2004) have been published. Treberg
+and Husband (1999) studied 41 2 ◊ 2 m plots at one site along
+the Bar River, Ontario. They found no significant effect of presence
+of loosestrife or cover of loosestrife on mean species richness.
+Farnsworth and Ellis (2001) studied the effect of purple loosestrife
+abundance at five wetland sites in Connecticut. They
+examined species richness in 30 1 m2 plots arrayed in a grid
+within each wetland and found no significant relationship
+between purple loosestrife density and species richness at the
+1 m2 scale. However, biomass of loosestrife was negatively correlated
+with biomass of other plant species. Morrison (2002)
+examined the effect of loosestrife on plant community diversity
+at two wetland sites in New York. At each site, nine 1 m2 plots
+were established within three blocks. Within each block, one plot
+was an unmanipulated control, one plot had all vegetation
+removed and loosestrife was removed twice each year for 3 years,
+and one plot had all vegetation removed and was subsequently
+unmanipulated. Morrison detected no difference in species richness
+between any of the treatments after 3 years. Landis et al.
+(2003) examined the response of plant communities after the
+reduction in abundance of purple loosestrife by biological agents
+at five sites in Michigan. They measured species diversity within
+1, 3.7 and 7.1 m2 plots, first in 1995 before the biological control
+agents reduced biomass of loosestrife, then again in 2000 and
+2001 after the agents reduced biomass by 61ñ95%. They found that
+plant species richness significantly increased after the decline of
+loosestrife biomass at all five sites. Hager and Vinebrook (2004)
+examined 10 recently invaded wetlands in south-eastern Minnesota.
+They sampled loosestrife abundance and plant richness in
+six 0.5 ◊ 2.0 m (1 m2) plots in each wetland. Purple loosestrife
+was positively associated with species richness when invaded
+plots were compared to uninvaded plots. A survey by Houlahan
+and Findlay (2004) sampled 58 wetlands in south-western
+Ontario (mean size = 66.7 ha). They initially found a significant
+negative association between reed canary grass and purple loosestrife
+abundance and the number of native plant species, but the
+relationship for purple loosestrife disappeared when other
+predictor variables were included in the model. These six studies
+provide contradictory evidence that both supports and refutes
+the hypothesis that purple loosestrife abundance negatively
+affects plant community diversity.
+These inconsistent results may be the result of (1) differences
+among studies in the spatial scale at which plant diversity was
+measured, (2) differences in the range of loosestrife abundance
+examined, and/or (3) environmental differences due to different
+study locations. We weigh each of the possibilities in turn. First,
+species richness is positively correlated with sample area (Whittaker,
+1972; Magurran, 1988) and therefore the description of
+diversity varies with the spatial scale of observation. Four studies
+that found no decrease of plant diversity with increasing loosestrife
+abundance measured species richness at small spatial
+scales of 4 m2 (Treberg & Husband, 1999) or 1 m2 (Farnsworth &
+Ellis, 2001; Morrison, 2002; Hager & Vinebrook, 2004), whereas
+a study examining diversity at the 7.1 m2 scale (Landis et al.,
+2003) and this study (7854 m2) found that high densities of purple
+loosestrife were associated with reductions in wetland plant
+diversity. Second, the range of loosestrife densities might differ
+between studies. For example, the survey by Houlahan and Findlay (2004) found no effect of purple loosestrife abundance on plant
+species richness in 58 wetlands in south-western Ontario. It is
+difficult to assess why they did not detect a reduction in diversity
+because they used a modified BrownñBlanquet abundanceestimation
+method where their highest abundance level was
+defined as ëmany individuals and dominant over > 20% total
+wetland areaí. Therefore, at the two wetlands where loosestrife
+was scored in this category, the cover of purple loosestrife could
+have been 20ñ30%, in which case we might not expect to detect
+an effect, or loosestrife cover may have been 70ñ95%, where we
+would have expected to detect a difference (Fig. 5a). The ambiguity
+of their classification makes comparing results difficult. Third,
+the inconsistent results may be due to environmental differences,
+perhaps the result of different site locations. All of the other
+studies sampled wetlands in eastern regions of North America,
+whereas this study examined wetlands in western North America.
+Variation in environmental conditions between geographical
+regions might influence the negative effect of purple loosestrife
+on the diversity of plant communities.
+Prior research on the negative effect of reed canary grass is less
+controversial. Mesocosm experiments (Green & Galatowitsch,
+2002; Kercher & Zedler, 2004) and field observations (Werner &
+Zedler, 2002; Houlahan & Findlay, 2004) indicate that reed
+canary grass is capable of out-competing and displacing other
+wetland plants. Based on the consistency of these prior studies
+and personal field observations, we initially expected that reed
+canary grass would have a greater per capita negative effect on
+plant diversity than purple loosestrife (McEvoy & Coombs,
+2000). We observed that canary grass creates a thick litter layer
+that impedes growth of other species where loosestrife does not
+produce a dense layer of litter. Contrary to expectations we did
+not find a difference in the negative effect on diversity between
+the two species. This may be due to the tall (2ñ3 m) dense stands
+that loosestrife produces where light reaching the substrate is
+reduced to a similar level as that under a layer of canary grass
+litter. However, although the per capita effects (E) are similar,
+the overall impact of canary grass is probably greater than that of
+purple loosestrife in the Pacific Northwest. Prior studies indicate
+that reed canary grass is more abundant (A) and more widely
+distributed (D) than purple loosestrife in wetlands in our area
+(Magee et al., 1999; Magee & Kentula, 2005), which suggests that
+it is currently exerting a greater negative impact on biotic diversity
+than is purple loosestrife.
+The distributions of purple loosestrife and reed canary grass
+overlap across much of temperate North America. They often
+coexist in wetlands, but we found that their abundances are negatively
+correlated. This suggests that (1) the two species are competing
+with each other, or (2) the two species respond in opposite
+ways to other environmental variables. Removing one will likely
+result in the increase of the other, and controlling one without
+controlling the other is unlikely to lead to an increase in diversity.
+A prior investigation of the effect of biological agents introduced
+for purple loosestrife control found that, although loosestrife
+abundance was reduced by 90%, plant diversity did not increase
+in the presence of high density stands of reed canary grass
+(Schooler, 1998). In addition, Morrison (2002) found that reed
+canary grass increased in study plots where loosestrife was
+removed, which may be why she did not detect an increase of
+diversity with decreased loosestrife abundance. The replacement
+of one weed by another that is even harder to control is an example
+of a revenge effect: in our rush to solve local and acute pest
+problems we may be creating diffuse and chronic problems that
+are even harder to solve (Tenner, 1996; McEvoy & Coombs,
+2000).
+Our review of prior studies revealed sampling issues may have
+contributed to the inconsistent results on the environmental
+consequences of purple loosestrife invasion. We suggest future
+studies measuring biotic diversity need to address the five following
+issues. First, examination of diversity should include multiple
+measures to assess whether description of the results changes
+with the particular measure used. Second, studies should sample
+at a number of scales to determine how effect changes across
+scales. Third, adequacy of sampling effort needs to be examined
+using species area curves. Fourth, studies should account for the
+effects of environmental variables known to influence diversity.
+Finally, since purposefully infesting large areas and monitoring
+the outcome is not usually an option when studying invasive
+organisms, large-scale horizontal observational studies must be
+complemented by necessarily small-scale experimental studies to
+establish cause and effect relationships. Experiments might
+establish whether invaders potentially decrease diversity; observational
+studies might establish when, where and how strongly
+invaders actually decrease diversity. This information strengthens
+the conclusion that low diversity is a consequence of higher
+invader abundance rather than high invader abundance results
+from low diversity (Elton, 1958; Espinosa-GarcÌa et al., 2004;
+Zavaleta & Hulvey, 2004). Another method to determine cause
+and effect is through vertical field studies that track relationships
+among invasive species and biotic diversity over time at randomly
+selected sites while manipulating abundance of the invasive species.
+However, these studies are difficult to implement because
+selectively manipulating abundance of the invasive species across
+large spatial scales is difficult to accomplish. Classical biological
+control can be an effective means to selectively reduce populations
+of invasive plants (Landis et al., 2003), but documenting
+negative effects should occur before the importation of potentially
+risky biological control agents (Hager & McCoy, 1998). It is
+difficult to establish causal relationships when examining the
+effects of invasive plants on biotic diversity. A robust assessment of
+effect requires evidence from both experimental and observational
+studies.
+One difficulty of an observational study is determining cause
+and effect relationships. Underlying environmental variables,
+correlated with the abundance of the invasive species, may be
+responsible for the observed variation in plant diversity. To
+strengthen our conclusions, we measured alternative environmental
+variables likely to cause variation in plant diversity. We
+conclude that the variables of interest, purple loosestrife and reed
+canary grass abundance, are not correlated with various measures
+of topography, hydrology and soil properties. Therefore,
+patterns of plant species richness and abundance that are correlated
+with invasive species abundance are likely a result of the effect of the invasive species and not the underlying environment.
+In addition, experimental studies document the ability of both
+invaders to decrease plant diversity (Weiher et al., 1996; Green &
+Galatowitsch, 2002; Kercher & Zedler, 2004). The combination
+of this evidence strongly suggests that both purple loosestrife and
+reed canary grass are reducing the plant community diversity of
+wetlands in the Pacific Northwest USA.

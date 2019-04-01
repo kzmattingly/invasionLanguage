@@ -1,0 +1,375 @@
+xabstract
+Introduced largemouth bass (
+Micropterus salmoides
+spp.) and bluegill (
+Lepomis macrochirus
+spp.) are
+thought to threaten native aquatic organisms worldwide and hence their eradication has recently begun
+in Japan. Our previous studies suggested that the removal of largemouth bass increases native fish, shrimp,
+dragonflies, and exotic crayfish, but decreases macrophytes. To test this prediction, we removed the exotic
+fishes by draining farm ponds and compared the numbers of these organisms before and after the drain,
+as well as between drained and undrained ponds. The number of dragonfly
+Pseudothemis zonata
+, crayfish,
+shrimp, and goby increased rapidly after the drain, but the coverage of macrophyte declined. The reduction
+in macrophyte is assumed to be caused by increased herbivory by crayfish. The number of exuviae of
+damselfly
+Cercion calamorum
+and the total number of species of odonate also decreased after the drain.
+These decreases can be due to the reduction of macrophyte because reduced odonate species are known
+to use macrophytes as oviposition sites. Therefore, the removal of largemouth bass has a potential to cause
+negative effects on some native organisms. We propose that reduction of exotic crayfish should be
+considered when eradicating the exotic fishes.
+
+xintroduction
+The extinction of native species and the global homogenization
+of biota induced by species invasion have been
+the major factors that have led to losses in biodiversity
+(Pimm 1991; Vitousek
+et al
+. 1996; Williamson 1996).
+Programs to resolve invasive species problems are
+increasingly important for the conservation and management
+of native biodiversity. Four major steps for
+dealing with aliens are: prevention, early detection,
+eradication, and control (Wittenberg & Cock 2001).
+The best solution is to prevent the introduction of
+exotic species, but once introduced, eradication might
+be effective (Myers
+et al
+. 2000).
+However, it should be noted that the eradication of
+exotic species occasionally results in undesired changes
+in native communities (Zavaleta
+et al
+. 2001). Firstly, the
+removal of an exotic can enhance secondary establishment
+or increase other exotic species, which then
+decreases native organisms. Secondly, eradication can
+reduce populations of native species if the target exotic
+performs functions that are similar to those of native
+species that are no longer in the local environment.
+Largemouth bass (
+Micropterus salmoides
+spp.) and
+bluegill (
+Lepomis macrochirus
+spp.) are notorious predators
+that can change community structure both
+directly and indirectly (e.g. largemouth bass: Power
+et al
+. 1985; Carpenter & Kitchell 1993; bluegill: Hambright
+et al
+. 1986), and have been introduced in over
+50 and 20 countries, respectively (Welcomme 1992).
+Largemouth bass becomes a typical piscivore (Keast &
+Webb 1966) and bluegill an omnivore (Azuma 1992).
+In Japan, these fishes have become widely established
+and the native biodiversity is known to be decreasing in
+many freshwater systems where largemouth bass and
+bluegill have been introduced (Azuma 1992; National
+Federation of Inlandwater Fisheries Cooperatives
+1992). As a consequence, eradication of largemouth
+bass and bluegill has recently begun in some regions in
+Japan. However, the removal of these fishes can increase
+the populations of other exotic species including red
+swamp crayfish (
+Procambarus clarkii
+spp.) and bullfrog
+(
+Rana catesbeiana
+spp.), and hence, can cause a negative
+secondary effect on native organisms because these
+exotics are known to be preyed upon by largemouth
+bass and bluegills in their native range (Lewis
+et al
+.
+1961; Kruse & Francis 1977; Huner 1988). Therefore,
+to restore native biodiversity, it seems essential to clarify
+the community-wide impacts by the exotic fishes,
+including any interactions between the exotic fishes and
+other exotic species before the eradication.
+Previous studies indicated that largemouth bass
+reduced aquatic organisms (native fish, shrimp,
+nymphal odonate, and exotic crayfish) by top-down
+effect, while it increased larval chironomids, oligochaeta,
+and macrophytes by trophic cascade (Maezono &
+Miyashita 2003; Maezono 2003). Therefore, we expect
+that the removal of largemouth bass by pond draining
+increases native fish, shrimp, nymphal odonate, and
+exotic crayfish, which then decreases benthic chironomids,
+oligochaeta, and macrophytes. The aim in the
+present study is to test this prediction at the scale of a
+whole pond, and to verify secondary negative impacts
+on natives due to the exotic fishes removal.
+
+xmethods
+Field studies were conducted in farm ponds in
+Namegawa Town, Saitama Prefecture, eastern Japan,
+where there are numerous farm ponds. The ponds are
+small with relatively low turbidity and their physicochemical
+environments appear to be similar. Largemouth
+bass and bluegills were established in this area
+in the 1970s (Matsumoto pers. comm.). The exotic red
+swamp crayfish (
+Procambarus clarkii
+spp.), bullfrogs
+(
+Rana catesbeiana
+spp.), deep-bodied crusian carp
+(
+Carassius cuvieri
+spp.), rosy bitterling (
+Rhodeus ocellatus
+ocellatus
+spp.), and common carp (
+Cyprinus carpio
+spp.) were already introduced and established in this
+area before the introduction of largemouth bass and
+bluegill. We chose six ponds (A-F, area: 3000–5000 m
+2
+)
+with exotic fishes and floating-leaved macrophyte,
+Trapa japonica
+spp.. We recognized the presence of
+largemouth bass and bluegill in these ponds by electrofishing
+in August 1999. Ponds A, B, C were drained
+completely by pond managers in September 2000, September
+1999, and October 1999, respectively (treatment),
+while the three remaining ponds (D, E, and F)
+were not drained (control). The water in the drained
+ponds was kept empty for 2 weeks and recovered full
+level by rainfall within 2 months after the draining. To
+verify the absence of largemouth bass and bluegill in
+the drained ponds, electrofishing was conducted within
+2 years after pond draining. We found no largemouth
+bass and bluegills in these ponds.
+We chose
+T. japonica
+spp., odonates (i.e.
+Pseudothemis
+zonata
+spp.,
+Cercion calamorum
+spp.,
+Cercion hieroglyphicum
+spp., and
+Anax parthenope
+spp.), shrimp
+(
+Palaemon paucidens
+spp.), red swamp crayfish (
+Procambarus
+clarkii
+spp.), and goby (
+Rhinogobius
+spp.) as
+target species, because (i) the seeds of
+T. Japonica
+spp.
+can survive in drained ponds (Kadono 1998); (ii) adult
+odonates can fly from other farm ponds (Takasaki
+1994); (iii) the crayfish can move on the ground (Ban
+1980), and (iv) shrimps and the goby can go up water
+gates from downstream (Maezono pers. obs.). We surveyed
+target organisms for 5 years (1998–2002). The
+coverage of macrophytes was estimated from photographs
+taken from the same positions every July.
+Aquatic organisms were collected by 20 minnow-traps
+(25
+¥
+40
+¥
+25 cm, mesh size: 2 mm) from each of six
+ponds every July Organisms other than crayfish were
+captured in the daytime. Traps were submerged into
+each pond at 3 m off from the shoreline with a spacing
+of more than 5 m between the traps, and were retrieved
+half an hour later. Because crayfish is more active at
+night (Huner 1988), they were captured by submerging
+the traps in the ponds overnight. Relative densities of
+aquatic organisms were estimated as the number of
+organisms captured per trap. We collected exuviae of
+odonates attaching to bank, terrestrial plants and submerged
+macrophytes along the shoreline (20 m) of each
+pond in June and July.
+Using these data (drained year and the next 2 years),
+repeated-measures
+ANOVA
+’s were conducted, with
+draining as a main factor. In Odonata, we used the data
+of
+Pseudothemis zonata
+spp. and
+Cercion calamorum
+spp.
+collected in July. A repeated-measures
+ANOVA
+was also
+conducted for the number of species of Odonata (data
+in June and July combined).
+
+
+xresults
+Changes in the abundance of organisms in drained
+ponds appeared to be clearly classified into two groups;
+those whose numbers increased and those whose numbers
+decreased after the pond draining (Fig. 1).
+Repeated-measures
+ANOVA
+showed that both macrophyte
+coverage and the number of exuviae of the damselfly
+C. calamorum
+spp. differed significantly between
+the drained and undrained ponds. The interactions
+between treatment (drained or undrained) and time
+(drained year and the next 2 years) were also significant,
+indicating that the reduction of macrophyte coverage
+and number of
+C. calamorum
+spp. became more
+pronounced with years after the pond draining
+(Table 1, Fig. 1). The number of dragonfly
+P. zonata
+spp., shrimp, crayfish, and goby differed significantly
+between drained and undrained ponds. The interactions
+between treatment and time were significant indicating
+that these organisms increased with years after the pond
+draining (Table 1, Fig. 1). The number of odnate species
+decreased markedly in the drained ponds just after
+the draining and kept the low level for 2 years thereafter
+(Fig. 2). Repeated-measures
+ANOVA
+showed that the
+number of odonate species differed significantly
+between drained and undrained ponds (betweensubject
+effect:
+F
+1,2
+=
+20.800,
+P
+=
+0.010), and withinsubject
+effects were also significant (Time:
+F
+2,8
+=
+17.179
+P
+=
+0.001; Time
+¥
+drain:
+F
+2,8
+=
+10.750
+P
+=
+0.005), indicating that the reduction in the number
+of species became more pronounced with years after
+the draining (Fig. 2).
+
+xdiscussion
+The present study tested the prediction derived from
+the previous studies that the removal of exotic fishes
+increases some species of animals, while decreased
+macrophytes (Maezono & Miyashita 2003; Maezono
+2003). As expected, we found increases in the number
+of native fish, shrimp, nymphal dragonfly (
+P. zonata
+),
+and crayfish, while macrophyte decreased after the
+draining (Fig. 1). The reduction in coverage of
+T. japonica
+spp. after the pond drain (Fig. 1) does not
+seem to have been caused by changes in physicochemical
+factors in ponds after the draining, but seems to be
+because of the increased herbivory by exotic crayfish
+for the following reasons: firstly,
+T. japonica
+spp. is usually
+known not to be affected by changes in physicochemical
+factors in ponds after the drain (Kadono
+1998), and secondly, crayfish is known to reduce macrophyte
+biomass (e.g. Hill & Lodge 1995; Gutiérrez-
+Yurrita
+et al
+. 1998).
+We obtained additional findings that the abundance
+of some species of Odonata decreased unexpectedly.
+The number of exuviae of
+C. calamorum
+spp. and the
+number of odonate species such as
+C. hieroglyphicum
+spp. and
+Anax parthenope
+spp. decreased after pond
+draining, although the number of
+P. zonata
+increased.
+Thus, the exotic fishes do not appear to control the
+number of
+C. calamorum
+spp.,
+C. hieroglyphicum
+spp.
+,
+and
+A. parthenope
+spp. in farm ponds. It is likely that
+macrophytes sustained populations of these decreased
+odonate species, because these odonates are known to
+use living tissues of macrophytes as oviposition sites
+(Sugimura
+et al
+. 1999). This inference is further supported
+by the fact that
+P. zonata
+which showed increase
+after the removal of exotic fishes, do not use macrophytes
+(Takasaki 1994; Sugimura
+et al
+. 1999).
+The finding that the removal of largemouth bass
+increases exotic crayfish and then reduces macrophytes
+and macrophyte-dependent odonates provokes important
+conservation issues. Firstly, half the number of
+Japanese odonate species use farm ponds as main habitats
+(Takasaki 1994), and many rare species of aquatic
+plants distribute only in farm ponds (Kadono 1998).
+Secondly, macrophytes perform various functions in
+aquatic ecosystems (e.g. Pip & Stewart 1976; Crowder
+& Cooper 1982; Werner
+et al
+. 1983; Carpenter &
+Lodge 1986; Momot 1995; Scheffer
+et al
+. 2001).
+Because bass and crayfish already coexist worldwide
+(e.g. Kenya: Hickley
+et al
+. 1994; Spain: Nicola
+et al
+.
+1996; Portugal: Godinho & Ferreira 1994), these secondary
+impacts caused by the eradication of largemouth
+bass will occur frequently.
+To avoid these unwanted outcomes, it is necessary
+to control the abundance of crayfish after the eradication
+of the exotic fish when a species of conservation
+interest has a possibility of being under serious impact
+by crayfish, such as macrophytes or macrophytesdependent
+odonates. It should be noted that, to keep
+the crayfish population density at a low level, we need
+to remove them continuously for a long period because
+crayfish have a high fecundity (Momot 1995) and a
+high potential of recolonization by moving on land (Ban
+1980; Gherardi & Barbaresi 2000). The removal of
+crayfish seems to be feasible in small lentic systems, but
+complete removal from a whole lake seems impossible.
+In such situations, intensive and continuous removal
+should be conducted around the area where target
+native species inhabit.

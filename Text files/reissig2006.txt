@@ -1,0 +1,829 @@
+xabstract
+
+
+Patagonia fishless ponds have been stocked with fishes for recreational purposes since
+
+early in the 20th century. We carried out a summer plankton sampling in 18 Patagonian
+
+lakes; 12 fishless, 5 with introduced fishes and 1 with endemic fish fauna. The lakes are situated
+
+on a latitudinal gradient from 39 to 49S. Zooplankton and phytoplankton composition,
+
+phytoplankton relative abundance, and zooplankton body size and mouthpart
+
+morphology were analyzed. Results showed differences between lakes with and without
+
+fishes; in the presence of fish zooplankton size spectrum tended to be narrower because
+
+of the disappearance of Daphnia and large centropagid copepods. Zooplankton composition
+
+changed: centropagid species richness decreased and rotifers dominated. Contrarily, in
+
+fishless lakes 3 or 4 centropagid species, differing markedly in body size and exploiting different
+
+food niches, were observed co-occurring. These changes in zooplankton seemed to
+
+cascade down to phytoplankton. Fish introduction increased the phytoplankton similarity
+
+in lakes even belonging to different basins in a latitudinal gradient. Indeed, cyanobacteria
+
+dominated only in lakes with introduced fishes. Probably the elimination of Daphnia
+
+favored cyanobacteria proliferation due to nutrient rebalance. As a consequence, water
+
+quality decreases and the value of sport fisheries is reduced. Fish introduction in Patagonia
+
+is a practice that should be re-evaluated by governments and NGOs due to its potentially
+
+negative impact on lakes and local economies. xintroduction
+
+
+Biological invasions have long been recognized as a threat to
+
+the biodiversity since invaders may alter both direct and indirect
+
+interactions among populations and even induce trophic
+
+cascades (Simon and Townsend, 2003). The understanding of
+
+population biology of invaders and the effect of introduced
+
+species is necessary for constructing a robust theory of invasion
+
+biology that would provide a basis for rational decisions
+
+about species introduction and eradication efforts (Townsend,
+
+1996; Simberloff, 2003).
+
+The introduction of salmonids in lakes and rivers of Patagonia,
+
+the southernmost region of South America, started
+
+early in the 20th century (Macchi et al., 1999). In Argentinean
+
+Patagonia, rainbow trout (Oncorhynchus mykiss) is the most
+
+widely distributed salmonid species (Pascual et al., 2002). In
+
+addition, during the 60s, native fishes (Percichthys trucha and
+
+Odonthestes bonariensis) were also introduced to fishless lakes (Marcoli¥n et al., 1968; Quiro¥ s and Baigu¥n, 1986; Quiro¥ s, 1990).
+
+Unfortunately, very few data were available on food web
+
+structure before these practices began. The Patagonian Plateau
+
+region is unfavorable for lake development (Iriondo,
+
+1989); thus the few existing lakes belong to isolated basins.
+
+Visual planktivores can change size structure and species
+
+composition of freshwater zooplankton communities (Gliwicz
+
+and Pijanowska, 1989). Predation on native fauna by
+
+introduced trout frequently causes ecological changes,
+
+including the elimination of amphibian and reptile populations
+
+(Tyler et al., 1998; Knapp, 2005) and changes in
+
+zooplankton and benthic macroinvertebrate species composition
+
+and size structure (Anderson, 1980; Knapp et al., 2001).
+
+Previous studies in Patagonian lakes have referred to a strong
+
+effect on zooplankton body size, with a narrower spectrum in
+
+lakes with fish introductions (Modenutti and Balseiro, 1994).
+
+Also fishes may compete for food with avian fauna, thus flamingos
+
+are usually absent or scarce in Andean lakes with fish
+
+(Hurlbert et al., 1986). Recently, negative effects on swan and
+
+coot populations were observed in a Patagonian lake with
+
+introduced fishes (Ortubay et al., 2006). On the other hand,
+
+fish predation can exert a trophic cascade down to lower trophic
+
+levels as they can indirectly increase phytoplankton biomass
+
+by reducing zooplankton grazing pressure (Carpenter
+
+and Kitchell, 1993; Attayde and Hansson, 2001; Khan et al.,
+
+2003).
+
+Zooplankton assemblages in Patagonian Plateau lakes are
+
+dominated by endemic calanoid copepods, particularly centropagids
+
+of the genera Boeckella and Parabroteas (Modenutti
+
+and Balseiro, 1994; Die¥guez and Balseiro, 1998; Menu-Marque
+
+et al., 2000). Twelve species of Boeckella are reported in these
+
+shallow lakes that represent reservoirs of the biodiversity of
+
+this assemblage (Menu-Marque et al., 2000). The regional
+
+distinctiveness of biological communities reflects historical
+
+factors that have restricted species ranges via physical isolation,
+
+ecological interactions and evolutionary diversification
+
+(Huston, 1994). Biotic exchange with the introduction of
+
+non-indigenous species has been dramatically accelerated
+
+by humans in historical times being an important mechanism
+
+of biotic homogenization (Olden and Poff, 2004). Biotic
+
+homogenization is an increase in species similarity among a
+
+set of communities through time (Beissner et al., 2003). Based
+
+on these ideas we hypothesize that fish introduction in Patagonia
+
+leads to increase plankton similarity as a consequence
+
+of the loss of large species due to the introduction of visual
+
+predators. Thus, the main objective of the present study is
+
+to analyze Patagonian planktonic food web structure of fishless
+
+lakes and lakes with introduced fishes along a latitudinal
+
+gradient from 39 to 49S.
+
+xmethods
+
+ The study was carried out in 18 Patagonian lakes located between
+
+38580ñ48510S and 68200ñ71030W. The climate is dry
+
+and cold with strong westerly winds, resulting in severe aeolian
+
+erosion (Iriondo, 1989). The lakes belong to 4 areas: [1]
+
+Northern area of Laguna Blanca and surroundings (39S and
+
+70W), [2] Central area of the Nothofagus forest-Patagonian
+
+steppe ecotone (41S and 71W), [3] Central steppe area (41S
+
+and 68W) and [4] Southern area in Santa Cruz province
+
+(49S and 72W) (Fig. 1). The region is a steppe with smallleaved
+
+shrubs and the mean annual precipitation varies between
+
+400 mm in [2], 200 mm in [1] and [4] and less than
+
+150 mm in [3] (Paruelo et al., 1998). The lakes are shallow,
+
+and in most cases the maximum depths are less than 12 m.
+
+Carrilaufquen Chica has a maximum depth of 8m, Carrilaufquen
+
+Grande 8.5 m, Nò e-Luan 10 m, Del Mie 2m, Laguna Blanca
+
+12 m, Jabo¥n 4mand El Chancho and El Burro 2 m; the other
+
+lakes lack bathymetric maps. On the contrary, Lake Cardiel is
+
+a deep lake with a maximum depth of 76 m. Twelve of the
+
+studied lakes are fishless. The other six lakes have fishes,
+
+Lake Del Mie has Galaxias platei, a native fish species (Milano,
+
+2003), and the other five lakes contain introduced fish species.
+
+Carrilaufquen Grande, Carrilaufquen Chica, Nò e Luan and
+
+Cardiel lakes were stocked with salmonids, mainly O. mykiss
+
+during the first half of 20th century (Pascual et al., 2002). Laguna
+
+Blanca was a fishless lake until the 60s when the indigenous
+
+fishes Percichthys colhuapiensis, P. trucha and exotic
+
+salmonids were introduced. Lakes with fish will hereafter be
+
+indicated in bold letters.Fieldwork was carried out during summers (February) 2001ñ
+
+2004, and the lakes were sampled at midday. All lakes were
+
+sampled in at least two different summer seasons. Zooplankton
+
+samples were collected with a 25 cm diameter and 55 lmmesh-
+
+plankton net and two or more horizontal tows of 10m were made in the central area of the lake. The tows were
+
+pooled into one sample and preserved in 4% formalin solution.
+
+Water samples for phytoplankton quantification were
+
+collected subsuperficially (0.5m depth) with a Ruttner bottle
+
+from 10 lakes, five with fishes (Blanca, Carrilaufquen Grande,
+
+Carrilaufquen Chica, Nò e Luan and Del Mie lakes) and five
+
+without fish (El Burro, Jabo¥ n, Volca¥n 2, 3 and 4). Unfortunately,
+
+in the case of Lake Cardiel the phytoplankton samplewas collected
+
+with a net mesh of 55 lm, thus we only obtained net
+
+phytoplankton. Phytoplankton samples were preserved in
+
+acid Lugol solution, and were quantified under an inverted
+
+microscope following Utermo® hl (1958). Algal cells were identified
+
+to the lowest possible taxonomic category (genus or species),
+
+then were assigned to the following groups:
+
+Cyanophyceae, Chlorophyceae (Chlorococcales), Cryptophyceae
+
++ flagellated Chrysophyceae (<20 lm), and others
+
+(mainly Bacillariophyceae, Chlorophyceae Zygnematales and
+
+Euglenophyceae). Biovolumes were calculated applying Sun
+
+and Liu (2003) geometric models based on measurements of
+
+at least 30 algal cells of each species. In the analysis of phytoplankton
+
+biovolume the order Zygnematales was considered
+
+separately (Chlorophyceae Zygnematales) due to their high
+
+relative contribution to total biovolume.
+
+In the laboratory, zooplankton species were identified and
+
+measured. Crustaceans were quantified under stereomicroscope
+
+in 5 ml Bogorov chambers, and rotifers in 1 ml Sedgwickñ
+
+Rafter chambers under a direct microscope. At least 60
+
+individuals of each abundant species and all individuals of
+
+rare species were measured under an Olympus SZX9 stereomicroscope
+
+at 12ñ50∑ magnification. Body size was considered
+
+as follows: for cladocerans, linear dimension from the
+
+top of the head shield to the base of the caudal spine; for
+
+copepods, the total body length from the anterior extremity
+
+of cephalothorax to the tips of the furcal rami (without setae); and for rotifers, the total body of lorica length without spines.
+
+The proportion of each species or size within species (different
+
+instars of copepods) was estimated for each sample.
+
+In order to study the relationship between centropagid
+
+mouthpart structure and feeding mode, several adult females
+
+and males of each species were analyzed. Mandibles and
+
+maxillipeds were dissected and observed under a direct
+
+microscope Olympus BX50 and images were digitalized using
+
+an image analyzer (Image Pro, Media Cybernetics). Mandible
+
+(Md) as the total length of the cutting edge, and total length
+
+of maxillipeds (Mxp), were measured.
+
+Levels of significance of differences were tested with parametric
+
+and non-parametric tests (ANOVA, and MannñWhitney
+
+test). Homoscedasticity and normality were tested when
+
+required. All statistical analyses were performed with SigmaStat
+
+3.01 statistical package. The similarity between different
+
+lakes was estimated through a hierarchical cluster
+
+analysis based on binary data (presenceñabsence) in the case
+
+of crustacean zooplankton species. In the case of phytoplankton,
+
+the relative abundance of the different groups was estimated
+
+in the same way. Biota distance was estimated
+
+through Euclidean distances and clusters were constructed
+
+with an unweighted pair-group average (UPGMA). Analyses
+
+were performed with Statistica.
+
+xresults In the whole data set of 18 Patagonian lakes we recorded a
+
+broad spectrum of zooplankton sizes, ranging from 0.1 mm
+
+for the rotifer Keratella cochlearis and copepod nauplii, to
+
+6.3 mm for the centropagid copepod Parabroteas sarsi adults.
+
+The complete spectrum was attained only in fishless lakes
+
+(Fig. 2). Lakes with fishes showed a narrower size distribution,
+
+with the dominance of small-sized zooplankton (less than
+
+1 mm). We observed significant differences between fish and
+
+fishless lakes in the number of classes over 1mm with values
+
+larger than 0 (MannñWhitney, P < 0.001). Among lakes with
+
+fish, Del Mie is the only lake with endemic fish fauna,
+
+whereas the others were stocked with a mixed assemblage
+
+including exotic and native fishes with different success
+
+(Table 1). Considering the time of introduction, Lake Laguna
+
+Blanca represents the most recently manipulated lake, while
+
+both Carrilaufquen lakes represent the least recently manipulated
+
+ones. Regarding fish fauna and time of introduction in
+
+each lake (Table 1), no remarkable differences in size spectra
+
+were observed between shallow lakes with native (Del Mie)
+
+and introduced fishes (Fig. 2).
+
+Zooplankton community structure differed markedly between
+
+lakes with and without fishes. Fishless lakes were
+
+dominated by crustaceans, in particular calanoid copepods.
+
+A total of 8 centropagid species were recorded including the
+
+large P. sarsi and 7 Boeckella. All fishless lakes, except NF1, contained
+
+at least two or more species of co-existing centropagid
+
+copepods (Fig. 3, see numbers at the bottom of the figure).
+
+Most of these lakes contained the largest copepod, P. sarsi,
+
+since it was present in 8 of the 13 fishless environments sampled.
+
+On the contrary, each lake with fishes contained only
+
+one species of Boeckella, and no centropagid copepods were recorded in Lake Carrilaufquen Chica. A particular case was
+
+the deep Lake Cardiel which presented 4 centropagid copepods
+
+(3 Boeckella species and P. sarsi) though in very low relative
+
+abundances (pooled copepod relative abundances <15%
+
+of total zooplankton abundances). Centropagid copepods constitute
+
+a size gradient (Fig. 3, grey bars). In lakes with fish,
+
+copepods hardly exceeded 1 mm, with the exception of Lake
+
+Cardiel (Fig. 4a). On the other hand, copepod sizes in fishless
+
+lakes ranged from <1mm up to values >5 mm (Fig. 4a). The
+
+difference in maximum copepod sizes between fish and fishless
+
+lakes was significant (MannñWhitney, P = 0.005). The variation
+
+observed in copepod size may imply the coexistence of
+
+different feeding groups within this assemblage.We observed
+
+significant differences in mandible and maxilliped sizes (one
+
+way ANOVA, P < 0.001). The small Boeckella gracilipes and B.
+
+michaelseni exhibited a very small size of the mandibles and
+
+maxillipeds constituting a homogenous group (Fig. 4b, Tukey
+
+test, P > 0.05). These two species feed on particles <50 lm
+
+(Balseiro et al., 2001; Modenutti et al., 2003) and were never
+
+found together, but almost all lakes contained one of them
+
+(Fig. 3). The other centropagid species all displayed significant
+
+differences amongst themselves and with the B. gracilipesñB.
+
+michaelseni group (Fig. 4b, Tukey test, P < 0.001). P. sarsi is carnivorous
+
+preying on rotifers and small copepods and cladocerans
+
+(<1.6 mm) (Heywood, 1970; Balseiro and Vega, 1994;
+
+Die¥guez and Balseiro, 1998). Finally, B. poppei, B. antiqua and
+
+B. brasiliensis, although herbivores, can access large food
+
+items like diatoms and chlorophytes (50ñ150 lm) (Weller,
+
+1977, and own observations). In addition, differences in their
+
+mouthpart sizes (Fig. 4b) may indicate that these species
+
+would exploit a different fraction of this resource, B. poppei
+
+being the species which accesses with larger food items.
+
+Difference in maximum cladoceran body size between fish
+
+and fishless lakes was significant (MannñWhitney, P = 0.017).
+
+In fishless lakes, three large Daphnia species were recorded
+
+(D. dadayana, D. commutata (D. obtusa group sensu Benzie,
+
+2005), and Daphnia sp.) driving the size spectra of cladocera
+
+to sizes that ranged between 2mm and 3.5mm (Fig. 5).
+
+These cladocerans were completely absent in all lakes with
+
+fishes and in two fishless lakes (El Burro and P. Moreno 4).
+
+In these lakes, the presence of smaller cladocerans such as
+
+Ceriodaphnia dubia and Bosmina longirostris were observed,
+
+and cladocera size spectra dropped down to less than 1 mm
+
+(around 0.5 mm) (Fig. 5).
+
+We observed that shallow lakes with introduced fishes
+
+were very similar in the crustacean assemblage with the loss
+
+of large-sized species. Cluster analysis showed three groups:
+
+one (I) corresponded to shallow lakes with introduced fishes
+
+(Carrilaufquen Grande, Carrilaufquen Chica, Nò e Luan and
+
+Blanca), a second one (II) includes two fishless lakes: El Burro and NF1, and finally, the third group (III) included ten fishless
+
+lakes and two lakes with fish: the deep lake Cardiel and the
+
+lake with endemic fish fauna (Del Mie) (Fig. 6).
+
+Smaller zooplankton, like rotifers, showed an opposite
+
+trend to that of crustaceans. In lakes with fish, rotifers dominated
+
+the zooplankton (Table 1) and showed an increase in
+
+species number (2ñ3 species in fishless lakes up to 9 in fish
+
+lakes) and in relative abundance (10% of total abundance in
+
+fishless lakes up to 90% in lakes with fish). In environments
+
+with fish the rotifer assemblage was represented mainly by
+
+filter-feeders Brachionidae such as K. cochlearis, Notholca
+
+acuminata, Brachionus angularis, B. caudatus and B. calyciflorus,
+
+while Lake Carrilaufquen Chica was the only environment
+
+where the predaceous rotifer Asplanchna brightwelli was recorded
+
+(Table 1).
+
+Contrasting phytoplankton abundance and structure was
+
+observed between lakes with and without fish (Fig. 7a and b).
+
+Lakes with fish showed higher abundances of the net phytoplankton
+
+fraction while fishless lakes exhibited a comparatively
+
+greater relative importance of nanoplankton (Table 2).
+
+Lakes with fishes exhibited nano:net ratios less than 0.5 (Table
+
+2) and the difference, when comparing with fishless lakes, was
+
+significant (one way ANOVA, P = 0.001). In addition, we found
+
+some important differences in phytoplankton composition
+
+among lakes. In lakes with introduced fishes phytoplankton
+
+was monopolized by cyanobacteria (Cyanophyceae) both in
+
+terms of abundance (>90% of total cell abundance, Fig. 7a)
+
+and biovolume (>45% of total biovolume, Fig. 7b). Three fish
+
+lakes (Carrilaufquen Grande, Carrilaufquen Chica and Cardiel)
+
+were dominated by filamentous species (Table 1). In Lake Del
+
+Mie, the one with native fish (Galaxias platei), net phytoplankton
+
+also prevailed (Fig. 7a and b), but chlorophyceans (Chlorococcales)
+
+instead of cyanobacteria dominated the assemblage
+
+(Table 1). In fishless lakes cyanobacteria never dominated
+
+(Fig. 7a and b). This result was confirmed by the hierarchical
+
+cluster analysis based on relative abundances of the different
+
+phytoplankton groups. Dendrogram showed two groups: one
+
+(I) corresponds to lakes with introduced fishes (Carrilaufquen
+
+Grande, Carrilaufquen Chica, Nò e Luan, Blanca and Cardiel)
+
+and the other (II) included fishless lakes and the lake with endemic
+
+fish fauna (Del Mie) (Fig. 8). This result indicates that fish
+
+introduction may increase the phytoplankton similarity in
+
+lakes even belonging to different basins on a latitudinal
+
+gradient.
+
+
+xdiscussion
+Size-selective predators have been shown to favor small-bodied
+
+zooplankton through suppression of competitors or intermediate
+
+predators (Brooks and Dodson, 1965; Dodson, 1974;
+
+Hall et al., 1976; Vanni, 1988; Carpenter and Kitchell, 1993).
+
+In Patagonian shallow lakes, the zooplankton community
+
+may change dramatically when fish are present, in that rotifers
+
+dominated both in species number and abundance. The
+
+absence of invertebrate predators (P. sarsi) and large competitors
+
+such as Daphnia may account for the success of this
+
+small filter-feeder group. Although we have not carried out
+
+manipulative experiments the few data on zooplankton
+
+structure previous to fish introduction support our observations.
+
+Marcoli¥n et al. (1968) indicated the presence of large
+
+centropagids such as P. sarsi and Boeckella brasiliensis in Laguna
+
+Blanca before fish introduction. Nowadays, these two species
+
+no longer exist in Laguna Blanca, though they remain in
+
+the nearby ponds Jabo¥n and El Burro.
+
+In fishless lakes co-occurring centropagid species differed
+
+markedly in body and mouthpart sizes; allowing the coexistence
+
+of species that may exploit different food items. Coexistence
+
+of similar species will occur only if they are of
+
+sufficiently different sizes such that there is no overlap in
+
+their diets (Hutchinson, 1951). This assumption is reliable
+
+for the centropagid assemblages of Patagonia, since only species
+
+with different size were observed in the same environment
+
+(Fig. 3). On the contrary, the coexistence of large
+
+Daphnia with this assemblage (Fig. 5) would be consistent with
+
+a weak competition for food resources since large Daphnia
+
+and Boeckella species have a low food niche overlap (Modenutti
+
+et al., 2003).
+
+The loss of distinctive crustacean assemblages and the
+
+increase in similarity within shallow lakes with fish seemed to cascade down to phytoplankton, as significant differences
+
+were also found in phytoplankton composition. Fishless
+
+lakes showed a more heterogeneous phytoplankton community
+
+while cyanobacteria were dominant in lakes with
+
+introduced fishes. In an experimental study comparing
+
+enclosures with and without fishes, Kurmayer and Wanzenbo
+
+® ck (1996) also observed a more heterogeneous algal
+
+community structure in the absence of fishes. Remarkably,
+
+Lake Del Mie, the only lake with native fish, did not show
+
+this pattern of cyanobacteria prevalence though net phytoplankton
+
+dominated (Fig. 7a and b, Table 1). The introduction
+
+of invasive species threatens native biodiversity and ecosystem
+
+functioning (Simon and Townsend, 2003). The prevalence
+
+of cyanobacteria may indicate that nutrient recycling
+
+changed in the presence of fish (Elser, 1999). Probably, the
+
+elimination of Daphnia, a species with high phosphorus
+
+requirements (DeMott et al., 2004), may favor cyanobacteria
+
+proliferation, as Daphnia tends to sink phosphorus and as
+
+such prevents the outbreak of cyanobacteria (Elser, 1999).
+
+In addition, chemical, structural, and nutritional defenses
+
+of cyanobacteria can act as a feedback that favors their dominance
+
+(Christoffersen, 1996; Sukenik et al., 2002; Jang et al.,
+
+2003). Finally, cyanobacteria may have negative effects on
+
+zooplankton and fish assemblages (Laurenmaatta et al.,
+
+1995; DeMott, 1999; Wiegand and Pflugmacher, 2005). Cyanobacteria,
+
+mainly the filamentous ones, interfere with large
+
+zooplankton filtering process, thus a smaller size range of
+
+zooplankton in the lakes with fish could be favored (DeMott
+
+et al., 2001). Despite the different mechanisms involved, we
+
+observed that fish introduction in fishless lakes, is always related with the increase in similarity of crustacean and
+
+phytoplankton composition of lakes (Figs. 6 and 8).
+
+The observed differences in phytoplankton composition
+
+between lakes with introduced fishes and those with native
+
+fish (Lake Del Mie) may be also related with the time of
+
+introduction or colonization. Fish introduction by man
+
+started nearly one century ago, and their effect on food webs
+
+and nutrient recycling seemed to favor cyanobacteria. On
+
+the other hand, fish colonization in Lake Del Mie was postglacial
+
+(Cussac et al., 2004) hence the positive effect on cyanobacteria
+
+may have occurred early in the colonization.
+
+Trophic cascades and nutrient recycling may have favored
+
+non-cyanobacteria net phytoplankton dominance (e.g. chlorophytes)
+
+because nutrient rebalance may have occurred
+
+during succession.
+
+Invasion of predators such as fish may reduce prey diversity
+
+in the short term. However, colonization by species from
+
+nearby fish ponds may compensate for the initial loss of species
+
+and result in a long term positive effect if there is sufficient
+
+dispersal among local habitats (Shurin, 2001). The
+
+Patagonian steppe is an unfavorable region for lake development
+
+(Iriondo, 1989); thus the few existing lakes belong to
+
+different basins. Therefore, it is possible to assume an inadequate
+
+dispersion among local habitats. Shurin (2001) suggested
+
+that small zooplankton coexist regionally with larger
+
+species because of their ability to coexist locally with size-selective predators such as fish. In this sense the presence
+
+of fish would increase regional biodiversity. Some Patagonian
+
+Plateau lakes have native fishes (e.g. Lake Del Mie),
+
+thus small zooplankton coexisted with larger species prior
+
+to fish introductions. Nevertheless, the outcome of other
+
+types of local interactions may also depend on spatial heterogeneity
+
+and movement of species along broad regional
+
+scales (Shurin, 2001). In that sense, the ponds and lakes in
+
+the Patagonian steppe extended difficulties to species dispersion.
+
+In addition, fish introduction in fishless lakes causes
+
+dramatic changes that cascade down to phytoplankton. As
+
+a consequence, water quality decreases and the value of
+
+sport fisheries would be reduced. Thus, fish introduction in
+
+Patagonia is a practice that should be revaluated by governments
+
+and NGOs due to its potentially negative impact on
+
+lakes and local economies. Our study showed clear differences in plankton composition
+
+and zooplankton size spectrum in lakes with and without
+
+fishes. Large and medium-sized centropagids including the
+
+predaceous copepod P. sarsi and the large cladoceran Daphnia
+
+were present in most of the fishless lakes while they were absent
+
+in lakes with fishes. The few available data on copepod
+
+assemblage structure prior to the introduction of fishes confirm
+
+our findings that fish caused a loss in the biodiversity
+
+of centropagid copepods.
+
+We observed that fish introduction homogenizes crustacean
+
+plankton composition causing an increase in the relative
+
+abundance of rotifers. We also found dramatic changes in
+
+phytoplankton community. Cyanobacteria monopolized phytoplankton
+
+in lakes with introduced fishes, but not in fishless
+
+lakes or lakes with endemic fish fauna. Probably the elimination
+
+of Daphnia, a species with high phosphorus requirements,
+
+favored cyanobacteria proliferation due to nutrient
+
+rebalance.

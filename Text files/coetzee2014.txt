@@ -1,0 +1,280 @@
+xabstract
+The socio-economic impacts of the free-floating aquatic plant water hyacinth,
+Eichhornia crassipes (Pontederiaceae), on aquatic systems are well documented, yet the
+impacts on aquatic biodiversity, particularly invertebrate biodiversity, are less well
+understood. This study aimed to determine whether the presence of water hyacinth altered
+the diversity and assemblage structure of benthic macroinvertebrates in a conservation
+area. The benthic macroinvertebrate assemblage was sampled over 1 year at five sites
+under water hyacinth mats and at five sites without water hyacinth at Lake Nsezi—Nseleni
+River in the vicinity of Richards Bay, KwaZulu-Natal, South Africa. Artificial substrates
+were placed beneath water hyacinth mats or in the open water to allow for colonization by
+freshwater macroinvertebrates, and left for a period of 6 weeks, repeated on seven occasions.
+Twenty nine families comprising 18,797 individuals were collected, 817 (13 families)
+individuals were from under water hyacinth mat sites compared to 17,980 (27
+families) individuals from open water sites. Ninety-eight percent of individuals collected
+were, however, the invasive snail, Tarebia granifera. Open water samples were separated
+from samples beneath the water hyacinth mat by non-metric Multidimensional Scaling,
+indicating reduced biodiversity associated with the presence of water hyacinth. Exclusion
+of the dominant Thiaridae from the analysis did not alter the groupings. Family richness(
+s) and abundance (N) were significantly higher in open water communities(S:
+H3 = 21.09; P = 0.0001; N: H3 = 22.58; P = 0.00001), while evenness (J’) was higher
+under water hyacinth mats (H3 = 20.13; P = 0.0002). The presence of water hyacinth had
+a significantly negative impact on aquatic macroinvertebrate biodiversity in a conservation
+area, and therefore the control of this invasive aquatic plant must play a major role in
+catchment management.
+
+xintroduction
+Water hyacinth, Eichhornia crassipes (Pontederiaceae), a free-floating aquatic plant native
+to the Amazon Basin, is listed as one of the top 100 invaders in the world (Global Invasive
+Species Database (GISD) 2005). While the statement ‘the world’s worst aquatic weed’ is
+frequently cited, relatively few studies have actually quantified the socio-economic and
+environmental impacts associated with this weed. A primary focus of invasion biology is
+assessing the impacts of invaders, yet conservation biologists and managers spend an
+inordinate amount of time trying to control invasive species in order to mitigate their
+effects, and repair ecosystems, without having quantifiable goals against which to measure
+success.
+Introduced into South Africa as an ornamental plant in 1908 (Hill and Cilliers 1999),
+water hyacinth remains the country’s most difficult aquatic weed to control despite efforts
+initiated in the 1960s (Coetzee et al. 2011). Because southern Africa lacks natural lake
+systems due to the geology of the region, it has a depauperate indigenous floating aquatic
+plant diversity (Cook 2004). The construction of manmade dams and impoundments has
+therefore created ideal habitats for invasive floating macrophytes, such as water hyacinth,
+to invade as a result of vacant niche availability (Davies and Day 1998). Since its introduction,
+water hyacinth has spread throughout South Africa, including into many protected
+areas, such as the Kruger National Park, South Africa’s flagship protected area.
+The negative effects of water hyacinth on freshwater systems are undoubtedly numerous
+and varied, largely due to its rapid growth which results in expansive colonies of tall
+interwoven floating plants. As its doubling time is as little as 1 week under suitable
+conditions (Edwards and Musil 1975), infestations blanket large water bodies soon after it
+invades, creating impenetrable barriers which have significant negative socio-economic
+impacts (Coetzee et al. 2009). Whilst the socio-economic effects of water hyacinth have
+been fairly well documented, its impact on biodiversity and ecosystem functioning are less
+well understood [see Villamagna and Murphy (2010) for a full review]. Water hyacinth
+competes with other plants when drifting mats that scour vegetation destroy native plants
+and habitats (Center et al. 2002). Increased detrital production and siltation under dense
+water hyacinth mats results in higher sediment loading, which, in combination with a
+reduction in light availability to submerged plants, depletes oxygen for aquatic communities
+(Ultsch 1973; Mitchell 1985; Rommens et al. 2003). Phytoplankton diversity is
+thereby reduced (Rommens et al. 2003; Mangas-Ramirez and Elias-Gutierrez 2004) which
+alters the composition of invertebrate communities (Brendonck et al. 2003; Toft et al.
+2003). For example, Masifwa et al. (2001) showed an increase in macroinvertebrate
+abundance at the edges of water hyacinth mats on Lake Victoria, Uganda, while Toft et al.
+(2003) demonstrated significant ecological alterations to invertebrate assemblages in the
+surrounding community as a result of water hyacinth invasion in the Sacramento-San
+Joaquin Delta, California, USA. However very few, if any studies, have investigated the
+effect of water hyacinth invasion on benthic macroinvertebrate assemblages. Most studies
+concentrate on epiphytic invertebrate abundance which often show inflated assemblage
+diversity due to the abundant habitat provided by water hyacinth roots (e.g. Schramm et al.
+1987; Brendonck et al. 2003; Rocha-Ramı´rez et al. 2007). Yet due to their sensitivity to
+environmental conditions, benthic macroinvertebrates are an ideal indicator group to
+monitor the impacts of an invasive species on community structure and biodiversity
+(Thirion 2000). The importance of benthic macroinvertebrates in freshwater species was
+reviewed by Covich et al. (1999) who highlighted their fundamental role in food webs
+through their acceleration of detrital composition, which results in the release of bound
+nutrients into the system, and their significant positions as both predators and prey in these
+diverse systems. Any alteration to the composition of these communities could have
+adverse effects on the integrity of the freshwater system which depends on how the benthic
+species contribute to complex food webs.
+With the exception of a study by Midgley et al. (2006) who showed that water hyacinth
+mats significantly reduced the diversity and abundance of benthic invertebrates in an
+impoundment in the Eastern Cape Province of South Africa, there are no examples of
+quantified impacts of water hyacinth on the biodiversity of aquatic systems in South Africa,
+let alone within protected areas which need biodiversity benchmarks against which to
+measure control efforts. One such protected area is the Enseleni Nature Reserve, an Ezemvelo
+KwaZulu-Natal Wildlife protected area near Richards Bay in the KwaZulu-Natal Province of
+South Africa, where water hyacinth was first identified in the Nseleni and Mposa Rivers in
+1982. By 1983, the river was 100 % covered. An integrated management plan combining
+biological and herbicidal control measures was implemented in 1995 and resulted in a
+reduction of the weed from 100 %cover to less than 20 %cover in 5 years (Jones 2001). Due
+to the limited amount of information available on the impact of water hyacinth on biodiversity
+in South Africa, particularly in conservation areas, this study aimed to determine the effect of
+water hyacinth mats on benthic aquatic macroinvertebrate diversity, under experimental
+conditions, in the Enseleni Nature Reserve. Understanding the effect that invaders such as
+water hyacinth have on biodiversity justifies the expectations of their control.
+
+xmethods
+Study area
+This study was conducted on the Nseleni River, in the proximity of Lake Nsezi
+(28843054.6700S and 31858047.7700E), to the west of Richards Bay on the north coast of
+KwaZulu-Natal, South Africa, between November 2007 and November 2008. The Enseleni
+Nature Reserve is the only formally protected area within the City of uMhlathuze. All of
+the surrounding area has been transformed to residential areas, sugar cane farms and
+eucalyptus tree plantations. The nature reserve has therefore become a refuge and nucleus
+for biodiversity, with the Nseleni River being a conduit for aquatic biodiversity between
+the protected area and outlying areas.
+Experimental design
+Five paired sites were randomly chosen, approximately 3 m from the water’s edge, which
+had permanent mats of water hyacinth (extending approximately 8 m from the edge which
+were constant in size), and adjacent control sites, 5 m away, that had no water hyacinth
+cover and had not had any water hyacinth cover for at least 3 years. The five sites were
+between 50 and 80 m apart, and approximately 1.5 m deep.
+Artificial substrates were constructed using mesh bags (20 9 50 cm2, 2 mm mesh size)
+filled with 2 kg of small pebbles (*3–5 cm diameter) to allow for colonization by
+freshwater macroinvertebrates, the units of biodiversity assessed in this study. The bags
+were closed using a cable tie, and were fastened to a 2 m length of nylon string which was
+attached to two plastic toilet cistern floats and a 30 cm wooden dropper to allow for relocation
+at each sampling event. Five sample bags per site were placed in the centre of the
+sample sites and allowed to sink to the river bottom. They were left for a period of 6 weeks
+to allow for complete colonization by macroinvertebrates (Thirion 2000), and were then
+removed from the field for investigation. This was repeated on seven occasions, at six
+weekly intervals with the first set of bags placed in the river on 4 November 2007 and the
+last on 12 November 2008.
+Sampling and data collection
+At each sampling event, the artificial substrates were carefully removed from the water and
+placed into large plastic bags. The plastic bags were placed below the water surface with
+the openings slightly above the water level until the artificial substrate bag reached the
+surface, at which point the plastic bag was dropped below the water level to ensure no loss
+of specimens. Artificial substrate bags were then replaced at each site. All bags were
+returned to a field laboratory where the contents (pebbles) of each sample bag and the
+sample bag itself were emptied into a sorting tray, and were washed with clean water to
+separate any invertebrates from the bag and pebbles. Each pebble was cleaned with fresh
+water and a small paint brush. Both the sample bag and individual pebbles were examined
+for invertebrates before being removed from the sorting tray. The contents from the plastic
+bag were mixed with fresh water and were also emptied into the sorting tray. The contents
+of the sorting tray (water and substrate) were then strained through a sheet of mesh
+(1 9 1 mm) and macroinvertebrates and invertebrate body parts were removed with forceps
+and placed into glass vials, containing 75 % ethanol. Specimens were identified to
+family level, under a dissecting stereomicroscope, using a series of identification keys (Day
+and De Moor 2002; Gerber and Gabriel 2002; Day et al. 2003; De Moor et al. 2003a, b). In
+some instances, individuals were only identified down to order e.g. Hirudinea and Oligochaetae,
+as keys to families in these orders were not available. Numerical abundance of
+each taxon per sample bag, per site was quantified.
+Data analysis
+In order to determine if the study sampled sufficient invertebrate families, sample-based
+accumulation curves were compiled from the abundances of each sample bag, per site,
+using the analytically calculated Sobs (Mao Tao) (number of species expected), the
+Michaelis–Menten Mean (MMMean) estimator (Toti et al. 2000) and the incidence-based
+coverage estimator (ICE) (Chazdon et al. 1998), for each site, using EstimateS V8.0.0
+(Colwell 2005). The richness estimates are considered representative when the observed
+sample-based accumulation curves and the estimators converge closely at the highest
+observed richness (Longino et al. 2002).
+In order to quantify the impacts of water hyacinth on benthic macroinvertebrate
+assemblages, multivariate community analyses of the family abundance data were conducted
+in Primer v6.1.11 (Clarke and Warwick 2001). Abundances from each sample bag
+per site were summed and analysed as total numerical abundance. A non-metric Multi-
+Dimensional Scaling (nMDS) plot was constructed following resemblance analysis using
+the Bray-Curtis measure of similarity to examine relationships between benthic macroinvertebrate
+assemblages beneath water hyacinth mats and those in open water environments.
+In addition, due to the abundant presence of an invasive snail, Tarebia granifera
+(Thiaridae) in the open water samples, an additional nMDS plot was constructed excluding
+the family Thiaridae, to investigate its effect on the assemblages because the dominance by
+one group could mask the results.
+A number of measures of diversity were calculated in EstimateS V8.0.0 to determine
+differences in invertebrate diversity beneath water hyacinth mats and in open water for
+each sample period using total abundance values, including total family richness (S),
+individual abundance (N), and Pielou’s evenness (J’) (Magurran 2004). Once again,
+analyses were conducted both including and excluding the dominant family, Thiaridae.
+Kruskal–Wallis ANOVAs, followed by multiple comparisons tests compared differences
+in diversity measures across the seven sample periods between beneath water hyacinth
+mats and open water sites, in the presence and absence of the Thiaridae.
+
+xresults
+A total of 29 different families comprising 18,797 individuals was recorded (Table 1). Of
+the individuals collected, 817 were from under water hyacinth mat sites (WH) compared to
+17,980 from open water sites (OW). More taxa were collected from the open water (27
+families) in comparison to those from samples gathered from under water hyacinth mats
+(13 families).Snails in the family Thiaridae were by far the most abundant benthic
+invertebrate family sampled both under water hyacinth mats and in open water—15,694
+individuals were collected (85 %) (Table 1). Ninety-eight percent of individuals in this
+family were identified as the invasive snail, Tarebia granifera (83 % of all specimens
+identified). Hirudinea, Polycentropidae, Oligochaetae and Leptophlebiidae were the next
+abundant taxa across both sites (Table 1). Rarefaction curves showed a significant difference
+in projected family richness between the open water and under water hyacinth
+samples, indicated by the non-overlapping confidence bands (P\0.05) (Fig. 1). These
+results show that the presence of water hyacinth significantly reduced species richness of
+the benthic communities beneath the water hyacinth canopy.
+Results of the nMDS indicated the presence of two distinct assemblages (Fig. 2a),
+comprising one group of open water sample events 1–7 and the other group of under the
+water hyacinth canopy sample events 1–7. Similarly, when the dominant family, Thiaridae,
+was excluded from the analysis, the same two distinct groupings are evident (Fig. 2b).
+Thus, despite the abundant presence of the invasive snail, the presence of water hyacinth
+significantly altered the benthic invertebrate assemblages.
+A number of diversity measures were considered in this study to determine the effect of
+water hyacinth on benthic invertebrate assemblages. With the dominant family included in
+the analyses, total family richness (S) (Fig. 3a) and abundance (N) (Fig. 3b) were both
+significantly higher in open water communities (S: H3 = 21.09; P = 0.0001; N:
+H3 = 22.58; P = 0.00001). Pielou’s evenness (J’), the ratio of observed diversity to
+maximum diversity, was used to measure evenness. Unlike the previous two measures,
+evenness was not significantly different between the two sites even though more individuals
+from fewer families were found underneath water hyacinth mats compared to open
+water (H3 = 20.13; P = 0.0002) (Fig. 3c). When the Thiaridae were excluded from the
+analyses, there was no significant difference in family richness (S) within sites because one
+family was excluded from both treatments (H3 = 21.09; P = 0.0001), but due to the sheer
+numbers of the Thiaridae in the open water sites, abundance (N) was significantly reduced
+in their absence (H3 = 22.58; P = 0.00001). On the other hand, evenness was significantly
+higher in the open water sites with the Thiaridae excluded from the analysis, again due to
+their sheer numbers (H3 = 20.13; P = 0.0002).
+
+xdiscussion
+The ultimate goal of tackling biological invasions ‘should be the conservation or restoration
+of ecosystems to preserve or re-establish native biodiversity and functions’ (Hulme
+2006). Yet without knowing how invasive species impact indigenous community structure
+and functioning, there is no way of measuring a return to a functioning state. Conservationists
+and managers are under increasing pressure to mitigate the negative effects of
+invasive species on ecosystem dynamics, but in the absence of quantifiable results, it is
+difficult to understand these impacts (Richardson and Van Wilgen 2004), let alone manage
+them. This study quantified the effect of water hyacinth on assemblage structure and
+diversity of aquatic macroinvertebrates in a protected area, the Enseleni Nature Reserve,
+and demonstrated, categorically, that water hyacinth alters benthic invertebrate assemblages,
+and reduces macroinvertebrate diversity beneath its mats.
+Of the benthic invertebrates that were found under the water hyacinth mats, 49 % came
+from families that are considered highly tolerant of pollution (e.g. Hirudinea, Planorbidae,
+Oligochaeta and Chironomidae), 43 % were moderately tolerant of pollution (e.g. Leptophlebiidae
+and Lestidae) and 8 % have a very low tolerance to pollution (Polycentropidae)
+according to the South African Scoring System (SASS version 5) which was
+developed as a biotic monitoring tool for freshwater habitats (Dickens and Graham 2002).
+There was a far higher diversity of benthic invertebrates collected from open water sites
+without water hyacinth and represented families in the Ephemeroptera, Trichoptera and
+Odonata, all of which are indicative of less impacted aquatic ecosystems (Dickens and
+Grahams 2002).
+The importance of benthic invertebrates in ecosystems generally goes unnoticed
+because they are cryptic, occurring below the water’s surface, until unexpected changes
+occur in ecosystems (Covich et al. 1999). Any change or reduction in benthic invertebrate
+diversity has important consequences for ecosystem functions such as sediment mixing,
+nutrient cycling and energy flow through food webs (Lindegaard 1994; Wallace and
+Webster 1996). Indeed, Neira et al. (2005) demonstrated the multiple physical, chemical,
+biotic and trophic effects of the invasion of mudflats by a hybrid form of the eastern
+cordgrass Spartina alterniflora in San Francisco Bay, CA., USA, which have resulted in
+substantial changes in benthic communities that are likely to have important effects on the
+entire ecosystem. While the knock-on effects of altered benthic macroinvertebrate
+assemblages as a result of water hyacinth invasion were not investigated here, it is
+imperative to protect the diversity of these benthic communities to lower the risk of
+unexpected and unwanted consequences as demonstrated by studies such as Neira et al.
+(2005), particularly in conservation areas.
+This study has also elucidated the impressive invasion of the Nseleni River by the snail
+T. granifera, which has been recorded before in high densities in this river by Appleton
+et al. (2009). Eighty-three percent of all specimens collected in this study were identified as
+T. granifera. This species is indigenous to south-east Asia but has been moved around the
+world in the aquarium trade and is now regarded as invasive in North and South America.
+It was first recorded in South Africa in 1999 from a reservoir south of Richards Bay/
+Empangeni, northern KwaZulu-Natal, and since then has become widespread in the eastern
+half of South Africa (Appleton and Nadasan 2002; Appleton et al. 2009). Despite its
+impressive invasive tendencies, even it is excluded by the presence of water hyacinth—in
+this study, there was a 90 % reduction in its abundance under water hyacinth mats. Furthermore,
+when excluded from the community and diversity analyses, there were no significant
+changes in the assemblage or diversity patterns, with the exception of abundance
+and evenness in the open water sites as a result of the sheer numbers of these snails. To
+date, the effect of T. granifera on the benthic fauna of invaded habitats in South Africa has
+not been demonstrated, but it has been associated with the disappearance of two indigenous
+benthic gastropod species from rivers in Puerto Rico (Samadi et al. 1997) suggesting that
+there is potential for detrimental impacts in South Africa too, which need to be
+investigated.
+In addition to the invasion of the Nseleni River by water hyacinth and T. granifera, an
+invasive loricariid catfish, Pterygioplichthys disjunctivus (Weber 1991), has recently
+established a self-perpetuating population in the system (Jones et al. 2013), suggesting that
+‘‘invasional meltdown’’, as postulated by Simberloff and Von Holle (1999), has occurred.
+This theory proposes that ecosystems become more easily invaded as the cumulative
+number of species introductions increases, and that facilitative interactions can exacerbate
+the impact of invaders. Future studies therefore need to prioritize investigating the combined
+effect of water hyacinth, the thiarid snail and the catfish on benthic biodiversity and
+ecosystem functioning of this protected area.
+In conclusion, while studies have demonstrated the positive attributes of water hyacinth,
+such as nutrient control, phytoremediation and increased biodiversity in certain assemblages,
+the costs associated with its presence in the majority of systems around the world
+far outweigh its benefits. The results of this study and those of Midgley et al. (2006) have
+shown that dense water hyacinth cover significantly impacts the biodiversity of benthic
+invertebrate assemblages, which is of particular importance in protected areas, such as the
+Enseleni Nature Reserve, whose mission statement is ‘‘to ensure effective conservation and
+sustainable use of KwaZulu Natal’s biodiversity in collaboration with stakeholders for the
+benefit of present and future generations’’ (www.kznwildlife.com). Thus mitigating the
+negative impacts of water hyacinth invasion on biodiversity warrants its control.

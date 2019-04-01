@@ -1,0 +1,344 @@
+xabstract
+Like other fl oating-leaved plants, dense beds of water-chestnut (Trapa natans) may cause the underlying
+water to become hypoxic or even anoxic. Despite this potential stress, previous studies have reported dense and
+diverse invertebrate communities in water-chestnut beds. However, none of these previous studies simultaneously
+measured dissolved oxygen concentrations and invertebrate communities, leaving open the possibility that these
+study sites were not severely hypoxic. Here, we report the results of a study in which we measured both invertebrates
+and dissolved oxygen in a large, dense water-chestnut bed in the freshwater tidal Hudson River, New York.
+We sampled invertebrates at nine sites in the bed using a modifi ed Downing box-sampler and a corer. We took
+samples both early in the growing season (June), when the water-chestnut canopy was not fully developed and hypoxia
+was only moderate, and in the middle of the growing season (July), when the canopy was fully developed and
+hypoxia was frequent and severe. We hypothesized that the effects of hypoxia would be more severe in July than in
+June, in the interior of the bed than near its edge, and for sediment-dwelling animals than for epiphytic animals. We
+also hypothesized that predatory invertebrates would be especially abundant in the most hypoxic sites, where fi sh
+predation presumably would be reduced. None of these hypotheses was supported. Instead, we found that all locations
+and microhabitats that we studied supported dense, diverse communities of invertebrates, including insects,
+oligochaetes, crustaceans, and other taxa. The mechanisms by which these animals tolerate short-term hypoxia
+need to be elucidated. We suggest that water-chestnut beds in the Hudson are valuable habitats for invertebrate
+biodiversity and production, and may contribute substantially to fi sh production.
+
+xintroduction
+Macrophytes generally are considered to improve
+habitat quality for aquatic invertebrates by increasing
+food availability, surfaces for attachment, and shelter
+from predators. Many studies (e.g., Schramm & Jirka
+1989, Kornijów et al. 1990, Strayer & Malcom 2007)
+have shown that invertebrate communities are denser
+and more diverse in macrophyte beds than in nearby
+unvegetated habitats. However, dense beds of fl oating-
+leaved macrophytes may produce conditions that
+are stressful for invertebrates by creating hypoxia or
+even anoxia beneath their canopies (Caraco & Cole
+2002, Caraco et al. 2006). Perhaps the best-known of
+these plants is water-chestnut (Trapa natans), a Eurasian
+plant that was introduced into North America
+as an ornamental plant, and which now forms beds
+as large as hundreds of hectares (Nieder et al. 2004)
+that may become completely anoxic (Caraco & Cole
+2002).
+The invertebrate communities of these hypoxiainducing
+plants are not well understood. Although the
+dense physical structure and high primary production
+in these plant beds should favor dense and diverse
+invertebrate communities, the low oxygen concentrations
+should exclude many invertebrate species,
+leading to communities that are low in species richness
+if not density. Dissolved oxygen concentrations
+< 2–4 mg/L are widely considered to be limiting to
+aquatic invertebrates and other animals (e.g., USEPA
+1986, 2000), and often are reached in such dense plant
+beds (e.g., Goodwin et al. 2008). Invertebrate communities
+in such hypoxic environments often are dominated
+by species that are tolerant to low oxygen (e.g.,
+some tubifi cid oligochaetes and nematodes), or which
+possess special physiological, morphological, or behavioral
+adaptations such as hemoglobin (e.g., some
+cladocerans and chironomid midges), plastrons (some
+insects), or other use of atmospheric oxygen (e.g., pulmonate
+snails and some insects).
+The few studies that have been done on invertebrates
+in dense beds of fl oating-leaved macrophytes
+have been inconclusive. Some reported relatively low
+density of invertebrates (Efi tre et al. 2001, Feldman
+2001), but others found as many (Cattaneo et al. 1998)
+or more (Masifwa et al. 2001, Strayer et al. 2003) invertebrates
+in water-chestnut beds than in other nearby
+habitats. However, none of these previous studies
+measured oxygen dynamics in the beds that were studied.
+Because the degree of hypoxia induced by these
+plants varies widely depending on the thickness of the
+canopy, intensity of water exchange, and area of the
+bed (Hummel & Findlay 2006), it is diffi cult to know
+the extent to which differences among studies might
+simply be a result of differences in oxygen stress
+among the beds.
+Here, we describe the invertebrate communities of
+a large water-chestnut bed in which we simultaneously
+measured oxygen dynamics. We sampled invertebrate
+communities both before the plant canopy had fully
+developed, when oxygen stress should have been low,
+and after the canopy was well developed and hypoxia
+had set in. We also sampled several locations in the
+bed, both near its edge and deep in the interior of the
+bed, as well as different microhabitats within the bed:
+the sediments, the fl oating leaves, and the submerged
+leaves. Our hypotheses were (1) species richness,
+species diversity, and total density should follow the
+pattern of oxygenation in all three microhabitats and
+therefore be lower in the interior of the bed than at its
+edge; (2) the strength of this spatial patterning would
+be more clearly marked at the peak of plant biomass
+in July than in June before the canopy was fully developed;
+(3) the most susceptible animal communities to
+oxygen defi ciency would be the zoobenthos, and the
+least the epiphytic fauna leaving on the fl oating leaves,
+which has access to the atmosphere; and (4) because
+the interior, less oxygenated areas of the bed might
+serve as refuge for invertebrates against fi sh predation,
+these areas should have a higher percentage of invertebrate
+predators than edge habitats.
+
+xmethods
+The study site was a large (120 ha), dense, and nearly monospecifi
+c bed of water-chestnut in Imbocht Bay, along the west bank
+of the Hudson River at river kilometer 172 (42o 10′ N, 73o 54′ W)
+(Caraco & Cole 2002). The water at this site is entirely fresh,
+although the average tidal range is 1.2 m. The depth in the study
+area at low tide ranged from 0.3 to 1.5 m, and the bottom sediments
+consisted of soft sand and mud. At nearby Trapa beds,
+sediments were ~44 % sand, 43 % silt, and 14 % clay (Strayer
+et al. 2003).
+We sampled along the south edge of this bed, where a small
+channel allowed access to the interior of the bed (Fig. 1). We
+sampled along three transects marked by buoys: outer – near
+the river channel, at a distance of ca. 230 m from the edge of the
+Trapa bed; middle – in the central part of the bed; and inner –
+close to the river bank. These transects were separated by a distance
+of ca. 200 m, and were~15 m long. We took samples from
+a boat that was pulled along an anchored line at three sampling
+sites along each transect, at ~7 m intervals.
+We collected invertebrate samples during low tide on 21
+June 2005 (mid-morning), the beginning of the development of
+Trapa bed, and on 27 July (mid-afternoon), when the stand was
+fully developed. Epiphytic animals were collected with a modifi
+ed Downing sampler (Downing 1986) of 30 × 21 × 10 cm. We
+modifi ed the sampler by making 20 × 12 cm slots in both sides,
+and covering them with 280-μm mesh Nitex screen to prevent
+back-pressure while closing the sampler. Samples were taken
+separately from the rosettes of fl oating leaves and from the underwater
+stems with their feather-like leaves. Benthic samples
+were collected beneath the water-chestnut by means of an acrylic
+tube, 6 cm in diameter, closed by a rubber stopper. Material
+collected was then sieved through a 280-μm mesh screen.
+Both plant and sediment samples were transferred to plastic
+bags and kept in a cooler. In the lab, samples were refrigerated
+for no more than fi ve days and processed by rinsing plants under
+fl owing tap water onto a 280-μm mesh screen, while sliding our
+fi ngers over the plant surfaces. Then we checked the plants for
+animals after placing the material on white trays fi lled with water.
+The same trays were used for picking benthic invertebrates
+from the sediment samples. We preserved collected animals with
+70 % ethanol.
+The wet weight of each plant sample was determined to
+calculate invertebrate density per g WW (wet weight) of plant.
+Knowing the actual biomass of the vegetation in the fi eld
+(Goodwin et al. 2008), we also calculated densities of epiphytic
+invertebrates per area of river bottom by multiplying the density
+of invertebrates per gram of plant by the measured plant
+biomass.
+At each sampling date, we measured the water temperature
+and oxygen by means of YSI meter at the water surface and near
+the bottom. In addition, dissolved oxygen concentrations were
+automatically recorded every 15 min by YSI Endeco sondes
+(UPG 6000) at the outer and inner transects, from the end of
+May until the end of July (for details see Goodwin et al. 2008).
+Invertebrates from both the water-chestnut and from the
+sediment samples were identifi ed to the lowest taxonomic rank
+possible (Wiederholm 1983, Peckarsky et al. 1990, Kathman &
+Brinkhurst 1998, Epler 2001). We classifi ed the taxa as predators
+using Armitage et al. (1995) and Bass & Potts (2001).
+Statistical analyses
+Differences in invertebrate population densities among months,
+transects, and positions were tested with a repeated-measures
+ANOVA. Population densities were transformed by log10(x+1)
+before statistical analysis. We used non-metric multidimension-
+al scaling (NMS) to ordinate the invertebrate samples, using
+PC-ORD in autopilot mode after eliminating species found in
+< 3 samples (McCune & Grace 2002). We used Multi-Response
+Permutation Procedures (MRPP, McCune & Grace 2002) to test
+for differences among groups in the ordinations.
+
+xresults
+The mean biomass of water-chestnut in Outer, Middle
+and Inner transects, respectively, was 22, 53, and 57 g
+DW/m2 in June, and 348, 482, and 423 g DW/m2 in
+July. The temperature varied little among the sampling
+sites, from 25.8 to 29.2 °C in June, when the surface
+water was more exposed to solar radiation, and from
+26.0 to 26.3 °C in July, when a dense carpet of vegetation
+covered the water. Dissolved oxygen concentrations
+varied strongly with the tidal cycle (Fig. 2),
+and fl uctuated more widely in July, when the waterchestnut
+canopy was fully developed, than in June. In
+June, oxygen concentrations never fell below 2.5 mg/L
+in the week prior to invertebrate sampling, but fell below
+2 mg/L during most ebb tides in July, and reached
+values as low as 1.0 mg/L.
+We found 50 macroinvertebrate taxa in our samples
+(Table 1). Species richness was higher in the sediments
+(30 taxa) than on the stems (28 taxa) or fl oating
+leaves (20 taxa). Contrary to our expectations, we
+found higher number of taxa in July (48 taxa) than in
+June (28 taxa), and there were only small differences
+in richness among transects (Fig. 3).
+Density of macroinvertebrates also was much higher
+in July (12,850/m2) than June (1671/m2). Animal
+density in all three microhabitats varied signifi cantly
+between months (Table 2). Density on fl oating leaves
+and in sediments did not vary signifi cantly with location
+in the Trapa bed or show a location*time interaction.
+ANOVA of animal density on stems showed
+some effects of sampling transect (p = 0.11) and
+transect * month (p = 0.002), but these effects (Fig. 4)
+differed from our hypotheses about how sampling location
+would affect animal density (i.e., lower densities
+in inner transects than outer, and spatial patterns
+stronger in July than in June).
+Community structure of benthic and epiphytic
+macroinvertebrates was related chiefl y to microhabitat
+(fl oating leaves vs. stems vs. sediments) and month
+(Figs 5, 6). The ordination of all samples showed a
+clear separation of three groups (p < 0.001, MRPP) –
+all benthic samples (within which there was a subdivision
+between the June and July samples), all epiphytic
+samples (i.e., stem plus leaf samples) in June, and all
+epiphytic samples in July. The stem and leaf samples
+were somewhat distinct from one another in June, but
+not at all in July. When samples from each habitat
+(sediment, stem, and leaf) were ordinated separately,
+they showed a clear separation between June and July
+samples (p < 0.01 in all three cases, MRPP). The ordination
+of leaf samples produced just one axis, which
+was made up entirely of the difference between June
+samples (with an ordination score of +1) and July samples
+(with an ordination score of –1). The June stem
+samples showed some distinction among the three
+transects, but such a distinction was reduced in July,
+and was never evident in the sediment samples. In general,
+ordinations did not show any clear relationships
+between sampling location and community structure.
+Instead, community composition appeared to depend
+chiefl y on month and microhabitat. There were hints
+that transect position might matter (in the stem sam-
+ples), but its infl uence was clearly secondary to those
+of microhabitat and season.
+
+xdiscussion
+The water-chestnut bed supported a rich community
+of benthic and epiphytic macroinvertebrates, despite
+the common occurrence of hypoxia. Neither the density,
+richness, taxonomic composition, nor the functional-
+group composition (i.e., predator densities) of
+the invertebrate community would suggest that the
+water-chestnut bed was stressful to invertebrates. The
+dominant species were not those with known physiological
+or behavioral mechanisms to tolerate low oxygen.
+Instead, the water-chestnut bed supported a fauna
+dominated by chironomids, other insects, oligochaetes,
+and crustaceans, which is similar to those found
+in well oxygenated parts of the Hudson and other large
+rivers (Strayer & Smith 2001).
+Our specifi c hypotheses were not supported. We
+did not fi nd that species richness or density was lower
+in the interior of the bed than at its edge, and there was
+no indication that spatial patterning in these variables
+was stronger in July than in June. When we looked
+at invertebrate communities in different microhabitats,
+we did not fi nd that the sediment-dwelling animals
+were any more affected by season or sampling position
+than animals that lived on water-chestnut stems
+or fl oating leaves. Finally, although we did not have
+any direct information on use of the Trapa bed by fi sh,
+we did not fi nd that interior areas of the bed contained
+more invertebrate predators than edge areas.
+Our results are diffi cult to explain because simultaneous
+measurements of dissolved oxygen concentrations
+showed that the site that we studied was subject
+to frequent hypoxia, especially in July, when we found
+animal communities to be densest and most diverse.
+Thus, we cannot explain away our results by suggesting
+that our study site was one of those small or well
+fl ushed Trapa beds in which oxygen is not seriously
+depleted (Hummel & Findlay 2006).
+Instead, we suggest that the animals living in the
+Trapa bed must possess one or more behavioral and
+physiological mechanisms that allow them to tolerate
+at least short-term hypoxia. There are a number
+of possible mechanisms, including use of respiratory
+pigments such as hemoglobin (as occurs in some
+cladocerans and chironomid midges; Int Panis et al.
+1996, Strayer et al. 2003); use of atmospheric oxygen
+via lungs or plastrons (as occurs in many pulmonate
+snails and some insects; e.g., McMahon 1983, Williams
+& Feltmate 1992); movement to the relatively
+well oxygenated near-surface layer of the water column
+to use “aquatic surface respiration” (as has been
+shown to occur in various fi shes and motile invertebrates;
+Tinson & Laybourn-Parry 1985, Kornijów &
+Moss 2002, Stierhoff et al. 2003); or accumulation of
+a short-term oxygen debt during the hypoxic periods
+that is redeemed when oxygen concentrations rise during
+the fl ood tide a few hours later (e.g., production of
+organic acids that are later metabolized, as occurs in
+many kinds of invertebrates – McMahon 1983, Hamburger
+et al. 2000). The extent to which the various
+species in Trapa beds use these or other mechanisms is
+not known at present. As we have discussed previously
+(Strayer et al. 2003), the dominant taxa in water-chestnut
+beds do not easily fall into any of these classes of
+invertebrates – most of the chironomids that we collected
+do not possess hemoglobin, the oligochaetes are
+dominated by the “naidids” rather than anoxia-tolerant
+“tubifi cids” such as Tubifex, and many of the species
+that we collected are not able to access atmospheric
+oxygen or even the presumably well-oxygenated surface
+layer.
+Hypoxia or anoxia at our study site sometimes is
+more severe than in 2005 (Goodwin et al. 2008), and
+water-chestnut beds that are not fl ushed by tides or currents
+may have more extended periods of anoxia than
+we observed. Dense and diverse macroinvertebrate
+communities might not be able to persist under more
+severe conditions than we observed, so some dense,
+anoxic macrophyte beds probably are poor habitats for
+invertebrates.
+Whatever the mechanisms that allow invertebrates
+to tolerate the hypoxia of the Trapa beds, it appears
+that these habitats are valuable habitats in the Hudson
+River, supporting dense populations of invertebrates,
+many species of which are rare in other habitats in the
+river (Strayer et al. 2003). However, if hypoxia prevents
+fi sh from freely using Trapa beds, there may be
+a weak link in the food web between this rich invertebrate
+production and fi sh. There are at least three
+ways in which the invertebrates produced in Trapa
+beds might contribute to fi sh production in the Hudson.
+First, fi sh may enter the Trapa bed and feed there
+on invertebrates. This must occur at least early in the
+growing season, when hypoxia is still moderate. Coote
+et al. (2001) found that many species of fi sh were in
+the same water-chestnut bed that we studied as late
+in the season as August and September, and that their
+guts were fi lled with invertebrates from the bed (especially
+chironomids). Second, invertebrates may drift
+from the water-chestnut bed into adjoining, well ox
+ygenated habitats where fi sh live. Third, Trapa is an
+annual plant that disappears rapidly at the end of the
+growing season in September and October (Findlay
+et al. 1990). When this happens, the invertebrates it
+harbored must become available to fi sh, whether they
+stay in place in the newly denuded sediments or drift
+to other habitats in the river. Thus, it appears likely
+that Trapa beds might contribute substantially to fi sh
+production, as well as invertebrate production and biodiversity,
+in the Hudson, in spite of their hypoxia.

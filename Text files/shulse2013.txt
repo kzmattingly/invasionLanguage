@@ -1,0 +1,568 @@
+xabstract Restored and constructed habitats can play important conservation roles. Predators help
+shape communities in these habitats through complex interactions with prey, other predators
+and biotic and abiotic characteristics of the environment. However, introduced predators can
+have dramatic effects that may be difficult to predict. Using regression models, we compared influences of introduced invasive western mosquitofish
+Gambusia affinis to those of two naturally colonizing predators (crayfish and dragonflies),
+and vegetation, on three anuran species in experimentally constructed wetlands. Using
+analyses of covariance, we also examined influences of mosquitofish and vegetation on aquatic
+invertebrate communities. We found that mosquitofish reduced abundances of grey treefrogs Hyla versicolor and
+H. chrysoscelis and boreal chorus frog Pseudacris maculata, but had no significant influence
+on green frog Lithobates clamitans. Mosquitofish also reduced invertebrate abundance, but
+their effect on richness was less clear. Vegetation cover did not significantly increase most
+anuran or invertebrate abundances. However, vegetation increased invertebrate richness.
+After fish removal, invertebrate abundance increased. Fish removal may have facilitated chorus
+frog re-colonization into wetlands with low abundance of invertebrate predators. Our results indicate that mosquitofish are detrimental to wetland communities, and we
+recommend that managers avoid stocking mosquitofish. We also encourage temporary or drainable
+wetlands to prevent mosquitofish persistence if colonization occurs. Implementing these
+recommendations will improve the conservation potential of restored wetlands. 
+
+
+xintroduction A major challenge for restoration ecologists involves predicting
+pathways of ecological succession in the presence
+of multiple biotic and abiotic conditions. Predators play
+key roles in shaping natural communities through interactions
+with prey and other predators (Van Buskirk 1988;
+Griffen 2006). These interactions are often complex,
+thereby making discernment of mechanisms generating
+natural community patterns and structure difficult
+(DeWitt & Langerhans 2003). Most prey species are consumed
+by multiple predators, but prey responses to different
+predators are not the same. The reaction by prey to
+one predator may make it more or less vulnerable to
+another, depending on the nature of interactions between
+the two predators (Sih, Englund & Wooster 1998). These
+interactions are important during restoration because as
+succession proceeds, food webs develop based upon conditions
+present at a site, some of which can be manipulated
+by the restoration ecologist. For example, wetland
+hydroperiod plays a major role in shaping wetland communities
+(Pechmann et al. 1989) so designing wetlands
+with temporary or permanent hydroperiods will have a
+direct impact on community composition (Pechmann
+et al. 2001).
+Introduced predators can dramatically alter community
+development, particularly if the predator is invasive and
+prey do not possess adaptive traits to reduce mortality
+(NystrÄom et al. 2001). Introduced fish have been implicated
+in aquatic community disruptions. Eastern Gambu-sia holbrookii (Girard 1859) and western G. affinis mosquitofish are small poeciliids native to the southeastern
+United States, but introduced throughout the
+world because of their purported effectiveness at controlling
+mosquitoes (Pyke 2008). Mosquitofish readily consume
+invertebrates, small fish and amphibian eggs and
+larvae (Pyke & White 2000; Richard 2002), and they can
+alter the composition of the aquatic invertebrate community
+(Hurlbert, Zedler & Fairbanks 1972). Mosquitofish
+are the most widespread fish in the world (Pyke 2008), and
+the IUCN lists them among the 100 worst invasive species
+(Lowe, Browne & Boudjelas 2000). Introductions have
+been associated with amphibian declines in California,
+Australia and China (Lawler et al. 1999; Pyke & White
+2000; Karraker, Arrigoni & Dudgeon 2010), and negative
+effects have been recorded in experiments using eggs and
+larvae of amphibian species within their native range
+(Grubb 1972; Baber & Babbitt 2004; Stanback 2010).
+Dragonfly naiads and crayfish are top invertebrate
+predators in many wetlands. Dragonflies are carnivorous
+and consume other aquatic invertebrates and small fish
+(Merrill & Johnson 1984; Van Buskirk 1988). They are
+also efficient consumers of larval amphibians (Smith 1983;
+Semlitsch & Gibbons 1988). Crayfish are highly omnivorous
+and consume detritus, vegetation, invertebrates,
+carrion, fish eggs and young, and amphibian eggs and
+larvae (Momot 1995; Dorn & Wojdak 2004). Although
+dragonflies are generalist predators (Wallace et al. 1987),
+their trophic impact is likely to be narrower than crayfish,
+which can directly impact multiple trophic levels (Dorn &
+Wojdak 2004). Introduced crayfish can disrupt aquatic
+communities and have been implicated in amphibian
+declines (Gamradt & Kats 1996; Axelsson et al. 1997).
+However, the results from other studies suggest that crayfish
+are inefficient predators of larval amphibians (Fauth
+1990; Lefcort 1996). Nevertheless, crayfish can destroy
+vegetation (Axelsson et al. 1997), thus lowering habitat
+complexity and potentially contributing to reduced
+amphibian abundance.
+We compared the influences of introduced western mosquitofish
+to two native predators (crayfish and dragonflies)
+on three amphibian species in experimental
+constructed wetlands. Grey treefrogs Hyla versicolor/chrysoscelis
+complex, boreal chorus frogs Pseudacris maculata
+and green frogs Lithobates clamitans were selected because
+each species employs different mechanisms to cope with
+predation (Smith 1983; Van Buskirk 2003). Grey treefrogs
+and boreal chorus frogs are palatable to fish, but green
+frogs are not (Kats, Petranka & Sih 1988). Furthermore,
+chorus frogs prefer temporary wetlands, whereas grey
+treefrogs will reproduce in both temporary and permanent
+water, and green frogs require relatively permanent water
+(Kats, Petranka & Sih 1988). We predicted mosquitofish
+would have a greater negative impact on hylids than on
+green frogs, and mosquitofish effects would be greater
+than those of crayfish and dragonflies. We also examined
+the influence of mosquitofish on aquatic invertebrates and
+whether vegetation attenuates fish impacts. We hypothesized
+mosquitofish would lower invertebrate abundance and
+richness and vegetation would attenuate predation
+because habitat complexity can provide refuge for prey
+(Sass et al. 2006; Hartel et al. 2007).
+This research is part of a larger study that aims to
+improve the conservation potential of restored and constructed
+wetlands (see Shulse 2011 and Shulse et al. 2012).
+The current study examines the roles of predators and
+vegetation in determining amphibian and invertebrate
+communities following wetland construction. We focus on
+mosquitofish because of their widespread use and the perception
+that they are benign to native wildlife (Pyke
+2008). Our goals were to investigate whether mosquitofish
+influence wetland communities differently than native predators
+and to present wetland management recommendations
+based on replicated experimentation in the field. 
+
+
+xmethods 
+
+During October and November 2006, we constructed replicate
+wetland arrays at three upland grassland habitats in north-eastern
+Missouri, USA (Fig. 1), managed by the Missouri Department of
+Conservation (MDC). Six wetlands (23 m diameter, 076 m maximum
+depth) were constructed at each location (n = 18). A complete
+description of wetland designs, placement and surrounding
+landscapes is given in Shulse et al. (2012). A goal of another
+study at these wetlands was to examine the influences of withinwetland
+slope, mosquitofish and vegetation on amphibian metamorph
+production and species richness (Shulse et al. 2012).
+Therefore, we randomly assigned one of the six combinations of
+slope, mosquitofish and vegetation to each wetland (Table 1).
+Planted wetlands received 50 cordgrass Spartina pectinata divisions
+spaced evenly apart and radiating from the centre. Nonsurviving
+plants were replaced during autumn 2007. All other
+vegetation was allowed to develop naturally.
+In March 2007, we captured mosquitofish in a Missouri
+Department of Transportation compensatory mitigation wetland
+in Audrain County, Missouri, and released them into the three
+selected wetlands at each MDC location at a rate of 3089 fish
+ha
+1, which is slightly higher than the rate of 2471 fish ha
+1
+(1000 fish acre
+1) recommended by Duryea et al. (1996). This
+resulted in a founding population of 125 adult mosquitofish per
+stocked wetland. Fish were re-stocked where samples indicated
+low populations in spring 2008. Reconnaissance sampling in early
+spring 2009 revealed healthy mosquitofish populations in all
+stocked wetlands so no further re-stocking occurred. MDC personnel
+removed mosquitofish from stocked wetlands at one location
+(Redman) on 17 September 2009 using the piscicide
+rotenone (chemical restoration). Rotenone was applied to stocked
+wetlands at another site (Sears) on 10 March 2010. Rotenone was
+applied at label rates. Dead mosquitofish were observed in all
+wetlands. However, during the second sampling period in 2010,
+mosquitofish were captured in one treated wetland (Sears 1).
+Therefore, it was assumed that this wetland contained survivors
+so we considered it fish-stocked for 2010 analyses. The stocked
+wetlands at the third location (White) were not treated and
+reconnaissance sampling in early spring 2010 indicated healthy
+populations.
+Amphibians, mosquitofish and invertebrates were sampled
+three times within each season using aquatic funnel traps and dip nets. Aquatic funnel traps were deployed for 48 h in 2007 and
+2008 and overnight in 2009 and 2010, using two kinds of commercially
+available minnow traps: collapsible nylon mesh traps
+(3-mm mesh; 38 9 26 9 26 cm; 6 cm openings) or galvanized
+steel wire traps (6-mm mesh; 42 cm long; 25 cm openings). Two
+traps of each were used per wetland and placements were staggered
+so that traps of the same model were directly across from
+one another at each cardinal direction. Pair direction assignment
+was random. One dip net (3-mm nylon mesh) sweep was conducted
+from the waterís edge at each cardinal direction and
+sweeps were ~15 m long with the net pressed to the substrate
+and pulled towards the sampler. During the second 2007 sampling
+period, a zooplankton canvas D-net with 500-micron mesh
+bottom was added to the protocol to capture very small organisms.
+Sweeps of approximately 15 m occurred at each ordinal
+direction using the D-net. This resulted in four dip net sweeps
+and 4 D-net sweeps, spaced evenly apart, for each wetland during
+each sampling period after 2007ñ1. Data from all methods were
+combined to calculate amphibian, mosquitofish and invertebrate
+abundances and invertebrate taxa richness at each wetland during
+each sampling period. All organisms were released unharmed at
+point of capture after recording. We were unable to distinguish
+between eastern grey treefrogs and Copeís grey treefrogs in the
+field so grey treefrogs are considered as the Hyla versicolor/chrysoscelis
+complex.
+Within-wetland vegetation was measured using four 1-m≤ quadrats
+spaced at cardinal directions around the perimeter of each
+wetland. Quadrats were placed at the edge of each wetland to
+assess vegetation cover within 1 m of the shore and at 3 m from
+the shore. The percentages of open water, emergent, floating and
+submerged vegetation were visually estimated within each quadrat.
+The three categories of vegetation were combined and averaged
+for all quadrats over all sampling periods within a season at
+each wetland to calculate an average measure of vegetation cover
+for the season. Percentage vegetation cover was transformed to
+the arcsine square root of the proportion for analyses. Development
+of natural vegetation occurred faster in some non-planted
+wetlands than in planted wetlands. Therefore, we used vegetation
+cover as a continuous covariate within our analyses as opposed
+to a treatment factor (below).
+We analysed each year separately to look for overall patterns
+in abundance or taxa richness. For regressions and ANCOVAs, a
+single wetland was used as the unit of replication. All statistical
+analyses were performed using SPSS version 160 (2007 SPSS
+Chicago, IL, USA). To explain relationships between abundances
+of amphibians, predators and vegetation cover, we developed
+regression models with negative binomial distributions and loglink
+functions using the generalized linear model option in SPSS.
+We used abundances of mosquitofish, crayfish and dragonfly
+naiads, along with vegetation cover, as independent variables. We
+conducted Spearmanís rank correlation tests between independent
+variables to avoid including two variables strongly correlated
+with one another (r = 070) in models. Dragonfly abundance and
+vegetation cover were highly correlated in 2008 and 2009
+(Table 2); therefore, in models for these years, we focused our
+analyses on predators and excluded vegetation cover. Each
+regression model contained grey treefrog, boreal chorus frog or
+green frog abundances as dependent variables, and either all four
+independent variables or the three predator variables (2008 and
+2009). Only crayfish, dragonflies and vegetation cover were
+included in the model for grey treefrogs in 2010 because no grey
+treefrogs were captured in wetlands containing fish in that year.
+To test the hypothesis that mosquitofish reduce invertebrate
+abundances, we used the cumulative number of invertebrates (log10-transformed) captured during all sampling periods each
+year at each wetland as dependent variables in generalized linear
+models with mosquitofish as a factor and vegetation cover as a
+covariate. We excluded crayfish, snails, bivalves and daphniids
+from ANCOVAs. Data for snails and bivalves were not collected
+consistently, and daphniids were challenging to quantify at very
+high numbers. Crayfish grow large enough to escape fish predation
+(Stein 1977), and even the smallest crayfish we observed were
+too large for gape-limited mosquitofish to consume.
+To test whether mosquitofish reduce invertebrate richness, we
+used the cumulative number of invertebrate taxa captured during
+all sampling periods per year at each wetland as dependent variables
+in generalized linear models. Mosquitofish presence was
+included as a factor and vegetation cover as a covariate. Invertebrate
+richness values included daphniids but excluded crayfish,
+snails and bivalves. We attempted to identify each invertebrate to
+family, but we were unable to identify some to this level in the
+field (See Table S1, Supporting Information). To achieve normal
+distribution, invertebrate taxa richness values were log10-
+transformed for 2007. Because comparisons of taxa richness
+among different assemblages should account for differences in
+sampling effort and abundance (Gotelli & Colwell 2001), we plotted
+rarefied richness curves for each year using EstimateS version
+8.2 (Colwell 2005). We included daphniids in rarefaction analyses,
+but we capped the number of daphnia at 100 per sample due to
+the aforementioned quantification problems. For rarefaction, we
+defined sample as the total individuals captured by all methods
+during a single sampling period at each wetland. Finally, we performed Wilcoxon signed rank tests to evaluate invertebrate
+abundance and taxa richness of chemically restored wetlands
+before and after treatment.
+xresults Regression analyses revealed negative associations
+between grey treefrogs and mosquitofish during 2007,
+2008 and 2009 (all P < 005; Table 3). Treefrogs were positively
+associated with vegetation in 2007. No treefrog larvae
+were captured in wetlands containing mosquitofish
+during 2010. Treefrog abundance was also negatively
+associated with crayfish abundance in 2007 and 2009 and
+larval dragonflies in 2008. Treefrogs were most abundant
+during 2007 (Fig. 2), but they were captured in only 39%
+of the wetlands (Fig. 3). During subsequent years, they
+were captured in roughly half of the wetlands but their
+abundance dropped and remained at relatively low levels.
+Boreal chorus frog tadpoles were never captured in
+large numbers (i.e. >15) in wetlands containing mosquitofish.
+We did not perform a regression analysis for chorus
+frogs in 2007 because their larvae were captured in only
+three wetlands. No fish, crayfish or dragonflies were captured
+in these wetlands during the first two sampling periods
+when chorus frogs were breeding. Chorus frogs were
+negatively associated with mosquitofish in 2008
+(P = 0001) and 2010 (P = 0009), and they were captured
+in 67% of wetlands in 2008 and 44% in 2010. Only two
+larval chorus frogs were captured in 2009 and they
+occurred in a fish-free wetland. Chorus frogs were also
+negatively associated with dragonflies in 2010 (P = 001).
+The peak abundance for chorus frogs occurred during
+2008 (Fig. 2). Although their larvae were nearly absent in
+2009, both their abundance and occurrence increased
+sharply in 2010 (Figs 2 and 3).
+Green frogs did not occur in enough numbers to perform
+regression analyses in 2007, but their abundance was
+consistently negatively associated with crayfish during
+2008, 2009 and 2010 (all P < 005). Green frogs were also
+negatively associated with dragonflies in 2008 (P = 004).
+There were no statistically significant relationships
+between green frog abundance and mosquitofish. Green
+frog abundance and occurrence increased over the course
+of the study and peaked during the first sampling period
+of 2010 (Figs 2 and 3).
+Analyses using ANCOVAs revealed that invertebrate abundance
+was significantly reduced in the fish-stocked wetlands
+during all four sampling years (2007: F1,15 = 1325,
+P = 0002; 2008: F1,15 = 2107, P < 0001; 2009: F1,15 = 5515,
+P < 0001; 2010: F1,15 = 1560, P = 0001).Mean invertebrate
+abundance was consistently higher in fish-free wetlands
+throughout the duration of our study (Fig. 4). ANCOVAs also
+indicated that mosquitofish significantly reduced invertebrate
+taxa richness during the first 3 years (2007: F1,15 = 69,
+P = 002; 2008: F1,15 = 191, P = 0001; 2009: F1,15 = 1461,
+P = 0002), but not in 2010 (P = 056). The vegetation cover
+covariate had no significant effects on invertebrate abundance
+during any year, but it did significantly increase taxa richness in all years except 2007 before natural vegetation cover had
+developed (2007: P = 048; 2008: F1,15 = 1004, P = 0006;
+2009: F1,15 = 1235, P = 0003; 2010: F1,15 = 505, P = 004).
+Average invertebrate taxa richness generally increased in all
+wetlands throughout the duration of the study, but most
+fish-free wetlands were consistently richer during all sampling
+periods (Fig. 5).
+The rarefied richness curves illustrate the higher individual
+abundances in fish-free wetlands, but they also reveal
+that in 2007 and 2009, taxa richness reached levels in fishstocked
+wetlands nearly as high as in those without fish,
+even though fewer individuals were captured (Fig. 6a).
+Because the rarefaction curves for fish treatments fail to
+approach an asymptote, and vastly different numbers of
+individuals were captured in the two treatments, we also
+plotted rarefied richness based on samples (Fig. 6b). The
+sample-based curves suggest that taxa richness was somewhat
+higher within fish-free wetlands, but during 2007,
+taxa richness was similar for the two treatments across
+samples and in 2010, taxa richness was nearly equal at
+samples below 10.
+A Wilcoxon signed rank test revealed a statistically significant
+increase in invertebrate abundance (excluding
+crayfish, daphniids, snails and bivalves) following rotenone
+applications to fish-stocked wetlands, N = 12,
+Z = 220, P = 003, with a large effect size (r = 064).
+The median invertebrate abundance in fish-stocked wetlands
+was 505 in 2009 prior to treatment. In 2010, after
+treatment, the median increased to 2485. Invertebrate
+abundances were low in the three untreated fish-stocked
+wetlands in 2009 and 2010 (2009: mean = 340,
+range = 22ñ49; 2010: mean = 283, range = 17ñ35).
+There was also a statistically significant increase in
+invertebrate taxa richness following rotenone application 
+
+
+to fish-stocked wetlands, N = 12, Z = 203, P = 004,
+with effect size r = 059. The median richness in fishstocked
+wetlands was 75 in 2009 prior to treatment, and
+in 2010, after treatment, the median increased to 115.
+However, invertebrate taxa richness also increased in the
+three untreated fish-stocked wetlands from 2009 to 2010
+(2009: mean = 87, range = 7ñ10; 2010: mean 113,
+range = 9ñ13). xdiscussion
+ Our results illustrate the dramatic role aquatic predators
+play in wetland community development. While natural
+predators altered amphibian communities over time,
+introduced mosquitofish impeded community development
+from the outset. Chorus frogs and grey treefrogs appeared
+to be particularly sensitive to mosquitofish and our results
+may reflect avoidance by breeding adults, predation, trophic
+effects or a combination thereof. Nevertheless, metamorph
+production data recorded at the same wetlands
+during 2007 and 2008 using terrestrial pitfall traps and
+drift fences reinforce our results (Shulse et al. 2012).
+Although some models in this study revealed negative
+influences on hylids from invertebrate predators, none
+were as consistent as those observed for mosquitofish.
+Our wetlands contained water during all four study
+years. As a result, wetlands without mosquitofish
+developed high populations of invertebrate predators and
+by 2010, almost all contained ranid larvae. Heightened
+competition from ranids (Faragher & Jaeger 1998; Boone,
+Semlitsch & Mosby 2008) and susceptibility to invertebrate
+predators (Skelly 1995; Smith & Van Buskirk 1995)
+may explain why larval chorus frogs were nearly absent
+by 2009. Some hylids can detect fish and invertebrate
+predators in wetlands (Resetarits & Wilbur 1989, 1991;
+Binkley & Resetarits 2008). During diurnal early spring
+reconnaissance trips in 2007 and 2008, chorus frogs called
+selectively from fish-free wetlands, but in 2009, chorusing
+had nearly ceased in all wetlands. Instead, frogs chorused
+from nearby ephemeral swales and ditches (Shulse, personal
+observation). Chorus frogs prefer fish-free wetlands
+with vegetation (Shulse et al. 2010, 2012), but dragonflies also appear to prefer similar habitat (Table 2). Dragonfly
+populations increased as wetlands aged (Fig. 7c), as did
+vegetation cover (See Fig. S1, Supporting Information).
+By 2009, chorus frogs may have avoided the wetlands,
+even those with high cover, in favour of nearby ephemeral,
+low-cover aquatic habitat containing few predators
+and little competition. During 2010, chorusing frogs
+returned in limited numbers, but mostly to chemically
+restored wetlands (Shulse, personal observation). Our chorusing
+observations were validated by capture results. In
+2010, the highest abundances of chorus frogs were captured
+in wetlands that were either 1) chemically restored
+prior to the breeding season or 2) had relatively low predatory
+insect populations, illustrating that these anurans
+detect both fish and invertebrate predators. Other studies
+have shown that fish removal leads to increased breeding
+of fish-sensitive anurans (BrÄonmark & Edenhamn 1994;
+Vredenburg 2004). Early colonizing amphibians may have a hierarchy of breeding habitat preferences with fish
+avoidance as the strongest filter, followed by aquatic
+invertebrate predators. Based on the results of Shulse
+et al. (2012), this hierarchy can be extended below invertebrate
+predators to include vegetation cover followed by
+within-wetland slope. Our observations suggest that the
+primary habitat trade-off for breeding chorus frogs is
+between exposure to predators and subjection to breeding
+site stochasticity.
+Grey treefrogs were also less abundant in fish-stocked
+wetlands, but they were able to persist in fish-free
+wetlands throughout the duration of the study. Their high
+numbers during 2007 indicate that they, like chorus
+frogs, are early colonizers that prefer wetlands with low
+predator levels. Adult female grey treefrogs will minimize
+predation risk to their eggs and larvae by avoiding wetlands
+containing fish (Binkley & Resetarits 2008). However,
+larvae will often develop bright red pigment on their
+tails and altered body shape in the presence of high populations
+of aquatic invertebrate predators (McCollum &
+Leimberger 1997). This ëdragonfly morphí appears less
+susceptible to invertebrates than the typical morph
+(McCollum & Van Buskirk 1996) and may indirectly contribute
+to their ability to continue to breed in permanent
+wetlands. We often observed ëdragonfly morphí grey treefrog
+larvae in our wetlands with varying shades and
+amounts of red pigment. Because these anurans are midspring
+to early summer breeders whose larvae emerge during
+mid- to late summer, highly ephemeral wetlands that
+become dry by mid-summer may reduce or eliminate
+recruitment. However, breeding later in more permanent
+wetlands may expose larvae to the highest seasonal levels
+of dragonflies.
+The increasing abundance of green frogs over the duration
+of the study, like invertebrates, probably reflects
+hydroperiod. Green frogs overwinter as larvae and therefore
+require permanent or semi-permanent wetlands.
+Green frogs were negatively associated with crayfish,
+although it is not clear whether this reflects mortality or
+avoidance. Anderson & Brown (2009) observed reduced
+hatching of green frogs in the presence of crayfish, even
+when the crayfish had no direct access to the eggs. Interestingly,
+many sparsely vegetated wetlands contained high
+populations of crayfish. The negative correlations between
+crayfish and vegetation (Table 2) illustrate the effects that
+these shredders have upon aquatic vegetation. These
+effects, in addition to predation, may explain the negative
+associations between crayfish and anurans. Green frog
+abundances were never significantly negatively associated
+with mosquitofish, perhaps reflective of their ability to
+persist with fish. However, they did not appear to be facilitated
+by fish as has been demonstrated for bullfrog tadpoles
+(Werner & McPeek 1994; Adams, Pearl & Bury
+2003).
+While our study did not reveal strong associations
+between most anurans and vegetation, grey treefrogs were
+strongly positively associated in 2007, perhaps reflecting
+the sparse vegetation present at the time. Treefrogs may
+have used the planted cordgrass for chorusing or cover.
+We also found strong positive associations between total
+amphibian metamorph production and vegetation cover
+during 2008 at the same wetlands (Shulse et al. 2012). Chorus frog metamorph production during 2008 was also
+positively associated with vegetation cover, but a model
+that combined mosquitofish abundance with vegetation
+cover best explained chorus frog abundance that year
+(Shulse et al. 2012). Habitat complexity may increase in
+importance, surpassing other features such as withinwetland
+slope, as wetlands age (Shulse et al. 2012). Studies
+have shown that high vegetation cover is important
+for tadpole survival (Babbitt & Tanner 1998; Baber &
+Babbitt 2004), but predators that easily penetrate dense
+vegetation may have lowered the importance of cover in
+our models. For some anurans, predator population
+crashes (and manipulations that directly alter predator
+levels) may be more important modifiers of reproductive
+success than habitat alterations. Our results for invertebrates are concordant with those of
+previous studies that have demonstrated that mosquitofish
+are injurious to aquatic invertebrates (i.e. Hurlbert, Zedler
+& Fairbanks 1972; Jassby et al. 1977a,b; Lawler et al.
+1999). Mosquitofish may alter aquatic communities by
+selectively feeding on large zooplankton reducing pressure
+on smaller zooplankton species, phytoplankton and bacteria
+(Jassby et al. 1977a,b). Studies suggest mosquitofish
+are primarily zooplanktivores (Garcia-Berthou 1999;
+Reynolds 2009) and may prefer zooplankton to larval
+amphibians (Reynolds 2009). We captured a total of 5
+daphniids in Sears 1 during sampling period 2010ñ1 after
+chemical restoration which nearly eliminated mosquitofish.
+None were captured during subsequent sampling
+periods when the fish population recovered, or at any
+other fish-stocked wetland during the study. After autumn
+rotenone treatments in 2009 at other wetlands, daphniid
+captures increased during the following spring to the highest
+levels recorded (C. D. Shulse & R. D. Semlitsch,
+unpublished data). Because daphnia are preyed upon by
+other invertebrates, high abundances shortly after fish
+removal may reflect ideal conditions before predator populations
+recover.
+Our rarefied richness curves (Fig. 6) and invertebrate
+taxa captured (Table S1, Supporting information) illustrate
+that most taxa present in fish-free wetlands were also
+present in those with fish, although many at comparatively
+very low numbers. This suggests that our ANCOVA
+results illustrating lower richness in fish-stocked wetlands,
+along with differences in mean richness between the two
+treatments (Fig. 5), may be partly explained by mosquitofish
+reducing richness simply through reducing abundance
+(i.e. a sampling effect). Culicids, chironomids, gerrids,
+amphipods and hydrachnids were also very rare in
+fish-stocked wetlands. Unlike daphnia, these were also relatively
+uncommon in fish-free wetlands. Mosquitofish
+likely prefer daphnia, but they appear to prey indiscriminately
+on most aquatic invertebrates once daphnia populations
+are depleted.
+Stewart & Downing (2008) found macroinvertebrate
+richness and abundance increased along with vegetation
+in constructed wetlands. While our results also indicate
+that invertebrate richness is bolstered by vegetation, we
+found no evidence that vegetation increased overall
+invertebrate abundance. Reynolds (2009) found that high
+levels of both aquatic invertebrates and vegetation cover
+reduced mosquitofish predation on anuran larvae. However,
+our results illustrate that aquatic invertebrate
+abundance is severely reduced by mosquitofish, suggesting
+vegetation cover provided insufficient refuge for
+invertebrates. Complex interactions between predators, wetland hydroperiod
+and successional processes shape wetland communities,
+but mosquitofish break down natural processes,
+alter populations of other predators and grazers and
+impact multiple trophic levels. Our results suggest that
+outside their native range and ecosystems, mosquitofish
+reduce the ecological value and conservation potential of
+wetlands, particularly those restored or created as compensatory
+mitigation for the destruction of natural wetlands.
+Some invertebrates and amphibians responded
+positively to both fish removal and low invertebrate predator
+populations. These conditions are likely to be similar
+to those that occur when a wetland re-fills after drying.
+However, rotenone can have negative consequences for
+amphibians (Fontenot, Noblet & Platt 1994) so caution is
+warranted.
+Building wetlands of varying sizes and depths creates
+hydroperiod diversity across the landscape similar to
+natural conditions (Semlitsch 2002; Petranka et al. 2007;
+Shoo et al. 2011), and constructing drainable ponds will
+allow managers to control hydroperiods. These nontoxic
+approaches will ensure that mosquitofish and
+other aquatic predators are occasionally eliminated in
+some pools, thereby increasing the ecological value of
+restored and constructed wetland complexes. Furthermore,
+native predators should be encouraged to colonize
+through management regimes that mimic presettlement
+conditions and natural successional processes.
+However, non-native predators can have devastating
+impacts and they should not be stocked or allowed to
+persist.
+Our experimental approach at replicated environments
+goes beyond traditional laboratory or observational investigations
+to provide a unique comparison between the
+impacts of an invasive introduced predator to those of
+naturally colonizing predators. We encourage researchers,
+ecologists and managers to work collaboratively to incorporate
+experimentation into restoration projects. Doing so
+will yield valuable information that will improve the ecological
+value of restoration projects, reduce the threat of
+invasive species and increase the conservation potential of
+restored habitats.

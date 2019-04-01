@@ -1,0 +1,726 @@
+xabstract
+1. Previous studies documented that zebra mussels became abundant in the Hudson
+River during 1992 causing an 80–90% reduction in phytoplankton biomass. This study
+used intervention time series analysis of abundance, biomass and reproduction over the
+period 1987–95 to assess changes in zooplankton in response to the invasion.
+2. Zebra mussels caused a size-dependent decline in zooplankton. Microzooplankton,
+including tintinnid ciliates, rotifers and copepod nauplii all declined in 1992 and were
+scarce thereafter. Mean abundances of post-naupliar copepods and of cladocerans were
+also lower following the invasion but these changes were not statistically significant
+(P . 0.05). Egg ratios and clutch sizes for the dominant cladoceran, Bosmina freyi, were
+not significantly related to zebra mussels, even though relatively low egg ratios were
+observed after the invasion.
+3. The strong declines in microzooplankton were probably caused by direct zebra
+mussel predation. Estimated consumption rates by mussels were roughly equivalent to
+maximum microzooplankton growth rates.
+4. The total biomass of zooplankton in the Hudson River declined by more than 70%
+following the invasion. Annual average zooplankton biomass was correlated with
+chlorophyll, but biomass per unit chlorophyll in the Hudson River was much lower
+than in lakes. The present study hypothesizes that this lower biomass reflects limitations
+by riverine flow and by predation during summer.
+
+xintroduction
+The zebra mussel, Dreissena polymorpha Pallas, is
+currently spreading through the freshwaters of North
+America. After initial establishment in Lake St Clair
+and the Great Lakes (Hebert, Muncaster & Mackie,
+1989), zebra mussels expanded their range into major
+river basins including the Mississippi, St Lawrence
+and Hudson drainages (Johnson & Carlton, 1996;
+Johnson & Padilla, 1996). Filter feeding by zebra
+mussels reduced phytoplankton biomass and
+increased water clarity in parts of the Great Lakes
+(Hebert et al., 1991; Holland, 1993; Nicholls &
+Hopkins, 1993; Fahnenstiel et al., 1995). Zebra mussels
+also compete for food and overgrow other bivalves
+(Ricciardi, Whoriskey & Rasmussen, 1995; Schloesser,
+Nalepa & Mackie, 1996), such that populations of many
+native bivalves are declining (Strayer & Smith, 1996).
+These changes are clearly linked to the direct effects
+of zebra mussels in removing phytoplankton or in
+attaching to and overgrowing other organisms. Many
+impacts on foodwebs, however, could result from
+indirect effects (MacIsaac, 1996); for example, will
+reductions of phytoplankton biomass reduce
+herbivorous zooplankton and zooplanktivorous fish?
+Will zebra mussels shift pathways of energy use to
+the benthos and promote bottom-feeding fish? The
+answers to these questions are uncertain. There are
+few long-term comprehensive studies of foodwebs in
+systems invaded by zebra mussels to provide data to
+evaluate their impacts on various populations and
+trophic groups. Further, compensatory responses at
+individual, population and community levels might
+ameliorate adverse effects of zebra mussels in many
+cases. Interactions among foodweb components are
+not sufficiently understood to allow sound predictions
+of the net effect of zebra mussels.
+Examination of an analogous invasion by the Asiatic
+clam, Pomatocorbula amurensis (Schrenck), indicates
+that plankton and plankton-feeding fish can decline
+and remain at low levels. In this case, long-term data
+for San Francisco Bay show that grazing by P. amurensis
+caused large changes in phytoplankton (Alpine &
+Cloern, 1992), zooplankton (Kimmerer, Gartside &
+Orsi, 1994), and some fish (Moyle et al., 1992). The
+three common copepod species declined by 50–90%,
+mostly because of direct feeding on copepod nauplii
+by P. amurensis (Kimmerer et al., 1994).
+Zebra mussels also feed on smaller zooplankton,
+such as rotifers and protozoans, but are less effective
+at consuming larger crustaceans (MacIsaac, Sprules &
+Leach, 1991; MacIsaac, Lonnee & Leach, 1995). In
+western Lake Erie, where zebra mussels have become
+abundant, rotifers and nauplii appear to have
+declined while changes in cladocerans and postnaupliar
+copepods have been transitory (MacIsaac
+et al., 1995). The modest changes in larger zooplankton
+are surprising given that phytoplankton biomass
+declined during the same period (MacIsaac et al., 1995).
+These changes agree, however, with a simulation
+model based on Great Lakes pelagic foodwebs which
+predicts strong negative effects of zebra mussels on
+large phytoplankton (hence lower chlorophyll concentrations)
+but only weak effects on small phytoplankton
+and herbivorous zooplankton (Padilla et al.,
+1996). If the observations and models from the Great
+Lakes are general, a lack of change in the larger
+crustacean zooplankton may buffer changes in other
+trophic groups (zooplanktivorous fish) which depend
+heavily on crustacean prey.
+The repeated invasion of aquatic ecosystems by
+zebra mussels provides large-scale experiments that
+have the potential to reveal key interactions and
+mechanisms of regulation in aquatic foodwebs. The
+present study considers the effects on zooplankton of
+a zebra mussel invasion of an ecosystem where a large
+and sustained reduction in phytoplankton occurred
+because of increased mussel grazing (Caraco et al.,
+1997). Zebra mussels were first observed in the
+Hudson River estuary in 1991. By the end of 1992,
+the population had spread over the length of the
+tidal freshwater section (Strayer et al., 1996). The
+mussel population increased rapidly and by September
+of 1992 there were 550 billion individuals river-wide
+with an average abundance in the tidal freshwater
+section of 4000 m–2 (Strayer et al., 1996). Post-invasion
+density of the zebra mussel was sufficient to increase
+grazing pressure on phytoplankton more than ten
+times (Caraco et al., 1997). Summer chlorophyll concentrations
+declined from an average of 30 µg L–1 prior
+to the invasion to , 5 µg L–1 following the establishment
+of the zebra mussel population.
+Using data for years 1987–95, therefore including
+both pre- and post-invasion observations, the present
+study tests whether zooplankton declined in response
+to increases in zebra mussels and decreases in phytoplankton.
+Time series methods are applied to assess
+both the uncertainty and magnitude of changes in
+abundance and biomass. An analysis is made of
+whether changes in zooplankton occurred throughout
+the estuary or were restricted to areas of highest zebra
+mussel density. This study evaluates whether changes
+in zooplankton are related to a loss of phytoplankton
+food or increased direct predation from zebra mussels.
+
+
+xmethods
+
+The Hudson River estuary has a north–south orientation
+and extends from Battery Park at the southern
+tip of Manhattan Island in New York City to the Green
+Island Dam north of Troy, New York. Sampling focused
+on the freshwater and oligohaline sections of the
+estuary as described below (also see Findlay, Pace &
+Fischer, 1996 for additional detail on stations and longterm
+data).
+Zooplankton sampling
+The sampling, counting and biomass estimation
+methods used by this study for zooplankton in the
+Hudson River have previously been described (Pace,
+Findlay & Lints, 1992) and these are only briefly
+summarized here. From 1987 to 1995, zooplankton
+were sampled every 2 weeks during the ice-free
+season from April to early December at a station
+near Kingston, New York. This station is located at
+river km 152 as measured by the distance upstream
+from Battery Park. Macrozooplankton (postnaupliar
+copepods and cladocerans) were sampled by pumping
+105 l of water through a 70- to 80-µm mesh net (except
+in 1987 when a 150-µm mesh net was used, see Pace
+et al., 1992). For microzooplankton (nauplii, rotifers,
+tintinnids), 2-L samples were collected and passed
+through a 35-µm mesh net. For both macro- and
+microzooplankton, triplicate samples were collected
+at each sampling time and preserved in a sucroseformalin
+solution. In years 1992–95 the macrozooplankton
+were sampled every 3–7 days from the
+end of May to the middle of June, as part of a study
+to document the interactions between zooplankton
+abundance and larval fish (Limburg et al., 1997). These
+data are included in the graphs illustrating zooplankton
+dynamics but are excluded from the time
+series analyses (described below), because these
+statistical methods require even time intervals
+between samples.
+Macrozooplankton were counted with a
+stereomicroscope at 253 magnification and microzooplankton
+were counted with an inverted microscope
+at 1003 magnification. Tintinnids were not
+consistently counted during 1987 and so data for
+this year were excluded. To estimate biomass, mean
+weights determined from measurements made in an
+earlier study were used (Pace et al., 1992). These
+weights were 1.21, 0.737, 0.363 and 0.0324 µg dry
+weight (DW) per individual for post-naupliar copepods,
+cladocerans, nauplii and rotifers, respectively.
+Using a single mean weight for each group introduces
+uncertainty to the estimate of biomass, but species and
+size-composition within the post-naupliar copepods,
+cladocerans and nauplii were low. Rotifers were more
+diverse, but nevertheless, all of the most abundant
+groups had individual weights within a factor of two
+of the mean estimate used. For tintinnid ciliates a
+weight of 0.0197 µg DW per individual was used,
+derived from volume estimates of Tintinnopsis lacustris
+Entz [5 Codonella cratera (Leidy)] made by Pace (1982)
+and using a weight to volume conversion factor of
+0.279 pg DW µm–3 (Gates, Rogerson & Berger, 1982).
+The eggs of ovigerous copepods and cladocerans
+were counted. Copepod egg counts, however, were
+unreliable because of detachment during sampling
+and preservation. The egg ratio (eggs per female) and
+clutch size of cladocerans were calculated as indices
+of reproduction. The egg ratio is directly related to
+the birth rate as a function of temperature and food
+(Edmondson, 1972; Urabe, 1991).
+In addition to the temporal sampling series at the
+Kingston station, transects were conducted longitudinally
+along the north–south axis of the Hudson River
+estuary (see maps in Pace et al., 1992 and Findlay et al.,
+1996 for further details). Six stations were sampled at
+river km 65, 79, 122, 152 (Kingston), 193 and 228.
+For much of the year all of these stations are tidal
+freshwater. During summer, the salinity front (1 ppt)
+extends above the two most seaward stations (river
+km 65 and 79) and in the driest summers reaches the
+station at river km 122 (near Poughkeepsie, New
+York). Transects were conducted monthly or every
+other month from April–October or November over
+the years 1988–95. Consistently macrozooplankton but
+not microzooplankton were sampled on these
+transects.
+Statistical analysis
+To test whether zooplankton declined in concert with
+the establishment of the zebra mussel population,
+data were fit to an intervention time series model.
+Intervention analysis accounts for autocorrelation in
+time series and assesses whether a non-random change
+occurred associated with an event such as the zebra
+mussel invasion (Wei, 1990). Analysis of whether the
+zebra mussel actually caused a change is dependent
+on ecological interpretations that are consistent with
+the observed response (see Carpenter, 1993). The following
+model was used:
+X(t) 5 µ 1 1/φ (B) 1 a(t) 1 α M(t) (1)
+where X(t) represents zooplankton indexed at time
+interval t, µ is the mean of the series, and a(t) a series
+of uncorrelated residuals. B is the backshift operator
+which expresses the effects on X of prior values of X
+(e.g. BXt 5 Xt-1). φ(B) is the autoregressive operator
+represented as a polynomial in the backshift operator.
+For nearly all the models fit to the zooplankton time
+series, φ(B) was a polynomial for observations one
+time unit (2 weeks) and 1 year (seventeen samples per
+year) in the past (1 – φ1 B1 – φ17 B17). M(t) represents a
+manipulation series of dummy values which were
+either zero before the zebra mussel population was
+established or one after establishment. Time of the
+intervention was set as the point where zebra mussel
+populations were measured in 1992 (5 1 September)
+and found to be at high densities (Strayer et al., 1996).
+The parameter α expresses the magnitude of the
+change in X(t) following the manipulation. The
+magnitude and the direction of α is the statistic of
+interest. The standard error of the estimate, as well as
+the probability that α is significantly different from
+zero, is tested by comparison with the standard tdistribution.
+Models were fit with the ARIMA
+procedure in SAS using the maximum likelihood
+method (SAS Institute, 1993).
+All time series of abundances and biomass were logtransformed
+for analysis. Prior to log transformation,
+measurements of zero densities were set at the
+theoretical limit of detection– 0.5 L–1 for microzooplankton
+and 0.01 L–1 for macrozooplankton. Missing
+values were estimated by linear interpolation.
+Sampling at the transect stations was not conducted
+at even time intervals so that time series analysis of
+this data was not possible. Instead, means from each
+station were compared before and after the invasion
+using a t-test. Serial correlation in the transect time
+series was either non-existent or not severe, probably
+because the time interval between sampling was long
+(monthly or every other month). Consequently, the
+assumption of independence in the observations
+(required for a t-test) was reasonable for these data.
+
+xresults
+Zooplankton community composition
+The zooplankton community of the Hudson is
+simple. There are two dominant cyclopoid copepods,
+Diacyclops bicuspidatus thomasi Forbes and Halicyclops
+sp. The routine counts did not distinguish
+between these species. Calanoids also occur but
+tend to be less abundant in the freshwater section
+relative to cyclopoids and more abundant in the
+oligohaline seaward stations. The principal calanoid
+is the estuarine copepod, Eurytemora affinis (Poppe).
+Harpacticoid copepods are also found in plankton
+samples at abundances typically , 1 L–1. Cladocerans
+are almost exclusively Bosmina (subgenus Sinobosmina)
+freyi De Melo & Hebert (B. longirostris O.F.
+Mueller using older nomenclature, see De Melo &
+Hebert, 1994). Species of Daphnia, Diaphanosoma and
+Chydorus are present, as is the predatory cladoceran
+Leptodora kinditi (Focke). The latter species was not,
+however, adequately sampled with the methods
+used in the present study. The rotifer community is
+dominated by Polyarthra spp., Keratella cochlearis
+Gosse, and Trichocerca spp. Species of the genera
+Asplanchna, Ascomorpha, Brachionus, Collotheca, Filinia,
+Kellicottia, Notholca, Pleosoma and Synchaeta were also
+commonly observed. Sampling and counting methods
+in the present study were not sufficient for quantitative
+estimates of ciliates, except for the freshwater
+tintinnid, Tintinnopsis lacustris, which was retained
+on the 35-µm mesh net and easily counted along
+with the other microzooplankton.
+The individual species are aggregated below into
+groups for the analysis of time series. The postnaupliar
+copepods are essentially the two cyclopoid
+species. Nauplii are an aggregate of all species.
+Cladoceran dynamics are equivalent to the dynamics
+of B. freyi. Rotifers represent a suite of species but
+Polyarthra and Keratella were almost always dominant.
+Tintinnids are one species.
+Did zooplankton decline?
+Beginning in mid-1992, and continuing through 1995,
+all microzooplankton groups declined dramatically
+(Fig. 1). Microzooplankton were most abundant
+during the summer but after the invasion these
+seasonal increases were virtually absent except for
+nauplii. Tintinnids were variably abundant among
+years but in some pre-zebra mussel years reached
+densities of several thousand per litre. Following the
+invasion, tintinnids never exceeded 250 L–1 (Fig. 1a).
+Similarly prior to the invasion, rotifers typically
+increased in summer to densities . 1000 L–1 but did
+not exceed 200 L–1 after the mussel population became
+established in late 1992 (Fig. 1b). Nauplii were also
+less abundant following the mussel invasion (Fig. 1c),
+although the change was less dramatic relative to
+tintinids and rotifers.
+Time series models confirmed the strong declines in
+microzooplankton. All t-values for the the intervention
+term, α, were significant (. 6 1.96) and magnitudes
+were large (Table 1). The meaning of these models
+can be assessed with an example. Assuming rotifer
+abundances of 1000 L–1 at 2 weeks and 1 year prior to
+time t (see eqn 1), predicted rotifer abundances at t
+would be 303 L–1 and 42 L–1 in the absence and
+presence of zebra mussels, respectively. Note that
+rotifer abundances decrease for both scenarios because
+abundances of 1000 L–1 are considerably above the
+mean. The key point is the difference in the predicted
+abundances before and after the invasion.
+Changes in the abundance of the two principal
+macrozooplankton groups were harder to discern
+(Fig. 2). Cladocerans were extremely variable due to
+the dynamics of the dominant species B. freyi, which
+increased each year from abundances less than
+0.1 L–1 to a brief maximum in early June often . 100
+individuals L–1. Following this maximum the population
+declined rapidly and then recovered with a second
+but less pronounced increase in September–October.
+The June maximum was observed in each of the
+3 years following the invasion, although densities
+never reached 100 individuals L–1, as observed in some
+previous years (Fig. 2a). Because samples were taken
+every 3–7 days during the Bosmina bloom period in
+1992–95, the lower peaks are probably not due to
+undersampling. Prior to the invasion, Bosmina also
+increased to densities of . 10 L–1 in September–
+October. The autumn increase did not occur at
+all in 1992 when zebra mussels were reaching their
+maximum densities. The autumn increase occurred in
+1993 and 1994 but maximum densities were less than
+10 L–1. In 1995, however, the autumn increase was
+similar in magnitude to the pre-zebra mussel years
+(Fig. 2a). Overall, cladoceran densities appeared lower
+after the zebra mussel invasion, although seasonal
+dynamics followed patterns observed prior to the
+invasion.
+Copepods were least affected by the invasion.
+Abundances and dynamics in 1993–95 generally
+resembled pre-invasion years. Copepods were scarce
+in 1992, the year of highest zebra mussel densities.
+The late season increase to densities . 10 L–1, characteristic
+of 1988–91 did not develop in 1992 or 1993.
+Both macrozooplankton groups declined (negative
+intervention term) but the magnitude of the zebra
+mussel effect was clearly different for the two major
+groups. The intervention term for copepods was small
+and not significant. For cladocerans the estimate of α
+was less than twice its standard error (Table 1), the
+normal criterion for retaining a term in time series
+models (Wei, 1990). Nevertheless, the magnitude of α
+was large. Thus, there is a strong possibility that
+cladocerans declined but because of high variability
+in the time series, the effect of zebra mussels was
+difficult to differentiate clearly. Type II error (wrongly
+Fig. 2 Abundance of
+macrozooplankton, including (a)
+cladocerans (note log scale), and (b)
+post-naupliar copepods at the
+Kingston station, 1987–95.
+© 1998 Blackwell Science Ltd, Freshwater Biology, 39, 103–116
+accepting the hypothesis of no change) is a concern
+in this case.
+Overall, the magnitude of zooplankton decline
+was size dependent (Fig. 3). Zebra mussels had the
+strongest effect on groups with average body sizes
+, 0.1 µg DW. Decline was also substantial in groups
+with body sizes in the 0.1–1.0 µg range, while decline
+was minimal for animals with body sizes . 1 µg. This
+conclusion, however, is limited by the small number
+of size classes considered in the present study and the
+large gap between size groups less than and greater
+than 0.1 µg (Fig. 3).
+Total zooplankton biomass also declined after the
+invasion of the zebra mussel (Fig. 4). This change
+was large (over 70%) and significant based on the
+intervention model (Table 1); for example, assuming a
+biomass of 100 µg DW L–1 at 2 weeks and 1 year before
+time t, predicted zooplankton biomass at t would have
+been 75 and 25 µg DW L–1 prior to and following the
+invasion of the zebra mussel, respectively. The changes
+in zooplankton biomass reflect the large contribution
+of the three microzooplankton groups to total biomass;
+for example during 1991, microzooplankton were 79–
+99% of the zooplankton biomass, except on one date
+when Bosmina exceeded 300 L–1. After the zebra mussel
+invasion, microzooplankton were still frequently 50%
+or more of the biomass, despite their lower abundance.
+The importance of microzooplankton in the Hudson
+reflects the general dominance of the community by
+animals (including the crustaceans) of small size.
+Longitudinal patterns of zooplankton in relation to
+zebra mussels
+Zebra mussels are not uniformly abundant in the
+Hudson River. Strayer et al. (1996) documented highest
+biomass (. 10 g DW m–2) in the section of the estuary
+from river km 150–213, which includes the Kingston
+time series station. Upstream of this section (river
+km . 213), mussel biomass decreased by a factor of
+ten. Downstream of this section (river km , 150),
+mussel biomass decreased by a factor of 100. The
+mid-estuary section (km 150–213) of highest mussel
+biomass was also the region where phytoplankton
+biomass and productivity were greatest prior to the
+invasion (Caraco et al., 1997). After the invasion,
+phytoplankton were strongly reduced throughout the
+estuary above river km 100 (Caraco et al., 1997).
+Given this distribution of mussels and phytoplankton,
+a decline in zooplankton was expected at
+the longitudinal sampling stations located upstream
+of river km 100 and little change downstream of that
+point. Four of the stations (1–4) were located above
+river km 100 (see Methods). Two of these stations (2
+and 3) were located in the region of highest mussel
+density and greatest phytoplankton decline.
+Spatial patterns in macrozooplankton abundance
+were consistent with observations at the time series
+station. There was little evidence of change in the
+copepods (Fig. 5a). Lower means were observed after
+the invasion at station 2 but not at station 3. None
+of the means were significantly different (t-test, all
+P . 0.3). Cladoceran abundances were lower at all
+stations after the invasion, especially at stations 2 and
+3 (Fig. 5b). Cladocerans were also highly variable,
+however, so that none of the declines were significant
+(t-tests, P . 0.2 except station 3, P 5 0.09). The patterns
+of change generally matched expectations of the study
+but, again, macrozooplankton decline was either slight
+(copepods) or marked but difficult to detect because
+of sampling variability (cladocerans).
+Predation on zooplankton by zebra mussels
+Specific predation (day–1) by zebra mussels on
+zooplankton was estimated from average mussel
+density (Strayer et al., 1996), published clearance rates,
+and the average depth of the Hudson River (8 m). The
+water column of the Hudson River is well mixed, with
+no temperature stratification, so the entire zooplankton
+community was available to zebra mussels. MacIsaac
+et al. (1992) measured zebra mussel clearance rates in
+the range of 20–100 mL per mussel h–1 and 1–2 mL per
+mussel h–1 on rotifers and macrozooplankton (Bosmina
+and cyclopoids), respectively. These ranges, using
+large zebra mussels (. 20 mm), agree well with
+measurement from other studies (Shevtsova et al.,
+1986; MacIsaac et al., 1995).
+Estimated zebra mussel predation was compared
+with the maximum rates of zooplankton increase based
+on laboratory studies and on observations in the
+Hudson River (Table 2). Maximum growth rates of
+rotifers fall within the range of estimated predation
+rates. Predation alone, even at the lower mussel
+densities observed in 1995, appeared sufficient to
+suppress rotifers and other microzooplankton of
+similar size. Predation on macrozooplankton was two
+orders of magnitude lower than maximum growth
+rates (Table 2). Although zooplankton growth is
+frequently below maximum rates, zebra mussel
+predation was probably not a significant loss
+term for copepods and cladocerans in the Hudson
+River.Did zooplankton reproduction decline after the
+invasion?
+Zooplankton reproduction is sensitive to both food
+quantity and quality. The large reductions in phytoplankton
+observed after mid-1992 (Caraco et al., 1997)
+suggest that reproduction could have declined if
+phytoplankton were limiting. The egg ratio and
+clutch size of B. freyi were used to assess this
+possibility.
+Egg ratios were highly variable seasonally and
+among years (Fig. 6a). Ratios increased and often
+were highest during the spring period of maximum
+abundance. Relatively low egg ratios were observed
+in the years 1992, 1993 and 1994 (Fig. 6). Zebra mussel
+densities were highest and chlorophyll concentrations
+lowest during these years (Caraco et al., 1997). However,
+low egg ratios were also observed in 1987, many
+years prior to the mussel invasion, and high egg
+ratios were observed in 1995 (Fig. 6a). There was no
+significant impact of the zebra mussel invasion on the
+egg ratio time series based on intervention analysis
+(Table 1).Clutch size is also an index of reproduction that is
+sensitive to food (Pace, Porter & Feig, 1984) and is
+less influenced by age structure than the egg ratio,
+where, for example, high juvenile abundance might
+depress the egg ratio of an otherwise fecund population.
+Analysis was not performed for time series of
+clutch sizes, because some samples had only a few
+reproductive individuals, so that clutch size estimates
+for specific dates were highly uncertain. Instead, mean
+annual clutch size was calculated by averaging clutch
+size for all sampling times where reproductive individuals
+were present. Clutch sizes were similar for all
+years ranging from 1.3 to 1.7 eggs per reproductive
+individual (Fig. 6b). Lowest mean clutch sizes were
+observed in the first two full years (1993 and 1994)
+following the zebra mussel invasion but variability in
+these years was well within the range observed over
+the entire period and mean clutch size in 1995 was as
+high as any other year. Thus, losses of food did not
+lead to a clear, long-term drop in reproduction of
+B. freyi in the Hudson River as measured either by the
+egg ratio or clutch size.
+
+xdiscussion
+The main result of this analysis is that zebra mussels
+caused a strong size-dependent decline in zooplankton,
+severely depleting the microzooplankton. The
+magnitude and timing of the change were best related
+to the invasion and establishment of the zebra mussel
+population. The timing of the decline was consistent
+with a similar decline observed for phytoplankton,
+also attributed to zebra mussels (Caraco et al., 1997).
+Other factors such as river flow and temperature were
+unrelated to the changes in zooplankton; for example,
+the initial years following the invasion (1993 and 1994)
+were relatively low and high flow years, respectively
+(see Caraco et al., 1997), and 1995 was a year of very
+low freshwater flow (United States Geological Survey,
+unpublished data). Zooplankton biomass in the
+Hudson River is negatively correlated with flow (Pace
+et al., 1992) so, in the absence of zebra mussels,
+zooplankton biomass should have been relatively high
+in 1993 and 1995 but was not (Fig. 7).
+A probable cause of the reductions in tintinnids,
+rotifers and nauplii was direct predation by the zebra
+mussel. The loss of phytoplankton food cannot be
+ruled out as a contributing cause of the microzooplankton
+decline, because the present study has nomeasures of reproductive rates, which would have
+dropped after the invasion if food was limiting.
+Further, a decline in nauplii could also have resulted
+from lower egg production by adult copepods. Nevertheless,
+mussel predation alone appears sufficient to
+account for the decline of all three groups of microzooplankton.
+Decline in macrozooplankton was less clear. Zebra
+mussels had little overall effect on copepods, although
+the average abundance of copepods was lower after
+the invasion. Cladocerans may well have declined,
+but the intervention term of the time series analysis
+was not significant at the 0.05 level. The analysis of
+the cladoceran time series indicates that, even with
+long-term data, important changes may be very diffi-
+cult to detect in highly variable populations.
+Zebra mussels have two possible impacts on macrozooplankton.
+(i) They could consume some smaller
+copepods and cladocerans, but these projected predation
+rates were modest relative to expected growth
+rates (Table 2). (ii) Mussels are also competitors for
+phytoplankton. Loss of phytoplankton food did not
+result in a decline in the dominant cyclopoids. These
+copepods are omnivorous but, given the loss of both
+microzooplankton prey and phytoplankton, it is
+somewhat surprising that these species were not
+affected. In addition, nauplii were also reduced so
+fewer juvenile copepods were present to recruit to the
+larger copepodite stages. These observations suggest
+that the abundance of post-naupliar copepods is independent
+of nauplii abundance in the Hudson River.
+There may have been more subtle effects on copepod
+demography, but the present study did not include
+the stage-specific or species-specific analyses required
+to examine this possibility.
+In addition to phytoplankton, crustacean zooplankton
+can use bacteria, protozoans and detritus as food.
+Bacteria have not declined since the invasion (S.
+Findlay, M. L. Pace & D. Fischer, unpublished data).
+Cyclopoid copepods are not efficient at feeding on
+particles as small as bacteria but do consume protozoa
+(Sanders & Wickham, 1993). Bosmina does feed on
+bacteria and, in the Hudson River, these potentially
+account for a significant portion of this animal’s carbon
+requirement (Vaque´ et al., 1992). The Hudson River is
+a heterotrophic ecosystem with substantial degradation
+of allochthonous carbon (Howarth, Schneider &
+Swaney, 1996; Raymond, Caraco & Cole, 1997) and
+very high rates of bacterial production (Findlay et al.,
+1991). Resources derived from these heterotrophic
+pathways may buffer crustacean zooplankton against
+the loss of phytoplankton.
+The residual phytoplankton in the Hudson River
+may also be sufficient to sustain crustacean zooplankton
+at, or near, their long-term densities. This
+possibility is supported by a simulation model of
+Green Bay in Lake Michigan (Padilla et al., 1996). In
+that model zebra mussel grazing resulted in a dramatic
+reduction of large phytoplankton but only modest
+reduction in small phytoplankton and crustacean
+zooplankton. Zooplankton were supported by
+increased productivity of small phytoplankton
+released from nutrient competition with large phytoplankton
+(Padilla et al., 1996). Nutrient competition
+among phytoplankton is much less important in the
+turbid Hudson River because of light limitation (Cole,
+Caraco & Peierls, 1992). There is, however, evidence
+that specific phytoplankton growth rates increased
+after the invasion of the zebra mussel due to increases
+in summer transparency and shifts to more rapidly
+growing species (Caraco et al., 1997).
+Figure 7 illustrates the annual mean of total
+zooplankton biomass (includes macro- and microzooplankton)
+and chlorophyll at the time series station
+for 1987–95 compared with data from Quebec lakes
+collected using similar methods by Pace (1986). In the
+Hudson River, average biomass ranged from 39 to
+96 µg DW L–1 prior to the invasion, was 34 µg DW
+L–1 in 1992, and was 16–20 µg DW L–1 for 1993–95.
+Lower zooplankton biomass in the Hudson River was
+well related to chlorophyll concentrations based on
+these annual means (regression:r2 5 0.89). The decline,
+however, probably reflects the similar effect of zebra
+mussel grazing on phytoplankton and microzooplankton
+rather than a loss of food for zooplankton, as
+argued above. Zooplankton biomass in the Hudson
+River is roughly tenfold lower than that in lakes at
+similar chlorophyll concentrations. While net primary
+production in the Hudson River is low (Cole et al.,
+1992), resources derived from allochothonous carbon
+and heterotrophic bacterial production are potentially
+abundant (Vaque´ et al., 1992). The lower zooplankton
+biomass relative to lakes is therefore surprising. This
+paper has previously implied that water residence
+limits population development (Pace et al., 1992), and
+this view is supported by a strong positive relationship
+between water residence time and zooplankton biomass
+for thirty-one rivers studied by Basu & Pick(1996). This explanation, however, is not complete in
+the case of the Hudson River because water residence
+times during summer (months) are much longer than
+zooplankton generation times (days to weeks).
+These observations suggest that predation by invertebrates
+and vertebrates may be an additional important
+limitation for Hudson zooplankton. First, the
+predatory cladoceran, Leptodora kindtii, increases to a
+density of 0.1–1.0 L–1 after the Bosmina population
+maximum in early June and may exert significant
+predation pressure on macrozooplankton (M.L. Pace &
+K.E. Limburg, unpublished data). Second, the Hudson
+has many resident and anadromous fish with zooplanktivorous
+life stages. These stages are most
+abundant in both the freshwater and oligohaline sections
+of the river during summer (Gladden et al., 1988;
+Limburg, 1996). Finally, the zooplankton community
+is dominated by small-bodied species, a trait characterizing
+intense size-selective predation from fish (Brooks
+& Dodson, 1965). This hypothesis of significant topdown
+control of zooplankton requires further evaluation
+but, if correct, would help to explain why
+zebra mussels have had a limited impact on the
+macrozooplankton.
+If the main pathway of interaction between zebra
+mussels and zooplankton is direct consumption, which
+is highly size dependent, systems dominated by small
+zooplankton should suffer larger declines when
+invaded. Typically small zooplankton dominate systems
+when predation from planktivorous fish is intense
+(Brooks & Dodson, 1965). Planktivorous fish strongly
+select the largest zooplankton, while zebra mussels
+have their greatest impact on small zooplankton. So
+zebra mussels and fish are complementary predators.
+A key concern about the zebra mussel invasion is
+that mussel grazing may alter the foodweb supporting
+desired fish species. In particular, many fishes depend
+on zooplankton during their early life stages and this
+is especially true for the anadromous species that
+use the Hudson River as a nursery (Limburg, 1996;
+Limburg et al., 1997). Despite the substantial reductions
+of phytoplankton and microzooplankton, however, the
+availability and use of zooplankton by fish in the
+Hudson River may not have changed as a consequence
+of the invasion. The present study documented high
+selectivity of larval white perch, Morone americana
+(Waldbaum), and striped bass, M. saxatilis (Gmelin),
+for copepods and cladocerans during 1994 (Limburg
+et al., 1997). These species depend almost entirelyon macrozooplankton, and the gut contents of fish
+observed in this study are similar to those found in
+pre-zebra mussel years (Hjorth, 1988; R. Schmidt,
+unpublished data). If dependence on, and high
+selectivity for, the largest macrozooplankton (copepods)
+is characteristic of other Hudson River fish
+species, then the decline of zooplankton biomass may
+be of little consequence to fish populations. This is an
+example of how specific trophic interactions can buffer
+species from substantial alterations of productivity
+and energy flow in foodwebs.
+The zebra mussel invasion in the Hudson River
+represents a phytoplankton-removal ‘experiment’ at
+an ecosystem scale. Perhaps the most surprising result
+of this analysis is the persistence of crustacean
+zooplankton, especially copepods, at or near levels
+observed prior to the experiment. We would not have
+predicted this result but, before the invasion, would
+rather have argued for a stronger dependence of
+zooplankton on phytoplankton. The lack of
+dependence illustrates the value of studying largescale
+perturbations to ecosystems. The results suggest
+an interesting hypothesis about top-down regulation
+of estuarine and riverine zooplankton communities,
+indicate that the loss of phytoplankton may not cascade
+up the foodweb to fish, and support the idea
+that zooplankton in systems like the Hudson River
+use a variety of energy sources, not just phytoplankton
+production.

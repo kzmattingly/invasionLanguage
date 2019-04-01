@@ -1,0 +1,506 @@
+xabstract
+Surveys of benthic macroinvertebrates conducted in Lake Ontario during 1994 and 1997 revealed recent declines
+in populations of three major taxonomic groups: Oligochaeta, Sphaeriidae, and Diporeia spp. (Amphipoda), with the most
+drastic reductions occurring in the latter. Results from sediment measurements were used to classify deepwater sediments
+into three habitat zones. Densities of all three taxa declined in the shallowest (12–88 m) of the sediment zones between 1994
+and 1997; the greatest changes in density were observed for Diporeia, which declined from 3011 to 145 individuals·m–2, and
+for total benthic macroinvertebrates, which declined from 5831 to 1376 individuals·m–2. Mean densities of Dreissena spp. in
+1997 were highest in the shallowest zone, and the areas of greatest densities corresponded to areas of largest reductions in
+Diporeia populations. We believe that dreissenids are competing with Diporeia by intercepting the supply of fresh algae essential
+for Diporeia survival. A decline in macroinvertebrate densities, especially populations of an important food item such
+as Diporeia, in Lake Ontario sediments at depths of 12–88 m may have a detrimental impact on the benthic food web.
+
+xintroduction
+The deepwater, benthic macroinvertebrate community of
+the Great Lakes is dominated by a few species of organisms.
+The cold–stenotherm association includes Oligochaeta, Sphaeriidae,
+and Diporeia spp. (Cook and Johnson 1974). Two
+species of oligochaetes, Stylodrilus heringianus and Limnodrilus
+hoffmeisteri, are found throughout the offshore regions
+and may account for 10–20% of the total benthic
+population density (Mozley and Howmiller 1977). Members
+of the bivalve family Sphaeriidae are usually found in waters
+less than 90 m deep and account for 5–15% of the total benthic
+population density. The amphipod Diporeia spp. (formerly
+Pontoporeia hoyi) is the most abundant macroinvertebrate
+(Mozley and Howmiller 1977; Nalepa 1991) in
+the Great Lakes. In deeper water habitats, it accounts for
+40–70% of the total density of benthic organisms (Nalepa
+1991), reaching greatest densities at depths below the summer
+thermocline in waters 30–60 m deep.
+In the Great Lakes, Diporeia is found in greatest numbers
+in soft or fine sediments and in sand overlain with a thin
+layer of detritus (Marzolf 1965). An important source of
+food for Diporeia arrives in the spring and fall when water
+conditions favor diatom blooms and subsequent settling of
+diatoms onto the sediments (Saether 1980). Diporeia depends
+on settling algae for growth and reproduction, storing
+the assimilated energy as lipid. Lipid levels of Diporeia are
+high compared with those of other Great Lakes benthic macroinvertebrates
+and can account for up to 50% of the amphipods’
+dry weight after the spring diatom bloom (Gardner et
+al. 1985). It has been estimated that within deeper water
+habitats of the Great Lakes, 23% of the total annual carbon
+production from phytoplankton is consumed by this organism
+(Flint 1986). Fitzgerald and Gardner (1993) reported
+that Diporeia ingested 61% of the spring diatom bloom in
+Lake Michigan. A large portion of Diporeia biomass is
+transferred up the food chain to forage fish. Diporeia is the
+dominant food organism of the slimy sculpin in Lake Ontario
+(Owens and Weber 1995) and most other fish species
+feed on Diporeia at some stage in their life cycle (Mozley
+and Howmiller 1977). Because of the importance of benthic
+macroinvertebrates and particularly Diporeia in fish diets,
+changes in the status of Diporeia or the other two major taxa
+could have dramatic effects on fish production in the Great
+Lakes.
+Colonization by the dreissenid mussels Dreissena polymorpha
+and Dreissena bugensis is probably one of the more
+ecologically important events to occur in the Great Lakes
+during the last decade (MacIsaac 1996). Since their discovery
+in 1988, dreissenids have colonized both soft and hard substrates
+to depths of 130 m (Mills et al. 1993) and reached
+densities of 340 000·m–2 in some areas (Leach 1993). Because
+of high densities, widespread distribution, and high filtering
+rates, Dreissena populations can filter large volumes of water
+and have the capacity to decrease algal biomass (Holland
+1993; Fahnenstiel et al. 1995). Therefore, this diversion of
+algal production into dreissenid tissue and biodeposits may
+deprive Diporeia and other deepwater macroinvertebrates of
+food settling from the water column.
+In this study, we examined changes in densities of Diporeia,
+Oligochaeta, and Sphaeriidae in Lake Ontario between 1994
+and 1997 and relate these changes to those observed over the
+past three decades. We present evidence that all three taxonomic
+groups have declined in density in waters between 12
+and 88 m at a time when Dreissena densities were increasing.
+
+
+xmethods
+Macroinvertebrate sampling design and processing
+Benthic samples were collected from Lake Ontario in late August
+1994 and early September 1997 at 55 and 75 stations, respectively
+(Fig. 1). Sampling depths ranged from 12 to 213 m. Station
+locations in 1994 and 1997 were based on a randomized design using
+a systematic grid (Stevens 1997). Locations in 1994 were then
+classified into habitat zones based on principal components analysis
+(PCA) of physical and chemical data (see below). Because only a
+subset of physical and chemical measurements were taken in 1997,
+classification of these locations was based on grain size and depth,
+two of the most important discriminating measurements as determined
+by PCA. Position for sampling was determined by a Loran
+C navigation.
+At each station, three samples were taken with a Ponar grab
+(area = 0.048 m2); the samples were pooled into a single sample,
+placed into an elutriation device, and washed through a nylon
+sleeve with a 500-mm opening (Mozley and Howmiller 1977). The
+residue retained was preserved in 5% formalin containing rose bengal
+stain. In the laboratory, organisms were initially removed from
+samples under a dissecting microscope and identified into major
+taxonomic groups. Later, organisms were identified to the lowest
+possible taxonomic level. Dreissena were counted and identified to
+species in 1997 but not in 1994.
+Sediment collection and analysis
+In 1994, an additional Ponar grab sample was collected from
+each station and sediment from the top 2 cm, assumed to represent
+the biologically active zone, was placed into clean glass containers
+and kept at 5°C. These sediments were analyzed for grain size,
+organic carbon, ammonia, sulfide, and relative toxicity. Standard
+methods for grain size analysis and total organic carbon were followed
+(ASTM 1991). Results for grain size were reported as percentage
+clay (<4 mm), silt (4–60 mm), and sand (>60 mm). Ten-day
+toxicity tests for Hyalella azteca and Chironomus tentans were
+conducted according to standard methods (Ingersoll and Nelson
+1990). Results were reported as percentage survival of organisms.
+Measurements of pore-water ammonia and sulfide concentrations
+followed methods of Ankley et al. (1993).
+Statistical analysis
+A principal components analysis (PCA, Wilkinson 1996) was
+performed using physical and chemical characteristics of sediments
+collected in 1994 to identify different macroinvertebrate habitat
+zones. Variables included in the analysis were percentage survival
+of Hyallela azteca and Chironomus tentans in toxicity tests, percentage
+sand, silt, clay, and carbon, depth, ammonia, and sulfide.
+Mean population densities in each zone (numbers of individuals·
+m–2) and between year(s) were compared with analysis of variance
+(ANOVA) and Tukey’s test (p £ 0.05) using densities at each station
+as replicates (Wilkinson 1996). Water depth was included as a
+covariate term. Variance stabilizing transformations were used
+prior to data analysis. An arcsine – square root transformation was
+used for percentage data and a log transformation was used for
+macroinvertebrate density data.
+
+
+xresults
+Sediment analysis
+Results from PCA indicate that the first principal component
+accounted for 40% of total variability with depth, %
+sand, and % silt being the variables that correlated most
+highly with the first axis (Table 1). In general, sand and silt
+accounted for the majority of dry sediment mass at all stations,
+with clay comprising <2% of the remaining sediment
+mass at each site. Thus deepwater stations with high amounts
+of silt and clay are located to the right of where the PC1 and
+PC2 axes intersect (Fig. 2). As a result, a strong negative
+correlation exists between sand and silt such that areas with
+high % sand have low % silt, and vice versa. The second
+principal component accounted for 14% of the variability
+with percentage survival of H. azteca, ammonia, and sulfide
+levels being most highly correlated with the second axis.
+The results of PCA for habitat characteristics with the 1994
+data revealed three groupings of stations (Table 1, Fig. 2).
+The three groupings were identified as low-depositional,
+transitional, and high-depositional areas (Table 1, Figs. 1,
+2). The low-depositional zone included stations with a high
+ratio of sand to silt and low % carbon; these stations were
+generally located in shallower, nearshore regions (12–88 m).
+The high-depositional zone was characterized by stations with
+sediments of a higher ratio of silt to sand and high % clay relative
+to sediments from other stations. High-depositional
+stations were deeper (90–213 m) and located centrally in the
+lake. The transitional zone included stations with sediments
+having a mixture of sand and silt and % clay that was intermediate
+between low- and high-depositional stations. Depths
+in this zone were intermediate (63–91 m) and stations were
+located between the low-depositional and high-depositional
+zone (Fig. 1, 2). Three stations (stations 142, 152, and 164)
+were intermediate in sand and silt but located in deeper water,
+i.e., greater than 134 m (Fig. 1). These stations were
+located on the Whitby–Olcott and Scotch Bonnet sills
+(Thomas et al. 1972) that separate the Lake Ontario basin
+into three deepwater high-depositional zones. For macroinvertebrate
+analysis, stations located on the sills were
+placed in the high-depositional group.
+Macroinvertebrate densities
+Three taxa, Diporeia spp., Oligochaeta, and Sphaeriidae,
+comprised 91–99% of all macroinvertebrates collected in
+1994 and 1997. There were significant differences for major
+taxa within sediment zones. In the low-depositional zone,
+densities of Diporeia were most abundant at depths greater
+than 42 m in 1994 but no pattern was discernable along the
+depth gradient sampled in 1997 (Table 2). At stations where
+Diporeia were abundant, densities averaged 6363·m2 in
+1994 compared with 954·m2 in 1997. Further, the percentage
+of stations where no or very few Diporeia (<5 m2) were
+found increased from 40% in 1994 to 84% in 1997. In the
+transitional and high-depositional zones, there was little association
+between depth and Diporeia densities in 1994 or
+1997, and at stations where Diporeia were abundant, densities
+were comparable. There were no apparent patterns
+between densities of Oligochaeta or Sphaeriidae and depth
+within any of the three sediment zones.
+Results from ANOVA of mean densities with main effects
+of differences between years and sediment zones were statistically
+significant for all three taxa and total macroinvertebrate
+density with p-values of 0.001–0.008. The
+covariate term water depth was never a significant factor in
+the ANOVA with p-values of 0.146–0.504. Densities of
+Diporeia, Oligochaeta, and Sphaeriidae and total macroinvertebrates
+were significantly (Tukey’s test) lower in 1997
+compared with 1994 in the low-depositional zone (Table 3),
+with percentage declines of 95, 61, 45, and 76%, respectively.
+Densities of Oligochaeta, but not Diporeia and
+Sphaeriidae, were significantly lower in 1997 compared with
+1994 in the high-depositional zone, with a percentage decline
+of 58%. Another general trend, although not always
+statistically significant, was for densities to be lower in the
+high-depositional zone compared with the other two sediment
+zones for all three taxa and total macroinvertebrates
+(Table 3). In the transitional zone, there were no significant
+differences in densities of the three taxa and total abundance
+between years and other sediment zones. The lack of significant
+differences may be partially due to the small number of
+stations located in this zone.
+The spatial distribution pattern of Diporeia was different
+between 1994 and 1997, especially in the low-depositional
+zone. In 1994, highest population densities were found at stations
+located along the northern shoreline and at the far eastern
+end of the lake (Fig. 3a). A contiguous zone of stations
+with population densities of <4 individuals·m–2 occurred
+along the southeastern shore between the Genessee River outlet
+and Mexico Bay. In 1997, the number of stations with
+population densities of <4 individuals·m–2 increased and these
+stations extended all around the lake. The exception was Station
+62 near Toronto where densities were 1311·m–2. In some
+areas, this depauperate zone extended as far as 26 km offshore
+and to a depth of 160 m and encompassed over 40% of
+the total area of the lake. The most severe effect was along
+the southern and eastern shoreline from the outlet of the Niagara
+River to Point Petre, where Diporeia were absent from
+samples collected in waters 140 m deep or less.
+In 1994, there were large numbers (>5000·m–2) of oligochaetes
+near the mouths of the Niagara (Station 201) and
+Genessee (Station 172) rivers and along Point Petre (Station
+81, Fig. 3b). Stylodrilus heringianus was the most abundant
+oligochaete at these stations, accounting for over 30% of the
+total number. In 1997, the spatial pattern of Oligochaeta was
+similar to 1994 but with lower numbers in the lowdepositional
+and high-depositional zones. Relatively high
+population densities of Sphaeriidae were present at stations
+located near the Kingston basin (Fig. 3c) in 1994. In 1997,
+the spatial pattern of Sphaeriidae was different from 1994
+with fewer organisms near the eastern end of the lake.
+Ponar grab samplers were used to estimate densities of
+dreissenids in 1997. Although dreissenids were present in
+1994, the mussels were not collected or counted. The efficiency
+of this sampler for collecting attached mussels has
+not been quantified so our results are a relative measure of
+population density and distribution. Mean densities of Dreissena
+polymorpha and D. bugensis in 1997 were highest in
+the low-depositional zone, intermediate in the transitional
+zone, and lowest in the high-depositional zone (Table 4).
+Neither species of Dreissena was abundant in waters deeper
+than 70 m. Stations along the south shore from the outlet of
+the Niagara River to Mexico Bay had the largest numbers of
+Dreissena in waters less than 40 m deep (Fig. 4). There were
+also large numbers of Dreissena near Port Hope, Ontario,
+and in the Kingston basin. Species richness (mean number
+of species·site–1) in waters <40 m was greater at stations
+where Dreissena were present (10.1 ± 0.4 (mean ± SE),
+t test, p < 0.05) compared with stations where Dreissena were
+absent (6.4 ± 0.3). Several species of Naididae (Chaetogaster
+diaphanus, Ophidonais serpentina, Stylaria lacustris,
+Vejdovskyella intermedia), Tubificidae (Potamothrix
+moldaviensis, P. vejdovskyi, Rhyacodrilus coccineus,
+Spirosperma ferox), and Chironomidae (Heterotrissocladius
+sp., Chironomus sp., Cryptochironomus sp., Paracladopelma
+sp., Paralauterborniella sp., Tribelos sp., Micropsectra sp.,
+Tanytarsus sp.) were more abundant or only found in stations
+where dreissenids were present.
+
+xdiscussion
+Our data suggest a large change in total and relative density
+of the macroinvertebrate community in Lake Ontario for
+areas of the lake deeper than 12 m. If Dreissena spp. are excluded
+from population estimates, our data indicate a major
+decline in total macroinvertebrate densities between 1994
+and 1997 in the low-depositional zone (12–88 m). Our results
+contrast those summarized by Nalepa (1991), who
+found no change in macroinvertebrate densities in shallow
+waters (10–35 m) between 1964 and 1988 and an increase in
+numbers of Diporeia in the Kingston basin. To allow comparisons
+to these earlier studies, we grouped our densities of
+Diporeia, Oligochaeta, and Sphaeriidae by the three depth
+intervals (Table 5) used by Nalepa (1991) for the two Lake
+Ontario surveys and tested for differences between years
+(analysis of variance, ANOVA, Tukey’s test, p < 0.05) in
+each depth interval. These comparisons are important because
+the surveys of Hiltunen (1969) and Nalepa and Thomas (1976)
+were completed before the invasion of Dreissena.
+In the shallow depth interval, Diporeia, Oligochaeta, and
+Sphaeriidae were significantly lower in 1997 compared with
+densities found in 1964 and 1972 (Table 5). Mean densities
+of Diporeia were at least 130 times greater in 1964 and 1972
+than in 1997, while mean densities of Sphaeriidae and
+Oligochaeta were at least nine times greater in 1964 and
+1972 than in 1997. The mean density of Diporeia in 1994
+was 40·m–2 but the lack of statistically significant differences
+compared with earlier surveys is partially due to the small
+number of stations (n = 4) sampled in the shallow depth interval
+(10–35 m). In the intermediate depth interval, densities
+of Diporeia were significantly greater in 1972 and 1994
+(2131–4537·m–2) than in 1997 (1282·m–2). Mean densities of
+Diporeia were much greater in 1964 (9077·m–2) than in
+1997 but the lack of statistical significance is also partially
+due to the small number of stations (n = 2) sampled in the
+intermediate depth interval (36–90 m) in 1964. In the deepest
+depth interval, results were mixed. Densities of Diporeia
+were variable but never significantly different between
+years. Densities of Oligochaeta and Sphaeriidae were significantly
+greater in 1964 than in 1972, 1994, and 1997 but
+there were no consistent trends after 1972. The spatial distribution
+of stations where Diporeia were absent in Lake Ontario
+sediments was similar in 1964 and 1972, i.e., the area
+extended along the south shore from the Niagara River eastward
+to Rochester, N.Y. (Hiltunen 1969; Nalepa and
+Thomas 1976). In 1997, we found the area where Diporeia
+was absent to have expanded to all areas around the lake in
+waters between 10–40 m and down to a depth of 140 m in
+the zone from the Niagara River eastward and northward to
+Point Petre, Ont. In addition to whole-lake surveys, Nalepa
+(1991) also provided a compilation of Lake Ontario benthic
+studies showing trends from a nearshore area (Kingston basin)
+of Lake Ontario before the invasion of Dreissena.
+Between 1964 and 1988, Diporeia densities in the
+Kingston basin (28–35 m) of Lake Ontario were variable.
+Populations fluctuated between 3000·m–2 and 10 000·m–2
+during the period of 1964 to 1984 and then rose to
+13 900·m–2 by 1988. We found a mean population of
+Diporeia of less than 1·m–2 at six stations (stations 1–7) in
+the Kingston basin in 1997. Overall, the greatest change
+from 1964 to the present is a lake-wide decline in density of
+Diporeia down to depths of 140 m and lower densities of all
+three taxa in the shallow depth interval (10–35 m) and the
+low-depositional zone.
+After the invasion of Dreissena spp. into the Great Lakes,
+ecosystem changes included loss of edible particles (e.g.,
+phytoplankton) and subsequent decline of phytoplankton
+consumers, diversion of material from the open water to surface
+sediments as bivalve tissue and biodeposits, and subsequent
+increase of benthic resources in and around mussel
+beds (Strayer et al. 1999; Haynes et al. 1999). The negative
+impact of Dreissena spp. on Diporeia and other benthic
+macroinvertebrate species is attributed to its high filtering
+capacity and large population densities. Since their introduction
+to Lake Ontario in 1988 or 1989, Dreissena populations
+have expanded, reaching densities of 82 000·m–2 in Lake
+Ontario by 1998 (Schaner 1998). Increased water clarity and
+declines in phytoplankton density are directly correlated
+with increased densities of Dreissena in Lake Erie and Lake
+Huron (Fahnenstiel et al. 1995). Mean densities of planktonic
+diatoms were reduced by 80–92% compared with premussel
+periods in Hatchery Bay, western Lake Erie (Holland
+1993). Although the reduction of diatom biomass could be
+the result of other system changes (e.g., reduced phosphorus
+loadings), concentrations of phosphorus in the open waters
+of Lake Ontario have remained approximately 10 mg·L–1
+since 1985 (Neilson et al. 1995).
+Some of our results contrast those of Haynes et al. (1999),
+who found greater densities of Gammarid amphipods but no
+long-term changes in densities of oligochaetes and other
+species of macroinvertebrates at 7 m in cobble and artificial
+substrates after colonization by Dreissena in Lake Ontario.
+We found densities of three taxa to be lower in the lowdepositional
+zone and shallow water interval (10–35 m) of
+Lake Ontario but species richness to be greater at stations
+where Dreissena were present. The diversion of algae, especially
+diatoms, from open waters to mussel beds and hard
+substrates and incorporated into bivalve tissue and biodeposits
+would benefit species that can use the shells for habitat and
+(or) biodeposits for food.
+Changes in benthic populations in deep lakes have been
+attributed to trends in water column productivity (Saether
+1980) because the density of the benthos is directly related
+to the amount of food material settling from the water column.
+Earlier studies have shown that the amphipod
+Gammarus fasciatus, a shallow water species (<10 m), increased
+after invasion of mussels in southwestern Lake Ontario
+(Stewart and Haynes 1994; Haynes et al. 1999). The
+authors suggested that Gammarus fasciatus growth is facilitated
+by the additional food source from pseudofeces/feces
+deposited by Dreissena and additional habitat provided by
+mussel shells. Unlike Gammarus, Diporeia does not actively
+feed on Dreissena fecal pellets (Lydy and Landrum 1993). It
+has been shown that Diporeia is a discriminating feeder requiring
+a high quality food in the spring (diatoms) to complete
+its life cycle (Dermott and Corning 1988; Gardner et
+al. 1985). The inability of Diporeia to use Dreissena biodeposits
+as a food source and the reduction in its original
+food source may have contributed to its decline. The large
+decline in densities of Diporeia and other benthic macroinvertebrates
+in Lake Ontario was most pronounced near areas
+where dreissenids were most abundant and we postulate
+that these declines could have resulted from a redirection of
+energy from open waters to Dreissena beds.
+Recent changes in densities of benthic macroinvertebrates
+after invasion of Dreissena are not restricted to Lake Ontario.
+Dramatic declines of Diporeia in deeper waters of
+eastern Lake Erie also coincided with colonization by
+dreissenids (Dermott and Kerec 1997). Mean densities of
+Diporeia declined from 1844·m–2 in 1979 to 218·m–2 in
+1993; Diporeia was found at all 13 deepwater stations in
+1979 but only five stations in 1993. Dermott and Kerec
+(1997) suggest that competition for diatoms between
+Dreissena and Diporeia led to the exclusion of amphipods
+from areas where Dreissena was abundant. In southern Lake
+Michigan, Nalepa et al. (1998) reported declines of
+Diporeia, Oligochaeta, and Sphaeriidae. Declines in oligochaetes
+and sphaeriids occurred uniformly throughout the
+nearshore region (<50 m), whereas declines of Diporeia
+were greatest in the southeastern region of the lake. The region
+where Diporeia declined more than 60% between 1980
+and 1993 corresponded to areas where Dreissena was found
+in largest numbers. Nalepa et al. (1998) also hypothesized
+that the filtering activities of D. polymorpha were having a
+negative impact on Diporeia.
+In Lake Ontario, Diporeia populations are declining even
+in areas with low dreissenid densities. Dreissena are not
+present in large numbers at depths greater than 40 m; greatest
+densities occur in waters less than 30 m. We hypothesize
+that filtering capacity of dreissenids may be enhanced and
+the reduction of Diporeia densities may be partially explained
+by the seasonal occurrence of isolated water masses
+in nearshore areas of the lake. The formation of a thermal
+bar in spring and early summer isolates nearshore waters
+from offshore waters. The progression of the thermal bar
+from areas near the shoreline to deeper waters (>100 m) usually
+begins in March and ends with the formation of the
+summer thermocline (Thomas et al. 1972). During the spring
+diatom bloom, diatoms shoreward of the thermal bar are exposed
+to warmer, nutrient-rich water and, because the waters
+are well mixed, are also exposed to the filtering activity of
+Dreissena, thus allowing Dreissena to intercept diatoms before
+they settle on deeper sediments. Scavia and Bennett
+(1980) used field observations and simulation models to
+demonstrate the relative importance of vertical mixing and
+in situ production to observed nutrient and algal biomass in
+Lake Ontario. During the spring, increased algal production
+occurs on the shoreward side of the 4°C isotherm (Stadelmann
+et al. 1974). The impact of dreissenids in the spring is
+directly related to their filtering capacity.
+The seasonal impact of dreissenids was assessed by estimating
+their filtering capacity in comparison to volumes of
+water isolated by the thermal bar. Bailey et al.’s (1999) filtration
+model was used to calculate total turnover times (in
+days) at different depth intervals as
+T pi vi f ai xi
+i
+S
+= × × ×
+= å
+[ ][ ]
+1
+where pi is the proportion of total bottom area in stratum i, vi
+is the volume of stratum i, f is the filtering rate of an average-
+sized mussel (100 mL·h–1·mussel–1), ai is the area of
+bottom in stratum i, and xi is the density of mussels in stratum
+i. Total turnover times were estimated from dreissenid
+densities used by Bailey et al. (1999) and from Ponar data
+collected in 1997 (Fig. 5). To obtain total turnover times, we
+needed dreissenid densities at 1-m intervals; therefore, we
+used regression analysis of dreissenid densities on depth to
+find these values, i.e.,
+log (xi) = 7.335 – 0.045·di
+where di represents depth at stratum i. We found that total
+turnover times were similar for depth intervals less than
+30 m but much smaller based on our dreissenid estimates at
+depth intervals between 30 and 75 m (Table 6). At depth intervals
+greater than 80 m, Bailey et al.’s (1999) total turnover
+times were substantially lower that those calculated from our
+estimates of dreissenid densities. It is clear that better estimates
+of dreissenid densities must be made before we can
+determine the true potential effect of dreissenid filtering on
+algal biomass in the spring. However, if our model and density
+estimates are fairly accurate, isolated water masses in
+Lake Ontario could be turned over in less than 10 days when
+the thermal bar is located at depth contours of 60 m or less.
+The loss of Diporeia from large areas of Lake Ontario
+may be affecting fish production. Prey fish species such as
+slimy sculpin use Diporeia as a key food source in Lake Ontario
+(Owens and Weber 1995). Recently, there has been a
+decline in populations of this fish species in U.S. waters; estimates
+of densities of slimy sculpins have declined by 95%
+between the late 1980s and 1996 (New York Department of
+Environmental Conservation Annual Report 1998). Hoyle et
+al. (1999) found a sharp decline in both densities and body
+condition of lake trout and lake whitefish from the eastern
+region of the lake (Kingston basin) after 1990, which corresponds
+to the time that Diporeia were disappearing. In the
+past, the Kingston basin had produced the largest fish yields
+and supported a number of important commercial and sport
+fisheries. In 1997, a single specimen of Diporeia was collected
+from a total of 18 Ponar grab samples in the Kingston
+basin, where mean densities of Diporeia reached levels of
+14 000·m–2 before the invasion of Dreissena.
+In summary, the status of the benthic macroinvertebrate
+community of Lake Ontario has changed during the last 10
+years. Densities of Diporeia, Oligochaeta, and Sphaeriidae
+have declined in soft substrate habitats of deep water,
+whereas dreissenid populations have increased in both hard
+and soft sediments. A zone of very low Diporeia density (<4
+individuals·m–2) extends as far as 26 km offshore and as
+deep as 200 m, encompassing over 40% of the total surface
+area of Lake Ontario soft sediments sampled in 1997. The
+reduction of benthos, especially populations of Diporeia, in
+the nearshore of Lake Ontario is expected to have a major
+impact on the upper trophic levels of the lake.

@@ -1,0 +1,1221 @@
+xabstract
+
+
+We examined the importance of the Eurasian zebra mussel (Dreissena polymorpha) in structuring
+
+macroinvertebrate communities on hard substrata in the Great Lakes ñ St. Lawrence River system. An experiment using
+
+artificial substrata (i.e., cement bricks with either a layer of living zebra mussels, a layer of intact empty shells that mimicked
+
+living mussels, or with no added layer) showed that macroinvertebrate abundance is enhanced in the presence of zebra
+
+mussels and that macroinvertebrate responses to physical versus biological attributes of mussel beds (e.g., spatial habitat
+
+created by clumped shells; biodeposition) vary among taxa. Moreover, densities of zebra mussels and associated epifauna
+
+have increased severalfold at various sites in the Great Lakes ñ St. Lawrence River system within the past decade; changes in
+
+community composition were similar to those observed in our artificial substrate experiment. Our results suggest that dense
+
+zebra mussel colonization alters macroinvertebrate communities on hard substrata by enhancing conditions for
+
+deposit-feeding organisms, small gastropods, and small predatory invertebrates, and by displacing large gastropods and
+
+certain large filterers. In the St. Lawrence River, these effects were associated with zebra mussel densities of
+
+1500ñ4000 individuals/m2
+
+, which are likely to be supported by most waterbodies in North America. xintroduction Sessile fouling organisms have been shown to play important
+
+roles in structuring benthic communities (e.g., Paine 1974;
+
+Suchanek 1979, 1986; Ban and Nelson 1987; Matsumasa
+
+1994). On marine rocky shores, mussels form spatially complex
+
+patches (mussel beds) that provide habitat for a diverse
+
+assemblage of organisms (e.g., Tsuchiya and Nishihira 1986;
+
+Jacobi 1987; Ong Che and Morton 1992; Lintas and Seed
+
+1994; Seed 1996) but may also reduce or displace other benthic
+
+fauna (Paine 1974; Griffiths et al. 1992; Hockey and van
+
+Erkom Schurink 1992). Dramatic changes in marine benthic
+
+communities have followed invasions by competitively dominant
+
+mussels (Rao and Rao 1975; Griffiths et al. 1992; Hockey
+
+and van Erkom Schurink 1992; Abdel-Razek et al. 1993).
+
+The introduction of the Eurasian zebra mussel (Dreissena
+
+polymorpha) to the Laurentian Great Lakes in the mid-1980s
+
+(Hebert et al. 1989) added the first epifaunal mussel to North
+
+American freshwater communities, which generally have
+
+evolved without dominant macrofouling organisms. Therefore,
+
+the potential impacts of this invasion on benthic fauna
+
+and food webs have fueled much speculation (e.g., Hebert
+
+et al. 1991; Cooley 1991; Bruner et al. 1994). Although the
+
+zebra mussel has been established in Europe for almost two
+
+centuries (Stanczykowska 1977), and several European studies
+
+provide anecdotal evidence that zebra mussels influence
+
+benthic macroinvertebrate abundance (e.g., Sebestyen 1937;
+
+Dusoge 1966; Wiktor 1969; Izvekova and Lvova-Katchanova
+
+1972; Lyakhnovich et al. 1982; Maslowski 1992; Burlakova
+
+1995), there is little quantitative information available in the European literature that could be used to predict the musselís
+
+impacts on North American benthic fauna. Within the last few
+
+years, the deleterious effects of zebra mussels on native North
+
+American freshwater mussel (Unionidae) populations have become
+
+well documented (e.g., Gillis and Mackie 1994;
+
+Schloesser and Nalepa 1994; Ricciardi et al. 1995a, 1996), but
+
+impacts on epifaunal communities have only recently begun
+
+to be evaluated.
+
+During the past decade, substantial changes in the composition
+
+and abundance of benthic macroinvertebrate fauna occurred
+
+in the lower Great Lakes (Griffiths 1993; Stewart and
+
+Haynes 1994; Wisenden and Bailey 1995), where zebra mussel
+
+population densities were among the highest ever recorded
+
+(~105 mussels/m2, 100-fold higher than in most European
+
+habitats; cf. Stanczykowska 1977). It is unclear whether the
+
+coincident development of dense zebra mussel populations in
+
+the region was the direct cause of these changes, but it has been
+
+suggested that the physical and biological attributes of zebra
+
+mussel beds (e.g., interstitial habitat provided by clumped
+
+mussel shells and byssal threads; filtration currents; food provided
+
+by mussel feces and pseudofeces) play important roles
+
+in structuring benthic communities (Griffiths 1993; Stewart
+
+and Haynes 1994). However, the relative importance of these
+
+attributes for macroinvertebrate assemblages on hard substrata
+
+has not been tested.
+
+In the early 1990s, the zebra mussel expanded its range into
+
+the St. Lawrence River (Mellina and Rasmussen 1994) and
+
+subsequently invaded several other large rivers outside of the
+
+Great Lakes watershed (e.g., the Hudson, Illinois, Mississippi,
+
+Ohio, and Tennessee rivers) (Ludyanskiy et al. 1993). Because
+
+the zebra mussel is expected to become established in most
+
+North American drainages (Strayer 1991; Ramcharan et al.
+
+1992), information on the response of St. Lawrence River benthic
+
+communities to this invasion will help predict the musselís
+
+impacts in riverine ecosystems that have not yet been extensively
+
+colonized. In this study, we tested the hypothesis that
+
+zebra mussel colonization alters the abundance and composition
+
+of macroinvertebrates on hard substrata. Specifically, we
+
+examined the effect of zebra mussels on macroinvertebrate
+
+community development in the St. Lawrence River using deployed
+
+substrata and field surveys and evaluated the relative
+
+importance of physical and biological attributes of mussel
+
+colonies in structuring these communities.
+
+
+xmethods Artificial substrata (plain cement bricks individually measuring
+
+21.5 ◊ 11 ◊ 6.5 cm) were used to (i) test whether zebra mussel beds
+
+have a significant effect on macroinvertebrate colonization and
+
+(ii) distinguish the relative importance of the physical structure of
+
+zebra mussel beds versus their biological characteristics in influencing
+
+macroinvertebrate abundance and composition on hard substrata.
+
+Clusters of byssally attached zebra mussels (collected from
+
+various sites in the St. Lawrence River and maintained in laboratory
+
+aquaria) were rinsed thoroughly to remove any epizoic animals and
+
+then allowed to attach to one broad (21.5 ◊ 11 cm) surface of each of
+
+10 bricks in aquaria; in some cases, the attachment was reinforced by
+
+the use of a thin nylon thread permanently tying the cluster to the
+
+brick. In this way, 10 bricks were covered with a layer of 128 ± 3.8
+
+(mean ± SE) living zebra mussels (length 22.1 ± 0.6 mm). Ten additional
+
+bricks were similarly covered with a monolayer of 134 ± 3.5
+
+intact, empty mussel shells of the same size range used in the previous
+
+treatment. For this treatment, individual mussels were eviscerated and
+
+the shells were dried at an ambient temperature of 20∞C for several
+
+days; they were subsequently glued (using silicone aquarium sealant
+
+cured in air for 5 days) to one broad (21.5 ◊ 11 cm) surface of each
+
+brick so as to mimic a living zebra mussel bed. In both treatments,
+
+>90% of this surface was covered by the zebra mussel layer,
+
+resulting in a net increase of ~60% of exposed surface area on the top
+
+face of the brick (assuming the bases of attached mussel shells to be
+
+uncolonizable surfaces). Thus, the first set of bricks (treatment 1) was
+
+intended to provide invertebrate colonizers with habitat structure
+
+(mussel shells), food (mussel biodeposits), and other advantages associated
+
+with a living mussel bed, while the second set of bricks
+
+(treatment 2) provided only habitat structure. Finally, 10 additional
+
+bricks were left bare to control for the effects of both treatments.
+
+On May 19, 1995, the bricks were transported in buckets of water
+
+to a shallow (<2 m depth), protected littoral site on Lake St. Louis, an
+
+enlargement of the St. Lawrence River at Lachine, Que. Natural substrate
+
+at this site consisted of a dense layer of cobble on silty sand, and
+
+the local zebra mussel density was 451 ± 53 individuals/m2 of rock
+
+surface. The 30 bricks were haphazardly deployed by a diver within
+
+an area of 10 m2
+
+. They were placed on the cobble, with the zebra
+
+mussel cluster facing upward. After 9 weeks (on July 21, 1995), the
+
+bricks were located, carefully bagged underwater, and transported to
+
+the laboratory. All (20) of the treatment bricks and seven of the control
+
+bricks were recovered. Over 90% of zebra mussels on each of the
+
+bricks used for treatment 1 were still attached and alive at the time of
+
+recovery. Three bricks used for treatment 2 were found damaged
+
+(most of the mussel shells had become detached) and were therefore
+
+omitted from our analysis. Changes in zebra mussel numbers caused
+
+by larval settlement on the bricks during the experiment were negligible
+
+(<2% of original total). All macroinvertebrates were removed
+
+from the bricks using forceps and spray from a water bottle, washed
+
+onto a 500-µm sieve, and sorted. They were identified to at least their
+
+family level (generic level in most cases) following Merritt and Cummins
+
+(1984), Pennak (1989), and Thorp and Covich (1991). These
+
+taxa were subsequently assigned to their respective functional feeding
+
+groups (sensu Cummins 1973) based primarily on information provided
+
+by Merritt and Cummins (1984) and Thorp and Covich (1991),
+
+with the exception that all gastropods were placed within the same
+
+functional group (i.e., scrapers). The amphipod Gammarus fasciatus
+
+feeds on a range of food items but prefers fine particulate organic
+
+material (Delong et al. 1993) and therefore was classified as a deposit
+
+feeder.
+
+The significance of the macroinvertebrate community response to
+
+experimental treatment was determined by multivariate analysis of
+
+variance (MANOVA) of abundance data (numbers of individuals per
+
+brick), which were log10(x + 1) transformed to achieve normality and
+
+stabilize variance (Draper and Smith 1981). For individual taxa, the
+
+effects of different treatments were tested at the 0.05 level using
+
+Tukeyís Studentized range test. Relationships between macroinvertebrate
+
+taxa and treatment were further analyzed by principal components
+
+analysis (PCA). The two factors that explained the most
+
+variance in the data were used as axes to ordinate the taxonomic
+
+groups that responded significantly to treatment. These and all other
+
+statistical analyses were done using SAS procedures (SAS Institute
+
+Inc. 1991).
+
+Macroinvertebrates were sampled at four sites that are part of the
+
+fluvial corridor of the upper St. Lawrence River (Fig. 1). Two sites
+
+were on Lake St. Louis: one was on a jetty at Lachine, Que., and the
+
+other was on the east shore of Ile Madore, an island at the confluence
+
+of the Ottawa and St. Lawrence rivers. The two remaining sites were
+
+located on the eastern end of the Soulanges Canal at Pointe-desCascades,
+
+Que., and on Lake St. FranÁois at Cornwall, Ont. Each of
+
+these four sites supported rich macroinvertebrate communities on abundant cobble and was invaded by zebra mussels in 1990ñ1991
+
+(A. Ricciardi, personal observations). We sampled each site in September
+
+1992, when zebra mussel densities were relatively low, and
+
+resampled them in September 1994 (September 1995 for the Lachine
+
+site) following the develpment of dense zebra mussel populations
+
+in the river (Mellina and Rasmussen 1994; A. Ricciardi and
+
+F. Whoriskey, personal observations). On each sampling occasion,
+
+10 stones were collected randomly from <2-m depths by wading or
+
+snorkeling (except at the Soulanges Canal, where they were collected
+
+from ~6 m depth by a SCUBA diver) within an area of 10 m2 and
+
+placed in individual plastic buckets or enamel trays. The surface area
+
+of each stone was estimated from its three orthogonal dimensions
+
+(length, width, breadth) by an equation that determines the area of an
+
+ellipsoidal shape (Dall 1979):
+
+(1) Surface area = p
+
+3 (length ◊ width + length ◊ breadth
+
++ width ◊ breadth)
+
+At each site, the mean surface area of stones did not vary by more than
+
+3% between sampling occasions. The mean stone surface areas for
+
+Lachine, Ile Madore, Soulanges Canal, and Cornwall were 554, 381,
+
+535, and 342 cm2
+
+, respectively. All visible macroinvertebrates were
+
+removed from the stones with the aid of forceps, a bristle brush, and
+
+spray from a water bottle and were then washed onto a 500-µm sieve
+
+before being sorted and identified.
+
+To construct a Great Lakes ñ St. Lawrence River data set that
+
+provided quantitative information on macroinvertebrate abundances
+
+(numbers per square metre of rock surface) before and after zebra
+
+mussel invasion, we combined our field data (Table 1) with literature
+
+data for Lake St. Clair (Griffiths 1993) and Lake Ontario (Stewart and
+
+Haynes 1994) (Table 2). Data from Wisenden and Bailey (1995) were
+
+not included in this synthesis because their experimental design
+
+(which involved the transfer of precolonized rocks between waterbodies)
+
+was not comparable with the other studies. The macroinvertebrate
+
+groups chosen a priori for analysis were three functional
+
+feeding groups (deposit feeders, scrapers, and predators) and four
+
+principal taxa (gammarid amphipods, chironomid larvae, snails, and
+
+turbellarian flatworms); these groups were chosen because they were
+
+well represented at each site in our data set before zebra mussels
+
+became abundant and are considered to be important components of
+
+epibenthic communities that have been altered by zebra mussel invasion
+
+(Dermott et al. 1993; Griffiths 1993; Stewart and Haynes 1994;
+
+Botts et al. 1996).
+
+We tested the significance of observed changes in macroinvertebrate
+
+communities using a multivariate approach. Replicated data for
+
+St. Lawrence River sites were used to construct a robust PCA model
+
+describing macroinvertebrate community structure prior to the establishment
+
+of dense zebra mussel populations. Densities of functional
+
+or taxonomic groups sampled at the time when zebra mussel abundance
+
+was low (i.e., ìbeforeî data) for each St. Lawrence River site
+
+were normalized by log10(x + 1) transformation and ordinated using
+
+PCA (SAS Institute Inc. 1991). The principal component (PC) that
+
+explained the most variance was used to generate scores from before
+
+(baseline) and ìafterî (post-invasion) data for each site (including
+
+Great Lakes sites; because raw replicated before data from the Great
+
+Lakes were unavailable to us, the St. Lawrence River model was applied
+
+to all sites). Each score represented a linear sum of the products
+
+of PCA loadings and macroinvertebrate densities. The differences
+
+between before and after site scores were then tested at the 0.05 level
+
+of significance using paired-comparison t tests. We excluded Ile
+
+Madore from this comparison, because it was the only site in our data
+
+set where zebra mussels did not settle in large numbers during our
+
+sampling period; the zebra mussel population density was only
+
+73 individuals/m2 in 1994, which is an order of magnitude lower than
+
+the lowest densities at which significant community changes associated
+
+with zebra mussel invasions have been reported. Differences
+
+between sites were not tested, as we were primarily interested in how
+
+macroinvertebrate community structure had changed over time in
+
+densely colonized areas of the Great Lakes ñ St. Lawrence River
+
+system. Bonferroni-corrected t tests were used on log10-transformed data to test changes in the densities of zebra mussels and associated
+
+macroinvertebrates.
+
+xresults
+
+
+In our artificial substrate experiment, macroinvertebrate numbers
+
+varied significantly among treatments (Wilksí ? =
+
+0.0045, p < 0.0001). The mean total number of invertebrates
+
+(excluding zebra mussels) on bricks declined across the three
+
+treatment levels and was about fourfold higher in the presence
+
+of live mussels than on bare substrate (Fig. 2). Individual taxa
+
+that responded to treatment (F tests, p < 0.05) were ordinated
+
+along two PCs that cumulatively explained 75% (PC1 =
+
+57.6%, PC2 = 17.3%) of the standardized variance (Fig. 3).
+
+The first principal component (PC1) apparently describes an
+
+organismís affinity for mussel beds (treatments 1 and 2) compared
+
+with bare substrate (control), reflecting the general trend
+
+shown in Fig. 2 (i.e., live mussels > dead shells >> control).
+
+Groups that loaded positively on this axis (i.e., deposit feeders and predators) colonized bricks with living zebra mussels in
+
+substantially greater densities than on control bricks (Fig. 4).
+
+Gammarus differed from other deposit feeders (Fig. 5) by responding
+
+only to mussel structure (aggregated shells of living
+
+or dead mussels). Predators (e.g., leeches, flatworms, and
+
+Chaetogaster) and commensal organisms (e.g., Brachycentrus)
+
+were found on live mussels in greater numbers than on
+
+dead shells or bare substrate (Fig. 5). Conversely, the large
+
+filter-feeding caddisfly Cyrnellus loaded negatively on the
+
+PC1 axis (Fig. 3).
+
+The second principal component (PC2) appears to describe
+
+an organismís preference for surfaces with dead shells (treatment
+
+2) compared with living mussel beds or bare substrate.
+
+The weak positive response by Cyrnellus on PC2, coupled
+
+with its strong negative response on PC1, indicates an aversion
+
+to surfaces covered with living mussels and an indifference
+
+towards dead mussel shells (Fig. 5). Most scrapers (i.e., Helicopsyche,
+
+Gyraulus, Birgella) loaded positively on PC2. Helicopsycheís
+
+preference for surfaces with dead shells and
+
+indifference toward living mussels (Fig. 5) is refected by its strong positive score on PC2 and its trivial score on PC1
+
+(Fig. 3). By contrast, deposit-feeding chironomids and ostracods
+
+were enhanced in the presence of living mussels, but did
+
+not respond to dead shells, and therefore scored negatively on
+
+PC2. The treatment response of these organisms was mirrored
+
+by their predators (Fig. 5).
+
+In summary, almost all taxa increased in abundance on substrata
+
+covered with mussels (living or dead), and most
+
+achieved higher densities in the presence of living mussels
+
+compared with dead shells.
+
+Zebra mussel densities on rocks at St. Lawrence River study
+
+sites increased 14-fold, on average, over the 2ñ3 year period
+
+between sampling dates (Fig. 6). At every site, densities of
+
+associated macroinvertebrates increased by 1.6 to 8.4 times
+
+initial values. The smallest increase in macroinvertebrate density
+
+was observed at Ile Madore, which had the smallest zebra
+
+mussel population (73 individuals/m2); at all other sites,
+
+macroinvertebrate density increased at least fivefold. Paired
+
+comparisons of PCA site scores for communities sampled before
+
+and after the establishment of dense zebra mussel populations
+
+at Great Lakes ñ St. Lawrence River sites indicate that
+
+macroinvertebrate community structure was altered substantially
+
+(t = 8.68, p < 0.0003, using taxonomic group data and a
+
+PC that accounted for 80% of the variance; t = 5.37, p < 0.003,
+
+using functional group data and a PC that accounted for 77%
+
+of the variance). The direction and magnitude of changes in
+
+dominant functional feeding groups (Fig. 7) and taxonomic
+
+groups (Fig. 8) were similar among the three St. Lawrence
+
+River sites, where final dreissenid densities were ~1500ñ3900
+
+mussels/m2, and agreed with the results of our artificial substrate
+
+experiment.
+
+Following the establishment of dense zebra mussel populations,
+
+deposit-feeding organisms (e.g., amphipod and isopod
+
+crustaceans, chironomid larvae) dominated benthic assemblages
+
+at Great Lakes and St. Lawrence River sites. Populations of
+
+G. fasciatus increased dramatically, particularly in Lake
+
+St. Louis at Lachine, where their density multiplied by a factor
+
+of 20 between 1992 and 1995. Turbellarian flatworms and
+
+small gastropods also became highly abundant at most sites
+
+(Tables 1 and 2).
+
+Only a few taxa responded negatively to zebra mussel colonization
+
+at St. Lawrence River sites. In the Soulanges Canal,
+
+larvae of the polycentropodid caddisfly Cyrnellus sp. were
+
+eliminated from rocks that became densely covered with zebra
+
+mussels. Large pleurocerid snails (Elimia livescens) declined
+
+at each of the three mussel-infested St. Lawrence River sites;
+
+they were virtually eliminated at the Lachine and Soulanges
+
+Canal sites, although smaller gastropods (hydrobiids, physids,
+
+limpets, etc.) increased substantially (Table 1). The plumatellid
+
+bryozoan Plumatella fungosa, which historically dominated
+
+cobble at the Lachine site, was reduced to a few small
+
+colonies on zebra mussel shells and on surrounding substrate;
+
+areal coverage by this species declined by 85%. By contrast,
+
+areal coverage by sponges (Eunapius fragilis and Ephydatia
+
+muelleri), which became abundant on mussel shells in
+
+1994ñ1995, did not change significantly (Table 1). xdiscussion
+Our findings strongly support the view that dense zebra mussel
+
+populations have a profound impact on the structure of
+
+macroinvertebrate communities on hard substrata, as claimed
+
+in earlier studies (e.g., Dusoge 1966; Griffiths 1993; Dermott
+
+et al. 1993; Stewart and Haynes 1994). Parallel changes in
+
+macroinvertebrate abundance and composition at Great Lakes
+
+and St. Lawrence River sites suggest that habitat differences
+
+had less influence on community structure than the presence of
+
+dense zebra mussel beds. These changes were characterized by
+
+multifold increases in macroinvertebrate densities, and the development
+
+of mussel bed communities dominated by Gammarus,
+
+turbellarian flatworms, and chironomid larvae.
+
+The results of our before and after field comparisons and
+
+artificial substrate experiment were remarkably similar. The
+
+direction and magnitude of the change in abundance of deposit
+
+feeders, predators, and scrapers on rocks at Great Lakes ñ
+
+St. Lawrence River sites mirrors observed differences in community
+
+structure on bricks with and without zebra mussels.
+
+After 9 weeks, the treatment bricks developed musselassociated
+
+communities that were remarkably similar to those
+
+observed at the Great Lakes ñ St. Lawrence River sites 4 years
+
+after colonization by zebra mussels. The mean density of living
+
+zebra mussels on the treatment bricks (1450 individuals/m2)
+
+was 50% lower than the mean density on stones at our
+
+St. Lawrence River sites in 1994ñ1995 (2854 mussels/m2).
+
+Zebra mussel densities in the St. Lawrence River were
+
+~10-fold lower than those observed at the Great Lakes sites,
+
+yet resulted in similar changes to the macroinvertebrate community,
+
+which suggests that these changes may be better correlated
+
+with zebra mussel biomass or that they may be
+
+provoked by moderate zebra mussel densities. The zebra mussel
+
+density at Ile Madore (73 mussels/m2) was evidently insufficient
+
+to cause significant community changes like those that
+
+occurred at the other St. Lawrence River sites. However, the range of densities at which significant changes were observed
+
+(e.g., 1500ñ4000 mussels/m2) are likely to occur in most lakes
+
+and rivers in North America (Strayer 1991; Ramcharan et al.
+
+1992; Mellina and Rasmussen 1994).
+
+Zebra mussels have a suite of physical and biological attributes
+
+that may influence the structure of their macroinvertebrate assemblages.
+
+Through efficient filtration, zebra mussel populations
+
+can remove large amounts of particulate organic matter
+
+from the water column and deposit these on sediments as agglutinated
+
+mussel feces and pseudofeces (Izvekova and
+
+Lvova-Katchanova 1972; Stanczykowska and Planter 1985).
+
+Mussel biodeposits are a nutrient-rich and easily assimilated
+
+food source (Izvekova and Lvova-Katchanova 1972), and the
+
+organic enrichment of substrata by mussel biodeposition can
+
+alter the local distribution and abundance of benthic invertebrates
+
+(Sephton et al. 1980). Zebra mussel biodeposition is
+
+assumed responsible for increased abundances of depositfeeding
+
+chironomids and oligochaetes in Lake St. Clair (Griffiths
+
+1993) and in European lakes (Lyakhnovich et al. 1982;
+
+Smit et al. 1993). In our field survey, we found 5- to 10-fold
+
+increases in abundances of deposit feeders at the St. Lawrence
+
+River sites where dense (>1500 mussels/m2) zebra mussel
+
+populations became established (Fig. 7). However, our artificial
+
+substrate experiment suggests that this response was provoked
+
+by both physical and biological attributes of zebra
+
+mussels.
+
+Mussel beds increase the surface area and spatial heterogeneity
+
+of benthic substrata, thereby creating habitat for a diverse
+
+group of associated organisms (Suchanek 1979, 1986;
+
+Jacobi 1987; Seed 1996). Spatially complex surfaces tend to
+
+support richer faunal communities (e.g., Abele 1974; Hart
+
+1978; Minshall 1984; OíConnor 1991), presumably because
+
+they provide a greater number of niches and resources.
+
+Clumped mussels have an abundance of interstitial spaces that
+
+may serve as refugia from disturbance and predation for small
+
+organisms (Gosselin and Chia 1995), a role played by other
+
+biological substrata (e.g., Brock 1979; Gillinsky 1984; Ban
+
+and Nelson 1987; Holmlund et al. 1990; Matsumasa 1994).
+
+These spaces also trap sediments and biodeposits (Jacobi
+
+1987; Yager et al. 1993), thus benefiting deposit-feeding organisms.
+
+The interaction between interstitial habitat and sedimentation
+
+makes it difficult to determine the primary
+
+mechanism(s) by which mussel beds enhance populations of
+
+associated fauna. Slepnev et al. (1994) found that invertebrate
+
+colonization was three times higher in the presence of living zebra mussels than in the presence of rubber models; they
+
+attributed this difference to both the accumulation of biodeposits
+
+among living mussels and the more complex spatial structure
+
+of natural mussel aggregations. However, Suchanek
+
+(1979) showed that artificial mussel beds contained faunal
+
+communities virtually identical to those of real Mytilus beds.
+
+The PCA of data from our artificial substrate experiment
+
+(Fig. 3) indicated that although general trends exist, taxa
+
+within the same functional feeding group responded differently
+
+to treatment, suggesting that they responded to more than
+
+just a trophic effect. For several taxa, the effect of mussel
+
+structure on abundance was stronger than the various biotic
+
+effects associated with living mussels (Figs. 4 and 5). Therefore,
+
+although biological attributes of living zebra mussels
+
+played significant roles, we believe that the enhancement of
+
+substrate complexity by zebra mussel beds was generally the
+
+most important factor controlling the changes in macroinvertebrate
+
+composition and abundance at our St. Lawrence River
+
+sites.
+
+Several previous studies have documented an increased
+
+abundance of gammarid amphipods on substrata densely colonized
+
+by zebra mussels (Protasov and Afanasyev 1990; Dermott
+
+et al. 1993; Griffiths 1993; Stewart and Haynes 1994;
+
+Wisenden and Bailey 1995; Botts et al. 1996). Our analysis of
+
+field data confirms a general multifold increase in G. fasciatus
+
+densities coinciding with the development of dense zebra
+
+mussel populations in the Great Lakes ñ St. Lawrence River
+
+system. The results of our artificial substrate experiment suggest
+
+that this increase is a response to enhanced substrate complexity,
+
+which is consistent with published observations that
+
+Gammarus preferentially colonizes interstitial habitat (Gee
+
+1982; Olyslager and Williams 1993).
+
+Zebra mussels may colonize soft substrata by settling on
+
+ìseedî surfaces, i.e., individual shells or stones that serve as
+
+foci for aggregations of byssally attached mussels (Hunter and
+
+Bailey 1992). These aggregations act as islands of firm substrate
+
+for epifauna such as hydroids, sponges, bryozoans, turbellarians,
+
+gastropods, and leeches, in habitats where hard
+
+substrata are scarce (Maslowski 1992; Smit et al. 1995; Botts
+
+et al. 1996). However, the dense colonization of musselcovered
+
+bricks by a rich macroinvertebrate community in the
+
+presence of abundant bare cobble at our experimental site,
+
+coupled with a density enhancement (~400%; Fig. 2) that is
+
+disproportionate with the net increase in surface area created
+
+by mussel beds (~60%), suggests that zebra mussels provide
+
+additional advantages for epibenthic animals.
+
+Filtration currents generated by zebra mussels may be exploited
+
+by small organisms such as young sponge colonies and
+
+filter-feeding caddisfly larvae (e.g., Brachycentrus), which
+
+normally attach themselves to the posterior margins of the
+
+mussel shell in close proximity to the siphons (A. Ricciardi,
+
+personal observation). A similar commensal relationship involving blue mussels (Mytilus edulis) and barnacles
+
+(Balanus improvisus) has been documented; barnacles tend to
+
+attach to the siphonal regions of mussels, and those that attach
+
+to living mussels grow faster than those on empty shells (Laihonen
+
+and Furman 1986). Brachycentrus larvae orient themselves
+
+so that the anterior opening of their case is exposed
+
+to the zebra musselís filtration current; in this position, the
+
+larvae appear capable of scavenging incoming food partices.
+
+Their preference for living zebra mussels as attachment sites
+
+was clearly demonstrated in our artificial substrate experiment
+
+(Fig. 5). Furthermore, Brachycentrus larvae have densely
+
+colonized zebra mussel beds in sections of the St. Lawrence
+
+River where they were historically absent (Conn and Conn
+
+1993; D.B. Conn, University of Sewanee, Sewanee, Tenn.,
+
+personal communication). Sponges are also common epibionts
+
+of zebra mussels in the St. Lawrence River (Ricciardi et al.
+
+1995b), but their aerial coverage of hard substrata does not
+
+appear to be affected by dense zebra mussel colonization
+
+(Table 1).
+
+Another organism commensally associated with zebra mussels
+
+in our artificial substrate experiment and field studies was
+
+the limpet Ferrissia rivularis (Ancylidae). Densities of Ferrissia
+
+in the Soulanges Canal increased fivefold between 1992
+
+and 1994 (Table 1) and were more abundant on zebra mussel
+
+shells than on surrounding substrate. Conn and Conn (1993)
+
+also found F. rivularis occurring in large numbers on zebra
+
+mussel beds. Ferrissia may benefit from grazing on mussel
+
+shell surfaces, which are often covered with attached diatoms
+
+(A. Ricciardi, personal observation), the preferred food item
+
+for limpets (Thorp and Covich 1991). Because limpets appear
+
+to have higher oxygen requirements than most other
+
+gastropods (Pennak 1989), they may also benefit from being
+
+in close proximity to currents generated by mussel siphons. In
+
+our substrate experiment, Ferrissia colonized living mussels
+
+in larger numbers than either dead mussel shells or bare substrate.
+
+By contrast, other scrapers (i.e., Helicopsyche, Birgella,
+
+Gyraulus) did not differentiate between living and dead mussels,
+
+but colonized mussel-covered bricks more densely than
+
+bare bricks (Figs. 3 and 5). The depuration of nutrients (N, P)
+
+from living and dead zebra mussel shells (Stanczykowska and
+
+Planter 1985) could conceivably stimulate periphyton growth
+
+and thus attract scrapers.
+
+Zebra mussels may also enhance local invertebrate abundance
+
+by acting as prey (e.g., for leeches), or as hosts for parasites
+
+and internal commensals. Leeches, particularly
+
+glossiphoniids, are common in zebra mussel aggregations (this
+
+study; Lewandowski 1976; Griffiths 1993; Dermott et al.
+
+1993; Stewart and Haynes 1994) and may prey on zebra mussels (Smit et al. 1993) or their associated invertebrates
+
+(Pennak 1989). The predatory oligochaete Chaetogaster limnaei
+
+is a facultative parasite of zebra mussels (Conn et al.
+
+1996) and may also be abundant in zebra mussel beds (this
+
+study; Piesik 1983; Stewart and Haynes 1994). Larval chironomids
+
+of Paratanytarsus sp. live commensally in the mantle
+
+cavity of zebra mussels, where they are provided with food (in
+
+the form of pseudofeces and mucus secretions) and spatial
+
+refuge (Ricciardi 1994).
+
+Contrary to most previous studies (Griffiths 1993; Dermott
+
+et al. 1993; Stewart and Haynes 1994), our results suggest that
+
+dense coverage of hard surfaces by zebra mussels may reduce
+
+or displace certain species. Large net-spinning caddisfly larvae
+
+(Polycentropodidae) declined after the establishment of zebra
+
+mussel populations at our field sites (Table 1) and avoided
+
+substrata covered by living zebra mussels in our artificial substrate
+
+experiment (Fig. 5). Competition for food and space limits
+
+the distribution and abundance of net-spinning caddisflies
+
+on stones (Lancaster et al. 1990; Hemphill 1988). We believe
+
+that these larvae cannot exploit zebra mussel filtration currents
+
+as can smaller caddisflies (e.g., Brachycentrus). Large netspinning
+
+caddisflies are territorial and space themselves to
+
+avoid receiving water previously filtered by their neighbors
+
+(A. Ricciardi, personal observation; Hemphill 1988). Zebra
+
+mussels may compete with polycentropodid caddisflies for optimal
+
+positions on substrate, and their filtration activity may
+
+produce local flow patterns that interfere with polycentropodid
+
+feeding (cf. Johnson 1990).
+
+The decline of the ectoproct bryozoan Plumatella fungosa
+
+at our Lachine site is unusual given that this species was abundant
+
+at this site in previous years (Ricciardi and Reiswig 1994;
+
+A. Ricciardi, personal observation) and that plumatellids can
+
+use zebra mussels as substrate (e.g., Maslowski 1992). However,
+
+because P. fungosa builds massive spreading colonies on
+
+smooth surfaces in the St. Lawrence River (A. Ricciardi, personal
+
+observation), its growth may be limited by the small
+
+cavities and discontinuous shell surfaces of clumped mussels.
+
+Competition with zebra mussels for local particulates may
+
+have also occurred. Conversely, the decline may have been
+
+caused by a factor unrelated to zebra mussels, such as a change
+
+in water quality (see Ricciardi and Reiswig 1994, and references
+
+therein).
+
+The displacement of large snails (i.e., individuals comparable
+
+in size with zebra mussels) from substrata densely colonized
+
+by zebra mussels has been reported previously (Dusoge
+
+1966; Wisenden and Bailey 1995). Gizinski and Wolnomiejski (1982) noted a reduction in native molluscs coinciding with
+
+the development of shoals of zebra mussels in a Polish reservoir
+
+but did not speculate on mechanisms linking the two
+
+events. Although zebra mussels may negatively impact large
+
+gastropods by fouling their shells (Tucker 1994), mussels
+
+rarely attached to snails at our study sites and probably did not
+
+reduce their abundance through increased mortality. Large
+
+snails may be inefficient at grazing on interstitial surfaces and
+
+thus may have been outcompeted for food and space by smaller
+
+gastropods (cf. Harman 1968). We suggest that the alteration
+
+of hard substrata by zebra mussel aggregations increases the
+
+abundance of snails but limits their mean size, analogous to
+
+the effect that marine mussel beds have on gastropods (Jacobi
+
+1987; Griffiths et al. 1992). However, in littoral areas of lakes
+
+invaded by zebra mussels, gastropods of all sizes could increase
+
+in abundance outside of mussel beds in response to
+
+higher benthic algal growth resulting from the enhanced light
+
+penetration and nutrient deposition associated with zebra mussel
+
+filtration activity (Griffiths 1993; Stewart and Haynes
+
+1994).
+
+We expect that higher abundances of Gammarus, chironomids,
+
+and small gastropods will increase prey availability
+
+for benthivorous fishes such as yellow perch (Perca flavescens),
+
+which feed preferentially on these organisms (Boisclair
+
+and Leggett 1989). Examination of the digestive tracts of yellow
+
+perch and rock bass (Ambloplites rupestris) from the Soulanges
+
+Canal at Pointe-des-Cascades, Que., has shown that
+
+these fish consumed proportionally more Gammarus in the
+
+summer of 1995 than in previous years (A. Ricciardi, unpublished
+
+data). Moreover, a European study found that the production
+
+of benthivorous fish in a lake doubled within 6 years
+
+following zebra mussel invasion; this was attributed to both
+
+direct predation by fish on zebra mussels and indirect predation
+
+on mussel-associated organisms (Karataev and Burlakova
+
+1995). Based on the assumption that mussel biodeposits stimulate
+
+Gammarus production, Bruner et al. (1994) hypothesized
+
+that zebra mussels increase the bioaccumulation of organic
+
+contaminants through aquatic food chains (e.g., seston ñ
+
+mussel feces ñ Gammarus ñ fish ñ bird). However, their assumption
+
+is not supported by the results of our study (Fig. 5)
+
+and Botts et al. (1996), both of which suggest that gammarid
+
+populations are enhanced by habitat structure rather than mussel
+
+biodeposits. It remains to be tested whether gammarids or
+
+other deposit feeders that live in zebra mussel beds have higher
+
+contaminant concentrations than those living outside of mussel
+
+beds.
+
+Our findings indicate that zebra mussel invasions cause rapid
+
+transformations of epilithic communities into assemblages
+
+dominated by zebra mussels, amphipods, chironomids, flatworms,
+
+and small gastropods. Data suggest that larger fauna
+
+adapted to smooth substrate (e.g., pleurocerid snails, certain
+
+net-spinning caddisflies and bryozoans) may be reduced or
+
+eliminated by dense zebra mussel colonization. A number of
+
+physical and biological characteristics of mussel beds (e.g., accumulations
+
+of biodeposits; filtration currents) may contribute
+
+to these changes, but an important factor is the formation of an
+
+interstitial shell matrix that provides refuge, traps sediment,
+
+and enhances substrate complexity. Multifold increases in the
+
+abundance of mussel-associated fauna may occur at zebra
+
+mussel densities as low as 1500 individuals/m2 within a few
+
+years of invasion. Given that most lakes and rivers on this
+
+continent are physically and chemically suitable for the establishment
+
+of these mussel densities (Ramcharan et al. 1992;
+
+Mellina and Rasmussen 1994), we predict widespread
+
+restructuring of North American freshwater benthic communities
+
+and food webs as the zebra mussel continues to invade new
+
+drainages.

@@ -1,0 +1,579 @@
+xabstract
+The introduction of exotic fishes to naturally fishless waters is often associated with declines in species native to those waters.
+Mosquitofish, Gambusia affinis, have been introduced to waters worldwide for mosquito control. Taxa negatively affected by
+mosquitofish potentially include fairy shrimp (Crustacea: Anostraca) that often show high rates of endemism, and which are
+characteristic of naturally fishless wetlands on every continent. We tested the effects of mosquitofish on a fairy shrimp, Linderiella
+occidentalis, in experimental ponds that included a community of native aquatic invertebrates. We supplemented field experiments
+with lab trials to test whether mosquitofish preferred L. occidentalis to other prey. Survival of the fairy shrimp was significantly
+reduced in ponds with mosquitofish. Only 16.9% of fairy shrimp survived in ponds with mosquitofish, while 64.0% survived in
+control ponds. Fish presence also reduced abundance and biomass of other invertebrates. Results from feeding trials demonstrated
+that mosquitofish frequently prefer L. occidentalis to alternative prey. Our results suggest that introduction of mosquitofish into
+naturally fishless wetlands may lead to loss of diversity of their highly specialized aquatic fauna.
+
+xintroduction
+Biological invasions have long been recognized as a
+threat to the biodiversity of freshwater systems (Elton,
+1958). The effects of non-indigenous introductions on
+riverine and large lake systems are well documented
+(Kolar and Lodge, 2000); however, temporary and
+permanent wetlands that are either remote (mountain
+lakes and pools) or geographically isolated from river
+systems (including playa lakes, woodland pools, prairie
+potholes, and vernal pools) have not been as well studied
+(Bahls, 1992; King et al., 1996; Tiner et al., 2002).
+Changes in the biota of these systems may go unnoticed
+(Mura, 2001). These waters are most often naturally
+fishless (Stoddard, 1987; Bahls, 1992; Tiner et al., 2002).
+Worldwide, such geographically isolated wetlands provide
+habitat for specialized native crustaceans, including
+over 250 species of Anostraca, the fairy shrimps (Brtek
+and Mura, 2000). These wetlands are extremely important
+to amphibians and to migratory birds that rely on
+the abundant macroinvertebrates for nourishment (see
+review in Tiner et al., 2002).
+Exotic fishes have been intentionally introduced
+throughout the world for sport fishing, for ornamental
+purposes, and as biological control agents (Taylor et al.,
+1984). Introduced fish may spread to additional waters
+and have been known to eliminate or greatly reduce
+native fauna through competition or predation (Moyle
+et al., 1986). Despite biodiversity concerns, however,
+intentional fish stocking is still increasing globally
+(Kolar and Lodge, 2000). In naturally fishless waters,
+the effects of non-indigenous fish may be especially
+pronounced and such introductions have been correlated
+with declines of a variety of invertebrates and
+amphibians indigenous to those systems (Stoddard,
+1987; Fisher and Shaffer, 1996; Gamradt and Kats,
+1996; Parker et al., 1996; Englund, 1999; Knapp and
+Matthews, 2000; Hamer et al., 2002). Although the impacts
+of fish on natural systems often seem apparent in
+surveys, correlative field studies do not establish a causal
+relationship for population declines. Stronger evidence
+is usually needed to convince policy makers and resource
+managers that fish introductions are responsible
+for losses of native species. We present here a replicated
+experiment designed to quantify effects of a widely introduced
+fish on a species of fairy shrimp, which are
+typical of many fishless wetlands worldwide.
+The western mosquitofish, Gambusia affinis, is a small
+fish native to the southeastern United States. In the past
+century this species, and its congener, the eastern mosquitofish,
+Gambusia holbrooki, have been stocked in
+both permanent and temporary waters throughout the
+world for mosquito control (Duryea et al., 1996;
+Swanson et al., 1996). Mosquitofish have a variety of
+biological attributes typical of successful invaders and
+have expanded their range to include a diversity of
+habitats worldwide (Courtney and Meffe, 1989; Englund,
+1999; Hamer et al., 2002). Mosquitofish are opportunistic
+omnivores; in addition to preying on
+mosquito larvae, their diet includes algae, crustaceans,
+insects, and vertebrates, including amphibian larvae and
+small fishes (see review in Swanson et al., 1996). Mosquitofish
+attack most potential prey encountered; prey
+preference may be due to a variety of factors including
+fish size and the size, abundance and activity of potential
+prey (Linden and Cech, 1990; Swanson et al., 1996).
+Introduced mosquitofish can substantially reduce zooplankton
+populations and shift size frequencies of remaining
+populations through selective predation on
+larger individuals (Hurlbert and Mulla, 1981). Although
+such results provide empirical evidence of zooplankton
+vulnerability to mosquitofish, no one has shown whether
+mosquitofish reduce abundance of anostracans when
+zooplankton and other invertebrates are present.
+The order Anostraca is one of four primitive orders
+of phyllopodous branchiopods that are found only in
+continental waters (Dodson and Frey, 2001; Smith,
+2001). Due to the large size of most species, anostracans
+are among the most conspicuous of the specialized invertebrate
+fauna characteristic of fishless wetlands
+(Banarescu, 1990; Eng et al., 1990; King et al., 1996;
+Simovich, 1998). Anostracans occur on every continent
+and many oceanic islands (Belk and Brtek, 1995; Brtek
+and Mura, 2000). At present 27 genera are known to
+inhabit temporary pools, and seasonally fluctuating,
+permanent lakes and ponds (Belk, 1981; Belk and Brtek,
+1995; Brtek and Mura, 2000). They are found in such
+varied habitats as astatic waters in river floodplains, rice
+fields, rock and prairie pools, and deep mountain lakes
+(Eder et al., 1997; Brtek and Mura, 2000; Mura and
+Takami, 2000; Mura, 2001; Smith, 2001). Some species
+are often extremely abundant in waters where found,
+while other species are typically rare (Eng et al., 1990).
+Species also exhibit clear differences in timing of
+seasonal occurrence (Eder et al., 1997). They are rarely
+present in waters with carnivorous fishes (Kerfoot and
+Lynch, 1987; Smith, 2001). Genera frequently exhibit a
+substantial degree of speciation and endemism at the
+local and regional level (Keeley and Zedler, 1998; Smith,
+2001). In the past, documentation of branchiopod distributions
+has been fragmentary in much of the world,
+but surveys of the fishless wetlands in which they are
+found have greatly increased in recent years (Eder et al.,
+1997; Mura and Takami, 2000; Naganawa and Orgiljanova,
+2000). A survey of publications listed in the
+BIOSIS database shows the description of 4 new genera
+and 12 new species in the last 10 years (Fugate, 1993;
+Thiery and Fugate, 1994; Vekhoff, 1998; Belk and Fugate,
+2000; Brtek and Mura, 2000; Naganawa and Orgiljanova,
+2000; Sanoamuang et al., 2000; Rogers and
+Fugate, 2001; Timms, 2001; Naganawa and Zagas,
+2002; Obregon-Barboza et al., 2002).
+We tested the effect of the mosquitofish on a fairy
+shrimp, the California linderiella, Linderiella occidentalis,
+in a replicated field study using six experimental
+ponds. L. occidentalis is one of nine anostracan species
+endemic to California vernal pools (Eriksen and Belk,
+1999). L. occidentalis frequently co-occurs in pool
+complexes with three fairy shrimp protected under the
+Endangered Species Act: Branchinecta lynchi (threatened),
+B. conservatio (endangered), and B. longiantenna
+(endangered) (Eng et al., 1990; Federal Register, 1994;
+Helm, 1998; Eriksen and Belk, 1999). L. occidentalis is
+similar in behavior to these and other anostracans, and
+so may serve as a suitable indicator of G. affinis effects
+on other fairy shrimp species.
+Fairy shrimp and other phyllopods are not considered
+important in the diets of fish because they generally
+occur in bodies of water that do not naturally support
+fish (Smith, 2001). Likewise, fish predation has seldom
+been considered a factor in their persistence (Eng et al.,
+1990; King et al., 1996; but see Federal Register, 1994).
+Fishless waters including vernal pools, however, have
+been considered potential mosquito breeding sources
+and possible public health hazards (Bohart and Washino,
+1978; Wright, 1991; Federal Register, 1994; Duryea
+et al., 1996). In the United States, mosquito control
+practices have included stocking mosquitofish in fishless
+wetlands, including vernal and woodland pools (Federal
+Register, 1994; Duryea et al., 1996). Fish may also be
+washed into these wetlands from permanent waters
+during floods (Smith, 2001).
+Mosquitofish have been suggested as possible factors
+in the declines of vernal pool fauna in California
+(Shaffer et al., 1993) where surveys suggested an inverse
+relationship between presence of vernal pool species and
+introduced vertebrate predators, including mosquitofish.
+However, because the various introduced predators often
+co-occurred in ponds, the authors were not able to
+calculate an unconfounded correlation between mosquitofish
+and vernal pool species. The survey results
+indicated a need to complete manipulative experiments
+to test whether mosquitofish presence alone might
+lead to changes in species diversity in vernal pool
+communities.
+To our knowledge mosquitofish effects on fairy
+shrimp have not been quantified in a controlled and
+replicated experiment. We were asked to help resolve
+questions about the effect of mosquitofish on native
+vernal pools species (personal communication, Peter
+Ghormley, North Salinas Valley Mosquito Abatement
+District). In addition to testing whether mosquitofish
+reduced fairy shrimp survival, we also tested their effects
+on the total invertebrate community. We supplemented
+the field experiment with laboratory experiments to help
+identify an explanatory mechanism for field results.
+
+xmethods
+2.1. Field experiment
+We conducted the field study in six 3.05 m6.1 m
+rectangular ponds located at the White Slough Mosquitofish
+Rearing Facility near Lodi, San Joaquin
+County, California. The ponds were arranged in one
+row of six ponds. To intersperse treatments (Hurlbert,
+1984) we alternated treatment and control ponds after
+randomly selecting the treatment for pond 1. We lined
+each pond with polyethylene sheeting and placed soil
+over the lining. Ponds sloped gradually at one end to a
+maximum depth of approximately 60 cm. Each pond
+was surrounded by a fence of aluminum flashing that
+extended approximately 20 cm below the soil surface
+and was 30 cm high. The flashing served as a deterrent
+to non-native crayfish and small terrestrial animals;
+however, the ponds were open to large terrestrial vertebrates,
+to birds, and to colonization by flying aquatic
+insects. In December 1997, the ponds were filled with
+untreated well water. Frequent rains and a back up
+float-valve irrigation system maintained water levels
+throughout the experiment. Pond basins lacked vegetation
+and remained turbid for the duration of the
+experiment.
+On December 30, we inoculated all experimental
+ponds with 1.2 L of concentrated pond water containing
+zooplankton from roadside ditches and temporary pools
+in vernal pool habitat. We collected zooplankton from
+locations without fairy shrimp. We added additional
+inoculations of concentrated temporary pool zooplankton
+on January 24 (1.6 L) and January 30 (1.2 L).
+On each date, collections from source ponds were
+pooled before being equally distributed among all experimental
+ponds.
+We collected L. occidentalis from roadside ditches
+and vernal pools in southern Sacramento and San Joaquin
+Counties, California. We obtained mosquitofish
+from fish rearing ponds at the mosquitofish rearing facility.
+On January 24, 1998, we stocked each experimental
+pond with 300 L. occidentalis (total length:
+mean¼9.64 mm, SD¼0.44). We added 12 adult mosquitofish,
+including at least 2 males, (total length:
+mean¼34.33 mm, SD¼3.78) to each of three (treatment)
+ponds. Our use of 12 fish is within the density
+range that might be added to pools where fairy shrimp
+occur. California mosquito control districts often stock
+mosquitofish at a rate of 0.56–1.68 kg/ha in lakes,
+streams and marshes (Downs, 1991), which would provide
+an experimental pond density of 7–22 fish.
+We added 250 additional L. occidentalis (total length:
+mean¼6.82 mm, SD¼1.61) to each pond on January
+31, and a final 50 L. occidentalis on February 12. L.
+occidentalis in our ponds had a maximum density of 129/
+m3. Densities of fairy shrimp in natural pools vary
+widely; surveys of vernal pools with L. occidentalis
+provide estimated densities of 9–300,000/m3 (King,
+Simovich and Brusca, unpublished data). Anostraca
+have an annual life cycle and many species, including L.
+occidentalis, produce only resting eggs, or cysts, that
+hatch when pool substrates are re-hydrated with the
+return of seasonal rains (Smith, 2001), so successive
+additions of fairy shrimp simulated natural variation in
+egg hatch that occurs as pools fill.
+On March 3, we seined each pond 3 times with a 3.2
+mm mesh seine to count the L. occidentalis before they
+began to senesce. We also captured and counted surviving
+fish. We did not detect any mosquitofish recruitment
+during the period of the experiment, and all
+but 2 adult fish survived.
+On March 5, we sampled ponds for aquatic insects
+using a rectangular handnet frame (24.5 cm17.5 cm)
+fitted with 0.35 mm mesh silk netting. We drew the
+net along the subsurface for 1 m so that the top 1 cm
+(approx.) of substrate was sampled, along with the
+overlying water. We collected a sweep from each of three
+sides of each pond, pooled the sweep contents for each
+pond, placed them in 70% alcohol, and transported
+them to the lab where the insects in each sample were
+counted.We recorded insect biomass after drying insects
+in an oven at 55 C until at stable weight (measured to
+0.0001 g).
+We collected zooplankton samples with the same net
+used for insects. We made five 1 m draws through the
+water, two at and three below the water surface. Each
+tow was drawn from a different area of the pond and
+these areas were consistent for all ponds. Zooplankton
+tow samples were pooled for each pond. In the lab we
+standardized each zooplankton sample volume at 50 ml,
+then counted zooplankton (P1/2 mm total length) in five
+1.0 ml subsamples to determine averages per unit volume
+for analysis.
+We performed an arcsin-square-root transformation
+on the proportion of L. occidentalis surviving, then used
+analysis of variance (ANOVA) to test the primary hypothesis
+that mosquitofish affected fairy shrimp survival
+(Scheiner, 1993). We also compared data for other invertebrates
+from treatment and control ponds. We log
+transformed the invertebrate data (total insect numbers,
+total insect biomass, and total zooplankton numbers)
+then performed a MANOVA to determine mosquitofish
+effects on these response variables. This analysis protects
+the experimental error rate while allowing detection of
+interactions among variables (Scheiner, 1993). We performed
+analyses with the JMP IN 3.2.6 statistical
+package (Sall and Lehman, 1996).
+2.2. Lab experiments
+We conducted feeding trials to test mosquitofish
+preference for L. occidentalis versus alternative prey
+species (Daphnia, mosquito larvae, copepods and corixids).
+The laboratory experiments were conducted in
+20.8 L aquaria that were opaque on three sides and
+coated on the fourth side with one-way mirrored film.
+The tanks were equipped with a plastic divider to separate
+species before testing and were lit from above with
+15 W fluorescent lights. The tanks had 1.5 cm deep
+gravel substrates and were filled with spring water at
+room temperature. Each tank contained one plastic
+plant to provide cover.
+We collected mosquitofish from White Slough fish
+rearing ponds, then held them in a 75.7 L aquarium
+filled with aerated spring water. Fish were fed ad-lib one
+to two times daily (Tetra GuppyMin tropical flakes).We
+obtained mosquito larvae from mosquito abatement
+district facilities. We collected other invertebrates from
+temporary pools in vernal pool habitat.
+We conducted six trials for each prey combination. In
+each trial, we placed a fish in an aquarium on one side of
+the divider and 15 L. occidentalis plus 15 alternate prey
+on the other side of the divider. After an acclimation
+period of one hour, we removed the divider, and the fish
+were allowed to feed until 30 minutes passed or half the
+prey were consumed. We recorded the number of attacks
+and predation events during each trial.
+We conducted initial feeding preference trials in 1998.
+All organisms were housed under ambient light conditions
+in the lab. Fish were not fed during the 12 h prior
+to lab experiments. We used only adult female fish that
+were not visibly pregnant; each fish was used only once.
+We compared mosquitofish preference for L. occidentalis
+with preference for Daphnia, copepods, and mosquito
+larvae (4th instar Ochlerotatus dorsalis). Size
+measurements for fish and invertebrates are given in
+Table 1. The total number of prey consumed per trial
+was low, so in spring 1999 we performed additional
+trials with fish that were starved longer.
+In 1999, all organisms were held under a 12 h light/12 h
+dark light cycle at 20.5 C. Fish were not fed for 24 h prior
+to lab experiments. Set up of experimental aquaria was
+the same as in 1998. We conducted tests comparing
+mosquitofish preference for L. occidentalis with Daphnia,
+mosquito larvae (4th instar Culex tarsalis), and corixids.
+We compared mosquitofish preference for L. occidentalis
+to preference for corixids because corixids were abundant
+in vernal pools in the spring of 1999. We were unable to
+locate sufficient copepods for our 1999 trials. Mean sizes
+of L. occidentalis were smaller than in 1998, while mean
+sizes of fish and Daphnia were larger (Table 1).
+For each trial we summed the number of individuals
+eaten and attacked. We analyzed totals using the v2 test
+for goodness of fit (Sokal and Rohlf, 1995). Two trials in
+which the fish neither ate nor attacked either prey were
+excluded from the respective analyses. Total length
+measurements were log transformed before comparison
+of lengths by year.
+
+
+xresults
+3.1. Field experiment
+Mosquitofish significantly reduced L. occidentalis
+numbers in experimental ponds relative to control ponds
+(F1;4 ¼ 12:13; P ¼ 0:0253). In the control ponds, 64%
+(SD¼11.73%) of the fairy shrimp survived, while only
+16.9% (SD¼10.86%) survived in ponds with fish.
+Mosquitofish presence altered pond community
+structure (statistics are presented in Table 2). The mean
+biomass of aquatic insects sampled from ponds with fish
+was 11% of the biomass from control ponds (control
+mean¼0.0188 g, SD¼0.0089; fish mean¼0.0020 g,
+SD¼0.0015). Fish reduced the mean abundance of
+aquatic insects (Chironomidae, Corixidae, Coleoptera
+and Notonectidae) in samples by 87% (control mean¼
+160.00, SD¼174.85; fish mean¼20.33, SD¼13.01).
+Chironomids comprised 85% of the insects collected in
+substrate samples and total insect abundance reflected
+the treatment difference in their numbers. Mean abundance
+of zooplankton in samples from fish ponds was
+88.87 (SD¼93.27) while in control pond samples it was
+132.60 (SD¼16.92).
+3.2. Lab experiment
+Feeding trials indicated that mosquitofish readily feed
+on L. occidentalis; however preference results were
+mixed. In the 1998 trials, mosquitofish consumed more
+L. occidentalis than Daphnia (X2
+ð1Þ for goodness of
+fit¼7.538, P < 0:01, Fig. 1A), but consumed more copepods
+than L. occidentalis (X2
+ð1Þ ¼ 10:756, P < 0:005,
+Fig. 1C). We did not detect a difference in mosquitofish
+consumption of L. occidentalis and O. dorsalis
+(X2
+ð1Þ ¼ 1:316, n.s., Fig. 1B). Total attacks (prey either
+eaten or rejected) by mosquitofish indicated no detectable
+difference between number of attacks on L. occidentalis
+versus Daphnia (X2
+ð1Þ ¼ 0:010, n.s., Fig. 1A) and
+L. occidentalis versus O. dorsalis (X2
+ð1Þ ¼ 3:5957, n.s.,
+Fig. 1B). The total number of mosquitofish attacks on
+copepods was significantly higher than the attacks on L.
+occidentalis (X2
+ð1Þ ¼ 73:8409, P < 0:001, Fig. 1C).
+In the 1999 feeding trials, mosquitofish consumed L.
+occidentalis in preference to alternative prey in all three
+trials (L. occidentalis versus C. tarsalis: X2
+ð1Þ for goodness
+of fit¼27.94, P < 0:001, Fig. 1E; L. occidentalis versus
+Daphnia: X2
+ð1Þ ¼ 25:47, P < 0:001, Fig. 1D; L. occidentalis
+versus corixids: X2
+ð1Þ ¼ 36:75, P < 0:001, Fig. 1F). A
+comparison of the total number of attacks by mosquitofish
+indicated that mosquitofish attacked L. occidentalis
+more often than either mosquito larvae (X2
+ð1Þ ¼
+25:09, P < 0:001, Fig. 1E) or corixids (X2
+ð1Þ ¼ 25:14,
+P ¼< 0:001, Fig. 1F), but attacked Daphnia and L. occidentalis
+at indistinguishable rates (X2
+ð1Þ ¼ 2:52, n.s.,
+Fig. 1D). Fish often attacked Daphnia multiple times,
+then rejected the prey.
+
+xdiscussion
+Our results provide empirical evidence that mosquitofish
+can significantly reduce L. occidentalis abundance
+in pool communities. The combination of field and lab
+results strongly suggests that predation is the mechanism
+by which fairy shrimp survivorship was reduced in
+treatment ponds. Results from feeding trials demonstrate
+that mosquitofish feed readily on L. occidentalis
+when there are alternative prey available, but that
+mosquitofish prey preference might be altered by the size
+relationships of available prey and starvation levels of
+fish. Although we cannot rule out the possibility that
+there is simply a year effect in differences in prey preference
+between 1998 and 1999, our interpretation is
+consistent with work by Bence and Murdoch (1986) that
+indicated that mosquitofish prey preference was affected
+by fish size in relation to prey size and fish levels of
+satiation. These lab results are also consistent with the
+overall effect of mosquitofish on other experimental
+pond invertebrates. Our ponds were stocked with zooplankton
+from shallow pools and colonized by insect
+taxa all commonly found co-occurring with anostracans.
+A MANOVA indicated that mosquitofish affected the
+structure of this community. The loss of insect biomass
+between the control and treatment ponds was of greater
+magnitude than the downward trend in insect numbers,
+suggesting that mosquitofish were preying preferentially
+on larger individuals.
+Because mosquitofish are known to be visual predators
+(Swanson et al., 1996), the magnitude of the reduction
+in L. occidentalis abundance was surprising
+given the low number of fish in each pond and the turbid
+condition of the ponds during the experiment. Competition
+is possible, but we think this is an unlikely
+mechanism for reduction in L. occidentalis abundance
+because these fairy shrimp feed primarily on bacteria,
+bits of detritus, algae, and rotifers while mosquitofish
+typically take the largest prey they are capable of consuming
+(Swanson et al., 1996; Smith, 2001) and all fish
+present were adults.
+Our earthen experimental ponds minimized the variation
+in pond size and depth that we would encounter if
+we used natural pools. We were able to standardize not
+only predator densities, but densities of focal prey, giving
+us more statistical power. These model systems allow
+a level of control and rigor that is generally not possible
+in natural systems (Resetarits and Fauth, 1998). The
+realism of experiments conducted in artificial ponds has
+been challenged in the past, primarily as a result of high
+densities of subject taxa used in the experiments (see
+review in Resetarits and Fauth, 1998). However, Resetarits
+and Fauth (1998) found that mesocosm experiments
+could, when properly grounded in natural history,
+successfully make specific predictions about the structure
+and dynamics of natural pool communities.
+We attempted to provide realistic conditions in our
+experiments. L. occidentalis occur in widespread locations
+throughout Californias Central Valley. They have
+been collected from pools ranging in size from 1 m2 to
+40 ha (Eng et al., 1990). Our experimental ponds were
+located within the range of L. occidentalis and were
+exposed to the same weather conditions as local vernal
+pools. Branchiopods generally tolerate wide ranges in
+temperature and pH, in keeping with fluctuating water
+levels in natural pools (Smith, 2001). Our ponds were
+within the depth and temperature ranges in which both
+L. occidentalis and mosquitofish have been found in field
+surveys (Shaffer et al., 1993; Gallagher, 1996; King et al.,
+1996). Although the pH in our experimental ponds
+ranged from 8.7 to 9.9 while surveys by Eng et al. (1990)
+indicated L. occidentalis commonly occurred in poorly
+buffered waters between 6.1 and 8.4 pH, it did not vary
+by treatment (Students t test, df¼4, t¼0.878,
+P ¼ 0:429). L. occidentalis occur in mildly tannic pools
+with grass substrates and in turbid, mud-bottomed
+pools like those we used. Experimental results could
+differ in some pools if vegetative structure provides fairy
+shrimp with refuge from mosquitofish.
+Our initial densities of fairy shrimp were lower than
+the densities of L. occidentalis in many natural pools;
+however, densities were within the range of densities
+encountered in the field (King, Simovich, and Brusca,
+unpublished data). In addition, they are representative
+of densities of other fairy shrimp species observed in a
+variety of California habitats (Leyse, personal observations).
+We introduced mosquitofish to our experimental
+ponds based on standard stocking rates used by mosquito
+control agencies. Our results may underestimate
+fish effects because fish may be stocked at higher densities
+in response to specific situations (Downs, 1991).
+Higher densities may also occur when mosquitofish are
+moved into new waters by floods, when pools do not dry
+completely each year, or when fish breed (see review in
+Swanson et al., 1996).
+We do not mean to suggest that mosquitofish are
+responsible for all known declines in fairy shrimp
+abundance. In numerous areas of the world, loss of astatic
+pool habitat due to land type conversion is recognized
+as the primary threat to Anostraca species
+persistence (Eng et al., 1990; Petrov and Petrov, 1997).
+However, we wish to call attention to a possible threat
+to species diversity in normally fishless wetlands that
+may go unnoticed because knowledge about the aquatic
+invertebrate fauna of these areas is imperfect (Mura,
+2001) and many such wetlands are not characterized by
+the specialized flora typical of Californias vernal pools.
+In California, past mosquito control practices included
+stocking mosquitofish in vernal pools (Federal
+Register, 1994), but a brief survey of ‘‘mosquito and
+vector control district’’ websites indicates that in recent
+years some have modified their practices to protect
+known protected species. However, even where districts
+have modified their practices, fish are still often available
+to the public for stocking. Mosquitofish now occur
+worldwide and some countries may not yet have protected
+endemic and rare species in fishless waters (Petrov
+and Petrov, 1997). In some countries, species are in
+danger of extinction (Maier, 1998; Samraoui, 2002). In
+addition, it is apparent from the recent literature that
+the discovery of new species is expanding (e.g., King et
+al., 1996; Vekhoff, 1998; Belk and Fugate, 2000; Brtek
+and Mura, 2000; Naganawa and Orgiljanova, 2000;
+Sanoamuang et al., 2000; Timms, 2001; Naganawa and
+Zagas, 2002; Obregon-Barboza et al., 2002). Therefore,
+we believe it is important to quantify and publish effects
+of introduced fish on formerly fishless communities.
+More work is needed to determine whether measures
+to control mosquito larvae are needed in such wetlands.
+In California, surveys have indicated that mosquito larvae
+are seldom abundant in vernal pools that have not
+been degraded by humans. Vernal pool surveys conducted
+by King (Federal Register, 1994) indicated that
+mosquitoes bred and developed successfully only in pools
+that were degraded. In non-degraded vernal pools, she
+only found mosquito larvae late in the season. Wright
+(1991) determined that patterns of mosquito occurrence
+in vernal pools suggested that absence or rarity of mosquito
+larvae was likely due to the characteristic vernal
+pool invertebrate fauna with its high abundance of
+predatory crustaceans and aquatic insects. Experimental
+data have also shown that aquatic predators of fishless
+waters, such as notostracans, notonectids and odonate
+nymphs, not only reduce survival of mosquito larvae in
+pools, but also reduce oviposition by adult females (Fry
+et al., 1994; Blaustein et al., 1995; Stav et al., 1999; Stav
+et al., 2000). In some experiments mosquitofish presence
+has made ponds more suitable for mosquito breeding and
+resulted in rapid increases in larval mosquitoes (Hoy
+et al., 1972; Hurlbert and Mulla, 1981).
+Given the rarity and endemism of many Anostraca
+and other crustaceans typical of fishless waters (King
+et al., 1996; Petrov and Petrov, 1997; Maier, 1998; Samraoui,
+2002), a precautionary approach to their conservation
+would be to complete invertebrate surveys of
+wetlands (including nearby habitat where dispersal into
+fishless wetlands is possible) prior to considering mosquitofish
+introductions. Surveys should be conducted
+every few weeks while wetlands hold water because
+different fairy shrimp species hatch at different times.
+Such surveys could reveal both whether mosquitoes are
+a problem and whether anostracans are present, leading
+to more informed management decisions. To complement
+field surveys, we have provided experimental evidence
+that presence of mosquitofish in fishless pools may
+result in significant reductions in anostracan populations.
+The fact that Anostraca rarely occur in waters
+with carnivorous fishes (Smith, 2001) indicates that cyst
+banks do not provide protection against sustained
+mortality of active fairy shrimp due to fish predation.

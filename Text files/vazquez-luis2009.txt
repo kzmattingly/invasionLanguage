@@ -1,0 +1,481 @@
+﻿xabstract
+The spread of the invasive alga Caulerpa racemosa var. cylindracea in shallow-water habitats can present
+different faunal assemblage composition. We compared the amphipod assemblages associated with
+C. racemosa and natural habitats found on shallow-water Mediterranean soft substrata. Four
+vegetated habitats were compared: C. racemosa, Caulerpa prolifera, Cymodocea nodosa and Posidonia
+oceanica with unvegetated substrata. Samples were collected during two sampling periods
+(September 2004 and March 2005). A total of 63 amphipod species were recorded. The results
+showed that the vegetated habitats sampled, including C. racemosa stands, supported a higher
+abundance and species richness of amphipods. Furthermore, the assemblage structure differed
+between the different habitats, while the abundance of some species was significantly different,
+depending on habitat. For example, Microdeutopus obtusatus was favoured by C. racemosa habitat;
+Ampelisca diadema was associated with C. prolifera beds; and Hyale schmidti was more abundant in
+P. oceanica meadows. Habitat invasion by C. racemosa can exert an important influence on biotic
+assemblages, modifying habitat structure and associated fauna.
+
+xintroduction
+Vegetated habitats allow a greater species diversity and abundance
+of individuals than those in unvegetated habitats (Irlandi,
+1994; Sanchez-Jerez et al., 1999), which is usually correlated with
+an increase in habitat complexity (Johnson, 1970; Dean and Connell,
+1987; Taylor and Cole, 1994). Several studies have demonstrated
+that habitat heterogeneity and complexity play an
+important role in influencing the assemblage structure of epibenthic
+marine fauna (Stoner, 1980; Edgar, 1992). The pattern of
+distribution and species richness and abundance of epifauna on
+rocky bottoms are affected by changes in the composition of
+associated macroalgae (Connell, 1972). Therefore, changes in
+habitat structure of vegetated substrates resulting from the invasion
+of species, especially in the case of macroalgae, could affect
+the associated fauna (Wikstro¨m and Kautsky, 2004).
+The number of introduced species outside their natural ranges is
+rapidly increasing, although only a very small fraction of transported
+and introduced species becomes invasive, the ability of these species
+to restructure and, hence, radically change the functioning of
+a recipient habitat is great (Crooks, 2002). Some authors (Vitousek,
+1990; Crooks, 2002) recognize three principal effects of invasive
+species on ecosystems. First, exotics can affect the availability and
+flow of nutrients by altering biogeochemical cycling. Second, invasive
+species can affect the flow of energy through food webs. Third,
+invaders can affect the availability or quality of physical resources in
+the ecosystem (including living space or ‘‘habitat,’’ physical materials,
+sediment, light, or water). For instance, invasive plant species
+that generate big changes in the vegetation of an area are often
+regarded as highly influential ecosystem engineers (see a review in
+Crooks, 2002). In marine environment, the Mediterranean Sea is the
+most heavily invaded region in the world for introduced seaweeds,
+with over 132 invasion events accounting for more than 33% of the
+total number of invasions (Williams and Jennifer, 2007).
+The invasive Caulerpa racemosa (Forsskål) J. Agardh var. cylindracea
+(Sonder) Verlaque, Huisman et Boudouresque (Verlaque
+et al., 2003) (hereafter C. racemosa) has spread extensively
+throughout the Mediterranean during the last few decades,
+invading habitats located in waters having a depth of 0 m to more
+than 60 m (Verlaque et al., 2004; Piazzi et al., 2005). The rapid
+expansion of C. racemosa is an example of how introduced species
+are able to modify Mediterranean habitats, this expansion can be
+explained by its very efficient reproductive strategies, both sexual
+and asexual, unlike those of Caulerpa taxifolia (Panayotidis and
+Zˇ
+uljevicˇ, 2001; Renoncourt and Meinesz, 2002).
+In Mediterranean coastal areas, two seagrass species, Posidonia
+oceanica and Cymodocea nodosa, form meadows on shallow-water
+sandy bottoms (Buia & Mazzella, 1991). However, the two seagrasses
+have a contrasting meadow structure. Posidonia oceanica is
+the largest seagrass species in the Mediterranean, with leaves
+sometimes exceeding 1 m in length (Drew and Jupp, 1976). It forms
+dense meadows (having a shoot density of between 300 and
+1000 shootsm2) with a compact root–rhizome mat and a high leaf
+stratum (having a leaf area index of around 7 m2), while C. nodosa
+forms meadows that have a low leaf stratum and less compact
+rhizome mat (leaf index of 0.4; Rull et al., 1996). Similar to seagrasses,
+the alga Caulerpa prolifera may form dense beds on soft
+bottoms at water depths of between 1 and 20 m, especially in areas
+that are characterised by a low energy environment and considerable
+input of organic matter (Sa´nchez-Moyano, 2004).
+Amphipods are one of the most important groups of invertebrates
+associated with vegetated habitats and play an important
+role as trophic resources for fish populations (Sanchez-Jerez et al.,
+1999; Stål et al., 2007). Amphipods respond to habitat alteration
+and can therefore be used as an indicator of environmental impacts
+on vegetated habitats (Bellan-Santini, 1980; Virnstein, 1987; Conradi
+et al., 1997; Sanchez-Jerez et al., 2000; Va´zquez-Luis et al.,
+2008, 2009).
+Since the occurrence of Caulerpa racemosa along Mediterranean
+coastal areas was first recorded, several studies concerning the
+ecology of this species have been undertaken (see Ruitton et al.,
+2005; Cavas et al., 2006). It is known that fauna associated with
+exotic algae can differ from natives (Wikstro¨m and Kautsky, 2004;
+Schmidt and Scheibling, 2007). However, information on changes
+in the associated fauna brought about by this invasive C. racemosa is
+scarce (Argyrou et al., 1999; Piazzi and Balata, 2008; Va´zquez-Luis
+et al., 2008, 2009). In soft bottoms, C. racemosa grows on sandy
+substrates, either unvegetated areas or covering dead matte of
+Posidonia oceanica, competing with other macrophytes for the
+space. The aims of this study were to compare the structure of
+amphipod assemblages associated with C. racemosa stand on soft
+bottom with those associated with unvegetated habitat and habitat
+vegetated by native species. The hypothesis tested was that the
+assemblages associated with C. racemosa stand on soft bottom may
+be different from unvegetated habitats and from habitats vegetated
+by native macroalgae and seagrasses.
+
+xmethods
+The studywas carried out along the Cape of Santa Pola (Alicante,
+south-east Spain) on a shallow sandy sea bed. Caulerpa racemosa
+was first recorded off Alicante in 2002, where it occurred on bare
+soft substrata and dead matte of Posidonia oceanica at a site located
+some 10 km north of our study area (Pena-Martı´n et al., 2003). It
+now covers large areas of rocky bottoms, bare sandy/muddy
+substratum, dead matte of P. oceanica, and also grows mixed with
+Cymodocea nodosa and Caulerpa prolifera within a wide depth
+range, showing a patchy distribution
+Five habitats occurring in shallow waters within the 2–5 m
+depth range, were sampled: Caulerpa racemosa stands, Caulerpa
+prolifera stands, Cymodocea nodosa meadows, Posidonia oceanica
+meadows (P. oceanica) and unvegetated substratum (bare sand).
+Several sampling sites, separated by hundreds of metres, were
+randomly selected across the study area. All sites had similar
+environmental conditions with respect to wave exposure and light
+(Ferrandis-Ballester and Bartolome´ -Pina, 1985). Three sampling
+sites were allocated within each of the five habitat types, which
+were sampled in September 2004 (average water temperature
+¼ 27.5 C), which coincides with the period of maximum
+vegetative growth of C. racemosa (Piazzi and Cinelli, 1999). Additionally,
+the stations were sampled again in March 2005 (water
+temperature¼ 13 C), which coincides with the period of minimum
+vegetative growth. At each station, three random replicate samples
+were collected by SCUBA diving, using a 20 cm 20 cm quadrat, by
+scraping the enclosed area using a trowel (Edgar, 1990). A 300 mm
+mesh bag was attached to the quadrat to avoid loss of the motile
+fauna. Replicate samples were separated by tens of metres. The
+collected samples were preserved in 4% formalin. Each sample was
+then sieved in sea-water through a 500 mm mesh, to retain the
+detritus and fauna. In the laboratory, the amphipods were separated,
+identified, and counted. Macrophytes were sorted and
+identified to the lowest possible taxon, and the detritus separated.
+The macrophytes and detritus were dried for 24 h at 80 C and
+weighed. Habitat structure was characterised using three attributes:
+species richness of macrophytes, biomass of each species (g),
+and quantity of detritus (g).
+Two different statistical approaches were used to test for
+potential differences in the amphipod assemblage between the
+different habitats, based on the null hypothesis of no difference in
+the amphipod assemblage composition between the five habitat
+types and across the two sampling periods.
+Plant biomass, detritus biomass, number of species and total
+abundance of amphipod fauna, and abundance of the most abundant
+amphipod species were analysed using Analysis of Variance
+(ANOVA). To test whether the abundance of amphipods differed
+significantly across habitats and time we used a three-factor
+ANOVA, which incorporated the following factors: (1) ‘time of
+sampling’ (random) with two levels: September 2004 and March
+2005; and (2) ‘habitat’ (fixed and orthogonal) with five levels:
+Caulerpa racemosa, Caulerpa prolifera, Cymodocea nodosa, Posidonia
+oceanica and sand; and ‘site’ (random and nested in ‘time of
+sampling’ and ‘habitat’) with three random sampling sites. Prior to
+carrying out the ANOVA, the data were tested for heterogeneity of
+variance using Cochran’s C-test. Data were OX þ1 transformed in
+cases where the variances were significantly different at P¼ 0.05,
+and log(Xþ 1) transformed where the variance was still heterogeneous.
+Where variance remained heterogeneous, untransformed
+data were analysed, as ANOVA is a robust statistical test and is
+relatively unaffected by heterogeneity of variances, particularly in
+balanced experiments (Underwood, 1997). However, in such cases
+special care was taken in the interpretation of results. Furthermore,
+in such cases, to reduce type I error, the level of significance was
+reduced to P< 0.01. When ANOVA indicated a significant difference
+for a given factor, the source of difference was identified using
+Student–Newman–Keul (SNK) tests (Underwood, 1981, 1997).
+Non-parametric multidimensional scaling (MDS) was used as
+the ordination method for exploring differences in the amphipod
+assemblage composition (Clarke andWarwick,1994). The similarity
+matrix, whichwas calculated using the Bray–Curtis index and using
+double square transformed data, was used to construct bivariate
+MDS plots. The percentage similarities (SIMPER) procedure was
+then used to calculate the contribution of each species to the
+dissimilarity between sampling time and habitats (PRIMER
+software; Clarke, 1993). A permutational multivariate ANOVA
+(PERMANOVA software; Anderson, 2001) was used to test differences
+in amphipod species composition following the same
+experimental design than the univariate analysis; after the
+permutational test a pair wise test was carried out to test differences
+among groups.
+
+xresults
+A total of 18 algal taxa and two seagrasses were identified. The
+highest species richness was recorded from habitats colonized by
+Caulerpa racemosa in both sampling periods (Fig. 1). During
+September, habitats invaded by C. racemosa were characterised by
+a low number of associated algae (9 species plus C. racemosa), but
+a higher species richness of macrophytes was recorded in March
+(16 species plus C. racemosa) (for further details see Va´zquez-Luis
+et al., 2009).
+Values of plant biomass recorded from the different habitats
+showed the same pattern, with lower values in March for all
+habitats, except Caulerpa prolifera stands, for which the opposite
+trend was observed. ANOVA indicated a significant difference for
+plant biomass between habitats (Ha, P< 0.05; Table 1 and Fig. 1);
+this difference was due to significantly higher biomass recorded for
+Posidonia oceanica meadows. In Caulerpa racemosa invaded areas,
+this species contributed in September with a high biomass value
+(62.3%). However, during the coldest period the biomass was only
+7.62% of total, the most important habitat features being dead
+matte of P. oceanica and the red seaweed Jania rubens. Mean shoot
+density values for P. oceanica meadows were 15254.6 shootsm2
+in September and 1147.22 4.89 shootsm2 in March.
+The amount of detritus present in the different habitats was
+highest in March. Significant differences for this attribute were
+recorded between habitats (Ha, P < 0.05; Table 1 and Fig. 1). The
+highest value of detritus biomass was recorded from Caulerpa
+prolifera beds during both sampling periods (830.02 g dwm2 in
+September and 1123.85 g dwm2 in March).
+A total of 63 amphipod species, belonging to 20 families, were
+recorded (Table 2). Species richness was significantly higher in
+September (Ti  Ha, P <0.05; Table 4 and Fig. 2a), with the highest
+values recorded from the Posidonia oceanica meadows. Total
+abundance was similar between habitats in March, but there were
+significant differences in September, with the highest value
+(4886.11 indm2) recorded from P. oceanica meadows (Ti Ha,
+P< 0.05; Table 4 and Fig. 2b). The lowest abundance values were
+recorded in September from Caulerpa prolifera stands and unvegetated
+bottoms (50 19.54 indm2 and 50 21.65 indm2
+respectively). Of the two Caulerpa habitat types, Caulerpa racemosa
+had the highest abundance values, which were similar for both
+sampling periods (1577 indm2 in September and 1672 indm2 in
+March). On the other hand, C. prolifera stands had the lowest
+abundance values in both sampling periods, with the lowest values
+recorded in September (Table 2, Fig. 2b).
+The two-dimensional MDS plot for showed segregation of
+sampling stations mainly by habitat; two main groups can be
+distinguished: the first corresponding to Posidonia oceanica
+meadows and the second corresponding to Caulerpa racemosa and
+Cymodocea nodosa habitats, while the remaining two habitats
+(Caulerpa prolifera stands and bare sand) were the most dissimilar
+to each other and to the each of the other three habitat types
+(Fig. 3). The multivariate response of amphipod assemblage
+showed significant differences among habitats regarding sampling
+times (PERMANOVA, Ti Ha, P< 0.01, Table 3). After the pair wise
+test, in September P. oceanica was different to the rest of the
+habitats. Nevertheless in March C. prolifera, C. nodosa and P. oceanica
+were similar with differences with sand and C. racemosa. The
+species that contributed most to the dissimilarity between
+amphipod assemblages were Caprella grandimana, Stenothoe monoculoides,
+Microdeutopus obtusatus, Apocorophium acutum, Ampithoe
+ramondi, Ampelisca diadema, Hyale schmidti, Ericthonius
+brasiliensis, Leptocheirus guttatus and Elasmopus brasiliensis. These
+species comprised between 60.09% and 85.74% of the total
+amphipod abundance in vegetated habitats.
+The ten most abundant amphipods had different species
+abundance values with respect to the macrophyte habitats from
+which they were recorded. The abundance values of Caprella
+grandimana and Stenothoe monoculoides were significant higher in
+Caulerpa racemosa stands in March (Ti Ha, P < 0.01; Table 4 and
+Fig. 4a, b). Microdeutopus obtusatus was significant higher at C.
+racemosa (Ha, P< 0.01, Table 4, Fig. 4c). Apocorophium acutum was
+more abundant in C. racemosa stands in September but no significant
+differences were found (Table 4 and Fig. 4d). The abundance of
+Ampithoe ramondi was significant higher in habitats invaded by C.
+racemosa and in Cymodocea nodosa meadows (Ha, P <0.01; Table 4
+and Fig. 4e). Only one species, Ampelisca diadema, had a significant
+higher abundance in Caulerpa prolifera stands (Ha, P< 0.01, Table 4,
+Fig. 4f). On the other hand, several species seemed to be more
+abundant in Posidonia oceanica meadows; for example, the abundance
+of Hyale schmidti is significant higher in this habitat (Ha,
+P< 0.01; Table 4 and Fig. 4g). In the case of Ericthonius brasiliensis
+these differences were detected only in September being more
+abundant in P. oceanica meadows (Ti Ha, P< 0.05, Table 4,
+Fig. 4h). Finally, Leptocheirus guttatus and Elasmopus brasiliensis had
+the same abundance pattern as Ericthonius brasiliensis, although no
+significant differences were found, possibly to the highest variability
+of their abundance among sites (Table 4, Fig. 4i, f).
+
+xdiscussion
+Complex natural habitats, such as Posidonia oceanica meadows,
+hold the highest amphipod abundance and species richness.
+However, the new habitat generated by Caulerpa racemosa supports
+a diverse and abundant amphipod assemblage compared with
+other natural habitats. Overall, the amphipod assemblage structure
+differed between the different vegetated habitats; this aspect can
+be attributed to amphipod habitat preferences, as has been shown
+by other authors who have demonstrated active selection of
+substratum (Stoner, 1980; Roberts and Poore, 2005), but also to
+differential predation among habitats (Orth, 1992).
+Caulerpa racemosa could affect the benthic communities in two
+different ways. First, adding a complex structure where none
+previously occurred (e.g. if this alga colonises bare substrates), such
+as our study case, or replacing other macrophytes. There exist many
+studies showing higher epifaunal abundance on vegetation
+compared to bare substrates (Heck and Orth, 1980; Stoner, 1980;
+Hicks, 1982; Edgar et al., 1994; Sanchez-Jerez et al., 1999). The
+presence of vegetation enhances the heterogeneity and complexity
+of habitat available for the epifauna, increasing the abundance and
+species richness of amphipods compared to unvegetated habitats.
+In our study area we have not detected C. racemosa replacing other
+macrophytes in soft bottoms, but it is important to remark that C.
+racemosa in our study area was present in an incipient stage.
+Nevertheless, the replacements of native communities or competition
+with them have been detected in other studies, for instance,
+a study carried out by Dumay et al. (2002) reveals that Caulerpa
+taxifolia and C. racemosa in competition with Posidonia oceanica
+seagrass beds affect the mean leaf longevity, leaf primary production
+and the sheath primary production of the seagrass. All the
+changes on habitat structure could affect the chemical and physical
+properties of the macrophytes and, in consequence, the amphipod
+preferences.
+The heterogeneous and complex habitat structures of Posidonia
+oceanica and Cymodocea nodosa meadows exert a variable influence
+on the abundance of amphipods, depending mainly on temporal
+changes in bed structure (Sanchez-Jerez et al., 1999). In our study, P.
+oceanica meadows are the most important habitat for amphipods in
+summer. Of the habitats found on soft sediment bottoms in the
+shallow waters of the Mediterranean, P. oceanica meadows are
+considered to be the most structurally complex (Pe´ re` s and Picard,
+1964; Duarte, 2000). On the other hand, C. nodosa habitat did not
+contribute to such high amphipod abundance during summer but
+its importance in winter equalled that of P. oceanica habitat.
+Although C. nodosa meadows do not have a high structural
+complexity, they supported a high diversity of invertebrates;
+consequently the importance of this seagrass habitat, where
+present on Mediterranean shallow sandy bottoms should not be
+undermined, especially during winter. Perhaps, for some faunal
+groups, high structural complexity of P. oceanica meadows renders
+them too compact and consequently there is less available habitat
+compared with less structurally complex meadows, such as those
+formed by C. nodosa (Sanchez-Jerez et al., 1999).
+The Caulerpa prolifera and Caulerpa racemosa habitats supported
+very different amphipod abundances. Caulerpa racemosa was the
+second most important habitat after Posidonia oceanica beds, while
+abundance values recorded from C. prolifera stands were relatively
+low. Nonetheless, other authors note the importance of C. prolifera
+beds as an important habitat for invertebrates (Sa´nchez-Moyano
+et al., 2007). It has been demonstrated by several studies that
+habitat patchiness influences total epifaunal abundance, in general,
+epifaunal abundance is highest in patchy or very patchy habitats
+compared to continuous habitats, while amphipods are one of the
+main groups that respond to this pattern of distribution (see
+a review in Bostro¨m et al., 2006). In our study, C. racemosa represents
+an initial stage of invasion, which means that it is patchily
+distributed and surrounded by seagrass. The observed high
+amphipod abundance recorded from our study area may be related
+to the high structural heterogeneity of C. racemosa habitat, while
+the alternative host plant habitats are affecting the amphipod
+assemblage (Poore, 2005). On the other hand, C. prolifera stands are
+continuous, compared with those of C. racemosa, and this is
+reflected in the recorded amphipod abundance.
+Regarding to species richness, seagrass habitat keeps the highest
+values. We note a very high species richness for Posidonia oceanica
+meadows; 33 species in total. Other studies have reported 16, 29
+and 16 amphipod species (Sanchez-Jerez et al., 1999, 2000; Borg
+et al., 2006, respectively with this habitat). In the case of Cymodocea
+nodosa meadows, values of species richness recorded during the
+present study are similar to those from other studies (18 species,
+Sfriso et al., 2001; 19 species, Sanchez-Jerez et al., 1999). Nevertheless,
+in the Mediterranean, Caulerpa racemosa meadows on soft
+substrata support a relatively diverse amphipod assemblage, being
+higher than C. racemosa growing on rocky substrate (Va´zquez-Luis
+et al., 2008a). This may be related to the reduced structural
+complexity of the latter habitat types. However, Caulerpa prolifera
+has similar species richness to other invasive Caulerpa species,
+Caulerpa taxifolia. Bellan-Santini (1995) reported 7 species from
+sampling carried out in September and 11 from sampling in March;
+these values are similar to those obtained for C. prolifera stands in
+our study area (6 in September and 18 in March). Sa´nchez-Moyano
+et al. (2007) reported up to 17 amphipod species from C. prolifera
+beds, which is also similar to our values recorded in March, and C.
+racemosa seems to support richer assemblages than C. prolifera. This
+could be due because of the macrophyte associated with the
+invasive specie while C. prolifera is present in a dense and continuous
+meadow with lower habitat complexity.
+Temporal differences across the sampled habitats can be attributed
+to changes in habitat complexity (e.g. seasonal changes) and
+alteration of habitat heterogeneity (increase of epiphytes and
+associated algae). Seagrasses exhibit important seasonal changes in
+leaf index, leaf biomass and epiphytes, which ultimately affect the
+associated fauna (Stoner and Lewis,1985). Both Caulerpa species are
+algae having tropical and subtropical affinities and are strongly
+affected by seasonal fluctuations ofwater temperature. Both species
+show a considerable decrease of frond biomass during winter and
+remarkable growth when temperatures increase (Piazzi and Cinelli,
+1999). These temporal changes should affect the population
+dynamics of the amphipod fauna, which would explain a proportion
+of the temporal variability found among sampling times. Nonetheless,
+appropriate temporal replication is needed in order to test
+seasonal and intrannual patterns of amphipod community.
+Nevertheless, the abundance of potential food items could result
+from a balance between refuge against predation and the availability
+of favourable space for living (Orth, 1992). Therefore, it may be
+necessary to consider the effects of predation to explain the changes
+of amphipod abundance across habitats detected on our study.
+Experimental studies carried out by Moksnes et al. (2008) revealed
+that seagrass communities are dominated by strong top-down
+processes that regulate the biomass and assemblage structure of
+both macroalgae and mobile fauna. In a manipulative experiment
+involving treatment with a caged goby predator, size-specific
+predation reduced the abundance of adult gammarids by 93%
+(Moksnes et al., 2008). Caine (1991) also detected a substantial
+reduction of amphipod abundance due to predation. Predation
+pressure by fishes in temperate shallow environment is very high
+during warm seasons, and all habitats, except Posidonia oceanica
+meadows, had reduced amphipod abundance during summer.
+Perhaps predation pressure in P. oceanica meadows is lower as
+a result of the high complexity of the leaf stratum (Orth, 1992).
+One remarkable property of the two Caulerpa species is the
+accumulation of detritus, which persisted throughout the year. In
+both species, the amount of detritus was higher than in seagrass
+meadows, but was especially high in Caulerpa prolifera stands,
+which had up to 6.5 times more detritus than Caulerpa racemosa
+beds stands. Detritus plays a very important role as a trophic
+resource for marine invertebrates, being one of the main trophic
+pathways of the marine ecosystem (Valiela, 1995) and is one of the
+most important features of habitat structure in vegetated habitats
+(Allesina et al., 2005). Therefore, any modification of the detritus
+compartment can affect the overall trophic web, because it could
+lead to a change in the faunal assemblage structure resulting from
+modification of trophic guilds due to different trophic requirements.
+The detritus compartment could be supporting the high
+abundance of amphipods in both C. prolifera and C. racemosa stands,
+but perhaps the detritus also serves to make the invertebrates less
+available to predators (e.g. fish), unless the latter are more
+specialized for foraging, such as Mullus surmuletus, which was
+frequently seen feeding in C. racemosa stands on soft bottoms
+(personal observation).
+It has been demonstrated that amphipods can actively choose
+substrata and show high habitat fidelity (Nelson, 1979; Stoner,
+1980; Roberts and Poore, 2005; Poore and Hill, 2006). Further to
+this, our study shows that some species have a higher abundance in
+specific habitats. For example, some of the species recorded in our
+study, such as Caprella grandimana, Stenothoe monoculoides, Microdeutopus
+obtusatus and Apocorophium acutum, were associated with
+Caulerpa racemosa. We think that these species favor C. racemosa
+because of two main factors that are related to the stolon structure
+and associated algae: reduction of hydrodynamism and increased
+sedimentation. Caprella grandimana is very common in algae that
+inhabit the intertidal and shallowwaters along the Strait of Gibraltar
+and other Mediterranean localities in the vicinity of our study
+area (Guerra-Garcı´a, personal communication) The same applies to
+S. monoculoides, which is usually associated with photophilic algae
+in infralittoral zone (Ruffo, 1998). Microdeutopus obtusatus, is
+generally associated with Ulva, Posidonia oceanica meadows and
+bare fine sand habitats (Ruffo, 1982), but has also recently been
+recorded from sediments (Roberts and Poore, 2005) and C. racemosa
+stands on rocky habitats (Va´zquez-Luis et al., 2008a). In our study
+area, A. acutum was very abundant in C. racemosa stands in
+September, while this species seems to prefer environments having
+a low hydrodynamic regime and high sedimentation rate (Conradi
+et al.,1997; Guerra-Garcı´a and Garcı´a-Go´ mez, 2005). That Ampelisca
+diadema is closely associated with Caulerpa prolifera, and even with
+C. racemosa may be related to the increase of fine sediment fraction
+trapped. This species appears normallyat sandyandmuddybottoms
+(Ruffo, 1982), and possibly the sediment accumulation by Caulerpa
+species generates the perfect habitat in within to live. This species
+has been reported by Sa´nchez-Moyano et al. (2007) as being typical
+of C. prolifera meadows. Ampithoe ramondi has a preference for
+native seaweeds and seagrasses (Ruffo, 1982; Viejo, 1999; Roberts
+and Poore, 2005; Va´zquez-Luis et al., 2008a). We have detected, as
+Sa´nchez-Moyano et al. (2001), the displacement of this species
+resulting from the presence of C. prolifera. All ampithoids are
+herbivorous, so the value of the algae or their epiphytes as food could
+be important factors in the distribution. Caulerpa species produce
+metabolites against epiphytes, competition and predators and
+studies carried out by Gollan andWright (2006) demonstrated that
+Caulerpa taxifolia is low preference food for the ampithoid Cymadusa
+setosa. Other important species, such as Hyale schmidti, Ericthonius
+brasiliensis, Leptocheirus guttatus and Elasmopus brasiliensis are
+highly abundant at P. oceanica meadows, a result consistent with
+other authors (Sanchez-Jerez et al., 1999, 2000; Borg et al., 2006).
+In conclusion, our study shows that Caulerpa racemosa stands
+present on soft substrata present different amphipod assemblage
+than other Mediterranean habitats on soft substrate. The observed
+abundance and species richness of amphipods were relatively high.
+It is important to note that stands of Caulerpa prolifera, which is
+considered a native species of the Mediterranean Sea, had relatively
+low amphipod abundance and species richness compared with the
+invasive C. racemosa. Since C. racemosa has spread very rapidly and
+extensively during the last 17 years (Klein and Verlaque, 2008), one
+predicts considerable changes, in the near future, in the composition
+of the faunal assemblages associated with soft-bottom habitats,
+given the expected colonisation of large areas of the sea bed by
+this species. Such a change, which may occur alongside gradual
+regression of seagrass meadows, may contribute to a major change
+in the structure of the Mediterranean benthic assemblages.

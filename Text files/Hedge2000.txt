@@ -1,0 +1,592 @@
+xabstract
+
+Spartina anglica is an exotic perennial grass that can rapidly colonise the intertidal zone of temperate
+estuaries and lagoons. Consequently, there is considerable concern about its impact on estuarine flora and fauna.
+This study provides the first investigation of ecological impacts by S. anglica in Australia. The objective was to
+investigate the impacts of S. anglica on benthic macroinvertebrate communities inhabiting mudflat and native
+saltmarsh habitats at Little Swanport estuary, Tasmania. The null hypothesis that species richness and species
+abundance of benthic macroinvertebrates in exotic S. anglica marsh does not differ from adjacent native saltmarsh
+and mudflat habitats was tested. Eighteen species and 3716 macroinvertebrates were collected from 60 intertidal
+core samples in three habitats. Species richness, total abundance of invertebrates, crustacean abundance and
+mollusc abundance of mudflat communities were significantly (P < 0.05) lower when compared to those inhabiting
+adjacent S. anglica marsh and native saltmarsh. However, species richness and total abundance of invertebrates
+of native saltmarsh and S. anglica marsh did not differ significantly. Ordination of macroinvertebrate data
+clearly separated mudflat sites from vegetated sites but showed remarkable similarity between exotic and native
+vegetated sites.
+
+
+xintroduction
+During the last decade, introduced marine species have
+received considerable attention on a global scale
+(Carlton 1989, 1994; Leppakoski 1993; Nolan 1993;
+1996a; 1996b; Hewitt & Martin 1996). One of the
+major concerns for ecologists has been the effect of
+these invaders on existing indigenous habitats and
+communities (Carlton 1989, 1994). Although many
+introduced marine species appear to have relatively
+benign effects on existing habitats (Nolan 1993), the
+invasion of others can lead to dramatic environmental
+change. Spartina anglica provides a good example of
+an introduced marine species that can cause dramatic
+environmental change to indigenous habitats.
+Spartina anglica, commonly referred to as rice grass,
+is an emergent saltmarsh grass that colonises the intertidal
+zone of temperate estuaries and waterways.
+Typically, S. anglica infestations form dense aggregations
+of culms, rhizomes and roots that promote sediment
+accretion, eventually leading to the formation of
+intertidal terraces or saltmarsh islands. The vast
+majority of infestations have been found to occur in
+intertidal mudflat habitat, although it also occurs in
+native saltmarsh, seagrass, mangrove and intertidal seagrass
+habitats (Thompson 1991; Blood 1995; Hedge
+1997). Prostrate or stout species, such as Salicornia
+quinqueflora and Samolus repens or white mangrove
+seedlings, Avicennia marina, appear to be particularly
+prone to competitive exclusion by S. anglica (Hedge,
+1999, personal observation).
+Mudflat, saltmarsh, seagrass and mangrove habitats
+are valued for the roles they play in estuarine processes
+and the provision of habitat for mammals, birds, fish
+and many invertebrates (Adam 1985, 1990, 1995;
+Saenger 1994, 1995; Inglis 1995; Morrisey 1995).
+These habitats also provide important nursery and
+feeding habitats for economically important fish species
+(Pollard 1981; Saenger 1994, 1995; Connolly et al.
+1997). Not surprisingly, there has been considerable
+concern and speculation about environmental change
+associated with the progressive invasion of S. anglica
+in temperate Australia (Bell 1995; Bishop 1995; Blood
+1995; Bridgewater 1995; Fotheringham et al. 1995;
+Gibbs & Phillips 1995; Simpson 1995; Wells 1995;
+Williamson 1995).
+There have been no comprehensive studies examining
+the ecological impact of S. anglica to Australiaís
+estuaries. Most studies have focused on its distribution
+(Pringle 1975, 1988 [Condition and distribution of
+Spartina anglica (rice grass) in selected estuaries and
+inlets along the Bass Strait coast, Tasmania.
+Unpublished report for Department of Lands, Parks
+and Wildlife, Hobart, Tasmania, Australia], 1993), oron controlling the spread of S. anglica (Wells et al. 1991
+[Herbicide trials for the control of Spartina Anglica (rice
+grass) at Port Sorell, Tasmania. Internal unpublished
+report, Department of Parks, Wildlife and Heritage,
+Hobart, Tasmania, Australia]; Bishop 1995; Pritchard
+1995). Furthermore, the ecology of habitats threatened
+by S. anglica invasion in temperate Australia, particularly
+mudflat and saltmarsh, has received little scientific
+attention and is poorly understood (Adam 1990,
+1995; Robertson 1994; Saenger 1994; Fairweather &
+Quinn 1995).
+In some cases, the environmental change caused by
+S. anglica invasion is clearly visible, providing a relatively
+sound basis on which to speculate about the
+impacts associated with invasion. For example, at Duck
+Bay and Little Swanport estuary in Tasmania, the
+spread of S. anglica has transformed intertidal mud-
+flats to S. anglica saltmarsh and to a lesser extent displaced
+native saltmarsh species (Hedge 1997a). In
+Anderson Inlet, Victoria, bird observers note that the
+vast majority of wader birds avoid S. anglica (Simpson
+1995). The authors have also observed wader birds
+avoiding infestations in Tasmania. In other cases, however,
+the ecological effects of S. anglica invasion may
+be cryptic or difficult to detect. For example, changes
+to benthic macroinvertebrate communities of mudflats
+are difficult to determine from field observations. Reise
+(1985) points out that benthic macroinvertebrates are
+an integral component of mudflat habitats and their
+biomass is considerably greater than in other tidal flat
+communities.
+Studies by Jackson (Long & Mason 1983) on
+benthic macroinvertebrate communities in the River
+Sour, UK, found species richness to be higher in mud-
+flat communities than in adjacent S. anglica marsh.
+Similar studies by Luiting et al. (1997) examining
+impacts of a closely related species, Spartina alterniflora,
+in Willapa Bay, WA, USA, found significant differences
+between mudflat and vegetated communities; however,
+strong seasonal effects on community structure were
+apparent in each habitat type. To the contrary, a brief
+pilot study by Hedge in the Little Swanport estuary,
+Tasmania (1997: Ecology, impact and control of rice
+grass (Spartina anglica) in the Little Swanport estuary.
+Unpublished technical report submitted to Fishcare,
+Australia and the Rice Grass Advisory Group, Hobart)
+found benthic macroinvertebrate communities associated
+with S. anglica marsh to have higher species richness
+and total abundance of invertebrates when
+compared with adjacent mudflat communities.
+Spartina anglica invasion of native saltmarsh may also
+lead to changes in the structure of resident invertebrate
+communities. Capehart & Hackney (1989) examined
+the effect of three saltmarsh plant structures on
+densities of the Carolina saltmarsh clam, Polymesoda
+caroliniana. Results showed that invertebrate densities
+were inversely related to root and rhizome density, suggesting
+that dense root and rhizome aggregrations may
+inhibit burrowing animals.
+The aim of the study was to examine the effect of
+S. anglica invasion on species richness and species
+abundance of benthic macroinvertebrate communities
+in the Little Swanport estuary, Tasmania. The null
+hypothesis was that species richness and species abundance
+of benthic macroinvertebrates in exotic Spartina
+anglica marsh do not differ significantly when compared with adjacent mudflat and native saltmarsh habitats.
+The study also provided new ecological information on
+benthic macroinvertebrate communities inhabiting
+mudflat and saltmarsh habitat in a temperate Australian
+estuary.
+Data on environmental variables were collected to
+provide additional information to account for observed
+community differences between habitats. For example,
+variations in underground biomass (Osenga & Coull
+1983; Capehart & Hackney 1989), sediment particle
+size distribution (Whitlatch 1977, 1981; Edgar & Shaw
+1995; Mannino & Montagna 1997) and organic content
+of sediments (Whitlatch 1981; Lana & Guiss 1991;
+Mannino & Montagna 1997) have been shown to influence
+the structure of benthic macroinvertebrate communities.
+Furthermore, invasion of mudflat habitat by
+Spartina spp. has been shown to alter pre-existing pH
+(Chung 1990), salinity (Chung 1990) and oxygen
+levels (Osenga & Coull 1983; Lana & Guiss 1991).
+Collection of environmental data from a poorly understood
+habitat also provided a comparative basis for
+future studies in this area.
+Temporal and spatial variation in the structure of
+benthic macroinvertebrate communities inhabiting
+soft-bottom habitats are well documented (Whitlatch
+1977; Rainer 1981; Thrush 1991; Mannino &
+Montagna 1997). Ideally, impact studies on benthic
+communities should be designed to accommodate
+interannual, interseasonal and spatial variation.
+Nonetheless, a snapshot study, such as this one, can
+provide valuable insight into environmental change
+associated with an invasive species.
+
+
+
+xmethods
+
+The Little Swanport estuary is situated on Tasmaniaís
+east coast (148∞00' east, 42∞20' south) (Fig. 1). The
+estuary has a single narrow outlet approximately 150
+m wide at high tide but considerably narrower at low
+tide. Tidal exchange between the estuary and adjacent
+marine waters is diurnal with an amplitude of 0.7ñ1 m
+(Mitchell 1988). Salinity in the estuary varies considerably
+and is affected strongly by rainfall events
+(Mitchell 1988). The Little Swanport river is the main
+freshwater input to the estuary with mean annual discharge
+rates between 1971 and 1981 of approximately
+72 188 m3 (Mitchell 1988). Approximate annual rainfall
+in the region is 500ñ625 mm with most rain occurring
+in winter and spring. Major habitat types in the
+estuary include mudflat, saltmarsh, sandflat, seagrass,
+reef and rocky shores. In the upper reaches of the
+estuary, saltmarsh and mudflat habitats dominate the
+intertidal zone. The majority of S. anglica occurs in the To investigate the effect of S. anglica invasion on
+macroinvertebrate infaunal communities, 10 sites were
+randomly selected from three regions of the S. anglica
+infestation within the estuary (Fig. 1). Regions were
+selected on the basis that they contained a mosaic of
+mudflat, native saltmarsh and S. anglica marsh habitats
+at the same tidal height. This stratified random
+sampling approach was adopted to represent any
+mesoscale spatial variation (distances greater than
+hundreds of metres) that may occur within different
+areas of infestation. The number of sites was distributed
+evenly between each of the three regions. Core
+samples in vegetated habitats were taken approximately
+2 m in from the leading edge of saltmarsh. Native saltmarsh
+flora was dominated by Sarcocornia quinqueflora
+with sparse tussocks of Juncus krausii.
+Between 22 and 25 August 1997, macroinvertebrate
+infaunal communities were sampled by taking two sediment
+cores (100 ◊ 150 mm diameter) from each of the
+three habitat types at each of the 10 sites. Raffaelli &
+Hawkins (1996) point out that the diameter of the core
+should be bigger than the largest animal. Results from
+a pilot project in Little Swanport estuary (Hedge, 1997,
+unpublished data) show that polychaete worms may be
+up to 80 mm long; therefore the core size used in this
+study (150 mm diameter) was considered suitable.
+Sediment samples were sieved in the field through
+1 mm mesh to separate animals from roots/rhizomes,
+debris and sediments. Sieve contents were bagged and
+fixed, immediately after sieving, in 10% buffered formalin
+stained with rose bengal. In the laboratory, fixed
+invertebrates were systematically separated from debris
+in a sorting tray and preserved in 70% alcohol containing
+2% glycerol. Invertebrates were classified to
+species level where possible using a dissecting microscope. A smaller 100 ◊ 45 mm diameter core sample, located
+approximately 5ñ10 cm from each invertebrate core
+sample, was taken to determine sediment particle-size
+distribution and the proportion of organic materials and
+root/rhizome biomass in the sediments. To reduce processing
+effort, the paired cores (45 mm diameter) were
+amalgamated to provide one composite core per habitat
+type at each site. Edgar & Shaw (1993) and Edgar
+et al. (1994) have also amalgamated replicate core
+samples when determining measures of environmental
+variables in benthic habitats. Sediments were dried at
+60∞C for 3 days before sieving. Live roots and rhizomes
+were removed and dried separately at 60∞C for 3 days.
+Composite core samples from each habitat type at
+each site were subsampled to determine particle-size istribution and organic content of sediments.
+Sediment retained on sieve sizes ñ0.5, 0, 0.5, 1, 1.5,
+2, 2.5, 3, 3.5, 4 and >4 phi was weighed and recorded
+as a percentage of the total weight to determine
+particle-size distribution. Approximately 30 g of dried
+sediment was ashed at 550∞C for 30 min to determine
+the organic content of sediments. The differences in
+weight between before and after ashing (organic content)
+were expressed as a percentage of the total weight.
+Salinity (ppt), pH and redox (mV) measurements of
+sediment water were collected from all invertebrate core
+locations. Salinity was measured with a WTW LF 320 conductivity meter (WissenschaftlichñTechnische
+Werkstatten, Weilheim, Germany) fitted with a WTW
+Tetracon 325 probe; pH with a WTW pH 320 pH
+meter fitted with a WTW SenTix 97T probe; and redox
+with the pH meter fitted with a ACTIVON AEP511
+Redox-Probe (Activon Scientific Products, Brighton,
+Victoria, Australia). All measurements were taken 5 cm
+below the sediment surface.Analyses of invertebrate data were based on species
+richness and species abundance values. Species richness
+has been regarded as a practical and meaningful
+way to measure species diversity that also captures
+much of the essence of biodiversity (Margules & Usher
+1981; Gaston 1996). A variety of univariate and multivariate
+techniques were used to examine invertebrate
+and environmental data. Non-parametric tests were
+used where data failed the normality test (SigmaStat
+Analyses Package; Jandel, San Rafael, CA, USA).
+The KruskalñWallis one way ANOVA on ranks test was
+used to determine differences in species richness and
+species abundance among habitats. Spearmanís rank
+order correlation was used to investigate the relationship
+between environmental and community variables.
+Non-parametric multivariate analyses are an effective
+method with which to investigate changes in the
+community structure of marine benthic invertebrates
+(Clarke 1993). The PATN computer program
+(Manufacturer?, City?, Country?) was used to examine
+ecological relationships between habitats, sites and
+cores (Belbin 1991; Clarke 1993). Association between
+cores and sites, based on the BrayñCurtis measure of
+dissimilarity, was determined by constructing an association
+matrix (ASO). When community and environmental
+data were combined, data were standardised
+using the ëaverage rankí option. The ASO matrix of
+similarity was used to: (i) classify the sites or cores into
+groups by hierarchical polythetic agglomerative clustering
+and (ii) map the interrelationships between sites
+and cores in an ordination.
+Inter relationships between sites and cores were
+mapped in an ordination using semistrong hybrid
+(SSH) multidimensional scaling (MDS). Data generated
+by this technique were expressed in three dimensions.
+However, only two of the three dimensions were
+chosen to map interrelationships. This is a commonly
+used and acceptable technique provided that the stress
+value of the ordination is sufficiently low (Clarke 1993).
+Ordination was accepted if stress values were less than
+0.15. The stress value is a measure of goodness of fit
+for the data; values less than 0.15 are considered
+acceptable (Belbin 1991; Clarke 1993; Wong et al.
+1993).
+A Monte Carlo test (MCAO) was used to identify
+taxa and environmental variables significantly correlated
+with the ordination space. Results of ordination
+analyses were displayed as a scatterplot. Similarity
+between cores and sites is proportional to the distance
+between points (i.e. the smaller the distance between
+points the greater their similarity). Taxa and environmental
+variables considered to be significantly correlated
+with the ordination space, based on results of
+the MCAO test, were plotted as vectors in the same
+ordination space.
+
+
+xresults
+
+
+
+A total of 18 species and 3716 individuals was collected
+from 60 intertidal core samples in three habitats. Ten
+species and 272 individuals were collected from mud-
+flat habitat which was dominated by the annelid,
+Nephtys australiensis, the amphipod, Paracorophium sp.,
+and the molluscs, Salinator fragilis and Arthritica semen.
+Thirteen species and 1824 individuals were collected
+from native saltmarsh. In S. anglica marsh, 16 species
+and 1620 individuals were collected. Both S. anglica
+marsh and native saltmarsh were dominated by the
+molluscs, Hydrococcus brazieri and Tatea rufilabris, and
+the amphipod Eorchestia palustris. Salinator fragilis was
+only found in mudflat habitats; conversely, Salinator solida
+was only found in vegetated habitat. The annelid,
+Boccardia sp., was common in native saltmarsh but rare
+in S. anglica and mudflat habitats. Table 1 provides a list
+of invertebrate species abundances in each habitat type.Mean ± SE values of environmental variables for each
+habitat sites are detailed in Table 2. Mean temperature
+and salinity of sediment water over the sampling period
+was similar for all habitat types. Redox values of sediment
+pore water differed significantly between habitats
+(ANOVA F2,57 = 19.8, P < 0.001). StudentñNeumannñ
+Keulls (SNK) comparisons showed that all habitats
+were significantly different when compared with each
+other.
+Differences in the organic content of sediments
+between sites were not considered to be significant
+(KruskalñWallis ANOVA H2 = 1.59, P = 0.452). Differences
+in the biomass of roots and rhizomes between
+vegetated sites were not considered to be significant
+(Studentís t-test t18 = 1.75, P = 0.098). However, the
+power of the performed test (0.2604) is below the
+desired power (0.8) to exclude the possibility that a type
+II error has occurred. Modal sediment size varied considerably
+between sites but not between habitats.
+However, at sites 5ñ7, modal sediment size of native saltmarsh sediments (phi 4) was smaller than mudflat
+(phi 2.5) and S. anglica marsh (modal phi 2.5ñ3) Total abundance of invertebrates per core sample differed
+significantly between habitats (KruskalñWallis
+ANOVA H2 = 34.5, P < 0.001), with that of mudflats significantly
+lower (11) than in native saltmarsh (53) and
+S. anglica marsh (44), which did not differ (Table 1).
+Species richness per core sample differed significantly
+between habitats (KruskalñWallis ANOVA F2,57 = 12.5,
+P < 0.001), with that of mudflat habitat (3.25) lower
+than in S. anglica marsh (5.85) and native saltmarsh
+(5.65), which did not differ (Table 1).
+Mollusc abundance per core sample and crustacean
+abundance per core both differed significantly between
+habitats (KruskalñWallis ANOVA H2 = 35.3, P < 0.001)
+and KruskalñWallis SNK comparisons showed that
+mollusc and crustacean abundance in mudflat habitat
+were lower than in native saltmarsh and S. anglica
+marsh. Native saltmarsh and S. anglica marsh were not
+different in either mollusc or crustacean abundance.
+Polychaete abundance per core between habitats did
+not differ significantly (KruskalñWallis ANOVA H2 =
+2.92, P = 0.233).
+Total abundance of invertebrates was significantly
+correlated (Spearman rank order, P < 0.05) with the
+redox values, organic matter and silt content of sediments.
+Biomass of roots and rhizomes and total abundance
+of invertebrates were also significantly correlated
+(Spearman rank order P < 0.001). Species richness was
+significantly correlated with biomass (Spearman rank
+order P < 0.001), but not with organic matter, redox
+values or silt content of the sediments.Ordination (SSH MDS, three dimension, stress 0.113)
+of sites based on abundance of 18 taxa clearly separated
+mudflat communities (upper right sector of ordination
+space) from vegetated communities (Fig. 2).
+Sites from native saltmarsh and S. anglica marsh were
+generally grouped together on the left sector of the ordination
+space. Furthermore, vegetated sites were tightly
+grouped relative to mudflat sites. Ordination (SSH
+MDS, three dimension, stress = 0.143) of core
+samples also clearly separated mudflat from vegetated
+communities (ordination not shown)
+ Ordination (SSH MDS, three dimension, stress =
+0.145) of sites based on taxa and environmental
+characteristics separated mudflat sites from vegetated
+sites (Fig. 3). Although there is dissimilarity between
+vegetated sites, distinct differences between native saltmarsh
+and S. anglica sites were not apparent. Sites in
+Luttrells Bay (sites 8ñ10) showed some degree of
+similarity forming two main groups in the right sector
+of the ordination space: vegetated sites and mudflats.
+Seven taxa and five environmental characteristics were
+significantly (P < 0.01) correlated with the ordination
+space on the basis of a Monte Carlo test (Table 3).
+Figure 4 illustrates these variables as vectors in the same
+ordination space. Generally, S. fragilis and relatively
+high pH values are associated with mudflat habitat,
+while S. solida, H. brazieri, E. palustris, T. rufilabris, biomass
+and relatively high redox values are associated
+with vegetated habitats. Ordination (SSH MDS, three
+dimension, stress = 0.149) of core samples based on
+18 benthic invertebrate taxa and environmental characteristics
+also separated mudflat from vegetated sites
+(ordination not shown).
+xdiscussion
+
+With the exception of a pilot project conducted by
+Hedge (1997, unpublished data), this study provides
+the first detailed and comprehensive investigation of
+S. anglica impacts to intertidal fauna in Australia.
+Studies examining the impact of exotic Spartina on
+intertidal fauna in the River Sour, England (Jackson
+1985) and Willapa Bay, WA, USA (Luiting et al. 1997)
+have been based on a two-way comparison between
+invaded mudflats and adjacent uncolonised mudflats.
+The design of this study, a three-way comparison of
+mudflat, native saltmarsh and S. anglica marsh habitat,
+appears to be unique.
+Results indicate that during the winter in the Little
+Swanport estuary, species richness and species abundance
+of benthic macroinvertebrate communities associated
+with S. anglica marsh are significantly different
+when compared to that of adjacent mudflats. However,
+differences in species diversity and total abundance of
+invertebrates between S. anglica marsh and native saltmarsh
+were not statistically significant. Univariate
+analyses show that species richness, total abundance of
+invertebrates, crustacean abundance and mollusc abundance
+were all significantly higher in native saltmarsh
+and S. anglica marsh than in adjacent mudflats.
+Furthermore, multivariate analyses (ordination and
+cluster analyses) based on benthic macroinvertebrate
+taxa and habitat variables consistently separated sites
+and cores into two main groups: those representing
+mudflat habitat and those representing vegetated habitat.
+Thus, the results of this study provide evidence to
+suggest that the null hypothesis should be rejected in
+that species richness and species abundance of benthic
+macroinvertebrates in exotic S. anglica marsh does
+differ significantly when compared with adjacent
+uninvaded mudflat habitats. However, there are
+elements of the habitat for which this may not hold true.
+The study found that there were no significant differences
+between communities of native saltmarsh and
+exotic S. anglica.
+The most abundant and widespread species inhabiting
+mudflat was N. australiensis, with this polychaete
+present in 95% of mudflat core samples. Other subdominant
+species, such as Paracorophium sp., S. fragilis
+and A. semen were patchy in their distribution,
+occurring in less than 45% of core samples. Salinator
+fragilis, a widespread estuarine mollusc (Edgar 1997),
+was the only species to occur exclusively in mudflat
+habitat, all other mudflat species inhabited S. anglica
+marsh. Macroinvertebrate assemblages of native saltmarsh
+and S. anglica marsh showed a remarkable
+degree of similarity, particularly with regard to abundance
+of dominant species (e.g. H. brazieri, T. rufilabris,
+E. palustris and N. australiensis). However, the spionid
+polychaete, Boccardia sp. was more abundant in native
+saltmarsh than in S. anglica marsh.
+Differences in benthic macroinvertebrate assemblages
+between habitat types may be attributed to a
+variety of factors. When S. anglica invades mudflat or
+native saltmarsh, subterranean habitat structure is
+altered. In the case of mudflats, the presence of dense
+networks of culms, rhizomes and roots after Spartina
+invasion increases habitat complexity and heterogeneity
+(Lana & Guiss 1991; Flynn et al. 1996).
+Spartina invasion may also alter habitat complexity and
+heterogeneity of native saltmarshes (Capehart &
+Hackney 1989). However, our results did not find
+significant differences in species richness and total
+abundance of invertebrates between vegetated habitats.
+Begon et al. (1996) point out that increases in spatial heterogeneity may correspond with increases in species
+richness and effects on species abundance (Pickett &
+Cadenasso 1995; Begon et al. 1996).
+Spartina roots and rhizomes can actively contribute
+to sediment oxygenation, encouraging faunal colonisation
+(Teal & Wieser 1966; Osenga & Coull 1983;
+Lana & Guiss 1991). Results of this study show
+that sediment redox values were significantly higher
+(P < 0.05) in S. anglica marsh than adjacent mudflats
+and that redox and total abundance of invertebrates
+were positively correlated (rs = 0.39, P = 0.01). Thus,
+higher species richness and invertebrate abundance of
+macrofaunal communities inhabiting S. anglica marsh,
+relative to those inhabiting mudflats, may be attributed
+to increases in habitat complexity, spatial heterogeneity
+and sediment oxygenation resulting from S. anglica
+invasion.
+Other factors that may influence macrofaunal assemblages
+are resource availability and predation pressure.
+S. anglica is a highly productive saltmarsh plant (Long
+& Mason 1983; Adam 1990). Although studies in the
+temperate northern hemisphere show that only a small
+percentage of its biomass is grazed by herbivores (Long
+& Mason 1983), its contribution to the detrital food
+web is substantial and may be directly linked to
+increased secondary production. Chung (1990) and
+Doody (1990) claim that mudflat and estuarine productivity
+is increased after S. anglica invasion.
+Furthermore, Lana & Guiss (1991) point out that
+S. alterniflora detritus promotes the abundance of
+macroinvertebrates. Results of our study show that
+species abundances of benthic macroinvertebrates
+inhabiting S. anglica marsh are almost six times that
+of adjacent mudflats. Furthermore, total abundance
+of invertebrates was positively correlated (rs = 0.69,
+P < 0.001) with the root and rhizome biomass of
+vegetated sites.
+Spartina anglica marsh may also provide a refuge for
+resident fauna by providing protection from abiotic
+stresses or predation. For example, the dense aggregation
+of S. anglica culms may provide shade and reduce
+wind velocities thus mitigating the effects of desiccation
+on epibenthic fauna. Fish and wader birds are prominent
+predators on mudflats. Minello & Zimmerman
+(1983) examined the effects of simulated Spartina on
+predation rates of estuarine fish. They found that vegetative
+structure reduced predation rates of pinfish,
+Lagodon rhomboides, and Atlantic croaker, Micropogonias
+undulatus. Furthermore, resident and migratory wader
+birds exert heavy predation pressure on mudflat
+macroinvertebrate communities (Long & Mason 1983;
+Reise 1985; Inglis 1995). Reports from Victoria,
+Australia (Simpson 1995) and England (Evans 1986;
+Goss-Custard & Moser 1990) state that wader birds
+avoid S. anglica infested mudflats. Thus, invasion of
+mudflats by S. anglica may promote species abundance
+and species richness of macroinvertebrates by providing a refuge from abiotic stresses and reducing predation
+pressure.In the preceding summer (February 1996) Hedge
+(1997, unpublished) conducted a similar study on
+macroinvertebrate communities of S. anglica marsh and
+adjacent mudflats in a nearby region of the Little
+Swanport estuary. Species richness and total abundance
+of invertebrates were significantly higher in
+S. anglica marsh. Furthermore, multivariate analyses
+based on macroinvertebrate taxa of core samples produced
+two main groupings: cores taken from mudflats
+and cores taken from S. anglica marsh. There are
+notable differences in macrofaunal assemblages
+reported by Hedge (1997, unpublished) and the
+assemblages reported in this study. Seasonal and
+temporal fluctuations in benthic macrofaunal assemblages
+are well documented (Reise 1985; Lana &
+Guiss 1991; Thrush 1991; Edgar & Shaw 1993;
+Mannino & Montagna 1997; Wilson et al. 1999).
+Higher species richness is likely to have been influenced
+by increased sampling effort (increased number of core
+samples).
+Research in the UK (Long & Mason 1983; Jackson
+et al. 1985), the USA (Luiting et al. 1997) and in Brazil
+(Lana & Guiss 1991) have compared the structure of
+benthic invertebrate communities inhabiting mudflat
+and adjacent vegetated communities. Results from
+these studies indicate that there are significant differences
+in species richness and species abundance
+between habitat types. However, differences are
+variable between habitats and appear to be strongly
+influenced by seasonality. Furthermore, when comparing
+studies of these different regions, the responses
+of resident faunal assemblages to invasion are inconsistent.
+In conclusion, the results of this study provide
+evidence suggesting that S. anglica invasion of mudflat
+habitat in Little Swanport estuary may significantly
+promote a more species rich and abundant macrobenthos.
+Of notable interest, however, was that
+communities associated with S. anglica marsh are
+remarkably similiar to those associated with native saltmarsh
+occurring at a similar tidal height. In the light
+of these results, it is tempting to speculate that S. anglica
+invasion may not necessarily constitute a major ecological
+threat to Australiaís temperate estuaries.
+However, the results of this study should be considered
+to be a snapshot only, and due consideration should
+be made for the temporal and spatial variation that
+characterizes benthic communities of soft-bottom habitats.
+Furthermore, this study has only examined a relatively
+small component of a complex estuarine system.
+Unfortunately, there are no other known empirical
+studies examining the effects of S. anglica invasion on
+the flora or fauna of Australiaís temperate estuaries.

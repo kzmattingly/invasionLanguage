@@ -1,0 +1,597 @@
+xabstract
+The common carp Cyprinus carpio, a worldwide introduced benthivorous fi sh, has been implicated
+in the degradation of native environments through initiation of a shift to a phytoplankton-dominated turbid state,
+which is associated with dramatic biodiversity loss. This study combined surveys of ponds containing either low
+total biomass of small-sized carp or high densities of large-sized carp with an enclosure/exclosure experiment, in
+order to quantify the direct (trophic) and indirect (via habitat deterioration) impacts of carp on pond communities.
+High-density ponds supported substantially lower biodiversity and were more turbid than low-density ponds. The
+subsequent fi eld experiment examined the effects of carp presence/absence and of clear-water versus moderately
+turbid conditions mediated by carp on the survival to metamorphosis of larval anurans Pelobates fuscus and Hyla
+arborea, on Zygoptera and Anisoptera densities, and on the biomass of submerged macrophytes. The presence of
+enclosed one-year old carp resulted in the complete elimination of larval anurans and the absence of Odonata. The
+effects of the habitat conditions were not signifi cant, apart from better survival of P. fuscus in the moderately turbid
+carp exclosures than in clear water. Submerged plants were more abundant in clear-water than in turbid treatments,
+with a negligible effect of enclosures/exclosures. These results suggest that carp predation and related effects may
+be primarily responsible for animal diversity loss in invaded communities, as they may act prior to, or independent
+of, the ecosystem switch to a turbid phase.
+
+xintroduction
+Common carp Cyprinus carpio is one of the most
+widely distributed fi sh species in the world. Carp is believed
+to be native to Eastern Europe and central Asia,
+but it has been successfully introduced into all continents
+except Antarctica, both into natural waters and
+as a cultivated species (Welcomme 1988). High tolerance
+to environmental stress and omnivorous feeding
+habits make carp not only an attractive subject of commercial
+aquaculture, but also highly invasive on many
+continents. Non-native carp have been implicated in
+the degradation of aquatic ecosystems and are considered
+to belong to the most ecologically harmful freshwater
+invasive species (e.g. Crivelli 1983, Zambrano et
+al. 1999, Koehn 2003). In eutrophic shallow lakes and
+ponds, after reaching a critical density, carp may mediate
+a transition from clear-water, macrophyte-dominated
+conditions to a turbid state with abundant phytoplankton
+(Scheffer 1990, Zambrano et al. 2001). The
+carp’s bottom feeding mode, suctioning food organisms
+together with the sediment, and ejecting the unsuitable
+material (Lammens & Hoogenboezem 1991),
+may result in the uprooting or ingestion of submerged
+aquatic vegetation, elevated nutrient and turbidity levels
+(Cline et al. 1994, Zambrano et al. 1999, Miller &
+Crowl 2006) and the physical resuspension of settled
+algal cells from the sediment (Roozen et al. 2007). In
+addition, carp may excrete large quantities of bioavailable
+nutrients to the water column, thus accelerating
+algal production (Qin & Threlked 1990, Richardson
+et al. 1990, Matsuzaki et al. 2007). The carp is able to
+attain large body size, and its impact on aquatic communities
+seems to depend largely on traits associated
+with individual size (Sidorkewicj et al. 1998, Parkos et
+al. 2003, Driver et al. 2005).
+Despite the uncertainty of the interplay of causal
+mechanisms, a turbid state under carp impact is
+clearly characterized by a dramatic loss of biodiversity
+(reviewed in Chumchal & Drenner 2004, Bajer
+et al. 2009). The impact of non-native carp on aquatic
+communities has been assumed to be primarily
+through habitat modifi cation (e.g. Welcomme 1988,
+Driver et al. 2005, Matsuzaki et al. 2007). Acting as
+an ‘ecosystem engineer’ (Jones et al. 1994, Matsuzaki
+et al. 2007), an effi cient modifi er of abiotic factors,
+carp may affect habitat conditions without strong
+trophic interactions with other community members.
+The alternative pathway of carp impact on biodiversity
+is through direct trophic effects via predation or
+competition (Weber & Brown 2009). Zooplankton and
+benthic invertebrate assemblages are likely to be regulated
+by carp predation (Richardson et al. 1990, Wilcox
+& Hornbach 1991, Zambrano & Hinojosa 1999,
+Miller & Crowl 2006). However, little is known on the
+mechanisms of carp impact on the broader spectrum
+of aquatic macrozoa. The carp has a diverse diet, but
+with its slow approach to food and lacking oral teeth,
+it is perceived as not morphologically adapted to hunt
+after mobile, evasive prey (Sibbing 1988, Lammens &
+Hoogenboezem 1991). Earlier studies have experimentally
+separated effects related to bioturbation from the
+remaining carp effects (Qin & Threlkeld 1990, Matsuzaki
+et al. 2007), but no research has attempted to ascertain
+the relative magnitudes of top-down (through
+predation or competition) and bottom-up (via environment
+alteration reducing nutrient availability to higher
+trophic levels) effects of carp on animal communities
+other than benthic invertebrates (for a review see Weber
+& Brown 2009). Such insights may greatly help in
+understanding and predicting community processes in
+carp-invaded systems.
+Here I have used a cross-scale approach, combining
+the results of pond surveys performed as background
+research on a large spatial scale with manipulative
+data from small-scale fi eld experiments. The study
+was conducted at semi-natural carp ponds, stocked
+separately with fi sh age (size)-classes, where previous
+research had established strong effects of carp agecohorts
+on abundance of amphibians and aquatic macroinvertebrates
+(Kloskowski 2010, Kloskowski et al
+2010). The surveys showed that ponds with relatively
+low total biomass of young-of-the-year (small-sized)
+carp, which supported comparatively diverse macroinvertebrate
+and amphibian communities, had clear-water
+macrophyte-rich conditions in comparison to highdensity
+ponds stocked with older (larger) carp, which
+were more turbid. Subsequently, an in situ enclosure/
+exclosure experiment was performed to separate the
+direct (trophic) and indirect (via habitat deterioration)
+effects of carp on the survival to metamorphosis of
+larval anurans. The effects of the presence/absence of
+one-year old carp in fi eld cages were crossed with the
+effects of habitat conditions mediated by carp at different
+densities and individual size. In the same experiment
+carp effects on Odonata, the most abundant
+macroinvertebrate group in the cages, and the abundance
+of submersed macrophytes were investigated.
+
+xmethods
+Pond surveys
+Background data on carp impact on pond communities were
+collected at extensively managed carp ponds in SE Poland,
+where invertebrate and amphibian communities were investigated
+over different years between 2002–2007 (Kloskowski
+2009, Kloskowski 2010, Kloskowski et al. 2010). Traditional
+carp monoculture provides simple aquatic systems in which
+fi sh are the major structuring factor of the community (cf. Haas
+et al. 2007, Kloskowski 2009). The man-made, drainable pond
+systems are amenable to standardized fi eld manipulations and
+large-scale replication of semi-experimental work over time.
+The ponds studied (in total 651–682 ha of water surface area)
+belonged to six pond clusters situated 10–60 km apart in the
+vicinity of the city of Lublin (51° 13′ N, 22° 33′ E). The ponds
+were similar in most respects (typically with a sloping bottom
+and mean water depth values varying from 0.7 m to 1.3 m over
+the growing season). However, they differed in size (from 1 ha
+to 69 ha) and in the coverage of emergent aquatic vegetation
+(range 5–68 %).
+Three carp age classes were stocked in separate ponds:
+young-of-the-year (0+) carp, carp after fi rst wintering (1+) and
+2-years old carp (2+). At stocking in spring (late April–early
+May) and at draining of ponds in September-October, all carp
+in each pond were weighed to establish the total biomass, and
+a large sample of fi sh was weighed to assess mean individual
+biomass. This allowed estimation of total fi sh numbers and of
+seasonal mortality rates in the growing season. In most ponds,
+net sampling was conducted twice a month, starting from June,
+to check fi sh growth. Body length estimates were obtained using
+length-weight regressions established from carp samples
+collected in the study ponds. 0+ carp were stocked as larvae
+at the individual weight of 1.5–3.0 mg; 1+ carp were stocked
+at ca. 30–50 g (ca 13–15 cm total length, TL) and 2+ carp at
+ca. 150–250 g (18–22 cm). At the time of stocking, 0+ ponds
+were practically fi shless (< 1 kg ha–1). However, until July 0+
+carp attained an individual size of 6–10 g (7–9 cm in length)
+at the total biomass > 50 kg ha–1 in all surveyed ponds. The
+stocking densities at the 1+ and 2+ ponds were 170–240 kg
+ha–1, comparable with those observed in European shallow
+lakes (Scheffer 1998). Previous research has established that
+0+ ponds and ponds with older and larger-sized (≥ 1+) carp differ
+with regard to macroinvertebrate and amphibian densities,
+whereas no signifi cant differences were found between 1+ and
+2+ ponds (Kloskowski 2009, Kloskowski et al. 2010). Effects
+of early carp developmental stages (< ca. 10 cm TL) on aquatic
+communities differ from those of larger carp due to size-dependent
+ability to penetrate deeper into the substratum (causing
+stronger bioturbation) and to ontogenetic niche shifts; in addition,
+carp effects are density-dependent, e.g. submerged macrophytes
+can be heavily affected when carp biomass approaches
+200 kg ha–1 (Sibbing 1988, Lammens & Hoogenboezem 1991,
+Williams et al. 2002; reviewed in Weber & Brown 2009). The
+roles of carp individual size and total stock biomass are diffi
+cult to separate in ponds with age-structured fi sh stocks, because
+although young-of-the-year fi sh can be stocked at much
+higher numerical densities, the collective biomass of older carp
+early in the growing season (in spring and early summer) is
+naturally higher. Therefore, ponds containing the two older and
+larger sized (TL > 10 cm) age classes were pooled as ‘high-carp
+ponds’, i.e. large-sized fi sh at high density, and compared in the
+analyses with 0+ ponds (hereafter ‘low-carp ponds’, i.e. smallsized
+fi sh at low total biomass; see also Statistics). The collective
+production of small-sized wild-grown fi sh that invaded the
+ponds and species occasionally added in small numbers as supplemental
+fi sh species (tench Tinca tinca, crucian carp Carassius
+carassius, golden orfe Leuciscus idus, wels Silurus glanis,
+pike Esox lucius) did not exceed 2–5 % of the fi nal fi sh production
+per pond. In spring, dung from livestock and occasionally
+liquid manure were added to the ponds in order to preclude
+nutrient depletion. In June and July liming was conducted (ca
+20 kg of calcium carbonate ha–1 monthly). 0+ fi sh since July
+and ≥ 1+ cohorts since May were supplied with supplementary
+food (cereal grains in an amount of 2–3 % of the estimated fi sh
+biomass daily).
+Based on data collected using funnel activity traps on
+aquatic macroinvertebrates in 2002 and 2004 (Kloskowski
+et al. 2010) and larval amphibians between 2005–2007 (Kloskowski
+2010) taxonomic diversity of macroinvertebrates and
+of amphibians in the studied ponds was quantifi ed using the
+Shannon-Wiener index (H’). The index accounts for total number
+of taxa, as well as for their evenness across the sampling
+sites (Magurran 1988). Since the taxonomic composition of
+macroinvertebrates caught in traps differed markedly between
+the two sampling sessions (from 27 April till 8 May and between
+23 June and 7 July in both years), H’ index (as applied
+to the most commonly occurring taxonomic groups: Hirudinea,
+Isopoda, Ephemeroptera, Zygoptera, Anisoptera, Corixidae,
+Notonectidae, Naucoridae, Dytiscidae, ‘other Coleoptera’ and
+Aranea) was calculated separately for the spring and summer
+surveys. To index the density of individual anuran species in
+the given pond the maximal number of larvae that had grown
+at least to the developmental stage 25 (tooth rows developed;
+the spiracle opening visible; Gosner 1960) captured on one
+sampling occasion was used (a total of seven sampling sessions
+per pond were conducted). Taxa involved in the Rana esculenta
+complex (‘water frogs’) and ‘brown frogs’ (Rana temporaria
+vs Rana arvalis) were grouped. Adult newts were included in
+the analyses instead of larvae, because mainly adult individuals
+were captured by the traps (Kloskowski 2010; see Kloskowski
+2009 for a complete list of amphibian species detected in the
+ponds).
+The proportion of pond bottom covered by submerged macrophytes
+was estimated as an index of submerged vegetation
+abundance. The presence or absence of vegetation was recorded
+within a 40 cm diameter circular frame at 50 locations every
+10 m along 2–3 transects (dependent on the size of the ponds)
+that intersected the pond. Sampling was conducted between
+15 and 31 July in 2000 and 2001. In 2006 (23–24 July) and
+2007 (18–19 July) water samples were collected for turbidity
+and chlorophyll-a analyses and Secchi (12-cm disc) depth was
+measured. The samples were collected at 1–2 m from the shoreline
+vegetation at mid-depth. Turbidity was measured using a
+Hach 2110 AN IS turbidimeter (HACH Co., Loveland, Colorado,
+USA). Chlorophyll-a content as a proxy for phytoplankton
+biomass was determined spectrophotometrically using ethanol
+as the extractant. The age of the stocks was alternated in
+30–60 % of the ponds each year and individual surveys were
+performed in at least two years, in order to sample as many
+of the same ponds containing fi sh at different size and density
+as possible, so that carp effects were separated from individual
+properties of the ponds.
+Enclosure/exclosure experiments
+To separate the direct and indirect effects of carp on survival
+of larval amphibians, a total of 64 enclosures/exclosures
+(1 m × 1 m screen cages) were used, of which half were fi shless
+and half stocked with one 1+ carp. The experiment was replicated
+in a 0+ and a 1+ pond where cages shared the environmental
+conditions of the ambient habitat. The 0+ pond typifi ed
+the clear-water state, while the 1+ pond was moderately turbid
+(with higher turbidity, more abundant phytoplankton and lower
+water transparency; Table 1). Two anuran species common in
+the study area, Pelobates fuscus and Hyla arborea, were used
+in the experiments. Each cage received 50 individuals of a single
+species. For each species and treatment combination eight
+replicates were used.
+P. fuscus larvae were added to the cages on 7–8 May and
+H. arborea on 10–11 June 2007. Larvae were transferred from
+multiple clutches from two ponds in the study area, mixed and
+randomly assigned to individual cages. At stocking, tadpoles
+ranged in size from 13 to 14 mm of total length and at that body
+size were highly mobile. Two days before adding the tadpoles
+every second cage received one carp. Total length and mass of
+carp were recorded before stocking and at the end of the experiment.
+The size range of added fi sh was 13–14 cm TL (30–36 g)
+at the commencement of the experiment and 15–17 cm TL
+(49–71 g) at the end on 30 July. Carp densities were within the
+ranges of those found in natural systems invaded by non-native
+carp (Crivelli 1983). To avoid hunger stress the enclosed fi sh
+were fed approximately 4 g commercial granulated feed (35 %
+protein) weekly.
+The cages were made of plastic mosquito net with mesh
+size 1 mm. To ensure exchange of water and small-bodied organisms
+through the walls, periphyton and adhering inorganic
+sediment were scrubbed from the external sides of the walls
+ca. every two weeks. Habitat conditions (for a list of measured
+parameters see Table 1) were similar in and at haphazardly
+selected sites outside, at a distance of 3–4 m from the cages,
+irrespective of carp yearlings’ presence/absence in the cages,
+except that turbidity was irregularly slightly higher (up to 6
+FAU) in both fi shless and carp containing cages than in the
+pond.
+The two ponds selected for the experiment belonged to a
+single pond cluster (51° 27′ 19″ N, 22° 25′ 16″ E). Biodiversity
+and water-quality characteristics of both ponds were typical
+for low-density ponds with small-sized carp and high-density
+ponds with large carp, respectively (see Results and Table 1 on
+strong differences in water quality between low-carp and highcarp
+ponds). As pond history may be important for the occurrence
+of invertebrate eggs in the sediment (see below) and the
+development of submersed vegetation, both ponds held 0+ fi sh
+in the preceding year. The cages were arranged parallel to the
+shoreline in places free of emergent vegetation, each spaced at
+least 1.5 m apart. At the time of starting the experiment there
+was no observable plant seedling emergence in the cages. Water
+depth was ca. 0.8 m. Cages were built without fl oors to allow
+carp to forage in the substratum, but the top (ca 20 cm above the
+water line) was covered with netting to prevent colonization by
+potential predators and to retain metamorphosing amphibians.
+Bottom edges were embedded 10–15 cm in the sediments. To
+approximate natural habitat heterogeneity, three stems of Typha
+sp. were stuck into the bottom of each cage and one wall hung
+loosely forming a shallow pocket at the bottom as a structural
+refuge from fi sh attacks.
+Before stocking the tadpoles, their potential predators were
+removed from the cages by exhaustive sweeping of a large fi nemeshed
+net. Frequent repeated sampling of a block of cages
+during a pilot study indicated that thorough netting of the cages
+was effi cient in removing large predatory insects such as dragonfl
+ies, but was not an effi cient measure to remove their earliest
+developmental stages from the sediment layer or plant tissues.
+At the end of the experiment, in over 70 % of the fi sh-free cages
+Zygoptera and Anisoptera larvae and imagines were detected.
+Moreover, a few cages were invaded by single Bombina bombina
+larvae, which entered the cages at small size and outgrew the
+mesh size. Larvae of all those taxa, with the exception of large
+Anisoptera (Sympetrum sp. and Orthetrum sp.), were assumed
+to be too small to exert a signifi cant competitive or predatory effect
+on the focal tadpoles. Cages, where large Anisoptera were
+detected (n = 13) were omitted from the analyses of tadpole
+survival. Also, two cages were damaged shortly before the conclusion
+of the experimental period (presumably by a muskrat
+Ondatra zibethicus) and they were excluded from the analyses.
+From late June onwards, the cages were checked at least
+every two days for metamorphosed individuals. Metamorphlings
+(with fully absorbed tail; stage 46 according to Gosner
+1960) were weighed after drip-drying and released. On 30 July
+the experiment was terminated and fi sh were retrieved from the
+cages. Amphibians and odonate larvae were searched for by repeatedly
+dip netting in the cage, including the sediment layer,
+until no new individuals had been captured for 20 consecutive
+sweeps in alternating directions. Odonate larvae and a few retrieved
+tadpoles were counted. All submersed macrophytes
+were collected from the cages. Macrophytes were washed over
+a sieve to remove sediment and invertebrates, dried to a constant
+weight at 60 °C, after which they were weighed to 0.001 g.
+Analyses of Odonata densities and macrophyte biomass were
+conducted only on data from cages stocked with P. fuscus, i.e.
+those installed in May.
+Statistics
+As pond surveys involved repeated sampling across time and
+sample sizes were not constant across both random and fi xed
+terms, restricted (residual) maximum likelihood (REML, Gen-
+Stat v. 9.0) analyses were conducted. As the years and sites
+(pond clusters) over which the research was performed were not
+chosen as a particular sample of years and sites and to account
+for spatial non-independence of ponds from the same pond
+clusters, year and pond identity (nested as pond/pond-cluster)
+were specifi ed as random factors. Since total fi sh biomass was
+strongly related to carp age/size, fi sh age/size and total biomass
+were represented by a single categorical explanatory variable
+(low-carp vs high-carp ponds) to prevent multicollinearity. The
+other fi xed terms included in the analyses were pond surface
+area (ha) and emergent macrophyte vegetation cover (determined
+by digitization from aerial photographs of the ponds).
+Variables were selected starting from a full model containing all
+explanatory terms as well as the two-way interactions. A fi nal
+model was then determined by step-wise dropping of the terms
+in order of lowest effect size, starting with nonsignifi cant twoway
+interactions. Wald statistics were used to identify signifi -
+cant fi xed effects.
+The probability of caged tadpole surviving to the end of the
+trial was analysed using General Linear Models (GLM, Gen-
+Stat v. 9.0) with a logit link function and binomial errors. The
+signifi cance of the terms were based on the difference in deviance
+(Δ D) of models attributable to the adding or removing of
+the predictor in question using a likelihood ratio test (the χ2 test
+with one degree of freedom was applied). Tadpole mass at metamorphosis
+from treatments containing no fi sh (no individuals
+survived in cages with carp) was analysed using ANOVA. Proportions
+of metamorphs and Anisoptera numbers were used as
+covariates to examine the role of thinning and Anisoptera density
+effects. A two-way ANOVA was used to evaluate the effect
+of carp presence in the cages and the indirect (‘low- vs highcarp’)
+effect of fi sh in the pond, where the cage was installed
+on Zygoptera and Anisoptera densities and the total macrophyte
+biomass in cages.
+Prior to analyses, data were usually log transformed to normalise
+the distribution and reduce heteroscedasticity.
+
+xresults
+Pond surveys
+The size/total biomass of carp cohort was the only
+statistically signifi cant factor in all models. On average,
+estimates of total macroinvertebrate diversity
+(spring: REML Wald χ2
+1 = 9.1, p = 0.003; summer: χ2
+1
+= 22.1, p < 0.001) and amphibian diversity (χ2
+1 = 29.7,
+p < 0.001) were signifi cantly greater in low-carp ponds
+than in high-carp ponds (Table 2). Both coverage by
+submerged macrophytes and Secchi transparency were
+signifi cantly higher in low-carp ponds than in highcarp
+ponds (Table 2). Water transparency estimates
+were conservative because Secchi disc was frequently
+visible on the substratum of 0+ ponds. Correspondingly,
+nephelometric turbidity and chlorophyll-a concentrations
+were lower in ponds stocked with 0+ than
+in high-carp ponds (Table 2). Blue-green algae blooms
+were observed occasionally in high-carp ponds at the
+end of July and in August.
+Enclosure/exclosure experiment
+Juvenile recruitment of both anuran species was totally
+suppressed in the presence of carp in the enclosures
+(Fig. 1). GLM models obtained for P. fuscus and H. arborea
+accounted for 91.8 % and 78.7 % of the original
+deviance in tadpole survival, of which carp presence
+in the cage explained 82.1 % and 78.4 %, respectively.
+Maximal juvenile recruitment rates in no-carp treatments
+were 94 % in P. fuscus and 100 % in H. arborea.
+Considerably more metamorphosed P. fuscus juveniles
+were caught from no-carp cages installed in the highcarp
+pond than in the low-carp pond, but no signifi cant
+effect was found for H. arborea (Table 3). In neither
+species did mass at metamorphosis depend on the size/
+total biomass of fi sh in the pond where the cages were
+installed (both F1,10 < 1.04; p > 0.333). Also, it was not
+related to Anisoptera density and the fi nal number of
+survivors in the cage (all p ≥ 0.2).
+Direct fi sh presence strongly affected Anisoptera
+numbers in cages: only a single Anisoptera naiad
+was found in one cage containing carp (ANOVA
+with unbalanced design; F1,55 = 39.76, p < 0.001) and
+no Zygoptera were retrieved from cages stocked with
+carp (F1,55 = 22.80, p < 0.001). Neither Zygoptera nor
+Anisoptera numbers differed between cages installed
+in the low-carp pond and the high-carp pond (F1,55
+= 0.91, p = 0.344 and F1,55 = 2.40, p = 0.157, respectively;
+Fig. 2).
+At the end of the experiment submerged macrophyte
+biomass was much higher in cages installed in
+the low-carp than in the high-carp pond (ANOVA F1,28
+= 8.62, p < 0.02; Fig. 3). The effect of carp presence/
+absence and the interaction carp presence/absence *
+habitat factor were not signifi cant (F1,28 = 0.51 and
+F1,28 = 0.55, respectively; both p > 0.5). In the lowcarp
+pond cages were dominated by Batrachium aquatile,
+Ceratophyllum demersum, Elodea canadensis
+and Potamogeton lucens (usually a single species per
+cage). In cages installed in the high-carp pond only B.
+aquatile occurred.
+
+
+xdiscussion
+The pond surveys showed that low-carp ponds supported
+contrastingly higher levels of macroinvertebrate
+and amphibian diversity than high-carp ponds. Water
+quality characteristics in ponds differing in carp density
+and individual size were typical for different phases
+of the clear-turbid state. Phytoplankton abundance and
+turbidity were higher, whereas water transparency and
+submerged vegetation cover were lower in high-carp
+than in low-carp ponds. The present results confi rm
+the adverse effects of carp on aquatic biodiversity (reviewed
+in Weber & Brown 2009). These effects can be
+dependent both on the standing biomass (Lougheed et
+al. 1998, Williams et al. 2002, Haas et al. 2007, Bajer
+et al. 2009) and on traits associated with fi sh individual
+size (see also Richardson & Whoriskey 1992, Driver
+et al. 2005).
+The outcomes of the enclosure/exclosure trials provide
+the experimental evidence that the low diversity
+of amphibians and macroinvertebrates in high-carp
+ponds is related rather to fi sh predation than habitat
+modifi cation. In contrast to no-carp treatments, both
+anuran and odonate larvae failed to persist in the cages
+with carp. Negative effects of habitat conditions were
+not detectable. Later predation trials recorded using
+a digital camcorder revealed that carp was a gapesize
+limited forager. Notwithstanding, carp preyed
+on even relatively large-sized tadpoles by attempting
+to suction them in; captured tadpoles were occasionally
+expectorated, presumably due to their resistance
+(J. Kloskowski 2011 in press). This indicates that fi sh
+individual size may be no less important for carp impact
+than density. Resource competition with fi sh is
+unlikely to be of importance considering similar conditions
+within and outside cages. Even if carp could
+diminish amphibian food resources, tadpoles living at
+unnaturally high densities or kept on starvation diets
+may survive for many weeks (Calef 1973).
+Cage experiments may have resulted in greater mortality
+rates of amphibian and odonate larvae than naturally
+occurring in ponds because of the smaller spatial
+scale and simplifi ed conditions (Petersen et al. 1999).
+However, the outcomes were in line with the differences
+in macroinvertebrate and amphibian diversity
+between low-carp and high-carp ponds. Until summer
+young-of-the-year fi sh apparently remained too small
+to deplete larger-sized, mobile prey. With growth, the
+carp’s predatory capability may considerably increase.
+Although fi sh individuals used in the experiment were
+relatively small (TL 13–14 cm), they were able to
+eliminate all caged tadpoles. The present fi ndings suggest
+that the stereotypic view of carp as a ‘non-predatory’
+species unable to exploit free-swimming, evasive
+prey should be reconsidered. The carp’s feeding mode,
+the ‘particulate intake’, a fast food suction, forceful
+enough to ingest prey within a head length of fi sh (Sibbing
+1988), may allow for feeding on organisms which
+are relatively mobile or which use structural refugia.
+Also, carp may exert a strong consumptive pressure on
+such prey by depleting the early developmental stages,
+i.e. eggs and larvae (Vilizzi 1998). Fish predation may
+be accompanied by non-consumptive effects on prey,
+e.g. avoidance of fi sh dominated waters by ovipositing
+insects and amphibians (e.g. Resetarits 2001, Binckley
+& Resetarits 2002).
+By contrast, direct consumption by carp was apparently
+of minor importance for the abundance of
+submerged vegetation in the ponds (contra to King &
+Hunt 1967, Sidorkewicj et al. 1998; see also Williams
+et al. 2002). Vegetation density was higher in cages
+placed in clear-water ponds irrespective of carp presence,
+while cages placed in turbid water had uniformly
+low vegetation density even if they contained no carp.
+However, direct effects on plants may depend on susceptibility
+of the local species (Zambrano & Hinojosa
+1999). Seed abundance was not controlled in the cages,
+so it is possible that seed resources were depleted
+in high-carp ponds. Also, uprooting of plants by carp
+probing the bottom could hamper their growth (see
+also Crivelli 1983, Roberts et al. 1995). On the other
+hand, direct effects of carp on macrophytes prior to
+cage placement (early May) were limited, since carp
+remain relatively inactive in early spring due to low
+water temperature (Michaels 1988). The present fi ndings
+argue in favour of indirect mechanisms, such as
+release of nutrients and sediment stirring by benthivorous
+fi sh, reported to enhance processes detrimental
+to submerged plants, e.g. reduction of available light
+and carbon dioxide (Williams et al. 2002, Roozen et
+al. 2007, Matsuzaki et al. 2007).
+Biotic and abiotic processes mediated by carp are
+diffi cult to separate, because they strongly interact
+(Scheffer 1998), for instance depredation of phytoplankton
+grazers by fi sh reinforces turbid conditions
+(Andersson et al. 1978, Jeppesen et al. 1999). Suppression
+of amphibian larvae that subsist as phytoplankton
+grazers (Seale 1980, Pryor 2003) and frequently reach
+high population densities provides a similar trophic
+cascade mechanism. On the other hand, indirectly mediated
+decrease in macrophyte cover may adversely
+affect phytoplankton grazers using submerged vegetation
+as a substratum for attachment or a refuge from
+fi sh (Schriver et al. 1995) and result in a loop feed
+back sustaining the phytoplankton-dominated state
+(reviewed in Scheffer 1998). The strength of top-down
+effects (through predation) does not diminish the role
+of a bottom-up driven shift to a macrophyte-poor turbid
+state in structuring aquatic communities. In the
+present study effects of habitat conditions were not investigated
+at turbidity levels correlated with substantial
+biodiversity loss in earlier studies (>> 20 NTU,
+Roberts et al. 1995, Lougheed et al. 1998, Stewart &
+Downing 2008). Although turbidity was elevated in
+high-carp ponds, these levels may be classifi ed as intermediate
+compared to the above values. Therefore,
+a profound negative infl uence of turbid conditions on
+animal diversity cannot be refuted. However, at intermediate
+turbidity levels a reverse trend in amphibian
+survival was observed: in no-carp treatments signifi -
+cantly more P. fuscus juveniles metamorphosed in the
+high-carp pond than in the low-carp pond. A possible
+explanation might be that tadpoles survive better at
+intermediate eutrophication levels, e.g. that intermediate
+turbidity levels corresponded to moderate resedimentation,
+the latter facilitating tadpole access to
+re-suspended food particles (Seale 1980, Flecker et
+al. 1999; but see Wood & Richardson 2009). This effect
+was not signifi cant in H. arborea, but intraspecifi c
+resource competition (and hence dependence on food
+availability) in caged P. fuscus tadpoles could be more
+intense, because at metamorphosis they achieve much
+greater sizes than H. arborea (Berger 2000).
+In conclusion, the present fi ndings support the idea
+that carp play a dual interactive role in pond communities:
+as a habitat modifi er and a macrophagous
+predator; however, top-down processes driven by fi sh
+predation appear decisive for animal diversity loss in
+carp dominated waters. An appreciation of the carp’s
+capability to prey upon a broad array of non-benthic
+macrozoa, including evasive organisms like amphibian
+larvae, is relevant to conservation. In many aquatic
+systems with benthivorous fi sh the seasonal plankton
+dynamics (e.g. ‘the spring clear-water phase’) or low
+nutrient loading delay or preclude the shift to a turbid
+state (Sommer et al. 1986, Scheffer 1998, Zambrano
+et al. 2001). The present results show that carp is able
+to induce dramatic biodiversity decline independent
+of the advancement of the eutrophication processes or
+prior to ecosystem shift to a turbid state. Low macroinvertebrate
+or amphibian densities reported to be
+correlated with elevated turbidity may result from the
+direct trophic infl uence of benthivorous fi sh that have
+simultaneously driven the turbid conditions (Stewart
+& Downing 2008). Both impact pathways need to be
+recognized, because these are presumably combined
+effects of predation and habitat alteration (Parkos et
+al. 2003) that make carp such an exceptional threat to
+invaded ecosystems.

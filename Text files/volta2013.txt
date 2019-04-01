@@ -1,0 +1,698 @@
+﻿xabstract
+We present an example of how an invasion
+by a non-native cyprinid (common bream, Abramis
+brama (Pisces: Cyprinidae), hereafter bream) in a
+natural shallow lake in southern Europe (Lake Montorfano,
+northern Italy) may have adversely affected
+the state of the lake’s ecosystem. In less than two
+decades, bream became the most abundant species and
+characterized by a stunted population with asymptotic
+length 33.5 cm, an estimated mean length at first
+maturity of 19.6 cm, a total mortality rate of
+0.64 year-1 and a diet overwhelmingly dominated by
+microcrustaceans. Following bream establishment,
+nutrients and phytoplankton biomass rose, the proportion
+of Cyanobacteria by numbers increased markedly
+and water transparency decreased. Total zooplankton
+abundance increased with a marked increase in small
+cladocerans and copepods, whereas the abundance
+of large herbivorous cladocerans did not change.
+The coverage of submerged macrophytes declined, as
+did the abundance of native pelagic zooplanktivorous
+fish. The composition of the fish community shifted
+towards a higher proportion of zoobenthivorous species,
+such as bream and pumpkinseed (Lepomis gibbosus).
+Our results indicate that bream affected water quality
+through bottom-upmechanisms,while top-downeffects
+were comparatively weak. Selective removal of bream
+and perhaps stocking of native piscivores might improve
+the ecological status of the lake.
+
+xintroduction
+Non-native species, i.e. species outside their natural
+range which frequently become established and
+abundant following their introduction (Rejma´nek et al.
+2002; Cambray 2003), are increasingly recognized as
+constituting one of the main threats to biodiversity and
+ecosystem functioning (e.g. Ricciardi and Mc Isaac
+2011) and are often associated with environmental
+degradation (Biro 1997; Wilcove et al. 1998; Byers
+2002). Furthermore, in the case of freshwater fish
+faunas such biotic homogenization frequently has high
+ecological and economic costs (Welcomme 1998;
+Rahel 2000).
+Successful non-native species are often characterized
+by high physiological tolerance and functional
+characteristics different from those of the members of
+invaded communities (Moyle and Marchetti 2006;
+Bollache et al. 2008), enabling them to occupy vacant
+niches and to spread and increase rapidly. Moreover,
+successful non-native species have been reported to
+affect the functional diversity of communities with
+possible strong impacts on food webs and ecosystem
+functioning (Hooper et al. 2005; Britton et al. 2010;
+Simberloff 2011). Additionally, as invasions by nonnative
+species in novel environments are often characterized
+by boom-bust phenomena (Strayer and
+Malcom 2006; Salonen et al. 2007; Volta and Jepsen
+2008; Liso et al. 2011) with strong recruitment leading
+to high densities, the adverse effects on ecosystem
+processes may be further exacerbated.
+Southern European fresh waters, including those of
+Italy and other countries adjacent to the Mediterranean
+Sea, are isolated from those of the rest of Europe.
+Mountain ranges have prevented the migration of
+aquatic and many other organisms from northern and
+central Europe, thus favouring isolation and allopatric
+speciation (Bianco 1998; Hewitt 1999; Rayol et al.
+2007). However, the anthropogenic introduction of nonnative
+species, a long-lasting and continuing process,
+has recently led to homogenization of the fish fauna and
+coexistence of native and non-native species in several
+southern European basins (Clavero and Garcia-Berthou
+2006; Gherardi et al. 2007; Kottelat and Freyhof 2007).
+In particular, the Italian peninsula has experienced the
+introduction of several non-native fish species since the
+Roman and Middle Ages. During the 1800s, stocking of
+water bodieswith newfish species became awidespread
+practice with the purpose of enhancing the production of
+commercially valuable fish species and, later, species of
+angling interest. This has resulted in a local shift from
+salmonids and coregonids to centrarchids and, more
+recently, cyprinids (Bianco 1998; Gherardi et al. 2007).
+Common bream (Abramis brama) (hereafter bream)
+is native in most European drainages, from parts of the
+UK in the west to the White Sea basin in the east, but it
+is naturally absent from the Iberian peninsula, the
+Adriatic basin, Italy, northern and western parts of the
+British Isles and north of 67N. However, in recent
+decades, this cyprinid has been introduced to Spain and
+Italy (Benejam et al. 2005; Kottelat and Freyhof 2007).
+Although both adaptable and tolerant to different kinds
+of water bodies (e.g. Jeppesen et al. 2006; Lapirova and
+Zabotkina 2010), this potentially large-bodied fish
+prefers meso-eutrophic shallow lakes with a dense
+vegetated area or reed belt around the shoreline
+(Lammens et al. 2004; Mehner et al. 2005; Kottelat
+and Freyhof 2007). It is a zoobenthivorous species
+(Lammens and Hoogenboezem 1991; Persson and
+Bro¨nmark 2002) and is in some cases known to have a
+significant negative effect on the water quality in
+shallowlakes (Tatrai et al. 1990; Breukelaar et al. 1994;
+Vanni 2002). The potential to exert adverse effects on
+lake food webs and ecosystem functioning operates
+through at least two mechanisms: (1) through a
+reduction the abundance of large zooplankton followed
+by increased phytoplankton abundance (top-down
+mechanism) (Brooks and Dodson 1965; Shapiro et al.
+1975; Carpenter et al. 1985; Benndorf et al. 2002) and,
+(2) through increased nutrient cycling due to an
+increased excretion rate at the community scale and
+the disturbance of bottom sediments through ‘bioturbation’
+(Meijer et al. 1990; Vanni 2002; Verant et al.
+2007) favouring phytoplankton growth (bottom-up
+mechanism). Furthermore, bream often has a pronounced
+migratory behaviour (e.g. Schulz and Berg
+1987; Borcherding et al. 2002; Skov et al. 2011) and
+may consequently move considerable distances to other
+lakes within a river system. Finally, although often
+attaining large individual sizes, this species may also
+develop stunted high density populations becoming
+locally abundant, with potential negative consequences
+both within and beyond the local fish community due to
+competition for food resources (Van de Wolfshaar et al.
+2006; Persson et al. 2007) or hybridization (Hayden
+et al. 2010). In combination, these features make bream
+a potentially effective and highly undesirable invader
+of southern European waters.
+The introduction history of bream in Italy began as
+recently as the 1980s (Delmastro 1983; Marconato
+et al. 1985). Its distribution is still scattered and in
+running waters it is currently limited to a few small
+stretches of slow-flowing rivers and canals in the
+eastern part of the north-eastern lowlands, and to the
+main rivers Arno (Tuscany region) and Tevere
+(Latium region) in central Italy (Mancini et al. 2005).
+Its presence in lentic waters is known to be confined to
+only three lakes belonging to different catchments but
+with similar limnological characteristics: Lake Monticolo
+Grande (Trentino Alto-Adige Region, Adige
+river drainage), Lake Fimon (Veneto Region, Tagliamento
+river Drainage) and Lake Montorfano (Lombardy
+Region, river Po catchment). These three lakes are
+shallow (max depth\9 m), small (area\1 km2), range
+from mesotrophic to eutrophic (TP between 20 and
+60 lg L-1) and have a dense vegetated area or reed
+belt around the shoreline.
+Most studies on the biology and ecology of bream
+have been undertaken in temperate-cold regions of
+Europe (Slooff and De Zwart 1982; Kangur 1996;
+Specziar et al. 1997; Persson and Hansson 1999;
+Lammens et al. 2004), while the knowledge of bream
+populations in southern European and Mediterranean
+countries is very scarce (Treer et al. 2003; Benejam
+et al. 2005). This is particularly true for Italian lakes.
+Hence, an understanding of the life-history features of
+non-native bream combined with knowledge of the
+environmental state before and after introduction is
+essential to the assessment of its possible effects on the
+ecosystem functioning of lacustrine environments.
+Such knowledge may also help lake managers to
+decide on appropriate strategies to be implemented to
+improve the health of fish communities and the water
+quality (Mehner et al. 2004; Ribeiro et al. 2008).
+In this study we describe the population biology and
+life-history traits of a bream population introduced to
+Lake Montorfano in northern Italy and we examine the
+effects of this invasion on the lake ecosystem using a
+dataset comprising abiotic and biotic information from
+before and after the introduction. Finally, we propose
+measures to control this invasive species and improve
+the ecological status of Lake Montorfano.
+
+xmethods
+Lake Montorfano (45470N, 9080E) is a small
+(0.51 km2) shallow (maximum depth 6.8 m, mean
+depth 4.15 m) and wind-protected lake located in
+northern Italy (Lombardy region, Como district) at an
+altitude of 397 m a.s.l. It is naturally oligo-mesotrophic
+and fed by underground waters and its outlet is
+partly regulated by a very small weir immediately
+adjacent to the lake. There are no significant point
+sources of pollution as sewage was diverted in the
+1980s and is now collected and brought to a treatment
+plant discharging into its outlet.
+The native fish assemblage was described by Monti
+(1864) as including eight species: bleak (Alburnus
+arborella), common carp (Cyprinus carpio), Padanian
+goby (Padogobius martensi), Italian roach ‘‘triotto’’
+(Rutilus aula), pike (Esox lucius), perch (Perca
+fluviatilis), rudd (Scardinius erythrophthalmus) and
+tench (Tinca tinca). Largemouth bass (Micropterus
+salmoides) and pumpkinseed (Lepomis gibbosus) were
+stocked during the 1930s (de Bernardi et al. 1985).
+Fish sampling was carried out from 18 to 20 October
+2010 using benthic multi-mesh survey gill nets
+(Appelberg et al. 1995) and electrofishing. Each net
+was 30 m long and 1.5 m high and composed of
+twelve panels with mesh sizes ranging from 5.5 to
+55 mm and each 2.5 m long). In addition, further
+panels with mesh sizes of 70, 90, 110 and 135 mm
+(same length as the other panels) were added to three
+of the nets in order to catch potentially larger fish. In
+total 16 gill nets were distributed randomly within
+three different depth strata (0–3, 3–6, 6 m to bottom)
+on two consecutive days of sampling. On the first day
+additional larger mesh sizes were added to one net for
+each depth stratum. Nets were set at dusk between
+18:00 and 19:00 and retrieved the following morning
+between 07:00 and 08:00. The fish collected were all
+individually measured (total length, LT), weighed
+(total body mass, WT) and scales were taken for age
+determination. The distribution of fish in the littoral
+area was further evaluated by electrofishing from a
+boat. The electrofishing device was a built-in-frame
+EL64GII (Scubla Acquaculture, 7,000 W, 600 V, DC
+current) set up with a copper cathode (width 2.5 cm,
+length 300 cm) and with a steel ring anode (thickness
+0.8 cm, diameter 50 cm). The Point Abundance
+Sampling Electrofishing (PASE) method (Copp and
+Garner 1995) was used, in which the anode is dipped
+for 20 s at each sampling point. A total of 99
+points was sampled. The stunned fish were measured
+(total length LT); rarer species were also weighed (WT),
+and scales were taken for age determination.
+The ages of the fish were determined by scale
+analysis on a subsample of ca. 150 specimens of each
+species randomly selected among the entire catch,
+with 1 June being selected as the nominal birth date for
+the bream. Age was expressed in months. Sexual
+maturity was determined by gonadal inspection on a
+subsample of 100 specimens. Additionally, digestive
+tracts of 50 bream, randomly selected and ranging in
+length between 8 and 28 cm, were removed and stored
+separately in 5 % formaldehyde for subsequent diet
+examination and analysis as described below.
+Catch per unit effort (CPUE) for nets was assessed
+with respect to net area and calculated as biomass per
+unit effort (BPUE, g m-2) and number per unit effort
+(NPUE, individuals m-2). CPUE for electrofishing
+was calculated as NPUE (individuals dip-1).
+The body mass-length relationship was calculated
+using the equation:
+logarithmically transformed into the equation:
+where W is body mass (g) and LT total length, a and
+b are the intercept and the slope of the regression.
+Length-at-age data were used to estimate the
+parameters of the Von Bertalanffy (1938) growth
+function (VBGF) according to the equation:
+where LT is total length of the fish at time t, L? is the
+theoretical maximum length an average fish could
+achieve, k is the growth constant which determines
+how fast the fish approaches L?, and t0 is the
+hypothetical age at LT = 0.
+The U0 Phi-prime index (Pauly and Munro 1984)
+was used to compare the growth performance of bream
+with those of other populations described in the
+literature according to the equation:
+
+where k and L? are parameters of the VBGF.Mean
+length at maturity Lm for pooled sexes was estimated
+from L? according to the equation (Froese and
+Binohlan 2000):
+
+where Lm is the theoretical average length at which the
+fish could have its first reproduction and L? is the
+asymptotic length calculated by the VBGF.
+Additionally, a logistic regression was used to fit
+sigmoid curves to the proportion of mature fish versus
+length.
+Total instantaneous mortality (Z) was estimated
+from the linearized catch curve (Sparre and Venema
+1988) using fish captured with multi-mesh survey gill
+nets using the following equation:
+
+where N is the number of fish of age t, a and b are
+estimated through linear regression analysis; b, with
+sign changed, is an estimate of total instantaneous
+mortality Z.
+The natural mortality rate M was estimated using
+the empirical equation of Pauly (1980), which provides
+an estimate of M on the basis of L? and k of the
+VBGF and the annual mean water temperature (see
+below for local data source) according to the equation:
+
+where L? is the ultimate length an average fish could
+achieve, k is the growth constant of the VBGF, and T is
+the mean annual water temperature.
+Digestive tracts were opened and their contents dried
+for 15 min on blotting paper. The food items were
+identified under a stereomicroscope as close as
+possible to the genus or species level. Benthos and
+zooplankton were identified according to Campaioli
+et al. (1994) and Margaritora (1983), respectively.
+Diet analysis was accomplished using Costello’s
+method (Costello 1990) which is based on a two
+dimensional representation of the diet, where every
+point represents, for each prey, the occurrence (the
+percentage ratio between the number of stomachs
+where the prey is found and the total number of
+stomachs) and the abundance (the ratio between the
+number of organisms into the stomach and the total
+number of prey). With this method it is possible to
+assess the importance of the prey in the diet (dominant
+or rare) and the type of diet (specialized or generalized).
+The limnological characteristics of Lake Montorfano
+have been determined monthly in a number of years
+during the last two decades (1991–1992, 1998–1999,
+and 2004–2007) as a part of a monitoring programme
+carried out by the University of Milan. Sampling was
+performed at a central location at the lake site with
+maximum depth. Water samples for chemical analysis
+were taken monthly using Van Dorn bottles at the
+following depths: 0, 1, 2, 4, and 6 m. The samples
+were transferred to the laboratory for immediate
+analysis. Secchi disk depth, temperature and dissolved
+oxygen were measured in situ. Temperature and
+oxygen concentrations were determined with an
+automatic oxygen sensor coupled with a thermistor
+probe (Microprocessor Oximeter WTW OXI 320).
+The following parameters were measured in the
+laboratory: pH (pH meter Radiometer PHM 83),
+conductivity (conductimeter Radiometer CDM 83),
+total phosphorus (Valderrama 1981), nitrate nitrogen
+(Rodier 1984), silica (APHA et al. 1985) and Chlorophyll
+a (Lorenzen 1967).
+Phytoplankton were sampled monthly at six depths
+in the 0–6 m layer and pooled, from which a
+subsample was fixed in acetic Lugol’s solution and
+later counted under an inverted microscope (see Leoni
+et al. 2007). The guidelines of Bourrelly (1968, 1970,
+1972) and Huber-Pestalozzi (1983) were used to
+identify the algae, mostly to species level. At least 200
+individuals of the most abundant species were
+counted, with a counting error of about 15 % (Lund
+et al. 1958). The cell volume for each species was
+estimated according to Rott (1981).
+Zooplankton were sampled using a net of 25 cm
+diameter and 200 lm mesh size. Sampling was
+performed along a vertical gradient to a depth of
+6 m; three samples were taken at each point along the
+gradient after which the filtered material was mixed
+and preserved in 4 % formalin. The taxa present in the
+lake were identified using Dussart (1969), Margaritora
+(1983), Amoroso (1984), and Reddy (1994) and
+counted with an optical microscope.
+Differences in the series of limnological features of
+Lake Montorfano were tested using one-way
+ANOVA. If data were not normally distributed, the
+non-parametric Kruskal–Wallis test was used. If
+significant differences were detected within a series,
+appropriate multiple comparison procedures (Holm–
+Sidak method following ANOVA and Dunn’s method
+following Kruskall–Wallis test, with significance at
+p level = 0.05) were used to detect differences among
+groups. The Mann–Whitney test was used if only two
+groups were initially present. Variability of the data
+was expressed as standard deviations. Statistical
+analyses were all performed using Sigma Plot statistical
+package (2008 version 11, Systat software).
+
+xresults
+Results of the fish sampling are presented in Table 1.
+In all 3,867 individuals belonging to nine fish species
+were caught. By numbers, bream comprised 62 %,
+followed by pumpkinseed (19 %), perch (12 %) and
+rudd (5 %). Captures of pike, largemouth bass, tench
+and Italian roach were very infrequent (2 % overall).
+BPUE of the gill nets ranged from2.7 to 99.3 g m-2
+(mean = 55.9 ± 27.1 g m-2) and NPUE from 0.02 to
+6.15 ind. m-2 (mean = 3.1 ± 1.9 g m-2). No fish
+were captured in the additional larger mesh sizes.
+NPUE of electrofishing ranged from 1 to
+290 ind. dip-1 (mean = 17.6 ± 34.0 ind. dip-1).
+Bream dominated the gillnet catches by both
+biomass and numbers (Table 1) at all depths (Fig. 1a,
+b) whilst the pumpkinseed was the most abundant
+species in the in the electrofishing catches of the
+littoral zone (Table 1).
+BPUE of bream in the gill nets ranged from 2.7 to
+73.2 g m-2 (mean = 41.3 ± 20.4 g m-2) and NPUE
+from 0.02 to 3.95 ind m-2 (mean = 2.1 ± 1.1 ind
+m-2). Total length of the bream caught with gill nets
+(Fig. 2a) ranged from 5.2 to 31.5 cm (mean
+11.0 ± 4.0 cm) and total body mass was on average
+20.2 g (±32.8 g). Average size increased significantly
+with water depth (ANOVA F = 4.215, df = 2,
+p = 0.033), and the largest fish was thus captured in
+the deepest lake stratum (Fig. 2b).
+In the littoral zone, bream was very scarce with an
+average NPUE of 0.17 ± 1.41 ind dip-1. Mean body
+length of the bream caught by electrofishing was
+8.9 cm (±0.7 cm).
+A total of six age classes was identified, i.e.
+0–5 years. Calculated asymptotic length L? was
+33.5 cm (±0.93 cm 95 % CI), and the growth curve
+parameter k was 0.037 (±0.003 95 % CI). Length-atage
+is shown in Fig. 2c.
+The body mass-length relationship for both sexes
+pooled and log–log transformed was described by the
+following equation:
+The calculated mean length at maturity Lm was
+19.6 cm (95 % CI = 18.1–21.2 cm), higher than the
+Lm (14.30 ± 0.92 cm, 95 % CI) calculated using the
+logistic regression fitted to our data (Fig. 1d). As
+different proportions of male and females occurred in
+the two samples differences in length are also likely to
+occur, but both samples strongly indicate early
+maturity. Estimates of natural mortality M and total
+mortality Z were similar (0.61 and 0.64 year-1,
+respectively), suggesting a negligible fishing pressure.
+The contents of digestive tracts consisted entirely of
+microcrustaceans and rotifers (Fig. 3). The diet of the
+bream was strongly specialized, chydorids being the
+most frequent and abundant food item occurring in all
+the digestive tracts and accounting for an average of
+ca. 62 % in terms of numbers. Bosmina sp. was also
+important although not evenly found in the stomachs.
+Sediment was present in most of the digestive tracts
+but was not quantitatively measured.
+From 1991 to 1999 Secchi depth values were relatively
+uniform (Dunn’s method, p[0.05) but they decreased
+significantly during the 2000s (Dunn’s method,
+p\0.05), ranging from 2.1 m to 6.1 m (median
+= 3.9 ± 1.1 m) up to 1999 and from 1.2 to 4.0 m
+(median = 2.1 ± 0.7 m) in the two periods, respectively
+(Fig. 4a). Total phosphorus concentrations in the
+whole water column increased significantly in the
+2000s (Holm-Sidak p\0.05), ranging between 8 and
+29 lg L-1 (median = 12 ± 13 lg L-1) up to 1999
+and 14–34 lg L-1 (median = 22 ± 7 lg L-1) in the
+following decade (Fig. 4b). The same trend was
+observed for total nitrogen (Fig. 4c) and ammonium
+(Fig. 4d). Total nitrogen never exceeded 800 lg L-1 in
+the 1990s (median = 563 ± 104 lg L-1) being lower
+than in the 2000s (Dunn’s method p\0.05) when they
+remained higher than 800 lg L-1 (median = 1,151 ±
+265 lg L-1) and reached values as high as
+1,600 lg L-1. The ratio between total phosphorus
+and total nitrogen in the whole water column did not
+change (Kruskal–Wallis, p = 0.108 and p = 0.163
+respectively), but in the deeper layer (4–6 m) it
+increased significantly (Dunn’s methods p\0.05)
+from 33.9 in the 1990s to 45.5 in the 2000s. Ammonium
+(Fig. 4d) in the water column was always lower
+than 400 mg L-1 (median = 53 ± 128 mg L-1) in
+the 1990s and increased significantly in the 2000s
+(Dunn’s method, p\0.05), when values rose up to
+1,000 mg L-1 (median = 297 ± 330 mg L-1).
+However, in the deeper layers (4–6 m), ammonium
+had already increased in the late 1990s (Dunn’s
+method p\0.05). Differences in oxygen concentrations
+in the whole water column were not significant
+among the three periods (Kruskal–Wallis, p = 0.637),
+but from 2004 to 2007 anoxic conditions at the bottom
+of the lake persisted for longer periods in summer
+(Fig. 4e).
+Biotic variables also underwent important changes
+during the study period. In particular, phytoplankton
+density increased showing a shift towards more
+Cyanobacteria (dominated by globular jelly species
+such as Gomphosphaeria spp., Chroococcus spp.,
+Aphanotece spp., Aphanocapsa spp., Microcystis spp.
+and filamentous species such as Anabaena sp.)
+increasing particularly in the late 1990s (Dunn’s
+method p\0.05) (Fig. 4f). Among the Cyanobacteria,
+Aphanotece spp. was most abundant. Additionally,
+chrysophytese and dinophytes increased significantly
+in the 2000s (Dunn’s method, p\0.05), whilst
+diatoms, criptophytes and chlorophytes, did not
+exhibit any significant change (Kruskal–Wallis,
+p[0.05). Chlorophyll a concentrations did not
+change significantly between the two periods (Kruskal–
+Wallis, p = 0.107) (Fig. 4g).
+Overall, zooplankton abundance increased markedly,
+being higher in the 2000s than in the 1990s(Mann–
+Whitney, U = 6.000, p = 0.001, df = 1) (Fig. 4h).
+Among cladocerans, the large-bodied Daphnia sp. did
+not show any significant change (Mann–Whitney
+U = 27.0, p = 0.267, df = 1), but the small-bodied
+herbivores (Bosmina longirostris and Ceriodaphnia)
+(Fig. 4i) increased significantly (Mann–Whitney
+U = 4.0, p\0.001, df = 1) as did the proportion of
+small cladocerans (Mann–Whitney Mann–Whitney,
+U = 16.0, p = 0.007, df = 1). Cyclopoids dominated
+among the copepods and increased notably between the
+1990s and 2000s (Mann–Whitney U = 12.0, p =
+0.005, df = 1). Calanoids appeared only at the end of
+1990s (Fig. 4j).
+
+xdiscussion
+Although zooplanktivorous cyprinid fishes such as
+rudd, bleak and Italian roach dominate the native fish
+assemblage of most Italian natural shallow lakes
+(Volta et al. 2011), substantial changes have been
+recorded in recent decades. These have included an
+increase in the number of alien zoobenthivorous
+species such as bream, roach (Rutilus rutilus) and
+ruffe (Gymnocephalus cernuus) (e.g. Gherardi et al.
+2007; Volta and Jepsen 2008; Lorenzoni et al. 2009;
+Ciutti et al. 2011). Lake Montorfano is no exception to
+this pattern and its fish community now consists of a
+mixture of native and non-native species. How bream
+was introduced to the lake is unknown, although
+accidental introduction as live bait is a probable
+explanation as has been concluded for the recent
+arrivals of this and similar species in lakes of isolated
+regions of Europe (e.g. Winfield et al. 2011). At the
+time of the appearance of bream in Lake Montorfano
+in the late 1990s, fishing regulations concerning the
+use of live bait and its translocation from different
+catchments were inadequate and did not take into
+account the seriousness of threats posed by non-native
+species. The major limnological characteristics of the
+lake, such as its meso-eutrophic status, a mean depth
+of ca. 4 m and a dense reed belt, are very favourable
+for bream existence (Mehner et al. 2005; Kottelat and
+Freyhof 2007). Consequently, is not surprising that its
+introduction has resulted in the establishment of a
+viable population.
+Individuals larger than 35 cm were not captured
+in our sampling campaign even though the mesh
+sizes of the nets used could potentially catch such
+individuals (Psuty and Borowski 1997). According to
+Z ˇ
+ivkov et al. (1999), the growth of bream in Lake
+Montorfano can be classified as ‘type b’
+(25.5 cm\L?\59.0 cm), indicating a stunted
+population. Accordingly, the ‘Phi’ value is notably
+lower than for other bream populations (Table 2),
+indicating low growth performance of the individuals
+in Lake Montorfano. Stunted bream populations
+have previously been reported in the literature and,
+in shallow and small lakes, are often associated with
+very high fish densities (Cazemier 1982; Kottelat and
+Freyhof 2007). The bream population of Lake
+Montorfano occurred at all depths, apparently tending
+to avoid very shallow waters (\1 m) although
+caution must be taken when comparing catches by
+gill nets set overnight and daytime electrofishing.
+However, our results are consistent with those of
+other studies, indicating that bream inhabits mainly
+offshore habitats, independently of trophic status
+(Jeppesen et al. 2006).
+The present diet analyses showed specialization of
+bream on chydorids, which are typically bottom
+dwelling microcrustaceans, and on small cladocerans,
+but less on large cladocerans. Also, sediments were
+found in the digestive tracts, indicating a tendency to
+feed close to the bottom. An increase in the proportion
+of small cladocerans among the zooplankton, however,
+indicates higher predation pressure in the pelagic
+(Brooks and Dodson 1965; Gliwics 2003), perhaps as
+other fish are forced to stay more in the pelagic zone.
+However, large daphnids were still abundant suggesting
+that any enhancement of top-down control by fish
+was relatively weak, as also observed in the shallow
+eutrophic Lake Balaton (Tatrai et al. 1990). Other
+studies (e.g. Jeppesen et al. 1997a, b), however,
+indicate strong top-down control by zoobenthivorous
+fish in shallow lakes, except for those rich in aquatic
+vegetation.
+Whilst a top-down effect by bream on the food web
+of Lake Montorfano was apparently relatively weak, a
+clear bottom-up effect was evident. Despite the fact
+that the external nutrient loading levels are now low
+(Buzzi pers. com.), significant increase in nutrient
+concentrations (both P and N) has occurred in recent
+years. In addition, enhanced ammonium concentrations
+were first recorded in the deeper water strata,
+subsequently followed by an increase through the
+whole water column. Zoobenthivorous fish constitute
+an important link between the pelagic and the benthic
+parts of lake ecosystems, in part because their feeding
+close to the bottom disturbs sediments and so releases
+nutrients into the water column (Andersson et al. 1988;
+Breukelaar et al. 1994). Nutrient release via fish
+excretion constitutes a further indirect pathway from
+the benthic to the pelagic zones that can be exacerbated
+in cases of high fish densities (Vanni 2002;
+Verant et al. 2007). As nutrient concentrations
+increased in Lake Montorfano, phytoplankton abundance
+also increased. In addition, the algae community
+shifted to Cyanobacteria, dominated by Aphanotece
+spp. and Anabaena spp., which are able to fix nitrogen
+under anoxic conditions. Increase in contribution of
+cyanobacteria may further have reduced zooplankton
+grazing on phytoplankton (Gliwicz 2005).
+Macrophyte coverage in Lake Montorfano showed
+a major decrease following the establishment of the
+bream population. Two surveys carried out in the
+1980s (Provincia di Como 1985) and late 1990s
+(Garibaldi, data unpublished) described an aquatic
+vegetation characterized by six submerged species
+(Ceratophyllum demersum, Myriophyllum spicatum,
+Najas marina, Potamogeton pusillus, P. lucens, P.
+perfoliatus) and two floating-leaved species (Trapa
+natans, Nynphaea alba). In contrast, the early 2000s
+were characterized by an almost complete loss of
+submerged macrophytes, the aquatic vegetation (from
+shoreline to the middle of the lake) being composed of
+Phragmites australis and Typha latifolia, T. natans, N.
+alba and rare stands of C. demersum (Bianchi et al.
+2000; Volta pers. obs.). This development is not
+surprising as vegetation is quickly lost when a critical
+turbidity is exceeded (Scheffer et al. 1993).
+The changes in the limnological features of Lake
+Montorfano were moreover accompanied by significant
+changes in the fish fauna’s composition. The fish
+community had remained stable until the beginning of
+the 1990s, being dominated by open water zooplanktivorous
+fish such as rudd, bleak and Italian roach (de
+Bernardi 1985). A survey undertaken in the early
+1990s (Negri 1995) reported the following abundance
+percentages (based on numbers) for catches in multimesh
+gillnets: rudd (68 %), perch (13 %), largemouth
+bass (11 %), tench (3 %) and pumpkinseed
+(3 %), other species including small cyprinids (2 %).
+In this early 1990s survey, however, the mesh sizes of
+the nets were too large to capture small fish (smallest
+mesh size 18 mm) and a negative bias towards small
+pelagic cyprinids should therefore be taken into
+account. Our results indicate a substantial shift in the
+fish community from dominance of open water
+zooplanktivorous species to dominance of zoobenthivorous
+such as bream and pumpkinseed. What
+triggered the sharp declines in small native cyprinids
+in Lake Montorfano is unknown, but the deterioration
+of the ecological status of the lake might have played a
+major role. Grimaldi (1971) reports severe mortality
+events in bleak populations of north Italian lakes
+resulting from eutrophication, and Giussani et al.
+(1976) suggested that high levels of ammonium
+predispose the gill apparatus of small cyprinids to
+fungal and bacteria diseases. Hence, the high level of
+ammonium occurring in recent years together with
+longer periods of low oxygen concentrations may have
+adversely affected the populations of small cyprinids
+in the lake. As Hayden et al. (2010) reported that
+bream has a high potential for hybridization with roach
+(Rutilus rutilus) (F bream 9 M roach), it could be
+argued that small cyprinids declined due to hybridization
+with bream.
+At present, there is an apparently negligible predation
+pressure on bream in Lake Montorfano. Nonnative
+largemouth bass and pike are the only significant
+piscivorous predators in the lake because perch
+are on average very small (Table 1). In the present
+study, only adult specimens of largemouth bass were
+observed and the catch of only a few small specimens
+indicates weak reproductive success and recruitment.
+Compared with the survey of Negri (1995) in the early
+1990s, the abundance of largemouth bass has declined
+markedly. This in agreement with studies showing that
+in shallow lakes or ponds high densities of zoobenthivorous
+fish (Wolfe et al. 2009) or bluegills (Lepomis
+macrochirus) (Guy and Willis 1990; Brenden and
+Murphy 2004) can adversely affect largemouth bass
+populations by predation on eggs or by food competition
+at juvenile stages. Moreover, pike density in
+Lake Montorfano is low compared to other small,
+shallow lakes (Snow 1978; Margenau et al. 1998;
+Margenau et al. 2008). As bream population control
+through predation or fishing is weak, the number of
+bream in the lake is unlikely to decrease significantly
+in the near future. Biomanipulation by the removal of
+large amounts of bream from offshore waters (e.g.
+Søndergaard et al. 2007) can be used as a management
+tool to improve water quality and promote piscivorous
+predator recovery (de Roos and Persson 2002; de Roos
+et al. 2003; Persson et al. 2007). Substantial stocking
+of young of the year pike from the local stock might be
+considered in order to enhance predation on small
+bream (Berg et al. 1997) and promote a return to the
+clear state with extensive macrophytes (Søndergaard
+et al. 1997), but in most cases the effects of such
+manipulations in northern Europe has been poor (Skov
+et al. 2003; Skov and Nilsson 2007).
+In conclusion, Lake Montorfano has recently
+shifted towards a more turbid state with higher nutrient
+concentrations despite the fact that the external
+nutrient loading levels are now stable and low. This
+environmental deterioration followed the introduction
+and successful establishment of non-native bream in
+the late 1990s. Furthermore, this cyprinid has recently
+become the dominant fish species in the lake. The
+present study results suggest that bream may have
+contributed to the observed changes in the ecological
+status of the ecosystem via bottom-up mechanisms,
+while top-down effects were less apparent. The size
+structure of the bream population, characterized by
+dominance of relatively small specimens, has probably
+exacerbated the release of nutrients into the water
+column. Site-specific adaptive management, as suggested
+by Mehner et al. (2004), including control of
+the fish community composition and abundance,
+supplemented perhaps by stocking of piscivorous fish
+could be used to improve the ecological status of the
+lake.

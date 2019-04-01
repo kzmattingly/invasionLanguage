@@ -1,0 +1,1553 @@
+xabstract
+
+
+: Invasive alien plants can affect biomass production
+
+and rates of biogeochemical cycling. Do the direction
+
+and intensity of such effects depend upon the functional
+
+traits of native and alien species and upon the properties
+
+of the invaded habitat, with the same alien species having
+
+differing impacts in different habitats? Lowlands of Switzerland. Fourteen grassland and wetland sites invaded by
+
+Solidago gigantea and widely differing in biomass production
+
+and soil P availability were surveyed. To determine
+
+whether the impact of the species was related to site
+
+fertility, we compared the invaded and native vegetation
+
+in terms of biomass, species composition, plant traits and
+
+soil properties. S. gigantea generally increased the above-ground
+
+biomass production of the vegetation and soil C content,
+
+while reducing nutrient concentrations in biomass and N
+
+availability in the soil. However, it had no significant
+
+effect on plant species richness, soil respiration, soil pH
+
+and P availability. Leaves of S. gigantea had a greater C
+
+content than those of native species; other leaf traits and
+
+root phosphatase activity did not differ significantly. : Our results suggest that a conservative nutrient-use
+
+strategy allows S. gigantea to invade a broad range
+
+of habitats. The observed effects of invasion did not vary
+
+according to biomass production of the invaded sites, but
+
+some effects did depend on soil P availability, being more
+
+pronounced at more P-rich sites. Thus, the full range of
+
+invaded habitats should be considered in studying the
+
+potential impact of plant invasions on ecosystem processes. xintroduction The displacement of native plant species by invasive
+
+plants is a major concern for natureconservation
+
+managers. To tackle this problem, the
+
+mechanisms underlying the impact of invasive
+
+plants on the invaded communities need to be understood
+
+(Parker et al. 1999; Levine et al. 2003).
+
+Apart from direct competitive exclusion, invasive
+
+plants may reduce native species diversity indirectly
+
+by changing soil processes so as to create a positive
+
+feedback-loop that promotes the growth and spread
+
+of the invader (Miki & Kondoh 2002; Ehrenfeld
+
+2003). For example, invasive plants can influence
+
+nutrient cycles by changing the timing of nutrient
+
+uptake and nutrient release, by producing litter of
+
+different quality, by introducing different nutrient
+
+acquisition strategies (N2 fixation, mycorrhiza, deep
+
+rooting), or by having increased or reduced nutrient-use
+
+efficiency than the established plant
+
+community (Evans et al. 2001; Mack et al. 2001;
+
+Blank & Young 2002; Windham & Ehrenfeld 2003;
+
+Chapuis-Lardy et al. 2006; Sala et al. 2007). Studies
+
+investigating the impact of invasive plants on soil
+
+processes have mainly pointed towards a stimulation
+
+of nutrient cycling and increased nutrient
+
+availability, although opposite effects have also
+
+been observed for individual species (Ehrenfeld
+
+2003).
+
+The overall tendency of plant invasions to stimulate
+
+nutrient cycling and to increase site fertility
+
+reflects the typical traits of successful plant invaders.
+
+Phenotypic plasticity, relative growth rate, specific
+
+leaf area (SLA) and nutrient concentrations in plant
+
+biomass and litter tend to be greater in invasive
+
+plants than in co-occurring native plant species
+
+(Grotkopp et al. 2002; Daehler 2003; Ehrenfeld
+
+2003; Hamilton et al. 2005; Leishman et al. 2007).
+
+However, not all invasive plants exhibit these
+
+traits, and the impact on ecosystems of plants with contrasting functional traits may differ (Vila et al.
+
+2006). For example, Yelenik et al. (2007) found that
+
+two invasive legumes both increased N availability
+
+through N2 fixation, but only the perennial woody
+
+species caused a build-up of organic N, due to its
+
+more refractory litter. Thus, studying the functional
+
+traits of invasive plants helps to better understand
+
+the changes in ecosystem processes associated with
+
+their invasion (Eviner 2004; Gurvich et al. 2005;
+
+Suding et al. 2008).
+
+The impact of invasive plants may also depend
+
+on the properties of the invaded ecosystem, with site
+
+fertility being particularly important (Funk & Vitousek
+
+2007). According to initial site fertility,
+
+invasive plant species may increase or decrease nutrient
+
+concentrations in the soil, as has just been
+
+recently shown for highly invasive species in Belgium
+
+(Dassonville et al. 2008). The ëëtypicalíí plant
+
+traits associated with invasiveness (see above) generally
+
+confer a competitive advantage upon a species
+
+at nutrient-rich sites (Aerts 1999; Leishman et al.
+
+2007), and nutrient enrichment has indeed been
+
+found to promote plant invasions (Daehler 2003;
+
+Lake & Leishman 2004). However, nutrient-poor
+
+ecosystems may also be invaded, usually by species
+
+that use resources more conservatively (Monaco
+
+et al. 2005; Funk & Vitousek 2007) or are more
+
+plastic than the native species (Richards et al. 2006;
+
+Schumacher et al. 2009). Nutrient-limiting growth
+
+conditions can lead to different or weaker effects of
+
+invasive species on soil properties and processes
+
+(Kueffer et al. 2008). We might, therefore, expect
+
+plant species that invade both nutrient-poor and
+
+nutrient-rich sites to have varying impacts, especially
+
+if the relevant functional plant traits vary
+
+according to site fertility.
+
+An ideal species to test this hypothesis is the
+
+perennial rhizomatous forb Solidago gigantea (Lauber
+
+& Wagner 2007). This invasive alien occupies a
+
+large variety of habitats, ranging from dry to wet
+
+and from nutrient-rich to nutrient-poor, in Europe
+
+(Voser-Huber 1983; Gu®sewell et al. 2005; Weber &
+
+Jakobs 2005). For its impact on ecosystem properties,
+
+studies in grasslands in Belgium revealed
+
+greater above-ground production, P uptake and labile
+
+P concentrations in invaded than uninvaded
+
+sites (Vanderhoeven et al. 2005, 2006; Chapuis-Lardy
+
+et al. 2006). These results pointed to an increased
+
+P turnover in S. gigantea stands (Vanderhoeven et
+
+al. 2006; Herr et al. 2007). Such an effect would be a
+
+matter for concern, as it could potentially displace
+
+native plant species adapted to low P availability
+
+(Wassen et al. 2005) and promote further spread of
+
+invasive plants. However, the sites studied were
+
+ruderal grasslands with relatively high P concentrations
+
+in plants and soil, and it remains uncertain
+
+whether S. gigantea has undesirable effects in nutrient-poor
+
+ecosystems, these being of particular
+
+conservation interest.
+
+In this study, we surveyed 14 sites naturally invaded
+
+by S. gigantea and representing a wide range
+
+of habitat types of differing fertility. Our aim was to
+
+answer two main questions: (i) Does S. gigantea affect
+
+ecosystem properties across a broad range of
+
+habitats? (ii) Do invasion effects depend on site fertility
+
+prior to invasion? 
+
+
+xmethods
+
+ S. gigantea was introduced from North America
+
+as an ornamental plant in the 18th century. It started
+
+to spread extensively in central Europe between
+
+1850 and 1889 (Weber & Jakobs 2005) and is nowadays
+
+widespread. It is a perennial forb (Asteraceae)
+
+with annual stems of 50-200 cm height, which
+
+emerge in May, flower in August-September, and
+
+senesce in autumn. Its numerous small, wind-dispersed
+
+seeds allow S. gigantea to colonize new sites,
+
+but once established, it primarily spreads through its
+
+below-ground creeping rhizomes and can form
+
+dense, almost monospecific, stands (Weber & Jakobs
+
+2005). S. gigantea occurs over a wide range of
+
+soil conditions in Europe (Jakobs et al. 2004;
+
+Schlaepfer 2008), whereas it typically grows on
+
+moist soils in its native range (Abrahamson et al.
+
+2005). In summer 2006, 14 sites with semi-natural vegetation
+
+invaded by S. gigantea were selected in
+
+northern and western Switzerland (46-471N, 6-91E),
+
+ranging from 350 to 500 m a.s.l. Criteria for site selection
+
+were that: (i) the native plant community
+
+should be well established (no recently invaded sites)
+
+and visually homogeneous, (ii) Solidago invasion
+
+should not be associated with obvious heterogeneities
+
+in soil or terrain, or with previous
+
+disturbance, (iii) the survey should include a range
+
+of habitats from dry or semi-dry, nutrient-poor
+
+grasslands to highly productive wetlands and agricultural
+
+old-fields (established several years ago and
+
+with a dense vegetation cover), and (iv) no other
+
+Solidago species or invasive alien plants should be
+
+present. At all sites, S. gigantea stands formed distinct
+
+patches of one to several metres diameter within the
+
+native vegetation. In the following, we refer to areas
+
+without S. gigantea as ëëuninvaded patchesíí, and to
+
+their plant communities as ëënative vegetationíí.
+
+Stands of S. gigantea are called ëëinvaded patchesíí
+
+of ëëinvaded vegetationíí, although they also contained
+
+native species. By analogy, the soil found
+
+under the native or invaded vegetation is called
+
+ëënative soilíí and ëëinvaded soilíí, respectively. Differences
+
+between invaded and uninvaded patches or
+
+their soils are referred to as ëëinvasion effectsíí
+
+throughout this paper. ëëEffectíí is taken in a statistical
+
+sense as a comparative approach cannot
+
+unequivocally demonstrate causal effects. However,
+
+our site selection criteria (see above) would maximize
+
+the likelihood that significant differences
+
+between invaded and uninvaded patches reflect true
+
+invasion effects (Vanderhoeven et al. 2006).
+
+The native vegetation at the 14 sites was dominated
+
+by the following species (Lauber & Wagner
+
+2007): Carex flacca (site 1: semi-dry grassland on a
+
+river bank), Calamagrostis epigejos and Brachypodium
+
+pinnatum (site 2: semi-dry grassland on a
+
+railway verge), Bromus erectus and Hypericum perforatum
+
+(site 3: semi-dry grassland on a slope),
+
+Festuca arundinacea and Lotus corniculatus (site 4:
+
+semi-dry grassland on a gravel roadside), Festuca
+
+rubra and Elymus repens (site 5: grassland on an
+
+earth bank), Phragmites australis (site 6: wetland in
+
+a nature-conservation lakeside), Dipsacus fullonum
+
+and Origanum vulgare (site 7: old-field on a formerly
+
+agricultural field), Molinia litoralis (site 8: grassland
+
+on a river slope), Molinia caerulea (site 9: wetland in
+
+a nature-conservation lakeside), Carex acutiformis
+
+and Lysimachia vulgaris (site 10: wetland in a restored
+
+nature-conservation site), Urtica dioica and
+
+Potentilla reptans (site 11: moist old-field on a formerly
+
+agricultural field), Filipendula ulmaria and
+
+Dryopteris filix-mas (site 12: wet forest skirt), P.
+
+australis and Cirsium arvense (site 13: wetland in a
+
+nature-conservation riverside), P. australis and
+
+Phalaris arundinacea (site 14: wetland in a natureconservation
+
+reed).
+
+At each site, three plots of 40 cm40 cm (in total
+
+0.5 m2
+
+) were located in the native vegetation
+
+(uninvaded patches) and three plots in stands of S.
+
+gigantea (invaded patches) within an area of 50-
+
+100 m2
+
+. The small plot size was necessary in order to
+
+sample only the centre of S. gigantea patches at all
+
+sites. In July 2006, the height of the vegetation
+
+was recorded in all plots, and the shoot number of
+
+S. gigantea was counted in the invaded plots. The
+
+species composition of each plot was recorded
+
+(without abundance data) and used to establish two
+
+pooled species lists for each site, one for the native
+
+vegetation and one for the invaded vegetation (see
+
+Appendix S1). Species numbers, as well as average
+
+ecological indicator values for moisture (F) and nutrients
+
+(N) (Ellenberg et al. 1997), were calculated
+
+for the total area of 0.5 m2 in the native as well as in
+
+the invaded vegetation of each site. S. gigantea was
+
+excluded from these calculations so that they would
+
+reveal how the native species composition differed
+
+between invaded and uninvaded patches.
+
+The above-ground biomass of the plots was
+
+harvested, dried for 48 h at 751C, and weighed. Below-ground
+
+biomass samples were collected at four
+
+sites (wetlands) in summer 2006 from an area of
+
+20 cm20 cm and a depth of 15 cm within the selected
+
+plots. Roots and rhizomes were cleaned from
+
+soil and these samples were also dried and weighed.
+
+The dried plant material (above- and below-ground)
+
+was ground to 1 mm prior to chemical analyses.
+
+Kjeldahl N and P concentrations were determined in
+
+the dried plant material by acid digestion, where
+
+ground plant material was digested with concentrated
+
+H2SO4 and a Kjeltab (3.5 g K2SO4/0.4 g
+
+CuSO4; FOSS Analytical AB, Ho®gana®s, Sweden)
+
+at 4201C for 1 hr. N and P concentrations of the digests
+
+were analysed using a flow injection analyser
+
+(FIASTAR 5000, FOSS Tecator AB). To determine differences or similarities in leaf
+
+traits between the invader S. gigantea and dominant
+
+native species, we sampled 10-20 leaves from S. gigantea
+
+and from two or three dominant species of
+
+the adjacent native vegetation at each site in July
+
+2006. Leaves of native species were sampled in the
+
+uninvaded patches. Samples were kept between wet
+
+paper to saturate leaf tissue with water until they
+
+were processed later in the same day. Leaf area was
+
+measured using a leaf area meter (LI-3100, LiCor,
+
+Lincoln, NB, USA), and the samples were then
+
+weighed, dried at 751C for 24 h and weighed again.
+
+The measurements were used to calculate the SLA
+
+(leaf area divided by dry mass), tissue density (dry
+
+mass divided by fresh mass), and leaf thickness
+
+(fresh mass ñ approximately equal to leaf volume ñ
+
+divided by leaf area). C and N concentrations of
+
+the dried leaf material were measured using an elemental
+
+analyser (CN-2000, Leco Corporation,
+
+St. Joseph, MI, USA). Additionally, root phosphatase activity was determined
+
+with root samples obtained from soil cores
+
+(4 cm diameter, 10 cm depth) taken in the uninvaded
+
+and invaded patches (n 5 5 cores). In the invaded
+
+patches, only roots of S. gigantea were collected; in
+
+the uninvaded patches, all roots were collected, but
+
+no attempt was made to identify the species. Within
+
+24 h after soil core sampling, cleaned roots (100 mg)
+
+were incubated for 1 hr at room temperature in reaction
+
+tubes with 5 ml p-nitrophenyl phosphate (pNPP)
+
+substrate solution (5 mM) buffered at pH 6 (Tabatabai
+
+& Bremner 1969). The reaction was stopped by
+
+adding 500 ml of the samples to 3 ml NaOH (2 N). The
+
+absorbance of the solution was measured at 410 nm
+
+using a photometer (Uvi Light XT2, Secomam, Ales
+
+Cedex, France) and used to calculate the amount of
+
+p-nitrophenol released from the substrate as a measure
+
+of root phosphatase activity. Five soil cores (4 cm diameter, 15 cm depth)
+
+were taken in the uninvaded and invaded patches in
+
+July 2006, after the harvest of vegetation biomass.
+
+They were kept at 41C until they could be processed.
+
+Fresh soil samples were analysed for pH, availability
+
+of N and P, and phosphatase activity within 48 h
+
+after sampling. Soil pH was determined in distilled
+
+water (Allen 1989). Ammonium and nitrate availability
+
+were determined with 0.2 M potassium
+
+chloride extractions, by shaking 20 g fresh soil in
+
+100 ml KCl for 1 h (Verhoeven et al. 1996). Phosphate
+
+availability (Olsen-P) was assessed with 0.5 M
+
+sodium bicarbonate extractions, by shaking 10 g
+
+fresh soil in 100 ml NaHCO3 (pH 8.5) for 1 h (Allen
+
+1989). N and P concentrations in the soil extracts
+
+were measured using the flow injection analyser
+
+(FIASTAR 5000). Phosphatase activity in soil was
+
+determined using modification of the pNPP method
+
+of Tabatabai & Bremner (1969). Fresh soil (2 g) was
+
+mixed with 5 ml pNPP substrate solution (200 mM)
+
+and gently shaken for 1 h at room temperature (pH
+
+was not manipulated). After the addition of 200 ml
+
+NaOH (2 N) to the samples, the absorbances were
+
+measured at 410 nm using the photometer (Uvi
+
+Light XT2). Soil samples were dried at 1051C for
+
+24 h to determine the dry weight percentage. They
+
+were subsequently ground in a mortar to analyse
+
+total C and N concentrations using the elemental
+
+analyser (CN-2000).
+
+In April 2007, soil respiration was measured at
+
+six of the sites (four semi-dry grasslands and two
+
+wetlands) in three invaded and three uninvaded
+
+patches per site. A soil respiration chamber (991 cm3
+
+volume) was used that could be fixed on PVC collars
+
+inserted in the soil to create a closed soil-air system
+
+(Wang et al. 2008) and a portable infrared gas analyser
+
+(Li 6400, LiCor) was attached. To minimize the
+
+effects of soil disturbance, collars were inserted into
+
+the soil 24 h before the measurements began. In the
+
+same plots, soil temperature and moisture at 5 cm
+
+depth were measured using a contact thermometer
+
+(testo 112, testo AG, Mo®nchaltorf, Switzerland) and
+
+a TDR probe (HH2 Moisture Meter, Delta-T Devices
+
+Ltd, Cambridge, UK).
+
+Nutrient availability in soil was investigated in
+
+situ in October 2007 using ion-exchange resin (IER)
+
+bags (Qian & Schoenau 2002). Each IER bag consisted
+
+of 2 g mixed-bed IER (Amberlite IRN 150,
+
+H1 and OH form, Sigma-Aldrich, Buchs, Switzerland),
+
+which was filled in 5 cm5 cm bags made
+
+of fine Nylon fabric (60 mM mesh width, Sefar Nitex
+
+03- 60/35, Sefar AG, Thal, Switzerland). Before use,
+
+the IER bags were shaken twice for 30 min with 1 M
+
+KCl to saturate exchange sites with K1 and Cl
+
+ions. Six IER bags were inserted 1-2 cm below the
+
+soil surface in each of the two vegetation types (native
+
+or invaded) within an area of 50-100 m2 at each
+
+site. The IER bags were removed from the soil after
+
+1 month, cleaned with deionized water and extracted
+
+in 50 ml HCl (0.5 M) by shaking for 1 h. IER extracts
+
+were analysed for ammonium and nitrate
+
+concentrations using a flow injection analyser
+
+(FIASTAR 5000). Phosphate concentrations were
+
+determined in the IER extracts using the acid molybdate
+
+blue method (Murphy & Riley 1962), and
+
+absorbance was measured at 880 nm using the photometer
+
+(Uvi Light XT2). To test whether ecosystem properties differ between
+
+native and invaded vegetation (question 1),
+
+we first carried out two-way analyses of variance
+
+with the factors ëëinvasioníí (fixed) and ëësiteíí (random).
+
+These analyses revealed significant invasion
+
+effects (for leaf C, biomass, nutrients in biomass,
+
+soil N availability) and invasionsite interactions
+
+(for vegetation height, P concentration in biomass,
+
+nutrient availabilities in soil, root phosphatase activity,
+
+pH) confirming that invasion effects vary
+
+among sites (results not shown).
+
+To test whether these differences depend on site
+
+fertility (question 2), we then performed analyses of
+
+covariance with ëëinvasioníí as the fixed factor and
+
+ëësite fertilityíí as the covariable. However, our survey
+
+included several variables that could serve as a
+
+measure of ëëfertilityíí (productivity, soil nutrient availability), and the examination of correlations
+
+among these variables (using only data from uninvaded
+
+patches) revealed that the 14 sites could not be
+
+ranked along a single fertility gradient. Rather, there
+
+were two independent gradients, i.e. two groups of
+
+variables correlated with each other, but not with
+
+variables of the other group. One group, hereafter
+
+referred to as ëëproductivity gradientíí, included the
+
+above-ground biomass of the native vegetation, soil
+
+N content, soil N availability and the moisture indicator
+
+value (Table 1). We represented this gradient
+
+by vegetation biomass in the analyses of covariance.
+
+The second group, referred to as ëëP availability gradientíí,
+
+included P availability in the native soils, P
+
+concentrations in plant biomass and the nutrient indicator
+
+value (Table 1). We represented it by soil P
+
+availability as measured by Olsen extractions. All
+
+variables were thus analysed with linear mixed models
+
+including the invasion effect (uninvaded versus
+
+invaded patches) as the fixed factor, productivity and
+
+P availability as covariables, and sites as the random
+
+factor. Variables measured at only four sites (belowground
+
+biomass and root mass ratio) were analysed
+
+without covariables because of the small site number.
+
+Functional leaf traits were compared between S.
+
+gigantea and native plant species, with an additional
+
+distinction being made between native grasses and
+
+forbs to account for differences between these functional
+
+groups. A two-way ANOVA was performed,
+
+with species group (S. gigantea, native forbs, native
+
+grasses) and site as factors.
+
+All statistical analyses were performed with R
+
+version 2.5.0 (R Development Core Team, R Foundation
+
+for Statistical Computing, Vienna, AT).
+
+xresults
+
+
+Small-scale species richness in uninvaded patches
+
+at the 14 investigated sites ranged from four to
+
+16 species (within a total area of 0.5 m2
+
+) and was not
+
+significantly changed by the invasion of S. gigantea
+
+(Table 2); differences ranged from  82 to 140% at
+
+individual sites. Ellenberg moisture indicator values
+
+of the vegetation ranged from rather dry (4.1) to wet
+
+(8.6) and nutrient indicator values ranged from nutrient-poor
+
+(3.0) to nutrient-rich (7.8) across sites;
+
+invaded and native vegetation did not differ for
+
+these two parameters.
+
+Above-ground biomass ranged from 0.19 to
+
+1.26 kg m 2 in the native patches and was significantly
+
+increased (on average by 87%) by the
+
+invasion of S. gigantea (Table 2, Fig. 1a). Vegetation
+
+in the invaded plots was also taller (Table 2). Belowground
+
+biomass (at four of the sites) did not differ
+
+significantly between the invaded and the native vegetation,
+
+so that below-ground parts represented a
+
+smaller fraction of total biomass in the invaded vegetation
+
+(Table 2).
+
+N and P concentrations in the above-ground
+
+biomass were lower in the invaded vegetation than
+
+in the native vegetation (Fig. 1c, d, Table 2). The
+
+reduction in P concentration was most pronounced
+
+at sites with high P availability (Fig. 2d; IPav interaction
+
+in Table 2). The P pool in the aboveground
+
+biomass was 1.3 times larger in invaded than
+
+in native vegetation (Table 2), but there was no difference
+
+between the N pools.
+
+Leaves of S. gigantea had a greater C concentration
+
+than leaves of the dominant native
+
+species (Fig. 3a). Other leaf traits (SLA, leaf thickness,
+
+leaf tissue density, leaf N concentration or C:N
+
+ratio) did not differ significantly between S. gigantea
+
+and native species (Fig. 3). When functional groups
+
+were distinguished, S. gigantea and native forbs had
+
+lower leaf tissue densities than native grasses (Fig.
+
+3d). The root phosphatase activity of S. gigantea
+
+tended to be lower than that of the native vegetation,
+
+but the difference was not significant (P 5 0.09,
+
+Table 2). The soils at the various sites ranged from loam
+
+to peat, and all soil properties also varied widely
+
+among sites. However, only few variables appeared
+
+to be influenced by S. gigantea. Total C concentrations,
+
+which ranged from 25.7 to 123.3 g kg  1
+
+, were
+
+on average increased by 6% in invaded soils (Figs.
+
+1b, 2b, Table 3). Total N concentrations ranged
+
+from 1.2 to 10.3 g kg  1 and did not differ between
+
+native and invaded plots (Table 3). For the soil C:N
+
+ratio, differences depended on soil P availability
+
+(significant interaction): the soil C:N ratio was
+
+reduced under invaded vegetation at sites with low
+
+P availability and increased at sites with high soil
+
+P availability.
+
+Inorganic N concentration (ammonium1nitrate)
+
+was 16% lower in invaded plots than in native
+
+ones (Figs. 1e, 2e, Table 3). Both nitrate and ammonium
+
+concentrations were reduced similarly,
+
+although the effect was only significant for nitrate
+
+(Table 3). These differences depended on site productivity
+
+and soil P availability, with greater
+
+reductions in soil N and nitrate concentrations at
+
+sites with low biomass production and intermediate
+
+P availabilities (Table 3, Figs 1e, 2e). The phosphate
+
+concentration (Olsen-P) varied widely among sites
+
+(0.6-13.7 mg  P  kg  1 soil), but was not significantly
+
+affected by S. gigantea invasion (Table 3, Figs 1f,
+
+2f). Also, there was no interaction between P availability
+
+in the native vegetation and the effect of
+
+S. gigantea invasion on soil phosphate concentration
+
+(Table 3).
+
+Nutrient availability as assessed by IER burial
+
+(14-103 mg  N  g  1 IER and 0.8-24.6 mg  P  g  1
+
+IER) was not significantly affected by S. gigantea
+
+invasion, nor did any differences depend on productivity
+
+or soil P availability (Table 3). Soil pH, soil
+
+phosphatase activity, soil respiration rate, moisture
+
+and temperature also did not differ between uninvaded
+
+and invaded patches (Table 3). xdiscussion
+The 14 study sites varied widely in biomass
+
+production and soil P availability, as well as in
+
+disturbance history (old-fields, semi-natural grasslands,
+
+natural wetlands) and present management
+
+(part of the sites are mown). Despite this variation,
+
+the effects of S. gigantea on many vegetation properties
+
+and on some soil properties were qualitatively
+
+consistent across sites, although the size of the effects
+
+differed among sites. Thus, invasion at all or
+
+most sites was associated with increases in aboveground
+
+biomass, vegetation height, P pools and soil
+
+C content, and decreases in nutrient concentrations
+
+in biomass and in N availability in the soil. Most of
+
+these effects were also reported in previous studies in
+
+Belgium (Chapuis-Lardy et al. 2006; Vanderhoeven
+
+et al. 2006), suggesting that S. gigantea has fairly
+
+consistent effects on ecosystem properties across a
+
+broad range of habitats. Greater biomass production is one of the effects
+
+most frequently associated with plant invasions
+
+worldwide (Ehrenfeld 2003), and the invasion of
+
+S. gigantea conforms to this pattern. The ability of
+
+invasive species to increase biomass production can
+
+be due to: (i) faster inherent growth rate, (ii) the
+
+exploitation of nutrient sources that are unavailable
+
+to the native species (Yelenik et al. 2004; Dassonville et al. 2007), or (iii) a more efficient use of nutrients
+
+for biomass production (Fiala et al. 2004; Funk &
+
+Vitousek 2007). Our comparison of leaf traits did
+
+not support the first mechanism for S. gigantea, as it
+
+did not have a greater SLA or nutrient concentration
+
+in leaves than the co-occurring dominant native species. A greater SLA is typically found in fastgrowing
+
+plants that invade nutrient-rich sites
+
+(Daehler 2003; Leishman et al. 2007). Accordingly,
+
+S. gigantea did not grow consistently faster than a
+
+subset of the native species in a common garden experiment
+
+(D. Scharfy, unpubl. data). A different
+
+nutrient acquisition strategy from the native species
+
+is also rather unlikely for S. gigantea. We found a
+
+lower biomass allocation to roots and a tendency to
+
+lower root phosphatase activity and S. gigantea has
+
+a similar rooting depth as native species in Belgian
+
+stands (Herr et al. 2007). Thus, the high biomass
+
+production of S. gigantea is probably largely due to
+
+a more efficient use of acquired nutrients.
+
+Biomass N and P concentrations of the invaded
+
+vegetation were lower than those of the native vegetation
+
+in our study, apparently due to the
+
+production of nutrient-poor stems, which can make
+
+up 70% of the above-ground biomass of S. gigantea
+
+in late summer, as Herr et al. (2007) determined in
+
+Belgian stands. Lower nutrient concentrations mean
+
+that more biomass can be produced per unit of N or
+
+P taken up. However, this alone does not explain the
+
+greater biomass production of the invaded vegetation,
+
+as it contained a larger absolute amount of P
+
+than the native vegetation. This may have been due
+
+to reduced pools of P in below-ground parts during
+
+the growing season and/or to more efficient nutrient
+
+conservation during the winter. Herr et al. (2007)
+
+showed that S. gigantea outperformed native species
+
+in nutrient resorption from senescing shoots and
+
+nutrient accumulation in below-ground parts during
+
+the autumn. In pot experiments, we also found that
+
+nutrients stored in roots and rhizomes at the end of
+
+the growing season were conserved throughout the
+
+winter (S. Gu®sewell & C. del Fabbro, unpubl. data).
+
+Nutrient accumulation in rhizomes during the winter
+
+is an effective competitive strategy at both nutrient-poor and nutrient-rich sites (Grime 2001).
+
+It may therefore explain why S. gigantea is able to
+
+invade the vegetation and increase its above-ground
+
+biomass across sites with widely varying fertility.
+
+Despite the greater biomass production, native
+
+plant species richness was not consistently reduced
+
+by S. gigantea, contrary to the negative effects reported
+
+from Belgian sites (Vanderhoeven et al.
+
+2006). This contradiction could be due to differences
+
+in scale (six 1-m2 plots were analysed in Belgium
+
+compared with three 0.16-m2 plots in the present
+
+study). However, it can also be resolved by considering
+
+that the effect of S. gigantea on species
+
+richness was related to its effect on biomass: thus,
+
+when the effect of S. gigantea on above-ground biomass
+
+was small, the native species number tended to
+
+increase, whereas it decreased when the biomass effect
+
+was large (more than 10.25 kg m 2
+
+). Our
+
+results are therefore consistent with those in the
+
+Belgian study, in which S. gigantea increased the
+
+above-ground biomass by more than 0.25 kg m 2
+
+(Vanderhoeven et al. 2006). The absence of a clear
+
+negative effect of S. gigantea on species richness may
+
+also be due to its late phenology: shoots only start
+
+growing in late April, leaving niches for the growth
+
+of native species in early spring, especially when its
+
+stem density is not very high. Differences in phenology
+
+between native and invasive species might
+
+explain why some invasive species do not reduce
+
+native species diversity (Gu®sewell & Edwards 1999;
+
+Vila & Gimeno 2007).
+
+An increase in soil organic matter (C) content
+
+under stands of invasive plants has been reported in
+
+many previous studies (Scott et al. 2001; Caldwell
+
+2006; Fickbohm & Zhu 2006; Heneghan et al. 2006;
+
+Vila et al. 2006), and has been attributed to increased
+
+biomass production and litter fall (Yelenik
+
+et al. 2004) or to reduced litter decomposition rates
+
+(Ogle et al. 2003). In the case of S. gigantea, both
+
+mechanisms might have contributed to the increase
+
+in soil C. Biomass production was increased, but the
+
+leaves of S. gigantea also had a greater mean C
+
+concentration than those of native species (12.6%),
+
+suggesting that S. gigantea tissue probably decomposes
+
+more slowly than tissue of native species. The
+
+effect of S. gigantea on soil C was, however, very
+
+small compared with effects reported for other species
+
+(Yelenik et al. 2007), and no significant increase
+
+in soil C was found under S. gigantea in Belgium
+
+(Vanderhoeven et al. 2006).
+
+N availability in soil is often increased under
+
+invasive plants (Ehrenfeld 2003), but reduced N
+
+availability has also been found, for example for
+
+Hieracium pilosella in tussock grasslands of New
+
+Zealand (Scott et al. 2001) and Bromus tectorum in
+
+an arid grassland in the western USA (Evans et al.
+
+2001). The latter effect was typically attributed to
+
+the production of nutrient-poor litter, leading to
+
+slower N mineralization (Evans et al. 2001; Drenovsky
+
+& Batten 2007). Because the vegetation
+
+invaded by S. gigantea had lower nutrient concentrations
+
+in standing biomass (this study) and
+
+litter (Herr et al. 2007), N immobilization in decomposing
+
+plant litter with a high C:N ratio might
+
+have caused the lower N availability in soil under
+
+S. gigantea. By causing low N supply rates through reduced mineralization rates, plants with a conservative
+
+N-use strategy can reinforce their superiority
+
+over native species (Wedin & Tilman 1990;
+
+Evans et al. 2001; Drenovsky & Batten 2007). It remains
+
+to be investigated whether S. gigantea
+
+benefited from reduced N mineralization. For the
+
+likewise invasive congeneric S. canadensis, Rebele
+
+(2000) did observe a greater competitive ability relative
+
+to native species under low-nutrient conditions.
+
+P availability in soil was not increased by S. gigantea
+
+invasion in our study. In contrast, increased
+
+P availability was reported for Belgian sites, where it
+
+was attributed to a greater P turnover due to S. gigantea
+
+taking up more P in its biomass and releasing
+
+more P through litter mineralization (Chapuis-Lardy
+
+et al. 2006). Because the invaded vegetation in
+
+Belgium had greater P concentrations than at our
+
+Swiss sites, it is possible that the Swiss litter with a
+
+greater C:P ratio released P more slowly and therefore
+
+did not increase soil P availability. Soil
+
+acidification, as partly found to be associated with
+
+increased soil P availability in Belgium, also did not
+
+occur. Furthermore, acid soil phosphatase activity
+
+and soil respiration did not differ between native
+
+and invaded vegetation at our sites, whereas they
+
+were increased under S. gigantea in Belgium (Chapuis-Lardy
+
+et al. 2006). This further suggests that
+
+the greater litter input by S. gigantea stimulated nutrient
+
+release through microbial activity in Belgium,
+
+but not in Switzerland. Whether different nutrient
+
+concentrations in litter were really responsible
+
+would be a topic for further study. There were two largely independent gradients
+
+related to fertility across our sites: productivity and
+
+P availability. The productivity gradient was not
+
+clearly related to N availability, despite a strong
+
+positive correlation with KCl-extracted N, as productivity
+
+(i.e. above-ground biomass of the
+
+vegetation) correlated negatively with IER-N and
+
+did not correlate with N concentrations in biomass
+
+(Table 1). Productivity was also unrelated to soil
+
+moisture, as assessed by Ellenberg F indicator values.
+
+We found that the effects of S. gigantea on
+
+ecosystem properties did not depend on productivity
+
+(except for the soil nitrate availability), but for
+
+several variables the magnitude and/or direction of
+
+the invasion effect was conditioned by P availability
+
+in the soil.
+
+The differences in P concentration in the aboveground
+
+biomass between native and invaded vegetation
+
+were clearly strongest at the P-rich sites,
+
+which consisted of one grassland and the two old-
+
+field sites. This relationship might be linked to the
+
+native vegetation composition, as there was a strong
+
+positive correlation between the Ellenberg N indicator
+
+value and the soil P availability (R 5 0.81, cf.
+
+Table 1). Species with high Ellenberg N values generally
+
+have high P concentrations in biomass and a
+
+ruderal or competitive-ruderal strategy (Gu®sewell
+
+2004), which implies a rapid cycling of nutrients.
+
+The more conservative nutrient-use strategy of
+
+S. gigantea would then contrast most strongly with
+
+properties of the native vegetation at sites with high
+
+soil P availability. The same reasoning may hold for
+
+the reduction in soil N availability, which was also
+
+more pronounced at the P-rich sites. Furthermore,
+
+the soil C:N ratio was generally reduced in the
+
+invaded patches, but it was increased at the most
+
+P-rich sites. The latter was due to increased soil C
+
+content and slightly lower soil N content, consistent
+
+with the proposed difference in nutrient-use strategy
+
+between S. gigantea and native species at the P-rich
+
+sites.
+
+The measured functional leaf traits of S. gigantea
+
+gave no clear explanation for the dependence of
+
+invasion effects on soil P availability. For the N
+
+concentration of vegetation biomass, the C and N
+
+concentrations of leaves, or plant height (which is
+
+related to the fraction of stem biomass), differences
+
+between the native and the invaded vegetation were
+
+unrelated to soil P availability. It is possible that
+
+differences in below-ground traits such as root nutrient
+
+concentrations and litter production were
+
+more important (Herr et al. 2007). Studies of seasonal
+
+changes in below-ground biomass and nutrient
+
+pools at a larger number of sites may be needed to
+
+better understand the observed invasion effects.
+
+Our study was initially triggered by concern
+
+about the increase in soil P availability under S. gigantea
+
+reported from Belgium (Chapuis-Lardy et al.
+
+2006). We wondered whether vegetation of high
+
+conservation value would be threatened by this effect,
+
+or whether it would be limited to rather fertile
+
+sites. Contrary to expectation, we found that S. gigantea
+
+had no consistent effect on soil P, regardless
+
+of the productivity or P availability of the invaded
+
+site. There were considerable differences in Olsen-P
+
+or IER-P between invaded and uninvaded plots at
+
+some of the sites, but these were either positive or
+
+negative. Absolute differences were largest at the
+
+most P-rich sites (Fig. 2f), but relative differences
+
+were also large at some of the P-poor sites (50-100%
+
+difference). A similar observation was actually made
+
+by Vanderhoeven et al. (2006), who found available P to be increased following invasion of S. gigantea at
+
+two of the five investigated sites and reduced at one
+
+site. Interestingly, the increase in available P occurred
+
+at the least P-rich sites and the decrease
+
+occurred at the most P-rich site, so that P availability
+
+varied less among the invaded patches than
+
+among the uninvaded ones (Vanderhoeven et al.
+
+2006). Dassonville et al. (2008) recently proposed
+
+that such a negative relationship between initial nutrient
+
+availability and invasion effect on nutrient
+
+availability, leading to more homogeneous soil conditions,
+
+is a general pattern. This was not confirmed
+
+by our study, in which the effects of S. gigantea on
+
+soil P showed no relationship to initial P availability.
+
+The labile soil P fractions were larger in
+
+Belgium than the Olsen availability in our study, but
+
+soil P availabilities were determined with different
+
+methods in Belgium and a comparison is therefore
+
+difficult. Further examination of our data also revealed
+
+no relationship between invasion effects and
+
+soil moisture (Ellenberg F value) or soil pH. It is
+
+possible that site management plays a role by influencing
+
+organic matter inputs to the soil (cf. ChapuisLardy
+
+et al. 2006; Herr et al. 2007). Further research
+
+to explain the diverging effects of S. gigantea on soil
+
+P availability should therefore include long-term
+
+experiments manipulating both initial soil fertility
+
+and management. Three main conclusions can be drawn from this
+
+study. First, our results show that S. gigantea has
+
+the ability to modify ecosystem properties across a
+
+wide range of vegetation types, including regularly
+
+managed semi-natural vegetation. Our results also
+
+basically confirm the previous suggestion that the
+
+greater productivity and nutrient-use efficiency of
+
+S. gigantea compared with native species are decisive
+
+for its effect on ecosystem processes (as
+
+indicated by the comparison of native and invaded
+
+patches), whereas differing leaf traits typical of fastgrowing
+
+invaders, such as greater SLA and nutrient
+
+concentrations, were not involved.
+
+Second, the effects of S. gigantea on biomass
+
+production and soil nutrients were less dramatic
+
+than those described from Belgium. In particular,
+
+there was no increase in P availability. However, our
+
+results do not imply that invasion by S. gigantea is
+
+unproblematic for nature conservation; rather, they
+
+highlight the need to keep the biomass and litter
+
+production of S. gigantea as low as possible through
+
+regular management. Third, some effects of S. gigantea on soil properties
+
+were related to P availability, but not to N
+
+availability or biomass production. It is therefore
+
+important to consider that there may be independent
+
+gradients related to nutrient availability,
+
+and that these may be of differing importance for
+
+the invasion effects. Accordingly, a multi-site approach
+
+is important in studying the effects of
+
+invasive plants on ecosystems. Detailed investigations
+
+of soil processes at a single site (Herr et al.
+
+2007) or at a small number of carefully selected sites
+
+(Chapuis-Lardy et al. 2006) are valuable for understanding
+
+how an invasive plant affects site
+
+conditions, whereas multi-site surveys are needed to
+
+assess the generality of such effects.

@@ -1,0 +1,695 @@
+xabstract
+
+
+Plant invasion and increased flooding intensity
+projected by climate change models can change the soil capacity
+of marine wetland to store P. This is a key question to
+the nutrient balances and eutrophication processes of coastal
+areas, especially in China coastal area that is receiving the
+freshwaters of a country in fast economical developing process.
+We studied the impact of changes in flooding intensity
+and plant invasion on total soil-P concentrations in the
+Minjiang River estuarine wetland. Flooding had a weak positive
+effect on soil P-fractions concentrations, but this effect
+was largely counteracted by the negative effect of salinity. Soil
+clay concentration and pH, both of which were related more
+with species community composition than with flooding intensity,
+were directly related to the P-fraction concentrations.
+The replacement of the native mangrove community by the
+invasive plant Phragmites australis was related to a decrease
+in the soil capacity to store P.Asuitablemanagement tomaintain
+this wetland area in optimum conditions to act as a natural
+eutrophication buffer should tend to favor mangrove communities
+in the new areas that reach more than 220 days y-1
+of flooding, and a combination of the three tall-grasses communities
+below this level of flooding
+
+
+xintroduction
+
+
+Phosphorus (P) is a crucial element for all living organisms.
+Next to nitrogen (N), P is the nutrient that most commonly
+limits plant production in the terrestrial biosphere (Margalef
+1997; Aerts and Chapin 2000). Several drivers of global
+change such as N eutrophication, changes in soil use, species
+invasion or climate change currently have serious impacts on
+the P cycle and P imbalances and other important bioelemental
+cycles, such as that of N (Sardans et al. 2006; PeÒuelas et al.
+2012 and 2013). The question now arises whether or not P and
+its imbalances with other nutrients can alter the capacity of
+Earth to fix C from anthropogenic emissions of carbon dioxide
+(PeÒuelas et al. 2013).
+Global warming is affecting ocean levels through its impacts
+on the global water cycle (Schewe et al. 2011;
+Mendelsohn et al. 2012; Piecuch and Ponte 2014), and nutrient
+stoichiometry (Sardans et al. 2012a; Sardans and PeÒuelas
+2014a, b). These effects of global warming can further affect
+the global P cycle and its stoichiometric relationships with
+other nutrients, which can then affect community structure
+and function (Sterner and Elser 2002; Sardans et al. 2012b;
+PeÒuelas et al. 2012 and 2013).
+The increase in ocean levels could be especially critical for
+wetland ecosystems (Ramsar 2013). Flooding in these important
+ecosystems can alter soil contents and the stoichiometric
+relationships of C, N, P, and sulfur (S) by changing the
+aerobic/anaerobic biogeochemical equilibrium, nutrient inputs
+and outputs, and/or the structures of plant communities
+(Steinman et al. 2012; Recha et al. 2013; Wang et al. 2013),
+and by altering water flow and fluxes (Zak et al. 2008;
+McCray et al. 2012). Wetlands are also frequently affected
+by other drivers of global change such as species invasions
+that can interact with the increase in flooding duration and
+intensity to change the capacity of wetlands to store P
+and/or to change the proportions of different soil-P fractions.
+Moreover, the expected increase of typhoon events
+will increase the flood time, water table, soil salinity and
+anoxic conditions. Furthermore, typhoon events increase
+litterfall and nutrient cycling in plant-soil system (Wang
+et al. 2015c).
+Estuaries and marshes are sinks for the wastewater from
+human activities that frequently contain high concentrations
+of P loaded to rivers (Mustafa and Scholz 2011; Wang et al.
+2012). Despite the high priority at a global scale of wetland
+restoration (Mustafa and Scholz 2011; Dunne et al. 2011; Zak
+et al. 2014), wetlands restored on former agricultural land
+could potentially release accumulated P and become a source
+of eutrophication (Kjaergaard et al. 2012; Kinsman-Costello
+et al. 2014). Under increasing intensities of flooding, we
+should expect higher levels of anoxic conditions, under
+which increased Fe3+ reduction could increase the release
+of P from Fe3+ phosphates (Zak et al. 2008; Kjaergaard et al.
+2012).
+Invasions of alien plant species are currently increasing
+and are a serious threat to global plant diversity (Vitousek
+et al. 1987; Funk and Vitousek 2007). Most studies that
+have investigated alien success have identified nutrient
+availability and the competitive capacities of nutrient uptake
+and of coping with low levels of nutrients as the key
+factors accounting for the success of the alien species
+(Sardans and PeÒuelas 2012a, 2012b; Drenovsky et al.
+2012). Moreover, alien plants frequently alter soil nutrient
+concentrations and availability, the decomposition of organic
+matter, nutrient cycling, and soil stoichiometry (Sardans
+and PeÒuelas 2012a, 2012b; Drenovsky et al. 2012).
+Invasive plant species, such as the common reed,
+Phragmites australis, are spreading in several Chinese wetlands
+(Tong et al. 2011; Wang et al. 2015a). The success of
+P. australis has been associated with its higher nutrient-use
+efficiency and up-take capacity than native species (Wang
+et al. 2015a). We hypothesized that increased flooding
+could have an impact on its invasive success and its interactions
+with plant-soil P-cycle, which in turn could affect
+the effect of flooding intensity on the status of soil P in
+wetlands.
+China coastal areas receive great amounts of P (Sharpley
+and Wang 2014; Gao et al. 2015; Li et al. 2015), that have
+increased by a factor of 2ñ5 in the period 1970ñ2000 and
+threaten to increase additional 30ñ200 % towards 2050
+(Strokal et al. 2014). We hypothesized that total P and Pfractions
+in soil will change in function of flooding intensity
+and plant community, and therefore the increase or decrease of
+wetlands capacity to act as a P sink or source in the next
+decades can be projected in an scenario of flooding enhancement
+and reduction of wetland surface and enlighten the management
+possibilities of improving such capacity.
+We studied soil-P concentrations under different flooding
+gradients and under the absence/presence of an invasive species
+in the Minjiang River estuarine tidal wetland to clarify
+their effects on P concentrations and fraction variations. We
+aimed to answer the questions: (i) how do increased flooding
+and different plant communities, including a successful invasive
+plant species, affect the concentrations and contents of
+total soil P and the soil P fractions, and (ii) which physicochemical
+soil properties are involved in these effects?
+
+
+xmethods
+
+
+
+Study Areas
+This study was conducted in the Minjiang River estuarine
+wetland in southeastern China, in the transition zone of the
+mid-subtropical and south subtropical zones (25∞50'43?-26∞9'
+42?N, 119∞5'36?-119∞41'5?E). The estuary has an area of
+476 km-2 and a relatively warm and wet climate, with a mean
+annual temperature of 19.7 ∞C and a mean annual precipitation
+of 1346 mm (Liu et al. 2006). Many wetlands are distributed
+in the estuary and along the river. We conducted three experiments
+in this study (Fig. 1).
+(1) P. australis and the native sedges Scirpus triqueter L. and
+Cyperus malaccensis var. brevifolius Boeckeler are the
+plant species that dominate the land surface in the
+Shanyutan wetland and are typically found in the upper
+(mid to high) portions of mudflats (Liu et al. 2006).
+These three species can grow in both high-flood and
+low-flood habitats.We established an experimental setup
+in this wetland at two flooding intensities and with three
+species communities. The flooding in the studied areas is
+based on the tide flood, and therefore depends on the
+distance to sea. Changes in river flow are also important
+to control the flood, but the main responsible of the differences
+of flooding intensity across different wetland
+areas is sea tidal. The high-flood habitats are flooded
+by intermediate tides ca. 240 d y-1 and are submerged
+beneath 10ñ120 cm of water for 0.5ñ4 h during each tidal
+inundation. The areas occupied by each species were ca8, 9, and 18 hm2 for S. triqueter, C. malaccensis, and
+P. australis, respectively. The low-flood habitats are
+flooded only during spring tides, ca. 80 d y-1, and are
+submerged beneath 10ñ50 cm of water for 0.5ñ2 h during
+each tidal inundation. The areas occupied by each
+species were ca. 7, 12, and 6 hm2 for S. triqueter,
+C. malaccensis, and P. australis, respectively. The soil
+surfaces of both the low- and high-flood habitats of the
+entire estuarine wetland are exposed at low tide, but the
+soil remains flooded in some low areas.We analyzed two
+flooding intensities ◊ three communities ◊ six soil layers
+◊ three replicates, for a total of 108 samples. With this
+experiment we analyzed how different flood intensities
+are related with differences in soil P concentrations and
+P-fraction in soils under each one of the three tall-grasses
+depending on flooding intensity.
+(2) Communities of the invasive P. australis in the Shanyutan,
+Bianfuzhou, and Youxizhou wetlands were selected as
+high-flood, intermediate-flood, and low-flood habitats,
+respectively, from the coast inland to test the effects of
+flooding intensity on the total soil-P concentration and
+content and different P fractions. The high-flood habitat
+(Shanyutan wetland) is flooded by tides ca. 240 d y-1 and
+is submerged beneath 10ñ120 cm of water for 0.5ñ4 h
+during each tidal inundation. The intermediate-flood
+habitat (Bianfuzhou wetland) is flooded by tides ca.
+220 d y-1 and is submerged beneath 10ñ100 cm of water
+for 0.5ñ3 h during each tidal inundation. The low-flood
+habitat (Youxizhou wetland) is flooded by tides ca.
+180 d y-1 and is submerged beneath 10ñ70 cm of
+water for 0.5ñ1.5 h during each tidal inundation.
+We analyzed three flood intensities (the high-flood
+intensity was the same as that in the first experiment
+for P. australis) ◊ one community ◊ six soil layers ◊
+three replicates, for a total of 54 samples (36 were
+different from those in the first experiment). With this study we analyzed whether or not soils under the invasive
+species P. australis have different P and P-fractions
+concentrations at different levels of flooding intensity.
+(3) P. australis in the Shanyutan wetland subjected to highflood
+intensity has invaded the wetland over the past
+30 years and is now the most prevalent plant species
+occupying the natural habitat of the native mangroves.
+P. australis has spread occupying sites that previously
+were covered by mangrove communities. Mangroves
+had not a high density, and humans tend to reduce its
+density and to allow P. australis spreading. We investigated
+and compared total soil-P concentration and content
+and different P fractions in the P. australis communities
+and in the natural mangrove habitat in this highflood
+habitat. We analyzed one flooding intensity
+(high) ◊ two communities (the data for P. australis were
+the same as for the high-flood intensity in the first
+experiment) ◊ six soil layers ◊ three replicates, for a total
+of 36 samples (18 were different from those in the first
+experiment). With this experiment we analyzed the differences
+in P and P-fractions concentrations between the
+invasive P. australis tall-grass and the native mangrove
+community in the current wetland areas submitted to the
+high levels of flooding intensity. Collection and Analysis of Soil Samples
+Soil samples were collected in October 2007 from the
+S. triqueter, P. australis, C. malaccensis, and mangrove communities
+in the high- and low-flood habitats. Three replicate
+plots were randomly established in each community at each
+flooding intensity. Soil profiles (width, 1 m; length, 1 m; depth,
+0.6 m) were excavated, and samples were collected with a
+small sampler (length, 0.3 m; diameter, 0.1 m) from each of
+six soil layers (0ñ10, 10ñ20, 20ñ30, 30ñ40, 40ñ50, and 50ñ
+60 cm) at the centers and both sides of the soil pits. These three
+samples were bulked to form one sample per layer. A total of
+162 soil samples were thus collected (108 for the first experiment
+plus an additional 36 and 18 samples for the second and
+third experiments, respectively). In the laboratory, the samples
+were air-dried, roots and visible plant remains were removed,
+and the soil was finely ground in a ball mill.
+Soil P Analyses
+Total P (TP) and total inorganic P (Pi) concentrations were
+determined following the method described by Ruban et al.
+(1999) (see Appendix 1 in Supplementary Information for
+details).
+Total organic P (Po) concentrations were determined by
+rinsing the residual soil in the above centrifuge tubes twice
+with 12 ml of deionized water, freeze-drying, ultrasonicating
+in a bath for 30 s, ashing for 3 h at 450 ∞C, transferring
+to 100-ml centrifuge tubes after cooling, adding 20 ml of
+3.5 mol L-1 HCl, mixing on the QHZ-98A oscillator at
+250 rpm for 16 h at 25 ∞C, and then centrifuging at
+2000 g for 15 min. The P concentrations of the supernatants
+were determined colorimetrically as for Pi.
+We used the continuous extraction procedure of Lu (1999)
+to determine the P concentrations in the labile Po, moderately
+labile Po, moderately resistant Po, and highly resistant Po
+fractions (see Appendix 1 in Supplementary Information for
+details). We used the continuous extraction procedure of
+Ruban et al. (1999) to determine the P concentrations in the
+exchangeable Pi, Fe ± Al Pi, and Ca Pi fractions.
+Residual Pi P concentration was determined by:
+Ωresidual Pi º ΩTPñΩexchangeable PiñΩFe ˛ Al PiñΩCa PiñΩtotal Po:
+Determination of Other Soil Parameters
+Total S concentrations were determined by method of Lu
+(1999) (see Appendix 1 in Supplementary Information for
+details).
+Soil bulk density was measured from three 5 ◊ 3 cm cores
+per soil layer (Wang et al. 2014), salinity was measured with a
+DDS-307 conductivity meter (Boqu Scientific Instruments,
+Shanghai, China), pH was measured with an 868 pH meter
+(Orion Scientific Instruments, USA), soil particle-size (clay,
+silt, and sand) contents were determined with a SEDIMAT4-
+12 particle size analyzer (UGT Scientific Instruments,
+M¸ncheberg, Germany), and soil-water content was determined
+gravimetrically (Lu 1999).
+Determination of Soil C, N, and P Storage
+The C, N, and P storages for all soil layers were estimated by
+following Mishra et al. (2010):
+Cs ºX
+n
+jº1
+cm  ?b
+ D
+where CS is C, N, or P storage (kg m-2), j is the soil-depth
+interval (1, 2, Ö n; 0ñ10, 10ñ20, 20ñ30, 30ñ40, 40ñ50, and
+50ñ60 cm) cm is the C, N, or P concentration (g kg-1), ?b is the
+bulk density (kg m-3), D is the thickness of each soil layer (m),
+and n is the number of soil layers.
+Statistical Analyses
+The statistical significance of differences in the soil parameters
+among the flooding intensities and soil layers in the communities
+was assessed with general linear models and Tukeyís post-hoc tests. We determined the Pearson correlation coefficients
+among all pairwise soil studied parameters. We also
+determined the effects of water content and species on N and
+P storage. All univariate statistical analyses were performed
+using SPSS 13.0 (SPSS Inc., Chicago, USA).
+We performed multivariate discriminant function analysis
+(DFA) to determine the importance of total C, N, P, and S
+concentrations; DOC, NH4
++, NO3
+-, and available-S concentrations;
+exchangeable Pi, Fe + Al Pi, Ca Pi, residual Pi, labile
+Po, moderately labile Po, moderately resistant Po, and highly
+resistant Po concentrations; exchangeable Pi:labile Po and total
+Pi/Po ratios; and total C:N, C:P, N:P, C:S, N:S, and P:S
+ratios in the separation of the chemical components of the soil
+in the plots at different flooding intensities for the three species
+(Raamsdonk et al. 2001). The DFAs were performed using
+Statistica 6.0 (StatSoft, Inc., Tulsa, USA). All nutrient ratios
+were calculated in mass basis.
+We performed structural equation modelling to determine
+the best model for explaining the TP concentration, exchangeable
+Pi concentration, the exchangeable Pi:labile Po ratio, the
+total Pi:Po ratio, and the recalcitrant P concentration (endogenous
+variables) as functions of the flooding intensity (as a
+dummy variable), and the other soil traits such as soil salinity,
+pH and clay concentrations (exogenous variables). This analysis
+provided information for the direct, indirect and total
+effects of the exogenous variables on the endogenous variables
+and allowed us to determine the direct and indirect relationships
+of exogenous variables on endogenous variables.
+For example the direct effect of flooding intensity on total soil
+P concentrations can be distinguished from the indirect effect
+of flooding on total soil P due to the effect of flooding intensity
+on salinity that thereafter has an effect on soil total P concentration.
+We fitted the models using the sem R package (Fox
+et al. 2013) and achieved the minimum adequate model using
+the Akaike information criterion (AIC). Standard errors of the
+effects were extracted by bootstrapping (1200 repetitions)
+(Davison et al. 1986; Mitchell-Olds 1986).
+
+xresults
+
+Effects of Flooding, Soil Physicochemical Traits
+and Species on Soil-P Pools (Experiment 1)
+Flooding increased soil P concentrations of all studied Pi and
+Po fractions in the S. triqueter community but not in soils
+under the communities dominated by the other two species:
+the other native species, C. malaccensis and the invasive species
+P. australis that did not change P concentrations under
+higher flooding duration (Fig. 2, Table S1).The results of the
+repeated measures ANOVA (in space) are very similar to
+those of the GLM analysis of the flooding effect on the variables
+shown in Fig. 2 (Table S1). In the GLM analyses with
+flooding duration, species and soil depth as independent categorical
+variables, only the Fe + Al P pools differed, with the
+Fe + Al Pi pool being higher and the Fe + Al Po (moderately
+labile) pool lower for C. malaccensis than for P. australis
+(Table S2). This asymmetrical effect of increased flooding
+dependent on species is clearly shown by the PCA with all
+soil variables, where the PC1 scores for the S. triqueter soils
+subjected to low flooding are very different than those for all
+other soils (Fig. 3). The PCA indicated that bulk density, sand
+content, and the total Pi:Po ratio were higher in the S. triqueter
+soils subjected to low flooding (Fig. 3).
+Bulk density was lower (higher silt and lower sand contents)
+under high flooding intensity, and soil-water content,
+salinity, and C and N concentrations were higher (Table S2).
+We observed a significant interaction flooding intensity x species,
+due to that these effects were particularly observed for
+S. triqueter soils and much less in the other two species.
+Higher NH4
++ and lower NO3
+- concentrations were found at
+high flooding than at lower flooding intensities (Table S2). TP
+concentration and the concentrations of most P pools were
+positively correlated with clay and silt contents, total C and
+N concentrations, DOC concentration, and NO3
+- concentrations
+and negatively correlated with sand content, bulk density,
+and S concentration (Table S3). These correlations were
+stronger in Pi fractions than in Po fractions. Consequently,
+clay and silt contents and total C, N, and DOC concentrations
+were negatively correlated with the total Pi/Po ratio, and sand
+content and bulk density were positively correlated with the
+total Pi:Po ratio (Figure S1). These effects were mainly due to
+the large differences between the S. triqueter soil under low
+flooding intensity and all other soils (Figure S1).
+The total N:P ratios were higher under flooding in the wetlands
+of the three species at most soil depths (Table S2, Fig. 4).
+Moreover, this ratio was highest for the invasive P. australis
+soils (Table S2, Fig. 4).
+The structural models that best explained (lower AIC)
+the different P fractions and their Pi:Po ratios are shown
+in Figs. 5, 6 and 7. The best model for TP and exchangeable Pi
+(Fig. 5) concentrations showed that clay content and soil pH
+had direct positive significant effects on these P variables and
+that flooding had an indirect negative effect through its positive
+effect on salinity that subsequently had a negative effect
+on these P variables (Figs. 5, 6 and 7).
+The best structural model for total recalcitrant P (Pi + Po)
+and total Po concentrations indicated a direct effect of clay
+content but not of soil pH, while an indirect effect of flooding
+by increasing salinity was also observed (Figs. 6 and 7). This
+relationship is consistent with the expected according to clay
+properties. The indirect negative effect of flooding on the
+exchangeable Pi:labile Po ratio was best explained by the
+direct effect of flooding on higher total S concentrations
+that subsequently had a negative effect on the exchangeable
+Pi:labile Po ratio (Fig. 7).
+ Soil pH and mainly clay content thus had strong positive
+relationships with P-fraction concentrations, and these effects
+were stronger in the Po than the Pi fractions, and both consequently
+decreased the total and exchangeable Pi:labile Po ratios
+(Figs. 5 and 7). Flooding had no significant direct effects
+on clay content or soil pH. These results were consistent with
+those of previous univariate analyses where the variability of
+clay content and soil pH were slightly related with flooding
+intensity when comparing overall soils. The relationships between
+clay content and soil pH with flooding intensity were
+positive in soils under S. triqueter and negative in soils under
+the other two species (Fig. 8).
+Effects of Flooding on the Soil-P Pools in the Invasive
+P. australis Communities (Experiment 2)
+The P. australis soil in the mid-flood habitat had the highest
+TP concentrations and stored more P, mainly in the upper
+30 cm of the soil, relative to the low- and high-flood habitats
+(Fig. 9a and 9l), due mainly to the high concentrations of the Pi
+pools (Fig. 9 b-e). The exchangeable Pi:total P ratio in the upper
+30 cm of soil were higher in the mid- than the low- and highflood
+habitats dominated by this invasive species (Fig. 9m). The
+PCA with all soil variables indicated that PC1 (explaining
+44.7 % of the total variance) significantly (P < 0.05) separated
+
+ the scores of the stands of P. australis growing under the three
+flooding intensities. The concentrations of the Po pools increased
+from soils under low flooding to soils under high
+flooding intensities, coinciding with a decrease in sand content
+and bulk density and with an increase in clay and silt contents
+(Fig. 10). Interestingly, the PC2 scores (explaining 27.2 % of
+the total variance) for the soils in the mid-flood habitat differed
+significantly from the scores for the soils in the low- and highflood
+habitats (P = 0.004 and P = 0.0001, respectively)
+(Fig. 10). PC2 was significantly loaded by TP concentration,
+total P stored in the soil, and all Pi pools, with the soil in the
+mid-flood habitat placed toward the highest values and coinciding
+with lower C:P ratios (Fig. 10). Increased flooding was
+associated with an increase in total N:P ratios (Fig. 11).
+Differences in Soil P Contents Between Mangrove
+and Communities Dominated by the Invasive P. australis
+(Experiment 3)
+Mangrove soils accumulated more P in the upper 10 cm of the
+soil than the P. australis soil at the same flooding intensity
+(Fig. 12). The mangrove soils had higher bulk densities, sand
+contents, pHs, salinities, and NO3
+- concentrations and lower
+water contents, silt contents, total C and N concentrations, and
+total N:P ratios than the P. australis soils (Table S4). The P
+stored in the upper 60 cm of soil were marginally significantly
+(P = 0.08) higher in the mangrove soils than the P. australis
+soils (Table S4).
+The PCAwith all soil variables indicated that the scores of
+the mangrove soils were significantly (P < 0.0001) separated
+from those of the P. australis soils along the PC1 axis
+(explaining 31.2 % of the total variance) (Fig. 13). This axis
+was significantly loaded by sand content, bulk density, pH,
+salinity, P storage, water content, and NH4
++ concentration,
+with the mangrove scores placed toward higher pH, P storage,
+sand content, bulk density, and salinity and toward lower water
+content and NH4
++ concentration (Fig. 13).
+xdiscussion
+
+Flooding Effects Versus Species Effects on the Status
+of Soil P
+The relationships of flooding and the P pools were very asymmetrical,
+depending on the species. Despite we did not can
+disentangle if differences in soils P concentrations in soils
+under the different species were the cause or the effect of the presence of these species, the P pools changed most in the
+soils depending on the flooding intensity in the native
+S. triqueter wetlands than in the sites dominate by the other
+two studied species. These differences may be related, at least
+partially, to the very much lower biomass of the S. triqueter
+community than those of the C. malaccensis and P. australis
+communities (Wang et al. 2015b).The TP concentrations of
+ca. 0.7 g kg-1 in the first few centimeters of soil in these
+wetlands were within the range of 0.3ñ1.3 g kg-1 observed
+in marine and estuarine wetland areas around the world
+(Carol et al. 2012; Xu et al. 2012; Irick et al. 2013; Gao
+et al. 2014; Yu et al. 2014).The concentrations of most P
+fractions abruptly decreased at a depth of 30 cm. Most of the
+P was stored in the first few centimeters of the soil profiles, as
+in other wetland areas (Wang et al. 2011; Gao et al. 2014).
+These areas are thus very vulnerable to P losses from any
+disturbance that could pose a potential risk of an increase in
+P in the water column, and consequently its potential export to
+coastal areas.
+Flooding increased TP accumulation, several P fractions,
+and the exchangeable Pi:labile Po ratio, but these effects were
+partially counteracted by the indirect effects of flooding on
+soil salinity and total S concentration, because these variables
+had negative effects. Clay content and soil pH, however, were mostly associated with the various soil P fractions concentrations
+that in turn were more related with the dominant species
+and with the interaction between species and flooding than
+with flooding intensity alone. Most of the variability of
+the P concentrations was explained by the variation of
+the clay contents of the S. triqueter communities, which
+were lowest under lower flooding intensity, along with the
+lowest concentrations of all P fractions and especially the
+Po fractions. Higher clay contents were associated with
+higher sulfur concentrations (under high redox potential of
+the media) and lower soil pHs, consistent with the higher
+anoxic conditions expected in soils with high clay contents
+(Miller et al. 2001; Oxmann et al. 2009). The unique important
+and general effect of flooding intensity on the P fractions
+was due to its effect on soil salinity. Pore-water salinity in
+wetlands has been associated with flooding intensity and thus
+with species composition and P concentration (Mendoza et al.
+2012). These associations may be due to the effects of soil
+salinity on plant P uptake and thus on the P concentrations
+and contents in the leaves and litter, together decreasing
+the capacity of P retention in the ecosystem with increasing
+salinity (Mendoza et al. 2012). In our studied sites, settling rates depend partially of the
+number of hours of flooding. Thus the longer times that water
+covers the soil as flooding intensity increases should permit
+higher particle sedimentation, which should be more relevant
+for clay particles than for the larger sand particles. Moreover,
+higher clay contents and anoxic conditions should produce
+lower pHs. But higher flooding intensity was associated with
+higher clay contents, within the range of flooding intensities of
+this study only in the wetlands dominated by S. triqueter. Our
+results, thus, suggested that soil clay content could be related
+with the specific-species cover at some extend. Anyway, the
+study design was not aimed to disentangle whether the high
+clay soil concentrations under S. triqueter in specially at high
+flooding intensity is a cause of the occurrence of this species
+in rich-clay soils or they are the consequence of the
+existence of this species increasing the capacity to trap clay
+particle. In another study, exchangeable Pi increased and
+labile Po decreased under flooding (Newman and Pietro 2001).
+The clay concentrations were negatively correlated with the total
+(R2 = 0.44, P < 0.00001) and exchangeable Pi:labile Po ratios
+(R2 = 0.22, P < 0.00001), suggesting that Po mineralization was
+hindered by high clay contents. Clay content was also negatively
+correlated with soil pH, but this relationship was not associated
+with flooding intensity; soil pH was thus not clearly associated
+with flooding. In contrast to the expected decrease in pHwith the
+more anoxic soil conditions under higher flooding intensity,
+some studies have observed that soil pH increased with flooding
+intensity (Saint-Laurent et al. 2014).
+Previous studies in wetlands have also reported relationships
+between clay content and P storage (Chapuis-Lardy
+et al. 2006; McGrody et al. 2008; Wang et al. 2013), due
+mostly to high Fe-Al P and Ca P fractions and to the higher
+adsorption capacity of the soil, because high clay contents
+provide more solid and large surface per unit weight (Wang
+et al. 2013). In fact, and consistent with these observations, the
+Fe + Al Po fraction was the fraction best correlated with clay content (R2 = 0.62). Our results thus demonstrate that these
+effects were mainly related to the species, despite the effects of
+flooding intensity on the P fractions in the soil profile.
+Xu et al. (2012) have also suggested that the vegetation
+could significantly influence P dynamics and availability
+in the Yellow River delta. However, we can not disentangle
+whether the different soil texture under the different
+studied species-communities is the cause or the
+effect of these species distribution.
+The concentrations of TP and in the P fractions mostly
+did not differ significantly between the P. australis and
+C. malaccensis soils. We only observed differences in the
+Fe + Al P fractions, with higher Fe + Al Pi and lower Fe +
+Al Po concentrations in the C. malaccensis soils, consistent
+with the slightly higher rates of litter mineralization observed
+in C. malaccensis soils than in P. australis soils (Tong et al.
+2011). The lack of general differences in the status of soil P
+between these two species was consistent with the small differences
+in litter elemental composition in the same wetlands
+(Tong et al. 2011). But despite the little differences observed
+in litter composition, we have observed some stoichiometrical
+differences between these two species in litter C:P (555 ± 1
+and 473 ± 1, P < 0.0001, respectively) and N:P (12.8 ± 0.04and 10.3 ± 0.12, P < 0.0001, respectively) ratios. These results
+are consistent with some observed results regarding soil P.
+For example, the lower soil recalcitrant Po and higher
+labile Pi/Po ratio in soils under P. australis than in soils
+under C. malaccensis suggest higher decomposition rates
+of organic P consistent of litter with lowerN:P ratio related with
+higher microbial growth rates and activity such as expected in
+the frame of ecological stoichiometry approach (Mooshammer
+et al. 2012; Zechmeister-Bolstenstern et al. 2015). Differences Among Species of Flooding Effects on P Status
+Concentrations in the Pi fractions in the upper 30 cm of the
+P. australis soils were higher at the highest flooding intensity
+than at the lowest and intermediate flooding intensities,
+whereas concentrations in the Po fractions were lowest at
+the lowest flooding intensity. The TP stored in soil and
+the exchangeable Pi:TP ratio in the upper 30 cm of soil
+were both highest at the intermediate flooding intensity.
+The intermediate flooding intensity thus produced the
+highest accumulation of P and the highest proportion of
+plant-available P in the P. australis soils. The biomass of
+the invasive P. australis was thus higher than those of
+S. triqueter and C. malaccensis (P < 0.05) in the highflood
+habitat but was only higher than that of S. triqueter
+(P < 0.05) in the low-flood habitat (Wang et al. 2015b).
+The higher exchangeable Pi: labile Po ratio in the upper
+30 cm of soil at the intermediate flooding intensity in the
+P. australis wetlands suggested that the mineralization
+rates would be higher at the intermediate flooding intensity,
+within the range tested in this study.
+The N:P ratios in the P. australis soils increased with
+flooding intensity, as also observed when comparing the three
+species at two flooding intensities. A higher N:P ratio should
+mitigate the N limitation observed in other studies in this same
+wetland area (Wang et al. 2014). N:P ratios of 5.4ñ5.7 have
+been considered as indicating that a wetland is a P sink
+(Jimenez-Carceles and Alvarez-Rogel 2008). The range of
+the total N:P ratio (0.5ñ3) in this wetland area is thus very
+low, and N is also probably limiting at the highest flooding
+intensity. Our results thus also suggest that these wetlands are
+strong P sinks, with consequently low N:P ratios, and that the
+N:P ratio increases at higher flooding intensities with increases
+in N accumulation and not by decreases in P content.
+The capacity to store P at different flooding intensities is a key
+question in the estuarine wetlands of China, because cropland
+soils have very high P concentrations (MacDonald et al. 2011;
+Wang et al. 2014), consistent with the large amount of P stored
+in this estuarine area. This capacity to store P is even more
+crucial in the wetlands of subtropical China, where the
+high temperatures produce high rates of P mineralization
+(Rui et al. 2012) and the strong rains cause severe erosion in
+the river basins, which increase the transport of P from upriver
+to estuarine areas (Tian et al. 2010).
+Our results thus suggest that the best management strategy
+for maximizing the capacity of this wetland area to act as a P
+sink should favor the combination of C. malaccensis and
+P. australis wetlands in areas of low flooding intensity
+(<180 d y-1 inundation) and the combination of S. triqueter,
+C. malaccensis, and P. australis wetlands in areas of
+intermediate-high flooding intensities (>180 d y-1 inundation).
+Effects of Mangrove and P. australis Wetland on the Status
+of Soil P
+In contrast with the previous results suggesting a closer positive
+relationship between clay content and the different P fractions,
+especially the Po fractions, the sandier soils in the mangrove
+community stored higher amounts of P in the upper
+10 cm of soil than the less dense soil in the P. australis wetlands
+at similar flooding intensities. The higher soil density in
+the mangrove community allowed a higher total accumulation
+of P, despite the higher P concentration in the P. australis
+community. This capacity may thus be responsible for the
+large structural difference between these two communities.
+Mangrove ecosystems have a large capacity to retain soil nutrients
+(Tam and Wong 1996; Silva et al. 1998). The slow
+decomposition of wood in the upper soil layers could play a
+large role in this capacity (Romero et al. 2005). Nielsen and
+Andersen (2003) observed that P in the Bangrong mangrove forest in Thailand tended to be concentrated in the leaf litter
+during decomposition, which was associated with the high P
+concentrations in the soils. These results suggest that the
+maintenance of native mangrove communities to act as P
+sinks is the best management strategy in wetland areas with
+high flooding intensities (>220 d y-1 inundation). Our results
+strongly suggest that the best management strategy that
+would both preserve biodiversity and maximize the capacity
+of the wetland area to act as a P sink for future scenarios o
+rise in flooding duration, should favor the combination of
+C. malaccensis and P. australis wetlands in areas with low
+flooding intensity (<180 d y-1 inundation), the combination
+of S. triqueter, C. malaccensis, and P. australis wetlands in
+areas with intermediate flooding intensity (180ñ220 d y-1
+inundation), and the maintenance of native mangrove communities
+in areas with high flooding intensities (>200 d y-1
+inundation). In fact, this wetland area has been recently declared
+as National Reserve and some of the current mangrove
+areas have been planted by China government. This study thus
+shows the positive results of this policy of repopulation of
+native mangrove communities in the higher flooded areas to
+rise the capacity to store P in soil and to avoid eutrophication.
+Conclusions
+Flooding moderately increased TP accumulation, P concentrations
+in several P fractions, and the exchangeable Pi:labile
+Po ratio. Some indirect effects of flooding, such as increases in
+soil salinity and total S concentrations, contributed to the moderation
+of the relationship between flooding and the P fractions
+by counteracting the direct positive relationship with
+flooding. This moderation occurred because these variables
+were negatively correlated with total P accumulation, P concentrations
+in several P fractions, and the exchangeable
+Pi:labile Po ratio.
+We observed an interaction between species and flooding
+on the total-P and P-fraction concentrations. The relationship
+between flooding and higher P-fraction concentrations
+depended on the species community. The principal cause of
+this relationship was the relationship of each species with the
+increase in clay content as flooding increased. Clay content
+was the soil variable most positively correlated with the various
+P-fraction concentrations and was more dependent on the
+dominant species than on the flooding intensity alone.
+Higher clay contents were correlated with higher S concentrations
+and lower pHs, consistent with the higher anoxic conditions
+expected in soils with higher clay contents. Clay content
+was also correlated with a higher adsorption capacity. All
+these soil conditions at high clay contents are consistent with
+lower Po availability to microorganisms and consequently
+with conditions unsuitable for mineralization and thus with
+higher Pi concentrations and especially with higher Po concentrations
+(low Pi:Po ratio).
+Thus, taking into account future scenarios of flooding intensity
+rise and the projected scenarios of the amounts of P
+received by coastal waters from rivers in China (Strokal et al.
+2014), a suitable management to both preserve biodiversity
+and to maintain this wetland area in optimum conditions to
+act as a natural eutrophication buffer should tend to favor
+mangrove communities in the new areas that reach more than
+220 days y-1 of flooding, and the combination of the three tallgrasses
+below this level of flooding.

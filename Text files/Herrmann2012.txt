@@ -1,0 +1,1737 @@
+xabstract
+
+
+
+
+1. The composition and spatiotemporal dynamics of biological communities are influenced by
+
+biotic processes, such as predation and competition, but also by physical disturbances, such as
+
+floods in running waters. However, the interplay of disturbance with predation is still poorly
+
+understood, especially in frequently disturbed streams. Further, different predator species can
+
+affect prey communities in different ways depending on their feeding mode and efficiency.
+
+2. We investigated the individual and combined effects of flood-induced bed disturbance and fish
+
+predation on the benthos for 4 weeks in 18 streamside channels fed by a flood-prone New Zealand
+
+river. Bed movements caused by floods were simulated by tumbling the substratum in half the
+
+channels. Six channels each were stocked with introduced brown trout (Salmo trutta) or native
+
+upland bully (Gobiomorphus breviceps) or had fish excluded. We studied algal biomass and both
+
+invertebrate density and daytime activity on surface stones on several dates after the disturbance,
+
+invertebrate community composition in the substrata of the entire channels on day 28 and leaf
+
+decomposition rates over the 28-day period.
+
+3. Disturbance affected algal biomass and density, richness and activity of surface stone
+
+invertebrates, and overall density and richness of channel invertebrates. Presence or absence of
+
+fish, by contrast, did not influence overall invertebrate standing stocks when subsurface substrata
+
+were included but did affect invertebrate densities on surface stones in 45% of all analysed cases
+
+and invertebrate activity on surface stones in all cases. Leaf decomposition rates were not
+
+influenced at all by the experimental manipulations.
+
+4. Native upland bullies featured more often than exotic brown trout in causing invertebrate
+
+density changes and equally often in causing changes to grazer behaviour. Overall, our results
+
+imply that fish predation can have strong effects on the benthic invertebrate community in
+
+frequently disturbed streams, especially via behavioural changes.
+
+xintroduction
+
+
+
+
+The identification of factors that drive the composition
+
+and spatiotemporal dynamics of biological communities
+
+is a central concern of ecology (Pickett & White, 1985),
+
+including stream ecology (Townsend, 1989). Most running
+
+water ecosystems are affected by floods (Poff &
+
+Ward, 1989; Poff, 1996), and hydrological disturbance can
+
+be viewed as a dominant driver of stream community
+
+composition, functioning and biodiversity (Lepori &
+
+Hjerdt, 2006). Biotic interactions, including competition
+
+(e.g. Kohler & Wiley, 1997) and predation (Englund,
+
+1997; Diehl et al., 2000), can also be important determinants
+
+of stream communities. For example, predatory
+
+fish can influence lower trophic levels of the benthic
+
+community by decreasing densities of invertebrate grazers
+
+through direct consumption or increased prey emigration,
+
+or by reducing the time grazers spend foraging on the substratum surface, thus reducing grazer effi-
+
+ciency (McIntosh & Townsend, 1996). Both effects can
+
+enhance algal biomass through a trophic cascade (Townsend,
+
+2003). The strength of the influence of fish on lower
+
+trophic levels depends on the feeding mode and effi-
+
+ciency of each particular fish species. For instance,
+
+McIntosh & Townsend (1996) found that visually foraging,
+
+exotic brown trout reduced mayfly numbers and
+
+activity more than native New Zealand galaxiid fish
+
+(which use mechanical cues when hunting for prey),
+
+resulting in a stronger trophic cascade for trout.
+
+Biotic interactions can be expected to be important in
+
+stable streams, but Townsend (1989) and Poff & Ward
+
+(1989) predicted that the importance of biotic interactions
+
+should decrease with increasing frequency and severity of
+
+disturbance. On the other hand, Chesson & Huntly (1997)
+
+theorised that biotic interactions may play an important
+
+role even in frequently disturbed ecosystems because a
+
+minor biotically generated stress could be enough to push
+
+a species already weakened by abiotic disturbance ëover
+
+the edgeí. In other words, disturbance may either relieve
+
+organisms from stress caused by biotic interactions or
+
+make them even more vulnerable to this stress (Thomson,
+
+Lake & Downes, 2002). Which of these opposing outcomes
+
+occurs may depend on the particular actors, the impact of
+
+the disturbance on each actor and possibly on further
+
+interacting factors (Thomson et al., 2002).
+
+Despite the wealth of theory and the results of a survey
+
+conducted in a set of Swedish mountain streams spanning
+
+a range of bed disturbance frequencies (Lepori & Malmqvist,
+
+2007, 2009), empirical research to test the abovementioned
+
+predictions in running waters has important
+
+gaps. Few manipulative experiments have investigated
+
+the interplay between abiotic disturbance and biotic
+
+factors in frequently disturbed streams (Pringle & Hamazaki,
+
+1997; Thomson et al., 2002; Herrmann, 2009; Effenberger
+
+et al., 2011), and only the latter two studies
+
+investigated the effect of bed-moving disturbances on
+
+predatorñprey relationships. Further, predators are
+
+known not only to affect their prey by direct consumption
+
+but also to cause changes in prey behaviour (Townsend,
+
+2003), and none of these four experiments assessed effects
+
+of fish predators on invertebrate behaviour.
+
+This experiment investigated effects of fish predators on
+
+lower trophic levels in streamside channels supplied with
+
+water and aquatic organisms from a flood-prone New
+
+Zealand river. We studied the individual and combined
+
+effects of bed disturbance and predation by two fish
+
+species (exotic brown trout, Salmo trutta L., and native
+
+upland bullies, Gobiomorphus breviceps Stokell) on benthic
+
+invertebrate density and daytime activity, epilithic algal
+
+biomass and leaf decomposition rates over a 28-day
+
+period following an experimental disturbance.
+
+We tested three hypotheses: (i) Based on the predictions
+
+of Townsend (1989) and Poff & Ward (1989), physical
+
+disturbance should have a more pervasive effect on
+
+invertebrate distributions and algal biomass accrual than
+
+fish predation because of the frequently disturbed nature
+
+of our study stream (on average one flood every 26 days,
+
+see Methods). (ii) Fish presence should reduce both
+
+invertebrate density and daytime activity, possibly resulting
+
+in a trophic cascade and an increase in algal biomass;
+
+moreover, a trophic cascade might be stronger for the
+
+voracious trout than for the native bullies (as noted for
+
+native galaxiid fish; Townsend, 2003) because, on an
+
+evolutionary timescale, New Zealand stream invertebrates
+
+have been exposed to trout predators only since
+
+the late nineteenth century. (iii) Because of greater
+
+exposure to fish predation, invertebrate activity and
+
+density of invertebrates on surface stones should respond
+
+more strongly to fish presence than whole-channel invertebrate
+
+density (which includes large numbers in subsurface
+
+locations).
+
+xmethods
+
+
+Our experiment was conducted from 8 March to 2 May
+
+2007 (Austral autumn) in streamside channels located in
+
+the floodplain of the Kauru River, a third-order stream in
+
+the South Island of New Zealand (17044.6ë East, 456.5ë
+
+South, 98 m a.s.l.). The river has a gravel / cobble bed, with
+
+substratum particles in a 30-m reach near the stream
+
+channel site having a b-diameter (second longest axis) of
+
+10.3 ± 5.8 cm (mean ± standard error [SE]; pebble counts
+
+after Wolman, 1954 on 19 April 2006, n = 100).
+
+Mean annual river discharge 400 m upstream of our
+
+channel site is 1.29 m3 s
+
+)1 (Otago Regional Council,
+
+unpubl. data). Field observations from 2005 to 2008
+
+showed that floods exceeding about 30 m3 s
+
+)1 cause
+
+major bed movements, including changes in the course
+
+of the active channel, deposition of new gravel bars and
+
+the creation of scour pools, in the 200-m river section
+
+where the channels were located. Such floods occurred 13
+
+times in the 99 months for which flow data were available
+
+(November 1991 to June 1994, September 2003 to March
+
+2009). According to Clausen & Biggs (1997), spates
+
+exceeding three times the annual median flow generally
+
+disturb the benthic algal and invertebrate community of
+
+New Zealand streams. For our Kauru River site, 13.8 such
+
+events occurred per year based on the available flow data,
+
+
+with a mean interval between events of 26 days (which is
+
+similar to our 28-day post-disturbance experimental
+
+period) and a maximum of 107 days.
+
+In spite of its harsh disturbance regime, the Kauru River
+
+contains a diverse and abundant invertebrate and algal
+
+community (Herrmann, 2009; Lange et al., 2011). Fish
+
+populations in a 30-m reach about 100 m upstream of the
+
+channel site on 5 December 2005 included 88 brown trout
+
+(0.29 individuals m)2
+
+), 83 upland bullies (0.28 m)2
+
+), 11
+
+eels (Anguilla dieffenbachii Gray and A. australis Richardson)
+
+and one Galaxias vulgaris Stokell (calculated using the
+
+software Microfish 3.0 and based on three electric fishing
+
+runs; EFM300 electric fishing machine, NIWA Instrument
+
+Systems, Christchurch, New Zealand). These values are
+
+in the mid-range of the natural densities of brown trout
+
+(McIntosh, 2000: 0.01ñ0.5 m)2
+
+; Townsend, 2003: 0.1ñ
+
+0.4 m)2
+
+) and upland bullies (McIntosh, 2000: 0.01ñ0.07
+
+individuals m)2
+
+; Jowett & Boustead, 2001: 0.01ñ2.8 m)2
+
+) in
+
+New Zealand streams.Our experimental set-up consisted of 18 steel sheet channels
+
+(2.5 ∑ 0.15 ∑ 0.15 m) that were installed on a flat
+
+gravel area between two river arms. Channels were
+
+assigned to two disturbance categories crossed with three
+
+fish predator treatments in a full-factorial, randomized
+
+block design, with each treatment combination represented
+
+once in a block of six neighbouring channels and
+
+three replicates of each treatment combination. The experiment
+
+started with a 27-day colonisation phase followed by
+
+a 28-day manipulative phase. Half the channels were
+
+subjected to a single disturbance at the start of the
+
+manipulative phase; the other half served as undisturbed
+
+controls. Predator treatments (maintained over the entire
+
+manipulation period) included channels with exotic trout,
+
+channels with native bullies and fishless controls.
+
+River water was supplied to triplets of adjacent channels
+
+through six PVC drainage pipes (inner diameter
+
+14 cm; Humes Pipeline Systems, Dunedin, New Zealand)
+
+from a run about 50 m upstream of the set-up. A metal
+
+box (0.49 ∑ 0.20 ∑ 0.17 m) distributed the water from each
+
+pipe into the three channels. Each experimental block
+
+consisted of two such channel triplets, with 0.4 m between
+
+blocks. Adjustable weirs at the channel inflows and
+
+outflows allowed flow and water depth to be equalised
+
+across all channels (velocity 8.3 ± 0.3 cm s)1 [SE]; depth
+
+5.8 ± 0.1 cm; measured at three surface stones sampled
+
+for invertebrates per channel on days 0, 14 and 28,
+
+n = 162). Overall, current velocity in the channels was
+
+similar across disturbance treatments (P = 0.43) and fish
+
+treatments (P = 0.24) and showed no fish ∑ disturbance
+
+interaction (P = 0.83; nested repeated-measures ANOVA
+
+with the same model as for surface stone invertebrate
+
+densities, see Statistical Analysis). Discharges per channel
+
+(overall mean 871 ± 26 mL s)1 [SE]; measured twice daily
+
+on days 14, 20 and 25, n = 108) were also similar across
+
+disturbance (P = 0.10) and fish treatments (P = 0.16;
+
+interaction P = 0.42). Consequently, levels of colonisation
+
+by drifting algae and invertebrates can be expected to
+
+have been similar across disturbance and fish treatments.
+
+To prevent fish from escaping, channels were equipped
+
+at both ends with stainless steel, wire mesh screens (mesh
+
+size 6 mm). Before adding fish, all channels were covered
+
+with nylon net (mesh size 10 mm). Because of the
+
+relatively coarse mesh sizes, neither the screens nor the
+
+nets restricted movements of stream invertebrates in and
+
+out of the channels. To keep drifting debris from clogging
+
+the channel inflow screens, the intake of each water
+
+supply pipe was equipped with a conical net (mesh size
+
+15 mm, diameter 15 cm, length 150 cm). In addition, a 4-
+
+m wire mesh fence (mesh size 10 mm) was erected
+
+perpendicular to the current 3 m upstream of the pipe
+
+intakes. This fence, the conical nets and the inflow screens
+
+were cleaned every 3 days.
+
+At the start of the colonisation phase, channels were
+
+filled with river substratum. To create a surface layer
+
+similar to the mean surface substratum size in the river,
+
+rocks with a b-diameter of about 9 cm were taken from
+
+near the supply pipe inflows and placed on top of a 2-to 3-
+
+cm-deep layer of dry, medium-to-coarse gravels taken
+
+from the flood plain. Pebble counts of 25 randomly
+
+selected surface stones (which included several smaller
+
+particles) per channel showed that mean surface grain
+
+size (6.9 ± 0.1 cm [SE]; n = 450) was similar across treatments
+
+(see Fig. 1a, Table 1a). Channels were then colonised
+
+naturally for 25 days by drifting algae and
+
+invertebrates.
+
+Two days before the start of the manipulations, river
+
+invertebrates were seeded into the channels to augment
+
+natural colonisation. Each channel received one standard
+
+load of invertebrates and particulate organic matter
+
+obtained by kick-net sampling (frame 60 ∑ 40 cm; mesh
+
+size 200 lm) from a 100-m riffleñrun section whose upper
+
+boundary was near the supply pipe inflows. Starting from
+
+downstream, 18 bed patches (area roughly equivalent to
+
+the channel surface area of 0.38 m2
+
+) of similar current
+
+velocity and water depth were sampled for 3 min each.
+
+Samples were randomly assigned to channels, and one
+
+sample was released into each channel (while blocking the
+
+inflow to ensure that all invertebrates settled out onto the
+
+substratum).Comparisons of invertebrate community composition
+
+on surface stones in our stream channels with communities
+
+colonising tile substrata during two studies in the
+
+Kauru River (Herrmann, 2009) indicated that our experimental
+
+colonisation regime did not lead to a consistent
+
+under-representation of crawling taxa, which might be
+
+less prone to drifting, in the channels compared with the
+
+invertebrate communities in the nearby river. Further,
+
+densities of all common crawling taxa tended to increase
+
+with time in disturbed channels during the manipulative
+
+phase, implying that the majority of individuals belonging
+
+to these taxa chose to stay in our channels following
+
+invertebrate seeding and that their numbers were supplemented
+
+by further individuals entering the channels
+
+via the supply pipes. Consequently, we believe that the
+
+experimental set-up combined with the seeding procedure
+
+resulted in realistic invertebrate colonisation dynamics
+
+during the experiment.At the start of the manipulative phase (day 0), the
+
+substratum inside each disturbed channel was tumbled
+
+vigorously by hand for three minutes, beginning at the
+
+upstream end and proceeding downstream to ensure that
+
+all dislodged organisms and organic material left the
+
+channels. The other nine (control) channels were left
+
+undisturbed.
+
+Immediately after disturbance, we added four bullies
+
+(10.7 individuals m)2
+
+) to each bully channel and two trout
+
+to each trout channel (5.3 m)2
+
+) after capturing by electro-
+
+fishing and selecting individuals to provide similar biomasses
+
+in the two treatments (Fig. 1b). All fish survived the
+
+experiment and were weighed again on day 28 before
+
+release. Trout numbers were chosen to achieve densities
+
+comparable with those in previous stream channel experiments
+
+where fish presence affected invertebrate behaviour
+
+(Flecker & Townsend, 1994: 4.2 m)2
+
+; McIntosh & Townsend,
+
+1996: 3.8 and 4.3 m)2
+
+). Consequently, fish densities
+
+inside our channels were higher than in the Kauru River.On three occasions (2ñ4 h, 14 and 28 days after the
+
+disturbance and fish addition), three randomly selected surface stones per channel (one each from the upper,
+
+middle and lower thirds) were collected to investigate
+
+invertebrates and algae on the bed surface. Stones were
+
+sampled by holding a hand net (mesh size 250 lm)
+
+directly downstream, lifting the stone quickly into the net
+
+and transferring stones and invertebrates into sealable
+
+plastic bags. We then measured water depth (with a ruler)
+
+and current velocity 3 cm above the bed (with an electromagnetic
+
+flow meter; Flo-Mate 2000, Marsh McBirney - A
+
+Hach Company Brand, Hach Company, Loveland, CO,
+
+U.S.A.) in all locations where stones had been collected.
+
+We used 10 g (fresh weight) of leaves of mahoe
+
+(Melicytus ramiflorus Forster), a common native shrub that
+
+decomposes fairly rapidly, as a decomposition bioassay
+
+for comparisons between treatments (see Matthaei, Piggott
+
+& Townsend, 2010). All leaves in each pack (10ñ15)
+
+were bolted together near their base using stainless steel
+
+bolts, nuts and washers. One leaf pack per channel third
+
+was held in place on the bed by rocks. Leaf packs were
+
+sampled on day 28, in a similar way to surface stones but
+
+without catching associated invertebrates. Stone samples
+
+and leaf packs were stored on ice in the dark, frozen in the
+
+laboratory on the day of sampling and stored at )18 C
+
+until processing.
+
+To sample the invertebrate community in the whole
+
+channels on day 28 (after surface stones and leaf packs
+
+had been collected), the bed of each channel was stirred
+
+vigorously for 3 min with a broom handle, again starting
+
+at the upstream end and proceeding downstream. All
+
+dislodged invertebrates were caught in a net at the
+
+downstream end (mesh size 250 lm) and immediately
+
+preserved in 70% ethanol.
+
+On days 14, 18, 20, 25 and 27, filamentous algal cover on
+
+surface rocks and invertebrate presence on the upper
+
+surfaces of the same rocks were assessed visually during
+
+daytime. Six rocks per channel were selected randomly
+
+and their positions marked on the channel walls. Algal
+
+cover on each stone was estimated visually (by one
+
+person, in increments of 5% cover), and any invertebrates
+
+seen on the upper stone surface were recorded. Because
+
+these invertebrates were almost exclusively grazers, we
+
+assumed that their presence on the upper stone surfaces
+
+indicated they were feeding on periphyton. Consequently,
+
+their presence was seen as a proxy of invertebrate (grazer)
+
+activity (see also McIntosh & Townsend, 1996).Invertebrates and loose filamentous algae were washed
+
+gently from each surface rock after thawing, retrieved in
+
+a 200-lm sieve and stored in 70% ethanol until further
+
+processing. Epilithic algae were then scrubbed off the
+
+upper surface of each stone using a toothbrush with
+
+shortened bristles. The algal suspension was washed into
+
+a measuring cylinder and filled to 100 mL with tap
+
+water. An aliquot of 25ñ50 mL (depending on the
+
+concentration of the suspension) was filtered onto a glass
+
+fibre filter (GC-50; Toyo Roshi Kaisha Ltd., Tokyo, Japan).
+
+Algal biomass was determined as chlorophyll a (lg m)2
+
+)
+
+using standard procedures (Biggs & Kilroy, 2000) and a
+
+UVñVIS spectrophotometer (UV mini 1240; Shimadzu,
+
+Kyoto, Japan).
+
+Leaf packs were defrosted and cleansed of loosely
+
+attached algae and invertebrates. Remaining leaf biomass
+
+in each pack was determined as ash-free dry mass using
+
+standard methods (APHA, 1998) and compared with the
+
+averaged ash-free dry mass of 10 similar leaf packs that
+
+had been weighed and processed before the start of the
+
+experiment. Leaf biomass loss was then expressed as per
+
+cent of initial mass.
+
+Invertebrates in stone and channel samples were identified
+
+to the lowest practical taxonomic level (usually
+
+genus or family) under a dissecting microscope (Olympus
+
+SZ51, 8ñ40∑, Tokyo, Japan). Because of large invertebrate
+
+numbers in the whole-channel samples, these were
+
+divided into eight subsamples using a rotating subsampler.
+
+One of these subsamples was then scanned for rare
+
+invertebrate taxa. These were removed, and a quarter of
+
+the remainder of the subsample was scanned for complete
+
+counts of common taxa (thus, 1 /32 of the common
+
+invertebrates in each channel sample were counted).All analyses were conducted in SPSS version 18.0 (SPSS:
+
+an IBM company, Armonk, NY, U.S.A.). Response variables
+
+were log10-transformed where necessary to improve
+
+normality and homoscedasticity. To assess the homogeneity
+
+of invertebrate seeding and the initial impact of the
+
+disturbance, we compared algal biomass, total invertebrate
+
+density, taxon richness and densities of the eight
+
+most common taxa on surface rocks on day 0 between our
+
+treatments. For the first three response variables, these
+
+comparisons were performed using nested, four-way
+
+analyses of variance (ANOVA), with the factors fish,
+
+disturbance, block (random factor without interaction
+
+term) and sample number (1ñ3; nested within fish and
+
+disturbance). The model of this ANOVA was intercept (d.f.
+
+1) + disturbance (1) + fish (2) + disturbance ∑ fish (2)
+
++ block (2) + sample(disturbance) (2) + sample(fish) (6)
+
++ error (38; n = 54). Effects on community composition
+
+(based on log-transformed densities of the common taxa)were analysed with the multivariate equivalent of this
+
+model, and treatment effects were explored further by
+
+investigating univariate between-subjects effects in the MANOVA
+
+for each common taxon. We used the type I
+
+(sequential) sums of squares, the appropriate method for
+
+analysing this type of nested design in SPSS (Field, 2005).
+
+Leaf mass loss across the whole 28-day manipulative
+
+period was analysed with the same ANOVA model.
+
+Algal biomass, total invertebrate density and taxon
+
+richness on surface rocks, as well as visually determined
+
+algal cover and total invertebrate activity, were analysed
+
+using nested repeated-measures ANOVAs (with the
+
+repeated-measures equivalent of the model given earlier).
+
+As mentioned earlier, effects on community composition
+
+(based on densities of the eight most common taxa on
+
+rocks or numbers of the three taxa most frequently seen
+
+on the upper rock surfaces, respectively) were analysed
+
+with the multivariate equivalent of the model. Fish,
+
+disturbance, block and sample (1ñ3 for sampled surface
+
+rocks and 1ñ6 for visual observations, nested within fish
+
+and disturbance) were the between-subjects factors in these
+
+ANOVAs, and time (sampling occasion or observation,
+
+respectively) was the within-subjects factor. Fish biomass
+
+on days 0 and 28 was analysed using a three-way
+
+repeated-measures ANOVA with the between-subjects factors
+
+disturbance, fish and block. In cases where the
+
+assumption of sphericity (examined with Mauchlyís tests)
+
+was violated, the results of the within-subjects analysis
+
+were corrected using the GreenhouseñGeisser method
+
+(Quinn & Keough, 2002). We also conducted ërepeatedí
+
+specific contrasts, which compared each sampling occasion
+
+with the subsequent one, to determine changes in
+
+factor effects and interactions with time.
+
+Total density, taxon richness and densities of the 11
+
+most common invertebrate taxa in the entire substratum
+
+of each channel on day 28 (including all animals found on
+
+the three surface stones sampled on this day) were
+
+analysed with three-way ANOVAs (factors fish, disturbance
+
+and block). The model of this ANOVA was intercept
+
+(d.f. 1) + disturbance (1) + fish (2) + disturbance ∑ fish
+
+(2) + block (2) + error (10; n = 18).
+
+If a between-subjects effect of the factor fish was significant
+
+in these analyses, we conducted pairwise post hoc
+
+comparisons using Tukeyís HSD tests. For the sake of
+
+brevity, the results for the block factor and the nested
+
+factor sample are not presented. Although these factors
+
+accounted for a certain amount of background variation
+
+and thus improved overall predictive power of our
+
+models, their effects were not relevant to our research
+
+objectives. All presented results were significant
+
+(P < 0.050) unless stated otherwise.
+
+
+xresults
+
+
+
+
+Fish biomass did not change from day 0 to day 28 of the
+
+experiment (Fig. 1b; Table 1b). However, a fish by
+
+disturbance interaction in the between-subjects effects
+
+indicated that trout biomass in stable channels was
+
+somewhat greater than in disturbed channels, whereas
+
+bullies showed the opposite pattern Surface rocks were dominated by Chironomidae (37.9%
+
+of total invertebrate density; all rock samples combined)
+
+and the caddisfly Pycnocentrodes spp. (36.1%). The mayfly
+
+genera Deleatidium and Zephlebia were combined as
+
+Leptophlebiidae because it was impossible to identify
+
+small individuals reliably (the former contributed 95.8%
+
+and the latter 4.2% to identifiable individuals larger than
+
+6 mm). Leptophlebiidae contributed 7.1% to total density.
+
+Cladocera (6.6%), the caddisfly Oxyethira spp. (3.7%), the
+
+snail Potamopyrgus antipodarum Gray (3.6%), Copepoda
+
+(2.0%) and the caddis family Hydrobiosidae (1.4%) were
+
+also common enough to be analysed individually.
+
+Together, these eight taxa represented 98.4% of all
+
+individuals in rock samples.
+
+A few hours after disturbance and fish addition on day
+
+0, algal biomass on surface rocks was similar across
+
+disturbance and fish treatments overall (Fig. 2a; Table 2).
+
+Total invertebrate density, taxon richness and densities of
+
+all common taxa were reduced in disturbed channels
+
+compared with stable channels, and disturbance also
+
+affected invertebrate community composition (Table 2;
+
+Figs 2a & 3). By contrast, only one significant difference
+
+between fish treatments occurred, with Hydrobiosidae
+
+being less abundant in the presence of trout than in the
+
+absence of fish. The effects of fish and disturbance
+
+interacted in three cases: the impact of fish presence on
+
+total invertebrate density and densities of Leptophlebiidae
+
+and Hydrobiosidae appeared to be stronger in stable than
+
+in disturbed channels. However, these interactions probably
+
+represent statistical artefacts because values for all
+
+three variables were generally low in disturbed channels,
+
+so marked differences between fish treatments were only
+
+possible in stable channels.
+
+Repeated-measures ANOVAs on surface stone data
+
+showed that algal biomass increased from day 0 to day
+
+14 and day 14 to day 28 (Fig. 2a; Table 3). Averaged across
+
+the three dates, biomass was higher in channels with
+
+bullies than in the absence of fish. The same overall pattern
+
+was found for total invertebrate density, which was also higher in stable channels than in disturbed ones. Total
+
+density and taxon richness both increased with time, and
+
+richness was also higher in stable than in disturbed
+
+channels. Significant time by disturbance contrasts
+
+showed that the difference between disturbed and control
+
+channels became smaller for both invertebrate variables
+
+from day 0 to day 14. Further, the overall effects of fish and
+
+disturbance on total density and richness interacted. In
+
+disturbed channels, values for both variables were generally
+
+lower in fishless channels than in bully or trout
+
+channels, whereas in stable channels, total density showed
+
+no consistent pattern, and richness was as high, or even
+
+higher, in fishless channels than in those containing fish.
+
+Chironomidae (Fig. 3) decreased from day 0 to day 14
+
+and were more common in channels containing bullies
+
+than in channels without fish (Table 3). Overall, stable
+
+channels also held more Chironomidae than disturbed
+
+channels, a difference that diminished from day 0 to day
+
+14 but increased again from day 14 to day 28. Leptophlebiidae
+
+were more abundant when fish were absent than in
+
+the presence of bullies, and also in stable channels than in
+
+disturbed ones. The effects of fish and disturbance on
+
+Leptophlebiidae interacted; the negative effect of fish was
+
+stronger in stable than in disturbed channels. Significant
+
+specific contrasts indicated that Leptophlebiidae densities
+
+increased generally with time and that negative effects of
+
+both fish and disturbance on this taxon grew stronger
+
+from day 14 to day 28. Potamopyrgus antipodarum was
+
+more abundant in channels with bullies than in the
+
+absence of fish and in stable channels than in disturbed
+
+ones. Density patterns of this taxon remained similar
+
+across time.
+
+Pycnocentrodes, Oxyethira and Cladocera were all more
+
+abundant in stable channels than in disturbed ones (Fig. 3;Table 3). All these negative effects of disturbance weakened
+
+from day 0 to day 14, as indicated by significant specific
+
+contrasts. The negative effect of disturbance on Hydrobiosidae
+
+also weakened from day 0 to day 14, even though the
+
+overall effect of disturbance on this taxon was not significant,
+
+implying that it recovered quickly from the perturbation.
+
+Effects of fish and disturbance on Pycnocentrodes
+
+and Hydrobiosidae interacted overall (Pycnocentrodes:
+
+P = 0.052, power = 0.58, Hydrobiosidae: P = 0.054,
+
+power = 0.57). In disturbed treatments, Pycnocentrodes
+
+densities were lowest in the fishless channels on all three
+
+sampling dates, whereas in stable treatments, densities
+
+in the fishless channels were exceeded by densities in
+
+channels containing bullies on day 28 only. Hydrobiosidae
+
+in disturbed channels were generally less common in the
+
+absence of fish than in the presence of trout, while in stable
+
+channels, the opposite pattern occurred on day 14 and
+
+especially on day 0. Although the effect of fish on Pycnocentrodes
+
+was not significant overall, this effect changed
+
+from day 14 to day 28, with Pycnocentrodes density increasing
+
+in channels with bullies while decreasing in channels
+
+without fish. The interactive effects of fish and disturbance
+
+on Oxyethira and Cladocera changed from day 0 to day 14,
+
+with densities of both taxa increasing more in disturbed
+
+channels with trout than elsewhere. Densities of Copepoda
+
+and Cladocera generally increased from day 14 to day 28.Total invertebrate density in whole-channel samples
+
+reached almost 50 000 individuals m)2 (Fig. 2b). The
+
+channel fauna was dominated by Leptophlebiidae,
+
+which contributed 21.1% to total density (averaged
+
+across all channels). Further dominant invertebrates
+
+were Chironomidae (17.3% of total density), Oligochaeta
+
+(14.6%), Copepoda (14.6%) and Cladocera (9.7%).
+
+Potamopyrgus antipodarum contributed 8.1% to total
+
+density and larval coleopterans (Hydora spp.) 1.9%.
+
+The caddisfly genera Olinga spp. and Pycnocentria spp.
+
+were combined into one taxon because the subsampling
+
+of the channel samples made it impossible to relate
+
+individuals that lost their case to empty cases, which is
+
+essential for reliably distinguishing between the two
+
+genera (Olinga contributed 98.3% and Pycnocentria 1.7%
+
+of individuals, based on individuals that had retained
+
+their cases). Together, the two taxa comprised 3.3% of
+
+the total invertebrate density. The three caddis taxa
+
+Hydrobiosidae (3.2% of total density), Pycnocentrodes
+
+spp. (2.6%) and Oxyethira spp. (1.5%) were also relatively
+
+abundant. These 11 taxa contributed 98.0% of all
+
+invertebrates in the channel samples and were analysed
+
+individually.
+
+Both total invertebrate density and taxon richness
+
+were higher in stable channels 28 days after the
+
+disturbance (Fig. 2b; Table 4). The effects of fish and
+
+disturbance on taxon richness interacted; in stable
+
+channels, richness was highest in the presence of
+
+bullies, whereas it was highest in the absence of fish
+
+in disturbed channels. Five of the common channel
+
+taxa were still affected by the disturbance on day 28
+
+(Fig. 4; Table 4). Densities of Leptophlebiidae, Chironomidae,
+
+larval Coleoptera and Hydrobiosidae were all
+
+lower in disturbed channels. Copepoda, on the other
+
+hand, were more abundant in disturbed channels (P = 0.055, power = 0.50). None of the common taxa
+
+showed an effect of fish presence or an interactive effect
+
+of fish and disturbance.
+
+Leaf decomposition rates across the 28-day manipulative
+
+period were not influenced at all by the experimental
+
+manipulations (fish: P = 0.93, disturbance: P = 0.11,
+
+fish ∑ disturbance: P = 0.34; Fig. 2b).Averaged across the five observations from day 14 to day
+
+27, visually determined cover of surface stones by
+
+filamentous algae was lower in the presence of bullies
+
+than in the presence of trout (Fig. 5; Table 5). This pattern
+
+was more pronounced and consistent in disturbed than in stable channels, as indicated by a fish by disturbance
+
+interaction. Algal cover increased across time with each
+
+subsequent observation, and the influence of fish on cover
+
+changed with each subsequent observation after day 18.
+
+Algal cover increased most in fishless channels from day
+
+18 to day 20, most in bully channels from day 20 to day 25
+
+and most in trout channels from day 25 to day 27. From
+
+day 18 to day 20, the negative effect of disturbance on
+
+algal cover diminished and the shape of the fish by
+
+disturbance interaction changed. The latter change was
+
+probably due to a strong increase in algal cover in stable
+
+channels lacking fish, combined with a slight decrease in
+
+stable channels with trout.
+
+Overall, the total number of invertebrates observed on
+
+the upper surfaces of the monitored rocks was higher in
+
+the presence of bullies than in the absence of fish and in
+
+stable channels than in disturbed ones (Fig. 5; Table 5).
+
+The effects of fish and disturbance on total invertebrates
+
+observed interacted; in stable channels, the highest numbers
+
+were consistently seen in channels containing bullies,
+
+whereas in the disturbed channels this pattern was far less
+
+pronounced and only seen on days 18, 20 and 27. The number of observed invertebrates generally increased
+
+from days 14 to 18 and 18 to 20 but decreased from days
+
+20 to 25. The negative effect of disturbance on observed
+
+numbers of invertebrates grew stronger from day 18 to
+
+day 20.
+
+The observational data for the dominant invertebrate
+
+taxa on surface rocks (the grazers Conoesucidae, Leptophlebiidae
+
+and P. antipodarum; 99.4% of all invertebrates
+
+observed) were analysed individually. In this context, the
+
+caddis taxon Conoesucidae was analysed as a family
+
+because it was impossible to distinguish between the
+
+genera Pycnocentrodes, Olinga and Pycnocentria. Overall,
+
+Conoesucidae were seen more often on rock surfaces in
+
+the presence of bullies than in the absence of fish and
+
+more often in stable than in disturbed channels (Fig. 5;
+
+Table 5). The effects of fish and disturbance on observed
+
+Conoesucidae interacted, closely resembling the patterns
+
+for total invertebrates observed. Additionally, fluctuating
+
+numbers of Conoesucidae observed in stable channels
+
+caused their overall density and the negative effect of
+
+disturbance on this taxon to strengthen from days 18 to 20
+
+and to diminish from days 20 to 25 (time ∑ disturbance:
+
+P = 0.058, power = 0.48). Potamopyrgus antipodarum was
+
+observed more often when bullies or trout were present
+
+than in the absence of fish, and also from day 14 to day 18.
+
+Leptophlebiidae responded differently to the fish treatments
+
+than the other dominant grazers (Fig. 5; Table 5).
+
+Overall, individuals of this taxon were seen more often in
+
+the absence of fish and in stable channels. Further, the
+
+negative impact of fish on Leptophlebiidae was stronger
+
+in stable than in disturbed channels. From days 14 to 18,
+
+numbers of this taxon also appeared to change strongly
+
+with time as indicated by four significant pairwise
+
+contrasts. However, because no Leptophlebiidae at all
+
+were observed on day 14 (Fig. 5), these results are
+
+statistical artefacts without biological meaning.
+
+xdiscussion
+
+In our study, bed disturbance had a pervasive effect on
+
+the benthic community, affecting algal biomass and
+
+density, taxonomic richness and daytime activity of
+
+invertebrates on surface stones, as well as density and
+
+richness of invertebrates in the entire substratum of the
+
+experimental stream channels. Presence of fish predators,
+
+in contrast, did not influence overall invertebrate standing
+
+stocks when subsurface substrata were included, but it
+
+did affect invertebrate density, and especially invertebrate
+
+activity, on surface stones.
+
+The study of predation effects in animal communities
+
+dominated by highly mobile organisms is challenging,
+
+and it is important to be aware of the strengths and
+
+weaknesses of the chosen study design (e.g. Cooper,
+
+Walde & Peckarsky, 1990; Englund, 1997; Diehl et al.,
+
+2000; Effenberger et al., 2011). Our experiment has several
+
+strengths, including (i) disturbance and fish predation
+
+were manipulated in reasonably large streamside channels
+
+that allowed natural migration rates of invertebrate
+
+prey, (ii) sampling was performed at two spatial scales
+
+(individual surface stones versus whole-channel substrata)
+
+(Englund, 1997) and included invertebrate standing
+
+stocks (based on preserved samples) as well as field observations of living invertebrates, (iii) the nested factorial
+
+design permitted accounting for within-channel
+
+background variation, thus improving overall statistical
+
+power, and (iv) biological response variables included
+
+both structural (algal biomass, invertebrate densities) and
+
+functional (leaf decomposition) parameters, allowing disturbance
+
+and predation effects to be evaluated within a
+
+broader food-web perspective.
+
+Nevertheless, at the spatial scale of streamside channels
+
+such as ours, a closed experimental system (without prey
+
+migration) or repeated estimates of prey consumption by
+
+fish (a logistical impossibility in our case) would be best
+
+suited to quantify population-level effects on prey of fish
+
+predation (via direct mortality) (Englund, 1997). While
+
+our open experimental system is more suitable to determine
+
+realistic local effects of predation (Cooper et al.,
+
+1990; Englund, 1997) because invertebrate drift is a key
+
+feature of running water ecosystems, note that these local
+
+effects include both direct mortality because of fish
+
+consumption and indirect effects because of prey emigration
+
+that our study could not differentiate. Similarly, we
+
+could not distinguish between mortality and emigration by drift when evaluating the short-term effects of our
+
+experimental disturbance.Shortly after our experimental disturbance, total invertebrate
+
+density, taxon richness and densities of all common
+
+individual taxa on surface rocks were significantly
+
+reduced in the disturbed treatments. Tumbling of the
+
+channel substrata clearly represented a strong disturbance
+
+for the invertebrates. Surprisingly, the mobile,
+
+predatory caddis Hydrobiosidae was more abundant on
+
+surface stones in fishless channels than in trout channels
+
+only a few hours after the addition of fish. This pattern
+
+may represent a fast reaction to high predation risk in
+
+the trout channels. As the experiment proceeded, the
+
+influence of disturbance on invertebrate richness, densities
+
+and community composition continued to dominate
+
+in the whole-channel samples but less so in surface stone samples. Overall, therefore, disturbance effects were
+
+more pronounced than fish effects, as predicted for the
+
+community of a highly disturbed river (Poff & Ward,
+
+1989; Townsend, 1989) and supporting our first hypothesis.
+
+Our analysis also showed that the effects of fish on
+
+invertebrates on surface rocks tended to grow stronger
+
+towards the end of the experiment, whereas most effects
+
+of disturbance on the invertebrates diminished with time.
+
+These changes conform to a patch dynamics view of
+
+streams (Townsend, 1989) where the successional state of
+
+individual bed patches differs according to their local
+
+disturbance history (Matthaei & Townsend, 2000).
+
+Fish predation and disturbance effects interacted in
+
+several cases. Leptophlebiid density on surface rocks and
+
+the numbers of Leptophlebiidae and Conoesucidae
+
+observed on these rocks during daytime all showed
+
+stronger impacts of fish presence in stable channels than
+
+in disturbed ones. On the other hand, invertebrate taxon
+
+richness in the whole-channel samples, taxon richness and
+
+total density on surface rocks as well as visually determined
+
+algal cover all showed interaction patterns with
+
+disturbance that allowed no straightforward ranking of
+
+fish impacts in stable and disturbed channels. Consequently,
+
+the combined results of our experiment indicate
+
+that additional, unknown factors are likely to influence
+
+the interplay between disturbance and predation (see also
+
+Thomson et al., 2002).Algal biomass on surface rocks was lower in the absence
+
+of fish in our experiment, as would be expected if the
+
+predatory fish had reduced grazer density and allowed
+
+algal biomass to accrue (McIntosh & Townsend, 1996;
+
+Townsend, 2003). Paradoxically, however, total density of
+
+invertebrates and of the grazing snail P. antipodarum on
+
+surface rocks were generally lowest in fishless channels.
+
+On the other hand, grazing leptophlebiid mayflies were
+
+more common in fishless channels. The same patterns
+
+were even more prominent for invertebrate activity: total
+
+invertebrates and the abundant grazers Conoesucidae and
+
+P. antipodarum were observed more often on surface rocks during daytime in channels containing fish, whereas
+
+Leptophlebiidae were more active in the absence of fish.
+
+Therefore, the presence of fish may have influenced
+
+competitive interactions among grazers, possibly because
+
+of differences in their vulnerability to fish predation: nonarmoured
+
+leptophlebiid mayflies were far more abundant
+
+and active in fishless channels, whereas case-bearing
+
+conoesucid caddis flies and the shelled snail P. antipodarum
+
+were more abundant and active in the presence of
+
+fish. Most of the snails on surface rocks were much
+
+smaller (length 2 mm or less) than the mayflies (length
+
+typically 3 mm or more) (P.B. Herrmann, unpubl. data),
+
+and it is possible that the larger mayflies were more
+
+efficient grazers (Holomuzki & Biggs, 2006). Consequently,
+
+their replacement by other taxa may have been
+
+responsible for enhanced algal biomass accrual, and thus
+
+a trophic cascade, in the presence of fish.
+
+In previous studies of introduced exotic brown trout
+
+and fish species native to New Zealand, trophic cascades
+
+were more evident for the voracious, visually hunting
+
+brown trout than for the native galaxiids Galaxias depressiceps
+
+and G. eldoni (Townsend, 2003). This difference
+
+occurred because trout caused not only a more marked
+
+reduction in grazer density than the galaxiids, but also
+
+resulted in markedly reduced grazing activity during
+
+daylight hours, when grazers were particularly vulnerable
+
+to trout predation. In contrast, in the current experiment,
+
+native bullies featured more often than introduced trout
+
+in causing density changes in their invertebrate prey,
+
+while trout and bullies were equally influential in their
+
+effects on invertebrate behaviour. It may be that upland
+
+bullies pose greater predation risks to stream invertebrates
+
+than the previously studied galaxiids.
+
+Another explanation for the stronger impact of bullies
+
+on invertebrate density compared with that of trout could
+
+be the higher bully density, which resulted from standardising
+
+predation pressure by fish biomass. The strength of
+
+non-lethal predator effects may depend more strongly on
+
+prey encounter rates, which are linked to densities of both
+
+prey and predators (e.g. Walton, 1980) than on predator
+
+biomass. Therefore, the reduced invertebrate density in
+
+bully channels could have been at least partly a result of
+
+increased invertebrate drift rates as a predator avoidance
+
+behaviour and thus higher prey emigration from these
+
+channels compared with channels containing trout or no
+
+fish (Walton, 1980; Thomson et al., 2002).
+
+Predatory fish might also affect leaf decomposition via a
+
+trophic cascade if two conditions are satisfied. First, fish
+
+must reduce the density or feeding activity of invertebrates
+
+that help consume leaf material. Second, invertebrate
+
+feeding must be an important factor in leaf
+
+decomposition in comparison with the microbial processes
+
+that often dominate. In our experiment, neither
+
+presence of fish nor disturbance affected leaf mass loss.
+
+Consequently, it is likely that bacteria and fungi are
+
+mainly responsible for organic matter decomposition in
+
+this grassland river, as they are in many other New
+
+Zealand streams and rivers (Winterbourn, Rounick &
+
+Cowie, 1981).At the end of our experiment, invertebrates in wholechannel
+
+samples were completely unaffected by fish
+
+presence (no significant main effects on total density,
+
+taxon richness, community composition or densities of
+
+common taxa), whereas stable channels differed from
+
+disturbed ones in half these cases (Table 6). By comparison,
+
+invertebrates on surface rocks were influenced by
+
+fish presence in 45% of all analysed cases and by
+
+disturbance in 82% of cases. Finally, daytime invertebrate
+
+activity on surface rocks was affected by the fish
+
+treatments in all cases analysed and by disturbance in
+
+just 80% of these cases. The respective effect frequencies
+
+for fish ∑ disturbance interactions were 7% for whole
+
+channels, 27% for density and 60% for activity on
+
+surface stones. These comparisons imply that fish
+
+presence was a strong determinant of invertebrate density and, even more markedly, daytime activity on
+
+surface rocks but had little effect on overall invertebrate
+
+standing stocks (which included all subsurface channel
+
+substrata). Disturbance, on the other hand, strongly
+
+affected invertebrate density in both surface and subsurface
+
+substrata, reducing the densities of all common
+
+taxa except Copepoda. These results support our final
+
+hypothesis that, because of exposure to predation risk at
+
+the bed surface during daylight hours, invertebrate
+
+activity and density on surface stones should respond
+
+more strongly to fish presence than whole-channel
+
+invertebrate density.
+
+Nevertheless, it is worth noting that our experimental
+
+fish densities were quite high compared with those in
+
+most New Zealand streams and that we did not monitor
+
+invertebrate behaviour at night. Both trout and bullies are
+
+more active and pose a greater predation risk for invertebrates
+
+during the day (Sagar & Glova, 1994; McIntosh &
+
+Townsend, 1996). It may be that the effects of fish
+
+predation on invertebrate behaviour are less pronounced
+
+at night in streams with trout and bullies, especially at
+
+their natural densities, implying that the overall effect of
+
+fish on invertebrate behaviour in real streams might have
+
+been overestimated in our study Few experiments have investigated the interplay between
+
+disturbance and predation in frequently disturbed streams
+
+where invertebrate communities are typically dominated
+
+by highly mobile species. In an experiment quite similar to
+
+ours but conducted in a stable stream dominated by slowmoving,
+
+grazing cased caddis flies, Nystro®m & McIntosh
+
+(2003) found largely independent effects of bed disturbance
+
+and fish predation on lower trophic levels, in contrast to our
+
+study where the two factors interacted in several cases.
+
+When examining stonefly predation combined with hydrological
+
+disturbance in channels deployed in a flood-prone
+
+Australian stream, Thomson et al. (2002) observed that
+
+stoneflies affected their prey (grazing mayflies) more
+
+strongly if flow was variable rather than stable, in contrast
+
+to our main findings. However, Thomson et al.ís (2002) flow
+
+manipulation did not cause bed movement, a key criterion
+
+of whether a spate or flood represents a disturbance to the
+
+benthic community (Poff, 1992), so their experimental
+
+disturbance was clearly less severe than ours. By contrast,
+
+two experiments in flood-prone streams that involved bed
+
+movement as part of the experimental disturbance delivered
+
+results more consistent with ours.When excluding fish
+
+from 2.25 m2 patches in a 30-m reach of the Kauru River,
+
+Herrmann (2009) found a reduced impact of fish presence
+
+on invertebrates and algae in disturbed (scour or fill) bed
+
+patches compared with stable patches. In a similar experiment
+
+in a moderately flood-prone German stream, Effenbergeret
+
+al. (2011) concluded that bed disturbance strongly
+
+affected the invertebrate community, while fish predation
+
+had a less prevalent effect.
+
+We suggest that predation remained an important
+
+factor structuring the community studied by Thomson
+
+et al. (2002) because the disturbance involved was relatively
+
+slight. In the present study, and in the cases of
+
+Herrmann (2009) and Effenberger et al. (2011), in contrast,
+
+fish predation was less important because considerable
+
+bed movements occurred. This interpretation of the
+
+combined findings of these studies is again consistent
+
+with the predictions of Poff & Ward (1989) and Townsend
+
+(1989) for frequently disturbed streams.

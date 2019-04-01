@@ -1,0 +1,1055 @@
+xabstract
+
+
+Biological plant invasions pose a serious
+
+threat to native biodiversity and have received much
+
+attention, especially in terrestrial habitats. In freshwater
+
+ecosystems impacts of invasive plant species
+
+are less studied. We hypothesized an impact on
+
+organisms from the water column and from the
+
+sediment. We then assessed the impact of three
+
+aquatic invasive species on the plants and macroinvertebrates:
+
+Hydrocotyle ranunculoides, Ludwigia
+
+grandiflora and Myriophyllum aquaticum. Our
+
+research on 32 ponds in Belgium indicated that the
+
+reduction in the native plant species richness was a
+
+common pattern to invasion. However, the magnitude
+
+of impacts were species specific. A strong negative
+
+relationship to invasive species cover was found, with
+
+submerged vegetation the most vulnerable to the
+
+invasion. Invertebrate richness, diversity and abundance
+
+were measured in sediments of invaded and
+
+uninvaded ponds along a gradient of H. ranunculoides,
+
+L. grandiflora, and M. aquaticum species cover.
+
+We found a strong negative relationship between
+
+invasive species cover and invertebrate abundance,
+
+probably due to unsuitable conditions of the detritus
+
+for invertebrate colonization. Taxonomic compositions
+
+of aquatic invertebrate assemblages in invaded
+
+ponds differed from uninvaded ponds. Sensitive
+
+benthos, such as mayflies were completely absent in
+
+invaded ponds. The introduction of H. ranunculoides,
+
+L. grandiflora, and M. aquaticum in Belgian ponds
+
+has caused significant ecological alterations in the
+
+aquatic vegetation and the detritus community of
+
+ponds. xintroduction
+
+
+Within the last 20 years, the study of biological
+
+invasions has exploded and the introduction of exotic
+
+species is now recognized as a serious threat to
+
+biodiversity (Wilcove et al. 1998; Gurevitch and
+
+Padilla 2004). Recently, much attention has been paid
+
+to the impact of exotic species, direct or indirect, and
+
+positive or negative, on different species groups in
+
+terrestrial habitats. These include native plants (Hejda
+
+and Pys?ek 2006; Gooden et al. 2009; Cushman and
+
+Gaffney 2010), macroinvertebrates (Herrera and
+
+Dudley 2003; Gerber et al. 2008) and pollinators
+
+I. Stiers (&)  L. Triest
+
+Plant Biology and Nature Management, Vrije Universiteit
+
+Brussel, Pleinlaan 2, 1050 Brussels, Belgium
+
+e-mail: istiers@vub.ac.be
+
+N. Crohain  G. Josens
+
+Ecologie et Syste¥matique Animales,
+
+Universite¥ Libre de Bruxelles, Avenue F.D. Roosevelt 50,
+
+1050 Bruxelles, Belgium
+
+123
+
+Biol Invasions (2011) 13:2715ñ2726
+
+DOI 10.1007/s10530-011-9942-9
+
+(de Groot et al. 2007; Vanparys et al. 2008). The
+
+impact of plant invasions in aquatic ecosystems has
+
+received less attention. Freshwater systems, however,
+
+are particularly vulnerable to the effects of exotic
+
+species (Shea and Chesson 2002) and provide good
+
+study systems because they usually have a more
+
+limited number of species, compared to terrestrial
+
+habitats such as grasslands. Native aquatic macrophytes
+
+play a key role in the structure and function of
+
+freshwater ecosystems by providing food, shelter and
+
+oxygen for other aquatic life, including macroinvertebrates
+
+(Van den Berg et al. 1997; Batzer 1998). A
+
+shift, from a vegetated diverse habitat to a dense
+
+exotic monospecific stand, can seriously alter native
+
+plant and macroinvertebrate assemblages (Thorp
+
+et al. 1997; Boylen et al. 1999).
+
+Previous studies on the effects of aquatic weeds on
+
+local biodiversity are few and contradictory in their
+
+conclusions. The loss of native aquatic submerged
+
+vegetation due to aquatic plant invasion has already
+
+been reported (Boylen et al. 1999; Brendonck et al.
+
+2003). In contrast, Langdon et al. (2004) found no
+
+significant loss of plant species in UK ponds invaded
+
+by the Australian weed Crassula helmsii. Several
+
+studies focused on the impact of exotic macrophytes
+
+on invertebrate communities and found (1) no clear
+
+effect of the present invasive species on invertebrate
+
+density and assemblage (Cattaneo et al. 1998), (2)
+
+negative effects of the invasive species on density
+
+and/or assemblage of invertebrates (Feldman 2001;
+
+Toft et al. 2003) and (3) positive effects of the
+
+invasive species on density of invertebrates (Strayer
+
+et al. 2003; Pillips 2008). Few studies, however,
+
+address multiple invasive aquatic plants and multiple
+
+species groups.
+
+We examined the effects of three invasive aquatic
+
+plant species that were introduced in Belgium
+
+through the aquarium trade. Hydrocotyle ranunculoides,
+
+Ludwigia grandiflora and Myriophyllum aquaticum
+
+have become well established and are
+
+recognized as noxious weeds in several neighboring
+
+countries (Pot 2002; Dandelot et al. 2005, 2008;
+
+Gassmann et al. 2006; Sheppard et al. 2006; Thie¥baut
+
+2007; Hussner 2009). These aquatic invasive plant
+
+species appear in the floating/emergent growth form
+
+and because of their high relative growth rates
+
+(Hussner 2009) they can form dense floating mats.
+
+This dense vegetation can block slow flowing waterways
+
+and thereby disturb recreational activities, such
+
+as boating and fishing (Pot 2002). They can also
+
+affect drainage in lakes, ponds and ditches, as well as
+
+reduce biodiversity and degrade water quality
+
+(Sheppard et al. 2006).
+
+Our main objective is to quantify the impact of
+
+H. ranunculoides, L. grandiflora and M. aquaticum
+
+on two different functional groups, native plants and
+
+macroinvertebrates. The aim is to assess to what
+
+degree invasive species cover directly influences the
+
+assemblage of native plants and indirectly modifies
+
+macroinvertebrates in the detritus. Specifically, we
+
+address the following questions: (1) is there an effect
+
+on species richness, diversity, abundance and composition
+
+of plants and invertebrates when invaded and
+
+uninvaded sites are compared? (2) If so, is this effect
+
+similar for each invasive species? (3) What is the
+
+direction and magnitude of the impact? xmethods
+
+In total 32 water bodies on 22 sites in Belgium
+
+(Table 1) were sampled for the impact study made on
+
+native vegetation and invertebrates by invasions of
+
+either H. ranunculoides (7 sites), L. grandiflora (8
+
+sites) or M. aquaticum (7 sites). The studied ponds
+
+represent a gradient of percent cover of one of the
+
+invasive species present (Table 1). A particular focus
+
+was set on sites of high biological value (e.g. nature
+
+reserves and Natura 2000 sites). All water bodies are
+
+small and shallow ranging from 0.01 to 1.6 ha in
+
+surface area with a depth ranging from 0.5 to 6 m,
+
+thus there is no limit for macrophyte growth. Mixed
+
+water samples were used to measure environmental
+
+variables according to standard limnological procedures
+
+(methods following De Backer et al. 2010).
+
+Nutrient concentrations varied considerably between
+
+ponds (Table 2). All three invasive species are
+
+capable of invading this wide range of nutrient
+
+levels. The uninvaded ponds range from oligotrophic
+
+to hypereutrophic based on TP concentrations, while
+
+invaded ponds range from mesotrophic to hypereutrophic
+
+(UNEP 1999). Not all of the ponds could be
+
+sampled for macroinvertebrates in 2008 because of
+
+mechanical removal of the invasive species present in
+
+2007. A few ponds were to deep to take representative
+
+sediment samples with a hand-held coring tube. Macrophytes were monitored during August 2007
+
+and 2008. To determine the impact of invasion of
+
+H. ranunculoides, L. grandiflora and M. aquaticum
+
+on native plant species two approaches were used:
+
+namely at a plot and pond level. For the purpose of
+
+this study, native aquatic macrophytes included
+
+vascular plants and algae in the family Characeae.
+
+Filamentous algae (e.g. Spirogyra), which were often
+
+associated with macrophyte beds were not included.
+
+An ACFOR abundance scale (abundant: 75ñ100%,
+
+common: 50ñ75%, frequent: 25ñ50%, occasional:
+
+5ñ25%, rare: 1ñ5%) was used to estimate plant cover
+
+(Kent and Coker 1992).
+
+For the plot approach, when available, three
+
+invasion categories (plots, 4 m2) were distinguished:
+
+(A) plots in an uninvaded water body, (B) semiinvaded
+
+plots in an invaded water body, and
+
+(C) heavily invaded plots (cover[75%) in an
+
+invaded water body. B and C plots were in the same
+
+water body (invaded ponds) but we assured that the
+
+semi-invaded plots were always at a maximum
+
+distance of the infestation. A plots were in a separate
+
+water body (uninvaded ponds) but in close vicinity.
+
+The cover of native and invasive species was
+
+estimated for each of the 114 plots. Species were
+
+observed from the shore and by wading through the
+
+water, deeper parts were sampled using a rake.
+
+For the pond approach we recorded native plant
+
+cover along a gradient of percent invasive species
+
+cover. Cover estimates were made at the level of
+
+three growth forms: submerged, free-floating/floating-
+
+leaved and emergent. To determine the impact of decomposed alien litter
+
+on macroinvertebrates, a pond level approach was
+
+used. In April 2008, macroinvertebrates were sampled
+
+in invaded ponds along a gradient of percent
+
+invasive species cover and in adjacent uninvaded
+
+ponds (Table 1) using a 1 m long, hand-held corer.
+
+Six cores of 5 cm length (volume of 237.5 cm3
+
+sediment per core) were taken at each sampling site
+
+and pooled in the field. The corer was inserted into
+
+random aquatic plant patches beneath young submerged
+
+leaves or stolons as well as decomposed litter
+
+at approximately 1 m pond depth. Both macrophytedwelling
+
+invertebrates and invertebrates living in, or
+
+on the sediment were sampled, but not considered
+
+separately. Each subsample was placed into separate
+
+containers and preserved in 10% formaldehyde. In
+
+the laboratory each subsample was rinsed and passed
+
+through different mesh sizes (2, 1 mm, 500, 350 lm). Using a binocular, macroinvertebrates were separated
+
+from debris, enumerated, identified to family level and placed into a vial containing 70% ethanol. Species richness for plants was analysed at plot level
+
+per invasive species to determine effect of invasion.
+
+Differences in plant species richness in uninvaded
+
+(A), semi-invaded (B) and heavily invaded (C) plots
+
+for L. grandiflora and M. aquaticum were analyzed
+
+using ANOVA, followed by a Tukey test (unequal N).
+
+For H. ranunculoides a non-parametric alternative,
+
+KruskalñWallis test, was used because of deviations
+
+from the normal distribution (Sokal and Rohlf 2003).
+
+Similarities in species composition amongst plots
+
+with invasion categories (A, B and C) were compared
+
+using one-way analysis of similarity (ANOSIM) per
+
+invasive species (following Gooden et al. 2009). To
+
+determine compositional similarities amongst invasion
+
+categories, we used Bray-Curtis similarity indices
+
+calculated on ACFOR abundances and on
+
+presence/absence data. H. ranunculoides, L. grandiflora
+
+and M. aquaticum abundances were excluded
+
+from all analyses as these defined the different
+
+invasion categories.
+
+The impact of H. ranunculoides, L. grandiflora
+
+and M. aquaticum cover on individual species was
+
+assessed by analysing changes in native species cover
+
+among the three invasion categories (A, B and C).
+
+The KruskalñWallis ANOVA by ranks test was used
+
+as the data did not satisfy assumptions of normality
+
+and homogeneity of variance (Sokal and Rohlf 2003).
+
+Analyses were undertaken using ACFOR abundances
+
+for species which appeared in all three invasion
+
+categories and were present in at least three ponds.
+
+Taxa richness and Shannon index based on family
+
+for invertebrates were analysed at pond level per
+
+invasive species to determine impact of invasion.
+
+Uninvaded ponds were grouped together. Differences
+
+in invertebrate family richness and diversity between
+
+uninvaded ponds and invaded ponds of H. ranunculoides,
+
+L. grandiflora and M. aquaticum were
+
+analysed using ANOVA, followed by a Tukey test
+
+(unequal N). Standard Bray-Curtis similarity was
+
+calculated between the four types of vegetation.
+
+At pond level, a gamma correlation analysis was
+
+performed between invasive species cover and the
+
+different growth forms (submerged, floating (leaved),
+
+emergent).APearson correlation analysis at pond level
+
+was applied to invasive species cover and invertebrate
+
+parameters (abundance and taxa richness).
+
+ANOSIM analysis was performed with PRIMER
+
+v6, all other analyses were performed using STATISTICA
+
+v8.
+
+xresults Uninvaded plots (A) harboured in total 28, 20 and 20
+
+native species in close vicinity of infestation with H.
+
+ranunculoides, L. grandiflora and M. aquaticum,
+
+respectively. These values compare to 17, 24 and 18
+
+species, respectively, in semi-invaded plots (B) and to
+
+9, 12 and 9 species in heavily invaded plots (C).
+
+Recorded species included 12 submerged species, 7
+
+floating-leaved and free floating species (e.g. Lemnids)
+
+and 29 emergent species.
+
+Uninvaded A plots of H. ranunculoides harboured
+
+on average 5.20 ± 1.11 species compared to
+
+1.60 ± 0.22 species in heavily invaded C plots. This
+
+difference in number of species was of statistical
+
+significance (Kruskall-Wallis: v2 2 = 8.80, P\0.01,
+
+Fig. 1). For L. grandiflora the three invasion categories
+
+differed significantly in species richness (ANOVA:
+
+F2,38 = 23.30, P\0.001, Fig. 1). The M. aquaticum
+
+uninvaded A plots had significantly higher plant species richness (4.00 ± 0.70) than heavily invaded C
+
+plots (1.71 ± 0.45) (ANOVA: F2,35 = 4.21, P\0.05,
+
+Fig. 1). On average, the impact of H. ranunuloides and
+
+L. grandiflora was stronger (decrease of about 70%)
+
+compared to a 57% decrease for M. aquaticum from
+
+uninvaded A plots to heavily invaded C plots.
+
+The species composition varied significantly
+
+amongst invasion categories for H. ranunculoides
+
+and L. grandiflora, but not for M. aquaticum (Table 3).
+
+Native species composition was similar between
+
+uninvaded and semi-invaded plots for H. ranunculoides
+
+and between semi-invaded and heavily invaded
+
+plots for L. grandiflora. For both invasive species,
+
+native species composition differed significantly
+
+among uninvaded plots and heavily invaded plots.
+
+Presence/absence analysis gave similar patterns.
+
+Kruskall-Wallis ANOVA by ranks was carried out
+
+for 14 species in total. Of these, just four species
+
+exhibited significant differences in abundance among
+
+the different invasion categories, only for H. ranunculoides
+
+and L. grandiflora invaded plots (Table 4).
+
+Thus, for the majority of studied species, there was
+
+no evidence of reduced abundance with increasing
+
+invasive species cover. Importantly, no species were
+
+more abundant in heavily invaded plots. Furthermore,
+
+a few species including the submerged Utricularia
+
+vulgaris and the free-floating Hydrocharis morsusranae
+
+were completely absent from heavily invaded
+
+plots, while they still occurred in adjacent semiinvaded
+
+plots. Correlation analysis showed that total native species
+
+cover declined significantly in response to percent
+
+invasive species cover in all ponds (n = 32, C =
+
+-0.66, P\0.001) as well as among invaded ponds
+
+only (n = 22, C = -0.60, P\0.01).
+
+A strong negative relationship was found between
+
+invasive species cover and submerged species cover
+
+and between invasive species cover and floating
+
+(leaved) species cover in all ponds and among
+
+invaded ponds only (Fig. 2; Table 5). The effect of
+
+invasive species cover on emergent vegetation was
+
+only marginally significant among all ponds. Native
+
+submerged vegetation was present in 80% of the
+
+uninvaded ponds, compared to 41% of the invaded
+
+ponds. In almost every invaded and uninvaded pond,
+
+native floating (leaved) and emergent vegetation was
+
+present but the abundance declined when invasion
+
+increased. In ponds with an invasive species cover of
+
+[50% there was a decline of submerged species
+
+cover, floating (leaved) species cover and emergent
+
+species cover of 94, 68 and 44%, respectively, when
+
+compared to uninvaded ponds. When the invasive
+
+species cover reached 75% there was no submerged
+
+vegetation left (Fig. 2). Uninvaded ponds harboured in total 17 different
+
+families compared to 10, 9 and 14 families for
+
+H. ranunculoides, L. grandiflora and M. aquaticum
+
+invaded ponds respectively. Mean invertebrate taxa
+
+richness, mean invertebrate abundance and the
+
+diversity index were slightly higher in the uninvaded
+
+ponds and lowest in the L. grandiflora invaded ponds,
+
+but no significant differences were found among the
+
+four types of vegetation (P[0.05).
+
+There was a considerable overlap in taxonomic
+
+composition of invertebrates in invaded and uninvaded
+
+ponds (range 52ñ80% similarity) with Diptera
+
+and Oligochaeta as the largest groups. Naididae, 
+
+
+Chironomidae and Asellidae were the common
+
+families in the four vegetation types (Fig. 3). Invaded
+
+ponds (either H. ranunculoides, L. grandiflora or
+
+M. aquaticum) were dominated by Naididae (56% or
+
+more, Fig. 3b, c, d). In uninvaded ponds Naididae
+
+(44%) and Planorbidae (29%) were the most abundant
+
+groups (Fig. 3a). The Planorbidae family represented
+
+one genus, the snail Gyraulus sp. which is an
+
+epiphytic invertebrate. Importantly, no mayflies were
+
+found in invaded ponds, while in uninvaded ponds
+
+several individuals of Caenis sp. and Cloeon sp. were
+
+observed. Correlation analysis showed that as percent invasive
+
+species cover increased, invertebrate abundance significantly
+
+decreased among all ponds (n = 22, r =
+
+-0.46, P\0.05) as well as among invaded ponds
+
+only (n = 15, r = -0.58, P\0.05, Fig. 4). In ponds
+
+with an invasive species cover of[50% there was a
+
+decline of invertebrate abundance of approximately
+
+60% compared to uninvaded ponds. Invertebrate taxa
+
+richness showed a significant linear decline in
+
+response to invasive species cover among all ponds
+
+(n = 22, r = -0.42, P\0.05), but not among
+
+invaded ponds only (P[0.05). xdiscussion
+Our study provides qualitative evidence that sites
+
+invaded by H. ranunculoides, L. grandiflora and
+
+M. aquaticum have a negative impact on both native
+
+plants and macroinvertebrates. Each of the invasive
+
+species significantly reduced native plant species
+
+richness, with fewer species in heavily invaded
+
+plots. In our heavily invaded plots, cover of the
+
+invasive species was always between 90 and 100%
+
+compared to a 25% invasive cover in semi-invaded
+
+plots. These results confirm that the impact of an
+
+invasive species is usually associated with the
+
+degree of its dominance (Pys?ek and Pys?ek 1995).
+
+Because of their rapid growth, they can form dense
+
+canopies which occupy a large amount of space,
+
+they block sunlight and oxygen exchange and as a
+
+result outcompete native species. In full summer, the
+
+oxygen content felled to\5 mg/l in the underlying
+
+water layers of the dense canopies at some of our
+
+heavily invaded sites (I. Stiers et al. unpublished
+
+results). This is in agreement with the observations of Dandelot et al. (2005) and Hussner (2009).
+
+Species compositions in heavily invaded plots by
+
+H. ranunculoides and L. grandiflora were significantly
+
+different from species compositions in uninvaded
+
+plots. Impacts of H. ranunculoides,
+
+L. grandiflora and M. aquaticum invasion amongst
+
+individual species were difficult to obtain probably
+
+because of a limited number of present native
+
+species. This lack of evidence combined with the
+
+results of the presence/absence results indicates that
+
+the species composition differences found were
+
+largely a consequence of changes in species presences
+
+rather than abundances. In a study on impact
+
+of Lantana camara on native vegetation, Gooden
+
+et al. (2009) used similar methodology and also
+
+found differences in species composition between
+
+invaded and uninvaded sites. Nevertheless, our
+
+results clearly demonstrate a strong negative association
+
+between cover of the invasive species and
+
+cover of the resident native vegetation because these
+
+invaders usurp a large amount of space throughout
+
+the water column. However, the response to the
+
+invasion by the three different growth forms differed
+
+considerably. These compositional changes were
+
+exhibited mainly by the submerged growth forms
+
+and the floating growth forms validating the results
+
+of Hussner (2008) who described the displacement
+
+of native submerged aquatic species due to the
+
+expansion of dense floating mats of H. ranunculoides
+
+and M. aquaticum. Native submerged and
+
+floating species occupy the same position in the
+
+water column as the invaders and therefore competition
+
+is expected to be intense (Gopal and Goel.
+
+1993). Their rapid growth rates will allow them to
+
+capture the available resources more efficiently.
+
+Similar cases of loss of native vegetation have been
+
+reported for the invasive Eichhornia crassipes in
+
+Lake Chivero, Zimbabwe (Brendonck et al. 2003).
+
+Before the expansion of water hyacinth in the lake,
+
+submerged and rooted floating-leaved macrophytes
+
+were common in the shallow parts. Ali and Soltan
+
+(2006) reported the replacement of the originally
+
+dominant submerged macrophyte Najas marina
+
+subsp. armata by the invasive Myriophyllum spicatum
+
+in Lake Nasser, Egypt. Collectively, these
+
+findings highlight the major impacts that aquatic
+
+plant invaders have on submerged species.
+
+The loss of biodiversity associated with the
+
+invasion of alien species concerns mostly other
+
+ruderal or alien species (Hulme and Bremner 2006).
+
+In contrast, H. ranunculoides, L. grandiflora and
+
+M. aquaticum also invade sites with a high conservation
+
+interest. Rare (Utricularia vulgaris) and vulnerable
+
+(Hydrocharis morsus-ranae) red list species
+
+were absent in heavily invaded plots (Van Landuyt
+
+et al. 2006).
+
+Several researchers suggested that a combination
+
+of biological traits can explain invasion success of
+
+alien plants (Verlaque et al. 2002; Sutherland 2004;
+
+Ku®ster et al. 2008; Milbau and Stout 2008; Pys?ek
+
+et al. 2009). H. ranunculoides, L. grandiflora and
+
+M. aquaticum possess some of these characters, such
+
+as vegetative growth, rapid growth rate, a hydrophyte
+
+life form, high plasticity in growth response and a
+
+broad environmental tolerance which might explain
+
+their success as invaders in Europe. Furthermore,
+
+H. ranunculoides, L. grandiflora and M. aquaticum
+
+may also support the ëunlike invaderí hypothesis in
+
+freshwater ecosystems (Alpert et al. 2000; Alpert
+
+2006). Invasive species with life forms/strategies
+
+different from or taxonomically unrelated with
+
+species in the native community may be more
+
+successful as invaders (Alpert et al. 2000; Mack
+
+2003; Ricciardi and Atkinson 2004). The three
+
+invasive species studied here, have very few native
+
+congener species in Belgium and those that do exist
+
+such as Ludwigia palustris, Hydrocotyle vulgaris and
+
+Myriophyllum spicatum are rare or ecologically
+
+different (Lambinon et al. 1998). Additionally, these
+
+three species possess a trait that sets them apart from
+
+previous invaders such as Elodea canadensis. All
+
+three species exhibit a rapid stoloniferous perennial
+
+growth, including production of floating and emergent
+
+stems that allows them to develop space
+
+monopolizing mats on both the open water and
+
+exposed mud. M. aquaticum has even shown that it
+
+has an enhanced root growth in drained soil, this will
+
+allow it to successfully survive dry periods (Hussner
+
+et al. 2009).
+
+Our results on invertebrates showed that
+
+H. ranunculoides, L. grandiflora and M. aquaticum
+
+cover negatively affected invertebrate taxa richness
+
+and abundance in all ponds and the latter even in
+
+invaded ponds only. Cover of a species is closely
+
+related to biomass (Hejda et al. 2009). Floating weed
+
+mats of these invasive species, were reported with
+
+densities of up to 70 kg wet weight/m2 (H. ranunculoides;
+
+Newman and Dawson 1999), 20ñ26 kg fresh weight (M. aquaticum; Hussner 2008) and 2 kg dry
+
+weight (L. grandiflora; Dandelot et al. 2005). At the
+
+time of our invertebrate sampling, the decomposed
+
+litter of these plants and sediments formed a dense
+
+dark mat on the bottom of the heavily invaded ponds
+
+(I. Stiers, personal observation; Dandelot 2004). We
+
+hypothesize that this is a condition unsuitable for
+
+invertebrate colonization and will result in lower
+
+abundance of invertebrates, when percent invasive
+
+species cover increased. We found a high similarity
+
+([75%) in taxonomic groups of ponds invaded by
+
+H. ranunculoides, L. grandiflora and M. aquaticum.
+
+Under the litter of the invasive species, dipterans of
+
+the genus Chironomus and naidid oligochaetes were
+
+common and they are known to be able to tolerate
+
+oxygen stress (Mandaville 2002). Indeed, dissolved
+
+oxygen in some of our invaded sites fell below 50%
+
+saturation in spring 2008 (I. Stiers et al. unpublished
+
+results). Uninvaded ponds supported a more distinct
+
+invertebrate community, including species (e.g.
+
+Ephemeroptera) that are rare or missing from invaded
+
+ponds. The absence of a large number of individuals
+
+of the genus Gyraulus sp. in invaded ponds can be
+
+explained by their ecology, as they live in association
+
+with submerged plants. Most of the invaded ponds
+
+harboured less submerged vegetation. Several
+
+researchers found compositional differences of both
+
+epiphytic and benthic macroinvertebrates between
+
+native and alien plants, however, these patterns were
+
+not easily interpretable. They suggested that the
+
+variations were due to biological (e.g. differences in
+
+oxygen concentrations) and physical (e.g. differences
+
+in aquatic root and canopy leaf structure) differences
+
+between alien and native macrophytes (Feldman
+
+2001; Strayer et al. 2003; Toft et al. 2003, Theel
+
+et al. 2008).
+
+It is clear that by their structuring effect, native
+
+submerged macrophytes create a heterogeneous environment
+
+that is very different from that of the open
+
+water and that may have great impact on the
+
+interactions between different trophic levels. Dense
+
+submerged macrophyte beds show a positive correlation
+
+with epiphytic and benthic invertebrate colonization
+
+(Strayer and Malcom 2007; Shupryt and
+
+Stelzer 2009). Furthermore, they compete with phytoplankton
+
+and periphyton for light and nutrients and
+
+provide a spatial refuge against predators for zooplankton
+
+and small fish (van Donk and van de Bund
+
+2002). The loss of submerged macrophytes due to
+
+invasion is therefore drastic as they are an integral
+
+part of the shallow aquatic ecosystems. This study provides evidence of the significant
+
+negative impacts of three aquatic invaders in freshwater
+
+ecosystems. Despite some limitations, it is
+
+clear that the loss of native plant species richness was
+
+a common pattern to invasion by H. ranunculoides,
+
+L. grandiflora and M. aquaticum. Furthermore, the
+
+introduction of these invasive species in Belgian
+
+ponds has caused significant ecological alterations in
+
+the detritus community of ponds. These invaders
+
+represent a serious threat to the local biodiversity of
+
+freshwater ecosystems in Belgium and other European
+
+countries. Further spread must be prevented.

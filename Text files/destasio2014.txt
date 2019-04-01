@@ -1,0 +1,366 @@
+xabstract
+Biological invasions of aquatic systems disrupt ecological communities, and
+cause major changes in diversity and ecosystem function. The Laurentian Great Lakes of
+North America have been dramatically altered by such invasions, especially zebra (Dreissena
+polymorpha) and quagga (D. rostriformis bugensis) mussels. Responses to mussel invasions
+have included increased water clarity, and decreased chlorophyll and phytoplankton
+abundance. Although not all systems have responded similarly, in general, mussels have
+changed nutrient dynamics and physical habitat conditions. Therefore examination of different
+impacts can help us further understand mechanisms that underlie ecosystem responses to
+biological invasions. To aid our understanding of ecosystem impacts, we sampled
+established locations along a well-studied trophic gradient in Green Bay, Lake Michigan,
+after the 1993 zebra mussel invasion. A strong trophic gradient remained during the period
+sampled after the mussel invasion (2000ñ2012). However, mean summer chlorophyll increased
+and other measures of phytoplankton biomass (microscope and electronic cell counting) did not
+change significantly. Multivariate analyses of phytoplankton community structure demonstrate
+a significant community shift after the invasion. Cyanobacteria increased in dominance, with Microcystis becoming the major summer taxon in lower Green Bay. Diatom diversity and
+abundance also increased and Chlorophyta became rare. Phytoplankton responses along the
+trophic gradient of Green Bay to zebra mussel invasion highlight the importance of mussel
+effects on nutrient dynamics and phytoplankton diversity and function.
+xintroduction
+Biological invasions of aquatic systems have increased in frequency over the past 50 years and have
+led to major disruptions of ecological communities, thereby causing major changes in biological
+diversity and ecosystem function [1,2]. Invasions of the Laurentian Great Lakes of North America have
+been common, in large part due to extensive human activities that transport non-native species across
+natural dispersal barriers [3,4]. Some of the most well-studied examples include the major changes that
+occurred after invasions by zebra (Dreissena polymorpha) and quagga (D. rostriformis bugensis)
+mussels [5]. Dreissenid mussels quickly spread throughout the Great Lakes and nearby inland lakes in
+the 1980s, and dramatically changed most of the invaded systems e.g., [6]. Dreissenids typically
+achieved extremely high abundances and filtered large volumes of water [7,8]. This resulted in changes
+in water clarity and decreases in abundance of algae [9ñ13]. High consumption rates of particulate matter
+by mussels also increased nutrient release and caused shifts in nutrient ratios in some lakes [14,15].
+Because dreissenids live on the bottom, shifts in energy and biomass from the plankton to the benthos
+have been documented, leading to ìbenthificationî of invaded lakes [16ñ19].
+Not all aquatic systems have responded to invasion by dreissenid mussels in this same manner.
+Recent meta-analyses of responses of lakes to invasion by dreissenids show that some lakes exhibited
+increased chlorophyll and total phosphorus concentrations [18,20,21], as well as increased frequency of
+blooms of cyanobacteria [2,9,13]. Most of these studies have been conducted using easily measured
+aggregate variables like chlorophyll and total phosphorus, with relatively few providing taxonomic level
+analyses of changes in pelagic primary producers (e.g., phytoplankton). However, recent studies such as
+that in Saginaw Bay, Lake Huron [13] documented persistent shifts in phytoplankton community
+composition after mussel invasion. More detailed studies of lakes exhibiting such responses can provide
+an opportunity to better understand the mechanisms driving ecosystem change following invasion.
+Green Bay is the largest embayment of Lake Michigan and is one of the most productive ecosystems
+in the Laurentian Great Lakes [22,23]. Extensive studies prior to invasion of the system by zebra mussels
+in 1993 documented a strong trophic gradient due to nutrient loading from the Fox River and subsequent
+dilution with distance from the river [24ñ26]. The inner bay near the mouth of the river was shown to be
+highly eutrophic, with abundant phytoplankton growth, while the middle and upper bay areas were
+meso-oligotrophic. Studies of the system following the invasion demonstrated the persistence of the
+trophic gradient but varying responses depending on location along the gradient and level of analysis.
+Water clarity, as measured by Secchi depth, did not change significantly along the trophic gradient, and
+total phosphorus increased [8,27,28]. While analysis of chlorophyll concentrations just before and after
+invasion resulted in significant decreases [27], comparisons spanning a longer time range demonstrated
+significantly increased chlorophyll abundance at both lower and middle bay regions following
+invasion [28,29]. In addition, phytoplankton community composition shifted, with decreased proportions
+of Chlorophyta and increased dominance by cyanobacteria and diatoms [28]. Given that these responses
+to the invasion by zebra mussels differ from those observed in many other studies, further details of
+changes in phytoplankton communities may be instructive. Our previous reports on Green Bay documented
+changes in water clarity, chlorophyll abundance during part of the invasion period, and shifts in higher
+level taxonomic categories of phytoplankton. Here we provide results from a more extensive analysis of
+phytoplankton communities and further evidence of a clear regime shift in diversity and structure
+following invasion of the Green Bay ecosystem by dreissenid mussels.
+xmethods
+Previously published and unpublished data were combined with data from the present study, spanning
+a time period from 1982 to 2012. This study employed the same methods as earlier work to ensure
+reliable comparisons across time. In our investigations, Green Bay was sampled from 2000 until 2012
+at locations established during previous studies along a strong trophic gradient in the bay [24,25,28].
+The phytoplankton community analysis focused on microscope counts of samples from two locations in
+the lower-bay region (i.e., inner bay; GB1A and GB2 in Figure 1). Unpublished data on total
+phytoplankton biovolume and species composition from 1990 to 1992 was available for an additional
+site in the eastern area of the inner bay near the University of WisconsinñGreen Bay University Outing
+Club. Comparisons of chlorophyll were possible for site GB2 spanning the entire period from 1982 until
+2012. Additional limited data (total phosphorus, chlorophyll and Secchi depth) were available for all
+stations along the trophic gradient for select years. Sites GB1A and GB2 are representative of the shallow
+(less than 3 m depth), well-mixed conditions typically occurring in the inner bay, while other stations
+along the gradient become progressively deeper until reaching a depth of 15 m at GB6, which stratifies
+each summer.
+Samples were collected approximately biweekly each year from June through August. Samples for
+Chlorophyll a (Chl-a), nutrients, and phytoplankton analysis were duplicate-integrated samples collected
+from the surface to approximately 0.5 m above the bottom, or from the top 4 m at deeper sites (GB3,
+GB4, GB6). Water for Chl-a and nutrient determinations was stored on ice in the dark until returned to
+the laboratory and phytoplankton samples were preserved in 1% Lugolís solution.
+In the laboratory, Chl-a concentration was determined using the acetone extraction protocol [30].
+Replicate samples of water were filtered under dim light conditions onto GF/C filter paper, ground in a
+tissue grinder and extracted in 90% alkaline acetone. Extracts were centrifuged to remove particulate
+matter, followed by determination of absorbance at the Chl-a wavelength. Extracts were subsequently
+acidified to correct for phaeophytin interference. Soluble reactive phosphorus (SRP) was measured using
+the standard method employing ammonium molybdate and ascorbic acid. Digestion with potassium
+persulfate was used to determine total phosphorus (TP) concentrations [30].
+Duplicate subsamples (15ñ50 mL) for identification and enumeration of phytoplankton were
+examined using settling chambers viewed on an inverted Zeiss microscope or on permanent slides made
+by filtering subsamples onto membrane filters (0.45 µm pore size) under low vacuum (<50 mm Hg). Filters
+were cleared with immersion oil, sealed with Permount and enumerated at 100ñ500◊ magnification.
+Linear cell dimensions were determined with an ocular micrometer and used to estimate cell biovolume
+based on published relationships between linear dimensions and volume [30].
+Total phytoplankton biovolume was also determined from the phytoplankton samples using electronic
+particle counting. Biovolumes were measured with a Model B Coulter Counter from 1981 to 1992 [26]
+and with a Model 282PC Elzone counter from 2005 to 2007 (Particle Data, Inc., Elmhurst, IL, USA).
+Particles ranging in biovolume from 30 to 300,000 µm3, equivalent to 4ñ90 µm spherical equivalent
+diameter, were counted using a combination of multiple aperture tubes from 38 to 200 µm diameter.
+Separate biovolume distributions determined using each aperture tube were meshed to provide estimates
+of total phytoplankton biovolume per unit of lake water in each sample.
+Multivariate analysis of phytoplankton composition and abundance were conducted using principal
+component analysis (PCA) followed by agglomerative hierarchical clustering and Regime Shift
+Detection (RSD) procedures following the recommendations of Nicholls [31]. Data on phytoplankton
+community composition were analyzed at two levels of taxonomic resolution, using either genus-level identity or higher-level taxonomic categories. For higher-level groupings, cell counts for each genus were
+aggregated into these categories: cyanobacteria, non-desmid green algae (including the Chlorophyta and
+non-desmid Charophyta), desmids, diatoms (class Bacillariophyta), non-diatom Chrysophyta, dinoflagellates,
+and ìother.î Using data at these two levels of taxonomic specificity reduced problems with changes in
+resolution of identifications across time. Data were transformed with the 4th root transformation prior to
+analysis [31]. BrayñCurtis similarity indices were calculated from a transformed-data matrix and analyzed
+with PCA, AHC and RSD procedures.
+Examination for heteroscedasticity and normality, data transformations, tests of significance
+(e.g., MannñWhitney U and t-tests) and post hoc tests were performed using SPSSÆ (Statistical Package
+for the Social Sciences, version 15.0). Principal components analysis, cluster analysis and analysis of
+similarities (ANOSIM) were completed with the PAleontological STatistics (PAST) program [32].
+Regime Shift Detection was computed using the Excel spreadsheet procedures of Rodionov [33]
+followed by ANOSIM permutation tests using the PAST software.
+xresults
+Summer Chl-a concentration varied across time in the inner bay of Green Bay, and there were
+significantly greater mean summer abundances during the post-invasion period (1997ñ2012 in Figure 2;
+MannñWhitney U test adjusted H' = 5.04, df = 1, p = 0.025). Average chlorophyll levels before invasion
+were all less than 50 µg L-1, whereas concentrations after invasion approached 100 µg L-1 in some years.
+Within the pre-invasion time period mean summer values during 1986ñ1988 were lower than those
+before or after this period. Chlorophyll abundances routinely increased throughout the summer with
+peaks during August, in some years exceeding 250 µg L-1 during these late summer blooms (e.g., 2007)
+compared to peak values below 100 µg L-1 before the invasion. We have shown elsewhere significant
+increases in chlorophyll at the GB6 site following the invasion, indicating that similar responses occurred
+at both ends of the trophic gradient [28].Total phytoplankton biovolume in the inner bay of Green Bay varied over time but there was no clear
+pattern related to invasion by zebra mussels based on microscope counts (Figure 3, top). Phytoplankton
+biovolumes during 1986ñ1988 were lower than other pre-invasion years, consistent with the pattern
+observed in the chlorophyll data. Comparison of all pre-invasion years vs. post-invasion years showed
+there was not a significant difference between the two time periods (H' = 0.021, df = 1, p = 0.884).
+Phytoplankton biovolume determined with electronic particle counting methods showed changes over
+time that mimicked those observed in the microscope analysis (Figure 3, bottom), although this may be
+attributable to different methods of measuring phytoplankton abundance often yielding varying results
+on the same samples [34]. Using electronic particle counting data, there was no significant difference
+between the pre-invasion and post-invasion years (H' = 1.29, df = 1, p = 0.257). It is notable that after
+1986, the pre-invasion values were lower than 1981 and 1982 values (H' = 3.75, df = 1, p = 0.053),
+perhaps reflecting nutrient control efforts during the 1980s [23]. Restricting the analysis to these later
+pre-invasion values for comparison with post-invasion years indicates a significant increase in
+phytoplankton biovolume following the invasion (H' = 6.0, df = 1, p = 0.014), consistent with results
+from the chlorophyll analysis. Although count data are not available for 2010ñ2012, late summer algal
+bloom conditions in each year were similar to those observed in 2007, thus indicating that high
+concentrations and late summer blooms of phytoplankton have continued to occur through 2012,
+consistent with the high chlorophyll values observed for those years (Figure 2). Although fewer data are
+available for station GB6 based on microscope counts, our previous analysis [28] demonstrated
+significant increases in total phytoplankton biovolume based on microscopic analysis after mussel
+invasion, which is consistent with increased chlorophyll observed at station GB6.There were evident changes in phytoplankton-community composition and biodiversity over time.
+Analysis of phytoplankton-community count data from the inner bay grouped in seven higher-level
+taxonomic categories resulted in identification of two distinct time periods in the time series (Figure 4).
+These periods correspond to years prior to establishment of dreissenids (before 1993), and years after
+mussel invasion (2000 through 2007). There is also a separation between years of 2000ñ2005 and
+2006ñ2007 at a similarity level of approximately 75%. The low similarity between the pre- and
+post-invasion time periods indicates a clear shift in community composition after mussel invasion.Principal component analysis of the same data highlights clear changes in phytoplankton community
+composition and abundance over time (Figure 5). The first two principal components accounted for
+90.4% of community variation, and ordination results indicate obvious separations of pre- and postinvasion
+years. The first component is positively and strongly influenced by cyanobacteria and
+negatively by non-desmid and desmid green algae (Table 1). Post-invasion years showed increased
+dominance of cyanobacteria and decreases in the importance of green algae. Separation of the two time
+periods is also evident from changes in PC scores of the first component across time, where a significant
+shift occurred in 2000 (Figure 6). This shift was statistically significant based on the ANOSIM analysis
+with 9999 permutations (p = 0.0089), further indicating a change from importance of green algae before
+invasion to dominance by cyanobacteria after invasion. The second principal component separates the
+years based primarily on chrysophyte, non-desmid green algae and diatom abundance (Table 1), which
+provides further insight into differences observed in cluster analysis between post-invasion years (i.e.,
+2000ñ2005 vs. 2006 and 2007).Changes in relative abundance of higher-level taxonomic categories over time clearly show increased
+dominance of cyanobacteria after invasion by dreissenid mussels (Figure 7, top panel). The pre-invasion
+phytoplankton community was characterized by relatively similar proportions of cyanobacteria, green algae
+and diatoms. Beginning in 1992, the year just prior to the date of successful establishment of the zebra
+mussel [27], there was a decrease in the relative abundance of green algae and diatoms. Both desmid and
+non-desmid green algae occurred in very low abundances from 2000 onwards. Phytoplankton
+communities in 2006 and 2007 included more non-desmid green algae and chrysophytes than earlier years
+(2000ñ2005), which supports separation of these years in the cluster analysis and PCA. Conversion of
+count data into biovolume units also shows shifts in community composition (Figure 7, bottom panel).
+Diatoms became a more important component of the phytoplankton total biovolume during post-invasion
+years compared to earlier years and cyanobacteria increased in importance.The observed changes in dominance by cyanobacteria were not as predicted based on differences in
+total phosphorus among years (Figure 8). Percent dominance by cyanobacteria in pre-invasion years was
+well below the predicted levels based on published relationships [35,36]. Cyanobacteria contribution to
+total phytoplankton biovolume as a function of TP was higher in most years following the invasion,
+suggesting a change in factors determining phytoplankton community composition.
+There were significant changes in genus-level richness following invasion by dreissenid mussels
+(Table 3). Green algae richness decreased significantly following invasion (H' = 5.06, df = 1, p = 0.024),
+while number of diatom genera increased significantly (H' = 5.122, df = 1, p = 0.024). Richness of the
+other important genera did not change significantly between the two time periods. Taken together,
+multivariate analyses of the phytoplankton community in lower Green Bay indicate a clear regime shift
+over the past 30 years, consistent with the timing of the invasion by dreissenid mussels.The clear shift to dominance by cyanobacteria has been driven mostly by increases in abundance of
+the genera Microcystis and Anabaena (Figure 9). Microcystis was present at low levels in years before
+invasion, but exhibited dramatically higher abundances in later years, often reaching 20,000ñ80,000
+cells mL-1. Before invasion this group was primarily observed in late July and August, but from 2000
+onwards occurred throughout the summer. A similar pattern was observed for Anabaena, but with
+concentrations an order of magnitude lower. The other major genus of cyanobacteria in lower Green Bay,
+Aphanizomenon, exhibited higher abundances in 2000ñ2005, but since then has decreased
+in concentration.Diatoms were a fairly substantial component of the phytoplankton community in this shallow,
+well-mixed area of Green Bay over time, but two genera in particular increased following invasion.
+Aulacoseira increased in abundance starting in 2004, reaching average summer concentrations as high
+as 4000 cells mL-1 (Figure 10, upper panels). Although seen in much lower abundances than
+Aulacoseira, the genus Fragilaria was also more abundant from 2005 to 2007 compared to earlier years.
+In addition to these changes, as mentioned above, there was a significant increase in average number of
+diatom genera observed during summer (Table 3). Average number of diatom genera increased from
+8.67 before invasion to 16.25 for years after the invasion.Green algae such as Chlamydomonas and Scenedesmus were found in lower concentrations following
+invasion (Figure 10, lower panels). Chlamydomonas was not observed in any appreciable numbers
+following mussel invasion and remained rare i lower Green Bay through 2007. Scenedesmus
+concentrations increased again in 2006 and 2007, but did not return to pre-invasion abundances.
+Coincident with these changes, total number of genera of green algae observed during summer decreased
+significantly following mussel invasion, changing from an average of 20 genera recorded during preinvasion
+years to 11.4 during post-invasion years (Table 3).
+3.4. Trophic Gradient Conditions
+A clear trophic gradient in Green Bay occurred both before and after invasion by zebra mussels
+(Table 4). Total phosphorus and Chl-a concentrations decreased and Secchi depth increased with
+distance from the mouth of the Fox River (G1A to GB6, respectively). The high total phosphorus values
+at stations GB1A and GB2 in 2006 and 2007 indicate the continued hypereutrophic nature of the inner
+bay region after mussel invasion. Total phosphorus was significantly different among years (F2,47 = 7.19,p = 0.002), with higher concentrations in 1980 vs. 2006 and 2007 (Fisher LSD comparison tests,
+p < 0.05). Station GB1A differed from GB2 in TP, and both of these differed significantly from GB3,
+GB4, and GB6 (Fisher LSD tests, p < 0.05). Chlorophyll-a concentration also differed significantly
+among years (F2,47 = 5.57, p = 0.007); Chl-a in 2007 was significantly greater than in 1980 and 2006
+(Fisher LSD tests, p < 0.05). Chlorophyll-a at site GB1A differed from GB2, and both were significantly
+greater than stations GB3, GB4, and GB6 (Fisher LSD tests, p < 0.05). Secchi depth did not differ
+significantly among years (F2,47 = 0.87, p = 0.43), but did differ among sites (F4,47 = 31.81, p < 0.0001).
+Water clarity at GB1A and GB2 was significantly lower than at GB3, which was significantly different
+from GB4 and GB6 (Fisher LSD tests, p < 0.05).
+xdiscussion
+Our comparison of data from Green Bay prior to invasion by zebra mussels with data from years
+following invasion demonstrate clear and consistent changes in the phytoplankton community of lower
+Green Bay at multiple scales of analysis. As shown by De Stasio et al. [28,29] and the present study,
+there were significant increases in summer chlorophyll abundance after invasion and significant regime
+shifts in phytoplankton community composition compared to before the mussel invasion. Cyanobacteria
+became a more dominant feature of the system, with frequent blooms of Microcystis and Anabaena after
+mussel invasion. Green algae decreased in abundance and richness, and diatoms increased in abundance
+and richness at the genus level after the invasion.
+4.1. Phytoplankton Community Drivers
+While the majority of published research on the Laurentian Great Lakes has demonstrated reductions
+in both chlorophyll and phytoplankton biomass following invasion by zebra mussel (Dreissena
+polymorpha), recent meta-analyses indicate that not all systems have displayed reductions in phytoplankton biomass [18,20,21]. Examples where phytoplankton communities responded differently
+than the majority of systems studied can help us gain insight into the mechanisms that may drive
+community structure and function. Our results for lower Green Bay show that responses to invasions can
+be complex and less predictable than originally expected, especially in ecosystems highly influenced by
+human activities and multiple stressors.
+The trophic gradient in Green Bay persisted throughout invasion and remains a major determinant of
+phytoplankton communities in this Great Lakes estuary. The gradient is clearly seen in changes in total
+phosphorus, chlorophyll, and Secchi depth along the axis of the bay (Table 4, Figure 11) and mimics
+that documented since the early 1980s [24,27]. Despite the persistence of the trophic gradient the
+inner-bay and middle-bay phytoplankton communities changed after invasion by dreissenids [28].
+Reconciling plankton changes observed in Green Bay with actions of dreissenids requires examination
+of overall grazing impacts, effects on nutrient concentrations, and changes in physical habitat after
+invasion by mussels.
+4.1.1. Grazing Impacts
+Dreissenids are well known for the ability to filter large volumes of water and remove both
+phytoplankton and sediment from water by their grazing actions [6,7,9,37,38]. These impacts typically
+occur because dreissenids in the Great Lakes reached high abundances (often over 50,000 m-2; [5,39])
+and because individuals have large per capita filtration rates (>6 L mussel-1 day-1; [40]). In the inner
+bay of Green Bay, abundance of zebra mussels was shown to be patchy and relatively low from 2000 to
+2003 (0.2ñ11 m-2; [41,42]), while more northern sites near GB6 exhibited densities greater than
+20,000 m-2 [41]. Given the relatively low densities of dreissenids in the inner bay, it is perhaps not
+unexpected that chlorophyll and phytoplankton biovolume did not decrease significantly after the
+invasion. However, significant increases in chlorophyll in the inner and middle bay regions (Figure 11), and
+in phytoplankton biovolume in middle bay where mussel densities were high [28], call for further
+explanation. Similarly, significant shifts in phytoplankton community composition and increases in
+cyanobacteria indicate that selective feeding by dreissenids and/or shifts in nutrient conditions might
+also have been important after the invasion of Green Bay.
+4.1.2. Selective Grazing
+In both the inner and middle bay we documented significant increases in absolute and
+relative abundance of cyanobacteria, especially for the genus Microcystis (Figures 7 and 9, Table 2).
+Multivariate analysis of the inner bay phytoplankton community also demonstrated a significant regime
+shift following the invasion (Figure 6), with post-invasion communities dominated by cyanobacteria
+(Figure 5, Table 1). Similar shifts to cyanobacteria dominance following invasions have been extensively
+documented throughout the Great Lakes, sometimes attributed to selective grazing by zebra
+mussels [9,13,38,43]. Although there were conflicting conclusions drawn from early studies on feeding
+selectivity by zebra mussels [43ñ47], more recent studies have shown clearly that zebra mussels can be
+selective feeders, especially on colonial cyanobacteria like Microcystis [48ñ50]. Large cells and colonial
+or filamentous forms, such as cyanobacteria and diatoms, are often not drawn into the siphon [48,49,51].
+For Microcystis specifically, a recent study demonstrated selectivity for only single cells or colonies smaller than 80 µm diameter [50]. Additionally, phytoplankton can be rejected after intake and expelled
+as pseudofeces after being encased in mucus [43,48ñ50,52]. Pseudofeces often have a loose structure
+and phytoplankton cells can survive and subsequently recolonize the plankton [48,49]. Such activities
+by zebra mussels are thought to provide a relative advantage to such inedible and less preferred taxa,
+leading to community level shifts in phytoplankton composition.
+Selective grazing by zooplankton in Green Bay prior to the invasion by zebra mussels was shown to
+be an important factor in phytoplankton community structure and abundance, with greater overall
+grazing by zooplankton in the meso-oligotrophic middle and upper bay regions [26,53]. Our recent
+studies indicate that zooplankton abundances following the invasion decreased, especially in the inner
+bay region, and that the importance of zooplankton grazing has correspondingly decreased along the
+trophic gradient (De Stasio et al., in preparation). These decreases in grazing pressure by zooplankton
+are consistent with the observed shifts in phytoplankton community structure to more grazer resistant
+taxa, and to higher Chl-a abundances in the Green Bay system. Comparison of zooplankton and zebra
+mussel grazing impacts following the invasion would be of interest in light of these changes.
+4.1.3. Nutrient Conditions
+Observed changes in the phytoplankton also could have been driven by changes in nutrient conditions
+in the inner bay affected by the actions of dreissenids. A clear trophic gradient in nutrient conditions still
+occurred following the invasion (Table 4, Figure 11), demonstrating the continued importance of the
+lower Fox River in determining ecosystem structure and function in Green Bay. Monitoring data from
+inner bay of Green Bay indicate that TP concentrations decreased before the invasion, likely due to
+nutrient control efforts [23]. Concentrations of TP after the invasion were more variable, but data show
+that TP increased again [54]. In addition, nitrate concentration in the inner bay increased following
+mussel invasion. These trends were unexpected considering the continued successful efforts during the
+1990s to significantly decrease phosphorus loading to the lower Fox River and Green Bay [23]. The
+combination of lower loading of nutrients but increases in total phosphorus concentrations (which
+includes phosphorus as phytoplankton biomass), lends support to the role of zebra mussels in affecting
+nutrient cycling and dynamics in this system. Zebra mussel invasions of other Great Lakes ecosystems
+have been associated with increased concentrations of phosphorus as well as changes in nutrient cycling
+despite decreases in nutrient loading. In Lake Erie, zebra mussels were shown to have an important effect on
+phosphorus cycling, resulting in increased availability of phosphorus because of high rates of phosphorus
+release [14,15,55]. However, loading of soluble reactive phosphorus to the western basin of Lake Erie also
+increased after mussel invasion due to increased agricultural run-off, leading to re-eutrophication of the lake
+and more frequent blooms of cyanobacteria [56]. Nutrient ratios of nitrogen and phosphorus also were
+affected by mussel invasion in Saginaw Bay of Lake Huron and Lake St. Clair [5,57ñ59]. Increased
+availability of both phosphorus and nitrate in lower Green Bay helps explain the significant increases in
+phytoplankton shown in our study (Figure 2).
+Changes in the phytoplankton community composition make sense given these changes in nutrient
+conditions. The observed shift to dominance by Microcystis, a cyanobacteria genus unable to fix
+nitrogen, is expected under higher phosphorus and nitrate concentrations. Previous work on Green Bay
+indicated phosphorus limitation of total algal growth, and nitrogen-limited conditions for non nitrogen-fixing taxa [60,61]. With increased nitrate concentrations and high phosphorus levels
+Microcystis would be able to more successfully compete with other taxa and flourish. The same applies
+for diatom taxa that are resistant to other limiting factors such as grazing pressure and silica limitation.
+The diatoms that increased in Green Bay, such as Aulacoseira and Fragilaria (Figure 10), are typical of
+phytoplankton functional groups that thrive in well-mixed, eutrophic conditions where silica is
+abundant [13,62,63]. Both taxa are also colonial, making them less susceptible to grazing by zebra
+mussels e.g., [45,48]. The observed increases for these functional groups in Green Bay were the main
+drivers of the increased chlorophyll and phytoplankton abundance documented following the invasion
+by zebra mussels.
+Introduction of dreissenids to North America has been a major disruption of the invaded
+ecosystems [5] and has led to changes in the mechanisms producing well known system-level
+relationships. Correlations between TP and chlorophyll have been a standard measure of the effects of
+nutrients on ecosystem productivity and are used extensively for management decisions in the Great
+Lakes [54,64,65]. Such correlations can lose predictive ability when the underlying food web interactions
+change, which has been documented in both the Great Lakes as well as inland lakes [59,66]. In the inner
+bay of Green Bay the amount of chlorophyll per unit TP was shown to increase (but not significantly),
+in agreement with our results from 2006 to 2007 compared to relationships published from the
+1980s [27,61] (unpublished data). In a previously published study for sites near our middle bay site
+chlorophyll per unit, TP significantly decreased following invasion [27]. Recent literature reviews of
+responses of TP-Chl relationships to dreissenid invasions show a similar range of effects [18,20,21].
+A similar uncoupling of the relationship between TP and percent cyanobacteria appears to have occurred
+in Green Bay where well-established relationships from other lakes have very low predictive power
+(Figure 8). Zebra mussels likely caused a radical change in the grazing pressure on phytoplankton and
+nutrient cycling in these systems, so shifts in correlations are not unexpected. Experimental work
+indicates that changes in these relationships differ depending on the range of TP in the system [66,67],
+which also helps explain differences between the responses in lower Green Bay versus less productive
+systems like Saginaw Bay of Lake Huron [13].
+4.1.4. Physical Habitat Conditions
+Dreissenids have been shown to affect physical features of the Great Lakes by clearing the water of
+particulate matter and changing the nature of the sedimentñwater interface [5]. The greatest impacts of
+dreissenids are typically expected in shallow areas because mussels will have access to a larger
+percentage of the water column [68]. Physical habitat conditions of Green Bay vary along the trophic
+gradient, changing from a shallow, well-mixed, soft-bottom inner bay to deeper middle and upper bay
+regions that stratify thermally during the summer (Figure 1). As a consequence, greater effects of
+dreissenids were expected in lower and inner bay regions of Green Bay [69]. However, our data show
+that observed changes in inner bay were the opposite of what was expected based on water-clearing
+activities of dreissenids. Water clarity in the inner bay did not change significantly following the invasion
+by zebra mussels (Table 4, [28,54]), indicating that mussels did not effectively clear the water of particulate
+matter. Other studies have shown that high concentrations of suspended matter can interfere with filtering
+activities and even suppress the growth of dreissenids [70,71]. In addition, high concentrations of cyanobacteria like Microcystis can also lead to poor growth conditions for mussels [49]. Given this
+information, it is not surprising that zebra mussels occurred in relatively low abundances in inner and
+lower Green Bay, with higher population abundances near middle bay regions [41]. In the soft-bottom
+inner bay region, mussel abundance was patchy and occurred in druses [72], but was clearly not
+sufficient to allow for significant effects on light penetration and water clarity.Green Bay has responded to invasion by dreissenid mussels in a different way than many of the waters
+in the Laurentian Great Lakes, as well as in other inland bodies of water. The strong trophic gradient
+from the mouth of the Fox River northward along the bay remained after mussel invasion.
+Although significant decreases in phosphorus loading to the system occurred over time before mussels
+arrived, chlorophyll concentrations in lower and middle bay increased and the phytoplankton community
+shifted to one even more dominated by cyanobacteria than observed prior to the invasion. A combination
+of relatively poor growth conditions for dreissenids in the inner bay, shifts in nutrient conditions,
+and decreases in zooplankton grazing appear to have facilitated a shift in abundance, as well as
+composition and diversity of the phytoplankton communities. Changes in the middle bay region, where
+nutrient-loading effects are reduced, indicate the importance of mussels as a primary driver of these
+changes. Additional investigations of physical, chemical and biological factors along gradients, where
+the influence of these factors varies, will provide tests of mechanisms causing ecosystem responses to
+invasions. Further studies of examples where lakes respond differently to invasions can provide
+additional insights into aquatic ecosystem structure and function.

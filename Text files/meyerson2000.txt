@@ -1,0 +1,10 @@
+xabstract
+This paper compares the available North American literature and data concerning several ecological factors affecting Phragmites australis in inland freshwater, tidal fresh, and tidal brackish marsh systems. We compare aboveground productivity, plant species diversity, and sediment biogeochemistry; and we summarize Phragmites effects on faunal populations in these habitats. These data suggest that Phragmites aboveground biomass is higher than that of other plant species occurring in the same marsh system. Available data do not indicate any signiﬁcant difference in the aboveground Phragmites biomass between marsh types, nor does there appear to be an effect of salinity on height. However, Phragmites stem density was signiﬁcantly lower in inland non-tidal freshwater marshes than in tidal marshes, whether fresh or brackish. Studies of the effects of Phragmites on plant species richness suggest that Phragmites dominated sites have lower diversity. Furthermore, Phragmites eradication in freshwater sites increased plant diversity in all cases. Phragmites dominated communities appear to have different patterns of nitrogen cycling compared to adjacent plant communities. Aboveground standing stocks of nitrogen (N) were found to be higher in Phragmites sites compared to those without Phragmites. Porewater ammonium (NH+ 4 ) did not differ among plant cover types in the freshwater tidal wetlands, but in brackish marshes NH+ 4 was much higher in Spartina spp. than in neighboring Phragmites stands. Faunal uses of Phragmites dominated sites in North America were found to vary by taxa and in some cases equaled or exceeded use of other robust emergent plant communities. In light of these ﬁndings, we make recommendations for future research.
+
+xintroduction
+
+xmethods
+
+xresults
+
+xdiscussion

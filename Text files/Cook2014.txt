@@ -1,0 +1,687 @@
+xabstract
+
+
+The escape of ornamental plants is a main pathway of invasion into many ecosystems. Non- native plants can alter basal resources and abiotic factors leading to effects that ripple throughout an ecosystem. Invertebrates mediate these effects— responding quickly to abiotic and primary producer changes and, in turn, influencing other species. Invasions are of particular concern in the coastal sage scrub ecosystems of Southern California, where
+habitat loss and urban encroachment increase invasive species propagule sources and decrease native com- munity resistance. The introduced annual Chrysan- themum coronarium (crown daisy) is a common invader with largely undocumented community-level effects. Our study tested the relationships between the invasive Chrysanthemum and a coastal scrub inverte- brate community using a field study at the Tijuana River Estuary. We found similar or lower abundances and diversity of canopy fauna in the presence of Chrysanthemum. Community composition dramati- cally differed, however, in the presence Chrysanthe- mum, which was associated with higher abundances of dipterans, wasps and flower beetles, and lower abun- dances of hemipterans and thysanopterans than native shrubs. Differences in communities were consistent at the species- and order-levels, and were associated with the generally greater plant biomass and shadier conditions afforded by the natives. This study reveals that even a proportionally small amount of Chrysan- themum may shift the invertebrate community through alterations of abiotic properties and plant biomass. We recommend that Chrysanthemum be removed at the first sign of invasion or that spread is prevented since effects on the invertebrate community are dramatic and occur quickly.
+
+
+
+xintroduction
+
+
+
+
+The escape of ornamental plants from landscaping is a
+main pathway by which plants invade many ecosystems
+(Reichard and White 2001). Ornamental plants
+are particularly high-risk invaders because many of
+the traits that make them desirable landscaping plants,
+such as fast growth rates and suitability for the climate
+and its physical challenges, also make them effective
+invaders (Bell et al. 2003). The plants often causing
+the most dramatic changes to an ecosystem are those
+that are most novel, in that they differ the most from
+natives or are capable of capitalizing on open
+resources (Simberloff 1991). This is the case with
+the annual Chrysanthmum coronarium (crown daisy,
+hereafter ëëChrysanthemumíí), which invades the
+perennial-dominated coastal sage scrub of Southern
+California. Introduced annual plants can quickly
+colonize and dominate disturbed open areas or gaps
+(Speziale and Ezcurra 2011), and limit growth of
+slower growing perennials. Often, if the invading
+species is novel, even the early stages of invasion can
+significantly alter the ecosystem (e.g., Crooks 2002).
+For example, the size, complexity, chemical make up,
+and life-cycle of annuals can significantly differ from
+native perennials (Cui et al. 2011; Bustamante et al.
+2006). Such introduced plants can alter bottomñup
+processes through shifts in basal resources (Whitcraft
+et al. 2008; Rau et al. 2011), physical conditions
+(Talley and Levin 2001; Talley et al. 2012), and
+disturbance regimes (Mack et al. 2001), and alter topñ
+down processes through shifts in relative abundances
+of natural enemies and herbivores (Pearson 2009). The
+invertebrate communities of an ecosystem often
+mediate these effects, responding quickly to changes
+and in turn influencing other species (Schowalter
+2011), such as vertebrate predators.
+The invasion of annuals like Chrysanthemum are of
+particular concern in the coastal sage scrub ecosystems
+of Southern California, where habitat loss, encroachment,
+and degradation resulting from dense urban
+development increase propagule sources and decrease
+native community resistance to invasion (Reichard and
+White 2001; Simberloff 2009;Huang et al. 2011).While
+Chrysanthemumis a common invader in various regions
+of the United States, including Southern California
+where it commonly forms monocultures (Cal-IPC
+2006), its effects on invertebrate communities and
+ecosystem processes are largely undocumented (e.g.,
+Cal-IPC 2006). The goal of this study was to, therefore,
+determine the effects of a Chrysanthemuminvasion on a
+coastal sage scrub invertebrate community in Southern
+California. We accomplished this goal by testing the
+following predictions:
+1. Invertebrate diversity and abundance will be
+lower with higher Chrysanthemum abundance
+because Chrysanthemum is less able to ameliorate
+stressful physical conditions, and it is generally
+smaller and less complex, both of which result in
+less usable trophic and non-trophic resources for
+invertebrates.
+2. Invertebrate community composition on the introduced
+Chrysanthemum will differ from the communities
+living on native shrubs as related to the
+differences in plant structure and size, plant life
+cycle and the physical conditions associated with
+each plant type. For example, we expected fewer
+hemipterans and thysanopterans (i.e., generally
+phytophagous), and spiders (i.e., rely on canopy
+structure) on Chrysanthemum because the plants
+are generally smaller, less complex, and less able
+to lessen physical stress than perennial natives.We
+expected more hymenopterans, dipterans and
+coleopterans (i.e., likely to be associated with
+conspicuous flowers and plant debris) on Chrysanthemum
+than the native perennial shrubs.
+xmethods
+
+
+We conducted an observational study during early
+spring 2011 in a 5.5 ha area of coastal sage scrub at the
+north end of the Tijuana River National Estuarine
+Research Reserve and Tijuana Slough National Wildlife
+Refuge in Imperial Beach, CA, USA (Fig. 1). This
+area contains a mosaic of intact and invaded coastal
+sage scrub with patches dominated by Artemisia
+californica (California sagebrush, hereafter ëëArtemisiaíí),
+Artemisia-native plant mix (Artemisia, Eriogonum
+fasciculatum, Frankenia salina, Lycium
+californicum, Isocoma menziesi, Rhus integrifolia,
+hereafter referred to by genus names), Chrysanthemum
+and native plant mix, and Chrysanthemum
+monocultures. Eight to nine 2 9 2 m plots were
+established within each of these four different plant
+assemblages in as interspersed a design as possible
+xresults
+
+
+Fig. 1). Plot type was defined using the proportional
+abundance (% volume) of each plant species within
+plots (Table 1). When Artemisia or Chrysanthemum
+dominated an area, they made up 93ñ100 % of the
+total plant volume, while cover of these species in
+mixed plots ranged from 40 to 84 %, so these ënatural
+breaksí were used to define the four plot types. We
+chose plots with similar topography (avg ± 1 SE
+elevation: 2.24 ± 0.1ñ2.46 ± 0.07 m NAVD; slope:
+2.3 ± 0.4ñ3.4 ± 0.8; ANOVA P C 0.11; San Diego
+County LiDAR contours (CaSIL 2011) and sediments
+(all sandy clay loam or loamy sand as determined by
+texture by feel) to reduce environmental variability
+between plots in order to focus on differences
+associated with the plant community.
+Canopy invertebrate sampling
+Between 21 and 25 March 2011, we sampled the
+invertebrate community in the canopies of each plant
+species living within each plot. We sampled similar
+numbers of each plot types each day to avoid
+confounding effects of time or weather in our comparisons
+of plot type and plant species. The weather
+was partly sunny, with temperatures of 18.3ñ21.1 C
+throughout the sampling. Each canopy was sampled
+by continuously passing a gas powered leaf blower
+adapted to vacuum (Buffington and Redak 1998) over
+green foliage (canopy) and live main and secondary
+stems with equal sampling effort per unit plant
+volume. Canopy invertebrate samples were sorted
+from plant material and debris, and enumerated within
+order and within species or, if unknown, morphospecies
+groupings. With the help of identification guides
+and taxonomic experts, we identified each morphospecies
+to the lowest taxonomic level feasible (often
+family). If species level identification could not be
+made, we still maintained the morphospecies distinctions
+(e.g., Chrysomelidae sp. 1, Chrysomelidae sp. 2).
+Species diversity (species richness and H0) and total
+abundance per plot and per plant were then calculated. Environmental variables
+Between 28 March and 01 April 2011, we measured
+the physical characteristics associated with each plant
+species including plant percent canopy cover (visually
+estimated), plant volume (plant height 9 longest
+canopy diameter 9 perpendicular canopy diameter),
+relative temperature and humidity (relative to ambient)
+taken 2.5 cm above the ground, and canopy light
+attenuation. As with invertebrate sampling, we sampled
+similar numbers of each plot type each sampling
+day to avoid confounding effects of time in comparisons.
+Photosynthetic-light was measured using an
+Apogee Quantum handheld light meter, and both
+humidity and temperature using an Extech humidity/
+temperature pen. Physical measurements were made
+during mid-day (10 a.m.ñ2 p.m.) over two consecutive
+sunny days. Three measures were taken at each plant,
+averaged, and then standardized to above canopy
+conditions [e.g., under-canopy light (lmol photons
+m-2 s-1)/full sunlight (lmol photons m-2 s-1)].
+Statistics
+All data were log(x ? 1) transformed or arcsin square
+root transformed (proportion data) before analyses to
+meet the assumptions of normality and homogeneity
+of variance for the statistical tests used (Clarke 1993;
+Zar 2009). Differences in environmental variables,
+and invertebrate total abundance, and diversity (species
+richness and H0) between plot and plant types
+were performed using nested ANOVA in JMP 9
+Statistical Software.
+Multivariate analyses were carried out on environmental
+conditions and invertebrate assemblages using
+Primer Software (Clarke and Gorley 2006). Invertebrate
+assemblages were analyzed at the species-,
+family- and order-level, using species abundance,
+family abundance and order abundance data, respectively.
+Use of both lower- and higher-order taxonomic
+levels is recommended until an appropriate taxonomic
+level, which is one that can detect changes, is
+determined (Ammann et al. 1997; Warwick 1988;
+Waite et al. 2004). The results of the species- and
+family-level analysis were similar (i.e., the same
+faunal groups differed between the same plot types
+and plants). Therefore, only the species-level results
+are presented along with our high taxonomic level,
+order, which is often sufficient to detect large impacts
+(Nijboer and Schmidt-Kloiber 2004). Environmental
+variables were normalized, while the species and order
+lists with counts were log(x ? 1) transformed and
+relativized (proportion of total), with no other abundance
+cut-offs, standardizations, or weighting used on
+the data. A total of 60 Artemisia-dominated faunal
+species within 10 orders, 54 Artemisia and native
+plant-mix faunal species within 10 orders, 53 Chrysanthemum-
+native mix faunal species within 11
+orders, and 59 Chrysanthemum-dominated faunal
+species within 12 orders were found and used for all
+of the multivariate analyses. Euclidean distance
+(environmental variables) and BrayñCurtis similarity
+indices (faunal data) of the log(x ? 1) transformed
+data were calculated to compare the environment and
+fauna communities between plots, and to relate the
+fauna to the environmental variables. Differences in
+the environmental conditions and the invertebrate
+community (species and order abundances) within plot
+types (between plant species) and between plot types
+were visualized using nonmetric multidimensional
+scaling (MDS) on the normalized environmental data
+and the BrayñCurtis similarity indices of log(x ? 1)
+transformed faunal data to reduce the dominant
+contributions of abundant species (Clarke 1993;
+Clarke and Gorley 2006). Six different random
+starting points with up to 1,000 steps were used. The
+stress values from the six runs were examined for
+stability to determine whether a global solution had
+been found. Only analyses with stress values of\0.2
+were used; stress is a measure of how well the solution (in this case the 2-D MDS plots) represents the
+multidimensional distances between the data. Clarke
+(1993) suggests values\0.1 are good and\0.2 are
+useful.
+Significance testing for differences in environmental
+conditions and faunal composition (species and
+order abundances) between plot types and between
+plant species found in each plot type was performed
+using an analysis of similarity (ANOSIM) procedure
+on the Euclidean distance and Bray Curtis similarity
+matrices. This is a randomized permutation test based
+on rank similarities of samples (Clarke 1993). Analyses
+of dissimilarities in environmental conditions and
+faunal composition found between plot types and plant
+species, and the particular variables or taxa contributing
+to the dissimilarity, were carried out using
+SIMPER (Clarke 1993). The SIMPER results specify
+which variables or taxa are responsible for the
+ANOSIM results by comparing the average environmental
+value or abundances of each taxon between
+each plot type. The average dissimilarity between
+samples from the four plot types (Artemisia dominated,
+native plant mix, Chrysanthemum-native plant
+mix, and Chrysanthemum dominated) is computed and
+then broken down into contributions from each
+variable/taxon. Those variables or taxa with high
+average terms relative to the standard deviation are
+important in the differentiation of environmental
+conditions and faunal assemblages within each plot
+type.
+Relationships between the environmental variables
+and both species diversity and total abundance were
+tested with forward, stepwise multiple regressions using
+JMP Statistical Software. Variables included in the
+model met the criteria of p B 0.05 and r2 C 0.04. Tests
+of the environmental variables that best explain faunal
+community differenceswere conducted using the Brayñ
+Curtis similarity indices with the BEST Analysis in
+Primer Software using the BVSTEP method (criteria:
+q[0.95, Dq\0.001) with fixed starting variables and
+a Euclidean distance resemblance measure. BVSTEP
+sequentially adds environmental variables, keeping
+those that best explain faunal community patterns and
+eliminating those that explain least. Several iterations of
+the test are run with a random selection of variables to
+ensure that the bestmatch is found (Clarke 1993; Clarke
+andWarwick 2001). The environmental variables tested
+are listed in Table 2.
+
+
+xresults
+Chrysanthemum effects on the physical
+environment
+Plot type environments
+The environmental conditions in the invaded plots
+differed from the uninvaded plots (Fig. 2a; Table 2A,
+B). The invaded plots (Chrysanthemum dominated,
+Chrysanthemum-native mix) contained smaller volumes
+of the various native plants and greater volumes
+of Chrysanthemum, higher relative substrate temperature
+(Chrysanthemum dominated only), less light
+attenuation (shading), and lower total plant biomass
+(lower%cover and less total plant volume), but higher
+relative humidity beneath the canopy (likely higher
+substrate moisture evaporation rates) than in uninvaded
+plots (Artemisia dominated, Artemisia-native mix)
+(SIMPER-factors explaining *70 % of pairwise plot
+differences). The environments in the Chrysanthemum-
+dominated plots differed from the Chrysanthemum-
+native mix plots (Table 2B; Fig. 2a) in similar
+ways except total percent plant cover was lower in the
+Chrysanthemum-native mix than Chrysanthemumdominated
+plots (SIMPER-factors explaining
+*70 % of pairwise plot differences; Table 2A).
+Environments associated with plants within plots
+The plant species contributing most to the different
+environmental conditions between and within plots
+were Artemisia and Eriogonum (Table 3), which were
+both associated with greater plant cover and/or
+volume, more light attenuation, higher relative humidity,
+and lower relative temperatures than Chrysanthemum
+(SIMPER-factors explaining*70 % of pairwise
+differences). When Artemisia shrubs were dominant
+(i.e., in the Artemisia dominated plots), the environmental
+conditions were distinct from those of the other
+native shrubs (Table 3) in that the dominant Artemisia
+shrubs were generally larger (greater volume, percent
+cover and height), attenuated more light, and had
+lower relative temperatures and higher relative humidity
+under the canopy (SIMPER, factors explaining
+*70 % of differences between Artemisia shrubs in
+Artemisia-dominated plots and native shrubs in the
+same and other plots).
+Similarly, Chrysanthemum plants in the Chrysanthmum-
+dominated plots were associated with different
+environmental conditions than Chrysanthemum plants
+in mixed plots (Table 3). The Chrysanthemum plants
+in monoculture had more biomass (taller, more percent
+cover), and were associated with lower relative
+temperatures, higher humidity and more light attenuation
+than Chrysanthemum growing with natives
+(SIMPER, factors explaining *70 % of the environmental
+differences between Chrysanthmeum in monocultures
+compared with those in mixed plots.)
+Canopy invertebrate diversity and abundance
+Differences in total invertebrate abundance and
+diversity between plot types were mostly driven by
+the plant species present, namely Artemisia and
+Chrysanthemum. Total invertebrate abundance tended
+to be highest in the Artemisia-dominant plots, intermediate
+in native-mix and Chrysanthemum-dominated
+plots, and lowest in the invaded mixed plots.
+Artemisia and Chrysanthemum tended to drive this
+trend with support of the highest invertebrate abundances
+(Table 4). Number of species per plant was
+highest on Artemisia and Chrysanthemum and lowest
+on the other native plants, while measures of diversity
+and evenness, H0, did not differ among plot types or
+plant species (Table 4).
+Community composition
+Faunal compositions of plots
+Invertebrate species compositions (species abundance
+data) of plots invaded by Chrysanthemum (Chrysanthemum-
+dominated and Chrysanthemum-native mix)
+were 63ñ76 % different than uninvaded plots (Artemisia-
+dominated, Artemisia-native mix) (Table 5A;
+Fig. 2b). Composition was similar between the two
+invaded plot types (Chrysanthemum dominated vs
+Chrysanthemum-native mix, ANOSIM P = 0.78),
+and between the two uninvaded plot types (Artemisia-
+dominated vs Artemisia-native mix, ANOSIM
+P = 0.19) (Table 5A; Fig. 2b). Further, composition
+did not differ across plot locations (ANOSIM
+P = 0.43). Uninvaded plots had higher abundances
+of hemipterans (mostly psyllids and cicadellids),
+thysanopterans, western tussock moth caterpillars,
+mites and dictynid spiders, while the invaded plots had higher abundances of dipterans (dolichopodids, tabanids),
+wasps, flower beetles (Dasytinae and Phalacridae),
+and nymphs of one type of deltocephalin
+hemipteran (SIMPER, taxa that account for *50 %
+of dissimilarity between plots; Online Resource 1).
+Invertebrate order composition (order abundance
+data) revealed similar but simplified patterns (Fig. 2c).
+Order composition was similar between the two
+uninvaded (Artemisia-dominated and Artemisia-native
+mix) and the two invaded (Chrysanthemum dominated and Chrysanthemum-native mix) plot types (ANOSIM
+P = 0.60 for both), and differed by 62ñ75 % between
+invaded and uninvaded plots (Table 5B; Fig. 2c).
+Uninvaded plots tended to have higher abundances of
+mites and hemipterans, while invaded plots had more
+dipterans, coleopterans and hymenopterans (SIMPER,
+taxa that account for *75 % of dissimilarity between
+plots; Online Resource 1).
+Faunal community compositions on plants within plot
+types
+Chrysanthemum presence influenced which fauna
+were found on the native plant species within invaded
+plots and therefore drove many of the differences in
+the invaded and uninvaded plot communities. This is
+evidenced by comparisons among the faunal communities on Chrysanthemum plants, on native
+plants in invaded plots, and on native plants in
+uninvaded plots.
+Native plant versus Chrysanthemum faunal
+communities
+The invertebrate communities living on Chrysanthemum
+were more similar to the communities living on
+native plants within invaded plots (those in the
+Chrysanthemum-native mix) than to those fauna on
+native plants in uninvaded plots (Artemisia dominated,
+Artemisia-native mix; Table 6A, B; Fig. 2b, c). Similarities
+between Chrysanthemum-associated fauna
+and the fauna on native-plants within the invaded
+plots were due to the Chrysanthemum-associated
+fauna (e.g., dipterans, wasps, flower beetles) using
+the natives, with little or no increase of native plant
+associated fauna (e.g., hemipterans, thysanopterans,
+tussock moth caterpillars) on the Chrysanthemum
+(SIMPER results for both species- and order-level
+analyses; Fig. 2b, c; Online Resource 1). The close
+proximity of native and Chrysanthemum plants in the
+Chrysanthemum-native mix plots could contribute to similar invertebrate compositions, but the communities
+living on native plants within the same plots
+(natives within Artemisia-native mix, Chrysanthemum-
+native mix) often significantly differed
+(Table 6A, B; Online Resource 1) revealing the ability
+of invertebrates to differentiate plants within plots.
+The invertebrate communities living on Chrysanthemum
+plants differed from those living on native
+plants in the uninvaded plots in the same way that the
+invaded whole-plot communities differed from the
+uninvaded ones illustrating that when Chrysanthemum
+is present, the plot-wide community is influenced.
+Chrysanthemum plants had higher abundances of
+dipterans, wasps, flower beetles (Dasytinae, Phalacridae),
+Deltocephalinae nymphs, and the Mediterranean
+snail, Theba paisana. Each of the uninvaded native
+plant species hosted more hemipterans, thysanopterans,
+the minute brown scavenger beetle (Latrididae),
+western tussock moth caterpillars, mites, and dictinyd
+spiders (SIMPER, species accounting for*50 %, and
+orders accounting for*75 %of dissimilarity between
+Chrysanthemum fauna and the fauna on each uninvaded
+native plant species; Online Resource 1).
+Invaded versus uninvaded native plant faunal
+communities
+The native plants in invaded plots hosted Chrysanthemum-
+associated fauna while those in uninvaded plots
+did not (Fig. 2). Invertebrate communities on Artemisia
+plants were similar between the uninvaded plots
+(Artemisia-dominated, Artemisia-native mix), but differed
+by 59ñ63 % for species and 47ñ49 % for orders
+between the Artemisia in uninvaded (Artemisia-dominated,
+Artemisia-native mix) and in invaded (Chrysanthemum-
+native mix) plots (Table 6A, B; Fig. 2b,
+c). The community on invaded Artemisia (in Chrysanthemum-
+native mix plots) contained more Chrysanthemum-
+associated individuals (e.g.,
+Deltocephalinae nymphs, flower beetles, dolichopodid
+and tabanid flies), and less native plant-associated
+fauna (e.g., western tussock moth caterpillars, thysanopterans,
+hemipterans, mites, and dictinyd spiders)
+than in the community on uninvaded Artemisia
+(Artemisia-dominated, Artemisia-native mix) (SIMPER,
+taxa accounting for *50 % of dissimilarity in
+species and*75 % of dissimilarity in orders between
+uninvaded and invaded Artemisia fauna; Online
+Resource 1). Similar differences were observed for
+the other native plants (Eriogonum, Isocoma) in
+invaded compared with uninvaded plots, but results
+were not significant at a = 0.05 (Table 6A, B; Online
+Resource 1). It is likely that there were too few
+individuals of these other native plant species to see
+significant effects. Therefore, most of the differences
+in communities across plot types were due to the
+animals living directly on Chrysanthemum and those
+that switched to Artemisia (and maybe other natives),
+when present.
+Effect of physical environment on invertebrate
+community
+Percent canopy cover and relative temperature were
+positively associated with total faunal abundance and
+species richness per plant (Table 7). The differences in
+faunal communities across plot types were associated
+with the differences in light attenuation, and the
+volumes of Chrysanthemum and Artemisia in each plot
+(species level: BEST R = 0.58, order level: BEST
+R = 0.62; Table 2A). Differences in faunal communities
+within plots (between plant species) were due
+primarily to the differential light attenuation afforded
+the various plant species (species level BEST
+R = 0.24, order level BEST R = 0.23), which tended
+to be lowest beneath Chrysanthemum, greatest under
+large Artemisia, and intermediate under other natives. 
+
+xdiscussion
+Effects of Chrysanthemum on the coastal sage
+scrub invertebrate community
+The presence of invasive Chrysanthemum in this site
+was associated with faunal communities and physical
+conditions different than those found in the native
+plant assemblages. The cause of these communitylevel
+and physical differences may be rooted in the
+unique biological, physical and chemical characteristics
+of the Chrysanthemum plants compared to the
+native plants in this area. Chrysanthemum is an annual
+plant, which generally has less primary producer
+biomass in space and time than perennial shrubs like
+the dominant natives in this site. These generalized
+differences between plants with annual and perennial
+life cycles were supported by the smaller, less
+complex aboveground stature, and the relatively sparse cover of stands of Chrysanthemum compared
+with the native shrubs. The differences between
+Chrysanthemum and the native plants likely translated
+to the differences in associated physical properties
+(less shading, higher substrate temperatures; e.g.,
+Williamson and Fitter 1996; Smith and Knapp
+2001), which, in turn, influenced the associated
+invertebrate communities (Pearson 2009; Holmquist
+et al. 2011; Talley et al. 2012). The invasion of
+Chrysanthemum also likely changes the quantity and
+types of food available. Because of its annual life
+cycle, Chrysanthemum live biomass is only present
+throughout the late winter to spring with standing and
+fallen dead litter available for the rest of the year. This
+may have in part contributed to the lower abundances
+and diversity of largely herbivorous taxa such as
+hemipterans and thysanopterans (Schoonhoven et al.
+2006) on Chrysanthemum and invaded native plants.
+Further, the large, abundant composite flowers likely
+attracted fauna not normally attracted to the area, such
+as pollinating beetles and flies (Woods et al. 2012; Van
+Kleunen et al. 2007). Only Encelia has a relatively
+similar flower, though is is not often found in such high
+densities in this area. The unique chemical composition
+of Chrysanthemum may have served as an
+attractant and/or repellent, and likely reduced the
+quality of foodóany of which would contribute to
+shifts in the invertebrate community (Jimenez et al.
+2012). Chrysanthemum contains an insecticidal class
+of chemicals collectively known as pyrethrins (Marongiu
+et al. 2009), which may have contributed to the
+lower abundances of plant-sucking insects, such as the
+herbivorous hemipterans and thyanopterans. This
+situation of an invader with different life history
+strategies than the natives is not unique to this site
+(DiTomaso 2000), making it likely that similar
+patterns and processes may be present in other
+locations and other ecosystems.
+Broader effects of Chrysanthemum
+The shifts in physical conditions and faunal communities
+associated with the presence of Chrysanthemum
+have implications for ecosystem functioning. The
+change in plant architecture can affect the quantity and
+quality of habitat for some species (e.g., Dennis et al.
+1998; Pearson 2009). Increased substrate surface
+temperatures and higher rates of moisture loss as
+observed in association with Chrysanthemum in this
+study can decrease decomposition rates (Swift et al.
+1979). Chrysanthemum-associated shifts in invertebrate
+composition can also affect ecosystem functioning
+since invertebrates play diverse and relatively
+large roles in ecosystem processes (Triplehorn and
+Johnson 2005). Canopy arthropods can influence
+decomposition and nutrient turnover (e.g., moths,
+hemipterans, Schowalter et al. 1991), pollination (e.g.,
+Dasytinae beetle, dolichopodid flies; Mawdsley 2003;
+Pollet et al. 2004), and food web support through
+connecting basal and upper trophic levels (e.g.,
+hemipterans, dipterans and spiders, Gratton and Denno
+2006).
+In particular, the Chrysanthemum canopy hosted
+the invasive Mediterranean snail, Theba paisana, an
+intensively-grazing agricultural pest that uses vertical
+structures such as live or dead plants, or fence posts, to
+aestivate (Baker and Hawke 1990). Further, the
+increase in dipteran and beetle pollinators associated
+with Chrysanthemum could encourage the further
+spread of Chrysanthemum and other plants with
+similar flower type and phenology (e.g., Morales and
+Aizen 2002). For example, Encelia is native and has weedy tendencies in this immediate area so could
+benefit from increased local abundances of pollinators.
+The invasion of Chrysanthemum may also negatively
+impact species that rely on coastal sage shrubs,
+such as the California gnatcatcher, a federally listed
+endangered species (Polioptila californica) that was
+listed due to the loss of 75ñ90 % of its coastal sage
+scrub habitat (Atwood and Bontrager 2001). Direct
+effects of Chrysanthemum on the gnatcatcher include
+displacing the coastal sage scrub shrubs in which it
+nests (Mock 2004). Chrysanthemum and other invasive
+annuals can outcompete perennial natives in the
+presence of elevated nitrogen (e.g., runoff, pollution;
+Hauser 2006) or after disturbance when the fecund,
+fast growing annuals quickly establish and monopolize
+moisture, nutrients and sunlight thereby limiting
+establishment of young perennials (Bell et al. 2003;
+Corbin and DíAntonio 2004; Speziale and Ezcurra
+2011). Chrysanthemum may indirectly affect the
+gnatcatcher through changes in prey availability. The
+primary prey of the gnatcatcher is hemipterans (especially
+cicadellids) and spiders (Burger et al. 1999),
+both of which were 60ñ80 % less abundant in invaded
+than uninvaded plots.
+Conservation implications
+Taxonomic resolution as a metric
+Sincewe foundsmall effects ofChrysanthemumon total
+faunal abundance and diversity we reiterate the value of
+considering a range metrics, including those reflecting
+diversity, abundance, the functional roles of species,
+taxonomic compositions, and taxonomic hierarchy to
+assess the impacts of invasions or other disturbances.
+Fine-scale taxonomic resolution (e.g., genus or species)
+provides detection of relatively weak effects since
+individual species responses to disturbance may vary,
+and grouping taxa may average out these responses
+(Lenat andResh 2001) or reveal only the response of the
+numerically dominant species (Wu 1982). Coarse-scale
+taxonomic resolutionmay be appropriatewhen there are
+similar responses to the disturbance among the species
+within a group, which would reveal no new information
+about the effects of disturbance (Olsgard and Somerfield
+2000). A mix of fine- and coarse-scale taxonomic
+analyses may be most insightful (Waite et al. 2004), at
+least until evaluations of the more appropriate taxonomic
+level can be made (Ammann et al. 1997).
+In this study, the relationships between Chrysanthemum
+and the faunal community were similar at the
+species-, family- and order-levels. Similarity between
+species- and family-levels may be because we mostly
+found only one or two representative species within
+each family. Similarity between the species- (or
+family-) and order-levels indicated that the species
+within each order shared similar responses to Chrysanthemum.
+Similar responses, or ëëredundancyíí,
+come about when species have similar requirements
+and/or responses to a particular disturbance (Olsgard
+and Somerfield 2000). The response of a species to
+disturbance is influenced by the speciesí traits (e.g.,
+physiological tolerances, nutritional requirements)
+and the type and magnitude of disturbance (White
+and Jentsch 2001). The orders found in this study were
+generally functionally diverse (e.g., spiders, coleopterans,
+dipterans, hymenoptera; Triplehorn and Johnson
+2005; Schowalter 2011) signifying that the
+disturbances caused by Chrysanthemum, namely the
+alteration of basic physical properties and resources,
+was large enough to affect the fauna at the order level.
+It may be that rapid assessments of the effects of novel
+invaders like Chrysanthemum, which dramatically
+alter the environment and limiting resources for all
+species, can be made using higher taxonomic groupings
+(Nijboer and Schmidt-Kloiber 2004), but further
+assessments of the taxonomic level(s) needed to assess
+effects of Chrysanthemum in a wider range of
+locations and/or over larger scales are needed first
+(Resh and McElravy 1993). The use of both coarse and
+fine taxonomic levels when feasible, however, is the
+ideal approach to assess the magnitude and breadth of
+effects of a disturbance (Waite et al. 2004).
+Management strategy
+This study revealed the potential roles of the common
+coastal sage scrub plants in hosting invertebrate
+communities and influencing environmental conditions.
+Artemisia and, to a lesser extent, Eriogonum
+contributed much to invertebrate abundance and
+diversity, as well as mitigating harsh physical conditions.
+Chrysanthemum was also associated with high
+invertebrate diversity suggesting that, in low abundances,
+it could contribute to biodiversity and functioning
+of these systems (e.g., Gleditsch and Carlo
+2011). However, even partial invasion of Chrysanthemum
+into plots increased physical stress and altered the invertebrate community of nearby native plants.
+These effects, coupled with its invasive tendencies and
+its association with at least one invasive invertebrate,
+the Mediterranean snail, lead us to recommend that
+management efforts focus on prevention of spread of
+Chrysanthemum and, for areas where invasion has
+occurred, early removal. The seedbank of Chrysanthemum
+is abundant and can be persistent (Bastida
+et al. 2010), therefore, we recommend planting the
+often dispersal-limited native species (Morzaria-Luna
+and Zedler 2007) after a disturbance to maintain the
+coastal sage scrub invertebrate community structure,
+and to limit the reinvasion of Chrysanthemum or new
+invasion of one of the other plethora of invasive plants
+threatening this ecosystem (e.g., Morzaria-Luna and
+Zedler 2007).
+Future directions
+Further study of the effects of Chrysanthemum on this
+community should include effects on substrate conditions
+including soil properties, nutrient cycling,
+decomposition rates, physical conditions, and the
+ground-dwelling invertebrate community. Additionally,
+examination of effects throughout the year, in
+addition to within the growing season, and over larger
+spatial scales may reveal a more complete picture of
+the relationship between this invader and these
+dwindling coastal sage scrub ecosystems. A chemical
+analysis of the insecticidal properties of Chrysanthemum
+on various functional groups of invertebrates
+(e.g., plant-suckers, pollinators, detritivores, and predators)
+would also be helpful in predicting and
+modeling the effects of Chrysanthemum invasion on
+coastal sage scrub communities in the future.

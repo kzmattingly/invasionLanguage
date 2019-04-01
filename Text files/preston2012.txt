@@ -1,0 +1,941 @@
+xabstract
+
+
+With many ecosystems now supporting multiple nonnative species from
+
+different trophic levels, it can be challenging to disentangle the net effects of invaders within
+
+a community context. Here, we combined wetland surveys with a mesocosm experiment to
+
+examine the individual and combined effects of nonnative fish predators and nonnative
+
+bullfrogs on aquatic communities. Among 139 wetlands, nonnative fish (bass, sunfish, and
+
+mosquitofish) negatively influenced the probability of occupancy of Pacific treefrogs
+
+(Pseudacris regilla), but neither invader correlated strongly with occupancy by California
+
+newts (Taricha torosa), western toads (Anaxyrus boreas), or California red-legged frogs (Rana
+
+draytonii ). In mesocosms, mosquitofish dramatically reduced the abundance of zooplankton
+
+and palatable amphibian larvae (P. regilla and T. torosa), leading to increases in nutrient
+
+concentrations and phytoplankton (through loss of zooplankton), and rapid growth of
+
+unpalatable toad larvae (through competitive release). Bullfrog larvae reduced the growth of
+
+native anurans but had no effect on survival. Despite strong effects on natives, invaders did
+
+not negatively influence one another, and their combined effects were additive. Our results
+
+highlight how the net effects of multiple nonnative species depend on the trophic level of each
+
+invader, the form and magnitude of invader interactions, and the traits of native community
+
+members. xintroduction While many invasion biology studies focus on
+
+interactions between a single invader and a single native
+
+species, there is a growing need to address the net
+
+consequences of multiple invasions within a community
+
+context (Olden and Poff 2003). Continued homogenization
+
+of the planetís biota has increased the number of
+
+nonnative species in many communities, a trend that is
+
+especially evident in aquatic ecosystems (Ricciardi and
+
+MacIsaac 2011). Yet the consequences of multiple
+
+invasions within native communities are challenging to
+
+disentangle because invaders can interact with one
+
+another, affect native species in highly variable ways,
+
+and cause subtle indirect effects (Simberloff and Von
+
+Holle 1999, Grosholz 2005). The net community-level
+
+effects of multiple invaders depend on both the trophic
+
+level of each invader and how they affect one another
+
+(Levin et al. 2002). If co-occurring invaders occupy
+
+different trophic levels (e.g., a primary consumer and
+
+secondary consumer), their combined effects could be
+
+reduced if one invader consumes the other, or amplified
+
+if the invasive predator indirectly releases the invasive
+
+consumer from competition with natives (Grosholz
+
+2005). Disentangling interactions among multiple invaders
+
+within native communities becomes even more
+
+challenging when nonnative species occur simultaneously
+
+with other types of environmental change, which can
+
+facilitate invaders or directly alter community structure
+
+(MacDougall and Turkington 2005).
+
+In the western United States, American bullfrogs
+
+(Lithobates catesbeianus [ºRana catesbeiana]) and nonnative
+
+fish (i.e., sunfish, bass, and mosquitofish) are
+
+common wetland invaders that frequently co-occur in
+
+human-modified habitats, making it challenging to
+
+determine their individual roles in structuring native
+
+communities. Various studies have shown the potential
+
+for nonnative fish and bullfrogs to negatively influence
+
+native aquatic species through predation and competition
+
+(e.g., Kupferberg 1997, Goodsell and Kats 1999),
+
+although only two studies have simultaneously examined
+
+impacts of both nonnative fish and bullfrogs on a
+
+native species (Kiesecker and Blaustein 1998, Lawler et
+
+al. 1999). Understanding the combined effects of
+
+nonnative fish and bullfrogs is particularly important
+
+in light of evidence for multi-invader facilitation within
+
+this system. Sunfish (Lepomis spp.) can indirectly
+
+facilitate bullfrogs by preying on predators of amphibians,
+
+which occurs in the native ranges of both taxa
+
+(Werner and McPeek 1994) and in their introduced ranges in the western United States (Adams et al. 2003).
+
+Bullfrog larvae are relatively unpalatable to most fish
+
+predators (Kruse and Francis 1977, Woodward 1983)
+
+and the indirect positive effects of fish on bullfrogs
+
+outweigh any direct negative effects. Less clear, however,
+
+is how fish and bullfrogs, alone and in combination,
+
+influence entire communities of native species, as singletaxon
+
+focused studies can often omit important indirect
+
+effects mediated through food web changes.
+
+To better understand the direct and indirect effects of
+
+nonnative fish and bullfrogs on native aquatic communities,
+
+we combined field surveys of 139 wetlands with a
+
+mesocosm experiment designed to assess the mechanisms
+
+underlying aquatic interactions between native
+
+and nonnative species (see Plate 1). Our aims were to (1)
+
+evaluate how nonnative bullfrogs and fish (centrarchids
+
+and mosquitofish) influence the site occupancy of native
+
+amphibian taxa (Pseudacris regilla, Anaxyrus [ºBufo]
+
+boreas, Taricha torosa, and Rana draytonii ) and (2)
+
+understand the direct and indirect mechanisms by which
+
+these invaders influence native aquatic communities in
+
+an experimental setting. While site occupancy of
+
+amphibians in ponds will depend on a myriad of factors
+
+influencing all amphibian life stages, our experiment
+
+focused on how invaders influenced the aquatic larvae of
+
+native amphibians, for which we predicted that fish and
+
+bullfrogs would have strong effects. We hypothesized
+
+that in the mesocosm experiment the invasive predator
+
+(mosquitofish) would decrease densities of palatable
+
+native species (amphibians and zooplankton), while the
+
+invasive herbivore (bullfrog larvae) would decrease
+
+growth of native grazers (anuran larvae and snails; see
+
+interaction web in Appendix A for detailed predictions).
+
+Because bullfrog larvae and mosquitofish occupy
+
+different trophic levels and are expected to have neutral
+
+direct effects on one another (Woodward 1983), we also
+
+suspected that the combined effects of both invaders
+
+would be additive. 
+
+
+xmethods
+
+ Field surveys.óBetween May and July of 2009, we
+
+surveyed 139 ponds in the San Francisco Bay Area of
+
+California (Contra Costa, Alameda, Santa Clara, and
+
+San Mateo counties). Because nonnative fish and
+
+bullfrogs cannot become established in temporary
+
+ponds, we restricted our analysis to permanent ponds
+
+(Adams 2000). To detect fish and amphibians, we used a
+
+combination of visual encounter surveys (VES) around
+
+the pond margins and standardized net sweeps with D
+
+nets (1.4 mm mesh, 2600-cm2 opening) every 3ñ5 m
+
+around the perimeter. In 67 ponds, we also conducted
+
+three to four collections using a seine net (4 mm mesh, 1
+
+32 m net) to sample the deeper waters. We identified all
+
+amphibians and fish captured before releasing them
+
+back into the pond. We defined sites as ëëoccupiedíí only
+
+if breeding activity was detected (i.e., presence of eggs,
+
+larvae, or recent metamorphs). We also recorded pond
+
+elevation and pond area, the percentage of the shoreline
+
+that was vegetated (as opposed to bare), the number of
+
+trees within 15 m of the pond, and measured water
+
+turbidity with a turbidometer (LaMotte, Chestertown,
+
+Maryland, USA).
+
+Occupancy models.óWe used single-season occupancy
+
+models (MacKenzie et al. 2002) to examine how the
+
+presence of nonnative species influenced the occupancy
+
+of four native amphibians (P. regilla, A. boreas, T.
+
+torosa, and R. draytonii ). Occupancy models account for
+
+imperfect species detection and estimate both the
+
+probability of occurrence at a site (w) and the
+
+probability of detection conditional on presence ( p).
+
+We used the three different survey methods (netsweeps,
+
+visual encounter surveys, and seines) as repeat observations
+
+within each model. Although a multi-method
+
+occupancy model exists, the one-species, single-season
+
+model provided similar results with more reliable model
+
+convergence. Our models for probability of occupancy
+
+(w) of each amphibian were variations of a global model
+
+that included separate covariates for the presence of
+
+bullfrogs, presence of fish (mosquitofish and centrarchids),
+
+pond elevation, pond surface area, shoreline
+
+vegetation, and tree density. Detection probability ( p)
+
+was modeled with a general equation that included the
+
+same covariates used to model occupancy probability,
+
+with the addition of survey type, survey date (days since
+
+first survey), water temperature (8C), and water turbidity.
+
+Continuous covariates were standardized to have a
+
+mean of zero and standard deviation of one and the
+
+independent variables were tested for collinearity (all r ,
+
+0.7; Quinn and Keough 2002). All occupancy analyses
+
+were conducted with the program PRESENCE (available
+
+online).4
+
+We used a model-selection approach (Burnham and
+
+Anderson 2010) to determine the most important
+
+covariates in predicting amphibian occupancy. We
+
+tested all possible combinations of the six covariates in
+
+the occupancy equation (64 models per species), which
+
+included a model with constant occupancy probability
+
+between sites (w(.)). We assessed the fit of the global
+
+models for each species by generating 10 000 parametric
+
+bootstraps using the goodness-of-fit test in PRESENCE.
+
+Data for three of the four species demonstrated overdispersion
+
+(àc . 1), so we ranked models using QAIC and
+
+inflated standard errors by
+
+ffiffiffi
+
+àc
+
+p
+
+(Burnham and Anderson
+
+2010). We then used the most supported models for each
+
+amphibian species (DQAIC , 2) to generate modelaveraged
+
+estimates of occupancy (w) and coefficients (b)
+
+of the six parameters in the top occupancy models (B.
+
+Mitchell, unpublished spreadsheets).
+
+Experimental manipulation.óWe conducted a 2 3 2
+
+factorial experiment manipulating the presence of
+
+bullfrog larvae and mosquitofish in outdoor mesocosms
+
+(378 L) maintained at the Hopland Research and
+
+Extension Center, California, USA. Each treatment was replicated five times, for a total of 20 mesocosms.
+
+Mesocosms were established using standard techniques
+
+(see Appendix B). After allowing communities of algae,
+
+zooplankton, and snails (Helisoma sp.) to establish, we
+
+added 15 Pacific treefrog (P. regilla) tadpoles, 15 western
+
+toad (A. boreas) tadpoles, and 10 California newt (T.
+
+torosa) larvae. Native amphibians were collected locally
+
+as embryos and were hatched in the laboratory.
+
+Amphibians were matched for size (snoutñvent length,
+
+SVL) and developmental stage before being randomly
+
+assigned to mesocosms (Appendix B). To the invader
+
+treatments we added three locally collected second-year
+
+bullfrog tadpoles (Lithobates catesbeianus) and/or five
+
+adult mosquitofish (Gambusia affinis; three females, two
+
+males). Densities were chosen to lie within the ranges
+
+observed in the field. We focused on aquatic invaders
+
+and amphibian larval stages, both because we expected
+
+strong interactions and because predatory and competitive
+
+interactions between metamorphosed bullfrogs and
+
+native amphibians have been previously documented
+
+(Kiesecker and Blaustein 1998, Pearl et al. 2004).
+
+As amphibians began to metamorphose (4 weeks), we
+
+destructively sampled the mesocosms and recorded the
+
+SVL, wet mass, developmental stage (Gosner 1960),
+
+presence/absence of injuries on each individual and the
+
+combined dry mass for each species. For mosquitofish,
+
+we recorded the number of fish removed from each
+
+mesocosm and their lengths. We also enumerated all
+
+snails and measured their combined dry mass. At the
+
+beginning and end of the experiment, we analyzed water
+
+samples for total nitrogen, total phosphorus, and total
+
+carbon (procedures available online).5 We measured
+
+phytoplankton abundance indirectly as chlorophyll
+
+fluorescence using a fluorometer (Turner Designs,
+
+Sunnyvale, California, USA) and quantified zooplankton
+
+density based on samples collected with a tube
+
+sampler (70 cm in length 3 5 cm in diameter, five
+
+combined samples per mesocosm).
+
+Mesocosm data analysis.óSurvival (0 vs. 1) of native
+
+amphibians nested within mesocosms was analyzed with
+
+a generalized linear mixed-effects model with binomial
+
+errors using the lme4 package in R (Zuur et al. 2009).
+
+We specified bullfrogs, mosquitofish, and their interaction
+
+as fixed effects, and mesocosm as a random effect.
+
+For all other response variables, analyses were conducted
+
+on mesocosm means. Two-way MANOVA with
+
+mosquitofish and bullfrogs as independent variables
+
+were used to analyze mesocosm data on response
+
+variables of native amphibian species (Gosner stage,
+
+SVL, and individual wet mass), snails (log-transformed
+
+abundance and wet mass), zooplankton, and phyto-plankton (density of Daphnia and relative phytoplankton
+
+fluorescence). We used repeated-measures MANOVA
+
+to analyze effects of invaders on nutrients in the
+
+water column. One-way MANOVAs were used to test
+
+for effects of bullfrogs on mosquitofish (total number of
+
+offspring and juvenile length) and of mosquitofish on
+
+bullfrogs (SVL and wet mass). Significant MANOVAs
+
+were analyzed with Bonferroni-adjusted univariate
+
+ANOVAs to determine which variables were responsible
+
+for significant main effects. To aid in interpretation of
+
+differences in multiple response variables between
+
+experimental treatments, we used the lavaan package
+
+in R to generate a structural equation model (SEM) that
+
+included bullfrogs and mosquitofish as exogenous
+
+variables that were either directly or indirectly linked
+
+to nutrients in the water, native amphibians, snails,
+
+zooplankton and phytoplankton (for detailed SEM
+
+methods see Appendix C; lavaan package available
+
+online).6 
+
+xresultsField surveys.óWe detected nonnative bullfrogs at
+
+23%, and nonnative fish at 18% (of which 12% contained
+
+centrarchids and 8% contained mosquitofish) of sampled
+
+ponds. Model-averaged estimates from the top occupancy
+
+models (DQAIC , 2) indicated occupancy
+
+estimates of 90% for Pacific treefrogs, 67% for California
+
+newts, 57% for California red-legged frogs, and
+
+35% for western toads. Nonnative fish presence was the
+
+most important predictor of treefrog occupancy, with all
+
+five top models including this covariate (see Appendix E:
+
+Table E1 for a full list of top models and associated
+
+statistics for each species). Fish presence was the only
+
+covariate of Pacific treefrog occupancy to have a
+
+coefficient with a 95% confidence interval that excluded
+
+zero (Table 1; model-averaged b º 2.24; 95% CI º
+
+4.16 to 0.32). Four models were well supported for
+
+western toad occupancy, and the most important
+
+covariates (Table 1) included a positive effect of surface
+
+area (model-averaged b º 1.05; 95% CI º 0.02 to 2.08)
+
+and a negative effect of vegetation (model-averaged b º
+
+1.12; 95% CI º1.95 to 0.28). Twelve models were
+
+well supported for newt occupancy, although the
+
+second-best model did not include any covariates of
+
+occupancy probability (w(.)) and none of the modelaveraged
+
+coefficients had a 95% confidence interval that
+
+excluded zero (Table 1). The only strong predictor of
+
+California red-legged frog occupancy was a positive
+
+effect of surface area, which was included in all six top models (Table 1; model-averaged b º 1.41; 95% CI º
+
+0.15 to 2.68).
+
+Mesocosm experiment.óMosquitofish reduced treefrog
+
+survival from 74% to 7% (GLMM, Zº7.04, P ,
+
+0.001) and newt survival from 97% to 6% (GLMM, Zº
+
+6.08, P , 0.001), but had no effect on toad survival
+
+(Fig. 1A). Surviving treefrogs from mosquitofish treatments
+
+also developed more slowly and were smaller than
+
+frogs from fishless treatments, despite the lower overall
+
+density of conspecifics (Fig. 1B; ANOVA, stage F3,12 º
+
+16.80, Pº0.001; SVL F3,12º16.61, Pº0.002; wet mass
+
+F3,12 º 13.92, P º 0.003). Among surviving native
+
+amphibians in the treatments with mosquitofish, 44% of
+
+the treefrogs, 34% of the toads, and 17% of the newts
+
+displayed injuries (missing tail or limb elements;
+
+Appendix D: Fig D1). No amphibians raised in fishless
+
+treatments displayed abnormalities. Nevertheless, toads
+
+developed more rapidly in the presence of mosquitofish
+
+(Fig. 1B; ANOVA, F3,16 º 7.04, P º 0.017) and their
+
+combined dry mass was higher in mosquitofish treat-ments (ANOVA, F3,16 º 5.22, P º 0.036). The SEM
+
+analysis (Appendix C: Fig. C1) suggested that the
+
+enhanced growth of toads in mosquitofish treatments
+
+was an indirect effect; mosquitofish strongly reduced
+
+treefrog biomass (standardized path coefficientº0.95)
+
+while treefrogs had a moderate negative effect on toad
+
+biomass (standardized path coefficient º 0.35). Bullfrogs
+
+reduced treefrog developmental stage (Fig. 1B;
+
+ANOVA, F3,12 º 7.59, P º 0.017), toad developmental
+
+stage, and size (Fig. 1B; ANOVA, stage F3,16 º 35.63, P
+
+, 0.001; SVL F3,16 º 18.52, P º 0.001; wet mass F3,16 º
+
+13.45, Pº0.002), but not newt size or the survival of any
+
+natives. The SEM (Fig. C1) indicated that the relative
+
+strength of the negative effect of bullfrogs on toad
+
+biomass (standardized path coefficient º 0.90) was
+
+considerably higher than that of bullfrogs on treefrog
+
+biomass (standardized path coefficientº0.33). We did
+
+not detect a mosquitofish-by-bullfrog interaction on any
+
+response variables.
+
+Invaders also had direct and indirect effects on
+
+plankton and nutrients. In the presence of mosquitofish,
+
+zooplankton (Daphnia spp.) were virtually undetectable
+
+(Fig. 1C; ANOVA, F3,16º44.58, P , 0.001) and phytoplankton
+
+fluorescence was about three times higher than
+
+in treatments lacking mosquitofish (Fig. 1C; ANOVA,
+
+F3,16º10.64, Pº0.005). The SEM provided evidence for
+
+a strong positive indirect effect of mosquitofish on
+
+phytoplankton (mosquitofish to Daphnia, standardized
+
+path coefficient º 0.99; Daphnia to phytoplankton,
+
+standardized path coefficientº0.85). Mosquitofish also
+
+enhanced total nitrogen and total phosphorus (Fig. 1D;
+
+repeated-measures ANOVA, nitrogen F1,16º19.46, P ,
+
+0.001; Fig. 1E; phosphorus F1,16 º 5.92, P º 0.027), but
+
+there were no significant differences in carbon (Fig. 1F).
+
+Finally, the SEM suggested a moderate negative effect of
+
+bullfrogs on snail biomass (Fig. C1; standardized path
+
+coefficientº0.41).
+
+In contrast to their strong effects on native species,
+
+invaders did not significantly affect one another.
+
+Mosquitofish reproduced within mesocosms during the
+
+course of the experiment but neither the number of
+
+offspring nor the length of juvenile fish were affected by
+
+bullfrogs (MANOVA, Wilksí kº0.759, F2,6º0.951, Pº
+
+0.438). The mean number of fish removed from
+
+mosquitofish and mosquitofish plus bullfrog treatments
+
+was 30 6 4.84 (mean 6 SE) and 21 6 2.97, respectively.
+
+Similarly, mosquitofish did not affect bullfrog SVL or
+
+wet mass (MANOVA, Wilksí kº0.907, F2,7º0.36, Pº
+
+0.711), and all bullfrogs survived the experiment. 
+
+
+xdiscussion
+Increases in the diversity, abundance, and rate of
+
+spread of introduced species in freshwater ecosystems
+
+underscore the need to address the impacts of aquatic
+
+invaders within complex communities composed of
+
+multiple native and nonnative species (Ricciardi and
+
+MacIsaac 2011). By combining field surveys and
+
+mechanistic experiments, we evaluated impacts of
+
+multiple invaders within a community context and
+
+found both direct changes in community structure as
+
+well as subtler, indirect effects mediated by native
+
+community members. The effects of nonnative mosquitofish
+
+and bullfrogs depended on traits of the native
+
+species, including palatability to the invasive predator
+
+and dietary overlap with the invasive herbivore. Despite
+
+their strong effects on native species, the invaders had no
+
+significant effects on one another, and their combined
+
+effects on native communities were additive.
+
+Field data from California wetlands indicated that
+
+nonnative fish (centrarchids and mosquitofish) negatively
+
+influenced the probability of occupancy of Pacific
+
+treefrogs, but that neither invader had strong effects on
+
+occupancy of the other native amphibians. The effects of
+
+fish on Pacific treefrog occupancy are consistent with the
+
+predatory effects of mosquitofish in our experiment, and
+
+with previous field surveys in central California (Fisher
+
+and Shaffer 1996). While mosquitofish sharply reduced
+
+newt survival in mesocosms, the occupancy models did
+
+not show a strong negative association between these
+
+taxa. This suggests that amphibian survival across
+
+multiple life stages (i.e., egg, larvae, juvenile, adult)
+
+and at varying spatial scales (i.e., pond, landscape, and
+
+region) is important in nature. While nonnative fish
+
+probably reduce survival of newt larvae in ponds,
+
+survival of their terrestrial life stages may be more
+
+important in maintaining stable populations (Biek et al.
+
+2002). We also acknowledge that additional factors
+
+outside the scope of our field data may influence
+
+amphibian distribution in the study region (e.g., land
+
+use, habitat fragmentation, road density, patterns of
+
+amphibian disease) and that factors protecting amphibian
+
+larvae from predation may have been omitted from
+
+our mesocosm experiment (e.g., additional alternative
+
+prey, increased habitat complexity).
+
+The mesocosm results added mechanistic insight into
+
+species interactions that were likely to occur within the
+
+surveyed ponds. Invasive predators exhibited strongly
+
+lethal effects on palatable amphibian larvae (treefrogs
+
+and newts), which far outweighed growth-related effects
+
+of bullfrogs. These findings add further experimental
+
+evidence to document the predatory effects of mosquitofish
+
+on amphibians (Gamradt and Kats 1996, Goodsell
+
+and Kats 1999). In contrast, unpalatable toad larvae
+
+exhibited no decrease in survival in the presence of
+
+mosquitofish, but did show strong reductions in growth
+
+in the presence of bullfrog larvae. The lack of predation
+
+on toads is likely due to chemical protection, which
+
+often protects bufonid larvae from fish (Kruse and
+
+Stone 1984). The sublethal injuries caused by mosquitofish
+
+also support the role of predators in contributing to
+
+missing-limb abnormalities in amphibians (Bowerman et
+
+al. 2010). Finally, newts were unaffected by bullfrog
+
+larvae, likely because direct competition for food
+
+resources and indirect effects were minimal (i.e.,
+
+bullfrogs did not deplete resources that altered newt
+
+prey availability). We must also note that mesocosm experiments simplify natural communities, which are
+
+inherently complex. By isolating species of interest, we
+
+gained greater mechanistic understanding of their
+
+interactions, but many native species (and effects of
+
+their interactions) were omitted as a result.
+
+Our study revealed an indirect positive effect of one
+
+invader on a native species. Western toads were larger
+
+and metamorphosed more quickly in the presence of
+
+mosquitofish. This positive association was evident even
+
+though many toad larvae from mosquitofish treatments
+
+showed injuries consistent with fish attacks (Appendix
+
+D: Fig. D1). Our SEM suggests this result is an indirect
+
+positive effect of mosquitofish that occurred due to
+
+reductions in abundance of treefrog tadpoles, which are
+
+competitors of toad tadpoles. Mosquitofish sharply
+
+decreased treefrog survival and treefrogs had a negative
+
+effect on toad biomass in the SEM. The SEM did not
+
+support an alternative mechanism, whereby the increased
+
+toad growth was due to enhanced phytoplankton
+
+abundance in the presence of mosquitofish and we
+
+are unaware of a direct interaction where mosquitofish
+
+would promote toad tadpoles. There is evidence to
+
+suggest that nonnative fish also promote toads in nature;
+
+Welsh et al. (2006) found western toads to be six times
+
+more abundant in the presence of nonnative salmonids
+
+in lake and pond habitats in northern California. To
+
+date, there are relatively few studies documenting this
+
+type of facilitation of native species by invaders through
+
+competitive release (e.g., Grosholz 2005). One interesting
+
+example involves nonnative golden eagles, which
+
+prey upon native foxes in the Channel Islands, leading to
+
+the competitive release of native skunks (Roemer et al.
+
+2002).
+
+Results of the mesocosm study also suggested that
+
+invasive predators can influence primary production and
+
+nutrient cycling. Consistent with other reports, mosquitofish
+
+strongly reduced zooplankton within mesocosms
+
+(Ning et al. 2009), leading to sharp increases in
+
+phytoplankton (see SEM). Relative phytoplankton
+
+fluorescence in mosquitofish treatments was about three
+
+times greater in treatments lacking mosquitofish. Including
+
+links from nutrients (TDN and TDP) to
+
+phytoplankton decreased model fit in the SEM, suggesting
+
+the top-down effect of zooplankton loss explained
+
+changes in phytoplankton (Appendix C), which
+
+has also been reported in nature (Nagdali and Gupta
+
+2002). We also observed increases in total nitrogen and
+
+phosphorus within mosquitofish treatments, possibly
+
+due to direct excretion of nutrients by mosquitofish
+
+(Schaus et al. 1997). We note, however, that the
+
+observed effects on nutrients, phytoplankton, and
+
+zooplankton occurred over a short time span in
+
+mesocosms with a relatively small water volume and
+
+simplified community. Of particular note is that our
+
+mesocosms did not contain submerged macrophytes,
+
+which are known to provide refuge for zooplankton
+
+from predatory fish (Schriver et al. 1995). Further
+
+research into how multiple aquatic invaders influence
+
+native communities and ecosystem processes, especially
+
+whole-ecosystem manipulations, will yield valuable
+
+insights into how the effects reported here ëëscale-upíí
+
+to real wetlands.

@@ -1,0 +1,537 @@
+xabstract
+The common carp (Cyprinus carpio) is a
+globally distributed, benthivorous fish that is capable
+of substantially altering lake ecology. Although
+dozens of studies have demonstrated that it has the
+potential to negatively affect submersed vegetation
+and water quality, little attention has been paid to
+effects of carp on sediment mixing and sediment
+phosphorus (P) in lakes. This study examined carp
+effects on sediment mixing and mobile (mainly iron
+bound and pore water) sediment P in a shallow,
+Midwestern lake (Kohlman Lake, MN, USA)
+undergoing restoration with aluminum (Al) to reduce
+internal P loading. Using Al as a tracer, we determined
+that the sediment mixing depth was at least 2.5 times
+greater in areas with carp (13.0 ± 3.7 cm) than in
+areas from which carp had been excluded
+(5.0 ± 1.2 cm) using exclosures. Vertical sediment
+profiles of P mass suggested that the increase in
+sediment mixing depth caused by carp increased the
+amount of mobile P potentially available for release by
+55ñ92%, depending on location within the lake. The
+increase in sediment mixing depth is likely to have a
+negative effect on the efficacy of management methods
+designed to reduce mobile sediment P availability
+in lakes.
+xintroduction
+The common carp (Cyprinus carpio, or carp) is a
+large benthivorous fish from Eurasia that has been
+widely introduced to other regions over the past
+century and is considered to be one of the worldís
+most invasive organisms (Kulhanek et al., 2011;
+Sorensen & Bajer, 2011). Researchers have long
+recognized that carp can fundamentally modify the
+structure and function of aquatic ecosystems (Cahn,
+1929). Lakes inhabited by dense populations (typically[
+100 kg ha-1) of carp are generally characterized by a lack of plants, low native
+diversity, and turbid, nutrient-rich water (Haas
+et al., 2007; Bajer et al., 2009; Kloskowski, 2011).
+Carp dig in the bottom sediment while searching for
+food with their mouths (Nikolsky, 1963; Meijer
+et al., 1990; Chumchal & Drenner, 2004), uprooting
+aquatic plants, re-suspending sediment, and increasing
+water turbidity (Crivelli, 1983; Breukelaar et al.,
+1994; Lougheed et al., 1998; Zambrano et al., 2001;
+Bajer et al., 2009). It has been suggested that carp
+play an important role in nitrogen and phosphorus
+(P) transport from sediment to the water column as a
+result of both physical sediment disturbance (i.e.,
+bioturbation) as well as excretion (Lamarra, 1975;
+Breukelaar et al., 1994; Moss et al., 2002; Chumchal
+et al., 2005; Driver et al., 2005), but the relative
+roles of each have not been described in situ.
+Although nutrient export from sediment to overlying
+waters has been suggested to be an important
+element of how carp alter ecosystems, this process has
+not been well documented. For example, debate exists
+about the magnitude of nutrient fluxes caused by carp
+foraging activity and whether these fluxes are primarily
+driven by excretion (Lamarra, 1975; Morgan &
+Hicks, 2013) and/or bioturbation (Driver et al., 2005).
+Although carp excretion rates have been estimated in
+experimental enclosures (Lamarra, 1975; Morgan &
+Hicks, 2013) and from bioenergetics models (Vanni
+et al., 2013), effects of bioturbation on nutrient
+availability are very poorly documented. Nutrient
+releases due to bioturbation are especially difficult to
+estimate because they are influenced by many factors
+including sediment properties, chemical milieu (i.e.,
+P-binding, pH, oxygen), availability of mobile sediment
+P, water column mixing, and carp burrowing
+depth. The effects of wild carp on sediment mixing
+depth and potential P release have not been investigated
+in natural lakes. Of the studies available
+investigating changes to sediment, one study using
+aquaculture ponds with high-density sediment and
+low-carp biomass suggested mixing depth might be as
+low as 3 cm (Ritvo et al., 2004). In contrast, a
+laboratory study suggested that this depth could reach
+15 cm in areas with soft sediments (Nikolsky, 1963).
+Due to a lack of clear information on carp sediment
+mixing in situ, estimates of this speciesí effects on
+sediment P availability are currently not available,
+complicating management of sediment and phosphorous
+in lakes.
+This study determined the effect of carp on sediment
+mixing depth and associated changes in potential P
+availability in a shallow lake in Minnesota (USA) to
+which aluminum sulfate and buffered sodium aluminate
+(hereafter, alum) had been added as part of a
+restoration project to reduce internal P loading from the
+sediment. Alum treatment resulted in the formation
+and deposition of amorphous aluminum hydroxide
+(Al(OH)3), a relatively inert mineral compound, that
+was used as a tracer to estimate carp sediment mixing
+depth inside and outside of carp exclosure devices. One
+hundred and fifty-two days after alum treatment,
+sediment was collected from areas within the lake
+where the carp had unobstructed access to sediment
+and from areas from which carp were excluded.
+Significant differences in sediment mixing depth were
+detected and sediment P content was then used to
+calculate changes in mass of potentially available P in
+the active sediment layer due to increased sediment
+mixing depth caused by carp bioturbation.
+xmethods
+Kohlman Lake is a small (residence time 30 days),
+shallow polymictic lake (area 30 ha, mean depth
+1.2 m, max depth 2.7 m) located in a suburban area in
+south-central Minnesota at the head end of a chain of
+urban lakes, USA (Fig. 1). Development within the
+watershed of this lake began in the mid-late 1880s,
+which has resulted in accumulation of P in the
+sediment that contributes to high levels of internal P
+loading. This lake was eutrophic at the time of alum
+treatment even though it had previously undergone a
+number of restoration measures to reduce external P
+inputs and improve water clarity and quality. The lake
+weakly stratifies and mixes numerous times during the
+growing season, resulting in periods of anoxia and
+internal sediment P release rates of up to
+9.7 mg m-2 days-1 that can contribute up to
+25ñ30% or more of the total P load to the lake during
+the growing season. One of the final steps in the lake
+restoration plan was the application of alum to reduce
+the release of legacy P remaining in the sediment. The
+average population and biomass densities of carp in
+Kohlman Lake were estimated, using mark-recapture
+and catch per unit effort electro-fishing, to be approximately
+50 individuals ha-1 and 180 kg ha-1, respectively,
+at the time of this study (unpublished data). The lake was also inhabited by several species of native
+fish, including bluegill (Lepomis macrochirus), black
+crappie (Pomoxis nigromaculatus), and largemouth
+bass (Salmoides micropterus), none of which forage in
+sediment. Radio-telemetry and electro-fishing surveys
+(Bajer et al., 2011) suggested that carp were relatively
+evenly distributed in the lake.
+The experiment began on May 10, 2010, 5 days
+prior to alum addition, when we collected 10 sediment
+cores to determine background (pre-treatment) sediment
+aluminum (Al) concentrations in three cores and
+physical properties (density, organic matter, and P
+content) in all cores throughout the lake, including the
+future exclosure sites (Fig. 1). One of these cores was
+excluded from analysis because water depth was
+shallow (0.5 m) and the sediment consisted almost
+entirely of sand. Three additional cores were collected
+from shallow (1 m), moderately deep (2 m), and the
+deepest (2.7 m) areas of the lake to determine spatial
+variability of sediment P profiles by water column
+depth.
+Alum was then applied from May 15 to 17, 2010
+throughout the lake (approximately 39 g Al m-2). A
+combination of aluminum sulfate and buffered sodium
+aluminate was used in this case to keep lake water pH
+within a range of 6ñ7 during treatment, thereby
+maximizing flocculation and precipitation of the
+newly formed Al(OH)3. Immediately after application, three circular fish exclosures were
+installed in the lake (Fig. 1). Each exclosure had a
+diameter of 5 m and was constructed using plastic
+mesh (13-cm2 mesh size). Plastic mesh was used to
+allow for wind action, water exchange, and fish
+removal from the exclosures using electro-fishing.
+PVC posts (5-cm diameter) were used as supports for
+the structure. Electro-fishing and video surveillance
+with underwater cameras were conducted in the
+exclosures by boat immediately after enclosure installation
+and approximately every 2 weeks thereafter to
+ensure that enclosures had no carp. No carp were
+detected in the exclosures during the experiment.
+Approximately, 5 months (152 days) after alum application
+(October 16, 2010), we collected sediment
+cores from inside of each exclosure and three
+additional areas (north, south, and southwest) in the
+lake (N = 3 for each location; Fig. 1) to determine if
+carp had an effect on sediment mixing depth. To
+address possible wind-mixing effects, effective fetch
+at each sampling location was calculated according to
+Ha∞kanson & Jansson (1983).
+A Willner gravity sediment-coring device (Uppsala,
+Sweden) was used to collect all sediment cores, which
+were sliced on-site (every 2 cm down to 14 cm and every
+4 cm thereafter), and stored in opaque containers at 4C
+until analysis that occurred within 1 week of collection.
+Sediment P fractions were determined using the sequential
+P extraction technique for wet sediment by Psenner
+et al. (1988) and modified by Hupfer et al. (1995). All
+fractions were determined but only mobile (total amounts
+of pore water, loosely sorbed, and reductant soluble) P
+and Al bound P (AlñP) are described herein. Soluble
+reactive P from sediment extracts was analyzed using the
+molybdate blue method (Murphy & Riley, 1962). By
+summing the mobile P (minus background) in sediment
+layers affected by carp bioturbation, we could thus
+calculate the additional amount of mobile P that may be
+released to the water column, depending on controlling
+physicochemical factors, via carp feeding activity. Total
+sediment Al was determined after digestion with 50%
+HNO3 at 120Cusing graphite furnace atomic absorption
+spectrometry at 309.5 nm. Background concentrations
+for Al were estimated by analyzing pre-treatment cores
+and deeper sediment layers unaffected by Al treatment in
+the post-treatment cores. Natural variability of Al in pretreatment
+cores was used to determine excess Al
+attributable to treatment, which we defined as an Al
+concentration that exceeded two standard deviations of
+the mean background Al concentration (approximately
+120% of the mean in this case). In addition, we also
+calculated and present results based on one standard
+deviation (110% of the background mean).
+Water content was determined by freeze-drying
+sediment after storage at -70C for 24 h, and
+sediment density was estimated according to Ha∞kanson
+& Jansson (1983) after loss on ignition at 550C
+for 2 h. Data used to determine average surface water
+quality parameters were downloaded from the Surface
+Water Environmental Data Access database (www.
+pca.state.mn.us/index.php/data). Means were determined
+using available growing season (May through
+September) data from the 10 years previous to alum
+treatment (Table 1) and 2 years post-alum treatment.
+xresults
+Prior to alum treatment, Kohlman Lake was characterized
+as eutrophic to hypereutrophic. Ten-year prealum
+treatment means (±SD) of total P (TP) and
+chlorophyll a (Chl a) were 82 (±13) and 29
+(±11) ug l-1, respectively, and water clarity, as measured
+by Secchi depth, was 1.1 (±0.3) m (Table 1). In
+the 2 years following treatment with alum, growing
+season means of epilimnetic TP decreased by 51%,
+resulting in a decrease in algal growth, measured as Chl
+a, of 69%. Secchi depth increased by 40% (Table 1)
+and did not appear to reach the bottom of the lake (max
+depth = 2.7 m) with the highest value being 2.4 m in
+the spring of 2011. The exclosures remained carp free
+throughout the experiment although electro-fishing
+surveys removed one adult and six juvenile largemouth
+bass. Predominant wind direction was from the southwest
+during the duration of the experiment.The cores collected prior to alum treatment were
+similar across all locations and had elevated mobile P
+concentrations (the P fractions that contribute directly
+to internal P loading) near the sediment surface that
+declined to background concentrations with depth
+(Fig. 2). The mean, surficial (0ñ10 cm) concentration
+of mobile sediment P at experimental (both exclosure
+and non-exclosure) sites was similar and averaged
+from 0.17 to 0.18 (±0.02) mg g-1, respectively,
+ranging from 0.15 to 0.20 mg g-1 (Table 2). Mobile
+P concentrations had greater variation in cores
+collected from shallow, mid-depth, and deeper areas
+of the lake (Fig. 2). The cumulative amount of mobile
+P mass increased in a linear manner with increasing
+sediment depth in these three cores and was substantially
+greater in deeper areas of the lake (Fig. 3). The
+cumulative amount of mobile P mass within the upper
+16 cm of sediment was approximately two times
+higher than the amount of mobile P within the top
+5 cm of sediment in the shallow area, and this ratio
+increased to nearly three-fold at the mid-depth and the
+deep sites in the lake.
+Mean, surficial (uppermost 10 cm) sediment concentrations
+of Al before treatment ranged from 5.8 to
+6.5 mg g-1 (N = 3), with a mean and standard deviation
+of 5.9 and 0.57 mg g-1, respectively. Surficial
+sediment bulk density (wet) was also similar between
+experimental sites, averaging 1.13 (±0.01) g m-3 in the
+enclosures and non-enclosure areas and ranging from
+1.12 to 1.14 g cm-3 within the individual cores
+(Table 2). Other physical properties in the sediment
+were also similar between exclosure and non-exclosure
+sites prior to treatment (Table 2). The effective fetch for
+all coring locations was short and similar (exclosures
+= 0.29 km, other locations = 0.34 km ± 0.11).The concentration of mobile sediment P decreased
+mainly due to conversion to AlñP, and both Al and Alñ
+P were elevated in surficial sediment 152 days after
+addition of alum (Fig. 4). As expected, addition of
+alum resulted in a distinct layer of elevated Al in
+surficial sediment with peak concentrations ranging
+from 13 to 18 mg g-1 in the exclosures and from 7 to
+11 mg g-1 in other areas of the lake outside of the
+exclosures (Online Resource 1). Mean values (mass)
+of added Al detected in the sediment from inside the
+enclosures and other sites outside the exclosures were
+36 and 44 g Al m-2, respectively, and seemingly
+reflected the quantity of Al applied during treatment
+(39 g m-2). Even though the total mass of excess Al
+detected was similar among experimental areas, the
+depth penetration of Al into the sediment was
+substantially less within carp exclosures at the end of
+the experiment. Excess Al was found at an average
+sediment depth of approximately 5.0 (±1.2) cm within
+the exclosures, whereas it was detected more than 2.5
+times deeper in the sediment (13 ± 3.7 cm) outside
+the exclosures (Fig. 5). If a less stringent, one standard
+deviation was used (i.e., 110% of background), the
+depth of excess Al penetration reached 16 cm outside the exclosures, more than a threefold increase. This
+difference in mean mixing depth was statistically
+significant when comparing the exclosures and nonenclosure
+sites in both cases (MannñWhitney rank
+sum test, P\0.01). There was no significant difference
+when we compared only the three sites exposed
+to carp bioturbation (ANOVA, P = 0.93).
+When the 2.5-fold increase in sediment mixing
+depth associated with carp (using the two standard
+deviation limit for excess Al) was taken into consideration,
+it was found that the total mobile sediment P
+pool potentially available for release increased by
+55ñ92%, depending on location within the lake
+(Fig. 5). If the less stringent, one standard deviation
+was used to estimate excess Al and increased sediment
+mixing depth (16 cm, see Fig. 5), the amount of
+potentially available P caused by carp bioturbation
+was 109ñ198% greater than if carp were absent.
+xdiscussion
+The addition of alum to Kohlman Lake to reduce
+internal sediment P release provided an opportunity to
+test the effect of common carp on sediment mixing and
+the potential availability of sediment P in shallow
+lakes. Significant differences in depth penetration of
+added Al were detected when comparing sediment
+from areas with and without carp. It was reasonable to
+use Al concentrations in the sediment as a tracer for
+sediment mixing depth due to the inert nature of the
+Al(OH)3, which forms in water with circum-neutral pH
+(Stumm & Morgan, 1996). Numerous studies show
+that Al added from treatment is stabile and can be
+detected many decades after treatment in both shallow
+and deep lakes (Rydin et al., 2000; Lewandowski et al.,
+2003; Huser et al., 2011; Huser, 2012). The results
+presented herein are the first measurements of the
+likely influence of free-ranging adult carp on sediment
+mixing and changes to sediment P potentially available
+for release in a shallow lake using definitive biochemical
+techniques after alum treatment.
+Carp burrowing and sediment mixing depth
+Although the effects of benthivorous fish on sediment
+mixing depth and P availability have been relatively
+poorly documented to date, this study clearly shows
+that free-ranging carp can dig deeply in lake sediment.
+In laboratory settings, carp have been shown to be the
+deepest burrowing species among European minnows
+(Nikolsky, 1963). Even relatively small (\30 cm)
+individuals have been shown to be able to dig up to
+15 cm into the sediment. Others studies have shown
+that mixing depth in systems inhabited by carp and
+bream (Abramis brama) can be as high as 12 cm
+(Alikunhi, 1966), with bream appearing to be even
+stronger sediment burrowers than carp. Ritvo et al.
+(2004) found that carp burrow only 3ñ5 cm into the
+sediment of aquaculture ponds; however, the bulk
+density of sediment in the ponds was very high and not
+typical of sediment found in shallow, productive lakes
+(Ha∞kanson & Jansson, 1983). Unfortunately, very
+little information is available from previous carp
+studies about physical sediment properties or the
+amount of potentially available P in sediment.
+Size and density of carp are likely to affect
+sediment mixing depth caused by foraging (Zambrano
+et al., 2001). The size (mean weight 3.4 kg) and
+biomass (180 kg ha-1) of carp in Kohlman Lake were
+similar to other studies where significant habitat
+alteration occurred, resulting in changes to suspended
+sediment, nutrients, and plant communities (Zambrano
+& Hinojosa, 1999; Williams et al., 2002; Haas
+et al., 2007; Bajer et al., 2009). Although wind and
+wave action can affect sediment mixing in lakes, carp
+was likely the primary driver of increased sediment
+mixing depth in this study. Effective fetch for all
+coring locations was similar (exclosures = 0.29 km,
+other locations = 0.34 km ? 0.11) and short
+(\0.5 km), meaning that the study areas were not
+likely to be substantially affected by wind and wave action (Ha∞kanson & Jansson, 1983). The predominant
+wind direction was from the southwest, thus the north
+site and the exclosures were likely to have the longest
+fetch, whereas the south and southwest sites had the
+shortest. Considering that there was no significant
+difference in mixing depth between the north, south,
+and southwest sites, it seems that wind played little
+role in the different mixing depths detected between
+the exclosures and non-exclosure areas. In addition,
+substantial wind-driven sediment disturbance would
+be more likely to redistribute the low-density Al(OH)3
+floc to deeper areas of the lake (Huser et al., 2011). The
+fact that we found uniform and similar amounts of Al
+in Kohlman Lake sediment (36ñ44 g Al m-2) compared
+to the applied dose (39 g Al m-2) 5 months
+after treatment lends support to low wind-driven
+sediment disturbance or mixing.
+Benthic invertebrates are also known to increase the
+active layer of sediment (Ada¥mek & Mars?a¥lek, 2012),
+in some cases by up to 10 cm in low-density sediment
+(Andersson et al., 1988). High biomass densities of
+carp, however, can suppress macroinvertebrate abundance
+by up to 70% through feeding (Miller & Crowl,
+2006). Thus, the differences in sediment mixing depth
+between the exclosures and other lake areas are likely
+conservative due to the potential for greater benthic
+invertebrate abundance inside the exclosures. It should
+also be noted that there was a brief period while the lake
+was being treated (2 days) before the exclosures were
+installed when carp might have affected mixing depth.
+The results presented herein are thus conservative.
+Changes in mobile P mass related to sediment
+mixing depth
+When applying the increase in mixing depth caused by
+carp bioturbation to the mass of mobile P present in
+Kohlman Lake sediment, the amount of mobile P
+potentially available for release increased by 55%
+(shallow areas) to 92% (deeper areas approximately
+2.0ñ2.7 m) based on the more stringent two standard
+deviation method used to estimate excess sediment Al
+from alum treatment. Because the mobile P pool,
+along with physicochemical conditions at the sedimentñ
+water interface, contributes directly to internal P
+loading (Pilgrim et al., 2007), the increase in mobile P
+mass exposed to the water column due to carp
+burrowing may have a substantial long-term impact
+on nutrient availability in the lake after Al treatment.
+These are the first empirical, lake-wide measurements
+of sediment P availability due to carp bioturbation and
+they support studies showing significant effects of carp
+on TP concentration in lake water e.g., (Breukelaar
+et al., 1994; Angeler et al., 2002; Parkos et al., 2003;
+Schrage & Downing, 2004; Chumchal et al., 2005;
+Akhurst et al., 2012; Fischer et al., 2013). Other
+studies, however, have found only subtle or no
+relationship between carp and changes in water
+column nutrients (e.g., Roberts et al., 1995; Egertson
+& Downing, 2004; Matsuzaki et al., 2007; Roozen
+et al., 2007; Bajer & Sorensen, 2015). These inconsistencies
+may be due to a number of factors including
+fish age/size (Driver et al., 2005), sediment composition
+(Ritvo et al., 2004), and food availability (Zambrano
+et al., 2001). For example, high densities of carp
+may limit overall food availability (Zambrano et al.,
+2001), leading to increased energy spent searching for
+food that will likely contribute to increased sediment
+disturbance and mixing. While theoretical calculations
+suggest that carp bioturbation may be a major process
+affecting P availability in lakes, especially those with
+low density, organic rich sediments, whole-lake carp
+biomass removals are needed to better quantify this
+process (Bajer & Sorensen, 2015).
+Lake management concerns
+Increased sediment mixing and mobile P mass in the
+active sediment layer caused by carp bioturbation are
+likely to have implications for most management
+methods designed to reduce internal P loading in
+lakes. Although the alum applied to Kohlman Lake
+was successful at reducing mobile sediment P concentration
+via conversion to AlñP in surficial sediment
+in the short term, the increased sediment mixing depth
+caused by carp may reduce the longevity of treatment.
+The main reason for this is that the Al dose added to
+the lake was based on the mass of mobile P in the
+upper 6ñ10 cm of sediment (a slight over-estimate of
+sediment mixing without carp of 5 cm). This would
+have been adequate to bind mobile P in the active
+sediment layer if there had not been carp in the lake,
+but with carp the active layer of sediment is at least 2.5
+times higher, leading to an increase of mobile
+sediment P (potentially available for release) of at
+least 55% in the active layer. Because this increase
+was not accounted for in dosing calculations, the
+positive water quality effects from treatment may last less than the estimated 15-year longevity. The additional
+mobile P may eventually overwhelm the Al
+added to the sediment, resulting in a return of elevated
+internal P loading in the lake. Thus, internal P loading
+management methods (e.g., Al addition, dredging,
+etc.) may need to be altered in order to achieve desired
+effectiveness in lakes with moderate to high densities
+of carp.
+The release rate of mobile P from sediment might
+not change substantially when carp are present even
+though the total amount of P potentially available for
+release will increase due to the increase in the active
+sediment layer, which is a key issue. This is because
+sediment P release rate is largely a function of average
+mobile P mass by depth under anoxic conditions
+(Pilgrim et al., 2007), and not the total amount of
+mobile P mass in the active layer. We show a clear
+increase in the sediment active layer caused by carp
+(from 5 to between 13.5 and 16 cm), resulting in an
+increase of the total mass of P (g m-2) in the active
+layer that is potentially available for release, depending
+on in-lake conditions. The average mass of mobile
+P by depth (g m-2 cm-1, data not shown) throughout
+the upper 16 cm is generally constant, however,
+meaning that the sediment P release rate may not be
+affected by an increase in mixing depth. This may be
+another reason why some studies show small or even
+non-significant changes to water column TP when carp
+are present (Roberts et al., 1995; Egertson & Downing,
+2004; Matsuzaki et al., 2007; Roozen et al., 2007;
+Bajer & Sorensen, 2015). If, however, bioturbation
+results in migration of mobile P from deeper layers
+towards the surficial sediment, increasing the average
+mass in the upper sediment layers, the internal P
+loading rate might be expected to increase. A distinction
+should be made, however, between P released
+from inorganic compounds (e.g., loosely bound P and
+FeñP) and release of P contained in organic matter.
+Carp bioturbation has the potential to increase the total
+amount available for release from both sediment P
+forms due to the increase in mixing depth, but more
+research is needed to elucidate the relationship
+between increased sediment mixing, oxygen availability,
+and mineralization of organic matter in deeper
+sediment layers and how these factors contribute to the
+release of sediment P (from both organic and inorganic
+P forms) to the water column in the presence of carp.
+One possible benefit from carp bioturbation, which
+also deserves further investigation, is an apparent
+increase in the short-term binding effectiveness
+between Al and P in the presence of carp. The ratio
+of Al to AlñP in Kohlman Lake sediment averaged
+approximately 30 just 5 months after treatment,
+whereas an average Al:AlñP ratio of 87 was found in
+nearby Lake Calhoun sediment after 15 months
+(Huser & Pilgrim, 2014) even though Al doses to
+both lakes were similar (39 and 42 g Al m-2, respectively).
+The lower Al:AlñP ratio detected in Kohlman
+Lake indicates carp mixing may increase the potential
+for contact between sediment P and the added Al,
+potentially increasing the effectiveness of treatment
+by decreasing the reduction in binding efficiency that
+can occur when Al is allowed to age (crystalize) in the
+absence of P (de Vicente et al., 2008). Other factors
+that should eventually be addressed with respect to
+carp effects on sediment P availability and Al
+treatment efficacy are sediment biogeochemistry,
+including pH and oxygen availability, and both mixing
+and thermocline effects. In sum, this study sheds new
+light not only on the complexity of properly dosing Al
+treatments, but also on the significant role that carp
+have on sediment mixing and potential sediment P
+availability in lakes.

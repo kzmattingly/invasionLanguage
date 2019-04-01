@@ -1,0 +1,754 @@
+xabstract
+The relative importance of top-down invader effects relative to environmental drivers was determined by
+sampling crustacean zooplankton, rotifer, and phytoplankton communities in a set of invaded and noninvaded
+reference lakes. The non-native invertebrate predator Bythotrephes had significant effects on zooplankton
+community size structure, rotifers, and phytoplankton taxonomic composition, but no significant effects on
+crustacean zooplankton taxonomic and functional group composition. Part of the variation in phytoplankton
+communities was explained by the presence of the invader. Because Bythotrephes is generally known to be a
+carnivore and to not consume phytoplankton, this effect is likely mediated by the zooplankton community’s
+response to environmental gradients. Although Bythotrephes appears to indirectly alter phytoplankton
+composition in invaded lakes, there was no evidence of a trophic cascade, and edible phytoplankton biovolume
+did not increase in invaded lakes. These complex direct and indirect interactions suggest that effects of invaders
+may be highly context-dependent, and therefore pose a significant challenge for predicting wider community and
+ecosystem responses.
+
+xintroduction
+Cascading effects of predators are common in aquatic
+systems and may be more noticeable following the
+introduction of novel predators (Carpenter et al. 1987;
+McCann et al. 1998). Range expansion of invasive
+predators can provide natural experiments with which to
+examine altered interactions among trophic levels at the
+whole-ecosystem scale. In terrestrial ecosystems, invasive
+predators have larger effects on prey communities compared
+to native predators (Salo et al. 2007), but their
+cascading effects have rarely been explored in aquatic
+ecosystems. The consequences of invasions for nonadjacent
+lower trophic levels remain largely unexplored and are
+difficult to predict because there can be large variation in
+the strength of top-down effects among lake ecosystems
+(Shurin et al. 2002). In particular, oligotrophic lakes are
+more likely to show weak top-down effects at lower trophic
+levels because of strong bottom-up forces (McQueen et al.
+1986; Leibold et al. 1997; Jeppesen et al. 2003).
+It has been suggested that mid-trophic-level invaders
+may have disproportionately large effects on food webs
+(Shuter and Mason 2001; Noonburg and Byers 2005). The
+cladoceran zooplankter Bythotrephes longimanus is an
+invasive predator in North America, where it occupies a
+mid-trophic-level position in lakes. It has had large effects
+on pelagic herbivore community structure, biomass, and
+productivity in North American lakes (Yan et al. 2002;
+Boudreau and Yan 2003; Strecker and Arnott 2008). Based
+on the strong effects of this invader on herbivorous
+zooplankton, we would expect to see strong cascading
+effects on lower trophic levels, including changes in
+taxonomic composition, size, and structure, and functional
+group composition in the phytoplankton. However, Bythotrephes
+is most commonly found in low-productivity
+lakes (MacIsaac et al. 2000). Thus, it is unclear whether
+cascading effects of the invader should attenuate rapidly or
+be expressed with equal strength at the lower trophic level.
+The rapid invasion of Bythotrephes into a large set of
+morphologically and chemically similar lakes in central
+Ontario created a unique opportunity to analyze replicated
+natural, whole-lake experiments on lower food web
+responses to invasion. Although previous studies have
+demonstrated strong effects of Bythotrephes on the
+adjacent trophic level (zooplankton: Barbiero and Tuchman
+2004; Hovius et al. 2006; Strecker et al. 2006), the
+effect on primary producers has remained largely unexplored.
+To our knowledge, no studies have examined the
+effects of Bythotrephes on phytoplankton community
+composition, although an experimental mesocosm study
+did demonstrate increases in phytoplankton abundance
+with invasion, suggestive of a trophic cascade (Strecker and
+Arnott 2005). Furthermore, the contribution of Bythotrephes
+in shaping plankton communities relative to the
+role of other important environmental drivers (Watson et
+al. 1997; Beisner et al. 2006; Keller 2009) is not well
+understood. Based on food web theory, one might expect
+that herbivorous zooplankton should be more affected by
+top-down influences, whereas phytoplankton communities,
+being lower in the food chain, should be shaped more
+strongly by bottom-up effects (McQueen et al. 1986).
+Indeed, this pattern has been recently demonstrated in
+comparative studies of boreal shield lakes (Paterson et al.
+2008).
+Our objective was to assess whether Bythotrephes
+induces patterns in planktonic food webs that are indicative
+of a trophic cascade. Further, we were interested in
+determining if trophic cascades would manifest in the
+traditional form (e.g., changes in phytoplankton biomass)
+or in a more subtle form (e.g., shifts in phytoplankton
+composition). We accomplished this by contrasting phytoplankton,
+rotifer, and zooplankton community structure in
+invaded and noninvaded lakes in a region of rapid range
+expansion of the invader. This was done by surveying a
+relatively large set of lakes at multiple times throughout the
+summer. We predicted that traditional trophic cascades
+would be weak or absent in the low-productivity lakes that
+are characteristically invaded by Bythotrephes (MacIsaac et
+al. 2000), because phytoplankton would be more strongly
+influenced by environmental factors, but that more subtle
+cascades may result from indirect effects of Bythotrephes on
+the zooplankton community.
+
+xmethods
+Twenty-two lakes in the districts of Muskoka
+and Parry Sound, and the county of Haliburton in Ontario,
+Canada, were sampled from May to September 2003. There
+were 15 invaded and 7 reference lakes, including the
+recently invaded Maple Lake, which was classified in our
+study as a reference system, since only one Bythotrephes
+individual was found throughout the summer. Two of our
+noninvaded reference lakes are part of a long-term
+monitoring program; sampling details can be found in
+Paterson et al. (2008) and Yan et al. (2008).
+All of the lakes chosen for the study have relatively
+similar physical, chemical, and morphological characteristics
+(Table 1); however, there were some differences
+between lake categories (assessed with a nonparametric
+Wilcoxon rank test). Invaded lakes tended to have higher
+alkalinity, calcium, conductivity, NH4, pH, and sodium
+(not shown), and were deeper and larger (Table 1). These
+differences were generally small, as would be expected from
+lakes located in a geologically similar region, and are
+typical of the broader patterns of invasion in the region
+(Weisz and Yan 2010). The morphological differences in
+invaded lakes compared to noninvaded lakes may reflect
+Bythotrephes preference for large deep lakes (MacIsaac et
+al. 2000), but it is more likely an artifact of the recent
+history of invasions in North America. The spread of
+Bythotrephes is largely controlled by human-delivered
+propagules, and propagule pressure is higher in larger
+lakes (Muirhead and MacIsaac 2005). Lake depth is known
+to influence zooplankton community structure, primarily
+because deeper lakes are more likely to contain glacial relict
+species, such as Mysis relicta and Senecella calanoides
+(Dadswell 1974), which are zooplankton predators. However,
+we purposely chose lakes with a common glacial
+history (with the exception of two reference lakes, Blue
+Chalk and Red Chalk Main, for which preliminary
+analyses indicated that zooplankton communities did not
+differ substantially from the other reference lakes; A.
+Strecker unpubl.). Thus, lake size likely did not confound
+our interpretation of responses of the crustacean zooplankton
+community to Bythotrephes invasion. Furthermore,
+lake size per se is not expected to have a major influence on
+phytoplankton or rotifer community structure, independent
+of its effects on temperature and stratification type
+(Wetzel 2001). Summer epilimnetic temperatures and
+depths were similar in both invaded and noninvaded lakes
+(July and August: A. Strecker unpubl.); therefore, differences
+in lake size likely did not affect our interpretation of
+invasion effects on phytoplankton or rotifer community
+structure. Lakes contained a combination of warm-water
+planktivores (e.g., yellow perch [Perca flavescens]) and
+cold-water planktivores (e.g., lake trout [Salvelinus namaycush],
+lake herring [Coregonus artedii], rainbow smelt
+[Osmerus mordax], and lake whitefish [Coregonus clupeaformis];
+Ontario Ministry of Natural Resources unpubl.).
+Lakes were sampled every 2 weeks from mid-May until
+September. At the deep station in each lake, temperature
+and dissolved oxygen were measured, and samples were
+taken for crustacean zooplankton, rotifers, and phytoplankton.
+Crustacean zooplankton were sampled from 5 m
+off the lake bottom to the surface using a 110-mm mesh net,
+0.5 m in diameter, which was pulled vertically through the
+water column. Zooplankton in samples were anesthetized
+and preserved in 5.5% sugared and buffered formalin.
+Separate samples were taken in July and August for rotifers
+and phytoplankton from the epilimnion using a 2-cm diameter,
+9-m-long vertical tube sampler. The median July–
+August epilimnetic depth was 5.3 m, ranging from a
+minimum of 3.4 m to a maximum of 7.8 m. Although
+phytoplankton can also be abundant in deeper depth
+strata, we chose to sample in the epilimnion because our
+main goal was to observe effects of Bythotrephes, which is
+most abundant in the epilimnion in lakes in this region
+(Young and Yan 2008). Rotifers were anesthetized, and
+both rotifers and phytoplankton were preserved with
+Lugol’s solution. Samples for rotifers and phytoplankton
+were also taken at one additional station located 500 m
+from the deep station, and the two samples were pooled for
+enumeration. Bythotrephes was sampled at the deep station
+and four additional stations (, 1 km) from June to
+September using a 400-mm mesh net, 0.5 m in diameter,
+which was towed vertically from 5 m off the lake bottom to
+the surface.
+Composite zooplankton and phytoplankton samples
+were obtained by pooling equal proportions of each of
+the nine biweekly zooplankton samples (May to September)
+and the five biweekly phytoplankton samples (July and
+August). Composite samples may lead to imprecise
+estimates of species abundance by over- or under-representing
+certain taxa; however, a concurrent study in a
+subset of our study lakes found that crustacean zooplankton
+taxa were present, on average, on . 50% of sampling
+dates (A. Strecker unpubl.). Additionally, our counting
+protocol was designed to target rare species; thus, this likely
+represents a small source of variability in our results.
+Rotifer samples were enumerated from the same five
+biweekly summer sampling dates and averaged. Crustacean
+zooplankton were generally identified to species, and
+juvenile copepods and macroinvertebrates were excluded.
+Zooplankton species were grouped into size classes (0–0.4,
+0.4–0.8, 0.8–1.2, 1.2–1.6, and . 1.6 mm) derived from a
+concurrent study in a subset of our study lakes (Strecker
+and Arnott 2008), and they were assigned to functional
+groups using the classification of Barnett et al. (2007)
+(Table 2). Rotifers were identified to genus, and phytoplankton
+were identified to species but grouped at the
+family level for analyses (i.e., bacillariophyceae, chlorophyceae,
+chrysophyceae, cryptophyceae, pyrrhophyceae,
+cyanophyceae). Phytoplankton were also classified into
+size classes (, 10, 10–20, 20–35, . 35 mm) and functional
+groups (motile unicellular, motile colonial, nonmotile
+colonial, nonmotile unicellular, filamentous, and weakly
+filamentous). Phytoplankton biovolumes were estimated
+from geometric shapes (Paterson et al. 2008). Rotifer data
+were only available for 14 lakes (10 invaded and 4
+reference: Table 1). For additional details on sampling and
+enumeration, see Hovius et al. (2006) and Strecker et al.
+(2006).
+Depth-integrated epilimnetic samples for chemical analyses
+(alkalinity, calcium, dissolved organic carbon, conductivity,
+magnesium, NH4, NO3, total Kjeldahl nitrogen,
+pH, total phosphorus [TP], potassium, silica, and sodium)
+were taken in mid-July 2003 at the deep station of each
+lake. Following Ontario Ministry of the Environment
+(2003) protocols, samples were filtered through an 80-mm
+mesh in the field to remove zooplankton in order to
+decrease variability of TP due to sporadic inclusion of
+zooplankton in water samples of these low-productivity
+lakes.
+Multivariate ordination techniques
+were used to test the relative contributions of Bythotrephes
+and other environmental variables in explaining variation
+in crustacean zooplankton, rotifer, and phytoplankton
+communities. Redundancy analysis (RDA) was performed
+using Canoco 4.5 (ter Braak and Sˇ milauer 2002), because
+preliminary analyses using detrended correspondence
+analysis suggested that linear ordination techniques were
+appropriate. Species data were Hellinger-transformed prior
+to analysis because the Euclidean distance measure used in
+RDA is inappropriate for raw data containing many null
+values (Legendre and Gallagher 2001). Because there were
+large numbers of predictor variables in comparison to the
+number of sites, many of which were also highly correlated,
+we reduced the variables into independent linear combinations
+of variables using principal components analysis
+(PCA) (see Graham [2003] for use in multiple regression).
+For example, we constructed a PCA from variables that
+describe the morphological and physical characteristics of
+lakes, such as elevation, maximum depth, Secchi depth, and
+surface area (hereafter morphological PCA). Additionally,
+a PCA was performed on chemical variables (chemical
+PCA), and a principal coordinates analysis (PCoA) was
+performed on pelagic planktivore fish community composition
+(presence or absence: fish PCoA). The scores of each
+lake on axis I and axis II were then used in redundancy
+analyses, since these axes represented a large part of the
+variability in physical, morphological, chemical, and
+planktivorous fish community characteristics: Morphological
+PCA axes I and II captured 49% and 28% of variation,
+respectively, chemical PCA axes I and II explained 47%
+and 24% of variation, respectively, and fish PCoA axes I
+and II explained 41% and 30% of variation, respectively
+(Table 3). Separate PCAs and PCoAs were also performed
+on the subset of lakes used for the analysis of rotifer
+taxonomic composition (14 lakes); these analyses yielded
+similar results to the full 22 lake data set (Table 3).
+Bythotrephes was entered as a binary variable (presence or
+absence), and an additional variable of time since invasion
+was tested (Table 1). Variables were considered significant
+at p , 0.05.
+Variation partitioning was used to separate significant
+variation explained by Bythotrephes, environmental variables,
+and any covariation between the invader and the
+environment (Peres-Neto et al. 2006). The method used
+controls for the inflated variance that occurs with increased
+numbers of variables in ordinations and, therefore, will
+enact a greater penalty on the environmental data set,
+which contains more variables compared to the Bythotrephes
+data set, which contains two variables (presence or
+absence, time since invasion). Variation partitioning and
+significance testing of environmental and Bythotrephes
+variables (5000 permutations) were conducted in the R
+library vegan (R Development Core Team 2010). Note that
+significance testing cannot be performed on the covariation
+term between Bythotrephes and the environment.
+Finally, we used structural equation modeling (SEM) to
+elucidate the nature of the interactions between variables.
+SEM is a technique that allows variables to simultaneously
+be predictors and responses, and, therefore, it can be useful
+in testing theories about causal relationships in complex
+networks (Grace 2006). A theoretical model is specified a
+priori, and thus, if the observed data are a good fit to the
+model, there is support for the relationships identified in
+the theoretical model. For example, SEM has been
+successfully used to confirm the direct and indirect
+pathways that were hypothesized to operate in kelp–
+invertebrate coastal ecosystems (Arkema et al. 2009). Our
+small sample size (n 5 22) precluded the usage of SEM as a
+confirmatory technique; rather, it must be seen as an
+exploratory assessment of our observational data (Kline
+2005). Because we were interested in specific interactions,
+e.g., the direct and indirect influence of water chemistry
+and Bythotrephes on zooplankton and phytoplankton, we
+ran two separate models testing the variables that are
+known to influence both zooplankton and phytoplankton
+(chemistry axis I and morphological axis I), as well as
+Bythotrephes. We used the R library sem (structural
+equation models: Fox 2006) to estimate standardized path
+coefficients, test model fit, and generate R2 values for the
+amount of variation explained by our models. Models were
+fit by maximum likelihood, and Bayesian information
+criteria (BIC) scores were generated, where lower scores
+indicate more parsimonious models. The strength of
+indirect interactions was estimated by multiplying the
+standardized path coefficients (e.g., the indirect effect of
+morphological axis I on phytoplankton 5 direct effect of
+morphological axis I on zooplankton 3 direct effect of
+zooplankton on phytoplankton) (Grace 2006). An important
+distinction in SEM is that a model is considered a good
+fit when there are no significant differences (p . 0.05)
+between expected and observed covariances, as assessed
+with a x2 test (Grace 2006).
+
+xresults
+Bythotrephes variables were important predictors of
+crustacean zooplankton community size structure, explaining
+23% of variation (p 5 0.01), but they were not
+significant for other zooplankton metrics, explaining only
+5% of variation in taxonomic structure (p 5 0.09) and 8%
+of variation in functional groups (p 5 0.14) (Fig. 1).
+Bythotrephes variables also explained a significant amount
+of variation in rotifer community taxonomic composition
+(61% of variation: p 5 0.04) (Fig. 1). Environmental
+variables explained significant variation in crustacean
+zooplankton size structure (34% of variation: p , 0.01)
+and taxonomic structure (18% of variation: p , 0.01)
+(Fig. 1). Environmental variables did not explain significant
+variation in zooplankton functional groups (8% of
+variation: p 5 0.24) (Fig. 1) or rotifer community
+composition (9%: p 5 0.36) (Fig. 1). Covariation between
+the invader and environmental variables also failed to
+explain any variability in crustacean zooplankton or rotifer
+communities (Fig. 1). The compositional effects of environmental
+variables and Bythotrephes on crustacean
+zooplankton and rotifer communities have been welldescribed
+elsewhere (Hovius et al. 2006; Strecker et al.
+2006); please see Fig. 2 for specific relationships between
+variables and communities. It is worth noting that
+Bythotrephes presence is significant in some ordination
+biplots, but Bythotrephes variables are not significant in the
+variation partitioning analysis (see Figs. 1, 2): this likely
+reflects the weak effect of the additional variable, time since
+invasion.
+Bythotrephes variables explained significant independent
+variation in phytoplankton taxonomic groups (13% of
+variation purely explained: p 5 0.03) but did not have a
+significant influence on variation in functional groups (3%
+of variation: p 5 0.24) (Fig. 1). Additionally, Bythotrephes
+did not explain variation in phytoplankton size structure
+(2% of variation: p 5 0.34): There was no difference in
+edible phytoplankton (, 35 mm) biovolume in invaded
+lakes compared to noninvaded lakes (invaded:
+1280 mm3 mL21 6 99; noninvaded: 1214 6 98 mm3 mL21,
+t-test, t 5 21.47, df 5 20, p 5 0.16). Because it is possible
+that changes in phytoplankton in invaded systems may be
+more pronounced in lakes at higher trophic status (i.e.,
+oligotrophic–mesotrophic), we assessed the deviation of
+edible phytoplankton biovolume in invaded lakes from the
+average biovolume in noninvaded lakes along a gradient of
+trophic status, as measured by total phosphorus. Trophic
+status had no effect on invaded lake edible phytoplankton
+biovolume (R2 5 0.05, p 5 0.41). Environmental variables
+accounted for minor and insignificant variation in phytoplankton
+size structure (11% of variation: p 5 0.17) and
+functional groups (10% of variation: p 5 0.12) (Fig. 1).
+However, environmental variables explained a significant
+portion of variation in phytoplankton taxonomic structure
+(23% variation: p 5 0.02) (Fig. 1). Covariation between
+Bythotrephes and environmental variables accounted for
+some variation in phytoplankton community size structure
+(12%), functional groups (7%), and taxonomic structure
+(3%) (note that significance of this fraction cannot be
+tested; Fig. 1). See Fig. 3 for specific relationships between
+variables and phytoplankton communities.
+Because past studies have not documented significant
+independent effects of Bythotrephes on phytoplankton
+taxonomic structure, we expand on this result here.
+Chlorophytes and cyanophytes were positively correlated
+with: (1) chemical PCA axis I (representing conductivity
+and ionic strength; Table 3), (2) morphological PCA axis I
+(representing lake size and depth; Table 3), and (3)
+Bythotrephes presence (Fig. 3b). Chrysophytes were opposite
+in direction to chlorophytes and cyanophytes (Fig. 3b).
+Cyanophytes and pyrrhophytes were positively related to
+Bythotrephes, while bacillariophytes were uncorrelated with
+the presence of the invader (Fig. 3b). Additionally, we
+tested for differences in the log-transformed biovolumes of
+specific phytoplankton taxonomic groups that our ordinations
+identified as correlated with Bythotrephes: Pyrrhophyte
+biovolume was significantly greater in invaded
+compared to noninvaded lakes (t-test, t 5 22.26, df 5
+20, p 5 0.03), whereas chrysophyte biovolume was
+significantly smaller in invaded lakes compared to noninvaded
+lakes (t-test, t 5 4.10, df 5 20, p , 0.01).
+Cyanophyte biovolume was slightly greater in invaded
+lakes than in noninvaded lakes, but not significantly so (ttest,
+t 5 21.84, df 5 20, p 5 0.08). Although slight
+differences in sampling protocols may have led to a greater
+representation by metalimnetic colonial chrysophytes in
+Blue Chalk and Red Chalk lakes, chrysophytes were 33
+more abundant in the remainder of noninvaded lakes
+compared to invaded lakes (t-test, t 5 3.35, df 5 20, p ,
+0.01), suggesting that the high correlation with RDA axis I
+is not an artifact.
+Because previous research has found little evidence of
+omnivory by Bythotrephes (Schulz and Yurista 1995), we
+infer that effects of the invader on algal communities are
+operating indirectly through the zooplankton community.
+We explored the importance of zooplankton in shaping the
+covariation effect between Bythotrephes and environmental
+variables on phytoplankton size structure by directly
+incorporating zooplankton community size structure into
+ordination analyses. Here, we partitioned variation between
+three compartments: environment, Bythotrephes, and
+zooplankton. Like the two-compartment variation partitioning,
+this analysis allows us to control for covariation
+among variables and assess independent and shared
+contributions from sets of variables. We chose to use
+zooplankton size structure because this grouping was most
+influenced by environmental variables and Bythotrephes
+(Fig. 1). If the effect of Bythotrephes on phytoplankton is
+truly indirect and mediated through zooplankton, then we
+should predictably see a large reduction in independent
+variation explained by the invader. In contrast to the twocompartment
+test, Bythotrephes and environmental variables
+explained no independent variation in the threecompartment
+test, and only a moderate fraction of shared
+variation in phytoplankton size (10%; Fig. 4). However,
+shared variation between environment and zooplankton
+explained 26% of variation in phytoplankton size structure,
+and shared variation between zooplankton and Bytho-
+trephes and among all three sets of variables accounted for
+an additional 11% and 2% of algal community size
+structure, respectively (Fig. 4). This suggests that the effect
+of Bythotrephes on phytoplankton communities may be
+mediated via the invader’s effect on the zooplankton
+community along gradients of environmental conditions.
+To further explore possible mechanisms that may be
+driving the effects of Bythotrephes, zooplankton, and
+environmental factors on phytoplankton community structure,
+we used the site scores from chemical PCA axis I and
+morphological PCA axis I as examples of indirect
+interactions. Chemical axis I was positively correlated with
+various ions, including Ca and K, as well as pH and
+alkalinity, whereas morphological axis I was correlated
+with area and depth (Table 3). Both axes were significant in
+phytoplankton ordinations (Fig. 3). Calcium (Pinel-Alloul
+et al. 1995; Jeziorski et al. 2008), other ions (Pinel-Alloul et
+al. 1990), pH (Sprules 1975), and lake size (Keller and
+Conlon 1994) are known to influence crustacean zooplankton
+community structure. We used linear regression to
+compare the responses of phytoplankton in invaded and
+reference lakes to chemical and morphological axis I. Given
+that we saw the greatest covariation effect for phytoplankton
+size structure, we explored this further using the
+biovolume most likely to be affected by herbivorous
+cladocerans and copepods, edible phytoplankton (,
+35 mm).
+Edible phytoplankton biovolume was not significantly
+influenced by chemical axis I (invaded: R2 5 0.13, p 5 0.19;
+not invaded: R2 5 0.06, p 5 0.64; Fig. 5a) or morphological
+axis I (invaded: R2 5 0.03, p 5 0.49; not invaded: R2 5
+0.27, p 5 0.29; Fig. 5c). Additionally, the biomass of the
+major herbivore group responsive to Bythotrephes invasion
+(cladoceran zooplankton) did not change significantly
+along chemistry axis I in invaded lakes (R2 5 0.23, p 5
+0.07) or noninvaded lakes (R2 5 0.02, p 5 0.78) (Fig. 5b).
+However, cladoceran biomass declined significantly along
+morphological axis I in invaded lakes (R2 5 0.43, p , 0.01)
+but was unaffected by lake morphology in noninvaded
+lakes (R2 5 0.17, p 5 0.36) (Fig. 5d). The lack of
+directional change along environmental gradients in both
+cladoceran zooplankton and edible phytoplankton in
+noninvaded lakes suggests that cladoceran zooplankton
+grazers were either in balance with their food resources or
+not controlling edible phytoplankton in noninvaded lakes.
+The lower biomass of cladocerans and their decrease along
+morphological axis I without a corresponding increase in
+phytoplankton response in invaded lakes support the latter
+hypothesis: We explored this further by examining the
+relationship between cladoceran biomass and edible phytoplankton
+biovolume (Fig. 6). We observed no significant
+relationship between cladoceran biomass and edible phytoplankton
+biovolume in either instance, further supporting
+the latter hypothesis (noninvaded lakes: R2 5 0.47, p 5
+0.13; invaded lakes: R2 5 0.02, p 5 0.64; Fig. 6).
+Finally, we assessed the strength of the direct and
+indirect interactions among water chemistry and morphological
+variables, Bythotrephes, cladoceran biomass, and
+edible phytoplankton biovolume using structural equation
+models (SEM) (Fig. 7). The model with morphological axis
+I was an adequate fit to our observed data (i.e., no
+significant differences between the expected and observed
+model; model x2 5 5.34, p 5 0.07), whereas the model that
+included chemistry axis I was not a good fit (model x2 5
+9.94, p 5 0.01) (Fig. 7); therefore, we will not consider the
+chemistry model further. In agreement with our other
+analyses, morphological axis I had moderate and nonsignificant
+direct effects on edible phytoplankton, as did
+cladoceran zooplankton (Fig. 7). However, morphological
+axis I had significant direct effects on cladocerans, which,
+when combined with the effects of cladocerans on edible
+phytoplankton, had substantial indirect effects on edible
+phytoplankton (20.60 3 20.42 5 0.25; Fig. 7). In
+contrast, Bythotrephes had an indirect positive effect on
+edible phytoplankton biovolume that was weaker than the
+effects of morphological axis I (20.30 3 20.42 5 0.13;
+Fig. 7).
+
+xdiscussion
+We observed patterns in the lower food web that are
+consistent with both indirect and direct effects of Bythotrephes
+on planktonic communities in freshwater lakes.
+Two main types of effects could be distinguished. First,
+there were top-down effects on crustacean zooplankton and
+rotifers related to Bythotrephes presence. We found
+significant effects of Bythotrephes on zooplankton community
+size structure, but not composition. This is in contrast
+to other studies that have documented strong effects of
+Bythotrephes on zooplankton community biodiversity and
+the loss of some cladoceran species (Boudreau and Yan
+2003; Barbiero and Tuchman 2004; Hovius et al. 2007).
+Changes in the composition of the zooplankton community
+suggest that the invasion of Bythotrephes may have
+significant consequences for size-related aspects of the
+zooplankton community functioning, such as grazing and
+metabolism. It is important to note that the top-down
+effects that have been observed between Bythotrephes and
+crustacean zooplankton include both direct consumptive
+and indirect nonlethal effects (Pangle et al. 2007), which
+will accentuate the effects on zooplankton community
+metabolism.
+The second main type of effect that we were able to
+detect with our comparative survey was indirect effects of
+invasion on phytoplankton communities. We found evidence
+for significant responses in phytoplankton taxonomic
+composition in the epilimnion of Bythotrephes-invaded
+lakes but no change in phytoplankton biomass (Figs. 1, 3).
+This concurs with our hypothesis that traditional trophic
+cascades resulting in changes in biomass would be absent
+from these oligotrophic lakes, but that more subtle shifts in
+phytoplankton community composition may result from an
+invasion. To determine the nature of the influence of
+Bythotrephes on phytoplankton, it was necessary to
+incorporate both environmental variation and zooplankton
+size structure into our models. Joint control of lower
+trophic levels from both top-down and bottom-up factors
+has been demonstrated previously (Leibold et al. 1997 and
+references therein), and it is not unreasonable to expect that
+environmental variables can affect both phytoplankton and
+zooplankton, generating indirect trophic interactions. We
+demonstrated these interactions with structural equation
+models (SEMs) on environmental variables that are
+representative of gradients across lakes (chemical and
+morphological axis I). Many environmental variables,
+including calcium and lake size, can have significant
+influences on crustacean zooplankton community structure
+(Keller and Conlon 1994; Jeziorski et al. 2008). We found
+that the chemical model was a poor fit to the data, but that
+the morphological model was a good fit, indicating that
+indirect trophic interactions are important structuring
+forces in these systems. These indirect trophic interactions
+are mediated by Bythotrephes: Morphological scores had a
+lesser effect on cladocerans in invaded lakes compared to
+noninvaded lakes (significant invasion effect: morphological
+analysis of covariance [ANCOVA] F1,18 5 9.46, p ,
+0.01). Thus, what appears to be an effect of the
+environment (e.g., lake size gradient) on edible phytoplankton
+in invaded lakes is instead partially a result of a
+decoupling of the predator–prey interaction between the
+most competitive herbivores (cladocerans) and their phytoplankton
+prey. This decoupling likely results from
+reduced abundance of cladocerans, particularly the important
+grazers such as Daphnia spp. Strayer et al. (2008)
+found similar complex indirect interactions between environmental
+drivers and the grazing effects of another
+invader (the zebra mussel, Dreissena polymorpha) in the
+Hudson River. These types of complex relationships
+between the environment and invasive species may render
+the prediction of effects and the management of invaders
+more context-dependent than previously acknowledged,
+necessitating the inclusion of environmental gradients in
+studies of invasions. In particular, this should be the case
+for mid-trophic-level invaders, for which many links with
+other members of the food web are possible.
+Top-down effects of Bythotrephes (independent of
+environment) were attenuated somewhat at the primaryproducer
+trophic level. Other studies in this region have
+detected declines in zooplankton biomass (Boudreau and
+Yan 2003) in addition to the changes we document here.
+Such changes to zooplankton community structure and
+biomass would lead us to expect concomitant changes in
+the phytoplankton community (biovolume and composition)
+(Cyr 1998). While we observed changes in phytoplankton
+composition attributable to Bythotrephes, we did
+not observe the expected significant increases in lakewide
+phytoplankton biovolume. Results from previous studies
+are equivocal on this matter. Lack of increases in
+phytoplankton biomass at the whole-lake scale was also
+observed by Lehman (1988) in Lake Michigan and by
+Strecker and Arnott (2008) in a subset of our lakes. In
+experimental mesocosms, increases in chlorophyll (phytoplankton
+biomass) in the presence of Bythotrephes,
+consistent with trophic cascades, were observed (Strecker
+and Arnott 2005). Conversely, Wahlstro¨m and Westman
+(1999) observed no significant effect of Bythotrephes on
+chlorophyll in enclosures. Thus, it is still uncertain as to
+whether Bythotrephes leads to increases in phytoplankton
+that are characteristic of traditional trophic cascades,
+especially with aggregate measures of the phytoplankton
+community (i.e., biovolume). Such trophic effects may be
+precluded in our region at the whole-lake scale because
+the low nutrient status of the lakes may be the more
+dominant structuring feature for phytoplankton, as McQueen
+et al. (1986) has suggested should be the case for
+oligotrophic systems. Additionally, trophic cascades can be
+dampened by compensatory dynamics in food webs (Pace
+et al. 1999).
+Although we failed to see differences in phytoplankton
+biomass attributable to a trophic cascade in invaded lakes,
+we did observe shifts in the taxonomic composition of the
+phytoplankton that have not been previously reported. In
+invaded lakes, we found that pyrrhophyte and cyanophyte
+biovolumes were greater relative to noninvaded lakes. We
+hypothesize that increases in pyrrhophytes and cyanophytes
+are related to reduced grazing pressure from a less
+abundant cladoceran community in invaded lakes. Pyrrhophytes
+are generally larger, highly motile cells, which
+may be more difficult for smaller zooplankton to handle
+and consume. The greater biovolume of cyanophytes in
+invaded lakes was the result of increases in less edible
+filamentous taxa (t-test, t 5 2.51, df 5 20, p 5 0.02;
+Fig. 3a). The shift in the zooplankton of invaded lakes to a
+more copepod-dominated community may be responsible
+for the increases in filamentous taxa, because copepods are
+generally less effective grazers.
+The other important shift with Bythotrephes invasion was
+a loss of chrysophyte biovolume. Losses occurred as a result
+of both motile colonial and nonmotile unicellular functional
+groups in invaded lakes (B. Beisner unpubl.). This is a
+counterintuitive result; we would have expected, as was the
+case for pyrrhophytes and cyanophytes, to see chrysophytes
+increase in Bythotrephes lakes as a result of reduced grazing
+pressure from crustacean zooplankton. These results also
+appear to conflict with a recent study of long-term changes
+in phytoplankton biovolume in Harp Lake, an invaded lake
+included in our study. Over a 25-yr period, Paterson et al.
+(2008) noted significant increases in chrysophyte biovolume,
+speculating that the recent invasion by Bythotrephes may
+have contributed to alterations in food webs that indirectly
+altered phytoplankton composition and biovolume. Large,
+colonial chrysophytes are less favorable to size-selective
+herbivores such as the rotifer Conochilus, which peaked in
+Harp Lake following invasion (Hovius et al. 2007). In part,
+the apparent discrepancy between the spatial and temporal
+studies may be explained by differences in study design. A
+more detailed examination of seasonal phytoplankton
+biovolume in Harp Lake in 2005 showed that only a quarter
+of the total ice-free phytoplankton biovolume (, 27%)
+occurs during July and August, the months of focus in our
+study (A. Paterson unpubl.). When the entire ice-free season
+is considered, chrysophyte and diatom species dominate the
+phytoplankton assemblage, but these groups are generally
+less important during the summer months. Thus, the
+assemblage-wide changes reported by Paterson et al. (2008)
+following invasion may not have been detectable with our
+shortened sampling season. Furthermore, the loss of
+chrysophytes from the epilimnion in our spatial survey
+may have been balanced by an increase in the abundance of
+metalimnetic colonial chrysophytes in the lakes. However,
+our study examined epilimnetic phytoplankton communities
+only, and so we cannot confirm or refute this hypothesis.
+In some instances, our ability to attribute variability in
+communities to measured factors was low. This likely
+reflects a combination of measurement and process error.
+As mentioned already, our sampling protocol focused on
+the epilimnion of lakes, potentially missing changes in
+metalimnetic algal biovolume, which dominates in midsummer.
+However, the effects of Bythotrephes on zooplankton
+have been primarily observed in the epilimnion
+(Strecker and Arnott 2008), and thus we would expect to
+see the greatest effects on phytoplankton in the epilimnion
+as well. Additionally, we combined samples from several
+sampling dates into single composite samples, which may
+have reduced our ability to detect subtle temporal
+dynamics. For example, we observed low explanatory
+power of cladoceran biomass on edible phytoplankton
+biovolume in all of our study lakes. However, other surveys
+(Pe´rez-Fuentetaja et al. 2000) and experiments (Strecker
+and Arnott 2008) in the region with better temporal
+resolution (i.e., comparison of samples taken at the same
+time period) have also observed weak relationships between
+zooplankton and phytoplankton, suggesting that this is a
+more widespread phenomenon and is not related to our
+study protocols. Finally, variation explained by Bythotrephes
+was generally small: This may be the result of
+several factors, including the inherent temporal variability
+in abundance of the invader (Strecker et al. 2006), as well as
+the recent invasion of several of our study lakes (first
+detected the year that we sampled in five lakes). There is
+evidence that the structure of lake food webs may modify
+the effects of Bythotrephes (Young and Yan 2008), as well
+as invader density (Hovius et al. 2006) and time lag (Yan
+and Pawson 1997) effects. These factors may all preclude a
+single explanation for large components of variation in
+communities with the variables used here.
+Predatory invasive species may have stronger top-down
+influences than native predators, especially early in the
+invasion process. There is evidence that prey naivete´ may
+be particularly prevalent in freshwater systems (Cox and
+Lima 2006), which may allow for stronger immediate
+trophic effects and, therefore, greater potential for trophic
+cascades. Our study was conducted on a landscape of lakes
+in which invasion by Bythotrephes is still actively under
+way, and many of our invaded lakes represent relatively
+recent invasions, and therefore have strong potential for
+top-down effects. Over time, as prey communities are
+shaped by Bythotrephes predation and as prey develop new
+predator-evasion strategies, we expect the observable
+changes to food webs to lessen (Pangle et al. 2007). Despite
+this, time since invasion was not a significant factor in our
+analyses, suggesting that prey communities have not yet
+developed effective responses to invasion.
+Although the results of our cross-lake comparison may
+be somewhat restricted to one region, it is a landscape
+typical of the lake-dominated Boreal Shield biome. Lakes
+cover 10% of the boreal forest globally, occupying roughly
+1.3 3 106 km2 (Molot and Dillon 1996), and . 700,000 of
+these lakes are found in eastern temperate Canada (Minns
+et al. 1990). Bythotrephes continues to spread to a large
+number of lakes (Ontario Federation of Anglers and
+Hunters 2010) in the susceptible low-productivity boreal
+ecozone (Vander Zanden et al. 2003), as well as temperate
+ecozones in northeastern United States (Johnson et al.
+2008), suggesting that greater understanding of the
+complex interactions between invaders and ecosystem
+processes is necessary.
+Our study indicates that invasion can alter the fundamental
+processes in the pelagic zone of freshwater lakes,
+altering interactions between zooplankton and phytoplankton
+trophic levels and between environmental drivers and
+the phytoplankton community. The complexity of intertrophic
+and trophic–environmental interactions suggests
+that simple, general relationships cannot describe or predict
+invader effects at the ecosystem level. Rather, our ability to
+predict future change and manage these vital ecosystems
+will depend on understanding effects within the environmental
+and invasion history context.

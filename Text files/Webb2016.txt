@@ -1,0 +1,516 @@
+xabstract
+Invasive aquatic plants in U.S. lakes and reservoirs
+frequently require managers to implement plant control,
+yet little is known about how these management efforts alter
+habitat available to adult fish. We used a beforeñafter,
+control-impact (BACI) design to study four Minnesota lakes
+(two treated lakes and two untreated control lakes) to
+evaluate the influence of plant management using herbicides
+(i.e., endothall/2,4-D) on diets of adult bluegill (Lepomis
+macrochirus Raf`inesque) over the course of 4 yr. We
+hypothesized that removing plants would result in an
+immediate increase of prey items available to bluegill
+reflected in an increase in total items in the bluegill diet,
+and that an increase in prey items would affect diet breadth.
+Invasive Eurasian watermilfoil, Myriophyllum spicatum L., was
+eliminated following herbicide treatment; however, native
+plants immediately expanded and plant overall abundance
+in the littoral zone was not reduced. We found no
+significant treatment effects on number of prey items per
+stomach, stomach content mass, diet composition, or
+abundance of major diet groups. However, we found that
+diet breadth increased posttreatment in the fall season, as
+evidenced by a more even distribution of bluegill diet items
+in stomach contents. Bluegill diet composition varied across
+years and lakes (primarily due to changes in Cladocera), but
+not due to treatment. We concluded that early seasonal
+application of herbicides resulted in an immediate shift
+from invasive aquatic plants to a diverse native community,
+which had minor effects on diets of bluegill.
+
+
+
+xintroduction
+
+
+Aquatic plants provide many functions, including primary
+production, stabilizing sediments and maintaining
+water clarity, and habitat for zooplankton, macroinvertebrates,
+and numerous fish species (Dibble et al. 1996,
+Carpenter et al. 1998, Diehl and Kornijow 1998). Many
+juvenile and adult fish have been reported in habitats
+containing aquatic plants, often in greater densities than
+areas without plants (Killgore et al. 1989). Moreover,
+younger and smaller fish become more abundant as plant
+density increases (Barnett and Schneider 1974, Borawa et al.
+1979, Moxley and Langford 1982). Macroinvertebrate
+abundances and diversity tend to increase with plant
+biomass and leaf complexity, because leaves and stems
+provide substrate for attachment and protection from
+predators (Gilinsky 1984, Keast 1984, Beckett et al. 1992).
+However, these relationships do not necessarily apply to
+habitats colonized by invasive plant species.
+Motivated by the widespread biological invasions occurring
+in aquatic systems, researchers have long studied effects
+of invasive aquatic plants and their management on systems.
+Although complete plant removal can lead to increased
+turbidity and decreased fish populations (e.g., Mangas-
+Ram¥irez and El¥ias-Guti ¥errez 2004, Parsons et al. 2009) as
+well as regime shifts in lakes (Scheffer and Carpenter 2003),
+researchers have shown that invasive plant removal followed
+by immediate reestablishment of native plants has neutral
+to positive short-term effects on fish and macroinvertebrate
+populations (Bremigan et al. 2005, Kovalenko et al. 2010).
+Establishment of Eurasian watermilfoil, Myriophyllum
+spicatum L., can displace native aquatic plants (Madsen et
+al. 1991) and decrease macroinvertebrate biomass (Keast
+1984, Cheruvelil et al. 2002). Eurasian watermilfoil is a
+highly dissected plant and has a relatively high surface-area
+to plant-mass ratio compared with submerged aquatic
+plants native to the Midwestern United States (Dibble and
+Thomaz 2009). Therefore, it could theoretically provide
+more habitats for macroinvertebrates than native communities
+on average (Krull 1970, Gilinsky 1984, Pardue and
+Webb 1985). However, despite its complexity, Eurasian
+watermilfoil generally supports fewer macroinvertebrates
+per gram of plant than native plant species, and macroinvertebrate
+density decreases with increasing cover of
+Eurasian watermilfoil (Dvorak and Best 1982, Keast 1984,
+Cheruvelil et al. 2002). Eurasian watermilfoil exudes
+allelopathic chemicals, and researchers have shown that
+epiphyton growth is negatively affected by the presence of
+Eurasian watermilfoil (Gross et al. 1996, Nam et al. 2008).
+Because epiphyton is a major food resource for primary
+consumers, allelopathic effects of Eurasian watermilfoil
+likely have an indirect negative effect on macroinvertebrate
+abundance and, as an extension, fish foraging.
+Researchers have also found that the structure of
+Eurasian watermilfoil monocultures influences fish foraging
+(Valley and Bremigan 2002). When Eurasian watermilfoil
+forms extensive homogeneous beds throughout the littoral
+zone, aquatic plants act as barriers to fish movement (Keast
+1984), and these barriers can reduce foraging success (Heck
+and Thoman 1981, Savino and Stein 1982, Dionne and Folt
+1991). The reduction of foraging success is due to an increase in search, encounter, and capture times (Anderson
+1984, Diehl 1988). Crowder and Cooper (1982) found that
+fish in high aquatic plant densities (177 6 10 stems m2) had
+reduced prey capture rates and slower growth rates
+compared with lower plant densities, despite the greater
+biomass of prey available. In another study, prey capture
+rates declined as a result of structural complexity, decreasing
+foraging efficiency as habitat became more spatially
+complex (Harrel and Dibble 2001).
+Change in habitat complexity also affects fish diet,
+including the diversity and evenness of prey items consumed
+(i.e., diet breadth). The directionality of the
+relationship between habitat complexity and diet breadth
+is not clear cut, and depends on fish size, prey use of aquatic
+plants, and prey assemblage. Researchers have found
+evidence to support both that diet breadth widens (e.g.,
+killifish, Vince et al. 1976) and narrows (e.g., pinfish, Stoner
+1982) with increasing habitat complexity. Two distinct
+mechanisms could explain these results. An increase in
+habitat complexity can lead to a wider diet breadth when
+prey becomes less available and a fish has no choice but to
+eat the prey it finds. On the flip side, an increase in habitat
+complexity could lead to only certain prey species being
+available to fish or available in large numbers, therefore
+narrowing a fishís diet breadth (Spotte 2007).
+Removal of aquatic plants can temporarily release prey in
+the environment, thus impacting fish populations (e.g.,
+Bettoli et al. 1993, Trebitz et al. 1997, Bickel and Closs 2009).
+For example, Bickel and Closs (2009) found that macroinvertebrate
+biomass doubled with the mechanical removal of
+the invasive oxygen weed [Lagarosiphon major (Ridl.) Moss]
+and fish abundance increased by 150% in the treated areas.
+Zooplankton density, particularly Cladocera, has been
+shown to increase following plant removal; however, longterm
+population trends depended on trophic dynamics such
+as predation (Richard et al. 1985, Irvine et al. 1989). In
+studies of mechanized removal of Eurasian watermilfoil,
+bluegill (Lepomis macrochirus Raf`inesque) growth was maximized
+when , 50% of plants remained (Trebitz and
+Nibbelink 1996, Trebitz et al. 1997, Olson et al. 1998).
+Researchers have suggested that this level of Eurasian
+watermilfoil removal increases edge habitat, which could
+increase the availability of macroinvertebrates, refuge from
+predators, or a combination of both (Trebitz and Nibbelink
+1996). Pothoven et al. (1999) found that bluegill growth
+increased immediately following herbicide removal of up to
+66% of plant cover and suggested that growth increased as a
+result of either reduced competition for food or increased
+utilization of different food sources. However, to our
+knowledge, researchers have not tried to tease apart these
+effects by investigating the impacts of Eurasian watermilfoil
+removal on adult bluegill diets or looked at effects of plant
+removal on a long-term scale.
+We investigated the hypothesis that, as a result of
+Eurasian watermilfoil removal, there would be a temporary
+release of prey items into the environment, reflected by an
+increase in bluegill diet items and a change in diet breadth.
+We proposed two alternative hypotheses relative to a
+change in diet breadth as a result of herbicide removal of
+Eurasian watermilfoil: (1) a reduction in plant structure
+increases prey availability in general, leading to an increase
+in prey selection and a narrower diet breadth; and (2) a
+decrease in plant structure increases diet breadth as a
+greater diversity of prey becomes available. To test these
+hypotheses, we measured bluegill diet composition before
+and after herbicide removal of Eurasian watermilfoil and
+evaluated changes in bluegill diets immediately and up to 4
+yr following Eurasian watermilfoil removal. Additionally, we
+evaluated the success of aquatic plant removal and the
+establishment of native plants.
+
+
+xmethods
+
+
+Our experiment constituted of four eutrophic lakes
+located in the Minneapolis, MN metropolitan area: Auburn,
+Pierson, and Zumbra (Carver County), and Bush (Hennepin
+County) (Table 1). These lakes ranged in area from 75 to 120
+ha and had maximum depths from 8.5 to 25.6 m (Table 1).
+Lakes were all dominated by Eurasian watermilfoil with a
+surface coverage of at least 80% of the littoral zone (water
+depth  4.5 m), and had a fish assemblage dominated by
+bluegill (Skogerboe and Getsinger 2006). In terms of plant
+composition (besides Eurasian watermilfoil), the lakes also
+contained submergent plants including Ceratophyllum demersum
+(coontail), Potamogetonaceae spp. (pondweeds), Elodea
+canadensis L. (Canadian waterweed); as well as floating leaf
+species including Nymphaea odorata Aiton (white water lily) in
+2003 (Skogerboe and Getsinger 2006). In spring of 2004, a
+low dose of endothall (1 mg/L) combined with 2,4-D (0.5 mg/
+L) was used to control the Eurasian watermilfoil and a small
+percentage of curly leaf pondweed (Potamogeton crispus L.) in
+Bush and Zumbra lakes annually from 2004 to 2007. Auburn
+and Pierson lakes were not treated with herbicide and
+represent the untreated controls.
+Aquatic plant abundance prior to herbicide treatment
+was sampled in the last 2 wk of June and September of 2003
+and posttreatment data were collected in the last 2 wk of
+June and September of 2004 to 2007 (Skogerboe and Getsinger 2006). These sampling times were chosen to
+represent the variation in bluegill prey from early summer
+to early fall (Crowder and Cooper 1982). Plant samples were
+collected with the use of a 36-cm-wide rake on a 3-m pole at
+30 to 35 randomly selected locations within a 50 by 50 m
+grid situated in the littoral zone of each lake. Each sample
+was separated by species and oven dried to a constant mass
+(Skogerboe and Getsinger 2006).
+Bluegill were sampled in each lake, twice a year during the
+first 2 wk of June and September for 5 yr (2003 to 2007) with
+the use of a boat-mounted pulsed DC (250ñ350 V and 6ñ10 A)
+electrofishing unit. In each lake, four areas of the shoreline
+were sampled at night for a total of approximately 2 h of
+electrofishing time per lake in 15 to 20ñmin intervals. By using
+this collection method, we assumed that we would collect
+primarily adult bluegill (i.e., individuals . 75 mm) that had
+transitioned from feeding primarily in plants to open water.
+We randomly selected aminimum of 20 bluegill fromthe field
+collection, measured total length (TL) and body mass, and
+preserved the samples in 10% formalin. Specimens were
+transported to the laboratory at Mississippi State University
+where stomachs were removed and dissected, and contents
+preserved in 70% ethanol and stored until analysis (Bowen
+1983). Macroinvertebrates, zooplankton, and all other stomach
+contents were enumerated during analysis and identified
+to order with the use of Merritt and Cummins (2008) and
+Thorp and Covich (2001).We also measured stomach-content
+mass as an additional estimate of foraging success because of
+the variation in size among taxonomic groups.
+Diet breadth was calculated with the use of Levinís
+normalized B, which is a measure of specificity of resource
+use and has a standardized form, BA (Levins 1968). Diet
+breadth is narrowest when only one resource was represented
+and broadest when equal proportions of each prey item was
+represented in the bluegill diet. BA values are B values
+standardized to be between 0 and 1, 0 being only one resource
+represented and 1 being equal distribution of prey items.
+Statistical analysis
+We used a beforeñafter, control-impact (BACI) sampling
+design and analysis to determine the effect of herbicide
+treatment on fish diets (composition and total items). We
+used a ëëbeyond-BACIíí approach because there were multiple
+sampling times representing both treatment periods and
+types. In other words, the mixed-effects ANOVA model we
+used included three fixed effects: treatment (control and
+impact) and time (before and after) and their interaction.
+Sampling time and site were designated as random effects
+(for details on the beyond BACI model specification see
+Underwood 1994). We calculated the individual BACI
+contrasts with the use of the LS Means Contrast function
+on the interaction factors (treatment 3 time) and recorded
+the estimate, standard error, F ratio, and P value with the
+program JMP 9 (SAS Institute 2010). This process was
+repeated for total invertebrates in the fish stomachs, fish
+stomach content mass, and for each of the diet components
+that made up at least 5% of the fish diets. Additionally, we
+analyzed the total plant abundance data from Skogerboe and
+Getsinger (2006) with the use of the beyond-BACI approach.
+Data that were not normally distributed were log-transformed.
+We chose a º 0.05 as the cutoff for statistical
+significance and adjusted a for multiple tests with the use of
+the Bonferroni correction (e.g., five tests, a º 0.01). To assess
+treatment effects on diet composition as a whole, we used
+multiresponse permutation procedures (MRPP), which calculate
+multivariate differences among predefined groups (in
+this case bluegill diets in each lake before and after
+treatment). We used the S¯renson coefficient as the distance
+measure in the MRPP. We tested significance of the null
+hypothesis that groups were not different with a Monte Carlo
+randomization procedure with 10,000 permutations, P values
+less than 0.05 represented no difference between pre- and
+posttreatment groups. We ran MRPP analyses with PC-ORD
+(version 5, MjM Software Design, Gleneden Beach, OR).
+To describe differences in the composition of bluegill
+diets among treatments and years, we ran a nonmetric
+dimensional scaling (NMDS) analysis. This ordination technique
+conserves rank-order distances of the dissimilarity
+matrix and does not make assumptions about multivariate
+normality. Diet comparisons with the use of nonmetric
+dimensional scaling (NMDS) were based on the relative
+abundance of diet items in bluegill stomachs (n º 40)
+representing each year of sampling in each lake for a total
+of 20 fish sample groups. We included prey and other items
+present in . 5% of the bluegill stomachs in the NMDS
+analysis. We first standardized the data by lake totals in order
+to reduce the influence of outliers. The NMDS was conducted
+with the use of the autopilot method in PC-ORD (McCune
+and Mefford 1999). This method uses the Bray-Curtis
+distance measure, runs 250 iterations on real data, and then
+recommends a solution based on stress values, or ëëbadness of
+fit,íí associated with each dimensionality and whether the
+stability criterion of 0.00001 is met. The analysis is then rerun
+with the best configuration found in the trial runs described
+above with 40 iterations on the real data.
+
+
+xresults
+
+
+Shift in vegetated habitat
+Application of endothall/2,4-D was effective in the
+removal of Eurasian watermilfoil and curly-leaf pondweed.
+After the herbicide application in spring 2004, the biomass
+of invasive plant species decreased to a mean of 2% (6 1%
+SE) of pretreatment levels, whereas native plant biomass
+increased by a mean of 7.5% (6 16% SE) in the second and
+third years following treatment (Figure 1). Once invasive
+plants were removed from the lakes, native species such as
+Chara spp., Elodea canadensis Rich., Najas flexilis (Willd.) Rostk.
+& Schmidt, Polygonom amphibium L., Potamogeton illinoensis
+Morong., Stuckenia pectinata (L.) Bo® rner, Vallisneria americana
+Michx., and Heteranthera dubia (Jacq.) MacMill. returned 1 yr
+after treatment (Skogerboe and Getsinger 2006). Untreated
+control lakes had a mean of 32 and 26 (6 5% SE)
+composition of invasive plants over the course of the
+sampling period (for details on species richness see
+Kovalenko et al. 2010). Total plant biomass (g DM per rake
+sample) did not change as a result of herbicide treatment in
+the treated lakes (Table 2). Bluegill characteristics
+We collected total length (TL) and body mass measurements
+from 522 bluegill collected via boat electrofishing
+from 2003 to 2007. Bluegill TL ranged from 50 to 191 mm
+with an average TL of 126 6 1 mm. Body mass ranged from
+1.9 to 169.5 g with an average mass of 43.9 6 1.2 g. We
+collected 99% adult bluegill; only 12 individuals had a TL ,
+75 mm. Stomach contents were analyzed for a total of 842
+bluegill; 28 or 3.3% of the stomachs were empty.
+Short-term effects on diet
+Across all four lakes we found 18 taxa in bluegill diets
+(Table 3). Two taxa orders (Cladocera and Diptera)
+comprised . 73% of diet items within treated and
+untreated control lakes and 11 were present in at least
+5% of the bluegill samples. We did not find any effect of
+treatment on the number of prey in bluegill stomachs F(1, 8)
+º 1.09, P º 0.33 (Table 2 Figure 2). Neither abundance of
+the dominant prey types nor the stomach content masses
+of bluegill in the treated lakes differed from before and
+after treatment such that the pattern was different from
+the change in untreated control lakes from the first to
+second year (Table 2). According to the MRPP analysis,
+there was also no difference between diet compositions
+before and after treatment in the treated lakes for either
+June or September the year after herbicide application, Pº
+0.42 and 0.45 for Bush and Pº0.07 and 0.07 for Zumbra for
+June and September, respectively.
+Bluegill diet breadth, represented by the standardized
+Levinís BA, broadened between September of 2003 and
+2004 in the treated lakes (Table 4). During the same time
+period, diet breadth narrowed in the untreated control
+lakes. Diet breadth did not widen in the treated lakes
+because of an increase in richness of prey items, but rather
+a more even distribution of prey types represented in the
+diet. In contrast, diet breadth narrowed between June of
+2003 and 2004 in the treated lakes; however, this diet
+breadth also narrowed in the untreated control lakes, and
+therefore was not a significant change due to herbicide
+treatment. Because diet breadth was calculated at the
+population level, both the treated and untreated control
+lakes were only represented by two data points before and
+after treatment; therefore we were unable to assess the
+statistical significance of these differences.
+Long-term effects on diets
+We found no long-term treatment effects on the
+number of prey items; stomach content mass; plant
+biomass; or abundance of Cladocera, Trichoptera, Ephemeroptera,
+Diptera, and Hymenoptera from 2005 until 2007
+(Table 2). The stress value for the NMDS ordination on relative
+abundance of diet items in bluegill stomachs from 2003 to
+2007 was 7.2 for the two-dimensional solution, which is
+considered a good fit according to Clarke (1993). In other
+words, the ordination explained 92.8% of the variance in
+the dissimilarity matrix of the diet samples. The analysis
+required 58 iterations, and the final stability was , 0.00001.
+The proximity of the points (fish samples) and triangles (diet
+items) on the NMDS ordination demonstrates how similar
+the diets of bluegill in each lake and year were with one
+another. A major difference in feeding variability of bluegill
+was the importance of Cladocera (Figure 3). Bluegill diets in
+each lake, independent of treatment type, were constituted
+primarily of Cladocera in at least 1 yr. Bluegill samples that
+were not associated with Cladocera had greater quantities
+of plant material and plant-dwelling macroinvertebrates
+(e.g., Odonata). 
+
+
+xdiscussion
+ Prey abundance
+We did not find evidence to support our hypothesis that
+abundance of prey items in bluegill stomachs would
+increase as a result of Eurasian watermilfoil control and a
+corresponding release of food items into the environment.
+This hypothesis was derived from the negative relationship
+typically found between fish foraging success and habitat
+complexity and the positive effect of Eurasian watermilfoil
+on habitat complexity. In our study, Eurasian watermilfoil
+was successfully controlled and biomass was reduced in
+treated lakes following herbicide treatment at the wholelake
+scale to 2% of preherbicide levels (Skogerboe and
+Getsinger 2006). However, the littoral zone was immediately
+colonized by native plants, which is evident because of the
+lack of difference in plant biomass by treatment type, and
+habitat complexity likely was not reduced to the extent
+necessary to release enough prey items to observe a
+treatment effect. Because adult bluegill (. 75 mm TL)
+primarily feed in open-water habitats and on zooplankton
+(Werner et al. 1981), we would have expected an increase in
+zooplankton (e.g., Cladocera) importance in treated lakes if
+herbicide treatment had resulted in greater areas of open
+water. Although zooplankton was an important food item
+(Cladocera made up . 50% of diet items in both untreated
+control and treated lakes), the relative importance of
+zooplankton varied by season and year, irrespective of
+treatment. These dietary shifts within fish populations could
+be due to effects of bluegill consumption on zooplankton
+dynamics or differences in zooplankton dynamics among
+lakes (Vanni 1987, Mittelbach and Osenberg 1993). Our
+results are consistent with a study by Savino et al. (1992),
+who found that bluegill prey capture rates did not differ at
+plant densities greater than 100 stems m2, even though
+macroinvertebrate densities were greater at increasing
+plant densities.
+Further, our findings contrast with research on largemouth
+bass response to the removal of Hydrilla verticillata,
+another invasive aquatic plant. Researchers found that
+number of prey in largemouth bass diets increased by
+21% within 3 yr of invasive aquatic plant removal and the
+establishment of native plants (Sammons and Maceina
+2006). The difference in effects could be attributed to the
+different foraging strategies of different-sized predators
+and the types of prey consumed by largemouth bass and
+bluegill. Furthermore, time required to establish native
+plants was different for southern reservoirs than for
+northern lakes in our study, which likely influenced the
+effect of aquatic plant removal on fish growth over time.
+Diet breadth
+Although we found that the overall number of prey items
+in bluegill diets was not affected by control of Eurasian
+watermilfoil, the diet breadth of bluegill increased in the fall
+sampling season following treatment. This result provides
+some evidence to support the hypothesis that certain types
+of prey become more available with a decrease in plant
+complexity following Eurasian watermilfoil control, and as a
+result, bluegill would consume a greater variety of prey and
+thus widen their diet breadth. Interestingly, the increase in
+diet breadth in the fall was not due to an increase in types of
+preyótypes of prey actually decreased across both untreated
+control and treated lakes the year after treatmentóbut a
+more even distribution of prey in the bluegill diets. This
+result suggests that other types of desirable prey may have
+become more available to bluegill as plant structure
+changed from complex Eurasian watermilfoil to the simple
+stems of white water lily, for example. According to optimal
+foraging theory, diet breadths widen when the abundance of
+food items decreases, although this theory has been
+criticized for not accurately predicting behavior in many
+circumstances (see review by Pyke 1984). Our study was not
+designed to distinguish between the abundance of food
+items in the environment and diet selection. Therefore it is
+possible that the widening of diet breadth in the fall season
+was due to a decline in food abundance in the treated lakes;
+however, certain studies on fish have shown that diet
+breadth changes irrespective of food abundance (e.g.,
+Hammerschlag et al. 2010). In our study, stomach content
+mass tended to be less in treated lakes than untreated
+control lakes in September 2004 (Figure 4); however, this
+difference was not statistically significant. An examination
+of macroinvertebrate abundance would have been necessary
+to evaluate what was driving the treatment effect on diet
+breadth.
+Diets may have broadened as a result of treatment in the
+fall because of a shift in plant characteristics. Aquatic plants
+provide refuge and food sources for zooplankton and
+macroinvertebrates; however, these affiliations depend on
+the traits of aquatic plants. Eurasian watermilfoil has been
+shown to exude allelochemicals, which could have limited
+the diversity of species living in these plants and thus available for fish (Linden and Lehtiniemi 2005). Also, leaf
+complexity and patterns of senescence likely changed as a
+result of plant community shift to native plants, therefore
+altering the amount of refuge available, allowing fish greater
+access to a variety of species (for example: Amphipods,
+Ostacods, Copepods, and Cladocera). However, the abundance
+of prey in bluegill stomachs varied primarily by
+season and year rather than as a result of herbicide
+treatment. Similarly, in a study of six lakes, Cheruvelil et
+al. (2002) found that most of the variance in macroinvertebrate
+density and biomass was attributed site and seasonal
+effects. Also, in a concurrent study of juvenile fishes,
+Kovalenko et al. (2009) found that fish diets did not vary
+because of an herbicide treatment effect or habitat
+complexity, but rather by lake and season.
+In terms of management, removing aquatic plants can
+increase fish growth; however, this depends on the
+establishment of native plants. Some instances of aquatic
+plant removal have resulted in virtually complete removal
+of vegetation, resulting in fish population declines as well as
+decreased water quality (e.g., Parsons et al. 2009). In our
+study, herbicide treatment was specific for Eurasian watermilfoil
+and did not hinder native plant establishment.
+However, because our study only included lakes with 11 and
+27% invasive plant cover prior to treatment, our results
+may not be applicable to lakes being treated for higher
+levels of infestation. Species-specific herbicide treatment as
+well as targeted efforts to establish native plants following
+invasive species management could reduce negative impacts
+on the fish community. Future research is needed on the
+effects of herbicide treatment of lakes with greater coverage
+of invasive plants and subsequent native plant establishment
+on fish diets.
+CONCLUSION
+We rejected our hypothesis that Eurasian watermilfoil
+control would result in a temporary release of food items in the environment, thus increasing total prey in bluegill diets.
+However, we found evidence to support the hypothesis that
+a decrease in habitat complexity changes the availability of
+certain prey types, resulting in a more even distribution of
+prey items and an increase in bluegill diet breadth. This
+effect was only found in the fall season following herbicide
+treatment, suggesting that this is a temporary effect
+dependent on seasonal cycles of zooplankton and macroinvertebrates.
+Because variation in bluegill diets was mostly
+explained by seasonal and annual differences, plant removal
+does not appear to have a biologically significant impact on
+bluegill diets. Thus, when native plants replace invasive
+aquatic plants immediately, as in this restoration, there are
+relatively small changes to the system, including diet.

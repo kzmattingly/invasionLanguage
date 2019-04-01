@@ -1,0 +1,636 @@
+xabstract
+With ecosystems increasingly supporting multiple
+invasive species, interactions among invaders could
+magnify or ameliorate the undesired consequences for
+native communities and ecosystems. We evaluated the
+individual and combined effects of rusty crayfish (Orconectes
+rusticus) and Chinese mystery snails [Bellamya
+(=Cipangopaludina) chinensis] on native snail communities
+(Physa, Helisoma and Lymnaea sp.) and ecosystem
+attributes (algal chlorophyll a and nutrient concentrations).
+Both invaders are widespread in the USA and commonly
+co-occur within northern temperate lakes, underscoring the
+importance of understanding their singular and joint
+effects. An outdoor mesocosm experiment revealed that
+while the two invaders had only weakly negative effects
+upon one another, both negatively affected the abundance
+and biomass of native snails, and their combined presence
+drove one native species to extinction and reduced a second
+by [95%. Owing to its larger size and thicker shell, adult
+Bellamya were protected from crayfish attack relative to
+native species (especially Physa and Lymnaea), suggesting
+the co-occurrence of these invaders in nature could have
+elevated consequences for native communities. The per
+capita impacts of Orconectes (a snail predator) on native
+snails were substantially greater than those of Bellamya (a
+snail competitor). Crayfish predation also had a cascading
+effect by reducing native snail biomass, leading to
+increased periphyton growth. Bellamya, in contrast,
+reduced periphyton biomass, likely causing a reduction in
+growth by native lymnaeid snails. Bellamya also increased
+water column N:P ratio, possibly because of a low P
+excretion rate relative to native snail species. Together,
+these findings highlight the importance of understanding
+interactions among invasive species, which can have significant
+community- and ecosystem-level effects.
+xintroduction
+Biological invasions are widely recognized as a significant
+component of anthropogenic environmental change (Elton
+1958; Vitousek et al. 1997; Byers et al. 2002). Worldwide
+increases in the number and geographic extent of invasions
+represent a major threat to native biodiversity in freshwater
+ecosystems, which collectively have higher rates of species
+endangerment and extinction than terrestrial or marine
+environments (Ricciardi and Rasmussen 1998; Dudgeon
+et al. 2006). In the US alone, more than 900 non-indigenous
+species have been introduced into inland waters and
+are collectively responsible for significant economic and
+ecological damage (Pimental et al. 2000; http://nas.er.usgs.
+gov/). Although research on biological invasions is often
+weighted toward terrestrial ecosystems (e.g., Puth and Post
+2005), the importance of understanding and preventing
+Communicated by Craig Osenberg.
+P. T. J. Johnson (&)
+Ecology and Evolutionary Biology, University of Colorado,
+Ramaley N122, Boulder, CO 80309-0334, USA
+e-mail: pieter.johnson@colorado.edu
+J. D. Olden
+School of Aquatic and Fishery Sciences,
+University of Washington, Box 355020,
+Seattle, WA 98195, USA
+C. T. Solomon  M. J. Vander Zanden
+Center for Limnology, University of Wisconsin,
+680 North Park Street, Madison, WI 53706-1492, USA
+123
+Oecologia (2009) 159:161ñ170
+DOI 10.1007/s00442-008-1176-x
+non-indigenous species introductions in aquatic systems is
+underscored by the increasing number and rate of freshwater
+invasions, the high endemicity of freshwater
+ecosystems, and the importance of freshwater for human
+health and the economy.
+Despite recent progress in invasion biology, a more
+complete understanding of invader impacts and the mechanisms
+through which they occur is essential to effective
+management and remediation of biological invasions. From
+well-studied cases, it is clear that invasions can lead to
+broad-scale changes in native populations, community
+structure, and ecosystem processes. High-profile examples
+in freshwaters include invasions by Nile perch in Lake
+Victoria, zebra mussels in North America (Johnson et al.
+2006), spiny water fleas in Canada (Yan et al. 2002),
+American bullfrogs in the western USA (Hayes and Jennings
+1986) and salt cedar (Tamarix spp.) in riparian areas
+of the southwest (Stromberg et al. 2007). For most invaders,
+however, our knowledge regarding specific ecological
+impacts remains limited (Pys?ek et al. 2008), particularly at
+scales extending beyond the population level (see Parker
+et al. 1999). When community or ecosystem-level changes
+are associated with an invasion, the direct and indirect
+mechanisms responsible are often unknown or confounded
+by other forms of environmental change, precluding identification
+of the invaderís role in observed shifts. This
+situation may severely undermine our ability to forecast
+how future increases or decreases (e.g., through eradication
+efforts) in invader abundances are likely to influence ecosystem
+conditions (Strayer et al. 2006).
+As the number of biological invasions continues to
+increase, many ecosystems now support multiple nonindigenous
+species; for some environments and taxa,
+introduced species now outnumber native species (e.g., San
+Francisco Bay, California). Complex interactions among
+this ëëcocktailíí of invaders can lead to a diversity of outcomes
+for native species and ecosystems, many of which
+are difficult to predict a priori (Grosholz et al. 2000;
+Crooks 2002; Bruno et al. 2005). Invaders may negatively
+affect one another through competition and/or predation,
+reducing or minimizing their joint impacts on native biota
+(Ross et al. 2004). In other cases, invaders may have no
+effect on each other (e.g., Cope and Winterbourn 2004) or
+exhibit facilitative interactions, increasing their ecological
+impacts and promoting establishment and spread (e.g.,
+Ricciardi 2001; OíDowd et al. 2003; Grosholz 2005).
+Because of the potentially complex interactions among
+invaders, experimental research to identify how invaders
+interact and their consequences for native communities and
+ecosystems is particularly valuable (e.g., Kiesecker and
+Blaustein 1998). Such efforts may be especially insightful
+in freshwater environments (see Lodge et al. 1994), where
+experimental approaches to understanding the multi-scale
+effects of invasive species have historically been underrepresented
+(Parker et al. 1999; Adams et al. 2003).
+Here we experimentally investigated the individual and
+combined effects of two widespread freshwater invaders in
+the US, the omnivorous rusty crayfish (Orconectes rusticus)
+and the herbivorous Chinese mystery snail (Bellamya
+chinensis), on community and ecosystem properties of a
+benthic food web. We used mechanistic experiments to
+address the following questions:
+1. What are the individual and combined effects of
+Chinese mystery snails and rusty crayfish on native
+snail growth, survival and reproduction?
+2. How do these invasive species affect one another?
+3. What are the direct and indirect consequences of these
+invaders for algal growth and nutrient availability?
+We focused on the response of native snails to invasion
+because of their importance in benthic food webs and
+because of their potential sensitivity to invasive crayfish
+(predators) and snails (competitors) (e.g., Dillon 2000;
+Carlsson et al. 2004). The rusty crayfish and the Chinese
+mystery snail are both widespread among inland lakes in
+the Laurentian Great Lakes region. While the impacts of
+rusty crayfish have been the subject of extensive research
+in northern temperate lakes (Lodge et al. 1994; Hein et al.
+2006; McCarthy et al. 2006), no studies have addressed
+ecological effects of Bellamya or the interactions between
+these invaders. By examining the joint effects of an invasive
+predator and an invasive herbivore on the community
+and ecosystem properties of freshwater environments, this
+study aims to advance our understanding of multi-invader
+interactions. Given the larger size and thicker shell of
+Bellamya relative to native freshwater snails, we expected
+that it would be resistant to predatory crayfish, creating
+potential for multi-invader facilitation.
+xmethods
+The rusty crayfish (Orconectes rusticus, hereafter ëëOrconectesíí;
+Fig. 1) has expanded its distribution over the last
+50 years from its historical range in the Ohio River
+drainage to waters throughout at least 18 US states,
+Ontario, Quebec, Manitoba and the Laurentian Great Lakes
+(Olden et al. 2006). Vectors of rusty crayfish introduction
+include bait bucket discharge by recreational anglers,
+intentional releases by lake-users for nuisance weed control
+and commercial crayfish retailers, and natural inter-lake
+dispersal. In Wisconsin, Orconectes captures have
+increased from 7% of all crayfish records collected during
+the first 20 years of their invasion to 36% of all records during the most recent 20 years (Olden et al. 2006). Orconectes
+can have substantial impacts on invaded
+freshwater ecosystems by feeding on organisms from
+multiple trophic levels, including benthic algae, macrophytes,
+invertebrates, snails, native congeners and fish
+(e.g., Lodge et al. 1994; McCarthy et al. 2006).
+The Chinese mystery snail [Bellamya (=Cipangopaludina)
+chinensis, hereafter ëëBellamyaíí] is a very large (up
+to 64 mm) viviparid snail native to Asia that was first
+observed in North America in the 1890s (Fig. 1; Clench
+and Fuller 1965; Jokinen 1982). The taxonomy of this
+group is incompletely resolved, and we follow Smith
+(2000) in using the genus name Bellamya (rather than the
+traditional Cipangopaludina). Bellamya was almost certainly
+introduced to the US multiple times through the
+aquarium trade or for culinary purposes (Mackie 1999),
+and is now widely distributed in lentic and slow-moving
+lotic water bodies across North America, including 27 US
+states and all of the Great Lakes (Clench and Fuller 1965;
+Dundee 1974; Jokinen 1982; Strayer 1987; Bury et al.
+2007; http://nas.er.usgs.gov/). In Wisconsin, Bellamya was
+first recorded in the 1950s (Teskey 1954). These snails
+prefer muddy or sandy substrates, where they feed predominantly
+on epiphytic benthic algae, especially diatoms
+(Jokinen 1982). While little is known about its ecological
+significance or impacts on native fauna and flora, Bellamya
+can achieve very high densities in invaded lakes ([40 m-2
+,
+P. T. J. J., unpublished data; Branson 1977), and were
+reportedly removed from Lake Erie by the ton during the
+1960s (Mills et al. 1993). Considering their often substantial
+biomass and the general importance of snails as
+benthic herbivores, we hypothesized that Bellamya would
+have ecologically significant effects on invaded communities
+and ecosystems (Carlsson et al. 2004; Bury et al.
+2007).
+Available field data indicate that these two invaders
+frequently co-occur. A compilation of unpublished surveys
+conducted by the Wisconsin Department of Natural
+Resources (WDNR), the Great Lakes Indian Fish and
+Wildlife Commission, and the University of Wisconsinó
+Madison includes 550 and 266 water bodies sampled for
+Orconectes and Bellamya, respectively. Records were
+included only when detection and non-detection data were
+available and when invader occurrences were recorded by
+trained biologists or through vouchered specimens (see
+Johnson et al. 2008 for a complete description of the
+database). Among the 242 lakes sampled for both invaders,
+Bellamya occurred in 33.5%, Orconectes in 36.4%, and the
+invaders co-occurred in 18.2% of lakes (Fig. 1). While
+lakes were not sampled randomly (see Johnson et al. 2008),
+these data nevertheless suggest that both invaders are
+widespread in Wisconsin and that they frequently co-occur.
+The larger size and thicker shell of Bellamya relative to
+native snails indicate that it is likely more resistant to
+crayfish predation, suggesting the co-occurrence of these
+invaders may have important impacts on native
+communities.We conducted a 2 9 2 experiment manipulating the presence
+of Bellamya and Orconectes to evaluate their individual and combined effects on native snail communities,
+algal growth and water column nutrient
+concentrations (N and P). The experiment was conducted
+over an 8-week period in 24 outdoor mesocosms (1,200 l)
+randomly assigned to one of the following treatments: (1)
+native snails only, (2) native snails with Bellamya, (3)
+native snails with Orconectes, and (4) native snails with
+both invaders (six replicates per condition). Mesocosms
+were made of structural foam plastic and measured
+1.6 9 1.7 m with a fill height of 0.5 m. While not equivalent
+to ecosystem-level manipulations, mesocosm studies
+can provide important insights about mechanistic interactions
+in aquatic food webs, including snailñpredator
+interactions (e.g., Nystro®m et al. 1999; Turner and Chislock
+2007). Prior to initiating the experiment, we seeded each
+mesocosm with *1,000 l lake water, 18 kg commercial
+ëëplay sandíí and 27 kg coarse (1.9 cm diameter) gravel as
+substrate, two cinderblocks as refugia, and 28 g CaCO3 to
+ensure sufficient Ca for shell growth. To provide inocula of
+algae and zooplankton, we added 150 ml lake mud and
+100 ml concentrated zooplankton (dominated by Daphnia
+pulicaria) to each mesocosm. We supplemented nutrient
+levels by adding 1.40 g NH4NO3 and 0.097 ml of 85%
+H3PO4 (initial concentrations of *450 lg l-1 N and
+*50 lg l-1 P). Otherwise water chemistry mirrored
+Sparkling Lake, Vilas County, Wisconsin during June 2006
+(see http://www.limnology.wisc.edu/). Mesocosms were
+covered with nylon mesh lids (1 mm mesh size) designed
+to permit sunlight while minimizing colonization by
+unintended fauna and flora.One week after establishing mesocosms, we added 45
+individuals of each of the following native snail species:
+Physa gyrina (hereafter ëëPhysaíí, mean shell length ± 1
+SE = 7.3 ± 1.5 mm), Helisoma trivolvis (hereafter
+ëëHelisomaíí, 12.8 ± 1.0 mm) and Lymnaea stagnalis
+(hereafter ëëLymnaeaíí, 25.3 ± 3.7 mm). These species
+occur commonly in lakes within the Northern Highlands
+Region of Wisconsin (Lewis and Magnuson 2000) and
+represent three pulmonate families with varying life history
+strategies: Physidae, Planorbidae and Lymnaeidae. For
+mesocosms assigned to invader treatments, we added 45
+Bellamya (27.2 ± 3.5 mm) and/or two Orconectes
+(32.1 ± 0.4 mm carapace length). These densitiesó
+approximately 10 snails m-2 and 0.2 crayfish m-2
+óare
+within the range normally observed in northern Wisconsin
+(Lewis and Magnuson 2000; Hein et al. 2006). Independent
+subsets of snails (n = 30 per species) and crayfish
+(n = 10) were individually measured, dried (60C for
+1 week), and weighed (shell and tissue). Because trematode
+parasite infections can be common in gastropods, with
+significant effects on snail behavior and reproduction (e.g.,
+Bernot 2003), we also dissected a subset (n[50) of snails
+in each species to ensure the rarity of potentially confounding
+infections.During weeks 2 and 7 of the experiment, we measured water
+nutrient concentrations (N and P) and periphyton chlorophyll
+a levels on the mesocosm walls and on the sediment.
+In each mesocosm, water collected from three locations
+(using a 1.3-l tube sampler) was pooled, filtered (53 lm),
+and analyzed for total N and P using a persulfate digestion
+(see http://lter.limnology.wisc.edu/protocols. html).
+Periphyton was removed with a razor blade from 5-cm
+strips of flagging tape attached to the mesocosm walls (see
+Johnson et al. 2007). Sediment periphyton was collected
+and pooled from four locations within each mesocosm using
+a modified 60-ml syringe to quickly draw up the upper
+*2 cm of sediment. Chl-a for mesocosm wall periphyton
+and sediment algae was analyzed after methanol extraction
+(see http://lter.limnology.wisc.edu/protocols.html). After 8
+weeks, we drained the water from each mesocosm and
+enumerated snails and crayfish. Snails were weighed
+(aggregated wet mass) and individually measured. Crayfish
+were measured, dried (60C for 1 week), and weighed.We measured rates of N and P excretion for each snail
+species in each treatment condition (except when insuffi-
+cient numbers of snails remained alive due to crayfish
+predation). We placed a fixed number of snails into darkened,
+acid-washed containers with a known volume of
+water (Bellamya, four snails in 1.0 l; Helisoma and Lymnaea,
+ten snails in 0.2 l; and Physa, 40 snails in 0.1 l). After
+1 h, we removed and weighed snails, collected excreted
+particles on pre-ashed and weighed glass fiber filters
+(1.0 lm pore size), and kept 100 ml filtrate. Filters were
+dried (60C) to constant weight and, along with the filtrate,
+analyzed for total N and P using the persulfate digestion
+method.
+
+We analyzed the effects of Bellamya, Orconectes and their
+interactions on the final abundance and wet mass of each
+native snail species using multivariate ANOVA (MANOVA)
+(log10-transformed ? 1 values; Quinn and Keough
+2002). When evaluating the combined effects of two or
+more species, it is important to consider whether their
+effects should be strictly independent (i.e., the joint effects
+of both species on some response variable is simply the sum of their individual effects when isolated) or may
+instead be non-independent (greater or less than the sum of
+their individual effects) (e.g., Wootton 1994; Sih et al.
+1998). We evaluated whether effects of the two invasive
+species were independent using a two-way factorial
+ANOVA after log10-transforming snail densities (see
+Wootton 1994; Vonesh and Osenberg 2003; Fournier et al.
+2006). We interpret a significant interaction term as indicating
+that the effect of the two invaders is nonindependent.
+Although the addition of a constant (e.g., ?1)
+to deal with zero values prior to log-transformation can
+alter this underlying biological relationship, this change is
+proportionately small (for our data) and unlikely to affect
+the results.
+The effects of each invader on periphyton chlorophyll a
+levels (sediment and mesocosm walls), the N:P ratio in the
+water column, and on one another (size and/or abundance
+of the co-occurring invader) were evaluated using repeated-measures
+(RM) MANOVA. This analysis explicitly
+compared the value of each response variable between
+weeks 2 and 7 and among treatments. Finally, because the
+two invaders were stocked at different initial densities and
+biomasses, comparison of their effects on native species
+required calculation of an adjusted impact value (see Parker
+et al. 1999), in which the effects of each invader were
+converted to a per capita estimate as follows:
+Iij º DNij  DNiﬁ
+Bj
+where Iij is the impact of invasive species j on the abundance
+of native species i, DNij is the average change in
+native species i abundance in treatments with invader j,
+DNi is the average change in native species i abundance or
+biomass in the absence of either invader, and Bj is the
+average abundance of invader j during the experiment. In
+this manner, we examined the impact of each invader relative
+to the change in native snail abundance in the absence
+of the invaders.
+
+xresults
+Results of the mesocosm experiment indicated that both
+invaders negatively affected native snail abundance
+(Fig. 2a; MANOVA, Bellamya, Wilksí k = 0.56,
+F3,18 = 4.80, P = 0.013; Orconectes, Wilksí k = 0.09,
+F3,18 = 64.72, P\0.0001). Bellamya negatively influenced
+the abundance of Lymnaea (ANOVA, F1,20 = 14.32,
+P = 0.001), whereas Orconectes strongly reduced the
+abundance of both Lymnaea and Physa (ANOVA, Lymnaea,
+F1,20 = 173.4, P\0.0001; Physa, F1,20 = 35.56,
+P\0.0001). Physa abundance increased by 110% in the
+absence of invaders, increased by 17% with Bellamya only,
+and declined by [60% when Orconectes was present
+(alone or with Bellamya) (Fig. 2a). We also found a significant
+Orconectes-by-Bellamya interaction on Lymnaea
+abundance (ANOVA, F1,20 = 5.28, P = 0.03). Lymnaea
+abundance remained steady in the native treatment, but
+declined by 32% with Bellamya, and by 90% with Orconectes;
+Lymnaea went extinct in the combined invader
+treatment (Fig. 2a). Based on a model of independent
+enemy effects (e.g., Wootton 1994; Sih et al. 1998; Vonesh
+and Osenberg 2003), the expected decrease in the presence
+of both invaders was approximately 67% (i.e., less than the
+observed 100% reduction), suggesting that the presence of
+both invaders led to risk enhancement. Neither invader
+significantly affected the abundance of Helisoma, which
+declined sharply regardless of treatment condition. While
+both invaders affected the three native species similarly,
+the per capita effects of predatory crayfish (n = 2 per
+mesocosm) were consistently greater than those of Bellamya
+(n = 45 per mesocosm) (Fig. 3).
+Bellamya and Orconectes had similarly negative effects
+on the final wet mass of native snail species (Fig. 2b;
+MANOVA, Bellamya, Wilksí k = 0.17, F3,18 = 28.69,
+P\0.0001; Orconectes, Wilksí k = 0.003, F3,18 =
+1,845.02, P\0.0001). In the absence of either invader,
+Lymnaea mass increased by 91%; however, it decreased by
+7% with Bellamya and by[85% with Orconectes (alone or
+with Bellamya) (Bellamya on Lymnaea, F1,20 = 56.33,
+P\0.0001; Orconectes on Lymnaea, F1,20 = 3867.2,
+P\0.0001). Similarly, Physa mass increased by 20%
+in the native snail treatment, decreased by 24% with
+Bellamya, and decreased by[95% with Orconectes (alone
+or with Bellamya) (Bellamya on Physa, F1,20 = 6.66,
+P = 0.018; Orconectes on Physa, F1,20 = 395.28,
+P\0.0001). The observed declines in Lymnaea mass
+associated with Bellamya were due to changes in both
+survival and growth, as the log10-transformed mean sizes of
+Lymnaea (but not of Physa or Helisoma) from Bellamya
+treatments were smaller than in the native treatments
+(MANOVA, Wilksí k = 0.102, F3,8 = 23.56, P\0.0001;
+ANOVA on Lymnaea, F1,10 = 35.07, P\0.0001). Too
+few native snails remained in the Orconectes treatments to
+evaluate the effect of crayfish on snail growth. Neither
+invader significantly influenced changes in the wet mass of
+Helisoma, which declined in all treatments.
+We found a significant interactive effect of Bellamya
+and Orconectes presence on Lymnaea biomass (Bellamya
+9 Orconectes, F1,20 = 34.29, P\0.0001), such that
+the effect of each invader was strongest in the absence of
+the other. However, this effect likely resulted from the fact
+that crayfish presence alone strongly ([95%) reduced
+Lymnaea biomass, and the added effects of Bellamya were
+therefore minimal, even though Lymnaea went extinct
+when both invaders were present. The combination of both
+invaders could not drive biomass below zero.
+Bellamya and Orconectes had negative or neutral effects
+upon each other. Orconectes caused a decline in Bellamya
+abundance but not in wet mass (Fig. 4; MANOVA, Orconectes
+on Bellamya, Wilksí k = 0.110, F2,9 = 36.36,
+P\0.0001; wet mass, F1,10 = 0.97, P = 0.349; abundance,
+F1,10 = 69.29, P\0.0001). Overall, this result
+owed to the reduced abundance of small, juvenile Bellamya
+in the presence of Orconectes, likely as a result of either
+predation or lower reproductive output. For Orconectes, all
+crayfish survived for the duration of the experiment, and
+the presence of Bellamya had no significant effects on
+either the final size or mass of crayfish (averaged between
+individuals within the same mesocosm) (Fig. 4; ANOVA,
+P[0.05).
+Effects of invaders on chlorophyll a and nutrient
+concentrations
+Both invaders significantly influenced algal growth within
+the mesocosms but in opposing directions (RM-MANOVA,
+Bellamya, Wilksí k = 0.325, F3,18 = 12.49, P\0.0001;
+Orconectes, Wilksí k = 0.269, F3,18 = 16.32, P\0.0001).
+Bellamya caused a decrease in sediment periphyton and a
+marginally significant decrease in wall periphyton (ANOVA, sediment, F1,20 = 9.531, P = 0.006; wall
+periphyton, F1,20 = 3.237, P = 0.087), whereas Orconectes
+presence substantially increased periphyton chlorophyll a
+(Fig. 5a, b; ANOVA, F1,20 = 19.47, P\0.0001). We also
+observed a time-by-Bellamya-by-Orconectes interaction on
+periphyton chlorophyll a (ANOVA, F1,20 = 5.07,
+P = 0.036), such that Bellamya reduced wall periphyton
+only in the absence of Orconectes (Fig. 5a). Bellamya also
+caused significant increases in the molar ratio of N to P in the
+water column, whereas Orconectes had no detectable effects
+on nutrient concentrations (Fig. 5c; MANOVA, time 9
+Bellamya, Wilksí k = 0.750, F3,18 = 6.672, P = 0.018).
+Results of the snail excretion trials suggest that this effect
+may be due to a low rate of P excretion by Bellamya relative
+to native snails (Fig. 5d). Thus, the high biomass of Bellamya
+in combination with their low P excretion rates may
+reduce the amount of biologically available P and increase
+the N:P ratio
+xdiscussion
+Many ecosystems now support multiple invasive species,
+and some have been invaded by hundreds of non-native
+plants, animals, and micro-organisms (e.g., Ruiz et al. 2000;
+Ricciardi 2001; OíDowd et al. 2003; Grosholz 2005). Past
+studies of species introductions largely emphasized invader
+impacts on particular taxa, focusing on conspicuous species
+or species that cause dramatic ecological impacts (Parker
+et al. 1999; Grosholz et al. 2000; Pys?ek et al. 2008). As a
+result, we know comparatively little about how the effects
+of individual invaders may be attenuated or amplified as a
+result of interactions with other invaders, making the net
+consequences of biological invasions difficult to predict
+(Bruno et al. 2005). Field-based efforts need to be supplemented
+with experiments that examine the individual and
+combined effects of multiple invaders at several ecological
+scales, ranging from individuals to ecosystems (Ricciardi
+2003; Strayer et al. 2006).
+Results of our experiment demonstrate that, within
+experimental mesocosms, realistic densities of Bellamya
+and Orconectes each have significant effects on native snail
+communities and ecosystem properties. Relative to control
+treatments, rusty crayfish reduced the biomass of native
+Lymnaea and Physa snails by [90%, consistent with previous
+field studies illustrating the predatory effects of
+invasive crayfish (Lodge et al. 1994; McCarthy et al. 2006).Competition by herbivorous Chinese mystery snails also
+caused substantial declines in the growth and abundance of
+native snails (Fig. 2). Despite this speciesí long invasion
+history, broad distribution within North America, and often
+high biomass within invaded environments, we are not
+aware of any previous study that has examined its ecological
+impacts.
+We found evidence that the dual effects of both invaders
+on native snails were as severe as or worse than were their
+individual effects. Importantly, Bellamya and Orconectes
+had only weakly negative effects upon each other. With its
+large size and thick shell, Bellamya was substantially less
+vulnerable to crayfish predation than were Physa and
+Lymnaea (see also Osenberg and Mittelbach 1989; Brown
+1998). As a result, the combination of both invaders had
+sharply negative effects on these native snails. The presence
+of both invaders led to risk enhancement for Lymnaea,
+such that Lymnaea was completely extirpated from all
+replicates in which Orconectes and Bellamya co-occurred
+but persisted (albeit at lower densities) when faced with
+either invader in isolation. Similarly, the biomass of Physa
+declined by[98% when confronted with both invaders. In
+contrast, Bellamya abundance declined by less than 15% in
+the presence of Orconectes, and biomass showed little
+change (\3%). With respect to Lymnaea and Physa biomasses,
+however, the combined presence of Bellamya and
+Orconectes led to risk reduction. This can likely be
+attributed to two factors. First, Bellamya negatively affected
+native snails indirectly through competition for
+resources; the presence of predatory crayfish, however,
+sharply reduced native snail density, thereby lessening the
+strength of competition between native and invasive snails
+and thus the effect of Bellamya. Second, because Orconectes
+often reduced native snail biomass by[90%, it was
+impossible for Bellamya to additionally drive this biomass
+below zero. We emphasize that a more complete understanding
+of the biological interactions between Bellayma
+and Orconectes could be achieved using a larger experimental
+scales (e.g., in situ experiments).
+Overall, these results may help to explain why Bellamya
+and Orconectes frequently co-occur among Wisconsin
+lakes. This pattern likely reflects that both species are
+invading similar types of environments and/or the conditions
+created by one species may be conducive to
+establishment of the second invader. Lakes in our study
+region are subjected to increased human activity and disturbance,
+which likely lead to greater propagule pressure
+and enhanced probability of establishment success for both
+species (Havel et al. 2005; Johnson et al. 2008). However,
+because rusty crayfish reduce native snail abundance
+(Lodge et al. 1994; McCarthy et al. 2006; this study) with
+only limited effects on Bellamya, crayfish invasions could
+also indirectly facilitate the subsequent establishment and
+spread of Bellamya by weakening competition for algal
+resources. In a similar example, the non-native amethyst
+gem clam (Gemma gemma) expanded its range in San
+Francisco Bay only after the invasion of European green
+crab (Carcinus maenas), which preferentially consumes
+native clams (Grosholz 2005). However, because rusty
+crayfish also had weakly negative effects on Bellamya,
+particularly with respect to production of new snails, the
+net benefit conferred by such predator-mediated competition
+is not resolved.
+Although predatory rusty crayfish had substantially
+greater per capita effects on native species than did Bellamya
+(a competitor), both invaders affected the three
+native snail species in a similar fashion, with the strongest
+effects on Physa, followed by Lymnaea, then Helisoma.
+Neither invader, however, significantly affected the density
+or biomass of Helisoma, which declined sharply in all
+treatments (including the control). These patterns may
+result from ecological trade-offs between predation resistance
+and resource competition. Physa and Lymnaea have
+thin shells that offer little protection against crayfish
+(Brown 1998; Nystro®m and Perez 1998; Nystro®m et al.
+1999; Rundle and Bro®nmark 2001), but are more adapted to
+rapidly convert available resources into growth and
+reproduction. Both species increased significantly in either
+abundance (Physa) or growth (Lymnaea) in the control
+treatment, but declined in the presence of either invader. In
+contrast, the thick shell of Helisoma affords greater protection
+from crayfish and fish predators (Stein et al. 1984;
+Osenberg and Mittelbach 1989; Brown 1998; Rundle and
+Bro®nmark 2001); competition with the other native snails
+for algal resources may have prevented this species from
+increasing significantly, even in the absence of either
+invader. However, this does not explain why Helisoma
+failed to increase in abundance or biomass in the presence
+of crayfish, which reduced the abundance of other native
+snails.
+Our experimental results underscore the importance of
+individual and interactive effects of invasive species on
+community and ecosystem properties. Orconectes substantially
+increased the amount of periphyton, most likely as an
+indirect result of a trophic cascade: crayfish predation
+reduced the abundance of grazing native snails, thereby
+increasing the amount of periphyton in the system. Similar
+results from crayfish predation have been reported by Nystro®m
+et al. (1999, 2001). Grazing by Bellamya, in contrast,
+negatively affected periphyton levels on the mesocosm
+walls and especially the sediment, where Bellamya were
+most commonly observed during the experiment. Bellamya
+also increased the ratio of total N to P in the water column,
+which can have important effects on algal community
+structure in natural systems. We suggest this intriguing
+finding may be explained, in part, by results of the snail excretion trials. Per unit dry mass, Bellamya excreted less P
+in dissolved or particulate form than any of the three native
+snail species, suggesting that the tissues of this invader
+might represent a ëësinkíí for P, reducing its availability in
+the environment and thereby increasing the N:P ratio.
+Similarly, Evans-White and Lamberti (2006) reported that
+consumer identity could influence nutrient recycling, likely
+via differences in excretion patterns. Given the importance
+of N:P in ecological stochiometry and in controlling algal
+growth, additional experimental and field efforts are needed
+to clarify and substantiate this finding and evaluate its
+significance. Carlsson et al. (2004) found that introduced
+apple snails in Southeast Asia can drive wetlands from a
+macrophyte-dominated, clear water state to a turbid,
+phytoplankton-dominated state with concomitant shifts in
+the biological community, highlighting the potential significance
+of invasive snails on ecosystem condition.
+Our findings highlight the potential importance of
+interactions between Bellamya and Orconectes in affecting
+native snail communities. As found in several previous
+studies, predation by invasive crayfish sharply reduced
+native snail biomass (Lodge et al. 1994; Nystro®m et al.
+1999, 2001); by virtue of its large size and thick shell,
+however, Bellamya was relatively unaffected by Orconectes,
+but did have significant competitive consequences
+for two of the three native snail groups. How results from
+these experimental systems scale up to entire lake ecosystems
+is an important but as of yet unanswered question.
+Given that these experimental communities included only a
+subset of the possible native benthic species and single
+initial density of each invader, we fully expect that the
+patterns observed here will vary both within and among
+larger lake ecosystems. Broad-scale field surveys, preferably
+in combination with in situ experiments, represent an
+important next step in definitively assessing the effects of
+each invader and their interactions in nature.
+Quantifying the impact of biological invasions is a
+complex and challenging endeavor (Strayer et al. 2006).
+Our findings highlight the importance of quantifying the
+direct and indirect interactions among invasive species.
+The need for ecologists to address such questions is
+underscored by the now commonplace occurrence of
+multiple invaders within many ecosystems. Identifying the
+multi-trophic impacts of biological invasions is a particularly
+pressing issue in freshwater ecosystems, which have
+endured widespread invasions by non-indigenous species
+and exhibit high levels of species imperilment and
+extinction risk.

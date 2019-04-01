@@ -1,0 +1,1427 @@
+xabstract
+
+
+We assessed changes in Lake Ontario zooplankton biomass, production, and community composition before
+
+(1987ñ1991) and after (2001ñ2005) invasion-induced ecosystem changes. The ecosystem changes were
+
+associated with establishment of invasive dreissenid mussels and invasive predatory cladocerans (Bythotrephes
+
+and Cercopagis). Whole-lake total epilimnetic plus metalimnetic zooplankton production declined by
+
+approximately half from 42.45 (g dry wt∑m-2∑year-1) during 1987ñ1991 to 21.91 (g dry wt∑m-2∑year-1) in
+
+2003 and averaged 21.01 (g dry wt∑m-2∑year-1) during 2001ñ2005. Analysis of two independent data sets
+
+indicates that the mean biomass and biomass proportion of cyclopoid copepods declined while the same
+
+measures increased for the invasive predatory cladocerans. Changes in means and proportions of all other
+
+zooplankton groups were not consistent between the data sets. Cyclopoid copepod biomass and production
+
+declined by factors ranging from3.6 to 5.7. Invasive predatory cladoceran biomass averaged from5.0% to 8.0% of
+
+the total zooplankton biomass. The zooplankton community was otherwise resilient to the invasion-induced
+
+disruption as zooplankton species richness and diversity were unaffected. Zooplankton production was likely
+
+reduced by declines in primary productivity but may have declined further due to increased predation by
+
+alewives and invasive predatory cladocerans. Shifts in zooplankton community structure were consistent with
+
+increased predation pressure on cyclopoid copepods by alewives and invasive predatory cladocerans. Predicted
+
+declines in the proportion of small cladoceranswere not evident. This study represents the first direct comparison
+
+of changes in Lake Ontario zooplankton production before and after the invasion-induced disruption andwill be
+
+important to food web-scale investigations of invasion effects. xintroduction During the 1990s, invasive species disrupted the Lake Ontario food
+
+web (Mills et al., 2003; O'Gorman et al., 2008; Stewart et al., 2009). The
+
+disruption may have changed the zooplankton community. Some of the
+
+changes have been documented (Johannsson, 2003;Warner et al., 2006;
+
+Holeck et al., 2008), but to date, analyses have been insufficient to allow
+
+for comparison of whole-lake scale changes in annual zooplankton
+
+production associated with invasion. Previous studies only examined
+
+changes to zooplankton production up to 1995 (Rand et al., 1995; Kuns
+
+and Sprules, 2000; Johannsson, 2003). Additionally, Rand et al. (1995)
+
+concluded that the consumptive demand of planktivorous prey fish
+
+paradoxically exceeds zooplankton production in Lake Ontario by a
+
+factor of 1.7, without accounting for invertebrate consumption of
+
+zooplankton, suggesting possible underestimation of zooplankton
+
+production.
+
+Studies have yet to fully examine changes to Lake Ontario
+
+zooplankton species richness and diversity associated with developing
+
+populations of the predatory cladocerans Cercopagis pengoi and
+
+Bythotrephes longimanus. Earlier assessments excluded Lake Ontario as
+
+Bythotrephes abundance was low (Makarewicz and Jones, 1990;
+
+Johannsson et al., 1991; Barbiero and Tuchman, 2004). Since that
+
+time, Bythotrephes abundance remains low, but Cercopagis has become
+
+well established (Holeck et al., 2008). In Lake Michigan, predation by
+
+alewife is likely limiting Bythotrephes abundance but not Cercopagis
+
+(Pothoven et al., 2007), and this may also be the case in Lake Ontario.
+
+Bythotrephes and Cercopagis consume cyclopoid copepods and cladocerans
+
+(WahlstromandWestman, 1999; Benoit et al., 2002; Laxon et al.,
+
+2003). Declines in the abundance of small cladocerans and cyclopoid
+
+copepods in Lake Ontario, after 1997, were attributed to Cercopagis
+
+predation (Laxon et al., 2003; Warner et al., 2006), but the impacts on
+
+species diversity and richness have not been assessed. Cyclopoid copepods and small cladocerans are also eaten by alewife (Urban and
+
+Brandt, 1993; Mills et al., 1992; Stewart et al., 2009). It was predicted
+
+that combined predation by alewife and invasive predatory cladocerans
+
+would further shift the zooplankton community structure and may
+
+cause disproportionate reductions in the abundance of cyclopoid
+
+copepods and small cladocerans (Stewart et al., 2009). Updated and
+
+improved estimates of annual zooplankton production and species
+
+composition before and after invasive species disruption are needed to
+
+evaluate these hypothesized effects and to facilitate food web scale
+
+studies (Halfon et al., 1996; Rand et al., 1995).
+
+The objectives of this studywere to assess changes in the magnitude
+
+of zooplankton group biomass and production for two 5-year reference
+
+time periods before (1987ñ1991) and after (2001ñ2005) the invasiveinduced
+
+disruptive influences on the Lake Ontario food web. Improvements
+
+were made to previous estimates of Lake Ontario zooplankton
+
+production by correcting for species-specific variation in metalimnetic
+
+production, included estimates of overwinter production, and
+
+accounted for temperature-mediated whole-lake spatial variation in
+
+production rates. Upper water column (epilimnion plus metalimnion)
+
+zooplankton group biomass and production for the whole-lake was
+
+estimated directly during 1987ñ1991. Changes in biomass ratios
+
+between 1987ñ1991 and 2001ñ2005were used to calculate production
+
+during the post-disruption time period. Potential changes in zooplankton
+
+group biomass were assessed by comparing data collected during
+
+1987ñ1991 and 2001ñ2005. In doing so, we tested the hypotheses that
+
+1) zooplankton group biomass and total biomass declined after the food
+
+web disruption, and 2) the structure of the zooplankton community
+
+changed after the disruption altering the biomass proportions among
+
+zooplankton groups and changing species diversity and richness. 
+
+
+xmethods
+
+Zooplankton data were from several sources (Table 1). Detailed
+
+sampling methods are described in the source publications and are
+
+only described briefly here. Only data from epilimnetic sampling of
+
+the zooplankton community was used as it was the most frequently
+
+employed method. Monthly (April to October) south-shore data were
+
+derived from the United States Geological Survey and Cornell
+
+University (USGS-Cornell) biomonitoring program during 1987ñ
+
+1991 and 2001ñ2005 (Johannsson et al., 1991; Holeck et al., 2008).
+
+Seasonal (spring, summer, fall) data were also available from the Lake
+
+Ontario Lower Aquatic Food Web Assessment (LOLA) studies
+
+conducted during 2003 (Holeck et al., 2008). Temporally intensive
+
+data collected weekly (April to October) at two stations during 1987ñ
+
+1991 came from the long-term biomonitoring program conducted by
+
+the Department of Fisheries and Oceans Canada (DFO; Johannsson et
+
+al., 1998; Johannsson, 2003). A subset of the temporally intensive DFO
+
+data (1987ñ1991) was selected to create a seasonal data set (spring,
+
+summer, and fall) that matched the same weeks of sampling as the
+
+LOLA 2003 seasonal sampling (Table 1).
+
+The spatial distribution and bathymetric depths of the sampling
+
+sites varied among programs (Fig. 1). The USGS-Cornell biomonitoring
+
+program sampled zooplankton 2 km from the south shore (20 to
+
+26-m bathymetric depth) and 20 km from the south shore (190 to
+
+210-m bathymetric depth) at two locations, one off Oak Orchard,
+
+72 km east of the mouth of the Niagara River, and the other off Smoky
+
+Point, 66 km east of Oak Orchard. The LOLA program had the most
+
+spatially extensive data sets with sampling sites throughout the lake
+
+and station bathymetric depths ranging from 10 to 221-m (Fig. 1).
+
+Using the same methods as the LOLA program, the DFO program
+
+sampled zooplankton at Station 81 (34-m bathymetric depth) in
+
+eastern Lake Ontario and at station 41 (128-m bathymetric depth)
+
+near the center of Lake Ontario (Fig. 1).
+
+Zooplankton species were categorized as small cladocerans
+
+(Bosminidae, Chydoridae, Ceriodaphnia sp., Diaphanosoma sp., Alona
+
+sp.), large cladocerans (Daphnia sp., Leptodora kindtii, Macrothrix
+
+laticornis, Holopedium sp.), invasive predatory cladocerans (Bythotrephes
+
+longimanus, Cercopagis pengoi), calanoid copepods, and
+
+cyclopoid copepods. Proportions of the copepod nauplii were added
+
+to the biomass of adult calanoid and cyclopoid copepods based on the
+
+relative proportions of the adults. Rare harpacticoid copepods were
+
+not included in the analysis. Data were not available to adequately
+
+assess changes in rotifer and dreissenid veliger biomass, so they were
+
+excluded.
+
+Only the USGS-Cornell data set was used for the analysis of species
+
+richness and diversity because sites, seasonal sampling intensity, and
+
+counting and identification methods were identical between time
+
+periods. Copepodites, nauplii, individual Daphnia sp. that could not be
+
+assigned to a specific species, and harpacticoid copepodswere excluded.
+
+The ShannonñWeiner diversity index was calculated using zooplankton
+
+species density as measure of abundance. Species diversity and richness
+
+were compared among time periods, with and without inclusion of the
+
+invasive predatory cladocerans, using a nonparametric Mann-Whitney
+
+U test for independent samples (a=0.05) corrected for multiplecomparisons
+
+using a sequential Bonferroni procedure (Quinn and
+
+Keough, 2003). Zooplankton inhabit water below the epilimnion and were not
+
+captured by the sampling protocols, the extent of which varies with
+
+species group. As the epilimnion seasonally deepens, the percentage of
+
+the totalwater column zooplankton population captured by epilimnetic
+
+sampling increases. In Lake Ontario, metalimnetic production can
+
+account for 10 to 56% of the total annual water column zooplankton
+
+production (Kuns and Sprules, 2000) and needs to be accounted for
+
+when calculating whole-lake production. Data from 1986 and 1987
+
+were used to develop functions to correct the 1987ñ1991 DFO data for
+
+the presence of animals belowour epilimnetic sampling depths. On four occasionsbetweenJuly1andSeptember301986andtwice in July1987,
+
+zooplankton vertical profileswere determined during the day and night
+
+at stations 41 and 81 using a combination of a vertical tow (64-µ mesh,
+
+50-cmdiameter,metered net) through the epilimnion and five discretedepth
+
+samples (41-L ShindlerñPatalas trap, 75-µ sock) through the
+
+metalimnion. The percentage of each species which resided in the
+
+epilimnion was calculated as the areal abundance (no./m2) of that
+
+species in the epilimnion divided by the sumof the areal abundances in
+
+the epilimnion and metalimnion, multiplied by 100. When the
+
+percentages of each species in the epilimnion were examined with
+
+respect to the mixed depth, similar patterns were observed at both
+
+stations, with only Daphnia retrocurva and Diacyclops thomasi undergoing
+
+distinct diurnal vertical migrations. Consequently, all data for each
+
+species were considered in the analyses of these vertical patterns with
+
+the exception of D. retrocurva and D. thomasi where only daytime data
+
+were examined; all DFO samples during 1987ñ1991 were collected
+
+during daylight hours.
+
+The relationship between the percentage in the total epilimnetic and
+
+metalimnetic population captured as a function of sampling depth was
+
+described with the model
+
+log %ﬁ = a + b∑depthﬁ 1ﬁ
+
+where log (%) is the natural log of the percentage of the total
+
+epilimnetic and metalimnetic population found in the epilimnion, a is
+
+a constant and b is the slope, and depth is the depth of the mixed
+
+layer. The model was fit to the data using a generalized linear model
+
+(GLZ, STATISTICA, StatSoft Inc.) using a log linking function and
+
+assuming a Poisson error term (Quinn and Keough, 2003). It was
+
+assumed that the relationship only applied up to a threshold depth,
+
+where it was observed that the percentage captured reached a plateau
+
+and did not vary with depth. Corrections were determined using the
+
+equation for depths less than the threshold depth, and mean
+
+percentage correction was used for depths equal to or greater than
+
+the threshold depth. The threshold depth was determined to the
+
+nearest 0.5-m by visually inspecting plots of the data. The plateau
+
+percentage was estimated as the mean of the observed percent
+
+captured of all observations beyond the plateau depth. Speciesspecific
+
+equations were developed for Ceriodaphnia lacustris, Eubosmina
+
+coregoni, Bosmina longirostris, Daphinia retrocurva, and Diacyclops
+
+thomasi. Data were combined for all small cladoceran species to
+
+develop a general small cladoceran correction function. The correction
+
+function developed for Daphinia retrocurva was applied to all large
+
+cladocerans. Correction functions were developed and applied for all
+
+species combined within other zooplankton groups: cyclopoid
+
+copepods, calanoid copepods, cyclopoid nauplii, and calanoid nauplii.
+
+To estimate zooplankton biomass, species-specific, aerial epilimnetic
+
+densitieswere determined fromthe data in Johannsson et al. (1998) for
+
+the approximatelyweekly samples fromApril to October 1987ñ1991 for
+
+stations 41 and 81. During the stratified period, sample depth and the
+
+species or species-group correction functionswere used to estimate the
+
+animals in the metalimnion. Total density was multiplied by speciesspecific
+
+mean dry weights based on Lake Ontario lengthñweight
+
+relationships and size-frequency distributions for the dominant species
+
+tabulated from published sources (Stockwell and Johannsson, 1997;
+
+Johannsson and O'Gorman, 1991) and unpublished data from the
+
+Department of Fisheries and Oceans, Burlington, Ontario, Canada. Annual production during 1987ñ1991was calculated as the product
+
+of daily zooplankton group biomass and the daily production to biomass
+
+(P/B) ratios summed over a year (April through to the end of March).
+
+Daily P/B ratios were calculated from estimates of the daily isothermal
+
+mixed layer temperature and P/Bñtemperature relationships (Shuter
+
+and Ing, 1997). Daily mixed-layer isothermal temperatures were
+
+estimated from a spatially explicit empirical model (Appendix A).
+
+Daily biomass estimates for each station were determined by
+
+interpolating between sampling events assuming exponential rates of
+
+population biomass change between weeks. Species-specific intrinsic
+
+rates of increase or decrease (r) were estimated as
+
+r =
+
+lnBt + 1ﬁ-lnB0 + 1ﬁ
+
+n
+
+2ﬁ
+
+where B0 is the biomass (mg dry weight∑m-2) at the beginning of the
+
+interpolation interval, Bt is the biomass at the end of the
+
+interpolation interval, and n is the size of the interpolation interval
+
+in days. Daily biomass from October 31 to April 1 the next year was
+
+estimated by assuming an exponential decline in biomass from
+
+October to April. In this case, species-specific intrinsic rates of
+
+population decline (r-values) were determined using the same
+
+formula where B0 was the average October biomass and Bt was the
+
+average April biomass the following year.
+
+The bathymetry of Lake Ontario was described using a 2-km2 grid
+
+system (Robertson and Jordan, 1972) of 4621 spatially referenced
+
+cells with an estimated mean bathymetric depth. Using the spatially
+
+explicit empirical temperature models (Appendix A), temperature of
+
+the mixed layer was estimated as the average temperature from 0 to
+
+5 m for each cell, biweekly for each year (1987ñ1991) from April to
+
+October. The models allowed us to estimate the biweekly average
+
+mixed-layer temperature independently for each of the 4621 cells each year. The year effect on temperature is represented in the model
+
+by the inclusion of biweekly, year-specific, mid-lake temperatures
+
+(Appendix A). For the other months, the average monthly mixed layer
+
+water column temperatures was assigned to each cell based on
+
+average near-surface temperatures measured from 1962 to 2002
+
+(Stewart and Bowlby, 2009). Daily temperatures were estimated by
+
+linear interpolation between biweekly or monthly estimates.
+
+Themixed layer depth is shallower during July in thewest region of
+
+LakeOntario (Stewart and Robertson, 1991) and this spatial patternwas
+
+confirmed for other months (Appendix A; Table A5). It was assumed
+
+therefore that the daily zooplankton group biomass of station 41,which
+
+had coolerwater and shallowthermocline depthswas representative of
+
+western Lake Ontario and the zooplankton group biomass of station 81,
+
+withwarmerwater and deeper thermocline depths, was representative
+
+of eastern Lake Ontario (see Appendix A for delineation of eastern and
+
+western Lake Ontario).
+
+Daily production for each bathymetric cell was estimated as the
+
+product of the daily zooplankton group P/B and the daily biomass (either
+
+station 81 or 41). If the bathymetric depth of a cell was b20-m the areal
+
+estimate of production was reduced proportionately. Whole-lake
+
+zooplankton group and total annual production (g dry wt∑m-2∑year-1)
+
+was the weighted average of production of each cell, using the number of
+
+cells as weights. Relative changes in zooplankton group biomass over time were
+
+assessed by comparing USGS-Cornell data from 1987 to 1991 and 2001
+
+to 2005 (Table 1). These data were collected and processed using the
+
+same protocols (e.g., common counting methods and lengthñweight
+
+curves applied during both time periods). The 2003 LOLA seasonal
+
+epilimnetic zooplankton group biomasses were also compared to a
+
+1987ñ1991 subset of theDFOdata.TheDFOsubset included data only for
+
+stations 81 and 41 with sampling dates chosen to match the sampling
+
+weeks of the LOLA data (Table 1). For this comparison, neither data set
+
+was corrected for animals not sampled below the epilimnion. Unfortunately,
+
+taxon length to weight conversions or means applied to the
+
+1987ñ1991 to estimate biomass from density differed from those used
+
+for the 2003 LOLAdata, so this comparison needs to be qualified.Also, the
+
+DFO sampling during 1987ñ1991 was at only two stations, while the
+
+2003 LOLAsampling included 29 sites throughout the lake (Fig. 1).While
+
+not an ideal comparison, it provides a valuable independent validation of
+
+the general trends detected in the USGS-Cornell comparison.
+
+Changes in zooplankton group biomass between time periods
+
+were assessed using simple means across all years, sites, and seasons.
+
+Like many comparative studies through time, making statistical
+
+inferences is complicated because time-series observations can be
+
+autocorrelated, may not be independent, and depending on the
+
+statistical model may represent pseudoreplication (sensu Hurlbert,
+
+1984). To accommodate this concern, randomization tests (Quinn and
+
+Keough, 2003; Manly, 2007) were used to assess how sampling error
+
+might influence our estimates of time period means of total
+
+zooplankton biomass, zooplankton species-group biomass, and
+
+species group proportion. For both of the USGS-Cornell data bases
+
+all observation were resampled from each time period (all years
+
+combined) within five seasonal strata (April-May, June, JulyñAugust,
+
+September, October) 5000 times with replacement. For each resampling
+
+event, the number of samples drawn from each stratum
+
+matched the original number of observations. All years and sites
+
+were treated as one set of observations and resampled at random. The
+
+mean and the 2.5 and 97.5 percentiles derived from the distribution of
+
+samples were calculated for each metric. The same method was
+
+applied to the DFO versus LOLA comparison, except that there were
+
+only three seasonal strata (spring, summer, fall).
+
+The null hypothesis that therewas no difference in total zooplankton
+
+biomass, zooplankton species-group biomass, and species group
+
+proportion between 1987ñ1991 and 2001ñ2005 was tested by first
+
+estimating the original observed difference in the sample means
+
+between the two time periods for both sets of independent comparisons
+
+[USGS-Cornell samples collected during both time periods and the DFO
+
+(1987ñ1991) versus LOLA (2003)].
+
+The difference between the means of each individual resample was
+
+calculated and subtracted the original observed mean. The absolute
+
+value of this differencewas used to derive the randomdistribution to be
+
+expected if the null hypothesis was true (Manly, 2007). These
+
+distributions were used to determine the probability that the absolute
+
+values of the observed difference could have occurred by chance as
+
+measured by the distribution of the 5000 resampled observations. The
+
+null hypothesis was rejected if the probabilities were less than 0.05.
+
+Corrections for multiple-comparisons were done using a sequential
+
+Bonferroni procedure (Quinn and Keough, 2003) among the zooplankton
+
+groups within each set of independent comparison.
+
+The 2003 LOLA data and the 2001ñ2005 USGS-Cornell data were
+
+not collected frequently enough to allow for direct estimates of
+
+production. However, the sampling designs were sufficient to
+
+measure relative changes in biomass. Therefore production was
+
+estimated for these time periods by assuming that changes in
+
+production would be directly proportional to changes in mean
+
+zooplankton group biomass. For example, if a zooplankton group
+
+biomass during 2003 was estimated to be 1/3 the biomass estimated
+
+for the same group during 1987ñ1991, than it was assumed that
+
+production of that zooplankton group during 2003 was 1/3 the
+
+production estimated for the same group during 1987ñ1991. The
+
+proportional change in zooplankton group biomass from 1987 to 1991
+
+was estimated independently for 2003 and 2001ñ2005. For 2003, the
+
+changes in the mean total zooplankton and zooplankton group
+
+biomass from the 2003 LOLA data set were compared to the same
+
+estimates for the 1987ñ1991 DFO data subset (Table 1). For 2001ñ
+
+2005, the changes in the mean total zooplankton and zooplankton
+
+group biomass from the 2001ñ2005 USGS-Cornell data set were
+
+compared to the same estimates for the 1987ñ1991 USGS-Cornell data
+
+set (Table 1). The production of invasive predatory cladocerans was
+
+estimated by multiplying the estimate of large cladoceran production
+
+by the ratio of the mean biomass of invasive predator cladocerans to
+
+the mean biomass of large cladocerans.
+
+This approach assumed that therewas no change in the zooplankton
+
+group P/B ratios fromthose estimated in 1987ñ1991. The assumption of
+
+no temperature induced change in P/B ratios by was evaluated
+
+comparing April to October mid-lake temperatures (Stewart and
+
+Bowlby, 2009) during 1987ñ1991 and 2001ñ2005 using a factorial
+
+analysis of variance with mid-lake temperature as the dependent
+
+variable and month and time period as categorical predictor variables.
+
+xresults An example of the observed percent total population as a function of
+
+depth and the fitted correction function for Eubosmina coregoni (Fig. 2)
+
+is typical of the fitted function for other species and groups (Table 2).
+
+The percentage of Tropocyclops extensus captured was variable and no
+
+pattern was evident; however. we assumed this was due to sampling
+
+error. Therefore the general cyclopoid copepod correction function was
+
+applied to this species as it is a warm water species and likely follows a
+
+pattern similar to the other warm-water groups. Total whole-lake epilimnetic plus metalimnetic mean zooplankton
+
+production during 1987ñ1991 was estimated at 42.43 (g dry wt∑m-2∑
+
+year-1; Table 3). Production was dominated by cyclopoid copepods
+
+(26.00 g drywt∑m-2∑year-1), followed by small cladocerans (9.08 g dry wt∑m-2∑year-1), large cladocerans (6.97 g dry wt∑m-2∑year-1), and
+
+calanoid copepods (0.38 g dry wt∑m-2∑year-1). The magnitude of change in biomass varied by zooplankton group
+
+and between data set comparisons. Total zooplankton biomass
+
+declined in the later time period by a factor of 1.9 to 2.0 compared
+
+to the early time period (Table 4). The analyses indicate that large
+
+cladoceran biomass did not change [USGS-Cornell P=0.031, Sequential
+
+Bonferroni corrected (SBc) a=0.025; DFO versus LOLA data set,
+
+P=0.124; Table 4]. Small cladoceran biomass declined by a factor of
+
+1.86 for the USGS-Cornell comparison (P=0.013, SBc a=0.017;
+
+Table 4), but no change was indicated by the DFO versus LOLA
+
+comparison (P=0.629; Table 4). Calanoid biomass declined by a
+
+factor of 3.9 for the DFO versus LOLA data set (Pb0.001, SBc a=0.008;
+
+Table 4), but there was no significant difference between time periods
+
+in the USGS-Cornell data sets (P=0.726; Table 4). Cyclopoid
+
+copepods were the dominant zooplankton group, and biomass
+
+declined significantly in both data set comparisons by a factor of 3.6
+
+to 5.7 (Pb0.001, SBc a=0.008; Table 4).
+
+The proportion of cyclopoid copepods decreased and invasive
+
+predatory cladocerans increased for both UGSG-Cornell and DFOLOLA
+
+comparison (Pb0.001, SBc a=0.008; Fig. 3). Cyclopoid
+
+copepods declined from an average of 49ñ52% of the biomass to 35ñ
+
+40% while invasive predatory cladocerans increased from a barely
+
+detectable proportion of the biomass (b0.03%, not shown) to an
+
+average of 5 to 8% of the biomass (Fig. 3). The proportions of other
+
+zooplankton groups did not change for the USGS-Cornell comparison
+
+(Fig. 3a), but the DFO-LOLA comparison indicated that the proportion
+
+of calanoid copepods decreased and that the proportion of small and
+
+large cladocerans increased (Pb0.001, SBc a=0.008; Fig. 3b).
+
+Zooplankton species richness including the invasive predatory
+
+cladocerans ranged from 16 to 20 and species diversity ranged from
+
+1.26 to 2.08 (Table 5). There was no significant difference in
+
+zooplankton species richness (P=0.465; invasives included,
+
+P=0.602; invasives excluded) or diversity (P=0.047, SBc
+
+a=0.017; invasives included, P=0.08; invasives excluded; Table 5)
+
+between time periods.
+
+The ANOVA model comparing AprilñOctober mid-lake temperatures
+
+during 1987ñ1991 and 2001ñ2005 indicated no significant
+
+time period effect (P=0.351), validating our assumption of no
+
+temperature related changes in zooplankton group P/B. Changes to
+
+whole-lake annual zooplankton production (Table 3) are based
+
+directly on changes in the ratios of biomass between time periods
+
+(Table 4). Total production declined by approximately half from
+
+42.43 (g dry wt∑m-2∑year-1) during 1987ñ1991 to 21.91 (g dry
+
+wt∑m-2∑year-1) during 2003 or 21.01 (g dry wt∑m-2∑year-1)
+
+during 2001ñ2005 (Table 3). The largest change in production was
+
+estimated for cyclopoid copepods which declined from 26.00 to an
+
+estimated 4.54 during 2003 and an average of 7.24 during 2001ñ
+
+2005 (Table 3). The production of large cladocerans was estimated
+
+to decline slightly in 2003 and during 1987ñ1991 (Table 3).
+
+Estimates of small cladoceran production derived from the changes
+
+in the USGS-Cornell biomass indicate a decline from 9.08 to 4.87 (g
+
+dry wt∑m-2∑year-1) while the DFO and LOLA comparison indicated
+
+virtually no change (Table 3). Calanoid production was estimated to
+
+decline by a factor of 0.38 to 0.09 (g dry wt∑m-2∑year-1) in 2003,
+
+but the USGS-Cornell data set comparison indicated no significant
+
+change in calanoid biomass (Table 4) or production from 1987ñ
+
+1991 to 2001ñ2005 (Table 3). 
+
+
+xdiscussion
+This study compliments and extends earlier assessments of changes
+
+in Lake Ontario zooplankton biomass and production (Kuns and Sprules,
+
+2000; Johannsson, 2003; Holeck et al., 2008). Our production estimates
+
+determined during 1987ñ1991 (95% CI 36ñ49 g dry wt∑m-2∑year-1)
+
+were higher than reported in previous studies. For example, using the
+
+egg-ratio method for Lake Ontario during 1987ñ1991, Johannsson
+
+(2003) estimated that seasonal epilimnetic production (June 15ñ
+
+October 31) ranged from approximately 8ñ19 (g dry wt∑m-2).
+
+Expansion of estimates to the entire year and the addition of speciesspecific
+
+estimates of metalimnetic production would result in higher
+
+estimates. Our application of daily spatially-explicit P/B ratiosmay be an
+
+improvement over the egg-ratiomethod applied by Johannsson (2003).
+
+The egg-ratio method only estimates growth after eggs are produced
+
+and can be influenced by the assumed timing of these events. The P/B
+
+ratio method estimates the growth of the population throughout the
+
+year. Kuns and Sprules (2000), using a combination of egg ratio and
+
+daily P/B ratio methods, estimated that epilimnetic plus metalimnetic production (May to October) for Lake Ontario during 1993 and 1994
+
+ranged from18.9 to 23.8 (g dry∑m-2); assuming awet to dry conversion
+
+of 0.1). This is closer in magnitude to our annual estimates determined
+
+for 2001ñ2005 (20.2 to 22.7 g dry∑m-2∑year-1). This does not mean
+
+that zooplankton production had declined lakewide between 1987ñ
+
+1991 and 1993ñ1994; no downward trend in epilimnetic zooplankton
+
+production was observed in the main lake (station 41) between 1987
+
+and 1995 (Johannsson, 2003). Declines started in the Kingston Basin
+
+(station 81) in 1994; however, production of dreissenid veliger larvae
+
+made up the difference in 1995óthey were not enumerated in 1994
+
+(Johannsson, 2003). Significantly, phytoplankton biomass also did not
+
+decline at either station in the 1987ñ1995 period (Johannsson et al.,
+
+1998). Our determinations of higher levels of zooplankton production
+
+than previously estimated are most likely due to the addition of
+
+metalimnetic production and expansion to the whole year. However,
+
+the difference could also be related to our application of spatially explicit
+
+P/B ratios versus the more commonly applied non-spatial P/B ratios or
+
+egg-ratio methods. Rand et al. (1995) estimated that alewife predatory
+
+demand on zooplankton exceeded estimates of zooplankton production
+
+during 1991. Our updated zooplankton production estimates may
+
+contribute to solving this paradox.
+
+The absence of any change in zooplankton species richness and
+
+diversity coincident with the establishment of the invasive predator
+
+cladocerans in Lake Ontario by 2001ñ2005 may indicate that the Lake
+
+Ontario zooplankton community is more resilient to food web effects
+
+from invasive disruption compared to inland lakes (Strecker et al.,
+
+2006) or other Great Lakes. This may be due to the suppression of the
+
+invasive predatory cladocerans by alewife predation. It may also be
+
+related to the spatial and temporal heterogeneity in zooplankton
+
+community composition. The variability in the composition of alewife
+
+diets across space and season in Lake Michigan and Lake Ontario is
+
+immense (Stewart et al., 2009; Pothoven and Vanderploeg, 2004),
+
+suggesting that alewife are exploiting a zooplankton community
+
+highly variable in species composition over space and time.
+
+Heterogeneity increases invasibility, reduces the impact of invaders,
+
+and increases coexistences of native and invading species (Melbourne
+
+et al., 2007). Due to their large size, the Great Lakes have much greater
+
+abiotic and biotic spatial and temporal heterogeneity, which may
+
+serve to mitigate the influence of the invasive predatory cladocerans
+
+and other invasives, especially in comparison to smaller inland lakes.
+
+Zooplankton productivity has rarely been assessed in theGreat Lakes
+
+following the invasion-induced post 1990s ecological change (except cf. Johannsson et al., 2000). This study represents the first direct
+
+comparison of changes in zooplankton production before and after the
+
+invasion-induced disruption and will be important to food web-scale
+
+investigations of invasion effects. Our results confirm the predictions of
+
+a decline in zooplankton productivity following dreissenid invasion and
+
+reducednutrient loadings (Millard et al., 1995; Johannsson, 2003;Hecky
+
+et al., 2004; Holeck et al., 2008). The 2001ñ2005 declines in total
+
+zooplankton group biomass and production observed fromthe analysis
+
+of two independent data sets were similar in magnitude, indicating the
+
+general robustness of our methods. However, the observed shifts in
+
+zooplankton community composition from 1987ñ1991 to 2001ñ2005
+
+were not consistent between the two data set comparisons. The USGSCornell
+
+data set comparisons was considered more reliable as the
+
+sampling included more years, and common methods of counting and
+
+processingwere applied. The inclusion of 5 years of data better accounts
+
+for annual variation in zooplankton community composition. The
+
+community composition characterized by only one year of data for the
+
+LOLA post-invasion period may be unique and not indicative of overall
+
+long-termtrends. Support for this contention is evident in the similarity
+
+between the zooplankton group proportions during 1987ñ1991
+
+between the 5 years of USGS-Cornell data (Fig. 3a) and the 5 years of
+
+DFO data (Fig. 3b), despite the fact that they employed different
+
+temporal and seasonal sampling designs. This suggests thatmonitoring
+
+programs that account for annual variation may be more robust than
+
+periodic spatially extensive sampling programs. Alternatively, the
+
+variation associated with the expanded spatial extent of the 2003
+
+LOLA sampling (Fig. 1)may have resulted in a unique butmore accurate
+
+characterization of the zooplankton community, which can only be
+
+reliably compared to programs of similar spatial extent.
+
+Although we did account for spatial variation in P/B ratios due to
+
+epilimnetic temperature differences, only two sites were used to describe
+
+seasonal and spatial variation in biomass. The analysis may underestimate
+
+the magnitude of spatial variation in zooplankton production if
+
+other factors, such as predation or food resources, were more important
+
+in other regions of the lake. However, temperature has been shown to be
+
+a strong determinant of zooplankton community composition. Patalas
+
+(1969) documented spatial differences in the seasonal development of
+
+Lake Ontario zooplankton community related to temperature. Generally,
+
+crustacean zooplankton appeared first and reached highest densities in
+
+the warmer shallow water of the eastern region, with the difference
+
+between the east and west regions, and nearshore and offshore areas
+
+becoming less prominent as the season progressed. Lake Ontario
+
+temperatures were observed to be persistently warmest nearshore and
+
+in the eastern region and cooler offshore and in the western region
+
+(Patalas, 1969; Stewart and Bowlby, 2009, Appendix A). Seasonal
+
+zooplankton densities were strongly correlated with a site-specific
+
+index of epilimnetic heat content (Patalas, 1969). Zooplankton population
+
+growth is also positively related to temperature (Shuter and Ing,
+
+1997), which leads to the prediction that zooplankton biomass and
+
+production in Lake Ontario should be higher nearshore versus offshore,
+
+and highest in the eastern versus western regions of the lake. Station 81
+
+(34-m bathymetric depth) is in the warmest region of Lake Ontario and
+
+station 41 (128-m bathymetric depth) is in the coolest region, so a
+
+considerable amount of the spatial variation in zooplankton biomasswas
+
+accounted for. Given the high costs associated with monitoring Great
+
+Lake ecosystems,more work is needed to better understand the relative
+
+importance of capturing spatial variation versus annual variation. Such
+
+an analysis could be used to improve the design of future zooplankton
+
+monitoring programs.
+
+Rotifers and dreissenid veligerswere not included in our analysis, but
+
+do contribute to total planktonic production. In Lake Ontario, rotifer
+
+biomass ranged seasonally from 4% to 17% of herbaceous zooplankton
+
+biomass (Johannsson, 2003) and from 1.0% to 12.0% of total zooplankton
+
+biomass, not including Mysis diluviana (Sprules and Munawar, 1991;
+
+Makarewicz et al., 1995). Dreissenid veligersmay have been an important
+
+contributor to zooplankton production during the mid-1990s, especially
+
+in the warmer nearshore areas (Johannsson, 2003). However, by 2003,
+
+lake-wide seasonal zooplankton sampling (Holeck et al., 2008) indicated
+
+that dreissenid veligers comprised only 0.1%, 3.7%, and 1.9% of the total
+
+zooplankton biomass in spring, summer, and fall, respectively (Cornell
+
+University Biological Field Station, Bridgeport, NY, unpublished data).
+
+Johannsson et al. (2000) estimated that Lake Erie dreissenid veligers grew
+
+on average of 0.1 day-1 at temperatures above 10 ∞C and 0.04 day-1
+
+below 10 ∞C. Applying these rates to Lake Ontario seasonal temperatures
+
+would result in an annualized P/B for dreissenid veligers of approximately
+
+25.6. Our average annualized zooplankton group P/Bs derived from this
+
+study were as follows: calanoids (4.6), cyclopoids (21.4), small
+
+cladocerans (29.9), and large cladocerans (27.9). Using the zooplankton
+
+group biomass as weights, the weighted average zooplankton community
+
+P/B was estimated as 22.9. Therefore as a percentage of total
+
+zooplankton production, the contribution from dreissenid veligerswould
+
+be only slightly higher [by a factor of 1.11 (25.6/22.9)] than estimated by
+
+their percent contribution to total zooplankton community biomass and
+
+is estimated at approximating 2.0%.
+
+Lake Ontario phytoplankton biomass has declined (Millard et al.,
+
+2003; Munawar and Munawar, 2003), and as demonstrated by this
+
+study and others, this has been associated with declines in zooplankton
+
+biomass and production (Johannsson et al., 1998; Holeck et al., 2008)
+
+and declines in alewife (O'Gorman et al., 2008). This overall multitrophic
+
+level decline in productivity complicates interpretations of
+
+zooplankton community changes. While interpreting the results of this
+
+study it is important to distinguish declines in overall zooplankton
+
+biomass and production and disproportionate changes in biomass and
+
+production of some zooplankton groups, measured as changed
+
+zooplankton group proportions. Interpretation is further complicated
+
+by inconsistency between the two data set comparisons.
+
+Do declines in Lake Ontario primary production (PP) account for
+
+the observed decline in zooplankton production from 1987ñ1991 to
+
+2001ñ2005? Approximately 80% of the water flowing into Lake
+
+Ontario comes from Lake Erie (http://www.epa.gov/glnpo/atlas), so
+
+we applied Lake Erie post-dreissenid PP:TP ratios (Depew et al., 2006)
+
+to estimates of Lake Ontario TP during 2003 to estimate the PP in
+
+comparison to direct estimates of Lake Ontario PP during 1987ñ1991
+
+(Millard et al., 1996). Lake Erie PP:TP ratios (±1 SD) were 10.7 (2.8)
+
+and 14.3 (3.3) for nearshore (=20-m) and offshore, respectively
+
+(Depew et al., 2006). Using theses ratios and the average seasonal TP
+
+for Lake Ontario during 2003 of 9.6 (µg∑L-1) from Holeck et al. (2008),
+
+annual PP in Lake Ontario during 2003 was estimated to range from
+
+102.7 to 137.4 (g C∑m-2). The same TP value was applied to the PP to
+
+mean seasonal TP relationship developed by Millard et al. (1999),
+
+which excluded sites potentially impacted by dreissenids, and
+
+resulted in an estimated PP of 133.7 (g C∑m-2). Considering that
+
+water b20-m represents only approximately 13% of the total area of
+
+Lake Ontario, it is reasonable to assume that the offshore seasonal PP
+
+of 137.4 was most comparable to the data in Millard et al. (1996).
+
+During 1987ñ1991 Lake Ontario PP averaged 169.9 (Millard et al.,
+
+1996). Compared to our 2003 estimate, PP may have declined to only
+
+80% of its 1987ñ1991 level, while zooplankton productivity declined
+
+by approximately half. This suggests that in addition to PP decline,
+
+some other mechanism is further reducing zooplankton productivity.
+
+It has been hypothesized (Hecky et al., 2004) and partially confirmed
+
+(Depew et al., 2006) that dreissenids shunt nutrients and particulate
+
+organic carbon from the nearshore water column to the benthos,
+
+reducing pelagic PP. This effect would be accounted for in our estimate
+
+of PP and is not likely an explanation for a disproportionate decline in
+
+zooplankton production. Direct dreissenid grazing of phytoplankton,
+
+making it unavailable to support zooplankton production, might be a
+
+mechanism causing the disproportionate decline in zooplankton
+
+production from 1987ñ1991 to 2001ñ2005. Declines in chlorophyll-a
+
+following establishment of dreissenid mussels have been attributed to
+
+dreissenid grazing (Caraco et al., 1997, 2006). Grazing by dreissenids
+
+mussels was estimated to remove 26% of the available primary production in western Lake Erie (Madenjian, 1995), which would thus
+
+be unavailable to support zooplankton production. Also, selective
+
+feeding by dreissenid mussels has been implicated in a shift in the
+
+phytoplankton community to increased prevalence of blue-green algae
+
+and other large colonial formsof algae (Makarewicz et al., 1999;Nicholls
+
+et al., 2002; Bierman et al., 2005;Miller andWatzin, 2007; Naddafi et al.,
+
+2007) which may be less edible to zooplankton (Porter, 1973; Lehman
+
+and Sandgren, 1985). A reduction in the yield of chlorophyll-a from a
+
+given concentration of total phosphorus (TP) has been attributed to
+
+dreissenid filtering in nearshore Lake Ontario (Nicholls et al., 1999;
+
+Millard et al., 1999). However, dreissenid filtering impacts are less likely
+
+in the offshore of deep thermally stratified Lake Ontario, where very
+
+little of the epilimnetic water is in proximity to dreissenid mussel beds.
+
+For Lake Ontario, less than 10% of the total volume of epilimnetic water
+
+(b=20-m) is in the nearshore zone over bathymetric depths b=20-m,
+
+where it could presumably be subject to mussel filtering effects. If not
+
+dreissenid filtering, changes in the depth distribution, growth, or
+
+behavior of zooplankton due to the invasive predatory cladocerans
+
+(Pangle et al., 2007) could have contributed to reduced zooplankton
+
+productivity beyond that predicted by changes in primary productivity.
+
+Is overgrazing of zooplankton by predators contributing to overall
+
+declines in zooplankton production? Correlative studies clearly implicate
+
+predation by the invasive predatory cladocerans, especially
+
+Cercopagis (Benoit et al., 2002; Laxon et al., 2003;Warner et al., 2006).
+
+However, alewife and the invasive predatory cladocerans both consume
+
+common zooplankton prey and their potential predation effects cannot
+
+be considered in isolation (Stewart et al., 2009). Overgrazing by alewife
+
+may be a more likely mechanism. Lake Ontario is often characterized as
+
+having an undersupply of zooplankton production. It has been
+
+estimated that consumption by either alewife (Rand et al., 1995) or
+
+Cercopagis (Laxon et al., 2003) can exceed the production of their
+
+zooplankton prey. This implies intense predation pressure. Production
+
+of short-lived zooplankton species may respond quickly to declines in
+
+PP, resulting in a tight coupling between the production of small
+
+zooplankton and larger predatory zooplankton. In contrast, there may
+
+be lag of several years before the production of longer-lived multi-age
+
+class population of zooplanktivorous alewife declines in response to
+
+declines in PP. This would result in an uncoupling of the predator
+
+demand for zooplankton by alewife with the ability of the system to
+
+produce the required supply of zooplankton production, resulting in
+
+overgrazing. It is worth investigating if this is a general phenomena
+
+associated system characterized by intense predation pressure on
+
+zooplankton from prey fish and declining primary productivity.
+
+Predation by both alewife and invasive predatory cladocerans may
+
+be the mechanism causing a disproportionate decline in cyclopoids.
+
+Cyclopoid copepods often dominate the zooplankton portion of alewife
+
+diets and are consumed by alewife during all seasons (Stewart et al.,
+
+2009). Cyclopoid copepods are also important in the diets in the early
+
+life-history stages ofmany other LakeOntario fish including lake herring
+
+(Coregonus artedii), lake whitefish (Coregonus clupeaformis) and
+
+rainbow smelt (Osmerus mordax; Davis and Todd, 1998; Freeberg et
+
+al., 1990; Urban and Brandt, 1993; Lantry and Stewart, 1993), and
+
+alewife (Norden, 1967;Heinrich, 1981; Urban and Brandt, 1993; Hewett
+
+and Stewart, 1989; Lantry and Stewart, 1993). Cercopagis predation on
+
+cyclopoids is seasonal, with highest predation occurring primarily
+
+during mid-summer peak in abundance (Laxon et al., 2003). Reduced
+
+availability of zooplankton for alewife was suggested by extremely low
+
+stomach content weights at bathymetric depths b70-m following the
+
+disruptive changes of the 1990s (Stewart et al., 2009). This is consistent
+
+with overgrazing of zooplankton in nearshore waters by alewife and a
+
+switch to offshore food resources evidenced by increased offshore
+
+distribution of alewife (O'Gorman et al., 2000) and increased prevalence
+
+of Mysis diluviana in alewife diets (Stewart et al., 2009). These
+
+observations suggest that grazing pressure on zooplankton may have
+
+increased to the point whereby alewife needed to change their
+
+distribution to acquire enough food.
+
+The disproportionate decline in cyclopoid biomass in both data
+
+sets was consistent with the predicted predation effect by alewife and
+
+invasive predatory cladocerans (Laxon et al., 2003; Warner et al.,
+
+2006; Stewart et al., 2009), but a reduction in the proportion of small
+
+cladocerans that could be predicted from the same studies was not
+
+detected. The USGS-Cornell data set comparisons did detect a decline
+
+in small cladoceran biomass, but this was in proportion to the overall
+
+decline in zooplankton biomass, and the proportion of small
+
+cladocerans did not change. On the other hand, the DFO and LOLA
+
+data set comparison saw no change in small cladoceran biomass and
+
+detected a significant increase in the proportion of small cladocerans.
+
+As discussed above, the DFO and LOLA data set comparison may be
+
+less robust due to differences in processing methodology, trying to
+
+compare multi-year spatially limited sampling program to a singleyear
+
+spatially extensive sampling, and reduced seasonal coverage.
+
+In an independent study, Laxon et al. (2003) observed a significant
+
+decline in both cyclopoids and small cladocerans from a comparison of
+
+data from 1986 to 1991 with data from 1999 to 2001. This is consistent
+
+with a general decline in zooplankton productivity, and is consistent
+
+with the observation fromtheUSGS-Cornell comparison.Unfortunately,
+
+Laxon et al. (2003) did not report changes in total zooplankton
+
+community structure so it is not possible to assess changes in
+
+zooplankton group proportions from their study. The Laxon et al.
+
+(2003) study and USGS-Cornell comparison did detect a significant
+
+decline in the biomass of small cladocerans. However, both sampling
+
+programs occurred on the south shore of Lake Ontario and may be
+
+characterizing a regional rather than a lake-wide response. Regional
+
+variation in Lake Ontario temperature (Appendix A, Stewart and
+
+Bowlby, 2009) will influence zooplankton community composition
+
+and seasonal succession (Patalas, 1969) resulting in different zooplankton
+
+community structures and potentially different predator-prey
+
+interactions in different regions of lake during the same calendar
+
+seasons. This temperature-induced variability might bemore problematic
+
+formeasuring cladoceran biomass and detecting change as they are
+
+only abundant after thermal stratificationwhile cyclopoid copepods are
+
+abundant throughout the year (Johannsson et al., 1998). For example,
+
+the inclusion ofwarmer nearshore sites in a spatially extensive sampling
+
+in the spring might elevate estimates of cladoceran biomass in
+
+comparison to less spatially extensive sampling. Theweight of evidence
+
+supports a post-invasion decline in total zooplankton biomass and
+
+production with a disproportionate decline in cyclopoid copepods and
+
+an increase in invasive predatory cladocerans. Evidence for both
+
+absolute and proportionate changes in the biomass and production of
+
+other zooplankton groups is inconclusive.
+
+The ubiquitous consumption of cyclopoids by alewife and other fish
+
+species, and additional summer consumption by the invasive predatory
+
+cladocerans, seems a likely mechanism for their disproportionate
+
+decline. However, better understanding of the interplay among the
+
+effects of various sources of predation (top-down) and reduced
+
+production (bottom-up) effects on zooplankton community structure,
+
+biomass, and production will require a more comprehensive food web
+
+analysis.
+
+Cyclopoid abundance has been shown to be an important determinant
+
+of recruitment in marine fish (Castonguay et al., 2008), and a
+
+similar mechanism may be operating in the Great Lakes. The potential
+
+link between Great Lakes fish recruitment and cyclopoid abundance
+
+warrants further investigation. Also, cyclopoid copepods are the
+
+dominant zooplankton group, and their decline may portend important
+
+changes in the pathway of energy flowand trophic transfer efficiencies.

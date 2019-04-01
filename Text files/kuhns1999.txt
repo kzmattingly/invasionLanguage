@@ -1,0 +1,451 @@
+xabstract
+The round goby (Neogobius melanostomus Pallas), a fish native to eastern Europe,
+recently has become established in southwestern Lake Michigan. Because round gobies prey on zebra
+mussels (Dreissena polymorpha Pallas) and other benthic invertebrates, the effects of round gobies on
+invertebrates within zebra mussel colonies was investigated. Using a 2 × 3 factorial design, the effects of
+round gobies (present or absent) and zebra mussel densities (zero, low, and high) on non-mussel invertebrates
+was examined. Ten ceramic tiles of each mussel density were colonized in the laboratory and then
+anchored in Calumet Harbor, IL for 10 weeks. Round gobies had access to half the tiles while half were
+covered with coarse mesh screening that excluded round gobies, but allowed invertebrates to move into
+and out of the exclosures. Low and high zebra mussel density tiles supported significantly greater numbers
+of non-mussel invertebrates (p < 0.001) than zero density tiles, particularly amphipods (p < 0.001),
+hydroptilid caddisflies (p < 0.05), isopods (p < 0.05), and chironomids (p < 0.001). Chlorophyll a concentrations
+were highest (p < 0.001) at low zebra mussel densities. The presence of round gobies significantly
+reduced densities of total non-mussel invertebrates (p < 0.01) and leptocerid caddisflies (p <
+0.05), resulting in a significant increase in chlorophyll a (p < 0.01) concentrations. A significant zebra
+mussel density x round goby interaction showed that total invertebrate biomass responded positively to
+the combined effect of high zebra mussel density and round goby absence. These results demonstrate that
+round gobies and zebra mussels are altering benthic invertebrate community structure and algal
+resources in nearshore rocky areas of southwestern Lake Michigan.
+
+xintroduction
+The repeated introduction and spread of exotic organisms
+in the Laurentian Great Lakes can have profound
+impacts on benthic physical structure and
+energy flow in aquatic ecosystems (Stewart and
+Haynes 1994). Two recent invaders into the Great
+Lakes that are impacting southern Lake Michigan
+are the zebra mussel (Dreissena polymorpha Pallas)
+and the round goby (Neogobius melanostomus Pallas),
+both of which are indigenous to the Black,
+Azov, and Caspian seas.
+Zebra mussels were introduced into Lake St. Clair
+in 1986 and have spread rapidly across the Laurentian
+Great Lakes. Densities as high as 342,000/m2
+have been reported from areas with suitable substrates
+(MacIsaac 1994). The establishment of zebra
+mussels in the Great Lakes has coincided with increases
+in depth of light penetration and benthic
+algal biovolume and decreases in phytoplankton
+populations (Lowe and Pillsbury 1995, MacIsaac
+1996). These changes in energy flow from primarily
+pelagic to benthic may influence benthic algal food
+resources and benthic invertebrate community structure
+(Stewart and Haynes 1994, Karatayev et al.
+1997, Ricciardi et al. 1997, Stewart et al. 1998).
+Round gobies were first discovered in the St. Clair
+River in 1990 (Jude et al. 1992) and have been reported
+from all five of the Laurentian Great Lakes
+(Charlebois et al. 1997). Mollusks represent a major
+component of round goby diets in both their North
+American and native habitats (Jude et al. 1992, Kovtun
+et al. 1974). In the Great Lakes, zebra mussels
+comprise up to 82% of the diet of round gobies 80 to
+90 mm TL (Jude et al. 1995). Although gut analysis
+studies have provided information on round goby
+diets in the Great Lakes (Ghedotti et al. 1995, Jude
+et al. 1995), few data are available on how round
+goby predation impacts benthic communities. Round
+goby predation on zebra mussels may have important
+implications for other benthic invertebrates living
+in association with zebra mussel colonies. To
+determine the impacts of round gobies and zebra
+mussels on nearshore invertebrate communities in
+Lake Michigan, responses of benthic invertebrates to
+zebra mussel colonies of differing sizes and round
+goby presence or absence were examined.
+The overall objective of this study was to examine
+the effects of zebra mussel density and round goby
+predation on invertebrates associated with zebra
+mussel colonies. Specifically, the goals were to determine
+1) the effects of zebra mussel colony density
+on invertebrates within the colony, 2) the effects of
+round goby predation on non-mussel benthic invertebrates,
+and 3) whether the effects of zebra mussel
+density altered the response of benthic invertebrates
+to round goby predation.
+
+xmethods
+STUDY AREA
+This study was conducted in Calumet Harbor, Illinois,
+U.S.A. (latitude = 41°43′37″N; longitude =
+87°31′48″W) in southwestern Lake Michigan on the
+Illinois/Indiana border. The study site was approximately
+4 m from shore in a depth 3 m. This area of
+Calumet Harbor is characterized by large cobble and
+boulder substrata with dense zebra mussel
+(40,000/m2) and round goby (15/m2) populations.
+Experimental Design
+Zebra Mussel Density Effects
+To determine the effect of zebra mussel density on
+benthic invertebrates, three densities of zebra mussels
+(zero = 0/100 cm2; low = 100/100 cm2; high =
+1,000/100 cm2) corresponding to 0, 10,000, and
+100,000/m2 were colonized in the laboratory on
+10 × 10 cm unglazed ceramic tiles attached to bricks
+with silicone caulk. A square piece of plastic mesh
+(mesh opening = 5 × 8 mm) was attached to each tile
+to facilitate zebra mussel attachment. Prior to zebra
+mussel colonization, a wire support frame for cages
+was attached to each tile with silicone caulk. Zebra
+mussels were collected from Calumet Harbor and
+sorted into three size classes. Each tile was colonized
+with 50% small mussels (3.0 to 7.9 mm), 45%
+medium-sized mussels (8.0 to 10.9 mm), and 5%
+large mussels (11.0 to 15.0 mm). These ratios reflected
+the size structure of zebra mussels in
+Calumet Harbor at the time of the experiment. Treatment
+densities were achieved in the laboratory by
+placing tiles in tanks with recirculating water and inoculating
+the tiles with the appropriate number of
+zebra mussels. Tiles remained in the tanks for three
+weeks to allow zebra mussels to attach. During the
+3-week period, zebra mussels that had migrated off
+the tiles were replaced with mussels of the appropriate
+size. Zebra mussels were fed a mixed algal assemblage
+from a laboratory culture three times
+weekly during the colonization period.
+Round Goby Predation Effects
+After the third week of colonization in the laboratory,
+cages were constructed around the sides of the
+experimental tiles to either exclude round gobies or
+allow for round goby predation. Round goby exclusion
+cages enclosed all four sides of the tile, whereas
+one side of round goby predation cages was left open
+to allow round gobies access to the tiles. Cages were
+constructed from plastic mesh screening (mesh
+opening = 5 × 8 mm) in the shape of a four-sided
+pyramid and were added to each tile immediately before
+placement in the lake. The mesh size allowed
+free movement of non-mussel invertebrates into and
+out of the cages.
+Five replicates of each treatment (5 replicates × 3
+zebra mussel densities × 2 round goby treatments =
+30 tiles) were placed randomly along a transect line
+parallel to the shore. In addition, the open side of
+each round goby predation cage was oriented randomly.
+The experiment was conducted for 10 weeks
+in 1995 (11 July to 18 September). Divers using
+SCUBA observed round gobies feeding in predation
+cages on several occasions during day and night, but
+no other fish were seen in the cages. Crayfish (Orconectes
+rusticus Girard) were abundant in the cobble
+at the study site, but were not observed using the
+cages. Cages were examined twice weekly to remove
+algae that could have interfered with water flow and
+to check for disturbance. All tiles remained intact
+during the experiment. At the completion of the experiment,
+tiles were collected by divers using
+SCUBA and placed into individual plastic Ziploc®
+bags. Bags were brought to the surface and placed in
+coolers for transport to the laboratory.
+In the laboratory chlorophyll a samples were collected
+by scraping 25% of the surface area of each
+tile, including any zebra mussels or other invertebrates.
+Chlorophyll a concentrations were determined
+spectrophotometrically using methanol
+extraction and phaeophytin corrections according to
+Standard Methods (APHA 1985). Invertebrates were
+removed from the remaining surface area of each tile
+and preserved in 80% ethanol for later identification
+and enumeration. All invertebrates collected were
+identified to genus using Merritt and Cummins
+(1996) or Thorp and Covich (1991). Dry weight of
+each taxon, excluding chironomids, was obtained by
+air-drying at room temperature for 24 hours. Biomass
+of chironomids was estimated at the subfamily
+level using the regression equations of Smock
+(1980). Total invertebrate density and chlorophyll a
+data were analyzed using a two-way ANOVA with
+replication (2 × 3 factorial design: 2 levels of round
+goby predation × 3 levels of zebra mussel density).
+Significant zebra mussel density effects were analyzed
+using Tukey’s multiple comparison tests. Responses
+of individual taxa to zebra mussel densities
+were analyzed using a one-way ANOVA and
+Tukey’s multiple comparison tests. Chlorophyll a
+and invertebrate density data, excluding total chironomid
+density, were log transformed to meet homoscedasticity
+and normality assumptions. Total
+chironomid density data required no transformation.
+A test significance level of p < 0.05 was used in all
+analyses.
+
+xresults
+To determine if differences in zebra mussel densities
+were maintained on experimental tiles during the
+experiment, the number of live zebra mussels remaining
+in round goby exclosures at the completion
+of the experiment was analyzed using a one-way
+ANOVA on log-transformed densities. All three
+zebra mussel density treatments remained significantly
+different after the 10 week experiment (F =
+203.8; 2, 12 df, p < 0.001).
+Zebra Mussel Effects
+A total of 20 genera of non-mussel invertebrates
+were collected from the experimental tiles (Table 1).
+All invertebrate densities are expressed as mean/100
+cm2 (±SE). Density of total non-mussel invertebrates
+was 3 to 4 times greater on high and low
+zebra mussel density tiles than on zero density tiles
+(Table 2). The total number of Chironomidae
+(Diptera) also was significantly greater in the presence
+of zebra mussels than when zebra mussels
+were absent (Table 2).
+The response of total invertebrate densities
+among zebra mussel density treatments, especially
+between low and high treatments, may have been
+masked by the high contribution of chironomids
+(54% of total non-mussel invertebrates) to densities
+of total non-mussel invertebrates. Thus, data on
+total non-mussel invertebrates exclusive of chironomids
+also were analyzed. Excluding chironomids revealed
+a significant positive response of total
+non-mussel invertebrates to zebra mussel densities
+(Table 2). Non-mussel invertebrate densities were
+greater on high density treatments than on low and
+zero density tiles. Invertebrate densities on low
+zebra mussel density treatments also were significantly
+greater than in the absence of zebra mussels
+(Table 2).
+Of the 20 genera collected in this study, 16 responded
+positively to higher zebra mussel densities
+(Table 1), although responses of only six taxa were
+statistically significant. Densities of Caecidotea sp.
+(Isopoda) on high zebra mussel density treatments
+were significantly greater than on zero zebra mussel
+tiles, although high and low zebra mussel density
+treatments did not differ (Table 2). The hydroptilid
+caddisfly Agraylea sp. (Trichoptera) had significantly
+greater densities in the presence of zebra
+mussels than on zero zebra mussel density treatments
+(Table 2). Densities of Gammarus sp. on
+high zebra mussel density tiles were significantly
+greater than on low or zero zebra mussel treatments
+(Table 2).
+Densities of the most common chironomid genera,
+Cricotopus sp., Paratanytarsus sp., and Psectrocladius
+sp., also responded to zebra mussel
+densities. Densities of Cricotopus sp. were significantly
+greater on low zebra mussel density tiles than
+on zero density tiles (Table 2). Densities on high
+density tiles, however, did not differ from those on
+either low or zero zebra mussel treatments.
+Paratanytarsus sp. and Psectrocladius sp. responded
+similarly with increased densities in the
+presence of zebra mussels. Paratanytarsus sp. densities
+were significantly greater on high and low
+zebra mussel tiles than on zero zebra mussel treatments
+(Table 2). Similarly, Psectrocladius sp. densities
+were significantly greater in the presence of
+zebra mussels than on zero zebra mussel treatments
+(Table 2).
+Round Goby Effects
+Zebra mussel densities on high density tiles were
+significantly reduced in the presence of round gobies
+compared to round goby exclosure tiles (F = 14.6;
+1, 24 df, p < 0.01). Round gobies had no effect, however,
+on zebra mussel densities in low or zero density
+treatments (p > 0.05).
+Total non-mussel invertebrate densities were 44%
+higher on round goby exclosure tiles than on tiles allowing
+round goby access (Table 3). Removing chironomids
+from the analysis revealed a 92% increase
+in non-mussel invertebrate densities on round goby
+exclosure tiles (Table 3). Round gobies had no effect
+on total chironomid densities (Table 3).
+The only individual taxon significantly affected by
+round goby presence was the predatory caddisfly,
+Oecetis (Trichoptera). Densities of Oecetis were six
+times greater in round goby exclosures compared to
+treatments allowing round gobies access (Table 3).
+Densities of most taxa also were lower in the presence
+of round gobies, although differences were not
+statistically significant (Table 1).
+Zebra Mussel and Round Goby Effects on
+Invertebrate Biomass
+The influence of each main effect, zebra mussel
+density and round goby presence, on total non-mussel
+invertebrate biomass could not be determined because
+of a significant statistical interaction (F = 7.5;
+2, 24 df, p < 0.01). Total non-mussel invertebrate
+biomass, however, exhibited a positive response to
+the combined effects of high zebra mussel density
+and round goby absence (Fig. 1).
+Zebra Mussel and Round Goby Effects on Algae
+Chlorophyll a concentrations (mg/100 cm2 ± SE)
+on tiles were quantified to examine possible indirect
+effects of zebra mussels or round gobies on food
+availability for algivorous benthic invertebrates. It
+should be noted that chlorophyll a values reflect
+concentrations on both experimental tiles and zebra
+mussel shells.
+Chlorophyll a was influenced by both zebra mussel
+density and round goby presence. Chlorophyll a
+concentrations were two-fold greater at low zebra
+mussel densities (19.6 ±1.4) than on the zero (9.0 ±
+1.7) and high (9.5 ± 1.5) zebra mussel density treatments
+(F = 20.9; 2, 24 df, p < 0.001, Fig. 2a).
+Chlorophyll a concentrations in the presence of
+round gobies (15.4 ± 1.8) were 50% greater than in
+round goby exclosures (10.1 ± 1.5) (F = 11.9; 1, 24
+df, p < 0.01, Fig. 2b).
+
+xdiscussion
+Zebra Mussel Density Effects
+Results from the present study on experimental
+tiles in rocky areas of nearshore Lake Michigan
+show that densities of most non-mussel benthic invertebrates
+had a positive response to zebra mussels.
+In contrast, Dermott and Kerec (1997) and Nalepa et
+al. (1998) reported reductions of some benthic invertebrates
+in soft sediments of Lake Erie and Lake
+Michigan, respectively, since the invasion of zebra
+mussels. The results from this study are consistent
+with previous studies that have reported increases in
+non-mussel invertebrate abundance in the presence
+of zebra mussels (Dermott et al. 1993, Griffiths
+1993, Stewart and Haynes 1994, Wisenden and Bailey
+1995, Botts et al. 1996, Stewart et al. 1998). The
+mechanism responsible for these increases varies
+among taxa and may result from additional substrate
+complexity caused by zebra mussel shells and
+colony formation, and/or an elevation in the rate of
+organic matter deposition to the benthos from fecal
+and pseudofecal production of zebra mussels
+(Izvekova and Lvova-Katchanova 1992, Botts et al.
+1996, Ricciardi et al. 1997, Thayer et al. 1997,
+Stewart et al. 1998).
+Round Goby Effects
+Round goby diets have been examined in both laboratory
+and field studies (Ghedotti et al. 1995, Jude
+et al. 1995, Ray and Corkum 1997). Although differences
+in prey species composition exist between the
+native habitat of the round goby and in the Great
+Lakes, diet composition of round gobies in both
+habitats has been reported to be similar (Jude et al.
+1992, Kovtun et al. 1974). Jude et al. (1995) reported
+that diets of small round gobies (< 67 mm)
+were composed primarily of amphipods, isopods,
+chironomids, and benthic cladocerans. At sizes > 67
+mm, however, round gobies had a more specialized
+diet ingesting primarily zebra mussels. Ray and
+Corkum (1997) reported similar ontogenetic diet differences
+where small round gobies (< 70 mm) ate
+few zebra mussels and larger round gobies (≥ 70
+mm) relied heavily on zebra mussels. Stomach con-
+tent analyses of round gobies from the study site
+support the results from these previous studies.
+These observations are consistent with a laboratory
+feeding study of large gobies (60 to 100 mm) that reported
+a strong preference for zebra mussels over native
+clams or snails (Ghedotti et al. 1995). Despite
+field and laboratory studies on round goby diets and
+food preferences, no studies have addressed how the
+presence of the round goby will affect benthic invertebrate
+community structure in the Great Lakes.
+In the present study, total invertebrate densities in
+zebra mussel colonies significantly decreased in the
+presence of round gobies. The most likely explanation
+for this reduction is round goby predation, although
+indirect effects of round gobies altering zebra
+mussel colonies can not be discounted. Many studies
+have shown decreases in benthic invertebrate density
+either through direct or indirect effects of fish predation
+(Gilinsky 1984, Harvey and Hill 1991, Hershey
+1985). In the present study, round gobies significantly
+reduced zebra mussels in high density treatments,
+suggesting that indirect predation effects may
+play a role in determining invertebrate densities. Although
+crayfish (Orconectes rusticus) were present
+at the study site and have been reported to feed on
+zebra mussels (Martin and Corkum 1994, Perry et al.
+1997), they were never observed on the round goby
+access tiles. Similarly, smallmouth bass (Micropterus
+dolomieui Lacépède) also were present at
+the study site, but were not observed feeding in or
+around the experimental tiles.
+Although cageless controls were not used in this
+study, these results accurately reflect the effects of
+round gobies on nearshore benthic invertebrates.
+Cageless controls would have allowed examination
+of possible cage effects on round goby feeding behavior
+and invertebrate colonization and densities.
+Lower invertebrate densities on round goby access
+tiles did not result from higher densities of round gobies
+than in the surrounding area because natural
+rock shelter areas and zebra mussels were abundant
+at the study site. In addition, if the plastic mesh surrounding
+round goby exclusion cages had hampered
+invertebrate colonization, invertebrate densities
+would be expected to be lower in those treatments.
+On the contrary, total invertebrate densities were significantly
+higher on round goby exclosure tiles. A
+possible cage effect could have resulted in reduced
+zebra mussel densities in round goby access cages
+by wave action dislodging and removing zebra mussels.
+Because no dislodged zebra mussels were observed
+in round goby exclusion cages, it is unlikely
+that dislodgment in round goby access cages could
+account for reduced zebra mussel densities.
+Community Responses
+Zebra mussel colonization adds structural complexity
+to benthic substrata and channels nutrients to
+benthic invertebrates via fecal and pseudofecal production
+(Stanåczykowska and Lewandowski 1993,
+Lowe and Pillsbury 1995, Botts et al. 1996, Stewart
+et al. 1998). When zebra mussel densities are high,
+increased structural complexity and nutrient inputs
+provide refugia and food resources for invertebrates,
+respectively. Many of the invertebrates identified in
+this study are classified as shredders, scrapers, and
+collector-gatherers (Table 1) (Thorp and Covich
+1991, Merritt and Cummins 1996). These invertebrates
+are all potentially algivorous, and likely reduced
+chlorophyll a in high zebra mussel density
+treatments. The net result is that chlorophyll a levels
+in high zebra mussel density colonies and concomitant
+high grazer densities are similar to those without
+zebra mussels and hence no nutrient enrichment
+from mussel feces and pseudofeces. Thus, the low
+zebra mussel density treatments exhibited the highest
+chlorophyll a concentrations.
+Chlorophyll a on experimental tiles was significantly
+higher in the presence of round gobies. This is
+likely because of round goby predation on grazing
+invertebrates, thereby releasing algae from grazing
+pressure. When round gobies were excluded, however,
+invertebrate numbers were significantly higher
+(50%), resulting in lower chlorophyll a concentrations.
+These results are consistent with previous
+studies that have reported indirect effects of predators
+on algal communities by altering herbivore assemblages
+(McCormick 1990, Bechara et al. 1992,
+Brönmark et al. 1992, Power 1992, Wootton, 1992,
+McCollum et al. 1998).
+The invasion of round gobies and zebra mussels
+into Lake Michigan has the potential to change food
+web dynamics of benthic communities in nearshore
+rocky areas. Although the design of this study did
+not allow distinguishing between direct and indirect
+effects, these results can be used to develop a conceptual
+model of littoral zone interactions in southern
+Lake Michigan that illustrates possible direct and
+indirect effects of round gobies and zebra mussels on
+benthic communities. A series of complex interactions
+between round gobies, zebra mussels, and benthic
+invertebrates can directly and indirectly affect
+food resources and energy flow, thereby altering the
+structure and function of littoral zone communities
+in nearshore areas of Lake Michigan and other Laurentian
+Great Lakes.

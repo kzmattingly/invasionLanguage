@@ -1,0 +1,96 @@
+---
+title: "Extract word frequencies"
+author: "Kali Mattingly"
+date: "March 31, 2019"
+output: html_document
+---
+
+
+Required packages
+```{r}
+require(readr)
+require(tm)
+```
+
+
+strcount: a function to count frequency of a given word in text object (is called by next function)
+```{r}
+strcount <- function(x, pattern, split){
+  unlist(lapply(
+    strsplit(x, split),
+    function(z) na.omit(length(grep(pattern, z)))
+  ))
+}
+```
+
+
+wordcounts: a function that counts frequency of a given word in a given text object
+```{r}
+wordcounts <- function(filename, word) {
+  textfile <- read_file(filename)
+  textfile <- gsub("-\\n ", "", textfile)
+  textfile <- gsub("-\\n", "", textfile)
+  textfile <- gsub("- \\n ", "", textfile)
+  textfile <- gsub("- \\n", "", textfile)
+  textfile <- gsub("- ", "", textfile)
+  textfile <- gsub("-", "", textfile)
+  textfile <- gsub("–\\n ", "", textfile) 
+  textfile <- gsub("–\\n", "", textfile)
+  textfile <- gsub("– \\n ", "", textfile)
+  textfile <- gsub("– \\n", "", textfile)
+  textfile <- gsub("– ", "", textfile) 
+  textfile <- gsub("–", "", textfile) 
+  textfile <- gsub("\\n", " ", textfile) 
+  textfile <- gsub("\\r", " ", textfile)
+  textfile <- removePunctuation(textfile) 
+  textfile <- removeNumbers(textfile) 
+  textfile <- tolower(textfile)
+  name <- regmatches(filename, gregexpr("(?<=Text files/).*(?=(.txt))", filename, perl=TRUE)) 
+  name <- as.character(name)
+  name <- tolower(name)
+  word <- deparse(substitute(word))
+  total <- (strcount(textfile, "[[:alpha:]]+", " ")) 
+  freq <- strcount(textfile, word, " ")/total 
+  return(list(name, freq))
+}
+```
+
+
+example: loop through text files of literature included in Mattingly et al. to get frequency of "invasive"
+```{r}
+dest <- paste(getwd(),"/Text files",sep="") # directory for text files of each article
+myfiles <- list.files(path=dest, full.names=TRUE)
+allarticles <- lapply(myfiles, function(filename) {
+  textfile <- read_file(filename)
+  textfile <- gsub("-\\n ", "", textfile)
+  textfile <- gsub("-\\n", "", textfile)
+  textfile <- gsub("- \\n ", "", textfile)
+  textfile <- gsub("- \\n", "", textfile)
+  textfile <- gsub("- ", "", textfile)
+  textfile <- gsub("-", "", textfile)
+  textfile <- gsub("–\\n ", "", textfile) 
+  textfile <- gsub("–\\n", "", textfile)
+  textfile <- gsub("– \\n ", "", textfile)
+  textfile <- gsub("– \\n", "", textfile)
+  textfile <- gsub("– ", "", textfile) 
+  textfile <- gsub("–", "", textfile) 
+  textfile <- gsub("\\n", " ", textfile) 
+  textfile <- gsub("\\r", " ", textfile)
+  textfile <- removePunctuation(textfile) 
+  textfile <- removeNumbers(textfile) 
+  textfile <- tolower(textfile)
+  name <- regmatches(filename, gregexpr("(?<=Text files/).*(?=(.txt))", filename, perl=TRUE)) 
+  name <- as.character(name)
+  name <- tolower(name)
+  total <- (strcount(textfile, "[[:alpha:]]+", " ")) # in mattingly et al., total = count - 5 because we inserted indexing words to separate abstract, introduction, methods, results, discussion
+  freq <- strcount(textfile, "invasive", " ")/total # replace "invasive" with other words for further counts
+  return(list(name, freq))
+})
+
+
+# process output
+n <- length(myfiles)
+allarticlesdf <- data.frame(matrix(unlist(allarticles), nrow=n, byrow=T), stringsAsFactors=FALSE)
+allarticlesdf$X2 <- as.numeric(allarticlesdf$X2)
+colnames(allarticlesdf) <- c("refname","frequency")
+```

@@ -1,0 +1,334 @@
+xabstract
+ In soft sediments, Dreissena spp. create firm substrate in the form of aggregates of living
+mussels (druses) that roll free on the sediments. Druses provide physical structure which increases
+habitat heterogeneity, and the mussels increase benthic organic matter through the production of
+pseudofeces and feces. Descriptive and experimental studies were used to determine: 1) whether the
+density of benthic invertebrates in soft sediments increased in the presence of druses, and 2) whether
+the invertebrate assemblage responded to the physical structure provided by a druse or to some biotic
+effect associated with the presence of living mussels. In core samples collected biweekly during
+summer in Presque Isle Bay, Erie, Pennsylvania, amphipods, chironomids, oligochaetes, turbellarians,
+and hydrozoans were significantly more abundant in sand with druses than in bare sand. When
+mesh bags containing either a living druse, non-living druse, or no druse were incubated in the bay
+for 33 d, we found that chironomids were significantly more abundant in treatments with living
+druses than with non-living druses, and in treatments with non-living druses than with no druse;
+turbellarians, amphipods, and hydrozoans were significantly more abundant in treatments with liv-
+ing or non-living druses than with no druse; oligochaetes showed no significant differences among
+treatments. This study demonstrates that most taxa of benthic invertebrates in soft substrate respond
+specifically to the physical structure associated with aggregates of mussel shells, but further study is
+needed to examine chironomid responses to some biotic effect dependent on the presence of living mussels.
+
+xintroduction
+Zebra mussels (Dreissena polymorpha) and
+quagga mussels (Dreissena bugensis) are charac-
+terized by their ability to colonize virtually any
+firm surface, given suitable environmental con-
+ditions. They create structurally complex masses
+of shells and byssal threads (Mellina and Ras-
+mussen 1994). The tendency of Dreissena to col-
+onize most firm substrates has fouled water in-
+take pipes and other submerged structures (Ko-
+valak et al. 1993) and increased the number of
+benthic invertebrates inhabiting rocky sub-
+strates in the Great Lakes (Dermott et al. 1993,
+Griffiths 1993, Stewart and Haynes 1994).
+Where hard substrate is extensive and zebra
+mussels are dense, mussel filtration can reduce
+planktonic biomass (MacIsaac et al. 1992). Un-
+used particles and nutrients such as N and P
+are concentrated in mucus pellets called pseu-
+dofeces that, together with feces, accumulate in
+and around masses of mussels (Ten Winkel and
+Davids 1983, Hamburger et al. 1990, Stafczy-
+kowska and Lewandowski 1993).
+Where hard substrate is rare, the lack of ap-
+propriate settlement sites for metamorphosed
+larvae results in smaller mussel populations
+(Mellina and Rasmussen 1994). In such habitats,
+mussels aggregate to form "druses" when lar-
+vae settle onto small pebbles or other hard ob-
+jects and new mussels settle on top of older
+mussels (Nalepa and Schloesser 1993). Druses
+can range in size from 2 cm to more than 10 cm
+in diameter and can consist of 10s to 100s of
+individuals. Druses are not permanently fixed
+to the substrate, but they provide "mobile"
+patches of hard substrate consisting of shell sur-
+faces and interstices suitable for use by other
+benthic organisms.
+Planktonic algae and nutrients deposited as
+pseudofeces should enhance detritus-based
+benthic food webs (Hamburger et al. 1990), but
+the relative importance of physical structure
+and translocation of planktonic energy to the
+benthos can be difficult to sort out in the ab-
+sence of manipulative experiments. We hypoth- esized that druses could affect densities of ben-
+ thic invertebrates in soft substrate by providing
+ increased physical structure (habitable surface)
+ or by providing increased resources through
+ some biotic mechanism (e.g., pseudofeces pro-
+ duction).
+
+xmethods
+Study site
+Descriptive and experimental studies were
+conducted within a single 125-m2 area of the
+bottom of Presque Isle Bay, Erie, Pennsylvania.
+The study site was off Leo's Landing, a small
+peninsula extending from Presque Isle (42?10'N,
+80?5'W) into the bay. All descriptive and exper-
+imental work was done on bare sand substrate
+within 20-30 m of shore in water <0.5 m deep.
+Druses, ranging in size from 2 cm to 8 cm in
+their widest dimension, were abundant at this
+location (>5-10/m2).
+Descriptive study
+We collected 3 randomly placed core samples
+(9 cm diameter x 5 cm deep) of bare sand and
+3 randomly placed core samples of sand asso-
+ciated with an overlying druse biweekly from 7
+June to 17 August 1994. Hand-cored samples
+were placed in 1-L plastic jars, preserved in 10%
+formalin, and stained with rose bengal. In the
+laboratory, each sample was rinsed through a
+61-pIm sieve under running water; when a druse
+was present, it was broken apart manually and
+rinsed over the sieve. We made no attempt to
+separate organisms living in a druse from or-
+ganisms living in the sand under a druse be-
+cause: 1) we could not sample only the sand un-
+der a druse without contaminating it with or-
+ganisms from the druse and 2) druses are as-
+sociated with the underlying substrate rather
+than separate from it. Invertebrates were sorted
+using sugar flotation under a dissecting micro-
+scope at 7x magnification (Anderson 1959). Or-
+ganisms were classified to major taxonomic
+groups (Amphipoda, Chironomidae, Turbellar-
+ia, Oligochaeta, Hydrozoa).
+Habitable surface area in samples containing
+druses is greater than that in samples of sand
+only. In addition, druses with the same diame-
+ter may differ markedly in surface area depend-
+ing on the sizes and number of individuals in a
+particular druse. We were unable to find an ac-
+curate method for quantifying the surface area
+associated with the druses. To report inverte-
+brate abundances consistently, regardless of
+sample type, we present all abundances on the
+basis of number/m2 bottom surface area rather
+than total surface area available in the sample.
+Log-transformed data were analyzed using
+MANOVA (SAS Version 6.0, SAS Institute, Cary,
+NC) using date (5 biweekly events) and treat-
+ment (sand vs. sand+druse) as main effects.
+Normality was checked with Kolmogorov-Smir-
+nov tests, and homoscedasticity was confirmed
+with Burr-Foster q tests (Anderson and McLean
+1974) for each taxon.
+Experimental study
+On 15 July 1994, we began an experimental
+study using 9 replicates each of 3 zebra mussel
+treatments (no mussels, 4-cm-diameter non-liv-
+ing druses, and 4-cm-diameter living druses).
+We deployed the mussels by sewing them into
+flexible 5 cm x 10 cm plastic mesh bags (Dro-
+sophila culture bags, Carolina Biological Supply
+Co., >1 cm mesh size) attached by short pieces
+of monofilament fishing line to wooden stakes.
+The stakes were driven into the substrate until
+the bags rested on bare sand. Stakes were ran-
+domly placed within the study area, and each
+was least 2 m from any other. We did not re-
+move naturally occurring druses from the study
+area. In the case of the "no mussel" treatment,
+we used empty bags as a control.
+Non-living druses were created by gluing
+dried, cleaned zebra mussel shells together with
+silicone aquarium sealer. Shell halves were
+glued together to create "individuals", and "in-
+dividuals" were glued together to create druses
+that were approximately 4 cm in diameter. We
+were careful to leave interstices between indi-
+viduals, and, except for the glue, non-living
+druses strongly resembled living druses. Living
+and non-living druses were visually indistin-
+guishable at the time the experiment was ter-
+minated. The silicone sealer was allowed to cure
+in air for 1 wk before the beginning of the ex-
+periment, and druses were submerged briefly in
+lake water prior to deployment to remove air
+bubbles from the interstices and the pockets
+formed when shell halves were glued together.
+Living druses were collected from the site at
+the time of deployment. They were rinsed in  lake water prior to insertion into the mesh bags,
+ but we made no systematic attempt to remove
+ all existing epi- or intrafauna on living druses
+ as this would have resulted in destruction of the
+ living druse. Although non-living and living
+ druses were similar in overall size (-4 cm in
+ diameter), we did not control surface area, in-
+ terstitial volume, or numbers and sizes of indi-
+ viduals in a druse.
+ Bags and their contents were exposed to col-
+ onizers for 33 d. Each bag was retrieved by clip-
+ ping its monofilament line and slipping a 9-cm-
+ diameter corer over it as it rested on the sub-
+ strate. The corer was pressed 5 cm into the sand,
+ and the bag, its contents, and the sand under it
+ were collected. All samples were preserved and
+ processed as previously described, except that
+ 10 randomly selected chironomid larvae from
+ each sample were mounted in CMCP-9 for iden-
+ tification to genus using the keys in Wiederholm
+ (1983).
+ Data were analyzed using MANOVA (SAS
+ Version 6.0) using treatment as the main effect.
+ All abundances were converted to number/m2
+ bottom surface area and log-transformed to
+ meet normality and homoscedasticity assump-
+ tions. Differences among treatments were deter-
+ mined using a posteriori Student-Newman-
+ Keuls tests. Relative abundances of the 5 most
+ abundant chironomid genera were compared
+ using arcsin-transformed data and separate 1-
+ way ANOVAs with o = 0.01 to adjust for mul-
+ tiple tests of significance
+
+xresults
+Descriptive study
+Mean abundances of benthic invertebrates in
+all major taxonomic groups were higher in sand
+with druses than in bare sand (Wilk's lambda
+= 0.0469, p < 0.001, Fig. 1). Amphipods, chi-
+ronomids, and oligochaetes were 2-3X more
+abundant, and turbellarians and hydrozoans
+were 10-20x more abundant when druses were
+present.
+Invertebrate abundances increased as the
+summer progressed (Wilk's lambda = 0.0099, p
+< 0.0001, Table 1). Although amphipods, oli-
+gochaetes, and turbellarians increased, no
+change in hydrozoan abundance was detected.
+Chironomid abundances increased between 7
+June and 23 June, but showed no further
+changes during the summer.
+Mean abundances of invertebrates were af-
+fected by an interaction between date and type
+of substrate (Wilk's lambda = 0.0563, p <
+0.0007). Amphipod and turbellarian abun-
+dances increased more rapidly in sand with
+druses than in bare sand, but no such interac-
+tion affected chironomid or oligochaete abun-
+dances. Hydrozoan abundances were temporal-
+ly variable on both types of substrate, but they
+fluctuated more in sand with druses.
+Invertebrates were not uniformly distributed
+in the study site; rather, they had a patchy dis-
+tribution across two types of habitat: bare sand  and sand with druses. Assuming a density of
+ 10 druses/m2, we calculated a weighted average
+ abundance of invertebrates in the sediments
+ based on the mean abundance of invertebrates
+ in bare sand (11,860/m2, 96% of the substrate)
+ and in druse-associated sand (38,766/m2, 4% of
+ the substrate) for the summer. The mean patch-
+ weighted abundance of invertebrates for the en-
+ tire habitat was 12,937/m2.
+ Experimental study
+ Invertebrate abundances differed among
+ treatments (Wilk's lambda = 0.1304, p < 0.0001,
+ Fig. 2). Chironomids were more abundant in bags containing living iving druses, and less abun-
+ dant in empty bags. Amphipods, turbellarians,
+ and hydrozoans were more abundant in bags
+ containing either living or non-living druses
+ than in empty bags, but abundances did not dif-
+ fer between bags containing living and non-liv-
+ ing druses. Oligochaete abundances were simi-
+ lar in all treatments.
+ Taxonomic composition of chironomids was
+ similar in all three treatments (Fig. 3). Pseudo-
+ chironomus sp. and Stictochironomus sp. were the
+ more abundant taxa in all treatments. Other
+ taxa that made up more than 2% of the chiron-
+ omids present in at least one treatment were
+ Cladotanytarsus mancus group, Cryptochiron  sp., and Orthocladius s. str. We detected no sig-
+ nificant differences in relative abundances of
+ any chironomid genus among treatments (p >
+ 0.05 for all taxa).
+
+xdiscussion
+In the Laurentian Great Lakes, total inverte-
+brate abundances have increased, and species
+compositions have shifted, following coloniza-
+tion of hard substrata by zebra mussels (Der-
+mott et al. 1993, Griffiths 1993, Stewart and
+Haynes 1994). Investigators have assumed that
+invertebrates responded either to physical struc-
+ture provided by the mussels or to biotic effects
+such as organic enrichment resulting from pseu-
+dofeces production. Our study in soft substrate
+extends the understanding of mechanisms be-
+hind the changes by demonstrating experimen-
+tally that, at least in Presque Isle Bay, most in-
+vertebrate taxa respond to the physical structure
+rather than to biotic effects.
+Following manipulation of invertebrate as-
+semblages in a Chernobyl cooling pond, Step-
+nev et al. (1994) reported that species composi-
+tion and invertebrate abundances were similar
+on live mussels and mussel analogues. In our
+study, the similar responses of amphipods, tur-
+bellarians, and hydrozoans to living and non-
+living druses suggest that the structure of the
+druse influences these taxa more strongly than
+biotic effects associated with living mussels. The
+implication of this influence is that, even if mas-
+sive mussel die-off were to occur (assuming no
+serious oxygen depletion associated with the de-
+composition of dead mussels), increased abun-
+dances of invertebrates could persist in the pres-
+ence of shell habitat left by zebra mussels.
+The design of our experimental study result-
+ed in 2 important artifacts that may have influ-
+enced invertebrate abundances. First, the stakes
+and mesh bags provided structure beyond that
+of the enclosed mussels. Second, we increased
+spatial predictability and decreased physical
+disturbance on experimental druses by "teth-
+ering" druses on the same patch of sand for a
+month. We cannot evaluate the effect of tether-
+ing druses in this experiment, but the structural
+influence of stakes and bags can be seen by
+comparing invertebrate abundances in empty
+bags (Fig. 2, Experimental study) with those in
+bare sand on 17 August (Table 1, Descriptive
+study). The samples were collected on the same
+day, but abundances of all taxa were higher in
+empty bags than in bare sand. We suggest that
+invertebrates increased in response to the struc-
+ture associated with the stakes and bags used
+in the experimental study. The response was
+particularly marked for oligochaetes. Despite
+their strong preference for druses in the descrip-
+tive study (Fig. 1), oligochaete abundances did
+not differ among experimental treatments (Fig.
+2). Oligochaetes may have responded so strong-
+ly to the structure provided by stakes and bags
+that we were unable to detect any additional
+responses to druses.
+The statement often has been made that zebra  mussels enhance benthic invertebrate abun-
+ dances through production of pseudofeces, but
+ no critical tests of this assertion have been made
+ until now. On the basis of our experimental
+ study, we conclude that amphipods, turbellari-
+ ans, oligochaetes, and hydrozoans respond to
+ the physical structure of druses. We found no
+ evidence of a numerical response of these taxa
+ to biotic effects, which would include pseudo-
+ feces production. For chironomids, on the other
+ hand, we have shown that abundance can in-
+ crease significantly in response to biotic effects.
+ Because larvae could use pseudofeces either as
+ food or as building material during case con-
+ struction, we suggest that future work should
+ focus on pseudofeces as an important resource
+ for chironomids.

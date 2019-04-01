@@ -1,0 +1,263 @@
+xabstract
+Tarebia granifera (Lamarck, 1822) is one of the most widespread alien invasive molluscs around the world
+and was accidentally introduced into South Africa via the aquarium trade during the 1990s. It has invaded
+and spread in the estuaries and lakes of the iSimangaliso Wetland Park, where it is often present in extremely
+high densities. There are no studies directly addressing the impact of T. granifera on benthic fauna of invaded
+habitats in South Africa. This study aimed to compile useful historic and current benthic community and
+environmental data for a comparison between pre- and post-invasion scenarios involving T. granifera in
+the shallow water habitats (depth < 2.6 metres) of different lakes in the iSimangaliso Wetland Park. Results
+provide evidence that T. granifera can dominate and thus significantly affect native invertebrate assemblage
+composition. Under certain environmental conditions, some native gastropod species can be displaced by
+T. granifera. However, T. granifera does not appear to markedly affect the biodiversity of aquatic coastal
+ecosystems. This study serves as a baseline for future research. There is a need for empirical approaches,
+addressing the extent and specific mechanisms of the ecological impact of T. granifera.
+
+xintroduction
+Some successful alien species can become established in a new habitat and produce
+large populations, which have the potential to negatively affect native communities
+(Lockwood et al. 2007). However, in coastal habitats such as estuaries, alien invasive
+species (AIS) do not necessarily threaten biodiversity. Introduced alien species may
+even have an additive effect on communities and positively contribute to ecosystem
+functioning (Reise et al. 2006).
+The ecological effects of AIS tend to be case-specific and data from a variety of
+sources and obtained by various techniques are necessary for analysis and detection of
+any impacts on native assemblages. However, there are many challenges in the way of
+assessing the effects that successful invaders have on native communities. There is often
+a lack of pre-impact data in AIS impact studies, but when such information is available,
+it can be useful as a baseline for comparison with the current invasion scenario, thus
+providing a kind of insight that cannot be gained in any other way.
+The iSimangaliso Wetland Park is an UNESCO World Heritage Site in north-eastern
+South Africa. The Kosi Lakes, Lake Sibaya and the St Lucia Estuary are Ramsar Wetlands
+of International Importance within iSimangaliso (Fig. 1). All of these locations have
+recently been invaded by Tarebia granifera (Lamarck, 1822), an alien gastropod that
+can reach densities of over 20000 ind.m-2, displace other species, and become a dominant
+component of shallow water invertebrate assemblages (Miranda et al. 2011b). T.
+granifera is a caenogastropod (Thiaridae), originally from south-east Asia. This aquatic
+snail ranges in shell height from 1 to 30 mm. It is parthenogenetic and eu-viviparous,
+giving birth to fully developed juveniles. T. granifera has invaded several subtropical
+parts of the world (Chaniotis et al. 1980; Karatayev et al. 2009; Lόpez-Lόpez et al.
+2009). Although it is regarded as a freshwater species, T. granifera is also pre-adapted to
+brackish environments (Miranda et al. 2011b). Populations are essentially composed of
+females which reach sexual maturity at a shell height between 6 and 8 mm (Miranda et
+al. 2011b). T. granifera was accidentally introduced into South Africa via the aquarium
+trade during the 1990s (Appleton & Nadasan 2002) and was discovered for the first
+time in the St Lucia Estuary in 2005 (Appleton et al. 2009; Miranda et al. 2010). This
+AIS has since spread and invaded different water bodies, including estuaries and lakes,
+in the north-eastern areas of South Africa, while its ecological impacts remain largely
+unknown (Appleton 2003; De Kock & Wolmarans 2008; Appleton et al. 2009).
+Pre-invasion data are available in the literature for different major lakes within
+the iSimangaliso Wetland Park. This study addresses the effects of the invasion by
+T. granifera on shallow water benthic assemblages. Based on the hypothesis that T.
+granifera as well as environmental changes affect macrofaunal assemblage composition
+and biodiversity, a pre-invasion scenario, comprising benthic macrofauna abundance
+data collected before the introduction of T. granifera into iSimangaliso, is compared
+with the recent post-invasion scenario.
+
+xmethods
+Data collection
+Efforts were made to compile the longest and most complete data set for the different
+lakes of iSimangaliso, which could provide information relevant to a comparison between
+pre- and post-invasion scenarios involving T. granifera. Benthic communities were
+sampled and environmental data collected from a number of sites between 1968 and
+2013. Environmental parameters at study localities during different seasons are presented
+in Table 1, and details of collection methods and sources are given in Tables S1 and
+S2. Unless otherwise indicated, data were collected during quarterly surveys conducted
+by the University of KwaZulu-Natal in collaboration with Ezemvelo KwaZulu-Natal
+Wildlife as well as during opportunistic sampling trips. Data are from specific shallow
+water (depth < 2.6 m) sites at Lake Nhlange (LN), Lake Sibaya (LS), Lake Bhangazi
+South (LB) and St Lucia’s South Lake (SL) (Fig. 1). Environmental data such as salinity,
+temperature, and dissolved oxygen content were measured with YSI multiprobe
+systems (556, 6920 or 6600) at the sediment-water interface. For sediment particle-size
+analyses, pre-weighed (dry-weight) sediment was passed through a 2000 mm sieve.
+The sediment that passed through this sieve was analysed by a Malvern Analyzer. The
+sediments retained by the 2000 mm sieve were weighed and incorporated with the data
+obtained from the Malvern Analyzer to determine median particle sizes (phi). Benthic
+assemblage data were standardised to ind.m-2 and are assumed to be representative, at
+least in a broad sense. Times before and after T. granifera invasion were defined as years
+before and after 2001. Analyses were based on 36 taxa, which were identified to the
+following levels: 19 to species, 4 to genus, 1 to family, 8 to order, 3 to sub-class and 1 to
+class. Taxa were classified in a manner that promotes consistency across the data (Ellis
+1985; Terlizzi et al. 2003). In summary, four lakes were sampled before 2001 and then
+again later, by which time three of them had been invaded (LN, LS and SL) and one
+remained uninvaded (LB). Two of the lakes (LS and SL) have 3 sample sites (replicated
+1–3 times), while the other two (LN and LB) have 1 sample site (replicated 3 times).
+Statistical analysis
+To visualize multivariate patterns, non-metric multidimensional scaling (nMDS)
+ordinations were performed using PRIMER v.6.1.15 (Clarke 1993; Clarke & Warwick
+2001) on benthic community and environmental data. Bray-Curtis similarity matrices
+were calculated on untransformed assemblage data and environmental variables were
+normalised to a common scale. PERMANOVA+ v.1.0.5 (Anderson et al. 2008) was
+used to test for differences between sites before T. granifera invasion (B), sites invaded
+subsequently (AI), and sites that remained uninvaded, despite T. granifera invasion
+elsewhere (AU) – the “B/A U/I” fixed term. The different lakes are represented by the
+“L” fixed term. The “S(B/A U/I)” random term represents seasons (S) nested in the “B/A
+U/I” term. Results were interpreted using a conservative significance level of α = 0.01.
+The SIMPER routine (Clarke & Warwick 2001) was used to identify the percentage
+contribution that each taxon made to the measures of the Bray-Curtis similarity within
+locations, before and after T. granifera invasion. RELATE (Clarke & Warwick 2001) was
+used to measure how closely related the assemblage data were to environmental data.
+BEST (Clarke & Warwick 2001) was used to determine the combination of environmental
+variables that best matched biological patterns.
+The DIVERSE function (Clarke 1993; Clarke & Warwick 2001) was used to calculate
+the following community parameters (from untransformed data) at each location: taxonomic
+richness (S, expressed as total number of taxa), total abundance (N, expressed as
+ind.m-2), Shannon Wiener Diversity Index (H', as log base e) and Simpson’s Index (λ).
+The same PERMANOVA design as described above was used to analyse these data.
+
+xresults
+The mean abundances of key benthic macrofaunal taxa at study localities in the
+iSimangaliso Wetland Park before the invasion by T. granifera are presented in
+Fig. 2. Each lake had a different composition of key taxa. Lake Nhlange had a community
+dominated by polychaetes, chironomid larvae, amphipods and the bivalve Brachidontes
+virgiliae (Barnard, 1964). Lake Bhangazi South had a typical freshwater assemblage
+dominated by chironomid larvae, oligochaetes, the gastropod Melanoides tuberculata
+(Müller, 1774) and the freshwater shrimp Caridina sp. Lake Sibaya was dominated by
+oligochaetes, chironomid larvae, amphipods and the tanaid Apseudes digitalis (Brown,
+1956). St Lucia’s South Lake was dominated by Assiminea sp., polychaetes, copepods
+and amphipods. The mean abundances of key benthic macrofauna at study localities
+after the invasion by T. granifera are presented in Fig. 3. T. granifera exhibits extremely
+high abundances (> 1000 ind. m-2) and dominates the shallow water benthic assemblages
+of Lakes Nhlange, Sibaya and St Lucia’s South Lake. Lake Bhangazi South remains
+uninvaded by T. granifera and is dominated by insects and Caridina sp.
+Our results reveal wide dispersion structures of benthic assemblage data at different
+lakes before T. granifera invasion and at uninvaded sites, whereas invaded sites where
+T. granifera is present are tightly aggregated (Fig. 4A). Environmental data also exhibit
+a relatively wide dispersion, but no apparent disparate aggregations (Fig. 4B). Benthic
+assemblage data are strongly matched with environmental data (RELATE, ρ = 0.312,
+p < 0.1 %). There are significant differences between sites before T. granifera invasion
+and recently invaded and also uninvaded sites, only in terms of benthic assemblage data
+(B/A U/I, Table 2). There are no significant differences between lakes (L) or between the
+groups of the interaction factor (B/A U/I × L), in terms of either benthic communities
+or environmental data (Table 2). There are, however, significant differences between
+seasons (S(B/A U/I)) and also between the groups of interaction factor (S(B/A U/I) × L),
+in terms of both benthic communities and environmental data (Table 2).
+The following combination of environmental factors provides the best correlation
+with benthic assemblage data: salinity, dissolved oxygen content, pH and sediment
+particle size (Table 3).
+Differences in terms of community structure between localities before T. granifera
+invasion are attributable to a wide variety of taxa, such as polychaetes, the bivalve
+Brachidontes virgiliae, chironomid larvae, oligochaetes, coleopterans (water beetles)
+and the native gastropod Assiminea sp. (Table 4). In Lake Bhangazi, the only lake
+that has not yet been invaded, the freshwater shrimp Caridina sp. continues to make
+a significant contribution to Bray-Curtis similarities (Table 4). However, at invaded
+localities, T. granifera can be the most prevalent taxon, contributing 32.18–99.44 % to
+Bray-Curtis similarities (Table 4).
+Community parameters (S, N, H' and λ) are presented in Fig. 5. Lake Sibaya appears
+to have been the most species rich (S) locality before T. granifera invasion. The highest
+abundances (N) were recorded at St Lucia’s South Lake before T. granifera invasion.
+The Shannon biodiversity index (H') appears to be generally higher for all localities at
+times before T. granifera invasion, whereas the Simpson index (λ) appears to be generally
+higher after invasion (Fig. 5). However, our results show no significant differences between
+sites before T. granifera invasion and recent invaded or uninvaded sites, in terms
+of any community parameters (B/A U/I, Table 5). There are also no significant differences
+between lakes (L) or between the groups of the interaction factor (B/A U/I × L) (Table 5)
+or between seasons (S(B/A U/I)). However, there were significant differences between
+groups of interaction factor (S(B/A U/I) × L) in terms of abundance (N) and Shannon
+index (H'), indicating significant variation at that temporal scale between different
+groups of sites before invasion (B), after invasion (AI), and also taking into account
+sites that were still uninvaded after invasion had taken place elsewhere (AU) (Table 5).
+
+xdiscussion
+The current study highlights the numerical dominance of T. granifera over benthic
+assemblages in different estuarine and freshwater lakes of the iSimangaliso Wetland
+Park (Fig. 3). This AIS is capable of maintaining densities of over 1000 ind.m-2 at invaded
+sites. Population numbers do vary and fluctuate, due to variable environmental
+conditions which can at times either be favourable or very harsh (Miranda et al.
+2011b). This is particularly evident at an invaded site of St Lucia’s South Lake, when
+on some occasions extremely high T. granifera densities were recorded, whereas on
+other occasions the incursion of seawater had wiped out virtually the entire population
+(Miranda et al. 2011b). However, T. granifera always seems to recover and persist
+due to its exceptional environmental tolerance and parthenogenetic trait (Miranda et
+al. 2010; Miranda et al. 2011b). Interestingly, Lake Bhangazi South does not appear
+to have been invaded by T. granifera, possibly because of its unique water chemistry,
+particularly its low pH levels (Hart & Appleton 1997). Although a close correlation
+between environmental and biological data can be expected, interactions between
+alien invasive species and environmental variability are poorly understood and need
+to be addressed in future work. Multivariate analyses seem to suggest that T. granifera
+may be causing homogenisation across the different coastal lakes of iSimangaliso
+(Fig. 4A). However, univariate analyses of community parameters indicate that seasonal
+environmental conditions, rather than T. granifera invasion, have a more significant
+impact on biodiversity (Table 5).
+Some alien gastropod species can successfully invade a wide variety of habitats
+and produce very large populations. Two typical examples are the South American
+golden apple snail (Pomacea canaliculata Lamarck, 1822), which has spread through
+southeastern Asia (Fang et al. 2010), and the New Zealand mud snail (Potamopyrgus
+antipodarum Gray, 1843), which has invaded Europe, North America and Australia
+(Hall et al. 2003; Alonso & Castro-Díez 2008). Many studies have focused on the
+impact that these gastropods have on primary producers. Although T. granifera also has
+the potential to have a significant feeding impact (Miranda et al. 2011a), it has often
+been reported in the literature as reducing the population densities of native molluscs
+(Karatayev et al. 2009; López-López et al. 2009). T. granifera has invaded North and
+South America as well as Africa (Abbott 1952; Pointier et al. 2003; Ben-Ami 2006;
+Appleton et al. 2009). This species is responsible for the displacement and evident
+eradication of several Biomphalaria species and Pachychilus violaceus (Preston, 1911)
+in Cuba (Pointier & Jourdane 2000).
+In South Africa, the need to document broader implications of the invasion of successful
+AIS on native community structure is well known (e.g. Robinson et al. 2007).
+Appleton et al. (2009) predicted that T. granifera is likely to alter the structure and
+diversity of benthic communities in the habitats it invades. The list of susceptible
+invertebrates includes bivalves, odonates (dragonfly nymphs), polychaete worms,
+isopods and amphipods, decapod shrimps and crabs, as well as native gastropods
+(Appleton et al. 2009). Although the current study cannot provide conclusive support,
+it does indicate that T. granifera can significantly affect assemblage composition in
+shallow waters. In the invaded site of Lake Nhlange, T. granifera dominates the benthic
+assemblage at least during the wet season. Following the invasion by T. granifera, the
+entire eastern shore of Lake Sibaya is dominated by this mollusc, as reflected by results
+from the three sites sampled in both the wet and dry seasons. Notably, M. tuberculata,
+which had been recorded there in the past, is not currently found. Only one of the three
+sites in the South Lake of St Lucia was invaded. T. granifera does not dominate the
+whole shoreline of South Lake. However, it is present in high abundances at freshwater
+seepage points along the eastern shores, together with Assiminea cf. capensis (Bartsch,
+1915), a key and often dominant taxon in the St Lucia estuarine lake (see Miranda et
+al. 2014 and Perissinoto et al. in press). It is important to note that although samples
+were collected in shallow waters, these are very important habitats (Lopez et al. 2006).
+Nevertheless, this methodological constraint does not reveal whether native species can
+simply be displaced to deeper waters rather than eradicated by T. granifera. Although
+M. tuberculata could not be found at Lake Sibaya, it occurs together with T. granifera
+at Lake Nhlange, so it is possible that it has been displaced. Indeed, displacement of
+M. tuberculata by T. granifera has been previously reported elsewhere (Pointier et al.
+1998; López-López et al. 2009; but see Karatayev et al. 2009). There is also evidence
+that the displacement mechanism associated with T. granifera is driven by chemical
+cues which can affect a variety of native gastropods (Raw et al. 2013).
+The current study directly addresses the effects of T. granifera on benthic assemblages
+of invaded habitats in South Africa and takes into consideration pre-invasion data.
+Ecological impacts can be addressed using analysis of variance, where changes in
+the magnitude of single response variables, such as community parameters, can be
+compared between putatively impacted locations and unaffected, or control, locations.
+This principle has been expanded in the beyond-BACI (before/after – control/impact)
+approach (Underwood 1992; Underwood 1993), where data are collected at putatively
+impacted and multiple control locations, before and after a given disturbance takes
+place. The current study set-up mimics to a large extent a beyond-BACI framework.
+However, the data set is composed of data collated from a variety of different sources. The
+collection techniques are therefore only very broadly analogous and involve collection in
+a haphazard manner and at irregular intervals over time. Although this data set is arguably
+the best that could be compiled for the study area, it is not adequately robust. Furthermore,
+coastal lakes are inherently variable ecosystems and even studies carried out using the
+same methodology, at the same time, and in the same areas within iSimangaliso, have
+produced significantly different results (MacKay et al. 2010). This obviously lowers
+our confidence in the results. However, the key findings appear to be reasonable and
+their interpretation should be taken into account in future studies. Despite its limitations
+(Forrest & Taylor 2002), an adapted BACI framework was successfully used to address
+AIS impact. In the absence of reliable pre-invasion data, a similar study design adapted
+to handle post-invasion data only (see Glasby 1997; Miranda & Perissinotto 2014), can
+also be used. These types of studies are descriptive, so the findings cannot be used to
+infer what processes caused or are causing differences in faunal assemblages. There
+are many potential mechanisms that can result in changes in invertebrate assemblages
+exposed to variable environmental conditions or invasive species. More rigorous experimental
+designs are necessary to research these mechanisms (e.g. Raw et al. 2013).
+Conclusions about the impact of T. granifera on benthic assemblages are beyond the
+scope of this work. However, this study does show that T. granifera can dominate and thus
+significantly affect native assemblage composition. Seasonal changes in environmental
+parameters must be taken into consideration, as they can have overriding effects on
+whole communities. Interestingly, T. granifera does not appear to negatively affect the
+biodiversity of aquatic coastal ecosystems, so perhaps its effects are additive, as are
+the effects of many other invasive species (Reise et al. 2006; Miranda & Perissinotto
+2014). Under certain environmental conditions, however, some native gastropod species
+do appear to be displaced by T. granifera (see also the biodiversity census of
+Perissinotto et al. in press). The characteristic high densities and parthenogenetic trait
+of T. granifera ensure its persistence and spread within iSimangaliso. It may thus be
+impossible to eradicate this AIS (Miranda et al. 2011b). Further studies and empirical
+approaches that investigate the extent and specific mechanisms of the ecological impact
+of T. granifera, are needed before management action is considered. This study serves
+as a baseline for future research into the effects of T. granifera on benthic assemblages
+(see also Miranda & Perissinotto 2014).

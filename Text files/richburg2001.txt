@@ -1,0 +1,925 @@
+xabstract
+
+
+Kampoosa Bog in Stockbridge, Massachusetts, USA is a 70-ha wetland comprised of calcareous
+
+basin fen and red maple swamp bordered, in part, by roads including the Massachusetts Turnpike. High salt
+
+concentrations in the ground water (due to the application of deicing salts on the Turnpike) and Phragmites
+
+australis colonies appear to be impacting the native vegetation at this site. Sodium and chloride concentrations
+
+at Kampoosa Bog are generally below previously published threshold levels for impacting vegetation,
+
+although such levels vary by species and in relation to other environmental stress conditions. Giant reed
+
+(Phragmites), a salt-tolerant invasive species, invaded the northern portion of the wetland adjacent to the
+
+Turnpike and a gas pipeline sometime after they were built in the 1950s. By 1998, Phragmites had formed
+
+dense colonies that continued to spread across the wetland, which supports several state-listed rare plant and
+
+animal species. High salt concentrations (Na	  112 mg/L, Cl-  54 mg/L) are present up to 300 meters
+
+from the Turnpike. Phragmites colonies occur in areas with high and low salt concentrations, and the species
+
+abundance is not well-correlated with elevated salt levels. Although high salt concentrations and Phragmites
+
+abundance do not seem to produce an interaction effect on the vegetation of the wetland, the graminoid fen
+
+community is impacted by both factors separately. We attribute decreases in the abundance of species
+
+between invaded and non-invaded areas to the presence of Phragmites. In the graminoid fen, we attribute
+
+decreases in both community measures (richness, evenness, and overall cover) and individual species abundances
+
+to high salt concentrations. xintroduction
+
+
+Kampoosa Bog, located in western Massachusetts,
+
+USA (latitude 42 17íN, longitude 73 18íW), is a
+
+large (70 ha) circumneutral (pH 6.3ñ7.3) wetland complex
+
+(graminoid fen, shrub fen, red maple swamp) that
+
+supports several rare plant and animal species and is
+
+currently thought to be threatened by deicing salts and/
+
+or invasion by giant reed (Phragmites australis [Cav.]
+
+Trin. ex Steudel) (Figure 1). Deicing salts, consisting
+
+primarily of rock salt (sodium chloride) and liquid calcium
+
+chloride, are used on roadways to prevent and
+
+remove the buildup of ice. Deicing salts impact local
+
+water quality, vegetation, and soils by directly increasing
+
+concentrations of sodium, chloride, magnesium,
+
+and calcium (Hutchinson and Olson 1967, Prior and
+
+Berthouex 1967, Schraufnagel 1967, Hutchinson 1970,
+
+Hofstra and Hall 1971, Lumis et al. 1976, Liem et al.
+
+1985, Simini and Leone 1986, Wilcox 1986a, 1986b).
+
+Continued infiltration of road salt into peatlands can
+
+result in long-term changes in peat chemistry and vegetation
+
+composition (Wilcox 1986a, 1986b, Wilcox
+
+and Andrus 1987, Pugh et al. 1996, Panno et al. 1999).
+
+Phragmites australis (hereafter referred to by its generic
+
+name) is a large, perennial, rhizomatous grass
+
+that often grows in near-monotypic stands and effectively
+
+out-competes other vegetation (Lapin and Randall
+
+1993). Although Phragmites is native to brackish
+
+coastal marshes of the northeastern U.S., during the
+
+last several decades, it has become highly invasive
+
+along streambanks and roadside ditches and in a variety
+
+of inland wetlands, including alkaline swamps.
+
+Marks et al. (1994) suggest that the native genotype
+
+may have hybridized with a non-native genotype (per problematic variety that is currently degrading native
+
+wetlands, a hypothesis that is addressed by Chambers
+
+et al. (1999). Besides deicing salts, other factors, such
+
+as pollution, alteration of the natural hydrologic regime,
+
+dredging, and increased sedimentation, may favor
+
+the invasion and continued spread of Phragmites
+
+(Roman et al. 1984).
+
+Kampoosa Bog, like many wetlands, has been impacted
+
+by human activities, including hydrologic alteration,
+
+logging, application of deicing salt to adjacent
+
+roadways, and non-native species introductions. Gaining
+
+knowledge of the specific impacts that these activities
+
+have on species composition, ecological processes,
+
+and the integrity of natural communities is an important
+
+step in the process of protecting natural systems
+
+from further degradation and of designing
+
+restoration activities. Our research assessed the relationship
+
+between salt concentrations, Phragmites
+
+abundance, and vegetation composition of Kampoosa
+
+Bog. Specifically, we evaluated three hypotheses: 1)
+
+Phragmites abundance is positively correlated with deicing
+
+salt concentrations, 2) fen vegetation differs in
+
+composition (richness, evenness, cover, and individual
+
+species abundances) between areas with high and low
+
+concentrations of sodium and chloride, and 3) fen vegetation
+
+differs in composition between areas with and
+
+without Phragmites.
+
+SITE DESCRIPTION
+
+Incorrectly named a bog, Kampoosa Bog is actually
+
+a circumneutral wetland complex that consists of a
+
+central open pond (1.3 ha) surrounded by a graminoid
+
+fen (9.2 ha), a shrub fen (4.4 ha), and a red maple
+
+swamp (55.8 ha). At least nineteen state-listed plant and animal species occur in the wetland complex, including
+
+5 endangered and 7 threatened species, as well
+
+as a unique lake-basin fen community (Weatherbee
+
+1994). The graminoid fen includes over 60 species and
+
+is characterized by sedges (Carex aquatilis, C. lasiocarpa
+
+Ehrh., Cladium mariscoides [Muhl.] Torr.) and
+
+low shrubs (Betula pumila L., Myrica gale, Potentilla
+
+fruticosa L., Vaccinium macrocarpon) growing on a
+
+thick peat mat. Water enters the complex via groundwater
+
+discharge and surface water from the surrounding
+
+approximately 546-ha watershed.
+
+The Massachusetts Turnpike crosses the northern
+
+portion of Kampoosa Bog (Figure 1), and when it was
+
+built in the mid-1950s, it most likely altered the hydrology
+
+of the system by changing the hydrologic connection
+
+with the northernmost portion of the wetland
+
+(Caljouw 1984). Construction of a gas pipeline in 1951
+
+near the Turnpike corridor (and additional pipeline
+
+construction along the right-of-way in 1971 and 1992)
+
+also impacted the wetland complex by disturbing the
+
+soils in the northern portion. Several large stands of
+
+Phragmites occur in the wetland. Although the date of
+
+its first occurrence in the area is not known, Phragmites
+
+was not apparent on aerial photographs taken in
+
+1952, 1972, 1985, and 1991. The graminoid fen did
+
+not appear to have any structural differences between
+
+areas that would and would not be later invaded by
+
+Phragmites (Richburg 1999). Although not apparent
+
+on the photography, Phragmites was well-established
+
+along the Massachusetts Turnpike by 1983 (Rawinski
+
+1983), and by 1992, it had invaded the northern section
+
+of the graminoid fen, a section of red maple
+
+swamp along the Turnpike, and the adjacent gas pipeline.
+
+Phragmites invasion at this site has variously
+
+been attributed to road-salt application, disturbance
+
+(from beaver, human, and other activities), hydrologic
+
+changes, and/or the invasive nature of Phragmites
+
+(Caljouw 1984, Weatherbee 1994). xmethods
+
+Water Chemistry
+
+Water chemistry was sampled to characterize the
+
+distribution of salt in the wetland. Fifty-seven wells
+
+were installed in 1996 and 1997 by subjectively locating
+
+nineteen 15x15m plots across the northeastern
+
+portion of the wetland. Plots were selected based on
+
+community type (fen or red maple swamp) and presence
+
+or absence of Phragmites. Within each plot, we
+
+randomly selected three of fifteen 3x5m subplots to
+
+receive wells. Plots were located in this northeastern
+
+portion of the wetland to capture differences in vegetation
+
+within the area with the greatest abundance of
+
+Phragmites and to sample the portion of the wetland
+
+assumed to be receiving the greatest influx of road salt
+
+from the Massachusetts Turnpike. In 1998, additional
+
+wells were installed to sample the entire wetland more
+
+completely by using eight east-west transects established
+
+200m apart in the western and southern portions
+
+of the wetland. Thirty-seven wells were installed at
+
+100-m intervals along the transects. Wells were made
+
+from 3.8-cm internal diameter Schedule 40 PVC pipe
+
+with the bottom 30 cm perforated and inserted to a
+
+depth of 60 cm.
+
+Water was collected from each of the 94 wells during
+
+a three-week period in June/July 1998. Sodium ion
+
+(Na	) concentrations (mg/L) and pH were measured
+
+and recorded in the field using a Hanna HI931101 sodium
+
+meter and a Hanna HI9023C pH meter, respectively
+
+(USGS 1983). Water samples were stored at
+
+room temperature (12ñ20C) until analyzed in the lab
+
+using a DR/2010 Hach spectrophotometer (method
+
+#8113, Hach Company 1997) for chloride ion (Cl-)
+
+concentration (mg/L). Water was collected only once
+
+for this study because a review of Na	 and Cl- concentration
+
+data from water samples collected from
+
+summer 1997 to summer 1998 indicated that early
+
+summer concentrations are generally the highest for
+
+the year and that the patterns of high-to-low concentrations
+
+across the wetland do not change during the
+
+year (Richburg 1999).
+
+Vegetation Sampling
+
+Vegetation in the graminoid fen was sampled for
+
+vascular species cover over a two-year period on fortytwo
+
+15-m2 subplots. One subplot was located at each
+
+of the 30 wells within the 10 plots across the graminoid
+
+fen, and an additional 12 subplots were established
+
+by locating two subplots at each well along
+
+three transects, one subplot directly north and one
+
+south of each well (Figure 1). In addition, eighty-nine
+
+15-m2 subplots to measure Phragmites abundance
+
+were located surrounding the wells within the red maple
+
+swamp portion of the wetland. These subplots were
+
+located within nine plots (each with three subplots)
+
+plus two subplots at each of 31 sampling points along
+
+eight transects.
+
+Each 3m x 5m subplot was sampled for vascular
+
+species cover using the releve¥ method (Mueller-Dombois
+
+and Ellenberg 1974). Percent cover of each species
+
+was estimated in 5% increments above 10%. Species
+
+with cover 10% were recorded as rare (only one
+
+or two individuals), 1% (more than two individuals,
+
+but 1% cover), 1ñ5%, 5ñ6%, or 7ñ9% cover. Individual
+
+woody species (trees and shrubs) were recorded
+
+as present in each of three height classes (seedling
+
+[0.5m], sapling [0.5m to 3m], and tree [3m])
+
+within which they occurred and assigned a separate cover class for each height class. Thus, for example,
+
+a 4-m-tall red maple would receive a cover estimate
+
+for only the tree height class. Richness values were
+
+calculated as the number of species in each subplot
+
+and evenness values as the evenness of non-zero species
+
+values (E  H/ln[S] where H  Shannon index
+
+and S  richness [McCune and Mefford 1999]). Taxonomy
+
+follows Gleason and Cronquist (1991).
+
+Data Analyses
+
+To determine the extent to which Phragmites abundance
+
+was correlated with sodium and chloride concentrations,
+
+we used linear regression analyses for all
+
+subplots and wells and also for the graminoid fen and
+
+red maple swamp subplots separately. Within the graminoid
+
+fen, subplot data were averaged by plot (3 subplots)
+
+or transect point (2 subplots) for statistical analyses.
+
+Plots were assigned to a high or low sodium
+
+group and a high or low chloride group based on their
+
+Na	 and Cl- concentrations (concentrations of both
+
+ions normally distributed). Concentrations greater than
+
+the mean for the fen plots (average Na	  112 mg/L,
+
+Cl-  54 mg/L) were ranked as high, and those at or
+
+below the mean were ranked as low (Table 1). Although
+
+chloride is directly more detrimental to plants
+
+than sodium (sodium is more likely to affect soil structure)
+
+and is a more conservative tracer of salt (sodium
+
+enters into ion exchange reactions), we included sodium
+
+concentrations in our analysis as an indicator of
+
+salt in the system because they were measured using
+
+a method that gave more consistently reliable results
+
+than did our chloride analyses. Although our chloride
+
+concentrations were lower than those determined by a
+
+professional lab, our sodium and chloride plots were
+
+correlated (R2  0.58), and all plots assigned to the
+
+high sodium group were also assigned to the high
+
+chloride group. In addition, one plot in the low sodium
+
+group was included in the high chloride group. Average
+
+cover, species richness, and evenness among
+
+plots with and without Phragmites and among plots
+
+with high and low Na	 and Cl- were tested for significant
+
+differences using Studentís t-test. Due to the
+
+large number of zeros in the vegetation cover data set,
+
+the Mann-Whitney U-test was used to compare groups
+
+(high/low sodium, high/low chloride, with/without
+
+Phragmites) for individual species abundance. An
+
+analysis of variance was used to determine if there
+
+were significant interactions among high/low sodium
+
+and chloride and with/without Phragmites.
+
+xresults
+
+
+Relationship of Phragmites Abundance to Salt
+
+Concentrations
+
+For the wetland as a whole, sodium and chloride
+
+ion concentrations were highest along the northern
+
+edge of the wetland (Na	 200ñ390 mg/L, Cl- 210ñ275
+
+mg/L) (the area closest to the Turnpike) and gradually
+
+decreased to approximately 80 and 60 mg/L sodium
+
+and chloride, respectively, at the southern end of the
+
+fen (650m from the Turnpike) and then to 15 mg/L or
+
+less for both ions at the southernmost wells (Figures
+
+2 and 3).
+
+Several large Phragmites colonies are located in the
+
+graminoid fen and red maple swamp communities at
+
+Kampoosa Bog. Regression of Phragmites abundance
+
+against sodium concentration for all subplots (regardless
+
+of community type) and for graminoid fen and red
+
+maple swamp subplots separately indicated very weak
+
+correlations (R2 for all subplots  0.195, for graminoid fen  0.355, for red maple swamp  0.204). A comparison
+
+of chloride concentrations with Phragmites resulted
+
+in even weaker correlations (R2 of 0.005, 0.038,
+
+and 0.009 for the three groups, respectively).
+
+Salt Impacts on Fen Vegetation
+
+Sodium ion concentrations for the graminoid fen
+
+ranged from 19 to 267 mg/L, with a mean of 112 (std
+
+error 17). Chloride ion concentrations ranged from 5
+
+to 114 mg/L, with a mean of 54 (std error 8). Species
+
+richness, evenness, and total plant cover were significantly
+
+lower in plots with high sodium and high chloride
+
+(Table 1). Individual species abundances also varied
+
+significantly in plots with high vs. low sodium and
+
+high vs. low chloride. Of the 68 species recorded for
+
+the fen community, eight (12%) had significantly lower
+
+cover in the high sodium plots and 11 (16 %) in
+
+the high chloride plots, while only one (1%) had greater
+
+cover with high sodium and chloride (Tables 2 and
+
+3).
+
+Phragmites Impacts
+
+Phragmites was present in 15 of the 42 subplots in
+
+the graminoid fen, with cover values ranging from 3%
+
+to 90%. Richness, evenness, and total cover were not
+
+significantly different between plots with and without
+
+Phragmites (Table 4), but individual species had significant
+
+differences in their cover depending on Phragmites
+
+presence. Of the 68 species recorded for the fen
+
+community, three (4%) had significantly lower cover
+
+with Phragmites, and three (4%) had greater cover
+
+(Table 5). Two of the 3 species with lower cover, Carex
+
+aquatilis and Myrica gale, were among the most
+
+common fen species in subplots without Phragmites.
+
+The interaction of salt and Phragmites on richness,
+
+evenness, and total cover was evaluated using an analysis
+
+of variance. Significant interactions were not
+
+found. xdiscussion
+Evidence of road salt entering the wetland along the
+
+border with the Massachusetts Turnpike is clear, with
+
+chloride concentrations ranging from 275 mg/L near
+
+the Turnpike to low background concentrations of 15
+
+mg/L in wells far from the Turnpike (typical chloride
+
+concentrations for upland surface waters range from 0
+
+to 12 mg/L [Hanes et al. 1970 in Transportation Research
+
+Board 1991]). Mattson et al. (1992) sampled 25
+
+lakes in the calcareous bedrock region of Massachusetts
+
+and reported the median concentrations of sodium
+
+and chloride were 5 and 10 mg/L, respectively. Concentrations
+
+of sodium and chloride at Kampoosa Bog,
+
+which lies within this calcareous bedrock region, are the southernmost portion of the wetland farthest from
+
+the Turnpike. Earth Tech Inc. (1997) reported that
+
+road-salt impacts to upland vegetation along roadways
+
+are limited to an approximately 10-meter-wide band
+
+adjacent to the road, although Hofstra and Hall (1971)
+
+found evidence of salt impacts up to 120 m from a
+
+roadway. Schauffler et al. (1996) found that aerosol
+
+deposition from road salt did not occur further than
+
+200 m from a roadway in Maine. At Kampoosa Bog,
+
+elevated sodium and chloride concentrations more than
+
+600 m from the highway indicate that salt may be
+
+impacting much of the wetland, probably through surface-
+
+and ground-water transport from near the Turnpike.
+
+Forman and Alexander (1998) reported that, even in
+
+wetlands, changes in water quality (e.g., increased salinity)
+
+from road run-off tend to be temporary and localized
+
+due to increased flow that accompanies increased
+
+ion content. Richburg (1999), however, found
+
+that sodium and chloride concentrations at Kampoosa
+
+Bog remained elevated throughout the year, indicating
+
+either a chronic influx of road salt to this system or
+
+long retention times. Although concentrations remained
+
+above presumed background levels throughout
+
+the year, Richburg (1999) found annual fluctuations in
+
+chloride concentrations at Kampoosa Bog with the
+
+highest concentrations occurring in the early spring
+
+(after winter applications of road salt) and the lowest
+
+in the fall (after several months without application of
+
+road salt). These variations reflect the tendency of
+
+chloride ions to migrate out of the root-zone as reported
+
+by Wilcox (1986a) and Wilcox and Andrus
+
+(1987) for Pinhook Bog (Indiana) once salt inputs
+
+stopped. Kampoosa Bog clearly has a plume of salt
+
+present in the wetland, but we do not know if it is
+
+advancing, retreating (including downward migration
+
+out of the root-zone), or remaining the same under
+
+existing salt-application rates (approximately 11 metric
+
+tons/lane kilometer/season [Balliett 1996]).
+
+Studies of the impacts of road salt on vegetation
+
+have focused on roadside trees and grasses (Roberts
+
+and Zybura 1967, Hofstra and Hall 1971, Hall et al.
+
+1972) and the possible effects of road salt in wetlands
+
+(Wilcox 1986b, Isabelle et al. 1987, Pugh et al. 1996,
+
+Schauffler et al. 1996, and Panno et al. 1999). Sodium
+
+and chloride concentrations 300 mg/L generally impact
+
+vegetation adversely. Wilcox (1986b) reported
+
+that all endemic bog plants were absent from areas
+
+with chloride 1215 mg/L and sodium 468 mg/L,
+
+but he also found that the salt tolerance of species
+
+varied greatly. Several species at his site (Pinhook
+
+Bog, Indiana), including Larix laricina (Duroi) K.
+
+Koch., Nemopanthus mucronatus (L.) Trel., and Carex
+
+trisperma Dewey., were intolerant of sodium and chloride
+
+levels as low as 112 and 168 mg/L, respectively
+
+(Wilcox 1986b). Panno et al. (1999) reported an increase
+
+in Typha angustifolia L. and a decrease in Scirpus
+
+acutus coincident with plumes of sodium (10ñ90 mg/L) and chloride (45ñ200 mg/L). Wilcox
+
+(1986b) also reported an increase in Typha angustifolia
+
+in the salt impacted area at Pinhook Bog. Sphagnum
+
+mosses are more sensitive to high ion levels than
+
+many vascular plants (Wilcox 1984, Wilcox and Andrus
+
+1987). At Kampoosa Bog, salt concentrations
+
+similar to those reported by Panno et al. (1999) may
+
+be impacting the vegetation, particularly within the fen
+
+community, with significant decreases in richness,
+
+evenness, and abundance of species in plots with high
+
+sodium and chloride concentrations. In addition to the
+
+negative impacts on community properties, dominant
+
+fen species, such as Salix candida and Vaccinium macrocarpon,
+
+had significantly lower abundances in high
+
+salt (Na	  112 mg/L, Cl-  54 mg/L) plots at Kampoosa.
+
+Phragmites readily establishes in disturbed soils
+
+when seeds or rhizomes are introduced (Marks et al.
+
+1994). Because Phragmites did not become a problem
+
+in the interior of the Kampoosa Bog wetland until after
+
+ca. 1990, disturbance plus a seed source at the northern
+
+end of the wetland likely led to expansion into the
+
+wetland. Seeds and/or rhizomes of invasive genotypes
+
+of Phragmites growing elsewhere may have been
+
+brought in on construction equipment during work in
+
+the Turnpike or gas pipeline right-of-way, facilitating
+
+Phragmites establishment on the disturbed soil. Ditches
+
+along highway rights-of-way have also been shown
+
+to serve as migration corridors for invasive wetland
+
+plants (Wilcox 1989). Although Phragmites is a salttolerant
+
+species, its current abundance in the wetland
+
+as a whole or in the graminoid fen specifically is not
+
+well-correlated with salt concentrations.
+
+Phragmites colonies appear to be impacting the
+
+composition and structure of the Kampoosa Bog fen.
+
+Although species richness is similar in plots with and
+
+without Phragmites (p0.05), this species dominates
+
+at the expense of other species in most plots where it
+
+occurs. The fen plots with Phragmites had lower cover
+
+of Carex aquatilis and Myrica gale, two species that
+
+dominate fen plots without Phragmites. Thus, although
+
+species richness may be similar, the composition and
+
+structure of communities with Phragmites differ from
+
+those without Phragmites. Within Phragmites-dominated
+
+plots, native species are probably stressed by
+
+competition for nutrients and/or light. Meyerson et al.
+
+(2000) reported that individuals of species competing
+
+with Phragmites are often weak and may not represent
+
+viable populations, therefore ultimately resulting in a
+
+decrease in richness.
+
+CONCLUSIONS
+
+Kampoosa Bog is one of the best examples of a
+
+calcareous lake-basin fen in Massachusetts, but it has
+
+been and continues to be adversely impacted by both
+
+the application of road salt near the wetland and by
+
+Phragmites invasion. Although salt concentrations and
+
+Phragmites abundance are not well-correlated, and interaction
+
+effects of these two factors do not significantly
+
+affect community properties of the graminoid
+
+fen; high salt concentrations and Phragmites are individually
+
+associated with negative impacts.
+
+Road salt from the Massachusetts Turnpike seems
+
+to be elevating salt concentrations in the Kampoosa
+
+Bog wetland. Both the red maple swamp and the graminoid
+
+fen have sodium and chloride concentrations
+
+well above background levels, but the vegetation of
+
+the graminoid fen seems to be especially impacted by
+
+high salt concentrations. Decreases in richness, evenness,
+
+and total plant cover and decreases in cover of
+
+8 (Na	) or 11 (Cl) individual species indicate that salt
+
+is impacting the graminoid fen at both the community
+
+and the individual species levels. We do not know how
+
+long this system has been influenced by high salt concentrations
+
+nor if these ions are continuing to increase
+
+or decrease throughout the wetland (road-salt application
+
+rates have been reduced to half those used in
+
+the 1970s). Future studies of salt concentrations may
+
+determine if salt is increasing or decreasing in the wetland
+
+and how the vegetation of the entire wetland is
+
+responding to these changes.
+
+This research also supports subjective observations
+
+that Phragmites negatively impacts the graminoid fen as indicated by lower cover values for many of the
+
+common fen species. Although richness, evenness, and
+
+total cover are not significantly different between graminoid
+
+fen plots with and without Phragmites, changes
+
+in the individual species cover indicate that there
+
+are changes coincident with Phragmites invasion.
+
+More importantly, the species most impacted by
+
+Phragmites in the graminoid fen are those (such as
+
+Carex aquatilis and Myrica gale) that characterize the
+
+fen community. If these species are out-competed and
+
+Phragmites dominates, the graminoid fen as a community
+
+will be changed, perhaps even resulting in the
+
+degradation of the peat mat due to increased oxidation
+
+(Bart and Hartman 2000). This change will probably
+
+have negative impacts on the rare plants and animals
+
+that inhabit the graminoid fen community. Although
+
+Kampoosa Bog has been and continues to be impacted
+
+by Phragmites and high salt concentrations, management
+
+activities to control these factors might reverse
+
+the trends identified here. Recently, a Phragmites control
+
+project (including herbicide application and flower
+
+head removal) has been initiated at Kampoosa Bog in
+
+an effort to prevent further degradation of the vegetation.
+
+Reducing or eliminating the influx of road salt
+
+into the wetland through the creation of a reduced
+
+road-salt zone or the diversion of runoff away from
+
+the wetland may allow salt-impacted native vegetation
+
+to recover at Kampoosa Bog.

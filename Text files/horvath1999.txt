@@ -1,0 +1,204 @@
+xabstract
+
+
+Zebra mussels, Dreissena polymorpha, increase macroinvertebrate abundance
+on hard substrata in lakes and large rivers because they enhance surface area, substratum
+heterogeneity and the accumulation of benthic organic matter (BOM). We tested the hypothesis
+that zebra mussel colonization of hard substrata in a lake-outlet stream would similarly
+increase macroinvertebrate abundance. Zebra mussels were attached to artificial rocks
+(0.05 m2) in a crossed factorial design with two states of mussels (live or dead) and three
+densities [low (200∑m22), medium (500∑m22) or high (1000∑m22)] plus a noncrossed control
+(no attached mussels). Rocks were placed in an erosional zone of a lake-outlet stream in
+southwestern Michigan that contained low densities of zebra mussels. After 28 d total macroinvertebrate
+abundance was significantly higher on rocks with high densities of zebra
+mussels, but live or dead treatment had no effect on macroinvertebrate abundance. Family
+richness differed significantly among density treatments (high 5 medium . low 5 control),
+but Simpsonís diversity index did not differ among treatments. We conclude that changes
+in macroinvertebrate community structure probably were related to the increased substrate
+complexity provided by zebra mussels
+
+xintroduction
+
+
+
+Zebra mussels, Dreissena polymorpha, typically dominate the benthic fauna in lakes following
+their introduction (e.g., Stewart and Haynes, 1994). Increased densities of benthic macroinvertebrates,
+especially deposit feeders, have been found in dense zebra mussel colonies
+in lakes (Dermott et al., 1993; Stewart and Haynes, 1994; Wisenden and Bailey, 1995).
+Mussels principally affect macroinvertebrate density and biomass by altering the structure
+of benthic substrata (Ricciardi et al., 1997; Stewart et al., 1998). Mussel shells increase
+habitat space by increasing surface area (Mellina and Rasmussen, 1994) and shells also
+provide a complex architecture that many macroinvertebrates can use as refuge from predation
+(Stewart et al., 1998). Macroinvertebrates have also been shown to respond positively
+to the enhanced benthic organic matter (BOM) deposited by mussels in the form of feces
+and psuedofeces (Stewart et al., 1998).
+Zebra mussels are colonizing many inland lakes in North America ( Johnson and Carlton,
+1996). The outflowing streams of these lakes have a high probability of being colonized as
+well (Horvath et al., 1996). As observed in lakes, zebra mussels should increase the surface
+area and complexity of substrata in lake-outlet streams. However, flowing water may prevent
+the accumulation of mussel feces and pseudofeces, at least in erosional zones. Consequently,
+the response of stream macroinvertebrate populations to zebra mussels could differ from
+that observed in more depositional habitats if BOM production is important.
+We investigated the effect of zebra mussels on macroinvertebrate abundance and diversity
+on hard substrata in a lake-outlet stream by manipulating zebra mussels on artificial substrata.
+We predicted that zebra mussels would increase macroinvertebrate density and family
+richness because of changes in substrate heterogeneity alone. We separated the biotic and abiotic effects of zebra mussels by using treatments of both live mussels and dead mussel
+shells at four representative densities ranging from zero to high.
+xmethods
+
+
+
+This study was conducted in Christiana Creek, a lake-outlet stream in southwestern Michigan,
+that was colonized by zebra mussels in 1993. Christiana Creek drains two connected
+lakes, Eagle and Christiana lakes, that were colonized by zebra mussels in 1991. Zebra mussel
+density in the stream is highest at the lake outlet (;1600∑m22) and declines with distance
+downstream to ,1 mussel∑m22 at 2 km downstream (Horvath et al. 1996). The site of our
+experiment was 400 m downstream from the lake outlet where the ambient density of
+mussels was very low (50∑m22) and stable from 1994ñ1996. The stream has low gradient
+near the lake outlet (0.1 m/km; determined from topographic maps), but the site could
+be considered an erosional zone because the streambed consisted mostly of small gravel
+with depositional sediments occurring only along the stream margins. Channel width was
+15 m and mean depth was 86 cm. Discharge during the study was about 2 m3∑s21 (measured
+200 m upstream) and no floods occurred during the study. Water velocity rarely exceeded
+0.25 m∑s21 at the site. The macrophyte Vallisneria americana and the macroalga Chara sp.
+cover of the stream bottom increased from 0% at the left bank to 100% at the right bank,
+thus creating a lateral gradient of macrophyte density. Seston concentration in the water
+column is generally 7 mg∑L21 (Horvath and Lamberti, in press).
+In our experiment, we used a crossed factorial design with two states of mussels (live or
+dead) and three density levels [low (10 mussels/rock; 200∑m22), medium (25 mussels/rock;
+500∑m22) or high (50 mussels/rock; 1000∑m22)], plus a noncrossed control (no attached
+mussels). Artificial substrata (called rocks) were made by pouring concrete into hemispherical
+molds. Rocks were dried for 2 wk and then flushed with running water for 24 h to
+leach any residual compounds. Surface area of rocks averaged 0.05 6 0.004 m2 (measured
+using the foil method of Lamberti et al., 1991). Zebra mussels (shell length 5 13ñ15 mm)
+were collected from Christiana Creek at the outlet of Christiana Lake and kept in aquaria
+in the laboratory overnight. We estimated the mean surface area of a single mussel shell
+to be 3.4 6 0.08 cm2 (61 SE) using the foil method on a subsample of these mussels (n 5
+40). Half of the mussels were dried at 608C for 24 h, the dried tissue was removed and shell
+halves were glued together with cyanoacrylate glue. A middle point of the ventral surface
+of empty shells was glued to rocks with epoxy. Preliminary studies showed that live mussels
+tended to emigrate from the rocks. Therefore, live mussels were also carefully glued to
+rocks with epoxy such that the ventral side of only one valve was attached to the rock to
+allow for normal filtering activity. The epoxy was allowed to set for 1 h while mussels were
+kept moist. Rocks with live mussels were then kept in aerated coolers overnight and observed
+the next day to ensure that mussels were still alive (indicated by active filtering),
+thus ensuring that the epoxy was nontoxic.
+Rocks were transported to Christiana Creek in coolers and placed on the streambed on
+14 September 1996 in a randomized block design. Blocks (n 5 7) were spaced 1 m apart
+and arranged perpendicular to flow. A block design was used because of lateral gradients
+in macrophyte cover, depth and velocity across the 15-m-wide channel. The seven treatments
+were randomly assigned within the blocks and rocks were set 0.5 m apart within each block.
+The experiment was run for 28 d; rocks were checked every 3ñ4 d by snorkeling to ensure
+that live mussels were still attached and actively filtering. Rocks were collected on 12 October
+1996 by placing a net (100-mm mesh) over the rock, bringing the rock to the surface
+within the net, placing the rock and any net contents into a plastic bag and transporting
+the sample to the laboratory. Macroinvertebrates, including newly recruited zebra mussels,were removed from the rock using a brush, forceps and a spray of 70% ethanol. All macroinvertebrates
+were preserved in 95% ethanol, identified to family when possible and
+counted. Zebra mussels originally glued to the rocks were recounted.
+Statistical analysis.óFactors in our experiment were mussel state and density. At the
+beginning of the experiment, mussels added 170 cm2 (34%), 85 cm2 (17%) and 34 cm2
+(7%) to the surface area of the rock at high, medium and low densities, respectively. Some
+of the originally glued zebra mussels were lost during the experiment. The final number
+of glued mussels was significantly different among the density treatments (F2,36 5 89.76, P
+, 0.001; 2-way ANOVA), but did not differ between the live and dead mussel treatments
+(F1,36 5 0.56, P 5 0.46), indicating that mussel treatments were maintained during the
+experiment. At the end of the experiment, mussels added a mean area (6SE) of 154.2 6
+3.1 cm2 (;31%), 80.4 6 1.8 cm2 (;16%) and 31.6 6 1.5 cm2 (;6%) to the surface area
+of the rock at high, medium and low densities, respectively. Differences in macroinvertebrate
+density, family richness and Simpsonís diversity index (in Begon et al., 1990) among
+treatments were tested separately with a blocked two-way ANOVA. Taxa were only identified
+to family because all collected macroinvertebrates could not be identified to genus or species.
+Control rocks were not analyzed with 2-way ANOVA because they created an unbalanced
+design for the live-dead treatment. Nonsignificant (P . 0.05) Bartlettís test for homogeneity
+of variances and normal probability plots of residuals indicated that the data
+met the assumptions of an ANOVA, thus no data transformations were used. ANOVA was
+significant, therefore, treatments were compared pairwise with Tukeyís HSD test. We recalculated
+macroinvertebrate density after including the additional surface area provided by
+attached mussels and analyzed density using ANCOVA with surface area as the covariate.
+Analyses were done using SYSTAT version 5.0 (SPSS, Inc., Chicago Ill.).
+xresults
+Twenty-five families of macroinvertebrates were found on the rocks. Hydridae (Hydra
+spp.) accounted for 64% of all macroinvertebrates collected, Trichoptera (caddisflies) represented
+14% and Gastropoda (snails) 7% (Table 1). Abundance of most macroinvertebrates
+increased with higher zebra mussel abundance (density treatments), with the exception
+of Heptageniidae, Hydrachnida and rare taxa (Table 1).
+A significant block effect was detected in the ANOVA only for Simpsonís diversity (P ,
+0.001). The live-dead treatment did not significantly affect total macroinvertebrate abundance
+(F1,35 5 1.486, P 5 0.231), Simpsonís diversity (F1,35 5 0.651, P 5 0.806) or family
+richness (F1,35 5 0.489, P 5 0.489). No significant interactions with density were found.
+Therefore, we pooled live and dead treatments and tested for density differences using a
+one-way ANOVA with the control treatment included. Total macroinvertebrate abundance
+differed significantly among density treatments (F3,44 5 10.7, P , 0.001; Fig. 1) and was
+significantly greater at the high density than all other treatments (Tukeyís HSD test). Simpsonís
+diversity was not significantly different among densities (F3,44 5 1.774, P 5 0.185; Fig.
+2), but family richness differed significantly among densities (F3,44 5 8.625, P , 0.001; Fig.
+2). More taxa were found at higher mussel densities. The ANCOVA also indicated a significant
+effect of zebra mussel density on total macroinvertebrate abundance (F3,44 5 6.341, P
+5 0.001), with the high-density treatment different from all other treatments.
+
+
+xdiscussion
+
+The presence of zebra mussel shells increased macroinvertebrate abundance on artificial
+rocks in Christiana Creek. Macroinvertebrate density was nearly twice as high on highdensity
+treatment rocks than on rocks lacking mussel shells. This positive response was related to physical changes in the 3-dimensional structure of the rock caused by zebra
+mussels (either live or dead) rather than biotic interactions. We observed no significant
+differences in macroinvertebrate density between rocks with live or dead zebra mussels,
+indicating that mussel behavior (e.g., filtration, excretion) did not affect macroinvertebrate
+colonization in our system.
+Similar and more pronounced responses of macroinvertebrate populations to zebra mussels
+are reported for the Laurentian Great Lakes. In Lake Erie macroinvertebrate abundance
+is 2ñ7 times greater in sediment cores taken under mussel druses than in samples
+from bare sand (Botts et al., 1996) and 2ñ5 times higher on tiles with zebra mussels than
+on tiles without zebra mussels (Stewart et al., 1998). In Lake Ontario total macroinvertebrate
+abundance is increased 100ñ900% on cobble and artificial reef substrata following invasion
+of zebra mussels (Stewart and Haynes, 1994).
+In contrast to lake studies mentioned (Botts et al., 1996; Stewart et al., 1998), the response
+of macroinvertebrate populations to zebra mussels in Christiana Creek did not depend on
+whether the mussels were live or dead. A possible explanation for this difference is that we
+used much lower densities of mussels than other studies, although they were 4 to 20 times
+higher than background densities in Christiana Creek. Organic matter, whether actively or
+passively deposited, may not accumulate at low mussel densities. Differences in macroinvertebrate
+community composition between habitats may also contribute to responses. Filterfeeders
+were the most abundant macroinvertebrate in Christiana Creek, whereas depositfeeders
+were more abundant in the lake studies. Filter-feeders may respond differently to
+BOM than deposit-feeders. Ricciardi et al. (1997) found no significant difference in the
+density of filter-feeders among live or dead zebra mussels.
+Hydrodynamics also differ among aquatic habitats and may determine how macroinvertebrates
+respond to zebra mussels. As in lakes, dense populations of zebra mussels in rivers
+can reduce seston concentration through their filter-feeding activity (Caraco et al., 1997).
+It is likely that feces and pseudofeces produced by mussels in erosional zones (where hard
+substrates are typically found) will not accumulate as they might in depositional areas. We
+did not observe accumulations of feces or pseudofeces on the artificial rocks, which may
+also explain why live zebra mussels had no more effect on benthic macroinvertebrates than
+dead mussels.
+The significant macroinvertebrate response to zebra mussel density observed in Christiana
+Creek, even after considering the added surface area of attached zebra mussels (ANCOVA
+analysis), suggests that surface area alone could not explain the positive macroinvertebrate
+response. It is likely that zebra mussels attached to rocks increased surface heterogeneity
+(e.g., texture, flow, etc.) compared to rocks with no mussels (see also Mellina
+and Rasmussen, 1994). The change in the 3-dimensional structure of the rocks could have
+affected macroinvertebrates in several ways. For example, some invertebrates are negatively
+phototaxic (e.g., triclads; Thorp and Covich, 1991) and the crevices among zebra mussel
+shells would provide darker habitats. Crevices also could be used by smaller macroinvertebrates,
+such as Chironomidae or Hydroptilidae, as refuges from predation (e.g., Charlebois
+and Lamberti, 1996). Greater microhabitat complexity provided by mussels may explain the
+increased family richness found on rocks with high densities of mussels, particularly for rare
+taxa (e.g., Simuliidae and Elmidae). Simpsonís diversity did not differ among treatments,
+probably because Hydra spp. accounted for about 30ñ60% of the macroinvertebrates, resulting
+in low evenness overall.
+Among aquatic habitats, it appears that benthic macroinvertebrates will respond differently
+to zebra mussels depending on habitat characteristics, such as native species composition
+and hydrodynamics. The increase in substrate heterogeneity appears to be more important in structuring macroinvertebrate populations than biodeposits from live mussels
+in erosional habitats. Zebra mussels readily colonize lake-outlet streams according to a
+source (lake) and sink (stream) model (Horvath et al., 1996), but may never attain high
+densities as in lakes. Our results suggest that mussels have the potential to affect, and even
+increase, benthic macroinvertebrate communities in these invaded ecosystems, especially if
+mussels increase substrate heterogeneity, but do not dominate habitat and food resources.
+Acknowledgments.óThis study was supported by the US Environmental Protection Agency (CR
+820290-01 and CR 820290-02) and by the National Oceanic and Atmospheric Administration through
+Purdue University (Purdue subgrant No. 643-1500-01 under NOAA Grant No. NA46RG0419-2 to the
+IllinoisñIndiana Sea Grant Program). We thank David Strayer and Pam Silver Botts for valuable comments
+on the manuscript, Steve Beaty for help with constructing the artificial rocks, Debra Hasfurther
+for assistance with a pilot study and William Perry and David Lodge for useful discussions leading to
+this project.

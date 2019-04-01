@@ -1,0 +1,590 @@
+xabstract We evaluated the response of the zooplankton
+community Saginaw Bay, Lake Huron to the
+disappearance of the planktivore alewife Alosa pseudoharengus
+using data collected in 1991ñ1996 (pre
+alewife decline) and 2009ñ2010 (post alewife
+decline). Bosmina longirostris, Diaptomidae, Cyclops,
+and Daphnia galeata contributed greatly to the
+separation of the two time periods with Diaptomidae
+and D. galeata increasing and Cyclops and B. longirostris
+decreasing, although B. longirostris remained
+the dominant species. Peak densities of zooplankton
+occurred in early summer (June) in the 1990s and in
+early fall (October) in 2009ñ2010. For the analysis of
+environmental variables on a bay-wide, annual basis,
+abundance of alewife, age-0 yellow perch Perca
+flavescens and Bythotrephes captured much of the
+variation in annual zooplankton community structure.
+Abundances of Bythotrephes and age-0 yellow perch
+were both higher in 2009ñ2010 than in 1991ñ1996.
+Some changes such as increasing proportions of
+calanoid copepods reflect a more oligotrophic community
+and are potentially indicative of resourcedriven
+changes rather than direct or indirect impacts of
+the alewife disappearance. 
+
+
+xintroduction Crustacean zooplankton occupy an intermediate position
+in aquatic food webs, and therefore, zooplankton
+biomass, community composition, and size structures
+are sensitive to changes in both the lower food web
+(i.e., bottom-up, resource driven) as well as the upper
+food web (i.e., top-down, predation driven). Predation
+by planktivorous fish and invertebrates can alter
+zooplankton community composition, size structure,
+and seasonal abundance dynamics (Brooks 1968;
+Wells 1970; Lehman 1991; Mehner and Thiel 1999), while also affecting zooplankton behavior and life
+history strategies (Vanni 1987; Pangle et al. 2007).
+Additionally, although somewhat less well understood
+than the role of planktivory, the biomass and characteristics
+of food resources available to zooplankton
+can influence zooplankton abundance and composition
+(McNaught 1975; Lynch 1977, Vanni 1987;
+Luecke et al. 1990). In turn, changes in zooplankton
+biomass, community composition, seasonal dynamics,
+and size structure can affect foraging success, growth,
+and survival of larval, juvenile, and adult fishes
+(Wu and Culver 1992; Bremigan et al. 2003; Graeb
+et al. 2004).
+As demonstrated by Brooks (1968), high abundances
+of the planktivore alewife Alosa pseudoharengus
+are generally correlated with declines in
+large-bodied zooplankton, especially large cladocerans
+such as Daphnia spp. (Brooks 1968; Wells 1970;
+Post et al. 2008). However, the potential for alewife to
+alter zooplankton communities through size-dependent
+predation does not appear to be consistent across
+systems. For example, alewife numbers have declined
+drastically in Lake Huron, North America since 2003,
+and alewife are now essentially absent from most areas
+of the lake (Riley et al. 2008). However, contrary to
+expectations, large-bodied daphnids declined in the
+offshore areas of the lake rather than increase in
+response to a release from predation (Barbiero et al.
+2009). In addition, the zooplankton community shifted
+toward one dominated by calanoid copepods as
+cyclopoid copepods and herbivorous cladocerans
+declined (Barbiero et al. 2009). Hypotheses to explain
+the somewhat unexpected shifts in the zooplankton
+community after the alewife collapse include potential
+direct and indirect impacts of decreasing overall
+productivity (Barbiero et al. 2011). Even prior to the
+dramatic decline of alewives, nutrient loadings to
+Lake Huron had been decreasing steadily since the
+1970s and have continued to decline (Bierman et al.
+1984; D. Dolan unpublished data). Moreover, in the
+1990s and 2000s, dreissenid mussels (zebra Dreissena
+polymorpha and quagga D. rostriformis bugensis)
+invaded and expanded throughout Lake Huron
+(Nalepa et al. 1995, 2007). These filter feeders
+contributed to dramatic reductions in water column
+light attenuation, phosphorous levels, and chlorophyll
+concentrations in Saginaw Bay (Fahnenstiel et al.
+1995). Further, heightened planktivory by the invasive
+invertebrate Bythotrephes longimanus may exert a
+structuring influence on zooplankton communities in
+Lake Huron (Bunnell et al. 2011).
+Saginaw Bay is a shallow, productive bay that
+extends from the western shore of Lake Huron, North
+America (Fig. 1). Saginaw Bay differs from the main
+body of Lake Huron in a number of important aspects.
+For instance, although alewife have essentially disappeared
+from Saginaw Bay, overall planktivorous fish
+abundance remains relatively stable compared to Lake
+Huron (Fielder et al. 2000; Fielder and Thomas 2006;
+M. Thomas unpublished data) where planktivore
+numbers are at historic lows (Riley et al. 2008).
+Invasive dreissenid mussels are found in both Saginaw
+Bay and the main body of Lake Huron. However,
+mussels appear to have stabilized or even decreased
+recently in Saginaw Bay (Cha et al. 2011; T. Nalepa
+personal communciation), whereas they are increasing
+in the deep offshore waters of Lake Huron (Nalepa et al.
+2007). Although nutrient loading to Saginaw Bay
+decreased between the 1970s and 1990s (Cha et al.
+2011) and despite the presence of dreissenid mussels,
+inner Saginaw Bay remains a relatively productive
+system (e.g., mean chlorophyll a = 5.6 lg/L in
+2008ñ2010; J. Dyble unpublished data) in contrast to
+the oligotrophic offshore regions of Lake Huron
+(chlorophyll a \1.5 lg/L; Barbiero et al. 2009). In
+fact, this trophic distinction between the shallow bay
+and deep offshore regions of the lake could be
+enhanced by dreissenid mussels, which sequester
+phosphorus in the bay and restrict its transport to
+offshore regions of the main lake (Cha et al. 2011).
+Thus, considering these differences, it would not be
+surprising if the response of the zooplankton community
+to the disappearance of alewife differed in Saginaw
+Bay from that observed in the main body of the lake.
+Owing to the ability of alewife to structure
+zooplankton communities, we hypothesized that the
+abundance of large-bodied herbivorous cladocerans
+(i.e., Daphnia) would increase following the disappearance
+of alewife in Saginaw Bay. Secondly, despite
+decreasing nutrient loads and the presence of dreissenid
+mussels, Saginaw Bay remains a very productive
+system as compared to open Lake Huron. Thus, we
+hypothesized that there would be no shift in the
+Saginaw Bay zooplankton toward a community more
+indicative of oligotrophy (i.e., increased relative
+importance of calanoid copepods) as has occurred in
+the main basin of Lake Huron (Barbiero et al. 2011).
+Finally, the seasonal pattern of zooplankton abundance 
+
+
+in many lakes is characterized by a rapid increase in
+late spring followed by a summer decline that can be
+attributed at least partially to planktivory (Luecke et al.
+1990; Rudstam et al. 1993; Mehner and Thiel 1999).
+We expected this summer decline in abundance, which
+occurred in Saginaw Bay in the past (Bridgeman et al.
+1995), would not be as severe following the release
+from alewife predation. xmethods 
+
+Sampling took place at 5 stations in Saginaw Bay,
+Lake Huron during 1991ñ1996 and 2009ñ2010. The
+1991ñ1996 period represented a time when alewife
+remained abundant (Fielder et al. 2000) and covered
+the initial arrival and expansion of dreissenid mussels
+in the bay (Nalepa et al. 1995), whereas the
+2009ñ2010 period represented a time when alewife
+had disappeared (M. Thomas unpublished data) and
+dreissenid populations had stabilized in the bay (Cha
+et al. 2011). Four stations (2, 5, 10, 14) were located in
+the inner bay, and one (20) was located in the outer
+bay (Fig. 1). The shallow (mean depth 5.1 m),
+relatively productive inner bay is influenced by the
+Saginaw River which flows into the bay on the far
+west side, while the outer bay (mean depth 13.7 m) is
+more strongly influenced by Lake Huron. The station
+depthswere 3ñ4 m(stations 2, 5, 14), 11 m(station 10),
+and 16 m (station 20). Zooplankton samples were collected monthly from
+April to November in 1991, 2009, and 2010, April to
+October in 1992, 1993, and 1994, May to October in
+1995, and May to September in 1996. Some siteñ
+month combinations were not sampled within each
+year due to logistics and weather constraints. Zooplankton
+samples were collected with vertical net tows
+from just above bottom to surface using a 64-lm net
+(0.3 mdiameter) with replicate tows taken at each site.
+Zooplankton were narcotized and preserved using
+sugar buffered formalin.
+In the laboratory, sub-samples were taken using a
+plankton splitter (1991ñ1996) or a Hensen Stempel
+pipette (2009ñ2010) so that a minimum of 200
+(1991ñ1996) or 600 (2009ñ2010) individuals were
+counted and identified to species. For analysis, the two
+replicates from a site were averaged to provide a single
+estimate of zooplankton abundance and composition
+for each siteñmonthñyear combination. Analysis
+focused on mesozooplankton, so copepod nauplii,
+rotifers, and veligers were not included in analysis. We
+did not include predatory zooplankton (Bythotrephes,
+Leptodora) in the analysis of the zooplankton community
+because they were poorly sampled in shallow
+water with the small net we used. Some species were
+combined into three separate groups prior to analysis
+because juveniles or adults were not differentiated
+among species, i.e., (1) Diaptomidae (Leptodiaptomus
+ashlandi, L. sicilis, L. minutus, Skistodiaptomus oregonensis),
+(2) Cyclops (Acanthocyclopsvernalis and
+Diacyclops bicuspidatus), and (3) Chydoridae. Annual
+mean abundances for each species or group were
+compared between periods using a t test with a
+Bonferroni adjustment for multiple comparisons.
+Although we did not include predatory zooplankton
+in the analysis of the zooplankton community, we did
+index temporal differences in abundances. To this end,
+all predatory zooplankton in samples from the two
+deeper sites (Stations 10 and 20) were counted (i.e.,
+without sub-sampling). An examination of predatory
+zooplankton abundance from oblique tows using a
+333-lm bongo net at all sites in 2009 and 2010
+indicated that although the vertical net tows greatly
+underestimated densities of predatory zooplankton,
+tows from the deeper sites (10 and 20) provided a
+reasonable estimate of their relative abundance
+(S. Pothoven unpublished data).
+To examine the trends in zooplankton populations
+relative to environmental conditions (i.e., total
+phosphorus (TP), chlorophyll a, surface water temperature,
+chloride (CL)), we used data collected each
+month and year at each site. These water quality data
+were collected as part of two larger studies of the
+Saginaw Bay ecosystem; 1991ñ1996 (Nalepa et al.
+1996; Johengen et al. 2000) and 2009ñ2010. Details
+on water quality sampling and processing can be found
+in Nalepa et al. (1996).
+To examine the trends in fish abundance and
+community composition, we used data from the
+Michigan Department of Natural Resources bottom
+trawl survey conducted throughout Saginaw Bay in
+SeptemberñOctober of each year (Fielder et al. 2000;
+M. Thomas unpublished data). Details on bottom trawl
+surveys are available in Fielder et al. (2000). Only
+trends in planktivorous fish were examined which
+included the following species: alewife, rainbow smelt
+Osmerus mordax, spottail shiner Notropis hudsonius,
+age-0 yellow perch Perca flavescens, white perch
+Morone americana, emerald shiner N. atherinoides,
+and gizzard shad Dorosoma cepedianum.
+Non-metric multidimensional scaling (MDS) was
+used to visualize differences in zooplankton community
+structure in two dimensions with abundance data
+from each siteñmonthñyear as the input. Square root
+transformed abundance data were used to create a
+Bray-Curtis similarity matrix as the input for MDS.
+MDS is an ordination technique that is relatively
+insensitive to data distributions (i.e., non-normality
+and nonlinearity) as compared to other multivariate
+ordination methods (Clarke and Warwick 2001).
+Analysis of similarities (ANOSIM) was used to
+test for differences in zooplankton community
+structure between time periods (1991ñ1996 and
+2009ñ2010) with years nested in each period. This
+approach is analogous to a nested ANOVA, with a
+nonparametric permutation applied to a rank similarity
+matrix of samples (Clarke and Warwick 2001).
+Subsequently, a similarity percentage routine
+(SIMPER) was applied to determine overall contribution
+of each species to potential dissimilarity
+between the two time periods. In turn, a complementary
+analysis, BVSTEP, was used to find a
+parsimonious combination of species to discriminate
+the two periods. In BVSTEP, a similarity matrix
+from the full data set is compared to subsets to find
+the smallest subset that explains most of the variation
+(q[0.95). That is, BVSTEP provides a search for
+subsets of species whose among sample relationships effectively capture the cumulative multivariate
+pattern of the full species set.
+To evaluate the potential relationships between
+environmental variables and the zooplankton community
+structure, we used BIOENV, which calculates a
+similarity matrix based on normalized Euclidean
+distances for all possible combinations of environmental
+data and selects those variables most highly
+correlated with the original Bray-Curtis similarity
+matrix using Spearman rank correlation. Two separate
+BIOENV analyses were used to investigate relationships
+between environmental variables and the zooplankton
+community. First, data were analyzed at the
+site-date scale, using log-transformed physical and
+chemical environmental variables (TP, chlorophyll a,
+CL, surface temperature) and site-date, enumerated
+zooplankton data. Second, in order to also examine the
+role of environmental variables that were not quantified
+at all sites or months (i.e., predatory zooplankton
+and fish), mean annual abundance of each zooplankton
+species or group and log-transformed annual means of
+each environmental variable (TP, chlorophyll a, CL,
+surface temperature, Bythotrephes, Leptodora, and
+each fish species) were used as inputs into BIOENV.
+MDS, ANOSIM, SIMPER, BVSTEP, and BIOENV
+were performed using Primer v5.2.9.
+xresults The zooplankton community during AprilñNovember
+was dominated by cladocerans in both 1991ñ1996
+(75 %) and 2009ñ2010 (66 %) (Table 1). The most
+abundant zooplankton during both time periods was
+the small cladoceran Bosmina longirostris, which
+accounted for 68 and 44 % of all zooplankters in
+1991ñ1996 and 2009ñ2010, respectively. The two
+most abundant copepods were Cyclops, which were
+more abundant in 1991ñ1996, and Diaptomidae,
+which were more abundant in 2009ñ2010. L. ashlandi,
+L. minutes, L. sicilis, and S. oregonensis accounted for
+45, 23, 30, and 1 % of adult Diaptomidae, respectively,
+in 1991ñ1996 and 12, 37, 5, and 46 % in
+2009ñ2010, respectively. All other zooplankton taxa
+accounted for\10 % of the total community, except
+for Daphnia galeata in 2009ñ2010 (10 %).
+MDS indicated a separation of zooplankton communities
+between the two time periods of 1991ñ1996
+and 2009ñ2010 (Fig. 2). A stress value of 0.16
+indicated that the 2-D plot was a reasonable representation
+of the multidimensional distances among data.
+ANOSIM confirmed the difference in zooplankton community structure between time periods
+(P = 0.036, global R = 1).
+Bosmina longirostris, Diaptomidae, Cyclops, and
+D. galeata contributed greatly to the separation of the
+two time periods ([10 % each) (SIMPER). Further
+analysis with BVSTEP indicated that the top four
+solutions (q[0.95) to explain the pattern of the MDS
+included 6ñ7 species, and all included B. longirostris,
+Diaptomidae, Cyclops, and D. galeata (Table 2). In
+fact, most of the variation in the entire data set could
+be explained by only including these four taxonomic
+groups (q = 0.93). Further, if these 4 groups are
+excluded, explanatory power decreases (q\0.52),
+attesting to the importance of the four taxa in
+differentiating the two time periods. The influential
+species had differing trends in abundance and percent
+contribution to the community between time periods,
+i.e., B. longirostris and Cyclops declined, whereas
+D. galeata and Diaptomidae increased (Table 1). In
+total, these four species groups accounted for 92 % of
+zooplankton in 1990s and 76 % in 2009ñ2010.
+Peak densities of zooplankton occurred in early
+summer (June) in the 1990s and in early fall (October)
+in 2009ñ2010 (Fig. 3). Overall, calanoid copepods,
+Daphnia spp., and other cladocerans all made larger
+contributions to the community in 2009ñ2010 than in
+the 1990s, whereas cyclopoid copepods and Bosminidae
+made smaller contributions (Fig. 4). A ratio of
+trophic status (i.e., calanoids/(cyclopoids ? cladocerans);
+Gannon and Stemberger 1978) increased from
+0.06 to 0.22 reflecting a shift toward a more oligotrophic
+zooplankton community structure. The Daphnia
+spp. population composition shifted from one
+co-dominated by D. galeata (39 %) and D. retrocurva
+(60 %) to one dominated mainly by D. galeata (92 %).
+For the site-date scale analysis (including physical
+and chemical environmental variables), TP and surface
+temperature were included in each of the top four
+BIOENV models, providing the best match of environmental variables with the zooplankton community
+data (Table 3). However, q was relatively low
+(0.24ñ0.26) for each model. Surface temperatures
+were fairly similar between time periods, increasing to
+peak values in July during each period followed by a
+decline (Fig. 5). However, during the 2009ñ2010
+period, water temperatures remained relatively warm
+into the fall. TP was slightly higher in spring during
+1991ñ1996 than during 2009ñ2010 (Fig. 5). During
+the 1991ñ1996 period, TP increased in September and
+then decreased. By contrast, TP continued to increase
+in October in 2009ñ2010 to a much higher peak,
+before decreasing in November.
+For the analysis of environmental variables on a
+bay-wide, annual basis, alewife and age-0 yellow
+perch were included in each of the top four BIOENV
+models, and Bythotrephes was in three of the top four
+models (Table 4). These variables were related to
+much of the annual variation in annual zooplankton
+community structure (q = 0.81ñ0.86).
+Overall, mean abundance of planktivorous fish
+declined slightly between the two time periods; the
+catch per unit effort (CPUE; effort equivalent to 10 min
+of trawling) was 812 in 1991ñ1996 and 676 in
+2009ñ2010 (Table 5). Further, relative abundances of
+individual species changed between the two time
+periods. Alewife CPUE declined from 171 to 0 and
+declined from 21 % of the catch to 0 % (Table 5). By
+contrast, age-0 yellowperchCPUEincreased from43 to
+284 and their contribution to the pelagic fish catch
+increased from 5 to 42 %. The contribution of rainbow
+smelt to the catch also appeared to decline between time
+periods, whereas the relative importance of other
+planktivorous fish species remained relatively constant.
+Densities of Bythotrephes (Stations 10 and 20 only)
+differed among time periods (t test; P = 0.002), but
+Leptodora did not (P = 0.12). Mean relative
+abundance of Bythotrephes was 0.9 m-3 in
+1991ñ1996 and 7.6 m-3 in 2009ñ2010. In the 1990s,
+Bythotrephes were essentially absent until late summer
+and early fall, but in 2009ñ2010, Bythotrephes
+appeared in the spring and increased rapidly to peak
+abundance in June, followed by a second higher peak
+in the fall (Fig. 6). Mean relative abundance of
+Leptodora was 5.6 m-3 in 1991ñ1996 and 1.8 m-3
+in 2009ñ2010. Abundance of Leptodora peaked in
+June during both time periods, but while a second peak 
+
+
+was observed in late summer during the 1990s, such a
+peak was not evident during the 2009ñ2010 period
+(Fig. 6). xdiscussion
+ Alewife play an important role in structuring zooplankton
+communities and our study indicates that
+they influence zooplankton through direct and indirect
+pathways. Our observation that abundance of
+D. galeata increased in Saginaw Bay after alewife
+essentially disappeared is not surprising given the
+negative spatial and temporal association between
+Daphnia spp. and alewife observed in inland lakes
+(Brooks 1968; Post et al. 2008) and in the open waters
+and bays of the Laurentian Great Lakes (Wells 1970;
+Evans and Jude 1986; Strus and Hurley 1992). Owing
+to their increase in abundance, as well as changes in
+abundances of some other species, D. galeata
+increased from 1 % of the zooplankton community
+to 10 % following the disappearance of alewife.
+Despite the increase in abundance of this large
+cladoceran, the small-bodied cladoceran Bosmina
+longirostris remained the dominant species in the
+bay, likely reflecting relatively high predation
+demands in the system despite release from alewife
+planktivory (Brooks 1968; Evans and Jude 1986; Post
+et al. 2008).
+An indirect impact of reduced alewife could have
+been an increase in age-0 yellow perch as observed in
+other systems (Shroyer and McComish 2000). Yellow
+perch can exert considerable pressure on large
+zooplankton prey (Mills and Forney 1983) and our
+coarse analysis of environmental factors on an annual
+basis indicates that both yellow perch and alewife
+were strongly associated with annual patterns in
+zooplankton community structure. While age-0 yellow
+perch may transition from zooplankton to benthic
+prey during early ontogeny (e.g., 30 mm; Wu and
+Culver 1992), calanoid copepods and Daphnia spp.
+constituted the majority of age-0 yellow perch diet
+biomass in Saginaw Bay in 2009ñ2010 (Roswell
+2011). Thus, it is perhaps somewhat surprising that
+D. galeata actually increased in abundance. However,
+individual yellow perch maximum consumption rates
+are also lower than those of alewife for a given sized
+fish (Hanson et al. 1997), so they might have a
+relatively lower impact on zooplankton than alewife.
+By contrast to Saginaw Bay, Daphnia spp. numbers
+remained relatively stable as abundance of alewife
+decreased and abundance of age-0 yellow perch
+increased in the nearshore of Lake Michigan in the
+1980s (Evans and Jude 1986), but the fish community
+changes in Lake Michigan were not as dramatic as the
+complete loss of alewife and explosion of age-0
+yellow perch that occurred in Saginaw Bay.
+Some changes in zooplankton community structure
+appear to be indirectly rather than directly related to a
+release from alewife predation. For instance, other
+studies have shown that a release from planktivory is (Brooks 1968; Wells 1970). The increase in Daphnia
+associated with decreased planktivory may allow
+larger cladocerans such as Daphnia to outcompete
+the smaller species such as Bosmina (Brooks 1968).
+However, for competition to occur, food resources
+would have to be limited (Dodson et al. 1976) and
+chlorophyll a concentrations were similar or even
+higher in 2009ñ2010 than in 1991ñ1996 (Fig. 5).
+Furthermore, even though Bosmina abundance
+declined and contributed to the dissimilarity in community
+structure between time periods, they remained
+numerically the dominant zooplankton species.
+Another possibility is that reduced alewife planktivory
+allowed invertebrate planktivores to increase in
+abundance and feed on smaller zooplankton such as
+Bosmina (Dodson et al. 1976). The coarse analysis of
+annual patterns indicated that along with alewife and
+yellow perch, the predatory invertebrates Bythotrephes
+and Leptodora were associated with the annual
+patterns of zooplankton community structure. Bythotrephes
+are a large, predatory cladoceran that invaded
+Lake Huron in 1984 (Bur et al. 1986). Alewife select
+Bythotrephes and can control their abundance
+(Pothoven and Vanderploeg 2004; Pothoven et al.
+2007) so the apparent increase in Bythotrephes
+abundance in 2009ñ2010 is consistent with a release
+from alewife predation. Although fish abundance
+remained high following the disappearance of alewife,
+Bythotrephes accounted for\3 % of the zooplankton
+eaten by the dominant fish species in Saginaw Bay
+(i.e., age-0 yellow perch, age-0 white perch, spottail
+shiner; Roswell 2011; S. Pothoven unpublished data).
+Other studies have found inverse relationships
+between fish and invertebrate predators and have
+demonstrated that invertebrate predators can exert
+considerable pressure on zooplankton (Lunte and
+Luecke 1990; Herzig 1994; Wojital et al. 2004).
+Bythotrephes are somewhat of an atypical invertebrate
+predator because they are not necessarily confined
+to eating small prey (Wahlstro®m and Westman
+1999; Branstrator 2005). Their preferred prey are
+generally claodocerans and they have been associated
+with declines of both small and large cladocerans,
+including Bosmina (Wahlstro®m and Westman 1999;
+Yan et al. 2001). Further, the shift in Daphnia
+composition (i.e., the loss of small D. retrocurva) is
+consistent with an increase in invertebrate predation
+that has been occurring in other Great Lakes
+(Lehman 1991, Lehman and Ca¥ceres 1993). Although
+D. galeata are eaten by Bythotrephes (Schulz and
+Yurista 1999), they persist in the presence of Bythotrephes
+(Lehman 1991; Lehman and Ca¥ceres 1993).
+Although the Saginaw Bay ecosystem has remained
+relatively productive unlike the main basin of Lake
+Huron (Barbiero et al. 2011), we somewhat unexpectedly
+found evidence of similar shifts in the zooplankton
+community consistent with a trend toward
+oligotrophication. In particular, the contribution of
+calanoid copepods to the community and the zooplankton
+trophic status ratio both increased. However,
+it should be noted that while the proportion of calanoid
+copepods increased, they still only comprised 18 % of
+the zooplankton community in Saginaw Bay in
+2009ñ2010 compared to Lake Huron, where they
+became the dominant zooplankton group (Barbiero
+et al. 2009).
+Reasons for increased importance of calanoid
+copepods in Saginaw Bay are somewhat unclear.
+Although alewife and other planktivores consume
+copepods, evidence is inconsistent as to whether a
+change in alewife predation would favor one group of
+copepods over the other (Strus and Hurley 1992;
+Pothoven and Vanderploeg 2004). Shifts in copepod
+composition favoring calanoids are often associated
+with shifts in trophic condition toward oligotrophy
+(Gannon and Stemberger 1978). Calanoid copepod
+nauplii and adults have lower food thresholds and
+metabolism than cyclopoid copepods and are able to
+depress food available to cyclopoid nauplii (i.e.,
+phytoplankton) and adults (i.e., microzooplankton)
+under low food conditions (Soto and Hurlbert 1991;
+Adrian 1997; Sommer and Stibor 2002). However,
+Saginaw Bay remains a productive system despite the
+presence of dreissenid mussels, which appear to have
+stabilized or even declined in recent years (Cha et al.
+2011).
+Dreissenids are also capable of filtering microzooplankton
+from the water column (Pace et al. 1998),
+which could favor calanoid copepods over the cyclopoid
+copepods which are carnivorous as adults. Overall
+mean densities of rotifers declined between 1991ñ1996
+and 2009ñ2010 (136,703 m-3 to 10,346 m-3),
+although species composition remained relatively
+stable (S. Pothoven unpublished data). This suggests
+that food resources for cyclopoids might be depleted
+following the long-term establishment of dreissenids in
+Saginaw Bay. Rotifer trends in the main basin of Lake Huron did not suggest a major change in abundance,
+but species composition changes indicated a shift
+toward oligotrophy (Barbiero and Warren 2011).
+We observed shifts in zooplankton community
+structure and timing of seasonal maximum zooplankton
+abundance, with peak abundance shifting from late
+spring to fall. This shift is important given that the
+timing of zooplankton abundance is an important
+factor that helps determine larval and juvenile fish
+survival and condition in the spring (Wu and Culver
+1992; Bremigan et al. 2003; Graeb et al. 2004). The
+pattern of a late spring increase in abundance is one
+that is generally associated with Daphnia (Luecke
+et al. 1990), but it appeared to characterize the
+zooplankton community as a whole in 1991ñ1996 as
+well. Because bottom-up forces (i.e., resource driven)
+affect the initial spring zooplankton increase (Luecke
+et al. 1990), one explanation for this timing change in
+community structure is shifts in resource availability.
+Total phosphorus and chlorophyll a concentrations
+were lower early in the year and higher later in the year
+during 2009ñ2010 than in 1991ñ1996. Water temperatures
+also remained relatively warm later in the year
+in the latter time period, perhaps favoring zooplankton
+production into the fall.
+Shifts in the timing of predation pressures could
+also alter the timing of peak zooplankton abundance
+(Luecke et al. 1990). Changes in the fish community
+composition could have shifted the timing of planktivory
+pressures on fish. Based on studies in other
+systems, consumption rates by small alewife peak in
+fall (Stewart and Binkowski 1986), whereas daily
+ration of small perch peaks in early summer and
+decreases in fall (Nakashima and Leggett 1978;
+Hayward et al. 1991). Therefore, the shift in fish
+community structure from alewife to small yellow
+perch could have favored later peaks in zooplankton
+abundance during the 2009ñ2010 period. It is also
+possible that an early season increase in predatory
+invertebrates including Bythotrephes limited zooplankton
+production early in the year. However,
+Bythotrephes were also high in the fall, which is
+inconsistent with this explanation. Most likely a
+combination of all these factors is responsible for the
+seasonal shift of the zooplankton community and the
+differences between time periods.

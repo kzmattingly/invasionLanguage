@@ -1,0 +1,548 @@
+xabstract
+
+In situ seed banks are a promising avenue for restoration of plant communities damaged by anthropogenic
+changes. The invasive rusty crayfish (Orconectes rusticus) has had well documented effects on macrophytes
+in north temperate lakes. To understand mechanisms of macrophyte recovery from the seed bank, we examined
+seed banks from lakes with different durations of exposure to O. rusticus and compared these findings to longterm
+macrophyte surveys. We cored littoral-zone sediments at sediment depths of 0–5, 5–10, and 10–15 cm to
+test whether deeper layers hold viable seeds that can be used to restore macrophytes. The seed bank in uninvaded
+lakes contained a higher number and richness of viable seeds than did the seed bank in invaded lakes.
+Number and richness of viable seeds decreased with sediment depth in all lake categories, and most seeds were
+found in the top 10 cm. Among all lakes, at most, 33% of the species recorded in field surveys of standing vegetation
+were represented in the seed bank. We conclude that the seed bank has only modest potential to contribute
+to natural recovery. Natural regeneration of the macrophyte community is more likely to rely upon vegetative
+propagules from remnant stands in invaded lakes, especially from very soft-bottom areas avoided by crayfish.
+Our results emphasize the importance of preventing destruction of macrophytes, especially in lakes without habitats
+likely to constitute a refuge for macrophytes.
+
+xintroduction
+
+Multiple anthropogenic stressors, including eutrophication,
+sedimentation, acidification, and addition of nonnative species,
+can reduce aquatic vegetation. Once such disturbances
+cease, seed banks can contribute to natural recovery of the
+plant community. Seed banks for grassland and wetland
+ecosystems have been studied under a variety of circumstances
+(e.g., duration and nature of disturbance; Stroh
+et al. 2012), but much less is understood about seed banks
+for submerged macrophytes in lakes. A lake seed bank
+may be less abundant than those from terrestrial and semiaquatic
+environments because submerged aquatic plants
+have a lower propensity for sexual reproduction and rely
+more upon production of vegetative structures for propagation
+and spread (Muenscher 1936, Haag 1983, Kautsky
+1988). However, most aquatic macrophytes retain the ability
+to flower and set seed, and a few species reproduce exclusively
+by sexual means (McFarland and Rogers 1998).
+Therefore, increased understanding of aquatic plant seed
+banks could guide efforts to restore macrophytes once a
+disturbance ends.
+In the north temperate lake region of Wisconsin and
+Michigan, the landscape comprises a patchwork of lakes
+with different histories of exposure to the nonnative rusty
+crayfish (Orconectes rusticus), which has well documented
+deleterious effects on aquatic plants. High densities of rusty
+crayfish are associated with decreases in standing macrophyte
+abundance and species richness (Wilson et al. 2004).
+A survey of 57 lakes in Wisconsin revealed that sites were
+less likely to have macrophyte cover as crayfish density increased
+(Roth et al. 2007). Moreover, species richness of
+the seed bank from an invaded lake was depauperate compared
+to that from an uninvaded reference lake (Rosenthal
+et al. 2006). A reduction in macrophyte abundance has indirect
+and direct effects on higher taxonomic levels (Wilson
+et al. 2004) and implications for physicochemical processes
+(Carpenter and Lodge 1986). Restoration of the plant
+community is an important step for reestablishing normal
+ecosystem function after a disturbance, but the location,
+abundance, and viability of macrophytes seeds are largely
+unknown.
+The vertical distribution of viable seeds in lake sediments
+has implications for restoration. Depth of seeds in
+the sediment can be an indicator of seed age (Leck 1989,
+Bekker et al. 1998), and previous investigators have used
+sediment depth to examine the history of seed deposition
+(Bonis and Lepart 1994, Xiao et al. 2010, Lu et al. 2012).
+However, rates of sediment accumulation in littoral zones
+of lakes can be highly variable because of microhabitat
+conditions, and accumulation rates can range from 0.2 to
+3.6 mm/y (Benoy and Kalff 1999). Deeper sediment layers
+in invaded lakes may contain seeds deposited before the
+destruction of standing aboveground vegetation by O. rusticus.
+If so, a possible restoration strategy would be to overturn
+sediments in the littoral zone to encourage germination
+of deeper, in situ seeds by exposing them to the
+conditions required for germination.
+Development of effective restoration strategies requires
+information on unaffected reference ecosystems, knowledge
+of the causes and consequences of degradation, and
+knowledge of recovery processes (Clewell and McDonald
+2009). The first 2 requisites usually are satisfied in the
+course of studies on effects of invasive species, but few investigators
+examine the recovery process in a way that is
+informative for restoration. The time frame of disturbance
+and the resulting effects are important for planning and
+prioritizing restoration actions. We studied lakes in 3
+O. rusticus-exposure categories: uninvaded, invaded in the
+past 24 y, and invaded >24 y ago.
+Our goal was to assess the potential for natural recovery
+of aquatic plants from lake seed banks, and we focused
+on lakes invaded by O. rusticus. We surveyed the aboveground
+macrophyte community to provide a quantitative
+reference point for comparison of aboveground and seedbank
+species richness. We then used greenhouse germination
+assays of sediments collected from 3 sediment depths
+to test 3 hypotheses: 1) richness and abundance of viable
+seeds will be greater in lakes uninvaded by O. rusticus
+than in lakes with a history of invasion, 2) in uninvaded
+lakes, richness and abundance of viable seeds will decrease
+with sediment depth, and 3) in invaded lakes, richness and
+abundance of viable seeds will increase with sediment
+depth.
+
+xmethods
+
+Site description and field sampling
+We studied 6 lakes in Vilas County, Wisconsin (USA),
+that are part of a larger multiyear survey of crayfish and
+macrophytes begun in 1987. The sites had substrate that
+could be sampled with a corer (sand or firm muck). We
+visited each sampling site 3 times (1987, 2001, 2011) to
+collect data on crayfish and aboveground abundance of
+macrophytes and once (2011) to collect sediments for
+seed germination assays. We used maps, landmarks, and
+global positioning system coordinates to ensure that the
+same location and water depth were sampled each time
+(Table 1).
+We categorized the lakes on the basis of their duration
+of exposure to O. rusticus (Table 1). Following Kreps et al.
+(2012), we considered a lake to be uninvaded if average
+trap catches of rusty crayfish were <10 male crayfish/trap
+and invaded if the crayfish populations exceeded this threshold.
+Below this threshold, effects of rusty crayfish on macrophyte
+standing stock areminimal (Wilson et al. 2004). The
+uninvaded lakes, Wild Rice and Upper Allequash, have always
+been below the threshold. In the transition lakes,
+O. rusticus reached invasive densities ≥10 (Little John) and
+16 y (Plum) ago (DML, unpublished data). The invaded
+lakes, Presque Isle and Papoose, have had invasive densities
+of O. rusticus for ≥34 and 24 y, respectively (Capelli and
+Magnuson 1983, Olsen et al. 1991). Sampling in many of
+these lakes was infrequent around the time of O. rusticus
+invasion, so these are conservative estimates based on
+the date of the first record where trap catch was >10 male
+crayfish/trap.
+We surveyed standing vegetation in late July to early August
+1987, 2002, and 2011 with the line–intercept method
+(Brower et al. 1997). At each site in each lake, divers visually
+assessed the presence or absence of all macrophyte species
+crossing the vertical plane of a 0.10-m segment at 1-m
+intervals along a 25-m transect. Rare species (those occurring
+at just 1 site in a lake) without a positive identification
+were not included in our analyses. During the same
+periods, we used standard methods to sample rusty crayfish
+(i.e., 1 modified Gee minnow trap baited with 120 ± 10 g
+of beef liver and set overnight at each site) (Capelli and
+Magnuson 1983).
+We collected sediments for seed-bank quantification
+from 2 to 3 sites in each lake (total sites = 17) in September
+2011. At each site, we collected a core every ∼3 m
+along a 25-m transect following the depth contour parallel
+to shore. We constructed a custom coring apparatus
+from 10.16-cm-diameter polyvinyl chloride (PVC) pipe
+that was capped at the top. We cut thin transverse slits
+at 5-cm intervals from the bottom edge of the pipe and
+resealed them with electric tape to facilitate dividing the
+sediment cores into depth strata. A rubber stopper inserted
+into the cap after the corer was pushed into the
+sediment created a sufficient vacuum to hold the sediments
+in place. We immediately divided each core into
+3 depth strata (0–5, 5–10, and 10–15 cm) by inserting a
+sharp divider into each of the slits. We collected a total of
+8 cores on each transect, for a total bottom area = 0.065m2.
+We pooled the 8 subcores by depth to produce 3 composite
+samples for each site (total sample volume for each
+sediment layer = 3.2 L). The sediments were kept in dark
+storage at 4°C for 20 to 24 wk to simulate winter stratification
+(a condition important for breaking seed dormancy;
+Haag 1983).
+Greenhouse germination assays
+We sieved all sediments collected in the field to remove
+particles <250 μm and >4 mm to improve germina-tion by reducing sample volume (ter Heerdt et al. 1996).
+We measured % organic content as loss on ignition at
+550°C from triplicate 5- to 8-mL sediment samples collected
+before sieving (Steinman et al. 2007). We assigned
+sediment samples randomly to tanks (n = 51) in a greenhouse.
+Tanks were clear 22.7-L containers (0.1 m2 surface
+area) containing 5 cm of autoclaved and rinsed sand (Play
+Sand; Quikrete Companies, Inc., Atlanta, Georgia), covered
+by the lake sediments and 10 to 12 cm of aerated
+well water. Four control tanks contained only sand to test
+whether the sand base contained seeds. Three additional
+control tanks contained sand and 1.5 L of the silt/clay sediments
+(<250 μm) removed by sieving to check for small
+seeds or spores that might have been lost during sediment
+processing. No germination occurred in any control
+tank, so we do not report further on either kind of control
+tank. We maintained all tanks under full-spectrum metal
+halide lights (14 h:10 h light:dark cycle) at ambient temperatures
+ranging between 21 and 26°C. The composition
+of the sediment samples differed among sites and depths,
+so the final volume of sediment added to each tank after
+sieving also varied. We recorded sediment height in each
+tank after lake sediments were added.
+We ran germination assays for 10 wk. To aid in identification
+of plants, we promoted foliage growth by adding
+1.5 mL of Leaf Zone Aquarium Plant Food (0.10% chelated
+Fe, 3.0% soluble potash; Mars Fishcare, Mars, Pennsylvania)
+to each tank after the number of germinating
+seeds reached a plateau (∼week 8). These nutrients do
+not affect germination (Albano Pérez et al. 2011). We
+identified and removed seedlings once diagnostic features
+(e.g., leaves, stipules, stems, and seed coats) became clear
+enough for identification to species or genus with the aid
+of keys by Crow and Hellquist (2006a, b). We cultivated
+some seedlings after the end of the experiment until diagnostic
+features were sufficiently developed.
+Data analysis
+We ran all analyses in R (version 2.15.1; R Project for
+Statistical Computing, Vienna, Austria). We analyzed lakewide
+mean species richness from field surveys with a
+2-way analysis of variance (ANOVA) with lake category
+and year as factors. We used linear models with sediment
+depth and lake category as factors to analyze the lakewide
+means for seed species richness and count (seedling count
+was transformed as log[count + 1] to meet the assumption
+of normality). The uninvaded lakes and the 0–5-cm sediment
+depth were designated as the reference level within
+their respective factors against which the other levels were
+tested. We tested for potential influence of site-specific
+factors on seed richness and abundance with multiple linear
+regressions for each response variable against water
+depth of collection site, sediment height in the germination
+tanks, and % organic matter of the sediment sample.
+We further explored the relationships between duration of exposure to O. rusticus and seed richness and count with
+Pearson’s correlation tests for each response variable at
+each sediment depth against time since invasion. Each
+comparison met the assumption of normality according to
+Shapiro-Wilk tests, but we log(x)-transformed the data for
+presentation.
+We calculated Sørensen’s similarity coefficient to describe
+the similarity between the seed bank and standing
+vegetation in the field for each lake category. The coefficient
+is calculated as Ss = 2c/(a + b), where a is the number
+of species in the seed bank, b is the number of species
+in the field surveys, and c is the number of species in common.
+We could not assign any 1 sediment depth layer to
+a specific time period, so we pooled species data from all
+3 sediment depths in each lake category and compared
+this value to the field surveys over time. We analyzed Ss
+with a randomized complete block ANOVA with lake category
+blocked by year.
+
+xresults
+
+Invasion by O. rusticus significantly affected standing macrophyte
+species richness among lake categories. The highest
+richness occurred in uninvaded lakes (ANOVA, F2,9 =
+59.86, p < 0.0001; Fig. 1). Transition lakes showed a slight
+decrease in macrophyte species richness between 1987
+and 2002 (the period during which rusty crayfish densities
+increased in these lakes), but overall, changes over time
+were not significant (F2,9 = 2.20, p = 0.17). All plant surveys
+in the invaded lakes were conducted after crayfish
+densities were high, and they reveal consistently low macrophyte
+species richness (Fig. 1).
+Greenhouse assay of seedling species richness and seedling
+count revealed significant differences among lake categories
+and over time (Fig. 2A, B). Species richness was
+significantly lower at 10–15 cm than at 0–5 cm (linear
+model: t = –3.40, p < 0.01; Fig. 2A), but did not differ between
+0–5 and 5–10 cm (t = –1.36, p = 0.21). Richness
+was significantly greater in uninvaded than in transition
+(t = –2.38, p = 0.04) and invaded lakes (t = –4.42, p <
+0.01). None of the depth × lake-category interactions were
+significant (all p > 0.06). Site-specific factors did not influence
+species richness (multiple linear regression: % organic
+matter, t = –0.49, p = 0.63; sediment height, t = 0.07, p =
+0.95; water depth, t = –1.63, p = 0.13). The count of germinated
+seedlings was significantly lower at 10–15 than
+at 0–5 cm (linear model: log[count + 1]-transformed data,
+t = –3.11, p = 0.01; Fig. 2B), but did not differ between 0–5
+and 5–10 cm (t = –1.21, p = 0.26). Seedling count was
+significantly lower in transition (t = –2.34, p = 0.04) and
+invaded lakes (t = –3.58, p < 0.01) than in uninvaded lakes.
+None of the depth × lake-category interactions were significant
+(all p > 0.06). Seedling count decreased significantly
+with increasing water depth (multiple linear regression: log
+[count + 1]-transformed data, t = –2.27, p = 0.04), but was
+not affected by % organic matter (t = –0.38, p = 0.71) or
+sediment height (t = –0.17, p = 0.87).
+Seed species richness at 0–5 cm was correlated with
+time since invasion (r = –0.89, p = 0.02; Fig. 3A, Table 2),
+but seedling count at 0–5 cm was not correlated with
+time since invasion (p = 0.28). None of the correlations
+between time since invasion and seedling richness or seedling
+count were significant at greater sediment depths (all
+p > 0.13; Fig. 3B, Table 2).
+Eight taxa germinated in greenhouse assays: Najas
+flexilis (% occurrence among all tanks = 25.5%), Chara
+spp. (17.6%), Isoetes spp. (13.7%), Potamogeton robbinsii
+(5.9%), Potamogeton zosteriformis (2.0%), Zosterella dubia
+(2.0%), Eriophorum sp. (2.0%), and an unidentified dicot
+(2.0%). Seed species richness was much lower than standing
+vegetation species richness. At most, 33% of the species
+recorded in the field were in the seed bank for a
+given lake category (Table 3). The Sørenson similarity coefficient
+for the standing vegetation and seed bank differed
+among the lake categories. Similarity was greater in
+uninvaded and transition lakes than in invaded lakes (randomized
+block ANOVA: F2,4 = 26.1, p < 0.01; Table 3).
+Species that were common in the field surveys but absent
+in the germination assays included Ceratophyllum demersum,
+Elodea canadensis, Myriophyllum spp., Potamogeton
+amplifolius, Potamogeton gramineus, Potamogeton richardsonii,
+Sagittaria spp., and Vallisneria americana (Table
+4).
+
+xdiscussion
+
+Our results support the hypotheses that richness and
+abundance of viable seeds will be greatest in lakes with
+less exposure to O. rusticus and at shallower sediment
+depths. However, we found no evidence that the richness
+and abundance of viable seeds increases with sediment
+depth in invaded lakes. The pattern of overall decreases
+in richness and abundance of viable seeds in lakes invaded
+by O. rusticus mirrors the documented negative effects of
+O. rusticus on standing vegetation. Moreover, the decrease
+in richness scaled linearly with increasing length of time
+that the lake had been invaded. Across all lake categories,
+the vast majority of richness and abundance of viable seeds
+occurs in the top 10 cm of sediment. We identified limitations
+for natural recovery from the seed bank in lakes
+experiencing long-term (i.e., >24 y) invasion by O. rusticus.
+The seed bank in lakes invaded for a shorter period (i.e.,
+15–24 y) contained a few species that reflected present and
+past standing plant communities. Uninvaded lakes had the
+highest richness and abundance of viable seeds in the
+sediments, but many species common in the field were not
+represented in the seed bank.
+The species present in the standing vegetation often differ
+substantially from the species present in the seed bank
+because of differences among species in methods of propagation
+and duration of seed viability (Leck 1989, Matus
+et al. 2003). For example, annual plants have a strategy for
+higher seed production, whereas plants with longer-lived
+vegetative structures may rely upon turions or vegetative
+reproduction (McFarland and Rogers 1998). The percentage
+of species in the standing vegetation represented in the
+seed bank differs across systems and among studies: 50–
+85% in wetland systems (Wetzel et al. 2001, Stroh et al.
+2012) and 41–64% in lakes (Haag 1983, Kimber et al. 1995,
+McFarland and Rogers 1998, Rosenthal et al. 2006). Only
+16% of the aboveground species along a lakeshore with
+variable flooding rates were detected in the seed bank
+(Grelsson and Nilsson 1991). Nevertheless, even with consideration
+of the potential variation in the relationship between
+aboveground species richness and seed bank richness,
+our results illustrated a strong impact of rusty crayfish
+on the seed bank. Sørensen’s coefficient scores indicated
+that similarity between aboveground richness and viable
+seed richness was highest in the uninvaded lakes and that
+the invaded lakes had no species in common between the
+field and seed bank. The lowest non-0 coefficient of similarity
+was found in the transition lakes in 2002 (the first sampling
+year after invasion by O. rusticus).
+The species that appeared most frequently in our germination
+assays are ones that rely heavily or exclusively
+on seed, megaspore, or oospore production. Najas flexilis,
+the most common seed bank species in our study lakes, is
+an annual with no form of vegetative reproduction (Hutchinson
+1975). Najas flexilis and Chara spp. were common
+in other published germination assays (Kimber et al. 1995,
+McFarland and Rogers 1998, Rosenthal et al. 2006). These
+species have high ecological importance because they provide
+forage for migrating waterfowl and habitat for macroinvertebrates
+(Krull 1970, Knapton and Petrie 1999).
+Vegetative propagation is the dominant reproductive
+strategy for most of the common species in our field survey
+that did not appear in the greenhouse assays, including
+several species of Potamogeton (Muenscher 1936),
+Ceratophyllum demersum (Muenscher 1940), E. canadensis
+(Barrat-Segretain and Cellot 2007), V. americana (Korschgen
+et al. 1997), and Myriophyllum spp. (Les and Mehrhoff
+1999). Based on the success of propagation from seed in
+other studies (Kimber et al. 1995, McFarland and Rogers
+1998), we were surprised that neither V. americana nor
+Sagittaria spp. appeared in our greenhouse assay. However,
+seedlings of V. americana are rarely observed in temperate
+lakes, so it may be that seed production was lower
+in our study lakes in northern Wisconsin than in shallow
+lakes in central Wisconsin (Kimber et al. 1995). Elodea
+canadensis produces seeds at shallow depths (<1 m) and
+has appeared in previous greenhouse germination assays
+in low densities (Kimber et al. 1995). However, in >3 decades
+of observations in the lakes studied here, we have
+never observed E. canadensis, C. demersum, or Sagittaria
+spp. flowering at the collection depths of our study sites.
+Germination for most aquatic plants occurs within 1
+or 2 y of when the seed is set, and some species peak at
+3 or 4 y (Hutchinson 1975). Thus, aquatic seeds tend to
+be more transient than seeds from many terrestrial plants.
+Terrestrial species usually have transient (few years) or
+persistent (up to multiple decades) seed-viability strategies
+(Bekker et al. 1998). A review of European macrophytes
+revealed that persistence of propagules is transient (<1 y)
+to short term (Bakker et al. 2013). Chara spp. oospores
+can survive ≥4 y (Proctor 1967), and are more likely to
+persist in deeper sediments. One of the only species in the
+invaded-lake seed bank was Chara spp. at 5–10 cm. Najas
+marina seeds retain viability for >4 y when stored in wet
+or dry conditions (Agami and Waisel 1984). Given the
+modest estimates of seed longevity for aquatic plants, that
+we encountered so few viable seeds at greater sediment
+depths is not surprising. However, some species of macrophytes
+found in shallow lakes have regenerated from the
+seed bank >20 y after the loss of submerged vegetation (de
+Winton et al. 2000, Lu et al. 2012), and a Nelumbo nucifera
+seed germinated after >230 y (Hutchinson 1975).
+Thus, natural recovery from the existing seed bank of
+a macrophyte community after cessation of a disturbance
+is most likely when species have only recently been eliminated
+(van der Valk and Pederson 1989). The seed bank
+of a fen meadow community represented the predisturbance
+diversity of a Cirsio–Molinietum plant community,
+but only if the disturbance occurred just a few years prior
+(Matus et al. 2003). Our examination of seed banks in
+lakes with known disturbance histories and long-term surveys
+of standing vegetation confirms that long-term invasions
+(>24 y) are detrimental to the standing aquatic
+vegetation and to the potential for natural recovery. The
+results from transition lakes suggest that invasion for only
+15 y substantially diminishes the potential for natural recovery.
+Even in uninvaded (i.e., undisturbed) lakes, the diversity
+of species in the seed bank is not sufficient to recreate the
+aboveground plant community. Therefore, natural recovery
+would require a combination of regeneration from the seed
+bank and dispersal of seeds and vegetative propagules from
+other sources.
+Vegetative recolonization from local remnant populations
+can provide a significant contribution to recovery
+following disturbance (Bakker et al. 2013). Water currents
+facilitate transport of relatively heavy vegetative diaspores
+(Kautsky 1988). Propagules (both seed and vegetative) also
+could arrive at a site via transport by birds and fish (Agami
+and Waisel 1984, Carpenter and Lodge 1986). In our invaded
+study lakes, dispersal of propagules from remnant
+stands, albeit gradual, may be the most promising avenue
+for natural recovery.
+The reduced species richness detected by our germination
+assays compared to the field surveys also may be an
+artifact of sampling effort or greenhouse conditions. The
+total area of our sediment cores at each site was 0.065 m2,
+and the area surveyed using the line–intercept method
+was 0.125 to 0.25 m2 (assuming that sediments 2.5 or 5 cm on either side of the line transect were captured
+in the survey). This 2- to 4-fold lower sampling intensity
+may decrease the chance of detection for seeds relative to
+aboveground species richness. A lack of suitable germination
+cues also could help explain why some species did
+not appear in the greenhouse assays (Stroh et al. 2012).
+McFarland and Rogers (1998) had good success germinating
+seeds in a low-alkalinity culture solution (but see
+Kimber et al. 1995). However, in most studies we encountered,
+investigators using the emergence method did not
+apply a chemical treatment to stimulate germination (e.g.,
+Haag 1983, Bonis and Lepart 1994, ter Heerdt et al. 1996,
+Stroh et al. 2012). A follow-up to our study would be to
+conduct germination assays in field plots protected from
+crayfish instead of under greenhouse conditions (similar
+to Matsuzaki et al. 2009). Doing so would increase the
+volume of sediment tested and eliminate artifacts that
+may have prevented germination in the greenhouse.
+We removed large particles (>4 mm) from sediments
+to exclude vegetative propagules (ter Heerdt et al. 1996).
+However, we also may have removed larger seeds that occur
+in the seed bank. Ceratophyllum demersum usually reproduces
+via fragmentation, but it also produces large,
+spiny fruits (Muenscher 1940). Potamogeton amplifolius,
+P. praelongis, and E. canadensis have seeds with maximum
+dimensions >4 mm (Haynes 2000, Haynes and Hellquist
+2000). However, despite being common in the field, neither
+P. amplifolius nor E. canadensis was detected in the
+seed bank in other studies in which field exclosures (Wilson
+2002) or greenhouse germination assays (Rosenthal
+et al. 2006) were done with unsieved sediments.
+Site characteristics can influence rates of seed deposition
+and sedimentation, both of which directly affect seedbank
+dynamics. The water depth of our field sites did not
+influence seed-bank species richness, but the number of
+germinating seedlings was significantly reduced at greater
+water depths. This result is not surprising because seed
+production decreases with increasing depth because of reduced
+irradiance and greater time required to grow to the
+surface, where most flowers are produced (Haag 1983).
+Based on the range of littoral-zone sedimentation rate
+estimates by Benoy and Kalff (1999), each of our 5-cm
+strata could represent 14 to 250 y of sediment accumulation.
+In lakes with invasive densities of crayfish and, therefore,
+low coverage of standing macrophytes, sedimentation
+rates are likely to be reduced (Benoy and Kalff 1999).
+Thus, a 5-cm sediment core from an invaded lake may
+represent many years of deposition from before invasion
+and could contain older seeds that have lost their viability.
+Our goal was not to pinpoint times of deposition, but
+rather to examine relative patterns of attenuation of seed
+viability in each lake. The reduced richness of viable species
+at greater sediment depths demonstrates that older,
+deeper sediments (i.e., >10 cm) cannot be used to rejuvenate
+a diverse plant community in invaded lakes. The implication
+of these factors is that sediments collected near
+macrophyte beds or in protected bays are more likely to
+contain viable seeds.
+Our first surveys in the invaded lakes occurred after
+invasion, so we do not have pre-invasion data on macrophyte
+abundance in these lakes. However, the limnological
+and morphometric characteristics of these lakes are
+similar to those of our other study lakes, and we have no
+reason to think they would not previously have supported
+a diverse macrophyte community. In a lake with substrate
+and water-clarity characteristics similar to those of our
+invaded lakes, the number of submerged macrophyte species
+decreased from 12 to 4 after invasion (Rosenthal et al.
+2006). Moreover, in one of our invaded lakes (Papoose),
+a mucky bay where crayfish are rarely found supports
+high macrophyte richness. This remnant stand of vegetation
+probably reflects the broader pre-invasion macrophyte
+community and could be a potential source of vegetative
+propagules for restoration if the crayfish invasion
+were reversed.
+Management intervention often is necessary to reduce
+the source of disturbance and restore the system to a more
+desired state. The presence of invasive crayfish (Procambarus
+clarkii) in a Dutch lake inhibited the development
+of submerged macrophytes (van der Wal et al. 2013). In
+our invaded lakes, plans to restore the macrophyte community
+would have to begin with substantial reductions of
+the O. rusticus population. Strategies for controlling invasive
+crayfish include removal via trapping or trawling and
+biocontrol with predatory fish (Hein et al. 2007, Peters
+2010). Rusty crayfish also can undergo natural population
+declines (Kreps et al. 2012). In a Wisconsin lake, the macrophyte
+community recovered, at least partly, within 1 decade
+after mechanical removal of O. rusticus, but the contribution
+of the seed bank relative to vegetative propagules
+from remnant macrophyte populations was not estimated
+(Hansen et al. 2013).
+Our findings are relevant to the natural recovery of
+macrophytes in lakes after many kinds of disturbance, including
+invasion by other species (de Winton and Clayton
+1996) and nutrient loading (Bakker et al. 2013). Because
+of the transient nature of lake seed banks, management
+efforts to reduce the source of disturbance in a timely
+manner are critical to the potential for natural recovery of
+macrophytes. Benefits of rapid action include increased
+likelihood of presence of viable seeds in the top sediment
+layer and preservation of extant remnant populations in
+the same water body that can contribute seeds and vegetative
+propagules.

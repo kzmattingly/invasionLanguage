@@ -1,0 +1,380 @@
+xabstract Changes in benthic macroinvertebrate communities inhabiting natural
+cobble and artificial reef substrates in southwestern Lake Ontario were quantified
+following invasion of zebra mussels (Dreissena polymorpha) and "quagga" mussels
+(Dreissena sp.). Post-Dreissena invasion data (1991-1992) were compared with preinvasion
+data (1983) from the same sites. In 1991-1992, Dreissena comprised 79% and
+93% of macroinvertebrates collected at cobble and artificial reef sites, respectively,
+replacing the amphipod Gammarus fasciatus as the numerically dominant taxon at
+both sites. Total abundance of non-Dreissena macroinvertebrates was significantly
+greater at both sites in 1991ó1992 than in 1983. Taxa showing the greatest increases
+in abundance at the cobble site included the annelids Manayunkia speciosa, Spirosperma
+ferox, and unidentified tubificids; the gastropods Helisoma anceps, Physa heterostropha,
+Stagnicola catascopium, Valvata tricarinata, Goniobasis livescens, and
+Amnicola limosa; the amphipod Gammarus fasciatus; and the decapod Orconectes
+propinquis. At the artificial reef site, significant population increases of Physa heterostropha,
+Valvata tricarinata, Goniobasis livescens, Amnicola limosa, Gammarus fasciatus
+and the trichopteran Polycentropus were observed. No taxon was less abundant in
+1991ó1992 than 1983. Comparisons of macroinvertebrate community similarity in
+1983 and 1991-1992 by Morisita's Index, excluding Dreissena, indicated that previously
+established taxa did not change substantially between 1983 and 1991-1992 at
+either site. Although many factors may have contributed to the changes observed, our
+results support theories that Dreissena is facilitating energy transfer to the benthos
+through pseudofecal / fecal deposition, and that mussel colonies are providing additional
+habitat for other invertebrate taxa. 
+
+
+xintroduction
+
+
+ The first sighting of the zebra mussel (Dreissena polymorpha) in the Great Lakes occurred
+within Lake St. Clair in June 1988 (Hebert et al. 1989). Since then, the "quagga"
+mussel, believed to be a second species of Dreissena, has also invaded the Great
+Lakes (May and Marsden 1992). At present, Dreissena is colonizing portions of all the
+Great Lakes, with exception of Lake Superior. Spread of Dreissena through the Great
+Lakes has generated concern among ecologists for several reasons. Of particular importance
+is the ability of adult Dreissena populations to 1) completely cover and
+change the physical structure of hard substrates (Lewandowski 1976, Stanczykowska
+1977); and 2) reduce limnetic phytoplankton biomass by filter feeding (Reeders and
+Bij de Vaate 1990, MacIsaac et al. 1992, Leach 1993), likely impacting species dependent
+upon this food resource (Mackie 1991, Schloesser and Kovalak 1991). Concern
+about the impact of Dreissena upon other taxa (Hebert et al. 1991, Mackie 1991) has
+prompted studies of effects on a diverse array of faunal and floral taxa (MacIsaac et al.
+1991, Wu and Culver 1991, Wormington and Leach 1992, Leach 1993).
+Since Dreissena and other benthic macroinvertebrate taxa are fairly sessile, often occupy
+the same substrates (Sebestyen 1938), and in some instances may consume similar
+foods (Hebert et al. 1991, Mackie 1991), changes in previously established benthic
+macroinvertebrate communities following Dreissena invasion are possible (Mackie et
+al. 1989, Reeders and Bij de Vaate 1990, Hebert et al. 1991). Investigations of Dreissena
+impacts on some Great Lakes benthic macroinvertebrate taxa have been conducted
+(Mackie 1991, Hunter and Bailey 1992, Dermott et al. 1993, Griffiths 1993). However,
+scarcity of pre-invasion data has made assessment of Dreissena impacts on many
+pre-established macroinvertebrate taxa difficult. Quantitative analysis of macroinvertebrate
+communities occupying natural cobble and artificial reef sites in southwestern
+Lake Ontario by Bader (1985), followed by invasion of these sites by Dreissena in
+1990 (Haynes, personal observation), provided an opportunity to investigate benthic
+macroinvertebrate community changes resulting from Dreissena colonization. 
+xmethods The study sites were situated 1.1-1.6 km west and 0.5-0.8 km offshore of Olcott, New
+York, in the southwestern region of Lake Ontario (Fig. 1). Physical characteristics of
+the cobble site (latitude = 43∞20'9" N; longitude = 78∞44'48"W) were representative of
+the benthic environment naturally found along this nearshore region of Lake Ontario.
+The gradually sloping lake bed was covered with gravel and small rocks, though some
+scattered boulders as large as 0.25 m in diameter were present. The artificial reef site
+(latitude = 43∞20'9" N; longitude = 78∞45'30" W; Fig. 1) was located 0.5 km west of
+the cobble site. The artificial reef was constructed in 1981-1982 of siltstone and shale.
+Particle sizes on the reef ranged from small pebbles to boulders approximately 0.5 m
+in diameter. Although six discrete piles of material were placed in the area, all samples
+were collected from two reef sections located along the 7 m contour (Fig. 1). These
+sections, approximately 30 meters in length, are connected to each other by cinderblocks. 
+
+This study was designed to replicate that of Bader (1985), who quantified abundances
+of benthic macroinvertebrate taxa at cobble and artificial reef sites in 1983, 7 years
+before establishment of Dreissena populations. The present study duplicated sampling
+methods employed in the 1983 study and included additional sampling methods for
+Dreissena, which required different sampling methodology. Samples were randomly
+collected by SCUBA divers at five stations along 30 m transects at cobble and artifi-
+cial reef sites on 12 July and 21 September 1991, and 15 May and 20-23 August 1992.
+Sampling depths ranged from 5-7 m below the water surface (Fig. 1). Macroinvertebrate taxa (with exception of Dreissena) were collected by sampling for
+a 3-minute period at each sampling location (Bader 1985) with a dome suction
+sampler (Gale and Thompson 1975), which enclosed an area of 0.165 m2
+ and was
+equipped with a 0.5 mm mesh collecting bag. The dome suction sampler was made of
+a serrated steel band, effective in penetrating cobble site substrate and providing a seal
+between sampler and substrate. Although the serrated band prevented establishment of
+a tight seal between the band and hard artificial reef substrate, perhaps allowing some
+organisms to escape, this design was used to maintain consistency between 1983
+(Bader 1985) and 1991-1992 sampling methods.
+Because the dome suction sampler lacked power needed to remove enough Dreissena
+from substrates to obtain accurate representations of population sizes, plot sampling
+(Stanczyckowska 1977, Lewandowski and Stanczyckowska 1986, Hebert et al. 1991)
+was used to obtain abundance estimates of Dreissena. A square frame enclosing an
+area of 0.185 m2
+ was placed on cobble and artificial reef substrates, adjacent to the
+dome sampler, at three of the five sampling stations. Rocks forming the surface of the
+enclosed area were manually placed in a 0.5 mm mesh collecting bag. On the dive
+boat, Dreissena were removed from rocks by scraping with a hard-bristle brush (Piesik
+1983). Samples were initially preserved in 3-5% buffered formalin with rose bengal dye (200
+mg/L). Within 24 hours, this solution was replaced with 70% ethanol (Clesceri et al.
+1989). In the laboratory, macroinvertebrates were separated from other debris under a
+stereoscopic microscope (5x power). Subsampling (Elliott 1971) was used to obtain
+abundance estimates of Dreissena. Dreissena were uniformly mixed in a dissecting
+pan, and 500 undamaged individuals were removed (beginning at the upper left region
+of the pan and proceeding from left to right). This procedure improved the likelihood
+of unbiased selection of individuals for enumeration (Elliott 1971). The average
+mass/individual was calculated after the 500 mussels were blotted dry and weighed.
+Abundance estimates (# individuals/m2
+) from each replicate sample were determined
+based on the average mass/individual and the total mass of zebra mussels in the
+sample. Based on weights of three sets of 500 mussels selected from the same sample
+in a preliminary trial, an index of precision (Elliott 1971) demonstrated that use of
+weights was suitable in estimating Dreissena abundance if a standard error equivalent
+to 5% of the mean is tolerated.
+Abundance estimates of other taxa were usually obtained by direct counts of individuals
+after identifications were made under stereoscopic (Nematoda, Turbellaria, Hirudinea,
+Mollusca, and Arthropoda with exception of Chironomidae) or compound (other
+Annelida, Chironomidae) microscopes. A damaged turbellarian, annelid, or arthropod
+was included in counts if the animal's head was present. Damaged mollusks were
+included in counts if the animals were attached to their shells. On four occasions (one
+cobble site sample on 12 July 1991 and three cobble site samples on 20 August 1992),
+sub-sampling of oligochaetes was employed due to their high abundances. Oligochaete
+subsampling involved counting all oligochaetes present in the sample, thoroughly mixing
+the animals, then proceeding to identify to the lowest taxonomic level every
+second individual encountered as we proceeded from left to right through this assemblage
+(Elliott 1971). Subsequent to identification of individuals, the total count for
+each taxon would be doubled to provide abundance estimates of each taxon in the
+sample. Abundances of Hydracharina and Unionidae, quantified in 1991-1992 but not
+in 1983, are not included here. Bader's (1985) neglect of these taxa is understandable
+since the size ranges of these organisms make accurate abundance estimates by dome
+sampling difficult. Abundance estimates of additional taxa are reported in Stewart
+(1993), along with detailed descriptions of field and laboratory methods.
+Mean macroinvertebrate abundance estimates, standard errors, and ranges (95% confidence
+limits) were calculated for artificial reef and cobble site taxa on each sampling
+date. Differences in abundance estimates between 12 July 1983 and 12 July 1991; 10
+September 1983 and 21 September 1991; 11 May 1983 and 15 May 1992; and 31 August
+1983 and 20-23 August 1992 were determined by two-sample t-test after log +1
+transformation of abundance estimates (Elliott 1971).
+Changes in composition of macroinvertebrate communities between 1983 and 1991-92
+were further analyzed by Morisita's Community Similarity Index (Brower and Zar
+1977). This index is based on the probability that two individuals, randomly selected
+from two different communities, will belong to the same taxon. Mean abundance estimates
+for each taxon on each sampling date were used to calculate the degree of similarity
+between cobble site communities (1983 and 1991-1992), artificial reef communities
+(1983 and 1991-1992), cobble site and artificial reef communities (1983), and
+cobble site and artificial reef communities (1991 ó 1992). Morisita's Index was calculated
+including and excluding 1991-1992 abundance estimates of Dreissena. Species
+diversity was measured by counting the number of taxa collected at each site on each
+sampling date. Mann-Whitney U-tests (Elliott 1971) were used to assess changes in
+community composition and number of taxa collected in 1991-1992 relative to 1983. 
+xresults Relative abundance estimates of taxa whose abundance estimates comprised at least
+1% of all benthic macroinvertebrates collected at cobble and artificial reef sites are
+shown in Table 1. Dreissena dominated cobble (79%) and artificial reef (93%) macroinvertebrate
+communities in 1991-1992. Approximately 99% of Dreissena collected in
+1991-1992 were zebra mussels, Dreissena polymorpha, while the remaining 1% were
+"quagga" mussels, Dreissena sp. (L. Ben Motten, State University of New York College
+at Brockport, unpublished data). In contrast, the amphipod Gammarus fasciatus
+was numerically dominant on both cobble (55%) and artificial reef (78%) sites in
+1983. If Dreissena is disregarded (Table 1), it is evident that evenness of other numerically
+important taxa remained high and may have even increased since 1983, especially
+at the cobble site. While taxa of numerical importance in 1983 remained so in
+1991-1992, some taxa of little numerical importance in 1983, such as the oligochaetes 
+Stylaria lacustris, Potamothrix vejdovskyi, and Spirosperma ferox, and the gastropod
+Amnicola limosa, were of increased importance in 1991-1992. 
+
+
+Abundance estimates of taxa collected at cobble and artificial reef sites in 1983 and
+1991-1992 are provided in Tables 2 and 3, respectively. Estimated abundance (mean ±
+SE) of Dreissena at the cobble site in 1991-1992 ranged from a low of 5,919 ± 489/m2
+in July to a high of 20,773 ± 315/m2
+ in August (Table 2). Estimated abundance of
+Dreissena at the artificial reef site ranged from a low of 19,486 ± 5,056/m2
+ in May to a
+high of 55,508 ± 11,627/m2 in July (Table 3). Total abundance of benthic macroinvertebrates
+at the cobble site was significantly greater (p < 0.01) on all 1991-1992
+sampling dates (range = 8,309 ± 997 to 25,743 ± 1,240/m2
+), relative to sampling dates
+from the same months in 1983 (range = 261 ± 91 to 1,159 ± 107/m2
+; Table 2). If
+Dreissena was not included in 1991-1992 cobble counts, abundance increases since
+1983 (range = 1,316 ± 170 to 4,595 ± 745/m2
+) were still observed during three of the
+four months (p < 0.05). Taxa more abundant (p < 0.05) at the cobble site in 1991-1992 on a minimum of two
+dates relative to the same dates in 1983 were the polychaete Manayunkia speciosa, the
+tubificid Spirosperma ferox, unidentified (primarily immature) tubificids, and
+Dreissena; the gastropods Helisoma anceps, Physa heterostropha, Stagnicola
+catascopium, Valvata tricarinata, Goniobasis livescens, and Amnicola limosa; the
+amphipod Gammarus fasciatus and the decapod Orconectes propinquis (Table 2).
+Total abundance of benthic macroinvertebrates at the artificial reef site was greater (p
+< 0.01) in 1991-1992 (range = 20,859 ± 5,363 to 58,018 ± 11,954/m2
+) than 1983
+(range = 127 ± 41 to 1,866 ± 577/m2
+) on all four dates (Table 3). Excluding Dreissena
+from comparisons, abundance increases (p < 0.05) also were observed on all 1991-
+1992 dates (range = 1,373 ± 307 to 5,267 + 523/m2
+) relative to 1983. 
+Taxa more abundant (p < 0.05) in 1991-1992 than 1983 on two or more dates were
+Dreissena, Physa heterostropha, Valvata tricarinata, Goniobasis livescens, Amnicola
+limosa, Gammarus fasciatus, and the trichopteran Polycentropus (Table 3).
+Eight taxa collected at the cobble site in 1983 were not collected in 1991-1992, while
+17 taxa collected at the cobble site in 1991-1992 were not collected on similar dates in
+1983 (Table 2). Four taxa collected at the artificial reef site in 1983 were not collected
+in 1991-1992, and 20 taxa collected at the artificial reef site in 1991-1992 were not
+collected on similar dates in 1983 (Table 3). No taxon exhibited a significant population
+decline between 1983 and 1991-1992 on more than one sampling date at either
+site (Tables 2 and 3). Changes in benthic macroinvertebrate community composition at the cobble and artificial
+reef sites, according to Morisita's Index (MI), are presented in Table 4. When Dreissena
+was included in calculations of the index, little community similarity was
+observed between 1991-1992 and 1983 for the cobble site (MI range = 0.03-0.13) or
+the artificial reef site (MI range = 0.03-0.11). Excluding Dreissena from the calculations
+revealed significantly greater similarity (p < 0.05) between 1991-1992 and
+1983 for the cobble (MI range = 0.50-0.88) and the artificial reef (MI range = 0.70-
+0.99) communities. Community similarity at the artificial reef site between 1991-1992
+and 1983 was especially high on three of the four sampling dates (Table 4). Similarities
+in Morisita's Index values obtained when Dreissena was not included in community
+comparisons support the observations (Table 1) that numerically important taxa at
+both sites in 1983 remained numerically important in 1991-1992.
+Same year comparisons between cobble and artificial reef site communities (Table 4),
+including Dreissena, suggested that both communities were similar to each other in
+1991-1992 (MI range = 0.95-0.99) and in 1983 (MI range = 0.86-0.97). Excluding
+Dreissena from calculations of Morisita's Index, the cobble and artificial reef
+communities were less similar (p < 0.05) to each other in 1991-1992 (MI range =
+0.38-0.84) than in 1983. Post-Dreissena population increases of oligochaetes at the
+cobble site, relative to the artificial reef site (Tables 2 and 3), contributed to compositional
+divergence of the two communities in 1991-1992 relative to 1983 (Table 4). Although oligochaete populations also increased at the artificial reef site between 1983
+and 1991-1992, changes were less dramatic than at the cobble site where substrate more
+favorable to burrowing taxa was more prevalent. The overwhelming dominance of
+Dreissena at both sites in 1991-1992 (Table 1) made it otherwise appear that the two
+sites had nearly identical community compositions (Table 4). The number of taxa collected at cobble and artificial reef sites was greater (p < 0.05)
+in 1991-1992 than in 1983 (Table 5). The number of taxa collected at the cobble site in
+1991 - 1992 ranged from 27 to 32 taxa per sampling date, while no more than 22 taxa
+were collected in 1983. Numbers of taxa at the artificial reef site ranged from 19 to 26
+taxa in 1991-1992. In contrast, no more than 15 taxa were collected on a sampling date
+in 1983. xdiscussion 
+Our data suggest that Dreissena has thus far had a positive impact on benthic macroinvertebrate
+communities at cobble and artificial reef sites in southwestern Lake Ontario.
+Population changes of some taxa are similar to those reported by other researchers
+who have studied impacts of Dreissena on benthic macroinvertebrate communities
+in Lakes Erie and St. Clair.
+Dermott et al. (1993) found total macroinvertebrate abundance (excluding Dreissena)
+on northeastern Lake Erie bedrock substrates to be greater on bedrock heavily colonized
+by Dreissena polymorpha than on uncolonized bedrock. Among specific taxa,
+gastropods and Gammarus fasciatus were significantly more abundant on colonized
+than on uncolonized substrates. Griffiths (1993) found total abundance and species
+richness of benthic macroinvertebrates increased in both northwestern and southeastern
+regions of Lake St. Clair (even if Dreissena was excluded from abundance estimates)
+following colonization of the southeastern region of the lake by Dreissena.
+Among taxa increasing in total and relative abundance were turbellarians; the tubificids
+Potamothrix moldaviensis and Spirosperma ferox; the gastropods Gyraulus sp.,
+Physa gyrina, Goniobasis livescens, and Amnicola sp.; Gammarus sp. and Polycentropus.
+At both of our sites in 1991-1992, Physa heterostropha, Goniobasis livescens, 
+Amnicola limosa, and Gammarus fasciatus were more abundant than in 1983 (Tables
+2 and 3). Spirosperma ferox and Polycentropus were more abundant in 1991-1992
+than in 1983 at cobble and artificial reef sites, respectively (Tables 2 and 3). Populations
+of turbellarians, Potamothrix moldaviensis, and Gyraulus parvus were relatively
+unchanged at either site. We may have underestimated populations of P. moldaviensis
+due to difficulty encountered in identifying this taxon. Consequently, many P. moldaviensis
+individuals may have been categorized by us as unidentified Tubificidae.
+Many factors potentially have contributed to benthic macroinvertebrate community
+changes observed in our study. Dreissena may be facilitating transfer of nutrients to
+the benthos by filter-feeding and subsequently depositing feces and pseudofeces (Wiktor
+1963, Stanczykowksa et al. 1976, Reeders and Bij de Vaate 1990, Leach 1993).
+Wiktor (1969) and Izvekova and Lvova-Katchanova (1972) have discussed the importance
+of Dreissena feces and pseudofeces in diets of detritivorous benthic macroinvertebrates.
+Saturated with bacteria and digestive enzymes, pseudofeces not only have
+high nutritive value, but may be easily digested and assimilated (Izvekova and LvovaKatchanova
+1972). Facultative or obligatory detritivores (Harman and Berg 1971, Hynes
+1974, Caspers 1980, Klemm 1985) showing population increases at cobble or
+artificial reef sites were Spirosperma ferox and other tubificids, Physa heterostropha,
+Valvata tricarinata, Gammarus fasciatus, and Polycentropus (Tables 2 and 3). Dusoge
+(1966), Wiktor (1969), and Lewandowski (1976) found abundance and biomass of
+many benthic invertebrates in Europe, including oligochaetes and chironomids, to be
+greatest among clumps of Dreissena where feces and pseudofeces accumulate. Griffiths
+(1993) suspected that population increases in Potamothrix moldaviensis and Spirosperma
+ferox in Lake St. Clair resulted from deposition of feces and pseudofeces by
+Dreissena.
+Enhanced substrate complexity also may have contributed to increased abundance and
+diversity of macroinvertebrates at our study sites. By creating an interstitial network
+that may increase refugia available to other benthic organisms, Dermott et al. (1993)
+suggested that Dreissena was responsible for increases in Gammarus sp. observed on
+bedrock substrates colonized by Dreissena. Griffiths (1993) likewise attributed population
+increases of hirudineans, gastropods, Gammarus sp., Polycentropus, and the
+chironomid Polypedilum in Lake St. Clair to increased substrate heterogeneity provided
+by Dreissena. Of these taxa, only hirudineans and Polypedilum failed to show
+significant population increases at cobble or artificial reef sites in our study between
+1983 and 1991-1992 (Tables 2 and 3).
+Dreissena indirectly creates benthic habitat as well. Filter-feeding improves water
+clarity through removal of suspended particles (Stanczykowska 1984, Hebert et al.
+1991). The resulting increase in the euphotic zone, in combination with increased transfer
+of nutrients to the benthos by Dreissena, may promote growth of benthic macrophytes
+(Reeders and Bij de Vaate 1990) and perhaps benthic algae as well. Positive
+relationships between benthic algae and populations of nematodes, naidid oligochaetes,
+hirudineans, gastropods (Gyraulus sp., Helisoma sp., Physa sp., Valvata sp.,
+Goniobasis sp., Amnicola sp.), Gammarus sp., ephemeropterans, and Chironomus have
+been reported from the Great Lakes in the past (Cook and Johnson 1974, Barton
+and Hynes 1978). Griffiths (1993) believed that increased densities of submerged vascular
+plants and benthic algae following colonization of Lake St. Clair by Dreissena
+contributed to the observed increase in macroinvertebrate populations. The filamentous
+alga Cladophora was present at our study sites in 1983 (Bader 1985) and in 1991-
+1992, and macroinvertebrates, especially Gammarus fasciatus, were associated with it.
+Some macroinvertebrate taxa may benefit by consuming or parasitizing Dreissena.
+The decapod Orconectes limosus was observed to consume large numbers of Dreissena
+under ideal water temperature conditions in Poland (Piesik 1974). Populations of
+O. propinquis were far more abundant at the cobble site in 1991-1992 than in 1983
+(Table 2), although direct consumption of Dreissena by this species has not yet been
+documented. Dreissena in Europe have also been preyed upon by hirudineans (Lewan-
+dowski 1976) and the oligochaete Chaetogaster sp. (Piesik 1983). It is interesting that
+Chaetogaster limnaei, a known commensal of gastropods (Sankwathri and Holmes
+1976, Fernandez et al. 1991), was not collected at our sites until after Dreissena became
+established (Tables 2 and 3). Beedham (1970) described a symbiotic relationship
+between the chironomid larva Metriocnemus and Dreissena, in which chironomids
+lived within and upon shells of living Dreissena, possibly feeding upon mucal body
+secretions. This genus was not collected in our study, but other chironomids may be
+taking advantage of Dreissena in a similar way.
+Our study failed to show that Dreissena is negatively affecting other benthic macroinvertebrate
+taxa of southwestern Lake Ontario (Tables 2 and 3). These results are
+encouraging in light of concern that Dreissena has generated since it invaded North
+America. Dreissena is known to settle on the bodies of decapods (Sebestyen 1938),
+impairing movement and occasionally piercing the decapod exoskeleton with byssal
+fibers (Lamanova 1971). Goniobasis livescens (Stewart, personal observation) is also
+colonized. Fortunately, decapods discard mussels upon molting, and most other taxa
+are too small and short-lived to become heavily colonized. No decapod collected in
+our study was observed to be carrying Dreissena.
+Studies conducted within the Great Lakes do suggest Dreissena is threatening bivalves
+of the family Unionidae by settling on their shells and possibly inhibiting their ability
+to feed, respire, and reproduce (Hebert et al. 1989, Hebert et al. 1991, Mackie 1991,
+Schloesser and Kovalak 1991, Hunter and Bailey 1992). There is additional concern
+that removal of suspended organic matter by Dreissena will also imperil unionids
+dependent upon this food source (Hebert et al. 1991). While the dome suction sampler
+was unable to collect large unionids in our study, both large and small unionids were
+observed at the cobble site in 1991-92, and few zebra mussels were attached to them.
+Unionids collected by hand at the cobble site included Elliptio complanata, Lampsilis
+radiata, and Ligumia sp.
+While most macroinvertebrate population changes observed in our study may be attributable
+to Dreissena, these changes may also reflect changes in water quality (Cook
+and Johnson 1974, Sly 1991), habitat (Haynes and Makarewicz 1982) and thermal
+regimes (Barton 1986) that were unrelated to the Dreissena invasion. Phosphorus
+abatement programs have contributed to declines in total phosphorus concentrations
+throughout Lake Ontario since the mid-1970s (Stevens and Neilson 1987, Great Lakes
+Fishery Commission 1992), but assessing the effects that phosphorus abatement has
+had and will continue to have on benthic macroinvertebrate populations is problematic.
+Johnson and Mac-Neil (1986) attributed declines in the abundances of some
+oligochaete, sphaeriid bivalve and isopod taxa in the Bay of Quinte to the reductions
+in phosphorus loading to Lake Ontario. Barton (1986) observed declines in total benthic
+macroinvertebrate abundance in areas undergoing rapid deeutrophica-tion, but
+noted that species diversity often increased under such conditions. Increased overall
+abundance of benthic macroinvertebrates, including at least one taxon (Spirosperma
+ferox) known to inhabit nutrient-rich habitats (Klemm 1985), suggest nutrient deposition
+by Dreissena has more than compensated for oligotrophication processes in
+southwestern Lake Ontario benthic environments between 1983 and 1991-1992. Increased
+water clarity resulting from declining phosphorus concentrations, in combination
+with Dreissena filter-feeding, also may lead to a deeper and warmer epilimnion (Mazumder
+1990) which may increase benthic production.
+Since the artificial reef was only a year old when its macroinvertebrate fauna were
+first sampled in 1983 (Bader 1985), many taxa may not have had sufficient opportunity
+to colonize the site or to attain stable population densities by that time. It is also
+conceivable that natural processes of primary succession have altered physical characteristics
+of the artificial reef, making the structure more or less favorable over time for
+certain taxa. Despite these possibilities, community changes at the long established
+cobble site appeared more extensive than at the artificial reef (Table 4), suggesting
+that age of study site cannot explain changes measured in our study. 
+Many benthic macroinvertebrate populations are irregularly distributed (Elliott 1971)
+or vary greatly in seasonal abundance. Since any sampling is likely to miss rare taxa,
+and the ecological requirements of the taxa not collected in 1983 or 1991-1992 (Tables
+2 and 3) are diverse (Simpson and Bode 1980, Clarke 1981), the absence of many rare
+taxa is likely due to sampling anomalies or chance. However, the absence of Musculium
+partumeium at the artificial reef site in 1991-1992 (Table 3) is understandable
+since this species prefers silty or muddy substrate rather than rock (Mackie et al. 1980,
+Clarke 1981).
+In summary, Dreissena was the overwhelmingly dominant benthic macroinvertebrate
+taxon at cobble and artificial reef sites in southwestern Lake Ontario by 1991-1992.
+Nevertheless, overall abundance of other benthic macroinvertebrates, and the number
+of taxa collected, were greater in both habitats following establishment of Dreissena
+populations. By occurring in large clumps and filter-feeding intensively, Dreissena
+may benefit other macroinvertebrate taxa by increasing the complexity of benthic substrate
+and by increasing the flow of energy to benthic environments. Thus an increase
+in benthic photosynthesis (due to increased water clarity caused by nutrient reduction
+programs and Dreissena biofiltration), along with biodeposition by Dreissena, may be
+keeping benthic food resources at high levels, despite overall declines in fertility of the
+Lake Ontario ecosystem. This study failed to provide evidence that Dreissena has induced
+population declines in any taxon collected at cobble or artificial reef sites in
+1983. It appears that invasion of Dreissena and other recent environmental changes
+have created conditions more favorable for most benthic macroinvertebrate taxa in
+nearshore regions of southwestern Lake Ontario. 

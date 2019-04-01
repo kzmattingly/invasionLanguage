@@ -1,0 +1,256 @@
+xabstract
+We compared fish growth and abundance
+from the western basin of Lake Erie before (1983–1988)
+and after (1989–1993) establishment of zebra mussels
+Dreissena polymorpha to determine if growth and abundance
+of age-0 fish changed following zebra mussel introduction.
+We found no significant differences in age-
+0 growth for yellow perch Perca flavescens, walleye
+Stizostedion vitreum, freshwater drum Aplodinotus grunniens,
+gizzard shad Dorosoma cepedianum, alewife Alosa
+pseudoharengus, white bass Morone chrysops, white
+perch Morone americana, spottail shiner Notropis hudsonius,
+emerald shiner Notropis atherinoides, trout-perch
+Percopis omiscomaycus, and rainbow smelt Osmerus
+mordax before and after zebra mussel establishment.
+Zooplankton abundance may still be sufficient following
+zebra mussel establishment to support the same age-0
+fish growth. Fish may be switching earlier or relying
+more on other prey types, especially the more abundant
+benthic invertebrates. Some fish may be supplementing
+their diet with zebra mussel veligers, although this has
+not been documented. No change in fall abundance was
+observed, except that the abundance of age-0 yellow
+perch increased significantly after zebra mussel establishment.
+
+xintroduction
+Zebra mussels Dreissena polymorpha, first
+found in Lake Erie in the mid-1980s, have become
+very abundant throughout the western basin. Densities
+of adult zebra mussels in the western basin
+have ranged from 1,200/m2 to 800,000/m2 (Kovalak
+et al. 1993; Leach 1993). Their high density
+and filtration capacity (up to 1 L of water/d for
+each zebra mussel) is responsible for an increase
+in water clarity throughout the lake as well as a
+decrease in chlorophyll a in the western basin
+(Leach 1993). Holland (1993) found a significant
+decrease in diatom abundance in Hatchery Bay
+(South Bass Island in western Lake Erie) in the
+years following the introduction of zebra mussels.
+Competition with zebra mussels for edible phytoplankton,
+as well as direct suppression through
+filter feeding, may have caused declines of several
+zooplankton groups. Beeton and Hageman (1994)
+found decreased abundance of rotifers and copepods
+in Hatchery Bay following zebra mussel introduction.
+MacIsaac et al. (1995) found that the
+mean total zooplankton density in the western basin
+of Lake Erie was significantly lower in 1989–
+1993 than in 1988, mostly due to a decline in rotifer
+density. They also noted that copepod nauplii
+were lower in the years following zebra mussel
+introduction. Dahl et al. (1995) also found that
+rotifer biomass decreased in the western basin
+since zebra mussel introduction. This indicates
+that part of the plankton production has been redirected
+to zebra mussel production; therefore, less
+is available to other predators of zooplankton.
+Changes in the abundance of preferred food
+items could possibly affect growth rate or abundance
+of larval fish. Zooplankton are generally the
+preferred prey of age-0 fish (Hartman et al. 1992;
+Wu and Culver 1992). Reductions in density and
+biomass of the zooplankton community may therefore
+result in reduced growth or abundance of age-
+0 fish. The first year of a fishes’ life is a time when
+it is most vulnerable to predation; reduced growth
+rates at this age may extend this period of vulnerability
+(Wu and Culver 1992).
+Our objective was to determine if age-0 fish
+growth or abundance changed following the introduction
+of zebra mussels in the western basin of
+Lake Erie. We compared age-0 fish growth and
+abundance before and after zebra mussels appeared
+in Lake Erie.
+
+xmethods
+Age-0 fish have been collected with bottom
+trawls in August and October since 1960 from East
+Harbor, Ohio, by the U.S. Fish and Wildlife Service
+(Muth and Busch 1989; Figure 1). The species
+collected include yellow perch Perca flavescens,
+walleye Stizostedion vitreum, freshwater drum
+Aplodinotus grunniens, gizzard shad Dorosoma cepedianum,
+alewife Alosa pseudoharengus, white
+bass Morone chrysops, white perch Morone americana,
+spottail shiner Notropis hudsonius, emerald
+shiner Notropis atherinoides, trout-perch Percopis
+omiscomaycus, and rainbow smelt Osmerus mordax.
+We used data from 1983 and after because
+phosphorus loading into the lake was decreasing
+prior to the 1980s, resulting in a decrease in phytoplankton
+biomass (Makarewicz 1993). Phosphorus
+loading has been relatively stable since 1982
+(Dolan 1993). Age-0 abundance was recorded as
+the arithmetic mean catch per hour of trawling in
+October of each year during 1983–1993.
+Fish length data were summarized as mean total
+length for the August and October capture dates
+for each species. The mean growth per day from
+August to October was calculated by dividing the
+difference between the August and October mean
+lengths by the number of days between the August
+and October sampling dates. The mean growth for
+each species before August sampling was determined
+by estimating the hatching date for each
+species. The estimated hatch date was determined
+by the date the daily air temperature coincided with
+the peak spawning temperature for each species
+and adding the estimated days to hatching. The
+estimated growth rate for each species was calculated
+by dividing the difference between the average
+hatch size and the August mean length by
+the number of days between the estimated hatch
+date and the August sampling date. Daily air temperature
+came from Toledo Airport (Ruffner and
+Bair 1987). Peak spawning temperature, estimated
+days to hatching, and average hatch size were identified
+for each species using Lee et al. (1980), Auer
+(1982), and Craig (1987).
+It has been well documented that temperature
+affects the rate of growth of age-0 fish, and that
+temperatures are variable from year to year (Staggs
+and Otis 1996). Therefore, to eliminate temperature
+as a factor for fish growth in the analysis, fish
+length in August and fish growth from August to
+October were divided by the calculated temperature
+unit for each species for each year from 1983
+to 1993. A temperature unit for the hatch to the
+August period was the sum of the mean daily air
+temperatures above 08C from the estimated hatch
+date to the August sampling date. A temperature
+unit for the August to October period was the sum
+of the mean daily air temperatures above 08C from
+the August sampling date to the October sampling
+date.
+Temperature-adjusted fish growth and fall age-
+0 abundance were separated into two periods: prezebra
+mussel years (1983–1988) and post-zebra
+mussel years (1989–1992). The year 1989 was selected
+as the start of the post-zebra mussel period
+because large increases in the density of adults (up
+300%) and veligers (up 733%) were observed from
+1988 to 1989 at various sites in the western basin
+of Lake Erie (Kovalak et al. 1993; Leach 1993).
+The nonparametric Wilcoxon’s rank-sum test was
+used to test the differences between periods because
+the data sets were small and not always normally
+distributed. All cases of significant differences
+were attained at a significance level of 5%
+or less. All statistics were performed using SAS,
+version 6.
+
+
+xresults
+From hatching to August and from August to
+October, the temperature-adjusted growth did not
+change significantly after zebra mussels appeared
+for any species (Figure 2). Fall abundance did not
+change significantly after zebra mussel introduction,
+except for yellow perch (Figure 3). Age-0
+yellow perch fall abundance was significantly
+higher in 1989–1993 than 1983–1988 (Z 5 2.10,
+N1 5 6, N2 5 5, P 5 0.036).
+
+xdiscussion
+Fish growth has been shown to be dependent on
+type, size, and abundance of prey (Confer and
+Lake 1987; Mills et al. 1989; Prout et al. 1990).
+Size and abundance of zooplankton have changed
+since the introduction of zebra mussels. Mean total
+zooplankton density was significantly lower following
+zebra mussel introduction, mostly due to
+sharp reductions in small zooplankton, such as rotifers
+and copepod nauplii (Beeton and Hageman
+1994; MacIsaac et al. 1995). Zooplankton biomass
+in the western basin declined slightly following
+zebra mussel introduction, but rotifer biomass declined
+substantially (Dahl et al. 1995).
+From their hatching and into August, all fish
+species should be zooplanktivorous (Elrod et al.
+1981; Muth and Busch 1989; Hartman et al. 1992;
+Mills et al. 1992; Wolfert and Bur 1992; Wu and
+Culver 1992), some species feeding on the smallersized
+zooplankton during this period (Mills et al.
+1989). Despite the decreased abundance of small
+zooplankton, there was no significant change in
+growth for any of the species collected.
+From August to October, alewives, rainbow
+smelt, and emerald shiners were the only species
+studied that should have been primarily zooplanktivores;
+the other species should have switched to
+a combination of zooplankton, benthos, and fish
+(Elrod et al. 1981; Muth and Busch 1989; Hartman
+et al. 1992; Mills et al. 1992; Wolfert and Bur
+1992; Wu and Culver 1992). Rainbow smelt were
+not collected in October. Again, there was no significant
+change in age-0 growth. Findings in a
+study by Graham (1993) support these results.
+Age-0 yellow perch growth decreased from 1988
+to 1990 but in 1991 increased to nearly the 1988
+growth levels in the western basin of Lake Erie.
+Changes in growth over the 4-year period were
+thought to be within natural yearly fluctuations for
+yellow perch and not a result of the changes
+brought about by the introduction of zebra mussels.
+Age-0 white perch collected from the same
+location showed no significant change in growth
+from 1988 to 1991 (Graham 1993).
+Age-0 fish in Lake Erie may have adjusted to
+changes in prey abundance by changing their feeding
+behavior. They may be switching to other prey
+at a younger age if zooplankton is not as available.
+Post and McQueen (1994) found that age-0 yellow
+perch from different lakes or different regions of
+a lake had different proportions of benthos in their
+diet, depending on the availability of zooplankton.
+The switch to other prey may or may not affect
+growth of age-0 fish. Roseman et al. (1996) found
+that the disappearance of Daphnia spp. did not
+result in a depression of age-0 gizzard shad growth
+in Oneida Lake; their growth continued uninterrupted
+as they switched to an omnivorous diet.
+Since the introduction of the zebra mussel, nonmussel
+benthic invertebrate abundance has increased.
+In the western basin, populations of Gammarus
+have dramatically increased in association
+with zebra mussel colonies (Dahl et al. 1995). In
+other areas in the Great Lakes, similar increases
+in abundance of benthic invertebrates have been
+observed (Griffiths 1993; Stewart and Haynes
+1994). The increased benthic invertebrates in Lake
+Erie may be providing an alternate source of food
+for age-0 fish.
+Some fish could be including zebra mussel veligers
+in their diet to offset the decrease in other
+zooplankton. However, zebra mussel veligers have
+not been found in the stomachs of age-0 yellow
+perch, white perch, or rainbow smelt from Lake
+Erie (Graham 1993; Kozuchowski 1996).
+Fish abundance rather than growth may change
+as a result of the introduction of the zebra mussel.
+Only yellow perch showed a significant increase
+in abundance following zebra mussel colonization.
+This may be related to the increased abundance of
+benthic invertebrates.
+It appears that changes in primary production
+following zebra mussel introduction are not having
+a noticeable effect on age-0 fish growth. It may
+be possible that the zooplankton density and biomass
+after zebra mussel colonization is still sufficient
+to support the same age-0 fish growth evident
+before zebra mussels arrived. Those fish species
+that switch from zooplankton to other prey
+may be switching earlier or relying more on other
+prey types, especially benthic invertebrates.

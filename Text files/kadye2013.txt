@@ -1,0 +1,606 @@
+xabstract
+Non-native trout species have been associated
+with many negative effects in receiving ecosystems.
+The first aim of this study was to determine
+the impact of non-native rainbow trout Oncorhynchus
+mykiss on distribution and abundance of native
+mountain catfish Amphilius uranoscopus within
+Afro-montane streams in Nyanga Mountains, eastern
+Zimbabwe. The second aim was to compare macroinvertebrate
+community responses to the presence of
+the trout and the catfish. We examined trout impact on
+catfishís habitat associations, whereas macro-invertebrate
+composition was compared using open fish and
+fish exclosure experiments in habitats with and
+without trout. Trout influenced both the distribution
+and abundance of the catfish that occupied shallow
+reaches possibly to avoid predation from trout that
+occurred in the deeper habitats. Within trout invaded
+reaches, most macro-invertebrate taxa were more
+abundant in exclosure than open treatments. By
+contrast, within trout-free reaches, most macro-invertebrates
+either did not differ between treatments or
+were generally more abundant in open than exclosure
+treatments. This suggests that the macro-invertebrate
+communities responded differently within invaded
+and non-invaded reaches. By influencing distribution
+and abundance of native biota, non-native rainbow
+trout may have wider ecological effects, such as
+influencing trophic interrelationships within invaded
+habitats.
+xintroduction
+Invasion by non-native species is now recognised as
+one of the major drivers of biodiversity loss globally
+(Pimentel, 2011). Freshwater fishes are among the
+most widely introduced vertebrate group worldwide,
+and represent the one of the best-studied indicators of
+invasion impacts (Rahel, 2002; Leprieur et al., 2008;
+Strayer, 2010). Non-native fishes have disrupted the
+biota of their recipient ecosystems directly through
+predation and competition, and indirectly by altering
+the behaviour and abundance of prey, and disturbing
+food-web interrelationships (Flecker & Townsend,1994; Nystro®m & McIntosh, 2003; Baxter et al.,
+2004). The general theory of invasion disturbances
+posits that impacts are often a consequence of
+cumulative effects related to the distribution range of
+invaders, their relative abundances within that range,
+and their per capita effects on individuals, populations
+and communities of native species (Parker et al., 1999;
+Dunham et al., 2002; Young et al., 2010; Kadye &
+Booth, 2012). Assessing the role of invaders and their
+associated impacts within freshwater habitats is
+therefore essential in understanding the ecological
+role of non-native species in their recipient
+ecosystems.
+Non-native trout species, especially of the genera
+Oncorhynchus and Salmo, are among the most globally
+widespread within freshwater ecosystems (Welcomme,
+1988; Cambray, 2003; Crawford & Muir,
+2008). Non-native trout species have become established
+within both previously fishless habitats as new
+functional groups and within habitats that already
+contain fish (Simon & Townsend, 2003; Strauss et al.,
+2006; Strayer, 2010). Their impacts on native fauna
+have been observed to range from subtle, such as
+influencing behaviour, distribution patterns and habitat
+use (Simon & Townsend, 2003; Penaluna et al.,
+2009), to local extirpation of local species (McIntosh,
+2000; Bosch et al., 2006; Kadye & Magadza, 2008)
+and broad ecosystem impacts such as trophic cascades
+(Townsend & Crowl, 1991; Biggs et al., 2000;
+Nystro®m et al., 2001). In southern Africa, trout species
+have predominantly been introduced into the cool
+upper reaches of rivers (Cambray, 2003). There are
+serious ecological and conservation concerns in this
+region because many of the upland tributaries are
+important refugia for the remnant populations of
+endemic and range-restricted native ichthyofauna,
+such as mountain catfishes and other endemic cyprinid
+barbs (Swartz et al., 2004; Tweddle et al., 2009; van
+Oosterhout et al., 2009). The risk of trout invasions,
+primarily through angler introductions, is high in
+many southern African rivers, but their impacts are
+less understood, and have rarely been assessed especially
+in tropical southern Africa (Kadye & Magadza,
+2008).
+Two mountain catfishes, Amphilius uranoscopus
+and A. natalensis, occur in the upper reaches of
+streams in the Nyanga Mountains in eastern Zimbabwe
+(Bell-Cross & Minshull, 1988; Marshall, 2011).
+A. uranoscopus is the most common and widespread
+of the two mountain catfishes (Marshall, 2011). The
+region also harbours a number of unique macroinvertebrate
+taxa, although most of them are yet to be
+described to species (Chakona et al., 2008). Rainbow
+trout Oncorynchus mykiss and brown trout Salmo
+trutta were first introduced into these streams in the
+early 1900s (Toots, 1970) and were supplemented
+over the years by hatchery-reared fish (TurnbullKemp,
+1957; MacGown, 1970). The stocking of these
+fishes is now much less frequent and brown trout have
+disappeared from most streams, but rainbow trout is
+still common, although their numbers may have
+declined in some of the streams (Marshall, 2011).
+Non-native rainbow trout has been observed to prey on
+both the mountain catfish and macro-invertebrates
+within many streams in Nyanga Mountains (Butler &
+Marshall, 1996). Some studies elsewhere have noted
+that although the mountain catfish is a widespread
+species, local extirpations are likely where its preferred
+habitat overlaps with that of rainbow trout
+(Kadye & Magadza, 2008; van Oosterhout et al.,
+2009). Furthermore, within trout invaded streams,
+direct predation and indirect influence on the behaviour
+have been observed to influence both distribution
+and abundance of benthic macro-invertebrates communities
+(Simon & Townsend, 2003; Meissner &
+Moutka, 2006). Therefore, examining the fish species
+and habitat inter-relationships is important in determining
+whether specific habitats act as refugia within
+invaded streams (van Oosterhout et al., 2009). In
+addition, since macro-invertebrates are an integral
+component of headwater streams, it is important to
+examine their community dynamics in relation to the
+presence of non-native rainbow trout.
+In this study, we first examined the impact of
+rainbow trout on the distribution and abundance of the
+mountain catfish by assessing whether trout influenced
+the catfishís habitat associations. Second, we compared
+benthic macro-invertebrate composition within
+invaded and non-invaded localities using short-term
+fish-exclosures and open-fish experiments. We
+hypothesized that the native mountain catfish would
+utilise a wide range of habitats in trout-free reaches,
+but would select habitats that minimise predation risk
+in reaches with trout. We also hypothesized that the
+non-native rainbow trout would cause detectable
+changes in macro-invertebrate composition as some
+taxa would be susceptible to predation, whereas the
+native mountain catfish would have subtle effects on macro-invertebrate composition because it has coevolved
+with its potential prey.
+xmethods
+The Nyanga Mountains lie in the northern part of the
+mountain range that forms the border between Zimbabwe
+and Mozambique (Fig. 1). The greater part of
+the plateau lies at altitudes above 1,800 m, rising to
+2,593 m on Mount Nyangani, the highest point in
+Zimbabwe. Most of the area is located within the
+Nyanga National Park, and consists of soils derived
+from granite and dolerite, and covered by Afromontane
+grassland and forest patches. Air temperatures
+are relatively low, with a maximum of 25C and
+mean annual temperatures between 15 and 18C. The
+annual rainfall is around 1,700 mm, falling mostly
+between OctoberñApril. Frost is common during the
+months of May to August. Streams and rivers in the
+park are perennial, flowing west and north-west into
+the Zambezi system, through the Nyangombe and
+Kairezi Rivers, and east through the Pungwe River
+system. The mountain catfish occurs in all major
+streams and their tributaries within the national park.
+Other fish species that occur within the region include
+the Natal mountain catfish A. natalensis and the
+mottled eel Anguilla bengalensis, but these were not
+collected during this study. Rainbow trout was introduced
+into the headwaters of all major streams and
+occurs at altitude greater than 1,800 m where temperature
+is generally low. Within Mare River, a major
+tributary of Nyamombe, the rainbow trout occurs
+within impoundments but has not established in
+the headwater sections of the river. Sampling for
+this study was restricted to first order headwater
+streams.Fish sampling was conducted in April, June and
+September 2009. Samples were collected at seven sites
+from four headwater streams located at altitudes
+greater than 1,800 m (Fig. 1). The scarcity of troutfree
+streams precluded a multiple trout-free and troutinvaded
+experimental design, and constrained the
+study design to one trout-free and three trout-invaded
+streams. In order to offset the potential for confounded
+comparisons resulting from the limited real replication
+of this design, we selected sites that had similar
+riparian vegetation that was dominated by Afromontane
+grasslands and had similar physicochemical
+parameters (Bere et al. 2013). This was to insure that
+study sites were similar and no variables other than
+trout presence differed among them. Three sites were
+selected in Nyamombe River system; one in the
+headwaters of the main-stem above a waterfall where
+rainbow trout was present, and two in the headwaters
+of Mare River where rainbow trout was absent. Four
+other sites were in two headwater streams of the
+Pungwe River system where rainbow trout was
+present Each sampling site was divided into three reaches,
+about 30ñ50-m long, each of which was then blocked
+with a fine meshed net at either end before sampling.
+The sampling reaches within each site were approximately
+100 m apart. This constituted 21 sampling
+reaches in total. The total length of the sampled reach
+was measured, and ten transects were set perpendicular
+to the direction of flow to measure physical habitat
+variables within each reach. The measurements made
+were depth and substrate types at three points along
+each transect and width for each transect. At each
+point, substrate composition was visually assessed
+within a radius of 30 cm. There were therefore 30
+points assessed for depth and substrate composition at
+each reach. Each substrate category was expressed as a
+proportion (%) based on these points for each reach
+(Table 1). The substrate types were categorised
+following Gorman & Karr (1978) and Schlosser
+(1982) as silt (\0.05 cm), sand (0.05ñ2 cm), gravel
+(2ñ10 cm), pebble (10ñ30 cm), and boulder
+(30ñ50 cm). Velocity was measured at the centre of
+each transect using an FP201 current meter (Global
+Water Inc., CA, USA). The sampled reaches ranged
+from 0.7 to 1.9 m and 30 to 50 m in width and length,
+respectively (Table 1). Fish were captured by a single
+pass with a Deka 3000 Backpack electric fisher
+powered by a 12 V battery. Captured fish were
+identified to species and measured for standard length
+(SL) To compare macro-invertebrate responses to presence
+of native and non-native fish, we conducted an
+experiment in two headwater streams; one without
+the rainbow trout (sites 2, 3) and another with the
+rainbow trout (sites 4, 5) (Fig. 1). The lack of multiple
+trout-free streams was compensated by using cage
+experiments that were replicated within streams that
+had comparable environmental conditions. We considered
+this as the most rigorous approach available to
+offset the potential for the responses to be confounded
+by small-scale prey movements and historical effects
+of trout presence. In each stream, we used a completely
+randomised experimental design with two
+treatments: (1) open fish and (2) fish exclosure. Each
+treatment had five replicate cages. Experimental
+cages, each measuring 2 9 1 9 1 m in length, width
+and height, respectively, were constructed on steel
+frames. We chose these dimensions to allow easy
+access for sampling macro-invertebrates from an area
+of 1 m2 within each cage. Fish exclosures were fitted
+with fine gauze mesh (3 mm) and a 30-cm skirt that
+was secured at the bottom to prevent fish from
+entering. Open fish cages were set as steel frames that
+were secured at the bottom. The cages were placed at
+depths of 0.2ñ0.5 m with homogenous pebble substrate
+that was the dominant substratum. All cages
+were deployed in April and sampled in June and
+September 2009. During sampling, pebbles were
+picked and washed with stream water into a sampling
+bucket and then filtered through a macro-invertebrate
+net (mesh size 250 lm). The animals were preserved
+in 70% ethanol. In the laboratory, the animals were
+sorted and identified to genus for most taxa using an
+Olympus (SZX10) stereomicroscope at 109 magnifi-
+cation. The identification followed the key of Harrison
+(2002) for Chironomidae, de Moore (2002) for
+Simuliidae, Barber-James & Lugo-Ortiz (2003) for
+Ephemeroptera, de Moore and Scott (2003) for
+Trichoptera and Samways & Wilmot (2003) for
+Odonata.The rainbow trout and the mountain catfish distribution
+were recorded based on both the presence/absence
+and relative abundance. The relative abundance of fish
+was expressed as catch per unit effort (CPUE) as
+numbers caught per minute of electric fishing (Kadye
+& Marshall, 2007). To determine the rainbow trout
+impact on the mountain catfish distribution, we used a
+mixed logistic regression, with mountain catfish
+distribution (presence/absence) as a response, habitat
+variables as continuous variables and rainbow trout
+presence/absence as a class variable. Collinearity
+among habitat variables was initially detected using
+variance inflation factor (VIF) for each regression
+coefficient. Variables with VIF [5 were considered to
+indicate collinearity (Heiberger & Holland, 2004) and
+were removed from the analysis. A forward stepwise
+procedure was then used to select best predictor
+variables. Within the stepwise procedure, variables
+were penalised using the Akaikeís information criterion
+(AIC), which was defined as: AIC º 2 lnLﬁ ˛
+2k, where L is the maximised likelihood function for
+the model and k is the number of parameters in the
+fitted model. The logistic regression coefficients were
+ used to evaluate the change in odds ratios between the
+predictor variables and their response. The odds ratio
+is the multiplicative factor by which the odds of a
+response variable changes in relation to change in the
+predictor variable (Quinn & Keough, 2002). v2
+Goodness-of-fit test, based on residual deviance, was
+used to test the significance of the model.
+To determine trout impact on catfish abundance, we
+first compared catfish CPUE between localities with and
+without trout. We then used linear mixed-effects models
+to compare the relationship between the mountain
+catfish CPUE and habitat in localities with and without
+the rainbow trout. The fixed effects were the habitat
+variables and the random-effects were sites (S) and
+reaches nested within sites (S(R)). The models were of
+the form: yi º Xib ˛ Zibi ˛ ei, where Xi was the ni  p
+matrix of the fixed-effects (habitat variables), b was
+the p  1 vector of fixed-effects coefficients, Zi was
+the ni  q matrix of the random effects (S(R)),
+bi  N 0; r2  ﬁ was the q  1 vector of random-effects
+coefficients, ei  N 0; r2  ﬁ was the residual error. This
+was tested under the null hypothesis of independence
+(i.e., no relationship) between the mountain catfish
+CPUE and predictor variables both for sites with or
+without trout. All environmental variables transformed
+into z scores prior to the analyses.
+Macro-invertebrate abundance data for individual
+taxa were ln(x ? 1)-transformed to satisfy the requirements
+of normally distributed residuals and homoscedasticity.
+ShapiroñWilksí test was used to test for
+normality. We first used linear discriminant analysis
+(LDA) with a stepwise procedure to discern the
+differences in macro-invertebrate composition
+between the two streams and their treatments. For
+each of the streams, multivariate analysis of variance
+(MANOVA) and single factor ANOVA were then
+used to compare the treatments (T) and sampling
+periods nested within treatments TPﬁﬁ. All analyses
+were conducted in R (R Development Core Team,
+2012). The following libraries were used: stats for
+logistic regression, nlme for linear mixed-effect models
+and MASS for MANOVA and LDA analyses.
+
+xresults
+The sampled reaches tended to be shallow with a mean
+depth range of 35ñ55 cm, and a mean flow range of
+0.4ñ0.9 m s-1 (Table 1). Pebbles, boulders, and
+gravel were the most common substrate types within
+all reaches. The rainbow trout was the most widespread
+species, occurring in 15 of the 21 reaches. In
+comparison, the mountain catfish was collected in 10
+of the 21 sampled reaches. The logistic regression
+model showed that the mountain catfish distribution
+was significantly negatively (likelihood-ratio test,
+P\0.001) associated with the presence of rainbow
+trout and depth. Model comparisons showed that the
+trout model was significantly better than the model
+without trout. Regression models for these variables
+indicated that the odds ratios for mountain catfish
+distribution decreased by 6.4 in the presence of
+rainbow trout, whereas increasing depth decreased
+the odds ratios for mountain catfish distribution by 2.4.
+v2 Goodness-of-fit test for the mixed logistic regression
+was not statistically significant (v2
+60, P[0.05),
+indicating adequate fit of the model to the data.
+The mountain catfish was significantly abundant
+(t = 6.42, P\0.01) in reaches without rainbow trout
+(mean CPUE = 2.42 ± 1.7 fish per minute) compared
+to those that had trout (mean CPUE = 0.10 ± 2.5 fish
+per minute). In reaches with rainbow trout, comparisons
+of the fish and habitat relationship based on the
+linear mixed-effects model showed a significant
+(F1;20 = 5.5, P\0.05) negative relationship between
+the mountain catfish CPUE and depth (Table 2). By
+contrast, within rainbow trout-free reaches, the mountain
+catfish CPUE was significantly (F1;8 = 5.8,
+P\0.05) negatively related to boulder substrate and
+positively related to depth (F1;8 = 3.6, P = 0.1).
+A total of 20 macro-invertebrate taxa, representing
+four orders were collected from the cages (Table 3). In
+general, large-bodied Odonate taxa Atoconeura sp.
+and Aeshna sp. were more abundant in Mare River that
+had no trout compared to Pungwe River that had trout.
+By contrast, small bodied macro-invertebrates, such as
+Baetis spp., Chironominae and Simulium sp. were
+more abundant within Pungwe River compared to
+Mare River. Linear discriminant analysis (LDA)
+showed significant differences between rivers and
+their treatments (Wilksí k = 0.10, F9;30 = 31.9,
+P\0.01). The ordination biplot showed the separation
+of the rivers on the first discriminant axis (LDA 1)
+with the treatments being separated on the second
+discriminant axis (LDA 2) (Fig. 2). Comparisons of
+macro-invertebrate composition between treatments indicated significant differences for both the Mare
+River (MANOVA F9,8 = 9.7, P\0.01) that had no
+trout and the Pungwe River (MANOVA F5,12 = 33.5,
+P\0.01) that had trout. Within the Mare River, most
+macro-invertebrates were either more abundant in the
+open than the exclosure, such as Pseudoponnata,
+Limnophila and the Trichopteran taxa Hydropsyche
+and Cheumatopsyche, or did not differ between
+treatments, such as Euthralus sp. and Afronurus sp.
+An exception was Baetis spp. and Caenis sp. that were
+more abundant in the exclosure than the open treatment
+(Fig. 3). In this river, the abundances of Baetis
+spp., Hydropsyche sp. 1, Cheumatopsyche spp. and
+Limnophila sp. differed significantly between treatments
+(ANOVA, P\0.05) (Table 4). Furthermore,
+Baetis spp., Hydropsyche sp. 1, Afronurus sp., Caenis
+sp., and Euthralus sp. abundances differed signifi-
+cantly (nested ANOVA, P\0.05) between sampling
+periods. Within Pungwe River, all macro-invertebrate
+taxa were generally more abundant in exclosure than
+open treatment (Fig. 3), with Baetis spp., Caenis
+sp.and Euthralus sp. exhibiting significant differences
+between treatments (ANOVA, P\0.05) and between
+sampling periods (nested ANOVA, P\0.05),
+whereas Cheumatopsyche spp. and Afronurus sp. only
+showed significant differences between sampling
+periods (nested ANOVA P\0.05) (Table 4).
+xdiscussion
+The hypothesis that in the absence of the rainbow trout
+O. mykiss, the native mountain catfish A. uranoscopus
+would utilise a wide range of habitats use was supported
+because individuals of the mountain catfish were
+collected from all the habitats sampled within trout-free
+reaches in this study. Within the rainbow trout-free
+stream, the mountain catfish exploited a broad range of
+depths (35ñ54 cm) and occurred in reaches with diverse
+bottom substrates although it appeared to avoid habitats
+with high proportion of boulders. This result was
+consistent with studies by Fouche et al. (2005) and
+van Oosterhout et al. (2009) who investigated habitat
+use of the mountain catfish in undisturbed mountain
+streams in South Africa. In undisturbed habitats, the
+mountain catfish is known to be ubiquitous, preferring
+coarse substrates that provide both refuge and foraging
+ground in both shallow and deep habitats. Within
+headwater streams, such habitats are often characterised
+by low temperature, high flow rate, and high dissolved
+oxygen (Kadye et al., 2008; van Oosterhout et al., 2009).
+Measurable changes in the mountain catfish abundance
+and habitat use were, however, detected in
+reaches that contained the rainbow trout. In the presence
+of rainbow trout, depth was found to be the strongest
+predictor of both mountain catfish distribution and
+abundance. The results revealed high probably of catfish
+occurring in shallow habitats in sites with trout, whereas
+the detection of this species was lowest in deeper
+habitats when the rainbow trout was present. Similarly,
+the mountain catfish abundance decreased with increasing
+depth in the presence of trout. Thus, there was strong
+evidence of rainbow trout effect on both distribution and
+abundance of mountain catfish in the tributaries of the
+Nyanga Mountains. Kadye & Magadza (2008) documented
+similar spatial segregation between non-native
+rainbow trout and mountain catfish on the Nyika Plateau
+in Malawi. Shifts in habitat selection and decrease in
+abundance of native fishes in trout-invaded streams have
+been reported elsewhere. For example Morita et al.(2004) noted that native white-spotted charr Salvelinus
+leucomaenis within headwater reaches of the Hekirichi
+River in Japan preferred pools to riffles in the absence of
+non-native trout, but predominantly utilised shallow
+riffles in the presence of trout. Invasion by non-native
+trout has also been implicated as the major causal factor
+of the disjunct distributions of the roundhead and
+flathead galaxiids in New Zealand (Townsend, 1996),
+and Galaxias truttaceus in Australia (Ault & White,
+1994). The impact of trout species on native stream-fish
+densities has been reported by McDowall (2003) who
+found that densities of Galaxias divergens were twice as
+high in trout-free habitats compared to invaded habitats.
+The rainbow trout could have altered mountain
+catfish habitat associations and abundances through
+direct predation, as reported from previous studies
+(Butler & Marshall, 1996; Marriott et al., 1997; Kadye
+& Magadza, 2008). Because deeper habitats provide
+refugia and optimal feeding habitats for trout (McIntosh,
+2000; Morita et al., 2004; Kadye et al., 2008),
+particularly the larger-sized individuals (pers. obs),
+predation pressure on the mountain catfish is likely to
+be highest in the deeper pools. This could explain why
+the catfish retreated into shallow habitats that were
+likely to curtail hunting or predation success of the
+large-sized trout. Instances of native species cooccurring
+with trout have been observed to be
+associated with either strong predatorñprey interactions
+(McIntosh, 2000), or within habitats containing
+juvenile trout that have less predatory impact (Glova et al., 1992). Predation impact by trout has also been
+reported to be size-dependent (Glova, 2003; Bonnett
+& McIntosh, 2004). van Oosterhout et al. (2009)
+suggested that, due to their small size, the mountain
+catfish utilises the shallow riffles as daytime refugia
+from predation by large trout in the deeper open
+waters, but would possibly forage in the deeper
+habitats at night. This combination of behaviour
+(nocturnal feeding) and morphological adaptation,
+owing to their slender and dorsoventrally compressed
+body which allows maintenance of position in shallow
+riffle habitats with faster current velocity (van Oosterhout
+et al., 2009), may explain the ability of the
+mountain catfish to persist, albeit in low abundance,
+within trout-invaded streams (Kadye & Magadza,
+2008). It is likely, however, that the mountain catfish
+with trout-invaded reaches may occupy sub-optimal
+habitat, which may influence their foraging, recruiting,
+and reproductive success (Ngugi et al. 2009). Cases
+where native taxa have been forced to occupy
+marginal or sub-optimal habitats have been documented
+in other studies for native fishes (Morita et al.,
+2004; Kadye & Magadza, 2008; Ngugi et al., 2009)
+and amphibians (Bosch et al., 2006). These marginal
+habitats may, however, be less optimal and could
+further expose the catfish to terrestrial predators such
+as otters and predatory birds, and therefore may not be
+suitable for long-term sustenance of large catfish
+populations. Other studies on catfishes have shown
+high predation pressure by terrestrial predators on
+large individuals at shallow depths (Power, 1984).
+The hypothesis that the macro-invertebrate assemblages
+would show differential responses to the impacts
+of the two fish species considered in this study, catfish
+and trout, was supported. It was likely that certain
+macro-invertebrates had already been eliminated
+through predation by trout within the invaded reaches.
+For example, Butler & Marshall (1996) reported trout
+predation on river crab Potamonautes perlatus and
+drifting macro-invertebrates within the study area.
+During this study, we found low abundance of Odonate
+taxa within trout-invaded compared to the uninvaded
+reaches. Many studies have shown that large predatory
+macro-invertebrates are vulnerable to trout predation
+(Flecker & Townsend, 1994; Schofield et al., 1988).
+Since invasive predators, such as trout, are opportunistic
+feeders, they tend to target the most conspicuous and
+accessible prey that usually result in a corresponding
+decline in their abundance and biomass (Englund &
+Polhemus, 2001; Meissner & Moutka, 2006; Miller &
+Crowl, 2006; Johnson et al., 2009). Odonates are
+considered to be keystone macro-invertebrate predators
+(Fincke et al., 1997) that regulate abundance of their
+prey thereby reducing dominance of certain species and
+maintaining diversity (Donald & Anderson, 2003). In
+this study, the high abundance of some taxa such as
+Baetis spp., Chironominae and Simulium sp., which are
+considered the common prey, may suggest a response to
+the low abundance of macro-invertebrate predators in
+habitats with trout. By contrast, the low abundance of
+these macro-invertebrate taxa within trout-free habitats
+is reflective of the importance of both catfish and macroinvertebrate
+predators as regulators of community
+composition.
+Comparisons of macro-invertebrate composition
+between experimental treatments suggest differential
+responses to fish in both rivers. Within trout-free
+zones, the macro-invertebrates were either abundant in
+exclosure treatment or did not differ between treatments,
+except for Baetis spp. and Caenis sp. that were
+abundant in open treatment. This suggests that most
+macro-invertebrates were either less responsive to the
+presence of the mountain catfish as a natural predator
+or did not recruit successfully within the exclosure
+treatment. Experimental cage design, such as the fine
+mesh and the presence of a skirt at the bottom, could also have had a confounding influence on the potential
+recruitment and establishment of benthically dispersing
+macro-invertebrates, such as trichopterans. Trichopteran
+caddis flies, which are considered to be the
+most important prey for catfish (van Oosterhout et al.,
+2009), were more abundant in open than exclosure
+treatment in Mare River. Nevertheless, taxa such as
+Baetis spp. and Caenis sp. that were considered the
+most common prey were relative abundance in the
+exclosure treatment. This suggests predator avoidance
+behaviour by these taxa, possibly from both the
+mountain catfish and predatory odonate taxa that were
+abundant in Mare River. Chakona et al. (2007) showed
+that the population densities of these taxa were
+regulated by both fish and odonate predators. By
+comparison, within trout-invaded Pungwe River, most
+macro-invertebrates were abundant in exclosure compared
+to open treatments. In particular, we found high
+abundances of Baetis spp. and Caenis sp. in exclosure
+compared to open treatments. This suggests a response to the presence of trout as the dominant predator since
+both the mountain catfish and large predatory macroinvertebrates
+were generally low in abundance. Many
+studies have shown that epibenthic, drift-prone grazers
+such as Baetis spp. often face high predation risk from
+predators such as trout (Diehl et al., 2000; De Crespin
+De Billy and Usseglio-Polatera 2002). Often, macroinvertebrates
+within invaded habitats tend to exhibit
+predator avoidance behaviour that is shown by their
+low densities in patches where predation is likely to be
+high (Englund et al., 2001). The influx of macroinvertebrates
+into the exclosure treatment that was
+observed within the trout-invaded reaches suggests an
+adaptive response that may reflect short-term changes
+due to predation and behaviour of individual taxa.
+Overall, the observed patterns suggest that although
+the mountain catfish is considered to be a top predator,
+it had less impact on macro-invertebrate density and
+composition compared to rainbow trout. Introduced
+predators such as trout have been found to have both
+direct impact through predation and indirect impact by
+influencing the responses and behaviours of native
+biota (Simon & Townsend, 2003).This study has revealed that the mountain catfish
+occurred at wide depth ranges in uninvaded stream
+reaches. The presence of rainbow trout, however, was
+associated with use of shallow habitats and a significant
+reduction in abundances for the mountain catfish
+where both species co-occurred. These shallow marginal
+habitats are most likely to be less ideal for
+sustenance of large mountain catfish populations and
+would further expose the mountain catfish to terrestrial
+predators such as otters and predatory birds. The high
+abundance of most macro-invertebrates in exclosure compared to open treatments within trout-invaded
+reaches suggests an influence of trout on macroinvertebrate
+community. This influence may be related
+to both predation and altered behaviours of different
+macro-invertebrate taxa. The observed patterns for
+both the mountain catfish and macro-invertebrates in
+response to the presence of non-native rainbow trout
+may have ecological implications such as trophic
+cascades and predatorñprey relationships.

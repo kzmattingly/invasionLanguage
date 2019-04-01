@@ -1,0 +1,453 @@
+xabstract
+
+Aim Ecological theory predicts that invasive ecosystem engineers like the American
+beaver (Castor canadensis) in Tierra del Fuego (TDF) affect landscape-level
+biodiversity and ecosystem function (BEF) when engineered habitats are novel
+or extensive. We tested these hypotheses on freshwater BEF, sampling benthic
+habitat and macroinvertebrates in natural lotic (forest and grassland streams)
+and natural lentic habitats (bogs, lakes) and beaver-modified lentic ecosystems
+(active and abandoned ponds).
+Location Tierra del Fuego Archipelago (Chile and Argentina).
+Methods To determine effects on patch-scale BEF, we assessed two drivers:
+substrate diversity (H′) and benthic organic matter standing crop (BOM,
+g m
+2). Extent of impact was estimated as relative stream length (%) for each
+patch type in four 1000 ha images.
+Results The freshwater landscape was 56% free-flowing streams (natural lotic),
+13% bogs and lakes (natural lentic) and 31% active and abandoned beaver
+ponds (beaver lentic). While engineering significantly modified lotic habitats
+(converting them to ponds), the beaver ponds were largely similar to natural
+lentic systems, but engineered lentic patches retained more BOM. While
+benthic biodiversity in beaver ponds was less than streams, the assemblage
+contained no habitat-specific taxa and was a subset of the natural lentic
+community.
+Main conclusions Invasive beavers engineer habitats whose biodiversity is similar
+to the landscape’s natural lentic habitats, but by increasing the surface area
+and unit area retention of BOM via its impoundments, this invasion augments
+carbon standing stock approximately 72% in watersheds. While this invasion is
+considered the largest alteration to TDF’s forested biome in the Holocene, here
+we discover that its impact is to ecosystem function, rather than biodiversity in
+the aquatic landscape.
+
+xintroduction
+
+Understanding the role of species in ecosystems is an important
+question with theoretical and applied dimensions that
+relate to both ecological science and conservation practice
+(Jones & Lawton, 1995). We know that nonlinearities exist
+in these relationships; some species display particular traits
+or behaviours that result in greater impact than would be
+expected from their numbers or biomass alone (e.g. keystone
+species, Power et al., 1996). Ecosystem engineering is one
+conceptual proposal to describe and explain specifically how
+certain species affect ecosystems by changing the physical
+environment via the creation, modification and destruction
+of habitat (Jones et al., 1994). In so doing, ecosystem engineers
+influence patterns and processes of biodiversity and
+ecosystem function (BEF) (Wright et al., 2002; Wright &
+Jones, 2004; Anderson & Rosemond, 2007; Badano &
+Marquet, 2008). Concepts such as ecosystem engineering can
+help ecological research effectively formulate research questions
+and develop predictive understandings of ecological
+outcomes like explaining the direction and magnitude of
+changes in the structure and function of ecosystems.
+In addition to linking species identity with BEF, it is also
+important to integrate the effects of scale. For example, ecosystem
+engineers can influence species richness by affecting
+landscape-scale habitat heterogeneity (Wright et al., 2002)
+and/or patch-scale habitat productivity (Wright & Jones,
+2004). Basic ecological theory then allows us to predict the
+direction and magnitude of these impacts, based on understanding
+the relationship between patch- versus landscapelevel
+conditions. If the engineered ecosystem constitutes a
+unique landscape unit with a habitat-specific biotic community,
+compared with surrounding patches, the role of the
+ecosystem engineer would be expected to enhance gamma
+diversity in the landscape. Similarly, if the extent of the
+impact were great enough to dominate the entire landscape,
+then we would also anticipate that the magnitude of the
+effect to biodiversity would be large in either a positive or
+negative direction, depending on the relative difference
+between the engineered and unmodified habitats. Finally,
+while the impact of an ecosystem engineer on landscape-level
+patterns of species diversity depends on the surrounding
+context of habitat-specific species assemblages and the similarity
+between communities, the addition of novel habitat
+conditions in a landscape could be expected to produce
+cumulative effects on ecosystem function (e.g. increases or
+decreases in rates and standing crops of materials and
+energy).
+As a recognized component of global ecological change, it
+is imperative that we develop a better understanding of how
+invasive species drive BEF patterns and processes, and the
+lack of such a predictive understanding has been a major critique
+of the field of invasion biology (Davis et al., 2011). In
+this context, the ecosystem engineer concept provides an
+explanatory mechanistic framework regarding the role of
+invasive species in novel ecosystems (Crooks, 2002; Anderson
+et al., 2009). Specifically, it offers a way to test the indirect
+and broader-scale impacts of invasive species on ecosystems
+and landscapes, rather than focusing on their direct impacts
+related to predation or competition (Valenzuela et al., 2014).
+The North American beaver (Castor canadensis Kuhl 1820)
+is an emblematic invasive ecosystem engineer that has
+received substantial scientific, conservation and media attention
+in the Tierra del Fuego (TDF) Archipelago (Choi, 2008;
+Anderson et al., 2011). Fifty beavers were introduced near
+Fagnano Lake in 1946 (Fig. 1), and since that time, the
+population has expanded to inhabit most of the archipelago,
+and on the mainland, it has colonized as far north as Puerto
+Natales, Chile (Valenzuela et al., 2014). In southern Patagonia,
+beavers fill a unique ecological niche; there are no
+ecologically or evolutionarily equivalent species that forage
+and physically alter streams in the same way. However, natural
+lentic habitats, such as lakes and peat bogs, are abundant
+in this post-glacial landscape. These natural lentic landscape
+units may or may not be equivalent to beaver ponds, as it is
+unknown whether the key physical characteristics of natural
+impoundments are similar to those engineered by the beaver.
+On the other hand, regardless of whether beaver ponds are
+quantitatively and qualitatively similar to unmodified
+impoundments, their damming activities would be expected
+to increase the retention of materials and alter ecosystem
+processes in invaded watersheds (Anderson & Rosemond,
+2007; Anderson & Rosemond, 2010; Ulloa et al., 2012). Therefore,
+we predict that the beaver’s influence on biodiversity will
+depend on the landscape’s broader context, while the effect on
+ecosystem function is expected to be cumulative.
+To test this hypothesis, we compared the patch- and
+landscape-level effects of invasive beavers on BEF in freshwater
+bodies in TDF. We predicted that if the patch-level
+habitat conditions of beaver-impacted streams were largely
+the same as natural lentic features, then beavers would not
+significantly alter stream biodiversity at the landscape scale,
+despite its large and negative effect at the patch scale compared
+to unmodified streams (Anderson & Rosemond,
+2007). At the same time, this invasion’s influence on
+broader processes, such as carbon retention and standing
+crop, would be expected to be large and a function of the
+overall magnitude and extent of the engineered ecosystems
+in the landscape.
+
+xmethods
+
+Study site
+The study was conducted between 2003 and 2006 in both
+the Argentine and Chilean portions of the TDF Archipelago,
+which encompasses the islands south of the Strait of Magellan.
+Since their initial introduction in 1946, beavers have colonized
+most of the archipelago, and as of the 1990s were
+also established on the mainland (Anderson et al., 2009). As
+a result of its relatively recent glaciation and fragmented
+geography, the archipelago’s native vertebrate community is
+relatively species poor, especially potential predators of
+beavers (Anderson et al., 2006; Valenzuela et al., 2014). At
+the same time, this glacial history has left a landscape with
+natural lentic features including lakes, ponds and bogs. The
+archipelago’s only large native herbivore is the guanaco
+(Lama guanicoe Muller 1776), but there are no ecological
+equivalents to the beaver’s herbivory or dam-building/flooding
+behaviours.
+Patch and landscape characterization
+The Fuegian Archipelago includes a mosaic of habitat
+patches and a precipitation gradient from the Pacific to the
+Atlantic Oceans (Moore, 1983). To characterize this landscape,
+we used four 1000 ha Quickbird satellite images
+taken from across the archipelago at the following sites from
+west to east: Karukinka (2005), Kareken (2004), Navarino
+(2002) and Malvinera (2006) (Table 1; Fig. 1). We classified
+landscape into three major habitat categories: (1) natural
+lotic, (2) natural lentic and (3) beaver impacted. Natural
+lotic patches were habitats with free-flowing streams that
+passed through forests or grasslands. Natural lentic patches
+were lakes and peat bog ponds. Beaver-engineered lentic
+habitats included both active and abandoned ponds with
+constrained water flow. Sites classified as beaver ponds were
+previously lotic, as evidenced by the surrounding habitat
+conditions and/or standing dead trees in the pond or riparian
+zone. No beaver ponds were chosen in natural lentic
+habitat (e.g. beaver impoundments in lake outflows,
+Sphagnum bogs).
+We collected abiotic and biotic data from a total of 55
+aquatic patches between 2003 and 2006 (26 in the west, 18
+in the south and 11 in the eastern portion of the study area).
+In each, we assessed substrate diversity and benthic organic
+matter (BOM) standing crop, which were previously
+described by Anderson & Rosemond (2007) as being influential
+in producing observed patterns of taxonomic richness
+and ecosystem function for benthos. Substrate characteristics
+were measured at each site with Wolman pebble counts to
+quantify particle size distribution (Harrelson et al., 1994),
+and these values were then used to calculate substrate diversity
+by applying a Shannon–Weiner index to the abundance
+of particular pebble count size classes. Benthic macroinvertebrates
+and BOM were collected with a core sampler
+(0.07 m2) whose contents were passed through a 250-lm
+sieve. Contents were preserved in 70% ethanol. In the
+laboratory, macroinvertebrate specimens were separated from
+BOM and were identified to the lowest taxonomic level,
+which was usually genus or species (see Appendix S1). For
+some taxa, such as Chironomidae dipterans, we only arrived
+to subfamily or tribe level. In addition, the length of each
+specimen was measured to determine biomass with length–
+weight regressions developed by Benke et al. (1999) and
+Miserendino (2001). BOM was dried at 60 °C, weighed,
+ashed at 500 °C and reweighed to calculate g ash-free dry
+mass (AFDM) m
+2. In each stream, three to four subsamples
+were taken to determine an average per site, which was then
+used as the statistical unit of replication.
+Analyses
+To determine the beaver’s effects on patch-level aquatic BEF,
+we first used JMP 10 (SAS Institute Inc., Cary, NC, USA) to
+conduct one-way analyses of variance (ANOVAs) with a
+Tukey’s post hoc honestly significant difference (HSD) test
+that compared the means for substrate diversity, BOM,
+benthic macroinvertebrate taxa richness, benthic macroinvertebrate
+diversity (Shannon–Weiner) and benthic macroinvertebrate
+biomass between the three patch types (natural lotic,
+natural lentic and beaver lentic). To determine the beaver’s
+effects on landscape-level aquatic BEF, we used EstimateS 8.2
+(Colwell et al., 2012) to calculate diversity (Shannon–Weiner)
+and to estimate taxonomic richness (Coleman rarefaction),
+based on a randomized dataset (n = 100) constructed
+from the percentage contribution of each patch type (natural
+lotic + natural lentic) and the landscape with beaver impacts
+(natural lotic + natural lentic + beaver lentic) (Table 1).
+These results were used to project species accumulation
+curves using the biodiversity indicators described above (Colwell
+et al., 2012). Significance between curves was assumed if
+the 95% confidence interval of the responses did not overlap
+(Badano & Cavieres, 2006). The natural landscape’s patch
+percentages were determined based on converting the beaver-
+engineered patches to the habitat type of the adjacent
+area, which can be determined visually from satellite images.
+To compare the similarity and composition of the benthic
+macroinvertebrate assemblage between the patch types, we
+employed two detrended correspondence analyses (DCA, Hill
+& Gauch, 1980) in PC-Ord 5 (McCune & Mefford, 1999).
+DCA was selected because it is the only ordination technique
+that simultaneously analyses sampling units and species,
+thereby allowing the examination of ecological interrelationships,
+such as species habitat affinities, in a single-step analysis
+(Ludwig & Reynolds, 1988). In the first DCA, the data
+matrix included benthic macroinvertebrate species abundance
+by plot and was processed (1) without down-weighting for
+rare species and (2) with axis rescaling (Hill, 1979; Greenacre,
+1984; Manly, 1994). In the second DCA, which was processed
+(1) without down-weighting for rare species and (2)
+without axis rescaling, benthic macroinvertebrate species
+abundances were averaged for patch type to highlight differences
+among species habitat affinities, which were classified
+by their rarity as the following: singletons (only one specimen
+collected), rare (2–10 specimens), common (11–100
+specimens) and very common (more than 100 specimens).
+Finally as a complementary methodology, we employed a
+multiresponse permutation procedure (MRPP, Mielke et al.,
+1976) to detect differences within and between previously
+defined groups.
+Total BOM standing crop was estimated in the watershed
+network for each study area, using the calculations of the longitudinal
+length of each patch type and multiplying this value
+by the means obtained for patch-specific BOM standing crop
+(g AFDM m
+2) for the entire stream network. This estimation
+is a low representation of the actual amount for the watershed,
+since using length of the network, we do not account for area.
+As such, this calculation was based on a 1-m-wide water body,
+which is an underestimate considering the increase that
+beavers also create in water body width. From this result, we
+obtained a total g AFDM value for each study area with and
+without beavers and calculated the percentage change caused
+by the presence of beaver-engineered habitats.
+
+xresults
+
+Comparison of natural and engineered freshwater
+habitat patches
+Ecosystem engineering by invasive beavers transformed
+between 20 and 43% of the studied hydrological networks
+(mean  SE = 30.5  6.2%) (Table 1). The Fuegian freshwater
+landscape was conformed primarily of natural lotic
+stream habitat types that included forests and grasslands, but
+natural lentic ecosystems were also present along 6–25% of
+the network’s total length. The most extensive beaver impact
+was abandoned ponds.
+As expected, beaver-impacted patches displayed significantly
+different physical and biotic characteristics than natural
+lotic habitats, and they displayed both similarities and differences
+with natural lentic patches. For example, beavers significantly
+reduced substrate diversity compared with flowing
+streams, but displayed very similar parameters to the natural
+conditions recorded for peat bog ponds and lakes (Table 2).
+Ecosystem engineering by invasive beavers caused BOM
+standing crop to significantly increase, while benthic macroinvertebrate
+diversity and richness significantly decreased, compared
+with natural lotic habitats (Table 2). Meanwhile,
+natural lentic patches occupied an intermediate position. Benthic
+macroinvertebrate biomass was greater in both beaverimpacted
+and natural lentic patches, compared with natural
+lotic sections, but this result was not statistically significant.
+Patch- versus landscape-level effects on BEF
+DCA results showed a segregation of plots between lotic
+and lentic patch groups (Fig. 2a), which was driven by
+habitat-specific species affinities (Fig. 2b) (total variance in the
+species data = 4.16; axis 1 = eigenvalue 0.7118; axis 2 = eigenvalue
+0.2698). For example, blackflies (Gigantodax spp.) and
+glossosomatid caddisflies (Matigoptila brevicornuta Schmid)
+were associated with natural lotic patches, while diving beetles
+(Dyt: Dytiscidae), midges (Chironomidae) and water fleas
+(Cladocera) were representative of lentic zones. MRPP indicated
+that benthic macroinvertebrate community similarity was
+homogeneous within patch types (T = 8.218; A = 0.048;
+P < 0.001, Fig. 2a), but significantly different between lotic and
+both lentic groups. No difference was observed between natural
+and beaver lentic communities (beaver lentic vs. natural lentic:
+T = 1.54, A = 0.01; P = 0.08; beaver lentic vs. natural lotic:
+T = 8.11, A = 0.05, P < 0.001; natural lentic vs. natural lotic:
+T = 7.89, A = 0.05, P < 0.001).
+A closer examination of each patch’s species assemblage
+(by the second DCA, Fig. 3) found that lotic zones not only
+were the most diverse ecosystems for benthos, but they also
+hosted a high number of rare and singleton species,
+including mayflies (Massartellopsis irarrazavali Demoulin,
+Metamonius anceps Eaton), beetles (Scirtidae), caddisflies
+(M. brevicornuta) and stoneflies (Antarctoperla michaelseni
+Klapalek). Natural lentic areas also had more habitat-specific
+taxa (e.g. the dragonfly Aeshna variagata Fabricius) than beaver-
+engineered ponds, which were conformed by species that
+are common elsewhere (e.g. Chironomidae, Oligochaete).
+Daphnia sp. was the only ‘rare’ taxa associated with beaverimpacted
+lentic habitats, but its order (Cladocera) was found
+as very common in both beaver-impacted and unmodified
+lentic bodies (Fig. 3).
+At the landscape-level, we did not find a difference in benthic
+diversity or richness in landscape scenarios that included
+only natural habitats and those that had both natural patches
+and beaver-impacted areas (Fig. 4). In contrast, however, the
+beaver’s influence on the ecosystem function associated with
+carbon standing crop increased by an average of
+71.6  17.1% (ranging from 43.6% to 111.3%) in the
+studied watersheds.
+
+xdiscussion
+
+Context matters
+The introduction of North American beavers has arguably
+caused the largest transformation of TDF’s forests in the
+Holocene (Anderson et al., 2009). Specifically with regard to
+their impact on freshwater ecosystems, we have previously
+shown that the ecosystem engineering caused by invasive
+beavers decreases benthic biodiversity and increases ecosystem
+function at the patch scale (Anderson & Rosemond,
+2007; Anderson & Rosemond, 2010). Furthermore, when
+compared to forestry, another potentially large-scale impact
+to this biome, the beaver’s influence was found to be greater
+with regard to benthic community structure and function
+(Simanonok et al., 2011). However, the present study illustrates
+that the landscape context matters when extrapolating
+the importance of this invasion’s impact to broader spatial
+scales.
+Specifically, while beavers did affect approximately 30% of
+stream networks, about 56% still remained free flowing.
+Therefore, beavers have not completely dominated entire
+watersheds or the landscape by converting all streams to
+ponds. Furthermore, while they reduced the diversity of benthos
+as compared to that found in natural lotic patches, they
+only generated biotic assemblages in their engineered lentic
+patches that were very similar to those found in natural
+lentic habitats. For instance, we find such common taxa as
+midges and worms in beaver ponds, as well as other habitats.
+This subset of species is not unique to beaver ponds, but
+rather are mostly common species elsewhere (Anderson &
+Rosemond, 2007).
+Therefore, invasive beavers ultimately had no measurable
+influence on stream landscape-level biodiversity, but they did
+change the ecosystem function related to carbon cycling. By
+engineering new lentic habitats with greater retention than
+previous lotic zones, the overall BOM carbon budget in these
+benthic ecosystems increased by about 70% at the stream
+network scale. Previous research has shown that beaver-
+induced increases in BOM affect stream food webs,
+enhancing secondary production of benthos by an order of
+magnitude (Anderson & Rosemond, 2010) and transitioning
+benthic production and BOM decomposition rates in sub-
+Antarctic streams to values more similar to temperate zones
+(Anderson & Rosemond, 2007; Ulloa et al., 2012). It should
+be noted, however, that the effects of beavers on other
+ecosystem functions need to be more fully explored, as our
+analyses have only focused on benthic ecosystems.
+Furthermore, it is known that adjacent marine food webs
+incorporate terrestrial organic matter (Romero et al., 2004),
+but to date, there has been no quantification of this
+ecosystem process or beaver’s role in modifying it.
+At the same time, various studies elsewhere have provided
+evidence that ecosystem engineering has a positive landscape-
+level effect on species richness (Wright et al., 2002; Lill
+& Marquis, 2003; Castilla et al., 2004; Badano & Cavieres,
+2006). However, our results help confirm that this is not a
+characteristic of the ecosystem engineering per se. Rather, the
+proportion and similarities/differences of modified and
+unmodified habitats in the broader landscape context determine
+the magnitude and direction of ecosystem engineering
+impacts by native or exotic species (Wright et al., 2004). We
+found, therefore, that the beaver’s impact on landscape-level
+stream biodiversity was predictable by combining the ecosystem
+engineering framework with basic ecological understanding
+(i.e. the relationship between habitat heterogeneity and
+species diversity). In addition, as beavers did not transform
+all of the natural lotic streams into ponds, their patch-level
+effect of decreasing stream benthic macroinvertebrate diversity
+was not generalized for the entire landscape as part of
+this invasion.
+At the same time, the beaver’s invasion still can be considered
+a large and important landscape-level phenomenon.
+Therefore, rather than concluding from these data that the
+invasive beaver is not harmful to TDF because it ‘merely’
+engineers ponds whose benthic biodiversity is similar to natural
+lentic habitats, we can now more precisely determine
+the actual way it has transformed this landscape, which is via
+effects on ecosystem processes. Other studies have also
+shown that this invasive species not only changes standing
+crops, but increases decomposition rates of BOM (Ulloa
+et al., 2012).
+What we still need to know about invasive beavers
+in Tierra del Fuego
+As a result of the beaver’s impacts in what is otherwise considered
+a largely pristine wilderness area (Mittermeier et al.,
+2003), conservationists and environmental managers have
+worked to define control and/or eradication programmes for
+the beaver in southern Patagonian forests (Malmierca et al.,
+2011). In this scenario, a number of important research areas
+still remain to be explored regarding the role of this invasive
+species in engineering a novel Fuegian landscape, particularly
+areas related to management and social perceptions of beavers
+(Anderson et al., 2011). However, specifically regarding
+the ecological role of invasive beavers, it is important to
+consider further how these changes to ecosystem processes
+can include even potential and fundamental ecosystem state
+shifts. For example, by retaining sediments and organic
+matter in the stream, beavers can ultimately modify the
+hydrogeomorphology that connects floodplains and streams
+(Westbrook et al., 2011).
+Furthermore, the role of exotic beavers in affecting patchversus
+landscape-level patterns and processes of riparian ecosystems
+and biota requires a modification of our hypotheses,
+but we believe still should be predictable based on the basic
+conceptual model used here of the role of invasive ecosystem
+engineers. While the effect of beavers to freshwater biota and
+ecosystems may be to produce patches that are very similar
+to the natural lentic habitats already found in the Fuegian
+landscape, we would not anticipate a priori that this would
+be the case for riparian BEF. As the beaver’s flooding and
+foraging habits have no evolutionary or ecological equivalent
+for the adjacent terrestrial zone, unlike the introduction of
+C. canadensis to Europe where C. fiber previously evolved,
+this modified habitat would not be expected to have analogues
+in the landscape. Indeed, we have determined that
+these riparian zones also are not resilient to beaver disturbance
+(Wallem et al., 2010), and one of the most important
+ecological research areas for the future of riparian restoration
+efforts will be to determine effective and efficient ways to
+regenerate the BEF of these modified terrestrial habitats
+(Anderson et al., 2009).

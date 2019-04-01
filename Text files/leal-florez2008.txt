@@ -1,0 +1,324 @@
+xabstract
+Changes in native fish abundance (catch per unit effort–CPUE) and species composition
+were assessed before and after the introduction of Oreochromis niloticus
+Linnaeus, 1757 (Nile tilapia) in the Caribbean estuary Ciénaga Grande de Santa
+Marta (CGSM), northern Colombia. Multiple regression analysis was used to relate
+the abundance of O. niloticus to that of non-native fishes and environmental
+variables such as salinity, dissolved oxygen, pH, local rainfall, and river discharge.
+Species composition and abundance of native fishes were found to vary with environmental
+conditions in different zones but on a large scale, overall abundance
+remained approximately constant over all studied periods. Abundance of the native
+catfish Cathorops mapale Betancur-R. and Acero-P., 2005 was negatively related to
+the abundance of O. niloticus, and both varied with salinity. Overall fish diversity
+varied in periods when O. niloticus was present, which coincided with low salinity
+conditions. Our findings indicate that environmental fluctuations constrain the
+long-term establishment of O. niloticus in the estuary and thus its possible effects
+on abundance and species composition of the native ichthyofauna. However, it is
+feasible that the arrival of a more tolerant strain of O. niloticus, its future adaptation
+to the variable environment, or a longer duration of freshwater conditions in
+the estuary, could favor its long-term proliferation. In such a case, the occurrence of
+negative impacts on the native fishes cannot be disregarded. This is, to our knowledge,
+the first study investigating the impacts of O. niloticus on the ichthyofauna of
+a Caribbean estuary.
+
+xintroduction
+The introduction of new species into aquatic ecosystems has become common
+practice, but also a serious ecological problem: although it is intended as a solution
+to overcome shortage in food supply in many tropical countries, such introductions
+are recognized as one of the primary threats to biodiversity (Sala et al., 2000; Bax et
+al., 2003; Sala and Knowlton, 2006; Rahel, 2007). Species introductions may result
+in biological invasions that dramatically affect native species through predation or
+grazing, competition for food or space, and hybridization with native species. These
+and other impacts may eventually lead to alterations in the structure and function of
+the ecosystems and cause the loss of valuable resources (Mack et al., 2000; Mooney
+and Cleland, 2001; Hoffmeister et al., 2005). The introduction of non-native species
+in Africa and the Great Lakes of North America, for example, is considered one of
+the main causes for the collapse of the fisheries in those regions (Ogutu-Ohwayo and
+Hecky, 1991; Hall and Mills, 2000).
+Colombia’s fish fauna includes at least one third of the total number of fish species
+known in South America (Mojica et al., 2002), however, it also has one of the highest
+numbers of non-native fish species with at least 153 recorded (Gutierrez, 2004).
+Many of these fishes were intentionally introduced to increase local fishery production,
+for use in the ornamental fish trade, or for aquaculture purposes. Many others
+were accidentally introduced as a result of inadequate management of intentional
+introductions. Although there have been numerous warnings about the potential
+consequences of the increasing number of non-native fishes on the native Colombian
+icthyofauna, there are as yet no published studies directly addressing those impacts,
+even though some non-native fishes already constitute important fishery resources
+in several regions of the country (Diaz and Alvarez, 1998; Álvarez and Salazar, 2001;
+Gutierrez, 2004).
+The Ciénaga Grande de Santa Marta (CGSM) is located along the north coast of
+Colombia as part of the delta of the Magdalena River, which is one of the largest
+deltas in the Caribbean Sea. The CGSM estuary is the main source of food and income
+for the region due to its large size (ca 1280 km2) and productivity (Sánchez and
+Rueda, 1999; Gocke et al., 2003). The most important natural factors influencing the
+distribution and abundance of resources in the CGSM are the freshwater input from
+the Magdalena River (Wiedemann, 1973; Kaufmann and Hevert, 1973) and saltwater
+input from the Caribbean Sea (Sanchez and Rueda, 1999; Rueda, 2001; Blanco et al.,
+2006, 2007). Interruption of fresh and marine water input, pollution, deforestation,
+erosion, and over-fishing in CGSM has led to the loss of many valuable resources
+during the last 40 yrs (Botero and Mancera, 1996; Botero and Salzwedel, 1999; Rueda
+and Defeo, 2003). Former waterways were re-established by dredging in 1998 with
+the goal of recovering former ecological conditions. Since that time, non-native fishes
+such as the snakeskin gourami (Trichogaster pectoralis Regan, 1910), the Nile tilapia
+(Oreochromis niloticus Linnaeus, 1757), the hybrid red tilapia (Oreochromis sp.), and
+the tambaqui (Colosoma macropomum Cuvier, 1818) increased their presence in the
+system (Sanchez, 1996; Bateman, 1998). Since 1999, O. niloticus has become one of
+the principal fishery resources, accounting for almost 60% of all catches in 1999 and
+2000 (INVEMAR, 2006), but decreasing to < 10% thereafter. This drastic variation
+in abundance of O. niloticus seems to be related to environmental fluctuations (e.g.,
+salinity) in the estuary (Blanco et al., 2007).
+The goal of our study was to determine whether the observed spatio-temporal variation
+in species composition and abundance of native fish were related to the presence
+or abundance of the non-native fish O. niloticus or to environmental variability
+or both. We used descriptive and multivariate analysis to identify spatio-temporal
+trends in the fluctuations of native fish abundance and species composition before
+and after the introduction of O. niloticus. We also used multiple regression analysis
+to test for possible correlations between changes in native fish abundances and
+abundance of O. niloticus, salinity, pH, dissolved oxygen, and freshwater input (local
+rainfall and river discharge). We predicted that changes in the catches of the most
+abundant native fishes would be strongly related to the variation of the catches of O.
+niloticus. To our knowledge, this is the first study investigating the possible impacts
+of the O. niloticus on the native ichthyofauna of a Caribbean estuary.
+
+
+xmethods
+Study Site.—The CGSM is located between 10°43´–11°00´N and 74°16´–74°35´W in the
+delta of the Magdalena River on the north coast of Colombia (Fig. 1). Its major connection to
+the Caribbean Sea is Boca de la Barra, an 80–100 m wide artificial outlet (Santos-Martinez
+and Acero, 1991). The system receives freshwater from several rivers originating in the Sierra
+Nevada de Santa Marta mountain system and from the Magdalena River through a complex
+of channels and swamps termed Pajarales (Fig. 1; Botero and Salzwedel, 1999). The mean annual
+water temperature is 30 °C and the depth in the system varies between 1 and 7 m. The
+salinity ranges between 0 and 40 and the tidal amplitude between 20 and 30 cm (Polanía et
+al., 2001). The climate in the area is particularly dry (arid) with a mean air temperature of 28 °C
+and a mean hydrological deficit that ranges between −211.6 and −1146.8 mm yr–1 resulting
+from the difference between mean local rainfall and mean evaporation (Botero and Salzwedel,
+1999; Blanco et al., 2006). Therefore, riverine water input is vital for the system’s water
+budget (Kauffman and Hevert, 1973). A dry season extends from December to March and a
+rainy season from April to November (Blanco et al., 2006). Of the 122 teleost fish species that
+have been recorded in the CGSM, 81 are commercially exploited (Polanía et al., 2001). Historically
+important native estuarine species include Mugil incilis Hancock, 1830, Cathorops
+mapale Betancur-R. and Acero-P., 2005, Eugerres plumieri Valenciennes, 1830, Ariopsis bonillai
+Miles, 1945, Megalops atlanticus Valenciennes, 1846, and Elops saurus Linnaeus, 1766
+(Santos-Martinez and Acero, 1991; Sanchez and Rueda, 1999).
+Data Collection.—The data used for this study were collected by the Institute for Marine
+and Coastal Research (INVEMAR) in Santa Marta, Colombia. Since 1994, monthly fishery
+information was collected within the framework of an ecosystem monitoring program.
+Data collected included weight of catch (kg), species composition of catch, effort (number of
+fishing trips) by gear type and location, as well as environmental information such as salinity,
+dissolved oxygen (mg L–1), and pH. We also used local rainfall (mm) and river discharge (m3
+s–1) data provided by the National Institute for Meteorology, Hydrology and Environmental
+Studies (IDEAM). Catch per unit effort (CPUE) was calculated and used as a relative measure
+of fish abundance in the system—the term abundance shall be used throughout this study
+instead of CPUE. For the analyses we used fish abundance (CPUE) data from cast nets. This
+gear was the most consistently used over the eight-year study period and collected the widest
+spectrum of species when compared to all the other gear types.
+Data Analysis.—Our study area was divided into four zones: ZA, the main lagoon; ZB,
+the lagoon complex of Pajarales; ZC, the lagoon complex in the south-western protected area;
+and ZD, the western side of Salamanca Island (Fig. 1). Moving east to west through these
+zones (A–D) represents a gradient of decreasing salinity (Giraldo et al., 1995). The change in
+abundance of O. niloticus was used as a criterion to divide the set of monthly data into four
+periods: PI = 1994–1995 (few or no O. niloticus in catches; N = 58); PII = 1996 (O. niloticus
+present but occurring in < 5% of the total catches; N = 25); PIII = 1999–2001 (after reestablishment
+of freshwater and salt water connections and marked O. niloticus increase; N = 34);
+and PIV = 2002–2003 (subsequent O. niloticus decrease; N = 36).
+Species Composition and Fish Abundance.—Kruskal-Wallis tests were performed to compare
+differences in abundance of O. niloticus, species richness (R, number of fish species),
+fish diversity (expressed as Shannon-Weaver Index–H’; Shannon and Weaver, 1949), and environmental
+parameters among the four periods of study (Sokal and Rohlf, 1995). Multiple
+comparisons (Kruskall-Wallis routine in Statistica v. 8) were used to test differences between
+all pairs of periods compared. Due to the lack of environmental data of PIII in ZD, this zone
+was excluded from these analyses.
+A two way analysis of similarities (ANOSIM) was performed to test if species composition
+and multispecific fish abundance significantly differed among periods and zones (factors;
+Clarke, 1993). A Similarity Percentage (SIMPER) analysis was used to identify the species accounting
+for most of the similarity in abundance and species composition within periods and
+zones. It also was used to determine the species that discriminate best between these grouping
+factors (Clarke, 1993). For these analyses, all fish species accounting for more than 1% of
+the total abundance in at least one of the 8 yrs of the study were selected (21 species; Table 1).
+PRIMER for Windows v. 5.2.2 (Plymouth Marine Laboratory) was used for these analyses.
+Relationship Between Fish Abundance and Environmental Variables.—Forward stepwise
+Multiple Regression Analysis (MRA; Zar, 1996) was conducted to determine the extent that
+O. niloticus abundance and environmental factors explained the monthly variations in fish
+abundance for the six most abundant and commercially important native fish species. Due to
+high correlation between salinity and abundance of O. niloticus (Spearman Rank Order Correlation
+= −0.60, P < 0.05), these two variables were used separately as independent variables.
+All data were Log+1 transformed to normalize the residuals and 0.025 was used as significance
+level (Bonferroni adjustment). In all cases the statistical criterion (F) to enter variables
+into the model was F > 1. In the first MRA, the abundances of the native species were used
+as dependant variables and that of O. niloticus as an independent variable, while in a second
+MRA the abundances of all fishes including O. niloticus were used as dependent variables,
+and salinity, pH, and DO as independent variables. Using ZA as a reference, dummy variables
+were created for ZB and ZD to determine the effect of zone differences in the variables
+in these two MRAs. Zone C was excluded from these analyses due to lack of environmental
+data. Given the difficulty of establishing geographical limits to the influence of local rainfall
+and river input, their regional monthly average values were used in a third MRA as independent
+variables and the regional monthly mean abundance of native fishes and O. niloticus as
+dependent variables.
+
+xresults
+Species Composition and Fish Abundance.—The abundance of O. niloticus
+differed significantly among all four periods (H = 195.83, df = 3, N = 327, P < 0.05;
+all post-hoc, P < 0.05) from complete absence in PI and very low abundance in PII to
+very high in PIII when it dominated the catches in the estuary and back to very low in
+PIV (Fig. 2). In contrast, the group of native fish maintained a very similar abundance
+over the entire study period. A variable group of very few species (2–4) represented
+between 70 and 95% of the total abundance (Fig. 3). The native estuarine fish M. incilis
+was the only species consistently ranking among the most abundant over all zones
+and periods. The non-native fish O. niloticus became the most abundant species (total
+CPUE > 50%) during PIII in all zones except in ZA, where M. incilis was the most
+abundant. Oreochromis niloticus drastically decreased during PIV in all zones. The
+abundance of the native C. mapale decreased during the periods when O. niloticus
+was the most abundant fish in all zones. Eugerres plumieri varied considerably from
+period to period, but with no apparent relation to any other species. Native freshwater
+fishes like Triportheus magdalenae Steindachner, 1878, Prochilodus magdalenae
+Steindachner, 1879, and Hoplias malabaricus Bloch, 1794 appeared only in PII or PIII
+in ZB, ZC, and ZD. Piscivorous fishes such as A. bonillai, M. atlanticus, and E. saurus
+increased in some zones during PIII and PIV.
+The small differences in richness (number of fish species) and fish diversity (H’)
+(Fig. 4) were not significant (P < 0.008) during the period of greatest abundance of O.
+niloticus (PIII) relative to the earlier periods. However, during the following period
+(PIV) with a low abundance of O. niloticus, a few differences were significant (P <
+0.008) in some zones relative to PIII. Fish diversity (H’) decreased in ZA (H 3, N = 87 =
+11.31; Fig. 4E) but increased in ZC (H’: H 3, N = 79 = 20.33; Fig. 4G) and ZD (H 2, N = 74 =
+26.48; Fig. 4H). In this last zone, richness also increased during PIV (H 2, N = 74 = 24.25;
+Fig. 4D).
+The two way crossed Analysis of Similarities (ANOSIM) revealed significant differences
+in species composition and abundance among periods (R = 0.601, P < 0.001)
+and zones (R = 0.49; P < 0.001), as well as significant differences (R > 0.3; P < 0.001)
+between all pairwise comparisons. Furthermore, the SIMPER analysis revealed that
+M. incilis was the species that best accounted for the similarity in species composition
+and abundance in all zones (% Similarity > 16) and periods (% Similarity >
+22), except in PIII when O. niloticus accounted for the largest similarity (22%). Oreochromis
+niloticus was the species that best discriminated between most pairs of compared
+periods (% Dissimilarity > 12) and zones (% Dissimilarity > 10), followed by the
+native fish C. mapale (% Dissimilarity ~9 between periods and ~10 between zones).
+Relationship Between Fish Abundance and Environmental Variables.—
+Salinity and river discharge were the variables exhibiting the greatest variation over
+the study periods (Fig. 5). Salinity fluctuations were significantly different among
+study periods except in ZD (ZA: H3, N = 71 = 14.48; ZB: H3, N = 69 = 38.65; ZD: P < 0.05,
+H2, N = 33 = 0.13; P > 0.05) while water discharge differed significantly among periods in
+the whole region (Magdalena: H3, N = 89 = 8.15; other rivers: H3, N = 91 = 13.85; P < 0.05).
+Changes in salinity (Fig. 5D–E) reflected (opposite) patterns of water discharge of
+the Magdalena River (Fig. 4B), which is the main input of freshwater into the estuary.
+Zones A and B had similar patterns of salinity fluctuation (Fig. 5D,E), varying from
+high (20±14 to 35±21) in PI and PIV to low values (6±9 to 10±9) in PII and PIII. pH
+differed significantly among all zones (ZA: H3, N = 71 = 21.25; ZB: H3, N = 68 = 52.32; ZD:
+H2, N = 33 = 13.84; P < 0.05; Fig. 5G–H). This parameter tended to decrease slightly over
+the four periods at ZA, and more abruptly at ZB. No environmental data are available
+for PIII in zone D (Fig. 5F–I), therefore data from this zone must be interpreted with
+caution. However, overall, the salinity range in this zone is much lower (0–5) than at
+the other zones, whereas pH is similar to that of the other zones.
+Multiple regression analyses revealed that the environmental variables (salinity,
+pH, and river discharge) and the abundance of O. niloticus contributed to variation in
+the abundance of native fishes. The abundance of O. niloticus best explained (Table
+2, P < 0.025) variation in abundance of C. mapale (r = −0.45) and M. atlanticus (r =
+0.19). When salinity, pH, and DO were treated as independent variables (Table 3, P
+< 0.025), salinity best explained the variation in abundance of M. incilis (r = −0.32),
+C. mapale (r = 0.45), E. plumieri (r = −0.35), and O. niloticus (r = −0.43). pH best
+explained variation in abundance of A. bonillai (r = −0.50), E. saurus (r = −0.44), and
+M. atlanticus (r = −0.51). When river discharge and local rainfall were treated as
+independent variables (Table 4, P < 0.05), river discharge best explained variation in
+abundance of E. plumieri (r = 0.39) and E. saurus (r = −0.29).
+
+xdiscussion
+The hypothesis of O. niloticus being solely responsible for fluctuations in the abundance
+of native ichthyofauna should be rejected since fluctuations in environmental
+variables (salinity, pH, and river discharge) explained much of the variation in abundance
+of most fish species including O. niloticus. However, our findings indicate that
+although the duration of low salinity conditions was relatively short, this non-native
+fish could have affected the native ichthyofauna.
+On the largest spatial scale (all zones combined) the overall native fish abundance
+remained quite constant over the four study periods. However, when the specific
+composition was analyzed for each period and zone, changes in relative abundance
+on the species level became evident. This relative constancy of the overall native fish
+component could be indicative of a high resilience due to a high species redundancy,
+meaning that this component has several fish species with similar functions and they
+react in different ways to the same environmental fluctuations (Walker, 1995; Gunderson,
+2000; Hooper et al., 2005). Such a differential response to the environment
+(as seen in the MRA results) may explain the observed variations in species abundance
+and composition at smaller spatial and temporal scales (zones and periods),
+and therefore the changes in fish diversity and richness.
+During the periods of low salinity, the inflow of unusual amounts of freshwater
+may increase the variety and size of available habitats for freshwater and euryhaline
+species in the estuary. In contrast, species not well adapted to low salinity may migrate
+to areas with more favorable conditions or experience a decrease in their populations.
+This is evidenced by the increase in the number and abundance of native
+freshwater fishes (e.g., P. magdalenae, H. malabaricus, T. magdalenae) during PIII,
+and the decrease in abundance of native estuarine fishes (e.g., M. incilis, C. mapale)
+over the same period. The increase of piscivorous fishes during PIII and PIV in some
+zones might be a response to an increase of prey represented by non-native and native
+freshwater fishes. This may explain the positive relationship between the predator
+M. atlanticus and the potential prey O. niloticus.
+The great adaptability of O. niloticus to new environmental conditions is evidenced
+by its high growth rate, variable maturation size, and opportunistic feeding (Trewavas,
+1983; Balirwa, 1998; Beveridge and McAndrew, 2000). In strongly altered
+and stressed ecosystems, O. niloticus could be a superior competitor, debilitating
+or completely out-competing native species (Ogutu-Ohwayo, 1990; Ogutu-Ohwayo
+and Hecky, 1991; Léveque, 2002; Canonico et al., 2005). For example, the negative
+relationship between the abundances of O. niloticus and the native fish C. mapale
+could be indicative of interspecific competition. Both species utilize soft bottoms, O.
+niloticus for spawning and C. mapale for feeding (Carpenter, 2002; Froese and Pauly,
+2006). The abundance of both fishes, however, was related to the variation in salinity,
+so they could be responding instead in opposite ways to the same environmental
+variable. Thus, although the SIMPER analysis revealed a shift in the dominant species
+within the fish community during the period of greatest abundance of O. niloticus,
+this does not necessarily imply that the non-native fish displaced native species.
+Further research is needed to investigate the likelihood of competition between native
+and non-native fishes in the ecosystem.
+The salinity tolerance of tilapias is highly variable, as evidenced by the different
+tolerance limits reported in different populations of O. niloticus. In laboratory experiments,
+Watanabe et al. (1985) reported a salinity tolerance limit of 19, Villegas
+(1990) of 10 and Schofield et al. (2007) > 40 after weekly increments. Peterson et
+al. (2004) reported the existence of actively reproductive populations of O. niloticus
+in coastal environments with salinities that range at about 25 in Mississippi, USA.
+Oreochromis niloticus also has established wild populations in a coastal lagoon in
+eastern Italy with salinities between 22 and 33 (Scordella et al., 2003). In CGSM,
+O. niloticus seems to be less euryhaline since its abundance dramatically decreased
+when salinities increased above 15 (Blanco et al., 2007). This variable environmental
+tolerance indicates a high adaptability of the species. Therefore, it should not be
+discarded that the arrival of a more tolerant strain of this fish or its adaptation to the
+variable environment, could favor a long term establishment of O. niloticus in the
+estuary.
+Negative impacts of tilapias have been reported in several ecosystems around
+the world (Costa-Pierce, 2003; Canonico et al., 2005). Oreochromis niloticus has
+out-competed several native tilapiine species in the African Lake Victoria (Ogutu-
+Ohwayo, 1990; Ogutu-Ohwayo and Hecky, 1991). Tilapias, including O. niloticus,
+have impacted the native fish communities in several lakes of Nicaragua, where they
+eliminated the habitat of some native fish by feeding on native aquatic plants. Tilapias
+also compete with native fish for spawning sites in the same lakes and seem to be
+responsible for an outbreak of a trematode parasite that has probably caused blindness
+among native cichlids (McKaye et al., 1995; McCrary et al., 2007). The rapid
+proliferation of O. niloticus and its high potential to compete for spawning grounds
+with native fish (e.g., centrarchids) is considered as a threat to the US coastal areas of
+Mississippi (Peterson et al., 2004, 2005, 2006).
+Other studies in tropical and sub tropical estuaries and coastal lagoons have also
+found that abiotic factors such as salinity are the primary factors determining the
+fish species richness, distribution, and abundance. Such is the case of the Shellharbour
+lagoon in southeast Australia (Griffiths, 2001), the Caeté estuary in northern
+Brazil (Barletta et al., 2005), St. Lucia estuary in South Africa (Whitfield et al., 2006),
+and Terminos lagoon in the southern Gulf of Mexico (Sosa-López et al., 2007). Based
+on their research experience in California streams, Moyle and Light (1996) suggested
+that “if abiotic factors are appropriate for a non-native species, then that species is
+likely to successfully invade, regardless of the biota already present”. In our study of
+O. niloticus in CGSM, its establishment was likely restricted by the lack of appropriate
+abiotic factors. Changes in the recipient ecosystem can foster adequate biological,
+ecological, and environmental conditions creating an “invasion window” for the successful
+establishment of new species (Johnstone, 1986; Carlton, 1996); the timing of
+arrival of these new species often coincides with favorable environmental conditions
+(Crawley, 1989). Thus, if favorable conditions occur in the CGSM estuary for longer
+periods, O. niloticus may be able to establish self-sustaining populations.
+Being one of the most popular cultured fish worldwide, O. niloticus has been
+introduced in many tropical countries (FAO, 2006). However, the impacts of this
+non-native fish in natural waters are not yet well studied (Canonico et al., 2003; Costa-
+Pierce, 2003). The present study is, to our knowledge, the first to investigate the
+impact of this fish on the native ichthyofauna of a Caribbean estuary. Our findings
+indicate that environmental fluctuations constrain the long-term establishment of
+O. niloticus in the estuary and may therefore reduce its possible effects in the abundance
+and species composition of the native ichthyofauna. However, it is feasible that
+the arrival of a more tolerant strain of this species or its future adaptation to the
+variable environment or a longer duration of freshwater conditions, could favor a
+long-term proliferation of O. niloticus. Considering the biological features of this
+species, in such a case, the occurrence of negative impacts on the native fishes can
+not be discounted.

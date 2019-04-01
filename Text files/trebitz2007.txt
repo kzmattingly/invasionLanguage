@@ -1,0 +1,856 @@
+﻿xabstract
+We use data from inundated-area surveys of 58 coastal wetlands spanning a gradient of
+anthropogenic impacts across all five Laurentian Great Lakes to describe the distribution of nine exotic
+and invasive taxa of aquatic plants. We found plants that were exotic or have invasive strains to be substantially
+more prevalent in wetlands in Lakes Erie and Ontario than in Lakes Superior and Huron, with
+Lake Michigan wetlands intermediate. Najas minor (slender naiad), Butomus umbellatus (flowering
+rush), and Hydrocharis morsus-ranae (European frogbit) were restricted to the lower lakes and rarely
+dominant. Myriophyllum spicatum (Eurasian milfoil), Potamogeton crispus (curly pondweed), Lythrum
+salicaria (purple loosestrife), Phalaris arundinacea (reed canary grass), Phragmites australis (common
+reed), and Typha sp. (cattail) were more widespread and except for P. crispus, often among the dominant
+taxa. None of the submerged or floating-leaf exotic taxa were associated with altered total plant cover or
+richness, although M. spicatum, P. crispus, and native Stuckenia pectinatus (sago pondweed) were positively
+associated with agricultural intensity in the watershed (a surrogate for nutrient loading). Emergent
+P. australis, L. salicaria, and Typha were more likely to be present and dominant as agricultural intensity
+increased, and were associated with elevated emergent cover and decreased emergent genera richness.
+Effects of dominant taxa on plant cover and richness were readily detected using ordinal data from 100 m
+inundated segments but were harder to discern with data aggregated to the wetland scale. The sum of
+shoreline-wide abundance scores for four easily identified taxa (S. pectinata, P. australis, Typha, and L.
+salicaria) is proposed as a rapidly-measured indicator of anthropogenic disturbance across the Great
+Lakes.
+
+xintroduction
+Exotic and invasive species have been identified
+as a major cause of ecosystem changes in the Laurentian
+Great Lakes (Mills et al. 1993), as they are
+in ecosystems in general (Mack et al. 2000). Extensive
+commercial and recreational boat traffic in the
+Great Lakes combined with widespread urban and
+suburban development in surrounding watersheds
+facilitate the introduction and spread of exotic
+species (Mills et al. 1993). Exotic and invasive
+plants are disproportionately common in wetlands
+compared to terrestrial ecosystems (Sutherland
+2004), especially in those disturbed by eutrophication,
+sedimentation, and hydrologic alteration
+(Zedler and Kercher 2004), and coastal wetlands of
+the Great Lakes are no exception (Herrick and Wolf
+2005). Adverse effects of exotic plants on wetlands
+can include reduced flora richness, degradation of
+faunal habitat (overly dense growth, reduced structural
+diversity, loss of sediment microtopography),
+decline in forage value (plants less desirable as
+food for waterfowl, support fewer macro-invertebrates),
+and alteration in ecosystem functions such
+as nutrient cycling (Zedler and Kercher 2004).
+Despite concerns about exotic and invasive
+species in the Great Lakes and exotic and invasive
+plants in wetlands in general, there is only scattered
+published information on exotic/invasive plants in
+coastal wetlands of the Great Lakes. Studies that focused
+on broadly describing Great Lakes plant communities
+(e.g., Keddy and Reznicek 1985, Smith et
+al. 1991, Minc and Albert 1998) or evaluating vegetation
+responses to anthropogenic disturbance (e.g.,
+Lougheed et al. 2001, Wilcox et al. 2002, Albert
+and Minc 2004, Rothrock and Simon 2007) did not
+publish details on exotic taxa. A few studies have
+specifically examined exotic and invasive plants in
+Great Lakes wetlands (Wilcox et al. 2003, Herrick
+and Wolf 2005) and some general floristic studies
+include information on exotic/invasive taxa (e.g.,
+Stuckey 1989, Klarer and Millie 1992, Knapton and
+Petrie 1999, Stanley et al. 2005), but all of these
+cover only a portion of the basin. Various state, federal,
+and academic entities maintain Internet databases
+on exotic and invasive plant occurrences but
+the information is generally summarized at large
+spatial scales (e.g., counties) and does not differentiate
+coastal from inland waters.
+Our study addressed this data gap by describing
+the prevalence and distribution of exotic and invasive
+aquatic plants in coastal wetlands across the
+five Laurentian Great Lakes. We use “exotic/invasive”
+to mean both entirely non-native species (i.e.,
+Eurasian origin), and native species that have exotic
+or invasive strains or hybrids. To aid in developing
+exotic/invasive plant monitoring designs and in understanding
+factors controlling their distribution,
+we look for patterns related to biogeography, wetland
+type, and a dominant anthropogenic stressor
+(agricultural impacts). We also test whether we can
+detect negative effects of exotic/invasive taxa on
+plant community attributes (richness, total cover),
+an impact often cited but which has recently been
+questioned in the literature (e.g., Farnsworth and
+Ellis 2001, Houlahan and Findlay 2004). Our sampling
+is focused specifically on inundated areas that
+support submerged, floating-leaf, and emergent
+plant taxa.
+
+
+xmethods
+Study wetlands were distributed across the U.S.
+side of all five Laurentian Great Lakes and across a
+gradient of anthropogenic impacts using a sampling
+design made possible by the work of the Great
+Lakes Ecological Indicators Consortium (GLEI).
+GLEI characterized agricultural intensity across the
+basin by collecting publicly available spatial data
+(primarily at the county or 8-digit HUC scale) describing
+rates of fertilizer application and runoff of
+nutrients, sediments, and agricultural chemicals;
+summarizing them at the scale of the land area
+draining coastal watersheds; and aggregating them
+via principal components (details in Danz et al.
+2005, Danz et al. 2007). The resulting aggregate
+agricultural intensity metric (AgChemPC1) is a
+unitless, land-use based surrogate for nutrient loading.
+We selected wetlands to sample from along the
+AgChemPC1 gradient within combinations of biogeographic
+ecoprovince (Laurentian mixed forest—
+LMF, or eastern broadleaf forest—EBF; Keys et al.
+1995) and wetland hydromorphic type (riverine or
+protected; Keough et al. 1999). Ecoprovince was
+included as a design element to reflect climate and
+surficial geology, while wetland type is a surrogate
+for hydrologic factors such as water source and residence
+time (Keough et al. 1999). We did not sample
+fringing-type wetlands which are present only
+in some parts of the basin, and did not balance our
+design across lakes, but did sample at least six wetlands
+per lake. We excluded wetlands that had no
+surface hydrologic connection to the adjacent lake
+(whether naturally or due to diking), whose shorelines
+were dominated by woody rather than herbaceous
+vegetation, or that were not publicly
+accessible via a 15 foot shallow-draft motorboat.
+We sampled 58 coastal wetlands along the U.S.
+side of the Great Lakes over the summers of 2002,
+2003, and 2004 (Table 1, Fig. 1). All wetlands were
+sampled with a 1-day visit during peak growing
+season (July or August, more southern sites sampled
+earliest). Over-all sampling goals were to measure
+1) condition of wetland water quality and
+habitat structure (e.g., vegetation) across the anthropogenic
+impact gradient, 2) responses of biota
+(fish, algae, food web) to changes in water quality
+and habitat structure, and 3) the influence of hydrologic
+and biogeographic factors on these relationships.
+Sampling protocols were based on pilot
+studies that established the amount and sequence of
+data collection that could be accomplished by a
+five-person, two-boat crew in 1 day per site. This
+paper focuses on data for aquatic plants.
+Prior to site visits, we established seven target
+sampling stations per wetland, spaced at equal intervals
+along the shoreline as digitized from USGS
+orthophotographs. Sampling locations were ad
+justed in the field as needed to accommodate altered
+wetland morphology, and the number of stations
+was reduced (from nominally 7 to 6 or 5) if
+the wetland was small or morphologically simple.
+Plant sampling focused on rapidly characterizing
+cover and composition along relatively large (100
+m) stretches of shoreline centered on each sampling
+station. For each such 100 m “inundated segment,”
+we assigned a score for total emergent cover, total
+floating-leaf cover, and total submerged cover. We
+also noted the dominant emergent, floating-leaf,
+and submerged taxa and recorded all macrophytes
+(vascular plants and Characeae) seen growing in the
+water (even if they were ordinarily mud-flat or wetmeadow
+inhabitants). Cover scores and taxa lists
+were based on the full extent of each plant zone in
+the 100 m inundated segment; i.e., out to the emergent
+plant edge for emergent cover and composition,
+and so on (a rake was used to retrieve
+submerged plants for inspection as needed). Obtaining
+these data took us approximately 20 minutes per
+inundated segment, and we covered the area by a
+combination of wading and poling or motoring our
+boat along.
+We used “dominant” to mean the taxa appearing
+to have the highest cover or biomass over the inundated
+segment (often a single taxon, but we
+recorded up to four co-dominants if all seemed
+equally abundant). A 0 to 4 point scale was used to
+score total cover in each plant zone according to the
+following criteria: 0 = no plants present; 1 = only a
+few plants present (< 10% cover); 2 = at least twice
+as much open space as plants (10–33% cover); 3 =
+similar amounts of plants and open space (33–66%
+cover), and 4 = at least twice as many plants as
+open space (> 66% cover). The comparison of
+plants to open space was made on the basis of water
+surface area for floating-leaf plants, water volume
+for submerged plants, and air volume for emergent
+plants. All cover scores were assigned by one of the
+same three researchers who inter-calibrated their
+ratings on a regular basis.
+In an attempt to develop a rapid plant-based indicator
+of wetland condition, we also recorded a
+“shoreline-wide” score describing the prevalence of
+four taxa (Phragmites australis, Lythrum salicaria,
+Typha sp., and Stuckenia pectinata), selected based
+on their tendency to reach high density, be identifiable
+from some distance, and potentially be of some
+management concern. Stuckenia pectinata is not exotic
+nor ordinarily considered a nuisance species,
+but was included because of its affinity for high-nutrient
+conditions (Davis and Brinson 1980,
+Lougheed et al. 2001, Albert and Minc 2004). We
+assigned one of four ordinal categories (0 = not present,
+1 = scattered individuals, 2 = common part of
+mixed plant assemblage, or 3 = appearing to be
+dominant) to each taxon based on their apparent
+prevalence across all of the wetland visible from a
+boat (i.e., wet meadow as well as inundated areas).
+These scores were independent of the more detailed
+observations made in inundated segments.
+We identified plants to species or genus, depending
+on the level possible using macroscopic plant
+characteristics readily apparent in the field. With a
+few exceptions (e.g., Characeae), identifications for
+floating-leaf and submerged taxa were to species.
+Identifications for many emergent taxa were only to
+genus (e.g., Carex, Iris, Sagittaria, Sparganium) because
+they were no longer flowering in July and
+August and because our intent of rapidly characterizing
+plants over large spatial areas precluded the
+close inspection that would be necessary to distinguish
+among some species. With the exception of
+Typha, exotic/invasive taxa were identified to
+species, but we did not distinguish among invasive
+and non-invasive strains within species. Identities
+of Myriophyllum species were confirmed with
+voucher specimens, although we did not routinely
+voucher other taxa. Data are analyzed as exotic
+Myriophyllum spicatum versus the four native
+species (M. farwelli, M. heterophyllum, M. sibiricum,
+M. verticillatum) combined, because M. verticillatum
+and M. heterophyllum could only be
+reliably distinguished when in flower but M. spicatum
+could be distinguished from the others by various
+vegetative characteristics (Fassett 1957,
+Gleason and Cronquist 1991, Crow and Hellquist
+2000, Chadde 2002).
+Analyses of plant cover and composition were
+made at two spatial scales; the 100 m inundated
+segments themselves and the wetland aggregate
+scale. Cover data were aggregated by averaging
+across inundated segments. Taxa occurrence and
+dominance were described at the wetland scale by
+the percent of inundated segments at which each
+was present and the percent of segments at which
+each was dominant when it was present. Taxa lists
+were used to compute submerged and floating-leaf
+genus richness, emergent genus richness, and richness
+of exotic/invasive taxa for each inundated segment
+and each wetland. Submerged and floatingleaf
+taxa were combined for richness calculations to
+avoid double-counting species having both types of
+leaves. In computing emergent richness, we excluded
+taxa that ordinarily grow in mud flats and
+wet meadows but not in standing water (as per
+Chadde 2002), assuming they were “accidentals” in
+our survey of inundated areas.
+Relationships of the plant variables to the experimental
+design factors were assessed using data aggregated
+to the wetland-scale. Linear regression
+was used to examine relationships between the
+AgChemPC1 stressor gradient and richness of exotic
+taxa, percent of inundated segments where individual
+taxa were present or dominant when
+present, and shoreline-wide scores for P. australis,
+L. salicaria, Typha, and S. pectinata. The influence
+of wetland morphology (riverine or protected) and
+ecoprovince (LMF or EBF) on these same plant
+variables was assessed by two-factor ANOVA.
+Associations of individual plant taxa with total
+cover and genera richness were assessed at both the
+whole-wetland and the inundated segment scale.
+The percent of wetland segments where individual
+taxa were present or dominant when present were
+related to wetland-scale richness and average cover
+for the corresponding growth zone via Bonferroni
+corrected Pearson correlation. Taxa were related to
+segment-scale richness and total cover for their
+growth zone by comparing groups of segments
+where the taxa were absent, present but not dominant,
+or dominant via box-plots notched at 95%
+confidence intervals around the medians (if notches
+do not overlap one can be 95% confident that the
+medians are different; McGill et al. 1978).
+In order to evaluate whether exotic/invasive
+plants exhibit patterns of commonness and dominance
+or relationships to total cover and richness
+that differ from native plants, the above analyses
+were conducted for selected native taxa as well as
+for all exotic/invasive taxa. Closely-related natives
+selected for comparisons were Myriophyllum sp.
+(for comparison to M. spicatum), Najas flexilis (for
+N. minor), Potamogeton richardsonii (for P.
+crispus), Glyceria (same family as P. arundinacea
+and P. australis), and Decodon verticillatus (same
+family as L. salicaria). We found no other plants in
+the same family as Butomus umbellatus or Typha,
+and no floating-leaf plants in the same family as
+Hydrocharis morsus-ranae. Native taxa selected because
+they were the most common examples of
+their growth forms were Nuphar variegata (floating-
+leaf) and Sagittaria and Schoenoplectus tabernaemontani
+(broad-leaf and graminoid emergents,
+respectively). Potamogeton richardsonii (already
+mentioned vis-a-vis P. crispus) was the most common
+native submergent but we also analyzed native
+S. pectinata (third most common) due to our interest
+in it as an indicator species.
+
+xresults
+Our mid- to late-summer vegetation surveys of
+inundated areas in 58 Great Lakes coastal wetlands
+recorded a total of 80 taxa emerging from the water,
+10 floating-leaf taxa, 9 taxa that form both submerged
+and floating leaves, and 35 submerged taxa.
+Thirty-nine of the taxa occasionally found “emerging”
+from shallow water are ordinarily wet meadow
+or mud flat inhabitants (Chadde 2002). We found
+nine aquatic plant taxa that are exotic or invasive in
+the Great Lakes (Table 1, Table 2). The Eurasian
+exotics found were Butomus umbellatus (flowering
+rush), Hydrocharis morsus-ranae (European frogbit),
+Lythrum salicaria (purple loosestrife), Myriophyllum
+spicatum (Eurasian milfoil), Najas minor
+(slender naiad), and Potamogeton crispus (curly
+pondweed). The invasive taxa found were Phalaris
+arundinacea (reed canary grass), Phragmites australis
+(common reed), and Typha (cattail). Phalaris
+arundinacea and P. australis are native to North
+America but have rapidly spreading invasive strains
+(Galatowitsch et al. 1999, Lavoie et al. 2003,
+Zedler and Kercher 2004), while exotic Typha angustifolia
+has widely hybridized with native T. latifolia
+to produce invasive T. ´ glauca (Herrick and
+Wolf 2005, Zedler and Kercher 2004). We also
+noted exotic Iris pseudoacorus (yellow flag iris) in
+flower at several Lake Ontario wetlands during an
+early summer reconnaissance trip, but did not distinguish
+among the no longer flowering I. pseudoacorus
+and native I. versicolor (blue flag iris) in our
+actual surveys and cannot comment further on its
+distribution.
+There were three exotics among the submerged
+growth-forms. Exotic Najas minor was found only
+in Lakes Erie and Ontario, occurred at only about
+one-third of inundated segments within those wetlands,
+and was rarely dominant (Tables 2 and 3). In
+contrast, native congener N. flexilis occurred in all
+five lakes and over half of wetlands and inundated
+segments within wetlands, and was often a dominant
+(Table 3). Exotic P. crispus was found in all
+lakes except Superior and was fairly common but
+only rarely dominant (Tables 2, 3). Native P.
+richardsonii (the most common Potamogeton) was
+much more likely to occur and be dominant than
+was P. crispus (Table 3). Exotic M. spicatum was
+found in all five lakes (Table 2), and was more
+common and likely to dominate than any one native
+Myriophyllum species but slightly less so than all
+native Myriophyllum combined (Table 3). Myriophyllum
+spicatum was the most common exotic
+among the submerged taxa, but ten native taxa, including
+P. richardsonii, N. flexilis, and Stuckenia
+pectinata, had higher occurrence frequencies across
+wetlands.
+The one exotic floating-leaf species, Hydrocharis
+morsus-ranae, was found only in Lake Ontario
+(Table 2). There were no native floating-leaf plants
+in the same family to compare it to. Within Lake
+Ontario, H. morsus-ranae had an occurrence frequency
+similar to that of Nuphar variegata – the
+most common floating-leaf species basin-wide
+(Table 3). We only found H. morsus-ranae growing
+among emergent plants quite close to shore while
+other floating-leaf taxa grew over a much wider
+depth range, which is why we did not often designate
+H. morsus-ranae a dominant (Table 3) even
+though its cover could be locally high.
+Emergent exotic B. umbellatus was found only in
+Lakes Erie and Ontario, where it occurred at about
+one-third of inundated segments but was never a
+dominant (Tables 2, 3). The other four exotic/invasive
+emergents were much more common and
+widely distributed (Table 2). Typha was found at
+over 90% of wetlands and two-thirds of inundated
+segments, while L. salicaria, P. arundinacea, and P.
+australis were each found at roughly half of wetlands
+and inundated segments within those wetlands
+(Table 3). Typha was the second most
+common emergent taxon after Sagittaria (Sparganium
+and Schoenoplectus tabernaemontani were
+tied for third place) and was more likely to be dominant
+when present than any other taxon. Lythrum
+salicaria was more common than native Decodon
+verticillatus from the same family (7’th vs. 17’th
+most common among emergents overall) but neither
+was dominant very often (Table 3). Both P. arundinacea
+and P. australis were more common than native
+family member Glyceria (4’th and 8’th ranked,
+vs. 9’th for Glyceria), but only P. australis was
+often dominant when present (Table 3). Lythrum
+salicaria and P. australis were somewhat more
+common across wetlands as a whole (i.e., including
+wet meadows) than their prevalence in standing
+water suggested (52 and 66% of wetlands respectively
+based on shoreline-wide scores versus 40%
+and 41% based on inundated segment data).
+The number of exotic/invasive plant taxa per
+wetland differed substantially among lakes. All
+wetlands in Lakes Erie and Ontario had at least
+three such taxa and some as many as eight, while
+wetlands in Lakes Superior or Huron had at most
+four (Table 1). Richness of exotic/invasive taxa was
+significantly higher (ANOVA, p < 0.001) in the
+EBF ecoprovince (Lakes Ontario, Erie, and southern
+Lake Michigan) than in the LMF ecoprovince
+(Lakes Superior, Huron, and northern Lake Michigan).
+There was no significant difference among
+riverine and protected wetlands in exotic/invasive
+richness (ANOVA). There was also no difference
+due to wetland inundated area (linear regression),
+although other studies (e.g., Albert et al. 2007)
+have noted higher richness of exotic taxa in larger
+wetlands.
+The number of exotic/invasive taxa increased
+with increasing levels of agricultural intensity (linear
+regression, p < .001, Fig. 2). Removing an outlier
+wetland (Grand Mere, no exotics despite fairly
+high AgChemPC1) increased the strength of the relationship
+between exotic/invasive richness and
+AgChemPC1 considerably (Fig. 2). Grand Mere is a
+small, protected wetland located within a natural
+area (Indiana Dunes State Park) but embedded in a
+larger landscape having high levels of agriculture
+and urbanization. Its immediate watershed is apparently
+poorly represented by land-use data at the
+county and 8-digit HUC scale.
+The AgChemPC1 stressor gradient was a signifi-
+cant predictor of percent occurrence and dominance
+in inundated segments for many taxa. Exotic/invasive
+M. spicatum, P. crispus, L. salicaria, P. australis,
+and Typha were all more frequently present
+with increasing levels of AgChemPC1, as was native
+S. pectinata, while other native taxa (Myriophyllum
+sp., N. flexilis, P. richardsonii, N.
+variegata, Glyceria) were less frequently present
+with increasing AgChemPC1 (Table 4). Both P.
+australis and Typha were dominant more often with
+increasing AgChemPC1, while N. variegata was
+dominant less often as AgChemPC1 increased
+(Table 5). Tables 4 and 5 report significant linear
+regressions, but the relationship of some taxa to
+AgChemPC1 may be even better described as
+threshold-like (e.g., Typha, Fig. 3).
+The frequency with which particular taxa were
+present or dominant was also often related to ecoprovince.
+Exotic P. crispus and L. salicaria and native
+S. pectinata were more often present in the
+EBF than the LMF ecoprovince, while the reverse
+was true for native P. richardsonii, N. variegata,
+Glyceria, Sagittaria, and S. tabernaemontani
+(ANOVA, Table 4). Typha was more frequently
+dominant and Sagittaria less frequently dominant in
+the EBF than the LMF ecoprovince (ANOVA,
+Table 5).
+Wetland type was unimportant in explaining occurrence
+and dominance patterns for most taxa.
+However, L. salicaria and P. crispus were more
+often present and S. pectinata was more often present
+and dominant in riverine wetlands while native
+Myriophyllum was more often dominant in protected
+wetlands (Tables 4, 5).
+When we examined data aggregated to the wetland
+scale, there were not many significant relationships
+between taxon prevalence or dominance and
+vegetation richness or cover, and all such relationships
+were positive. There were no significant
+(Bonferroni corrected p 0.05) correlations at the
+wetland scale between the frequency with which
+any of the taxa tested was dominant and either genera
+richness or average cover in its growth zone.
+There were also no significant correlations between
+presence frequency of any emergents and emergent
+cover, although there were positive correlations between
+P. arundinacea and Glyceria presence and
+emergent richness. The presence frequencies of a
+few submerged/floating taxa were positively correlated
+to submerged/floating richness or cover at the
+wetland scale (native Myriophyllum sp., N. variegata,
+N. flexilis, and H. morsus-ranae).
+In contrast, at the inundated-segment scale, significant
+relationships between taxon presence or
+dominance and vegetation richness and cover were
+common and both positive and negative in nature.
+Most taxa were more likely to be present in inundated
+segments having higher genera richness
+(Table 6), although two relatively uncommon taxa
+(N. minor and D. verticillatus) had no association to
+richness. Lythrum salicaria stood out as the only
+taxon whose presence was associated with reduced
+richness (Table 6, Fig. 4). There were no taxa
+whose dominance was associated with increased
+genera richness, but several taxa whose dominance
+was associated with decreased genera richness.
+Richness was lower in inundated segments where
+N. flexilis, P. richardsonii, Glyceria, Typha, or
+Sagittaria were dominant than where they were just
+present, and richness was lower where S. pectinata
+or P. australis were dominant than where they were
+either present or absent (Table 6, Fig. 4).
+Submerged and floating-leaf taxa generally differed
+from emergent taxa in their relationship to
+cover. Most floating-leaf and submerged taxa were
+more likely to be present in inundated segments
+where submerged or floating cover was higher
+(Table 6). In contrast, emergent cover did not differ
+among segments where emergent taxa were present
+versus absent (Table 6), except for the two least
+common species examined (B. umbellatus and D.
+verticillatus). Altered cover in association with
+dominance were not found for any of the submerged
+or floating-leaf exotics, but did exist for
+some native taxa (P. richardsonii, S. pectinata, N.
+variegata; Table 6, Fig. 4). In contrast, there were
+differences in cover in association with dominance
+by several of the emergent exotic/invasive taxa
+(i.e., L. salicaria, P. arundinacea, P. australis), as
+well as for native Glyceria. Cover tended to increase
+in association with dominance by emergents
+but decrease in association with dominance by submerged
+and floating-leaf taxa (Table 6).
+Shoreline-wide scores for the four taxa for which
+these were recorded were all positively related to
+the agricultural intensity gradient. The correlation
+was strongest for S. pectinata (r = 0.64), followed
+by P. australis (r = 0.49), Typha (r = 0.40), and L.
+salicaria (r = 0.32). A stepwise multiple regression
+with AgChemPC1 as the dependent variable and
+taxon-specific scores as independent variables retained
+all four taxa. The correlation with
+AgChemPC1 for shoreline-wide scores of all four
+taxa summed was 0.75 (Fig. 5), and the correlation
+for just the three emergent taxa was 0.63. The
+summed score for the four taxa was significantly
+higher in the EBF than the LMF ecoprovince
+(ANOVA p < 0.001) but did not differ among wetland
+types.
+
+
+xdiscussion
+All of the exotic and invasive plant taxa we
+found (Butomus umbellatus, Hydrocharis morsusranae,
+Lythrum salicaria, Myriophyllum spicatum,
+Najas minor, Phragmites australis, Phalaris arundinacea,
+Potamogeton crispus, and Typha) were
+known to be present in the Great Lakes. However
+our sampling effort, which assessed vegetation over
+broad inundated areas within both riverine and protected
+type wetlands, provides details on their occurrence
+patterns for which there is little published
+information. There are, of course, many more
+coastal wetlands than the 58 we sampled, but we
+did cover all five lakes using an experimental design
+that spanned a major anthropogenic gradient,
+so our results provide a spatially comprehensive estimate
+of exotic/invasive aquatic plant prevalence
+across the basin.
+We found M. spicatum, P. australis, P. arundinacea,
+and Typha basin-wide, but found H. morsusranae,
+L. salicaria, N. minor, P. crispus, and
+B. umbellatus only in some subset of the five Great
+Lakes. Hydrocharis morsus-ranae had until recently
+been restricted to Lake Ontario (the only
+lake where we found it), but is now also reported in
+Lake St. Clair (NAS database—http://nas.er.usgs
+.gov/) suggesting it may soon spread to Lake Erie.
+We did not find L. salicaria in Lake Huron where
+others have documented its presence, but primarily
+in diked wetlands (Herrick and Wolf 2005, Stanley
+et al. 2005) which we did not sample. We found N.
+minor only in Lakes Erie and Ontario, consistent
+with the APIS database (http://el.erdc.usace.army
+.mil/ aqua/apis). We may have missed finding
+P. crispus in Lake Superior because of phenology
+(we sampled these wetlands latest in summer and P.
+crispus begins to senescence in June; Nichols and
+Shaw 1986), but herbarium databases for Wisconsin
+(http://wisplants.uwsp.edu/) and Michigan
+(http://herbarium.lsa.umich.edu/) also do not report
+P. crispus in counties bordering Lake Superior.
+1970s era maps (reproduced in Herdendorf 1987)
+show B. umbellatus to be more widespread in Lake
+Erie than our data, and our rapid-survey method
+may have underestimated its prevalence because of
+its similarity to a bulrush (Schoenoplectus sp.)
+when not in flower. However the frequency with
+which we found B. umbellatus in Lakes Erie and
+Ontario (at about one-third of wetlands and inundated
+segments within those wetlands) is consistent
+with frequencies recently reported by Lavoie et al.
+(2003) for the upper St. Lawrence River.
+Our sampling design distributed wetlands along
+an agricultural intensity gradient as a surrogate for
+nutrient loading, and AgChemPC1 is indeed well
+correlated with wetland ambient nutrient levels
+(Trebitz et al. 2007). Exotic/invasive L. salicaria, P.
+arundinacea, P. australis, Typha, M. spicatum, and
+P. crispus and native S. pectinata are all reportedly
+favored (greater cover, biomass, competitive ability,
+etc.) by elevated nutrient levels (e.g., Davis and
+Brinson 1980, Gaudet and Keddy 1995, Galatowitsch
+et al. 1999, Lougheed et al. 2001, Drexler and
+Bedford 2002, Albert and Minc 2004, Zedler and
+Kercher 2004). Consistent with this literature, we
+found all of these taxa except P. arundinacea to increase
+their frequency of presence or dominance
+with increasing AgChemPC1. In contrast, several
+native taxa including Glyceria, N. variegata, P.
+richardsonii, N. flexilis, and native Myriophyllum
+were less often present or dominant with increasing
+AgChemPC1. However none of the taxa we examined
+occurred exclusively in wetlands with high
+AgChemPC1 scores nor were any taxa absent from
+all high AgChemPC1 wetlands, confirming observations
+by Lougheed et al. (2001) and Davis and
+Brinson (1980) that plants on both ends of the nutrient
+and disturbance-tolerance spectrum persist
+across a range of wetland conditions. The sharp increase
+in dominance rates of Typha above
+AgChemPC1 scores of 1.0 (Fig. 3) may reflect a
+transition from T. latifolia to the more invasive
+T. angustifolia and T. ´ glauca.
+We included ecoprovince as a sampling design
+element as a surrogate for biogeography, but this is
+not independent of AgChemPC1, since climate and
+soils are more favorable for agriculture in the lower
+than the upper Great Lakes. Levels of agricultural
+intensity are generally higher in the EMF than the
+LMF ecoprovince, and not surprisingly, positive exotic/
+invasive taxon responses to AgChemPC1 were
+often associated with more frequent occurrence in
+the EBF ecoprovince (Table 4). The strong spatial
+component of stressor patterns in the basin (Danz et
+al. 2007), combined with the fact that most exotic
+aquatic plants were first found in Lakes Ontario or
+Erie (Mills et al. 1993), complicates determining if
+the generally higher prevalence of exotic/invasive
+taxa in the lower lakes is due to stronger introduction
+vectors, more favorable environmental conditions
+(e.g., warmer water), or an affinity for higher
+levels of nutrients and disturbance. However some
+taxa in our study (M. spicatum, P. australis, and
+Typha) increased their prevalence with increasing
+AgChemPC1 score without being significantly associated
+with any ecoprovince. Analyzing the frequency
+of dominance given presence avoids range
+effects, and also gave positive associations with
+AgChemPC1 for P. australis and Typha.
+Previous studies have found invasive wetland
+plants to be more common and dominant in systems
+that naturally have less intense water level fluctuations
+(non-tidal vs. tidal freshwater wetlands;
+Lavoie et al. 2003) and in systems where diking has
+disrupted normal water level fluctuations (Herrick
+and Wolf 2005, Wilcox and Whillians 1999). We
+did not sample diked wetlands, but evaluated wet-
+land type as a surrogate for aspects of hydrology
+such as water source, wave versus flood disturbance,
+and flushing rates that are known to influence
+biota and water chemistry (e.g., Burton 1985,
+Minc and Albert 1998, Keough et al. 1999). We
+found that simple distinction among riverine versus
+protected wetlands was unimportant as a predictor
+for most plant taxa. Riverine wetlands were more
+likely than protected wetlands to support P. crispus
+and L. salicaria, but this may reflect introduction
+vectors (human habitation and recreation) more
+than hydrology per se.
+Analysis of relationships between plant richness
+or total cover and presence or dominance by individual
+taxa revealed several important themes. One
+theme was that not all exotic taxa had negative impacts,
+and that comparisons to common native taxa
+provided useful perspective. A second was that
+there appeared to be systematic differences among
+patterns of emergent vegetation compared to submerged
+and floating-leaf vegetation. A third was
+that the whole-wetland scale did not reliably identify
+taxonomic interactions, while the inundatedsegment
+scale did so effectively.
+There is strong evidence in the literature for negative
+impacts on other vegetation from emergent
+exotic/invasive Typha, P. australis, and P. arundinacea
+(Gaudet and Keddy 1995, Galatowitsch et al.
+1999, Green and Galatowitsch 2002, Lavoie et al.
+2003, Zedler and Kercher 2004), and also from L.
+salicaria (Blossey et al. 2001, Morrison 2002; but
+see Farnsworth and Ellis 2001, Hager and Vinebrooke
+2004). Consistent with this literature, we
+found dominance by these taxa to be associated
+with elevated emergent cover and reduced emergent
+genera richness, making them monotype dominants
+in the Frieswyk (2005) scheme. Typha, P. australis,
+P. arundinacea, and L. salicaria were also common
+enough that negative impacts due to their dominance
+could be widespread. In contrast, Lavoie et
+al. (2003) found little evidence for reduced plant
+richness with dominance by B. umbellatus in St.
+Lawrence River wetlands, and we never found B.
+umbellatus dominant at all, even though this
+species is considered a nuisance in its native Eurasia
+(Hroudova et al. 1996).
+There is little published information concerning
+effects of submerged exotics in wetlands. P. crispus
+and M. spicatum are considered nuisance species in
+shallow lakes, but reductions in their abundance
+over time from nuisance levels (monotype dominance)
+to coexistence with other taxa (matrix dominance
+in the Frieswyk 2005 scheme) have often
+been noted (Nichols 1994, Galatowitsch et al.
+1999). Our inundated-segment data suggests that M.
+spicatum currently operates as a matrix dominant in
+the Great Lakes (no negative impacts on richness or
+cover), and we found very few cases of dominance
+by P. crispus or N. minor at all.
+Taxonomically related or common native taxa
+provided a useful benchmark for judging the status
+of exotic/invasive species. For submerged taxa, the
+fact that we were able to detect richness and cover
+differences in association with dominance by some
+natives reassured us that finding no such effects for
+exotic taxa was not because we lacked power to detect
+them. In the case of emergent taxa, we also
+found genera richness decreases in association with
+dominance by some natives that are not considered
+invasive (e.g., Glyceria, Sagittaria), in accord with
+similar findings by Houlahan and Findlay (2004).
+These comparisons remind us that the degree of impacts
+matter; effects of invasive/exotic emergents
+on richness and cover were larger in magnitude (in
+box plots) than for common native taxa.
+Examining patterns for native as well as
+exotic/invasive taxa also revealed systematic differences
+between submerged/floating-leaf and emergent
+plants in patterns of richness and total cover.
+Most submerged and floating-leaf taxa were more
+likely to be present at segments having higher richness
+and total cover; low richness and cover characterized
+areas where wave and current exposure or
+poor water clarity deterred plant establishment. In
+contrast, emergent cover was high in most inundated
+segments (turbidity or wave/current exposure
+reduce the extent of the emergent zone more than
+its density, Trebitz et al. 2005) and richness or
+cover did not differ between segments where individual
+emergent taxa were present versus absent.
+Stuckenia pectinata was one of the few submerged
+species surviving in turbid waters, and we believe
+that richness and total cover tended to be lower
+when S. pectinata was dominant because it dominated
+by default in turbid locations rather than because
+S. pectinata actually had negative impacts on
+other submerged plants.
+All negative associations of exotic taxa with
+plant richness or cover that we found were at the
+scale of inundated segments; we found fewer and
+only positive associations using data aggregated to
+the wetland scale. This is consistent with other em
+pirical studies in the Great Lakes region (25 m2
+plots—Lavoie et al. 2003, and 1 m2 plots—
+Frieswyk 2005; versus whole-wetland data—
+Houlahan and Findlay 2004) and confirms models
+showing that exotic/invasive taxa can be negatively
+correlated with native richness or diversity on small
+spatial scales but positively correlated over larger
+spatial scales (Byers and Noonburg 2003, Fridley et
+al. 2004). Our rapid-survey method, which simply
+assessed plant absence, presence, or dominance
+across relatively large segments of inundated wetland,
+produced results consistent with studies using
+more time-intensive quadrat data or stem counts.
+Our results suggest that rapidly obtained shoreline-
+wide abundance scores for Stuckenia pectinata,
+Phragmites australis, Typha, and Lythrum salicaria
+can be summed into an effective indicator for anthropogenic
+impacts related to agriculture. The categories
+on which the 0 to 3 scale scores were based
+(absent, a few individuals, common as part of
+mixed plant community, often dominant) are qualitative
+but readily assigned. Since mature specimens
+of P. australis, Typha, and L. salicaria are identifiable
+from tens of meters away and S. pectinata is
+distinctive among submerged species, the scores
+can be established with a fairly rapid wetland tour.
+In almost all of the instances where Frieswyk
+(2005) found Typha to be dominant in the
+Great Lakes it was exotic T. angustifolia or invasive
+T. ´ glauca so it seems reasonable to base an indicator
+on whether Typha is dominant or not without
+establishing which species it is. Omitting S. pectinata
+from the summed shoreline-wide abundance
+scores would eliminate the need for a boat and
+would more sharply focus the indicator on
+exotic/invasive plants, but at the expense of a reduced
+correlation with agricultural effects. The correlation
+of S. pectinata scores alone with
+AgChemPC1 was as high as the correlation of the
+summed scores for all three emergent taxa.
+Our study documents the presence of exotic M.
+spicatum and L. salicaria and invasive P. australis,
+P. arundinacea, and Typha in inundated areas of
+coastal wetlands throughout the Great Lakes basin;
+while exotic P. crispus, B. umbellatus, H. morsusranae,
+and N. minor were restricted to some subset
+of the lakes. Our 100 m inundated segments were
+large enough to describe substantial portions of the
+wetlands with a reasonable sampling effort yet
+small enough to capture local species interactions,
+making them a useful spatial scale at which to
+work. Among the exotic/invasive taxa, only emergent
+L. salicaria, P. australis, and Typha seemed to
+have nuisance characteristics (e.g., often dominant,
+associated with elevated cover and reduced richness
+of other plants). Submerged and floating-leaf exotic
+taxa were no more prone to high abundance or
+dominance or to negative associations with plant
+richness and total cover than were common native
+taxa. Exotic/invasive plants were more prevalent in
+the lower lakes where agricultural intensity levels
+were generally higher, and many exotic/invasive
+taxa tended to increase their frequency of occurrence
+or dominance as agriculture intensity increased.
+Dominance by native S. pectinata was also
+indicative of wetland anthropogenic impacts, since
+it was one of the few submerged plants to persist
+under high turbidity.
+Finding relationships between plant distributions
+and the agriculture intensity gradient is not sufficient
+to establish that the plants are responding
+specifically to nutrient loading. Various types of anthropogenic
+disturbance (e.g., loss of natural lands,
+row-crop agriculture, population growth, point
+source pollutants) tend to be correlated in the landscape
+(Detenbeck et al. 1999, Danz et al. 2007),
+and multiple types of disturbance can favor growth
+of exotic and weedy species over native perennials
+(e.g., Galatowitsch et al. 1999, Zedler and Kercher
+2004). Nevertheless, agricultural practices constitute
+a substantial portion of the stressor regime affecting
+wetlands across the Great Lakes (Crosbie
+and Chow-Fraser 1999, Danz et al. 2007). Distributions
+of some exotic/invasive aquatic plant taxa,
+whether measured with rapid indices such as our
+shoreline-wide scores or with more detailed taxonomic
+surveys, can be interpreted as both a response
+to and an agent of wetland disturbance.

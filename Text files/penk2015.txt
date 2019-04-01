@@ -1,0 +1,553 @@
+xabstract
+1. Biological invasions are a key element of human-induced global environmental change.
+However, lack of knowledge of the indirect consequences of invasions, combined with poor
+understanding of how their ecological effects depend upon competitive attributes of the
+receiving community, hinders our ability to manage and predict the effects of invasive species
+on ecosystems.
+2. We established an experiment using a combination of both additive and substitutive experimental
+designs to explore the effects of the globally spreading mysid shrimp Hemimysis
+anomala on the biological structure of outdoor pond mesocosms in the absence and presence
+of a functionally similar native competitor, Mysis salemaai.
+3. The naturally smaller H. anomala had considerably stronger effects on primary producers,
+multiple aspects of consumer assemblages and overall biological structure of the ponds in
+comparison with the functionally similar native. Moreover, the magnitude of these effects was
+generally independent of the presence of M. salemaai and even total mysid density. Hemimysis
+anomala reduced both the abundance and diversity of zooplankton assemblages significantly,
+triggering a strong trophic cascade on phytoplankton and a simultaneous increase of
+benthic invertebrate biomass. These findings indicate that invasion by H. anomala may exacerbate
+the effects of nutrient enrichment on lakes.
+4. Our results demonstrate that introduced species can, irrespective of the presence of functionally
+similar natives, induce complex changes to ecosystems that reach beyond direct consumptive
+effects. Moreover, the cascading indirect effects of invasion can exacerbate the
+impacts of other stressors. Disregarding the complexity of indirect effects therefore risks
+underestimating significantly the global ecological footprint of biological invasions.
+
+xintroduction
+Biological invasions are a prominent component of
+human-induced global environmental change (Vitousek
+et al. 1996; Mace et al. 2005) and have important implications
+for the functioning of ecosystems (Talley, Crooks &
+Levin 2001; Olden et al. 2004; Strayer 2009). Direct
+effects of invasive species on their resources or competitors
+can be dramatic and conspicuous (Dick & Platvoet
+2000; Hays & Conant 2007; Downing et al. 2012; Jackson
+et al. 2012). Such strong direct interactions likely have
+wider implications for biological communities, as indirect
+effects ripple through food webs (Terborgh & Estes 2010;
+Miller & terHorst 2012). However, lack of understanding
+of the indirect consequences of biological invasions comprises
+a key knowledge gap (Simberloff 2011). Thus, identification
+of whole-ecosystem impacts of invasive species,
+including their indirect effects, is crucial to improve
+understanding of, and the ability to predict, the consequences
+of invasion.
+As indirect impacts of invasive species are typically esti-
+mated from observational studies (e.g. Goldschmidt,
+Witte & Wanink 1993; Berger et al. 2001; Croll et al.
+2005; Ellis et al. 2011), understanding of overall impacts
+of invasive species on ecosystems is limited by uncertainty
+around underlying ecological mechanisms that determine
+invasion success. Experiments carried out at ecologically
+meaningful scales in realistic environments, which incorporate
+multiple trophic levels and varying competitive scenarios,
+are needed to elucidate underlying direct and
+indirect mechanisms at play. Better understanding of competitive
+interactions between invaders and functionally
+similar native species provide an important benchmark
+for assessing and predicting the consequences of invasion
+(van Kleunen et al. 2010; Dick et al. 2013a).
+Competitive pressure affects performance of species
+through resource limitation and interference (Chase &
+Leibold 2003). Functional redundancy in the receiving
+community might, therefore, be expected to moderate the
+ecological effects of introduced species (Massot et al.
+1994; Byers 2002). Thus, whereas functionally novel
+invaders can have particularly strong impacts on ecosystems
+(Anderson et al. 2006; Strayer 2009; Martin et al.
+2010), the presence of functionally similar native species
+could, perhaps, dampen impacts (Griffen et al. 2010).
+However, empirical evidence for this from real ecosystems
+is scarce. Understanding how impacts of invasive species
+are altered by competitive traits of the receiving community
+is a key to predicting impacts of single-species invasions,
+which is a prerequisite for advancing our
+understanding of multiple invasions.
+Inland waters are particularly prone to biological invasions
+(Ricciardi 2006; Jackson & Grey 2013), owing to
+their high connectivity and frequent exposure to multiple
+human interference (Rahel 2007; Strayer & Dudgeon
+2010). Mysid shrimp (Crustacea: Mysida) have a well-documented
+history of global introductions, frequently with
+pronounced impacts on their prey (Nesler & Bergersen
+1991). In brackish water and freshwater, representatives
+of this predominantly marine taxonomic order are relatively
+uncommon and thus tend to be taxonomically and
+functionally distinct (Mauchline 1980). In recent years,
+the Ponto-Caspian Hemimysis anomala G.O. Sars, 1907,
+has been spreading aggressively throughout Europe and
+North America, achieving rapid population growth rates
+(Audzijonyte, Wittmann & Vainola 2008; Marty et al.
+2010; Minchin & Boelens 2010). In its expanding range,
+other mysids are typically either absent or poorly represented
+(Wittmann & Ariani 2009; Minchin & Boelens
+2010; Ricciardi, Avlijas & Marty 2012). Thus, H. anomala
+tends to introduce a high degree of functional novelty,
+which likely enhances its invasion success. Simple twospecies
+microcosm studies suggest that it is a voracious
+predator of zooplankton (Dick et al. 2013b). However, its
+wider ecosystem-level impacts are unknown. Part of its
+distribution overlaps with the southern range limit of the
+larger shrimp Mysis salemaai Audzijonyte & Vainola
+(2005) (Minchin & Boelens 2010; Penk et al. 2015). Both
+mysid species have similar feeding ecology, consuming
+predominantly zooplankton with omnivorous subsidies
+(Ketelaars et al. 1999; Viherluoto et al. 2000; Borcherding,
+Murawski & Arndt 2006). They also exhibit the same
+nocturnal vertical migration pattern, redistributing from
+the benthos to the water column by night (Penk & Minchin
+2014). Their high functional similarity would, therefore,
+be expected to result in strong competition between
+the species where they co-occur.
+We established an experiment in outdoor pond mesocosms
+to examine the effects of H. anomala on ecosystem
+structure in the presence and absence of the functionally
+similar native M. salemaai. We tested whether the invader
+has stronger effects on its prey assemblages or overall
+biological community structure than the native species
+and whether these effects are moderated by competition.
+Our experimental design also included both substitutive
+and additive mixed-species polycultures to test whether
+the moderating effect of the native species is densitydependent.
+
+xmethods
+experimental design
+The experiment took place over 4 weeks in April 2012 in outdoor
+ponds (140 L; dimensions 75 9 55 9 34 cm) located in the
+grounds of the Department of Zoology, Trinity College Dublin,
+Ireland (53°20035″ N, 6°1506″W). Biological communities in the
+ponds were, therefore, exposed to natural environmental fluctuations
+for the duration of the experiment. The substratum in the
+ponds comprised a mix of pebbles, gravel, sand and mud to a
+depth of 5 cm. Approximately 10 cobbles were piled in a shaded
+area of each pond to provide anticipated daylight refugia for
+mysids within interstitial spaces. The ponds were filled with tap
+water [from Pollaphuca Reservoir (53°0900400N, 6°3200800W), pH:
+82, conductivity: 154 lS cm
+1] which was allowed to settle for
+4 days prior to colonization with biota to remove chlorine-based
+compounds. Throughout the experiment, water temperature in
+the ponds ranged between 6 and 11°C and dissolved oxygen concentrations
+always exceeded 115 mg L
+1. Hemimysis anomala
+and M. salemaai co-occur seasonally in the littoral zone of lakes
+(Penk & Minchin 2014) where the water column tends to be well
+mixed. Our experimental ponds aimed to mimic such habitat.
+Nevertheless, our mesocosms lacked many of the environmental
+gradients present in natural lakes, which could have altered the
+magnitude of the observed effects. We therefore placed key
+emphasis in our analyses on the relative effects of the invader in
+comparison with those of the functionally similar native, with an
+underlying assumption that any artefacts of our experimental setup
+would affect both shrimp species similarly.
+Our experimental design comprised five treatments, each replicated
+four times. Two of those treatments comprised monocultures
+of the native M. salemaai (M) and invasive H. anomala (H) at densities
+of four shrimps per pond, equivalent to 29 individuals m
+3.
+Two additional treatments contained both mysid species in equal
+proportions; in substitutive polyculture (MHsub), where total mysid
+density was equal to that in the monocultures (i.e. four shrimps per
+pond, 29 individuals m
+3) and in additive polyculture, where total
+mysid density was equal to the sum of that in the two monocultures
+(i.e. eight shrimps per pond, 58 individuals m
+3). Mysid densities
+used in our experiment were chosen to be consistent with densities
+found naturally in the field (Penk & Minchin 2014). In addition, a
+fifth treatment comprised ponds that contained no mysid species.
+Comparison of this latter treatment with each of the two monocultures
+enabled us to quantify individual effects of both H. anomala
+and M. salemaai on ecosystem structure. In polyculture, an additive
+combined effect of H. anomala and M. salemaai would be indicated
+by the substitutive polyculture (MHsub) exhibiting an effect
+similar to the mean of the two monocultures or, alternatively, by
+the additive polyculture (MHadd) exhibiting an effect equal to the
+sum of the two monocultures. Significant positive or negative deviations
+from additivity would indicate, respectively, synergistic or
+antagonistic interactions. Moreover, differences in the nature of
+these effects (i.e. antagonistic, additive or synergistic) between the
+substitutive and additive polycultures would indicate an effect of
+mysid density.
+We populated our ponds with equal volumes of well-mixed
+biota taken from the source lake of the water used in the experiment
+(Pollaphuca) and four additional lakes [Derravaragh
+(53°3700000N, 7°1703300W), Ennell (53°280060 0N, 7°2305500W),
+Gowna (53°5101600N, 7°3303900W) and Owel (53°3403000N,
+7°220060 0W)], cumulatively representing a wide range of conditions
+(conductivity: 90–430 lS cm
+1; total phosphorus: 10–
+45 lg P L
+1) and thus promoting establishment of diverse communities.
+The ponds were inoculated initially with planktonic and
+benthic algae. Four days later, benthic invertebrates and zooplankton
+(collected with, respectively, 500 and 63 lm mesh nets)
+were added at densities similar to those in the source lakes. We
+added each inoculum in a number of small aliquots rather than
+all at once, and we mixed inoculum each time it was sampled to
+minimize variability among aliquots. Furthermore, we assigned
+treatments to ponds at random to ensure that initial treatment
+conditions were unlikely to be affected in any systematic way.
+The mean (SE) richness of zooplankton and benthic invertebrates
+at the end of experiment was, respectively, 40  01 and
+195  08 taxa per pond, respectively, with densities of 55  06
+organisms L
+1 and 825  69 organisms m
+2. Adult individuals
+of M. salemaai [body length (mean  SE): 177  01 mm; biomass:
+421  07 mg] and H. anomala (114  02 mm, 227 
+11 mg) were collected from Loughs Oughter (54°0100400N,
+7°290150 0W) and Ree (53°2704500N, 7°550270 0) and added to the
+ponds where required for particular treatments. Owing to occasional
+mortality, over the course of the experiment, we replaced
+34% of the initial shrimp numbers with individuals of similar size
+to maintain shrimp densities in our experimental design.
+sampling and laboratory analyses
+Between 05 and 1 L of water sampled from mid-depth was passed
+through a 12-lm glass fibre filter (Whatman GF/C; GE Healthcare
+Life Sciences, Little Chalfont, UK) under a suction pressure
+of between 02 and 04 bar for subsequent determination of
+phytoplankton biomass. This was determined colourimetrically as
+chlorophyll a using a Hach DR5000 spectrophotometer (Du¨ sseldorf,
+Germany) after methanol extraction (Standing Committee of
+Analysts 1983). Biomass of benthic algae was quantified in situ as a
+mean of two measurements of chlorophyll a concentrations on an
+unglazed ceramic tile that was placed in each pond before initiation
+of the experiment. Evidence accumulated from numerous studies
+indicates that such tiles support the establishment of assemblages
+that are qualitatively similar to those on natural hard substrata
+(e.g. Sladeckova 1962; Clifford, Casey & Saffran 1992). These
+measurements were made with a handheld BBE Moldaenke BenthoTorch
+(Schwentinental, Germany) fluorometer, which has been
+demonstrated to provide reliable quantification of concentrations
+of total chlorophyll a in situ (Kahlert & McKie 2014).
+The densities of individual zooplankton taxa were quantified at
+the end of the experiment from ten 1 L aliquots taken at middepth
+from throughout each pond and filtered through a 250-lm
+sieve. Total zooplankton biomass was quantified from a sweep
+sample from entire ponds to downweigh the potential influence
+of weighing error. Densities of individual taxa and total biomass
+of benthic invertebrates were quantified from a sweep sample
+from entire ponds using a 1-mm mesh net after disturbing the
+substratum vigorously to dislodge organisms. Faunal biomasses
+were determined to the nearest 01 mg using Mettler Toledo
+B154-S (Greifensee, Switzerland) analytical balance. We used the
+Shannon–Wiener index (calculated using natural logarithms) and
+Pielou’s evenness, both calculated based on species abundances,
+as measures of the diversity of both zooplankton and benthic
+invertebrates.
+In addition to the final zooplankton and chlorophyll a analyses,
+we monitored the development of open-water assemblages in
+our ponds weekly. Zooplanktons were counted alive and then
+returned to the ponds, which limited accuracy of our estimates.
+Even though these intermediate zoo- and phytoplankton data
+showed some fluctuation, shrimp treatment effects were apparent
+1 week after the commencement of the experiment and their magnitude
+changed little over time (Fig. S1, Supporting information).
+data analyses
+Biomasses of four key components of the pond ecosystems,
+benthic primary producers (benthic algae), open-water primary
+producers (phytoplankton), benthic consumers (benthic invertebrates)
+and open-water consumers (zooplankton), were used as
+proxy measures of biomass production (e.g. Hooper et al. 2005)
+and, analysed together in a multivariate framework, as a measure
+of biological structure in our ponds. We used analysis of variance
+(ANOVA) to test for effects of experimental treatments on the biomasses
+of each of the four individual components of the pond
+ecosystems and on the densities, species richness and measures of
+diversity of consumers. Treatment contrasts were used to quantify
+standardized effect sizes (t ratios) of shrimp treatments in
+comparison with treatment with no mysids. The Student–Newman–
+Keuls procedure was used to make post hoc comparisons
+among levels of significant terms. All abundance and all biomass
+data with exception of benthic algae were loge-transformed for
+these analyses to ensure data homoscedasticity and normality.
+Treatment effects on overall biological structure and consumer
+community structure of the ponds were tested using permutational
+multivariate analysis of variance (PERMANOVA; Anderson,
+Gorley & Clarke 2008) with 9999 unrestricted permutations of
+raw data. These analyses were based on, respectively, Euclidian
+distance and Bray–Curtis similarity matrices, calculated from biomasses
+and species abundances. Key groups contributing to dissimilarity
+among significant pairs of treatments in PERMANOVA
+were identified using similarity percentage analysis (SIMPER;
+Clarke 1993). All abundance and biomass data were loge-transformed
+for these analyses to, respectively, downweigh the influence
+of highly abundant taxa and equalize the different scales of
+biomass measurements.
+We quantified the total interaction strengths between mysids
+and both benthic and open-water consumers and primary producers
+as the natural logarithm of the ratio of untransformed
+biomass of each of these components in each pond to their mean
+untransformed biomass in ponds without shrimp (Berlow et al.
+2004). This unitless measure of interaction strength reflects the
+net effect of both direct and indirect interspecific and intraspecific
+interactions of all mysids present in a pond. These were not
+expressed per capita because we could not partition the interaction
+strengths robustly between the two mysid species present in
+polyculture.
+A constant (x + 1) was added to abundances of each taxon to
+enable transformation of zero values. Univariate and multivariate
+analyses were performed using, respectively, R (Version 3.1.1, R
+Core Team 2014) and PRIMER
+ (Version 6.1.13, PRIMER-E Ltd.,
+Plymouth, UK). Mean values are given with their associated
+standard error throughout.
+
+xresults
+The biomass of phytoplankton (ANOVA; F4,15 = 124,
+P < 0001), benthic algae (F4,15 = 35, P < 005), zooplankton
+(F4,15 = 198, P < 0001) and benthic invertebrates
+(F4,15 = 33, P < 005) all varied significantly
+among our experimental treatments (Fig. 1). Phytoplankton
+biomass was significantly higher in both H. anomala
+and M. salemaai monocultures, compared with the noshrimp
+treatment, but the effect of H. anomala was over
+double that of M. salemaai (Fig. 1a). The effect of the
+substitutive polyculture was intermediate between the two
+monocultures whereas the effect of the additive polyculture
+was similar to that of the substitutive polyculture
+and H. anomala alone, indicating a non-interactive, additive
+effect of both species occurring together at the lower
+density but an antagonistic interaction at higher mysid
+densities (Fig. 1a). In contrast, the effect of the two mysid
+species on benthic algae biomass was significantly different
+and opposite to each other, with M. salemaai having
+a negative effect and H. anomala a positive effect
+(Fig. 1b). Further, all treatments that included M. salemaai
+contained a similar biomass of benthic algae, regardless
+of its abundance or the co-occurrence of H. anomala.
+Zooplankton biomass was reduced significantly in both
+H. anomala and M. salemaai monocultures compared
+with the treatment lacking shrimp (Fig. 1c). However, the
+effect of H. anomala was in excess of double that of
+M. salemaai. Further, all treatments with H. anomala,
+regardless of its density or the presence of M. salemaai,
+contained a similar biomass of zooplankton (Fig. 1c).
+Each of the density (ANOVA; F4,15 = 265, P < 0001),
+diversity (F4,15 = 99, P < 0001), evenness (F4,15 = 133,
+P < 0001) and multivariate structure (PERMANOVA;
+pseudo-F4,15 = 100, P < 0001) of zooplankton communities
+varied significantly among our experimental treatments
+(Fig. 2). Effects on zooplankton density were
+similar those on its biomass (Fig. 2a). Unlike the results
+for biomass, however, the effect of the additive polyculture
+on zooplankton density was stronger than all other
+treatments and similar to the sum of the two monocul-
+tures, indicating an additive effect of H. anomala and
+M. salemaai at higher densities (Fig. 2a).
+Zooplankton diversity and evenness were reduced significantly
+by the presence of H. anomala alone, irrespective of
+the presence or absence of M. salemaai or of the density of
+H. anomala (Fig. 2b,c). Zooplankton community structure
+differed significantly in both the H. anomala and M. salemaai
+monocultures compared with the no-shrimp treatment,
+but the effect of H. anomala was significantly stronger and
+double that of M. salemaai (Fig. 2d). Further, the effect of
+H. anomala was again independent of its stocking densities
+or the presence of M. salemaai. SIMPER analysis showed
+that all significant pairwise differences in zooplankton
+community structure among treatments were driven primarily
+by decreased density of the Daphnia hyalina-galeata
+group and Daphnia obtusa in all treatments containing mysid
+shrimp compared with the no-shrimp treatment, and in
+all treatments containing H. anomala, regardless of its
+abundance or co-occurrence of M. salemaai, compared
+with the treatment containing M. salemaai alone (Table S1
+and Fig. S2). The density of the calanoid copepod Eudiaptomus
+gracilis was only reduced significantly in additive
+polyculture, concurrent with a general depletion of Daphnia
+species, suggestive of mysids switching to a different
+prey at high shrimp densities (Fig. S2).
+Even though statistical comparison of the effects of
+H. anomala and M. salemaai on the biomass of benthic
+invertebrates was inconclusive, biomass of benthic invertebrates
+was nonetheless significantly greater in the treatment
+containing H. anomala alone compared with the
+treatment lacking mysids (Fig. 1d). This was not the case
+in ponds containing M. salemaai in monoculture or in
+any of the polycultures. Our experimental treatments
+had, however, no effect on the density (ANOVA;
+F4,15 = 03, P = 089), species richness (F4,15 = 08, P =
+053), diversity (F4,15 = 10, P = 044), evenness (F4,15 =
+033, P = 085) or multivariate structure (PERMANOVA;
+pseudo-F4,15 = 080, P = 080) of benthic invertebrate
+communities.
+The overall biological structure in our experimental
+ponds varied significantly among treatments (PERMANOVA;
+pseudo-F3,12 = 112, P < 0001; Fig. 3), with the effect of
+H. anomala in monoculture over double that of M. salemaai
+(Fig. 3a). Further, the effect of H. anomala was again
+independent of stocking densities or the presence of
+M. salemaai (Fig. 3a). These results were driven primarily
+by strong positive and negative effects on, respectively,
+phytoplankton and zooplankton biomasses in all treatments
+containing shrimp compared with the treatment
+without shrimp, and in all treatments containing H. anomala
+compared with the treatment containing M. salemaai
+alone (Fig. 3b). Foreguts of ten individuals of both mysid
+species selected randomly from experimental treatments at
+the end of the experiment (Fig. S3) contained a similar
+range of food items and included insect larvae (Chironomidae,
+Culicidae), zooplankton (Daphnia, Copepoda,
+Rotifera) as well as unicellular (Bacillariophyceae, Chlorophyta
+and Cyanobacteria) and filamentous algae.
+
+xdiscussion
+Our results show that the globally spreading invader
+H. anomala can alter the biological structure of pond ecosystems
+significantly, irrespective of its density or the presence
+of a functionally similar native species. The presence
+of H. anomala triggered a strong trophic cascade and
+altered the strength of benthic–pelagic coupling by
+increasing biomass of phytoplankton and benthic invertebrates,
+respectively. This demonstrates that introduced
+species can induce complex whole-ecosystem changes
+reaching beyond immediate consumptive effects. Disregarding
+the complexity of these indirect interactions therefore
+risks underestimating significantly the global
+ecological footprint of biological invasions.
+Whereas theory posits that the presence of functionally
+similar native species dampens the impacts of invaders,
+we found that not only the direct impact on prey assemblages,
+but also the whole-ecosystem effects of H. anomala
+were independent of the presence of M. salemaai or,
+indeed, overall mysid stocking densities. These findings
+provide, therefore, empirical evidence that strongly interacting
+invaders can affect ecosystems irrespective of the
+presence of functionally similar natives. However, we used
+a relatively simple set of competition scenarios, and thus,
+our results do not necessarily oppose outright the intuitively
+compelling, yet disputed, view that functional
+redundancy improves resistance against invasions (Stachowicz
+et al. 2002; Griffen et al. 2010). Nonetheless, our
+results suggest that the significantly greater interaction
+strengths of the invader compared with the native species
+in our ponds enabled the former to dominate the competitive
+interactions despite considerable functional similarity.
+Unlike the univoltine M. salemaai, the more active
+H. anomala has multiple broods in a single year and also
+has a higher brood size (Andrew & Woodward 1993;
+Borcherding, Murawski & Arndt 2006), which implies
+higher productivity and greater energy requirements. This
+asymmetry would likely predispose H. anomala to establish
+abundant populations in lakes that contain M. salemaai
+or other similar shrimp species (Audzijonyte &
+Vainola 2005) throughout the Northern Hemisphere.
+Hence, not accounting for such asymmetries in interaction
+strengths is likely to inflate uncertainty in predicting invasion
+success.
+Top-down trophic cascades have been associated mostly
+with vertebrate predators (Goldschmidt, Witte & Wanink
+1993; Reissig et al. 2006; Terborgh & Estes 2010; Estes
+et al. 2011), but we found that H. anomala predation on
+zooplankton triggered a cascading effect on phytoplankton.
+Whereas both shrimp species ingested microalgae,
+observed increases in phytoplankton biomass must have
+been driven by considerable reduction in grazing pressure
+as a consequence of the consumption of zooplankton by
+shrimp, which clearly overrode the direct consumptive
+effect of shrimp on phytoplankton. Concurrent with
+decreased zooplankton biomass, phytoplankton biomass
+more than doubled in the presence of H. anomala com-
+pared with treatments containing only the larger M. salemaai,
+and quadrupled compared to ponds with no mysids.
+These results demonstrate that the positive scaling of
+the weight-specific strength of trophic cascades with body
+size (DeLong et al. 2015) is not universal. While nutrient
+enrichment has been found previously to enhance the performance
+of introduced species (Gonzalez et al. 2010;
+Wikstrom & Hillebrand 2012), our results indicate that
+introduced zooplanktivores may, in turn, enhance the
+manifestation of eutrophication by increasing phytoplankton
+biomass further in nutrient-enriched systems. Moreover,
+the increased biomass of benthic invertebrates in
+ponds containing H. anomala, which are likely a consequence
+of a transfer of nutrients from open water to benthos
+via faecal pellets of shrimp, many of which we
+observed on the substratum, indicates that indirect
+impacts of invaders can radiate to other biota, not only
+within, but also among habitats.
+In contrast to M. salemaai, H. anomala reduced the
+diversity of open-water consumers significantly. Diversity
+is an important attribute of biological communities, which
+increases the available range of species-specific responses
+(Stachowicz et al. 2002). Thus, the impoverished diversity
+caused by the presence of H. anomola likely has important
+implications for ecological stability (Donohue et al. 2013)
+and a broad range of ecosystem functions (Hector &
+Bagchi 2007; Gamfeldt, Hillebrand & Jonsson 2008). Our
+results show that, where H. anomala was present, abundance
+of Daphnia was depleted severely relative both to
+ponds lacking mysid shrimps and those containing the
+ecologically similar M. salemaai (by 92% and 82%,
+respectively). Field observations concur with this finding
+(Ketelaars et al. 1999). Hemimysis anomala seems more
+active and is more aggressive than M. salemaai (Penk
+2014), which is conducive to, respectively, both higher
+prey encounter rates and probability of attack and could
+therefore result in higher predation rates. Single-prey
+studies found that the smaller H. anomala is a more efficient
+predator of Daphnia compared with M. salemaai
+(Dick et al. 2013b; Barrios-O’Neill et al. 2014), but it is
+not clear if this indicates stronger feeding specialization
+on zooplankton, higher overall energy consumption or
+both. Unlike H. anomala, M. salemaai was frequently
+observed in contact with substratum during our experiment
+and it may consume more benthic material compared
+with the invader. On the other hand, the higher
+reproductive output of H. anomala (Andrew & Woodward
+1993; Borcherding, Murawski & Arndt 2006) implies
+a higher energy requirement. Herbivorous cladocerans are
+an important link in trophic chains (Murtaugh 1981; Hanazato
+& Yasuno 1989) and their availability to secondary
+consumers is therefore likely to be jeopardized in the
+presence of H. anomala. Moreover, our results indicate
+switching of mysid feeding from Daphnia to the smaller
+and more nimble and hence energetically less beneficial,
+calanoid copepod prey in additive polyculture, concurrent
+with the depletion of Daphnia. Similarly, other planktivores
+are probably increasingly reliant on less beneficial
+prey in the presence of H. anomala, thus altering further
+trophic dynamics among consumers.
+Experimental manipulations in ecologically realistic settings
+are an invaluable tool for elucidating mechanisms
+underpinning both the success and consequences of biological
+invasions. Our ponds contained realistic levels of
+diversity and biomass of primary producers and invertebrate
+consumers, similar to those found in natural lake
+systems. Given the importance to our experimental design
+of maintaining constant mysid densities for the duration
+of the experiment, we did not introduce fish predators to
+our ponds. However, mysid densities in our experiment
+reflected natural densities in lakes with robust fish communities
+and were, therefore, representative of shrimp
+populations already structured by fish predation. Further,
+the presence of fish has been shown to subdue feeding of
+M. salemaai but not of H. anomala (Barrios-O’Neill et al.
+2014). It would, therefore, be expected that both direct
+and indirect effects of M. salemaai, but not H. anomala,
+would be suppressed in the presence of fish, thus magnifying
+the comparative impacts of H. anomala.
+Our results indicate that invasive species can induce
+complex whole-ecosystem changes reaching beyond immediate
+consumptive effects and that strongly interacting
+invaders can do so regardless of the presence of functionally
+similar natives. These findings highlight the need for
+experiments that quantify indirect effects of species to
+unveil the complete footprint of biological invasions.
+Moreover, they also point out that, when forecasting the
+success and ecosystem-level impacts of biological invasions,
+asymmetries between interaction strengths of invader
+and resident species with other biota should be
+considered in tandem with the degree of their functional
+redundancy.

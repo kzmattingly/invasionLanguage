@@ -1,0 +1,663 @@
+﻿xabstract
+We assessed the effects of the introduced
+bivalve L. fortunei on the abundance and
+biomass of associated benthic invertebrates in
+South American large floodplain rivers. The survey
+was based on comparisons of L. fortunei-covered
+and L. fortunei-barren areas in five artificial cages
+from where large predators were excluded, exposed
+to colonization by the mussel for a total of 17
+months in the lower Parana´ river delta. Accompanying
+invertebrates were dominated by Oligochaeta,
+Nematoda, Rotifera, Copepoda, Gastropoda,
+Hirudinea, Chironomidae and nauplii. Also present
+in minor numbers were Tardigrada, Turbellaria,
+Cladocera, Ostracoda, Insecta, Hydracarina
+and Decapoda. Dominant invertebrates were 27–
+100% more numerous (and hosted 43–100% more
+biomass) in areas with L. fortunei than in areas
+barren of the mussel. In areas with L. fortunei, total
+invertebrate biomass (excluding the bivalve) was
+positively correlated with mussel biomass, and
+increased with time of exposure under water. No
+such trend was observed in areas barren of L.
+fortunei. It is suggested that higher invertebrate
+growth is associated with enhanced substrate
+complexity and, probably, the transfer of organic
+matter from the plankton to the sediments due to
+the mussels’ feces and pseudofeces. Some of the
+adverse ecosystem-wide effects of filter-feeding
+invasive mussels observed in European and North
+American water bodies may be offset in the Parana´
+by the extremely high loads of organic matter in
+these turbid waters.
+
+xintroduction
+Limnoperna fortunei (Dunker, 1857), the Asian
+golden mussel, is an invasive freshwater species
+that shares several salient features with the zebra
+mussel, Dreissena polymorpha (Pallas, 1771),
+arguably the most influential animal to ever
+invade North American fresh waters (Thorp
+et al., 1998). Both have filter-feeding habits, are
+epifaunal and attach to hard substrates by means
+of a byssus, have fast growth rates and rapid
+dispersion by planktonic larvae (Boltovskoy &
+Cataldo, 1999; Boltovskoy et al., 2006; Karatayev
+et al., 2007, in press).
+Approximately 35 years after the first record of
+L. fortunei outside of its native area, in Hong
+Kong (Morton, 1979), and ca. 15 after it invaded
+South America (Pastorino et al., 1993), information
+on the biology and impact of this invader is
+slowly building up (see reviews in Darrigran,
+2002; Boltovskoy et al., 2006). Although research
+on L. fortunei is still in its infancy, investigations
+carried out so far have provided valuable information
+on the changes that are currently taking
+place in South American water-bodies in connection
+with this invasion. Trophic changes seem to
+be of particular relevance, since the filtering
+activity of these organisms leads to shifts in
+sedimentation rates, nutrient cycling and seston
+abundance and composition (Cataldo et al., 2005;
+Sylvester et al., 2005). On the other hand, higher
+trophic levels benefit from the additional resource
+represented by both planktonic larvae and benthic
+adults of the mussel (Montalto et al., 1999;
+Ferriz et al., 2000; Penchaszadeh et al., 2000;
+Garcı´a & Protogino, 2005; Boltovskoy et al.,
+2006; Sylvester et al., in press ). Similar ecosystem
+responses have been extensively reported in
+association with the invasion of European and
+North American fresh waters by D. polymorpha
+(Phelps, 1994; Gardner et al., 1995; Karatayev
+et al., 1997; Baker et al., 1998; Magoulick &
+Lewis, 2002).
+Among other effects, colonization by D. polymorpha
+has been associated with modifications in
+the composition and abundance of benthic assemblages
+to such extent that it has often been
+labeled an ‘‘ecosystem engineer’’ species (Karatayev
+et al., 1997). Similarities between the zebra
+and the golden mussel suggest that the latter may
+also be involved in major reorganizations of the
+benthic systems invaded, but so far direct evidences
+of this effect have been lacking. Darrigran
+et al. (1998) surveyed the fauna associated with
+Limnoperna beds at Bagliardi, on the coast of the
+Rı´o de la Plata estuary. However, this interesting
+investigation was chiefly aimed at tracking
+monthly changes in species richness and diversity
+of the fauna recorded together with Limnoperna,
+whereas comparisons with no-Limnoperna conditions
+were limited to a single pre-invasion sample,
+and absolute abundance and biomass were not
+reported.
+This work uses field experiments in order to
+assess the influence of L. fortunei on benthic
+invertebrates. Our main goal was tracing changes
+in invertebrate numbers and biomass, which in turn
+drive shifts in the fluxes of energy and matter and
+rearrangements in the structure of trophic webs.
+
+
+xmethods
+Experimental PVC cages covered by a plastic
+protective screen with 5 mm meshes (Fig. 1) were
+deployed on 6 November 2002 in the lower Parana´
+river delta, Argentina (3323¢55† S, 5835¢41† W).
+Cages were suspended from a pier (ca. 1 m below
+the surface, depending on tide and wind conditions,
+0.5 m above the bottom), and moored to the
+bottom by means of 20 kg weights. The experimental
+site has a freshwater tidal regime of
+approximately ±0.5 m, but wind-induced water
+level variations can occasionally increase this
+range to over 2 m for short periods.
+Five cages were retrieved 153 (first retrieval) to
+503 days (fifth retrieval) after deployment (see
+Table 1), and the accumulated overgrowth thoroughly
+removed with a sharp blade and preserved
+with 3% formaldehyde buffered with calcium
+carbonate. Extensive siltation was noticed in the
+last cage retrieved (on 23 March 2004).
+Colonization by L. fortunei of newly exposed
+surfaces is typically uneven, starting at the corners
+and extending from there to the center of the cage
+walls (Fig. 2). Thus, associated invertebrates were
+retrieved and stored separately from the area
+covered by L. fortunei and from that barren of the
+mollusc, and the corresponding surfaces were
+assessed. Samples were washed on a 70 lm screen
+in order to eliminate fine sediment and split into
+two fractions: >250 lm and < 250 lm. Major
+invertebrate groups were recognized in the samples,
+counted, and their biomass was estimated
+(see below). In the >250 lm fraction in most cases
+the entire sample was processed (identifications
+and measurements), whereas in the < 250 lm at
+least 50 individuals of each major taxonomic
+group, or at least half of the sample, were
+processed. Large samples were split with the aid
+of Folsom’s sample splitter (McEwen et al.,
+1954). At least 100 specimens of L. fortunei
+>1 mm and 100 < 1 mm were measured in each
+sample.
+Biomass of Turbellaria, Nematoda, Ostracoda,
+Decapoda, and Hydracarina was assessed on the
+basis of their biovolumes according to Feller &
+Warwick (1988). Size-weight relationships were
+employed for Copepoda (Dumont et al., 1975),
+Gastropoda (Eckblad, 1971), Chironomidae larvae
+(Mason, 1977), Ephemeroptera larvae (Johnston&
+Cunjak, 1999), Cladocera, and nauplii (Bottrell,
+1975). For Rotifera we measured 172 individuals in
+two size-classes, and used simple geometric shapes
+for volumetric estimates, whereas for Hirudinea
+biovolumes were assessed by means of water
+displacement in a graduated cylinder (Feller &
+Warwick, 1988). For most groups wet to dry weight
+conversions were based on a factor of 0.12 (Dumont
+et al., 1975), exceptingNematoda (0.25), Hirudinea
+(0.20) and Chironomidae (0.20) (cf. Feller & Warwick,
+1988). For Oligochaeta we used our own
+estimate (0.15; based on 2000 specimens collected
+on two different retrieval dates). In all cases a
+specific density of 1.13 g cm–3 was assumed (Feller
+&Warwick, 1988).
+Biomass of L. fortunei was assessed by means
+of a size to tissue dry-weight regression, empirically
+derived from 138 specimens 2 to 30 mm long
+collected in the area of the survey. For mussels
+<2 mm biovolume to biomass conversions were
+employed.
+The exposed surface of mussel beds was
+estimated as the added surfaces of the intervening
+shells minus 20% (to account for the fraction in
+direct contact with the substrate or with other
+mussels that is not available for invertebrate
+colonization; Stewart et al., 2003). Shell surface
+values were assessed on the basis of measurements
+of 41 specimens 4 to 32 mm in size (for
+smaller mussels simple geometric shapes were
+used as a proxy), and a length-surface regression
+was applied to the length frequency distribution
+data available for each sample.
+The effects of the presence/absence of L.
+fortunei and time on the densities and biomass
+of other invertebrates was analyzed with a twoway
+ANOVA without replicates. Since musselcolonized
+and mussel-barren areas sampled at any
+one date are part of a single framework, temporal
+differences are not actually independent from
+spatial ones; thus, our discussions on seasonal
+trends are restricted and largely provisional. Nonadditivity
+of the first four sampling dates was
+confirmed with Tukey’s test (for the last one the
+sampling design was not balanced). One-tailed P
+were calculated whenever results were in the
+expected direction (i.e. more invertebrates with
+than without L. fortunei); otherwise two-tailed
+tests were used. Whenever parametric assumptions
+could not be fulfilled, correlation and
+regression analyses were performed with the aid
+of Spearman’s non parametric techniques.
+
+xresults
+L. fortunei densities varied from around 45,000 to
+290,000 ind. m–2 (157 to 387 g tissue dry weight
+m–2), which is around the normal range reported
+for South American invaded water bodies (Boltovskoy
+& Cataldo, 1999; Darrigran & Damborenea,
+2005; Fig. 3; Table 1).
+In order of decreasing numerical importance,
+accompanying invertebrates were represented by
+Rotifera (dominated by Lecane bulla, with
+smaller numbers of L. stenroosi, Collotheca sp.
+and various unidentified species of Monogononta
+and Bdelloidea), Oligochaeta (dominated by Nais
+variabilis and N. communis; Dero sawayai, Slavina
+evelinae, Pristina osborni, D. nivea, N. pardalis,
+Slavina isochaeta and Pristina aequiseta were also
+found), Nematoda, Copepoda (dominated by
+Harpacticoida and some Cyclopoida including
+Macrocyclops albidens albidens and Eucyclops
+agilis), Chironomidae (dominated by Chironominae
+and with a smaller contribution of Tanypodinae),
+Tardigrada, copepod nauplii, Turbellaria,
+Gastropoda (dominated by Heleobia piscium),
+Hirudinea (Helobdella adiastola, H. hyalina and
+Haementeria eicchorniae), Ostracoda (Podocopina
+sp.), Cladocera, including benthic (Camptocercus
+sp. and Alona sp.) and planktonic
+(Bosmina hagmanni) species, other insects
+(chiefly Ephemeroptera, Caenidae), Hydracarina,
+and a single specimen of Tanaidacea (Crustacea)
+(Table 1). However, not all groups were recorded
+in adequate numbers for quantitative analyses.
+Thus, Oligochaeta, Nematoda, Rotifera, Copepoda,
+Gastropoda, Hirudinea, Chironomidae and
+nauplii were present in most samples and usually
+had large numbers of individuals. These eight
+groups (hereafter called ‘‘dominant’’) showed
+most consistent distribution patterns and allowed
+reliable assessments of the influence of L. fortunei
+on their populations. They represented around
+97% of all non-bivalve invertebrates recorded in
+the cages (both in terms of numbers and in
+biomass). On the other hand, Tardigrada, Turbellaria,
+Cladocera, Ostracoda, Insecta, Hydracarina
+and Decapoda (hereafter called ‘‘scarce’’)
+were recorded more sporadically and their abundance
+trends had a more erratic behavior, at least
+partly due to their low occurrences and abundances.
+Temporal profiles for both total invertebrate
+abundance and biomass (exluding the bivalve) in
+areas with and without L. fortunei were generally
+parallel (Tukey’s test, P = 0.200 and 0.728 respectively),
+but total invertebrate numbers and biomass
+(exluding the bivalve) were significantly
+higher in areas with mussels than in those barren
+of them (Table 2). Despite the fact that differences
+between sampling dates were non-significant
+(Anova, two-tailed significances; numbers:
+P = 0.161; biomass: P = 0.172), for the areas with
+L. fortunei there was a positive relation between
+total invertebrate biomass (excluding the bivalve)
+and days of underwater exposure (linear regression:
+P = 0.043; R2 = 0.79; biomass = 62.002 +
+0.993 days of exposure; non-transformed data).
+On the other hand, the same comparison for areas
+barren of L. fortunei yielded non-significant
+results (P = 0.768; R2 = 0.05).
+When considering isolated taxa (rather than all
+invertebrates in bulk), neither abundance nor
+biomass followed a common trend through time
+(Fig. 3; Table 1). Oligochaeta and nauplii exhibited
+a progressively growing trend, whereas for
+the other taxa no general pattern was found. For
+most groups temporal profiles of abundance and
+biomass did not differ significantly in areas with
+and without mussels (Tukey’s test, P > 0.05), with
+the exception of Nematoda and Turbellaria,
+whose densities differed significantly (P < 0.001
+and P = 0.047, respectively).
+Comparison of mean invertebrate densities and
+biomass throughout the survey period shows that
+all dominant groups had markedly higher values
+in the areas colonized by L. fortunei, as compared
+with those barren of the mussel. Barren areas
+hosted 0% (Hirudinea) to 73% (Chironomidae)
+of the densities present in the areas with L.
+fortunei (0 to 57% in terms of biomass). For
+Nematoda, Copepoda, nauplii, Oligochaeta, Rotifera
+and Chironomidae these differences were
+significant (numbers and/or biomass) at the 95%
+level (Fig. 4; Table 2). Scarce groups had a more
+erratic behavior. Many were totally absent from
+areas barren of L. fortunei (Insecta, Hydracarina,
+Decapoda), or were present in only 1 of the 4
+samples analyzed (Tardigrada, Turbellaria,
+Cladocera) (Table 1). Four of these 7 scarce
+groups were, on average, more abundant in areas
+colonized by L. fortunei that in those barren of
+the mussel, yet other three showed the opposite
+behavior (Fig. 4; Table 2).
+All abundance and biomass estimates presented
+so far were calculated on the basis of
+substrate surface area. However, one may argue
+that in areas with L. fortunei the surface area that
+is actually offered for invertebrate colonization is
+the surface area of the mussel bed, rather than
+that of the substrate under the mussels. We
+estimated that the presence of the mussels leads
+to an increase in the area potentially available for
+colonization of over three times, as compared
+with that of the barren substrate alone. When
+invertebrate biomass is calculated as a function of
+surface area available for colonization (either
+valve or barren substrate), differences between
+mussel bed and mussel-barren areas are non
+significant for all associated invertebrate groups,
+as well as for all non-bivalve invertebrates in bulk.
+In terms of the numbers of groups present on
+each sampling date, substrates with Limnoperna
+yielded slightly higher values (10–13, mean: 11.50)
+that those without the mussel (8–9, mean: 8.25).
+
+xdiscussion
+Our results indicate that L. fortunei has enhancing
+effects on the density and biomass of all
+groups of associated invertebrates for which we
+have reliable data. On average, areas with Limnoperna
+hosted around 67% more of these
+invertebrates than areas barren of the mussel
+(numbers and biomass). Leeches and sails were
+among the organisms which benefited the most
+from the presence of the mussel, with increases
+around 80–100%. Lowest differences were those
+recorded for chironomid numbers (only 27%
+more in Limnoperna-colonized areas), and nematode
+biomass (43%).
+The fact that benthic, byssate, bivalves enhance
+the abundance, biomass (and diversity) of the
+invertebrate fauna associated with their beds has
+been extensively documented for D. polymorpha.
+This effect has been detected in both comparative
+analyses of natural assemblages with and without
+zebra mussels (e.g., Silver Botts et al., 1996;
+Haynes, 1997; Strayer et al., 1999; Bially &
+MacIsaac, 2000), and in field experiments under
+controlled conditions (Silver Botts et al., 1996;
+Thayer et al., 1997; Stewart et al., 1998a, b, 1999;
+Kuhns & Berg, 1999). Most of these surveys were
+conducted in lentic systems, but the few carried
+out in flowing waters also arrived at similar results
+(Ricciardi et al., 1997). Observed increases in the
+abundance of benthic invertebrate organisms in
+association with D. polymorpha beds range from
+38% to over 90% (Silver Boots et al., 1996;
+Haynes, 1997; Ricciardi et al., 1997; Stewart
+et al., 1998a, b; Kuhns & Berg, 1999; Bially &
+MacIsaac, 2000). In terms of biomass, increases as
+high as 99% have been reported (Thayer et al.,
+1997; Stewart et al., 1998a, b; Stewart et al.,
+1999). It should be noticed that there also are
+some reports pointing at the opposite effect: that
+the presence of D. polymorpha has a negative
+impact on the invertebrate fauna (e.g., Nalepa
+et al., 1998; Lozano et al., 2001; Strayer & Smith,
+2001), yet the overwhelming majority of the
+surveys do not support this conclusion.
+The increase in the abundance, biomass and
+diversity of benthic invertebrates as a response to
+mussel beds has been commonly attributed to
+improved food availability provided by the mussel’s
+feces and pseudofeces, and enhanced habitat
+resources and shelter from predators (Silver Botts
+et al., 1996; Thayer et al., 1997; Stewart et al.,
+1998a, b, 1999; Kuhns & Berg, 1999). Because the
+cages used in our work were protected with 5 mm
+plastic screens, higher invertebrate densities in
+association with Limnoperna cannot be attributed
+to enhanced protection from fish predators. On
+the other hand, exposure to smaller predators, for
+which the 5 mm screen does not represent a
+barrier, does not seem to differ significantly
+between areas with and without Limnoperna.
+Thus, higher invertebrate densities do not seem to
+respond to enhanced protection form predation.
+Protection from predators is but one of the
+potentially beneficial effects of a broader range of
+conditions derived from increased substrate complexity.
+Indeed, substrate complexity provides
+additional area structuring thus creating new
+microhabitats and maximizing space usage. Vertical
+buildup of the Limnoperna bed adds a new
+dimension to the benthic environment available
+for colonization. Furthermore, structurally complex
+substrates are more efficient at buffering
+physical strains like wave and current action, thus
+facilitating the retention of fauna and food in the
+system (Klerks et al., 1996; Stewart et al., 1999
+and 2003). Although abundance/biomass enhancements
+in areas colonized by Limnoperna (with
+respect to those barren of the mussel) are roughly
+proportional to the increase in available surface
+represented by the valves of the intervening
+bivalves (see above), we contend that the mechanisms
+involved are not associated with a simple
+increase in the colonizable surface. Indeed, almost
+none of the invertebrates recorded are sessile
+organisms whose growth could be limited by the
+availability of substrate for settling. Almost all
+crawl around actively, and it is the crevices under
+an between the mussels, rather than the surfaces of
+their valves, the new setting most likely to boost
+their densities (Stewart et al., 2003).
+The extra supply of organic matter represented
+by the mussels’ feces and pseudofeces has often
+been found of major importance for the growth of
+fauna associated with the mussel beds (e.g.,
+Ricciardi, 1998; Gonza´ lez & Downig, 1999;
+Greenwood et al., 2001). Ancillary information
+derived from our data does not seem to support
+this relationship. For example, because the volume
+of feces and pseudofeces produced by a
+mussel bed grows with the mussels’ biomass, one
+could expect higher biomasses of L. fortunei to be
+responsible for larger invertebrate populations;
+such a relationship is not present in our samples.
+However, our experimental design was not aimed
+at separating the influences of substrate complex-
+ity from organic matter enrichment, and the
+results recorded are most probably a combined
+outcome of both effects (Stewart et al., 1998a;
+Bially & MacIsaac, 2000).
+Supply of organic matter by feces and pseudofeces
+would primarily benefit deposit-feeding
+animals, such as oligochaetes, gastropods, as well
+as some rotifers, leeches and copepods. However,
+a stronger increase among these, as compared
+with the predators, cannot be used as evidence of
+the effects of feces and pseudofeces on the
+assemblages because predators would also increase
+in response to a larger supply of depositfeeding
+preys. Our results agree with this insofar
+as there do not seem to be clear cut differences in
+the increases of the different trophic groups of
+associated invertebrates.
+In addition to increases in abundance and
+biomass, golden mussels seem to promote larger
+invertebrate sizes. Comparison of the mean sizes
+of oligochaetes, chironomids and gastropods in
+areas with and without Limnoperna indicates that
+the former are always larger than the latter
+(paired t-tests, P < 0.001 in all cases). It is
+conceivable that this effect reflects differences in
+competition for refuge in the unstructured, Limnoperna-
+barren areas, versus the highly structured
+Limnoperna-populated ones (Stewart et al.,
+1999). Interstitial habitats between bivalve shells
+can be preferred by the fauna for being predationsafe.
+Smaller individuals of some benthic species
+have been observed to be inter-specifically outcompeted
+from such safer positions by larger
+sizes, that consequently dominate (Stewart et al.,
+1999). This type of segregation can be both intraand
+interspecific. In the present work the larger
+gastropod H. piscium was proportionally more
+abundant in mussel-populated areas, whereas
+smaller morphotypes (Planorbidae) dominated
+in areas without mussels.
+Admittedly, direct extrapolation of these results
+to natural conditions should be done with
+caution. The smooth surface of the artificial
+substrates used, PVC panels, do not have a closely
+comparable counterpart in nature. It is probable
+that the rough surface of naturally available hard
+substrates, such as rocks, wood debris and plant
+roots, host higher invertebrate densities than
+those recorded on the barren PVC plates. However,
+we contend that the main trends found in this
+survey are so strong and consistent that even a
+somewhat weaker effect than the one found under
+these artificial conditions would be significant
+enough to affect the ecosystem profoundly.
+As shown in Fig. 3, in areas colonized by
+Limnoperna total invertebrate biomass (excluding
+the bivalve) increased gradually from early
+autumn (April 2003) through late summer (March
+2004), in agreement with the increase in the
+biomass of the mussel. This growth in invertebrate
+biomass was positively and significantly
+correlated with exposure time under water
+(R2 = 0.79). Invertebrate numbers also generally
+followed the same trend, with the exception of the
+last retrieval date, when overall densities were
+lower than 3 months earlier (Fig. 3). However,
+comparison of the bars in Fig. 3 may be deceiving
+because overall density differences between the
+last two retrieval dates reflect the numeric dominance
+of a single very abundant taxon: the
+rotifers, which dropped from ca. 200,000 ind. m–2
+in December 2003 to 40,000 ind. m–2 in March
+2004 (Table 1). Indeed, with the exception of the
+rotifers and chironomids, all other invertebrates
+(6 taxa out of a total of 8) were more abundant in
+March 2004 than in December 2003 (Table 1).
+As in the areas with Limnoperna, the temporal
+evolution of invertebrate colonization in areas
+barren of Limnoperna grows between the first
+and the second retrieval dates, but from there on
+the profiles differ strongly insofar as in the latter
+no further increases in biomass are observed,
+numbers changing erratically among retrieval
+dates (Fig. 3). These trends are similar to those
+observed by other authors in association with the
+zebra mussel (e.g., Silver Boots et al., 1996;
+Strayer et al., 1999), suggesting that that substrates
+with and without mussels have different
+carrying capacities of accompanying invertebrates,
+and that barren substrates saturate earlier.
+The effects of introduced bivalve populations on
+the ecosystems derive mainly from their high
+filtering activity. Filtration processes at the river
+bottom lead to benthic-pelagic coupling that in
+turns drives changes at other levels of aquatic
+ecosystems. Thus, in addition to changes in the
+benthic fauna, many other effects have been
+described, including increase in water clarity,
+enhanced macrophyte growth, acceleration of
+sedimentation rates, alteration of nutrient cycling,
+drops in phytoplankton and zooplankton abundances
+and consequent alterations of higher
+trophic levels, etc. (Phelps, 1994; Caraco et al.,
+1997; James et al., 1997; Karatayev et al., 1997;
+Baker et al., 1998; Pace et al., 1998; Strayer et al.,
+1999). Filtration rates of the golden mussel are as
+high, or even higher, than those of the zebra
+mussel (Sylvester et al., 2005), and its densities in
+the South American water bodies invaded can
+reach values as high as 150,000 ind. m–2 (Darrigran
+2002; Boltovskoy et al., 2006). This, and the
+results presented herein, indicate that Limnoperna
+exerts a very strong influence on the systems
+invaded. It is likely that the cascading effect of its
+direct impacts on the plankton (Cataldo et al.,
+2005; Sylvester et al., 2005), on the bottom fauna
+(this work), and on fish larvae (Paolucci et al.,
+2005), is responsible for Argentina’s 300%
+increase in the freshwater fish landings of the last
+decade (Boltovskoy et al., 2006).
+Strayer & Smith (2001) and Strayer et al.
+(2004) suggested that the impact of the zebra
+mussel upon riverine ecosystems is not determined
+solely by what happens at the mussel bed,
+but it can also impact over distant habitats by
+increasing water transparency and altering planktonic
+communities, sedimentation rates, and
+nutrient cycling in the entire system. These
+authors concluded that the increase in invertebrate
+numbers in association with exotic bivalves,
+that has commonly been the outcome of many
+similar works, occurs basically at mussel beds,
+whereas away from these invertebrate numbers
+are depressed and the overall effects on the
+benthos and on fish production (in the Hudson
+river) are negative.
+However, there are important differences
+between the Hudson river and the Parana´ -
+Uruguay-Rı´o de la Plata watershed which may
+lead to dissimilar consequences of the invasion
+by exotic filter-feeding bivalves. Fish of the
+Hudson river, in particular the native species,
+are mostly planktivorous, and therefore do not
+benefit directly from zebra mussels as food,
+while they are negatively impacted by competition
+with the mussels for plankton (Pace et al.,
+1998; Strayer & Smith, 2001). In contrast, the
+South American river system invaded by Limnoperna
+hosts an abundant fish fauna that
+intensely preys on the entire golden mussel size
+range (Montalto et al., 1999; Penchaszadeh
+et al., 2000; Paolucci et al., 2005; Sylvester et al.,
+in press). Plankton in these waters is scarce
+(Boltovskoy et al., 1995; de Cabo et al., 2003),
+and planktivorous species are accordingly exceptional
+(Agostinho et al., 1997), the entire system
+being driven by detrital sources of energy. Thus,
+deposit feeding fishes that cannot consume
+Limnoperna directly can still benefit from the
+enrichment of sediments with organic matter due
+to the mussel’s production of feces and pseudofeces
+(Thayer et al., 1997), and to the
+enhancement of invertebrate densities in association
+with mussel beds (Thayer et al., 1997;
+Kuhns & Berg, 1999; this work). Because South
+American rivers host few native filter-feeding
+organisms, of which only Corbicula fluminea can
+occasionally be abundant, we contend that
+before the arrival of Limnoperna benthic-pelagic
+coupling mechanisms were few and weak. As
+much as 2,000,000 tn of particulated organic
+carbon carried downriver are flushed into the
+sea each year (Depetris & Kempe, 1993; Guerrero
+et al., 1997). With the appearance of
+L. fortunei part of this organic matter is intercepted
+and modified into a form available to
+organisms that cannot feed on small particles,
+like many benthic invertebrates and fishes (Boltovskoy
+et al., 2006).
+It should be stressed that both the populations
+of invasive species, and their effects on the
+ecosystems invaded, including densities of associated
+benthic invertebrates, are dynamic and
+often depend on time after colonization. In
+Europe and North America zebra mussels
+have been observed to peak strongly shortly
+after colonization, but then decline significantly
+until stabilizing at relatively low levels,
+their impact decreasing accordingly as well
+(Karatayev, 1994; Haynes et al., 1999). In other
+cases, however, zebra mussel population densities
+did not change once they reached a
+maximum (Burlakova et al., in press). Since the
+golden mussel invaded South America around
+1990 (Pastorino et al., 1993), and for Dreissena
+post-peak declines were observed around 10–
+15 years after initial colonization (Karatayev,
+1994; Karatayev et al., 1997), Limnoperna’s
+densities in the system are probably already
+stable. Future shifts in its impact may be
+expected from the time-lag it takes other
+populations to adjust to the invader, and to
+the fact that Limnoperna is still very actively
+moving north up the Parana´ river system (e.g.,
+Avelar et al., 2004), and invasion of the Amazon
+basin seems only a question of time
+(Boltovskoy et al., 2006). Thus, even if locally
+the impact of the species may wane somewhat,
+globally it will most probably keep growing.
+Much research needs to be done before we
+can fully understand and acceptably quantify
+the impacts of Limnoperna on large South
+American floodplain rivers. Previous work has
+shown significant direct interactions with fishes
+(Sylvester et al., in press), which may account
+for the strong increase in freshwater fish catches
+since ca. 1994 (Boltovskoy et al., 2006). The
+results of the present survey reinforce previous
+conclusions pointing at additional biotic
+enhancements of trophic pathways driven by
+the invasive mussel. While confirming some of
+the early predictions of the potential impact of
+this species on the system invaded (e.g., Ricciardi,
+1998; MacNeill, 2001), our results also
+point at strong dissimilarities with the effects of
+Dreissena polymorpha in Europe and North
+America. These differences seem to largely
+respond to environmental contrasts between
+the systems invaded, rather than to dissimilarities
+between the species involved.

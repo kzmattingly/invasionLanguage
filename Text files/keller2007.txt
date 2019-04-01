@@ -1,0 +1,528 @@
+xabstract
+Oriental weatherloach (Misgurnus anguillicaudatus), a
+benthic freshwater fish species native to East Asia, was first recorded in
+Australian freshwater systems in 1984. Although this species is widely
+established around the world, very little is known about its potential
+impacts as an invader. We gathered field data to parameterise a
+mesocosm experiment investigating the impacts of Oriental weatherloach
+in Southeastern Australia. During this experiment, Oriental weatherloach
+caused significant reductions in macroinvertebrate numbers and biomass.
+Additionally, Oriental weatherloach were associated with elevated
+ammonia, nitrate/nitrite (NOx), and turbidity levels. Because of issues
+involved in scaling up mesocosm experiments we are not able to
+conclusively determine that Oriental weatherloach are having large
+impacts in natural systems. Our results come from mesocosms designed
+to mimic natural conditions, however, and they thus indicate that
+ecological impacts may be occurring, and underline the need for further
+research and control.
+xintroduction
+Invasive species have greatly altered freshwater ecosystems
+worldwide, with impacts including loss of
+biodiversity (Moyle & Leidy 1992; Allan & Flecker
+1993; Richter et al. 1997), reduced ranges of native
+species (e.g., Townsend 1996), introduction of parasites
+(e.g., Dove & Ernst 1998; Bond 2005) and
+habitat changes (e.g., Bially & MacIsaac 2000). These
+impacts are likely to continue for the foreseeable
+future, with nonindigenous species predicted to be the
+single greatest driver of global biodiversity loss in
+lakes, and the third greatest in streams, over the next
+century (Sala et al. 2000).
+Approximately 34 nonindigenous freshwater fish
+species are established in Australia (Lintermans 2004).
+Although little has been published regarding the
+impacts of these species, it is known that brown trout
+(Salmo trutta) can exclude the native mountain
+galaxias (Galaxias olidus) and change invertebrate
+communities in streams (Fletcher 1986); carp (Cyprinus
+carpio) can increase turbidity and the prevalence
+of algal blooms in billabongs (King et al. 1997); and
+mosquitofish (Gambusia holbrooki) prey heavily upon
+small native fish (Howe et al. 1997; Ivantsoff 1999).
+Thus, introduced freshwater fish are having large
+impacts on Australian freshwater ecosystems, but their
+overall impacts are not well understood (Koehn &
+MacKenzie 2004).
+Oriental weatherloach (Misgurnus anguillicaudatus)
+are a small (£20 cm total length) bottom-dwelling
+fish native to East Asia, from Russia in the north,
+through Korea, Japan, China, Vietnam and into Burma
+(Berg 1962). They feed by taking sediment into their
+mouths and filtering out food items, with barbels
+around the mouth helping to sense prey (Watanabe &
+Hidaka 1983). In their native range Oriental weatherloach
+inhabit both lotic and lentic systems and are
+particularly prevalent in rice paddies where their
+activity uproots weeds, and where they are thus considered beneficial by rice farmers (Kim et al.
+1994). The first record of Oriental weatherloach
+establishment beyond their native range is in Hawaii,
+where they were released by migrants sometime before
+1906 (Maciolek 1984). Oriental weatherloach are also
+a popular aquarium fish, and releases from this
+industry have led to their establishment in the USA
+sometime prior to the 1950s (Courtenay 1997), the
+Philippines (Welcomme 1984), Germany (Freyhof &
+Korte 2005), Mexico (Contreras & Escalante 1984)
+and Palau (Maciolek 1984). This worldwide range
+continues to expand, as evidenced by the 1999
+discovery of a new population in Washington State,
+USA (Tabor et al. 2001). Recent collections from
+Washington State indicate that this population has
+either spread 35 km in 2 years or that another
+population has become established nearby (R. Tabor,
+US Fish and Wildlife Service, personal communication).
+Despite their long history as a non-native
+species, however, there are no published investigations
+of Oriental weatherloach impacts.
+From the early 1960s until their sale was banned in
+1986, Oriental weatherloach were imported to Australia
+by the aquarium industry at a rate of up to 50,000 per
+year (Koster et al. 2002a). The first confirmed
+naturalised population of this species was discovered
+in the Yarra River, Victoria, in 1984 (Allen 1984).
+Subsequent introductions and population range expansions
+have lead to Oriental weatherloach now being
+established in up to 12 river systems in Victoria, four
+river systems in the Australian Capital Territory and four
+river systems in New South Wales (Fig. 1; Koster et al.
+2002a). A small population was found in Queensland,
+and this was successfully eradicated in 1990 (Koster
+et al. 2002a). Given that Oriental weatherloach populations
+in Australia are now widespread, and considering
+that there is currently no known way to eliminate
+large populations, Oriental weatherloach should be
+considered a permanent part of the Australian fauna.
+We conducted field surveys and a mesocosm
+experiment to investigate the impacts of Oriental
+weatherloach in Australian freshwaters. Field surveys
+were brief, and were conducted to determine whether
+habitat associations, maximum population densities
+and diet of this species are similar in Southeastern
+Australia to other regions where Oriental weatherloach
+have been studied in the field. Results from these
+surveys informed the design and parameterisation of a
+mesocosm experiment that examined the direct effects
+of Oriental weatherloach feeding on invertebrate communities, and their effects on water column
+turbidity, nutrient content and phytopigment mass.
+Our first hypothesis for the mesocosm experiment was
+that Oriental weatherloach feeding would reduce
+population size and biomass of benthic invertebrates,
+which are known from other studies to be their main
+prey. Additionally, we hypothesised that Oriental
+weatherloach would increase turbidity and water
+column nutrients through bioturbation and excretion.
+In all cases, we hypothesised that impacts would be
+positively related to Oriental weatherloach density.
+xmethods
+Two creeks (Mullum Mullum Creek, Ringwood, and
+Merri Creek, Coburg) and one pond (Jells Park,
+Wheelers Hill) in the Melbourne metropolitan area
+were each surveyed in early March and May, 2000.
+Surveys were conducted using a backpack electrofisher
+(model 12B; Smith-Root, Vancouver, WA, USA)
+and hand nets when appropriate. All habitats along
+approx. 500 m reaches were sampled for each creek,
+with the exception of some pools (<5% of total
+habitat) in Merri Creek that were too deep to safely
+electrofish. All electrofishing surveys were single pass,
+except when specific habitats were targeted (see
+below). Hand nets were used in Jells pond because
+the water was too turbid to see fish as they responded
+to the electroshocker. Captured Oriental weatherloach
+were killed on site with an overdose of benzocaine
+(ethyl-p-aminobenzoate) (Schreck & Moyle 1990).
+We were specifically interested in maximum densities
+of Oriental weatherloach so that we could create
+mesocosm treatments representing the range of natural
+densities. Densities were estimated by dividing the
+number of fish captured in a habitat by an estimate of
+the area sampled. In creeks, we sampled all pools,
+riffles and backwaters. Estimated densities were higher
+in muddy backwaters than other habitats, so, for
+efficiency, we concentrated our sampling in backwaters.
+We found the same pattern during the May
+sampling period when highest densities were also
+found in muddy backwaters. Again, we concentrated
+our sampling on these habitats. These backwaters were
+small and we could thus conduct the equivalent of
+multiple pass electrofishing. To do this we would fish
+the area once, wait several minutes and then repeat.
+Numbers captured during the second pass were always
+low (£30% of total fish caught). Because we had to drag
+hand nets through mud to capture fish in Jells pond it
+was not possible to estimate densities for this habitat.
+To determine whether Oriental weatherloach feed in
+the same way in Southeastern Australia as in Japan
+(Watanabe & Hidaka 1983), we removed the entire gut
+tracts of 36 captured fish. Invertebrates in these
+samples were quantified to the lowest possible taxonomic
+level. Plant material, such as macrophytes,
+algae and diatoms, was also searched for and identified
+at this level, using a compound microscope when
+necessary. Chironomid, ostracod and oligochaete body
+parts were prevalent in Oriental weatherloach guts, but
+quantifying actual consumption for these taxa is not
+straightforward. Chironomid head capsules and ostracod
+valves decompose slowly and could be ingested as
+Oriental weatherloach forage for other food. To reduce
+the risk of overcounting these taxa, we only counted
+ostracods when the valves were found connected, and
+chironomids when some soft tissue remained attached
+to the head capsule. These were considered indications
+that the invertebrates had been consumed alive.
+Oligochaetes are rapidly digested in fish guts and the
+only evidence of their consumption is the presence of
+setae. We recorded the presence of setae, but made no
+attempt to quantify abundance. We interpret the
+presence of setae cautiously because, as for chironomid
+heads and single ostracod valves, they could be
+inadvertently ingested as Oriental weatherloach feed.Based on our survey results, we conducted our
+mesocosm experiment during autumn/winter when
+realistically sized mesocosms could represent the cool
+season habitat of this species. To ensure that the
+habitat was also realistic, we introduced a muddy
+substrate to the mesocosms. Twelve outdoor mesocosms
+(1.4 ∑ 0.5 m), placed on the ground, were filled
+to a depth of 10 cm with sediment from a local pond.
+Tap water was added to give a total depth of 25 cm.
+Mesocosms were left undisturbed for 2 weeks to allow
+invertebrates (mostly oligochaetes, chironomids and
+ostracods, see Results) introduced with the sediment to
+settle.
+Two densities of Oriental weatherloach (one and
+three fish per tub or 1.4 and 4.3 fish∆m)2
+, respectively)
+were established and each replicated four times. Four
+mesocosms were retained as controls (0 fish∆m)2
+), and
+the experiment ran undisturbed for 67 days beginning in
+mid-May, 2000 (see below). Treatments and sampling
+order were randomly assigned, and mesocosms were
+covered with shade cloth to prevent the entry of detritus.
+This experiment was conducted in the Jock Marshall
+Reserve at Monash University, Clayton campus.
+Although water temperatures in the mesocosms were
+not measured they would have closely tracked air
+temperature because mesocosms were placed on the
+ground and thus had a large exposed surface area.
+Average 24-h air temperature maxima and minima
+during the experiment were, respectively, 15.4 and
+9.1 C (http://www.bom.gov.au).
+The 16 fish used in the mesocosm experiment were
+captured from Mullum Mullum Creek and allowed to
+acclimate at the Jock Marshall Reserve for 2 weeks
+prior to the experiment. They ranged in length from
+101 to 171 mm (mean ± SD º 126 ± 21 mm) and
+were randomly assigned to the treatment mesocosms.
+We divided each mesocosm into 64 separate grid
+cells, and used this grid to locate sampling sites.
+To ensure that no cell was sampled twice, all sampling
+sites for each mesocosm were randomly assigned
+(without replacement) before the experiment began.
+To determine the effects of Oriental weatherloach
+feeding on invertebrates we took eight sediment
+cores (depth º 5 cm, diameter º 4.7 cm, volume º
+86.7 cm3
+) before fish were added, and again at the end
+of the experiment. Samples were washed through a 250-
+lm sieve and all invertebrates removed live. Invertebrates
+were preserved in 70% ethanol and later counted
+and identified. Initial cores were taken between 15 and
+25 May 2000, and the final cores between 20 and 30 July
+2000. After identification, all invertebrates were dried in
+a 60 C oven and aggregated by treatment and sampling
+time. Change in weight from before the experiment to
+the final samples was taken as an indication of total
+biomass change during the experiment.
+Because all mesocosms were covered with shade
+cloth they were isolated from aerial recruitment of
+invertebrates. This is unlikely to have affected results
+as chironomids are the only such group found in
+large numbers, and winter recruitment by this family
+is rare. Also, because all mesocosms were covered in
+shade cloth no treatment-level bias could be introduced.
+Water samples were taken from each mesocosm at
+the end of the experiment, but before the final
+invertebrate cores were removed. Turbidity in each
+water sample was determined using a HACH Model
+2100A turbidimeter (HACH Company, Loveland, CO,
+USA). Samples were also analysed for nitrate and
+nitrite (NOx-N), soluble reactive phosphorus (SRP-P)
+and ammonia-N concentrations using Flow injection
+analysis (Lachat QuickChem 8000, Lachat Instruments,
+Loveland, CO, USA).
+An additional 100 ml of water was collected from
+each mesocosm the day before the experiment ended
+for chlorophyll analysis. Chlorophyll a and phaeophytin
+levels in each sample were quantified using a
+spectrophotometer according to standard methods
+(APHA 1995). Total phytopigment (chlorophyll a
+plus phaeophytin) mass was established using the
+Lorenzen (1967) equations.
+Data analysis
+Direct effects of Oriental weatherloach feeding (i.e.,
+effects on invertebrate numbers and biomass) were
+analysed by one-way anova. Proportional change
+from before samples to after samples was used as the
+dependent variable, with treatment as the independent
+variable (4.3, 1.4 or 0 fish∆m)2
+). Repeated measures
+anova was not appropriate because initial invertebrate
+densities varied among tubs (see Results). Tukeyís test
+was used to test for significant differences between
+paired treatments, and log10(x+1) transformations were
+used in each analysis to meet anova assumptions. Our
+analysis of proportional change assumes a correlation
+between before and after samples. To test this
+assumption we conducted correlations of the total
+number of invertebrates observed between the beginning
+and the end of the experiment for each treatment
+level.
+Chlorophyll and water quality samples were only
+taken at the end of the experiment. In each of these
+cases we assumed that no significant differences
+existed among treatments before the experiment
+because tub treatment was randomly assigned. Thus,
+we analysed these results with one-way anova. Any
+pre-existing differences would have added noise to the
+analyses, and would thus make our tests conservative
+(i.e., less likely to find a significant result).
+
+xresults
+Oriental weatherloach were found in all habitats (riffle,
+pool, backwater) surveyed during March, with highest
+estimated densities occurring in backwaters. From
+sampling approximately 20 backwaters in Mullum
+Mullum and Merri creeks, we found densities to be in
+the range of 1ñ5 fish∆m)2
+, and most commonly
+(50% of backwaters) 2ñ3 fish∆m)2
+. During the May
+sampling period Oriental weatherloach were overwhelmingly
+captured as they came out of fine
+sediments in muddy backwaters (again, approximately
+20 backwaters sampled), at densities of 2ñ7 fish∆m)2
+,
+and most commonly in the range (60% of backwaters)
+of 4ñ5 fish∆m)2
+. Similar densities have been
+recorded elsewhere in Australia. During single-pass
+electrofishing surveys of cobble and silt substrate in
+the urban Ginninderra Creek (Australian Capital
+Territory) during the late 1980s and early 1990s,
+Mark Lintermans (unpublished data) regularly captured
+Oriental weatherloach at densities of 3ñ5 fish-
+∆m)2
+. The seasonal pattern observed during our
+surveys is also consistent with previous surveys
+(Sterba 1962; Lintermans 1993). Importantly, we note
+here that Oriental weatherloach do not float when
+shocked and are therefore difficult to catch relative to
+other fish species. Densities of captured fish should
+thus be considered minimum estimates of true densities.Thirty-six Oriental weatherloach were examined for
+gut contents. Nine of these were caught during March
+2000 in Jells Park pond, and all contained chironomids,
+ostracods, gastropods and cladocerans. Additionally,
+large numbers of oligochaete setae were
+present in all nine of these fish. The remaining Oriental
+weatherloach were captured during May 2000, in
+Mullum Mullum and Merri creeks. Nineteen of these
+fish had no identifiable invertebrates in their guts, and
+the remaining eight had small numbers of chironomids
+and/or mites (£18 invertebrates per fish). Twelve of the
+27 fish captured during May also contained oligochaete
+setae. No other material was found in Oriental
+weatherloach guts during either season in quantities
+that would suggest it was a food source. Additionally,
+we observed that most fish caught during May had
+fatty deposits around their heart, liver and gut. For fish
+caught during all seasons <10% of the total number of
+chironomids and ostracods were discarded because of
+concerns about whether they were alive when
+consumed (see Materials and methods). These results
+suggest that feeding rates are much higher when water
+temperature is high. Average temperatures of Dandenong
+Creek, a creek near our sampling sites, was
+18.6 C during the March (warm) sampling, and
+11.7 C during the May (cool) sampling (http://
+www.vicwaterdata.net).The mean number of macroinvertebrates in each
+before sediment core ranged from five to 18. Across
+all mesocosms, oligochaetes made up 59% of total
+invertebrates, chironomids 31% and ostracods 10%.
+Other taxa made up less than 1%. At the end of the
+experiment the number of invertebrates in each core
+(averaged for each mesocosm) ranged from five to 38,
+with oligochaetes making up 62% of the total across
+mesocosms, chironomids 13% and ostracods 25%.
+Again, other taxa accounted for <1% of total
+invertebrates sampled.
+Oriental weatherloach densities were significantly
+negatively related to changes in numbers of total
+macroinvertebrates, and the high-density fish treatment
+significantly reduced chironomids compared to
+the low density and control treatments (Fig. 2).
+Proportional change in ostracod and oligochaete
+numbers was not significantly related to treatment,
+although each showed a decreasing trend as fish
+density increased. Macroinvertebrate dry mass was
+significantly reduced as Oriental weatherloach densities
+increased (anova P º 0.009, three-fish treatment
+significantly lower than both control and one-fish
+treatment with Tukeyís test). Total numbers of invertebrates
+between before and after sampling were positively correlated in the three-fish (Pearsonís
+r º 0.90) and one-fish (r º 0.57) treatments, while
+there was a weak negative correlation (r º )0.15) for
+the control mesocosms. This final correlation was
+influenced by a low range of initial values (range of
+average animals per core for each control mesocosm
+º 7ñ11 vs. 5ñ18 and 5ñ17, respectively, for the
+one-fish and three-fish treatments) meaning that there
+was low power to detect the expected positive
+correlation if it existed. The expected difference may
+also have been swamped by relatively small variations
+in the consistently large increases in invertebrates in
+the control mesocosms. Finally, we note that although
+the control mesocosms did not conform to our
+expectation of positive correlations, they did clearly
+show the hypothesised release from weatherloach
+predation.
+Nitrogen in the form of both ammonia-N and NOx,
+and water turbidity, increased significantly with Oriental
+weatherloach density (Fig. 3). SRP-P levels
+(Fig. 3) and total phytopigment mass (P º 0.64) were
+not dependent on treatment.
+xdiscussion
+In mesocosms designed to mimic natural conditions
+Oriental weatherloach reduced population sizes of
+their macroinvertebrate prey relative to fishless controls.
+In addition, mesocosms with Oriental weatherloach
+had higher water column nitrogen and turbidity
+levels than fishless controls. These impacts were found
+during cool months at Oriental weatherloach densities
+known to occur in local freshwater systems. To our
+knowledge this is the first study to investigate the
+impacts of this species. Although there are issues
+involved in extrapolating mesocosm results to natural
+systems (see below), our results demonstrate that
+nonindigenous populations of Oriental weatherloach
+may be altering macroinvertebrate communities. This
+could have many impacts, including depriving native
+fish species of food resources.
+Gut analysis of fish captured from Jells Park pond
+confirms that, as elsewhere, Oriental weatherloach are
+benthic and interstitial predators of macroinvertebrates.
+The food sources available to Oriental weatherloach
+in the mesocosms matched this profile, and
+populations of chironomids, and of total macroinvertebrates,
+were significantly reduced in treatment
+mesocosms relative to fishless controls. Although
+ostracod and oligochaete populations were not signi-
+ficantly reduced, each showed the expected trend of
+reduced populations as fish density increased. Overall,
+the total number of invertebrates in control mesocosms
+increased to three times its starting value over the
+67 days experiment, while in the high-density tubs the
+number of invertebrates declined during the same period (Fig. 2). If this magnitude of impact is also
+observed in creeks and ponds we believe it would
+negatively impact other organisms relying on this food
+source.
+The mesocosm experiment looked at a number of
+indirect ecosystem effects of Oriental weatherloach
+activity and found that some of these may be
+important. First, we found that the treatment mesocosms
+had higher turbidity relative to control mesocosms,
+most likely as a result of fish foraging
+behaviour. Second, Oriental weatherloach treatment
+mesocosms had elevated water column NOx-N and
+ammonia-N levels relative to control mesocosms. As
+with turbidity, it is likely that increased mixing of
+sediment with the water column is responsible for the
+elevated NOx, as this mixing would release nitrogen in
+this form. The elevated ammonia-N, however, is more
+likely to be a result of Oriental weatherloach excretion.
+In contrast to turbidity and nitrogen levels, water
+column SRP-P and total phytopigment mass were not
+affected by fish density.
+Our mesocosm experiment has shown that, in terms
+of turbidity and nitrogen levels, Oriental weatherloach
+have a similar impact on water quality to carp
+(Cyprinus carpio) (Breukelaar et al. 1994; King et al.
+1997; Robertson et al. 1997). Robertson et al. (1997)
+also showed increased algal production in the presence
+of carp, but were unable to definitely explain its
+cause. In our experiment algal growth was not limited
+by nitrogen availability because it did not respond to
+increased nitrogen levels in the treatment mesocosms.
+Instead, it may have been limited by phosphorus
+availability or the relatively low light conditions
+caused by the season (autumn/winter) and shade
+cloth.
+The mesocosm experiment was conducted during
+cooler months, and simulated Oriental weatherloach
+densities that our field surveys found to be common
+during this season. Our gut analysis results, and results
+from other studies (Naruse & Oishi 1996) indicate that
+Oriental weatherloach are more active and feed at a
+greater rate during summer, and it is thus possible that
+impacts in summer would be greater than was seen in
+our experiment. However, further research will be
+needed to determine how summer impacts compare
+with those found by this study. In particular, it is
+possible that increased invertebrate production in
+summer would swamp the effects of Oriental weatherloach
+feeding. This may be particularly true for
+chironomids, which do not recruit during the months
+that the mesocosm experiment was performed. It is
+also possible that Oriental weatherloach are more
+vulnerable to capture in winter because they are
+concentrated in small backwaters. Again, we emphasise
+the need for further research on the seasonal
+behaviour and impacts of this species.
+While our results suggest significant Oriental
+weatherloach impacts, three caveats associated with
+mesocosm studies need to be considered. First,
+animals confined to mesocosms may be released
+from predators and/or competitors and thus show
+greater rates of feeding. For the present study, this
+would lead to increased effects on invertebrate
+numbers and increased effects of bioturbation.
+Second, there may be fewer refugia for invertebrates
+in mesocosms than in natural habitats, thus offering
+fewer opportunities to escape predation. Third,
+mesocosms are isolated from natural systems and
+thus experience different disturbance and flow
+regimes relative to natural systems. Disturbances
+such as floods may swamp any impacts of Oriental
+weatherloach on invertebrates, and the effect of flow
+in creeks may change the pattern of impacts,
+particularly in terms of turbidity and nutrients.
+These effects would be less in standing waters,
+where Oriental weatherloach are also commonly
+found. We consider it likely that Oriental weatherloach
+effects on turbidity and nutrient levels would
+be important in standing waters, but the effects in
+streams require more study. In any case, increasing
+nitrogen levels in urban aquatic ecosystems is not
+desirable. It is more difficult to interpret the
+mesocosm results in terms of invertebrate populations,
+but our results clearly support further investigation
+of Oriental weatherloach impacts, preferably
+at larger spatial scales.
+The invasion of Australian freshwaters by Oriental
+weatherloach is at an intermediate stage; the species is
+now a permanent part of the Australian fauna, and its
+range is likely to continue expanding. Although there
+is some concern about this species, as evidenced by
+their eradication from a stream in Queensland (Koster
+et al. 2002a) and a recent management plan for the
+species in the Murray Darling Basin (Koster et al.
+2002b), Oriental weatherloach has not yet been
+conclusively shown to have impacts in natural
+systems. Our mesocosm experiment represents the
+only experimental assessment of possible impacts, and
+suggests that Oriental weatherloach may alter macroinvertebrate
+communities and water quality in lakes
+and streams. These results emphasise the need for
+further research, and until more results are available
+we suggest that efforts to restrict the spread of this
+species continue.

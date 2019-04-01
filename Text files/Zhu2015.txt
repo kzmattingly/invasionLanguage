@@ -1,0 +1,487 @@
+xabstract
+European frogbit (Hydrocharis morsus-ranae L.) is an invasive floating plant that negatively affects
+native plants in freshwater ecosystems. We conducted a field mesocosm experiment in Oneida Lake, New York
+(USA), to study the effect of frogbit cover on macroinvertebrates and to test the effects of 2 physical control
+methods, hand pulling and shading, on macroinvertebrate assemblages. We used HesterñDendy samplers and
+Ekman grabs to collect surface/phytophilous and benthic macroinvertebrates. Metrics including density of different
+types of organisms, total abundance, taxon richness, and Simpsonís diversity index were compared between
+control methods. Frogbit cover had significant positive effects on mollusk density, amphipod density, taxon
+richness, and Simpsonís diversity in the HesterñDendy surface samples. Sites with frogbit had significantly fewer
+benthic worms and more chironomids (HesterñDendy bottom samples) and possibly higher diversity of benthic
+macroinvertebrates (Ekman samples). These data suggested that frogbit had positive effects on surface and phytophilous
+macroinvertebrates and may change population density and increase diversity of benthic macroinvertebrates.
+Hand pulling and shading did not affect macroinvertebrates except that amphipod density in surface
+water was significantly lower in shading sites. Therefore, from the perspective of minimizing effects on the macroinvertebrate
+communities in the lakes, hand pulling is preferable over shading for controlling frogbit.
+
+xintroduction
+Invasive plants often outcompete native species in aquatic
+ecosystems, thereby changing the structure and function
+of the invaded plant communities (e.g., Randall and Marinelli
+1996, Coombs et al. 2004, Zhu et al. 2006, Zhu and
+Georgian 2014). In addition, the estimated annual economic
+loss caused by invasive aquatic plants is on the order
+of $US10 million, and >$US100 million dollars are
+spent on their control each year in the USA (Pimentel et al.
+2005).
+European frogbit (Hydrocharis morsus-ranae L.) is an
+invasive floating aquatic plant in North America and is
+often found in calm, shallow areas of freshwater ecosystems
+(Roberts et al. 1981). Its small kidney- or heartshaped
+leaves (1.5ñ6.5 cm long) have elongated stalks (4ñ
+6 cm long) and occur in clumps, forming a bouquet-like
+rosette (Catling et al. 2003). European frogbit is an aquatic
+perennial that propagates primarily by vegetative means.
+It can negatively affect native plants by obstructing light
+and may affect animals by displacing food plants and altering
+dissolved O2 concentrations (Catling et al. 2003,
+Zhu et al. 2008). The species can block navigation channels,
+irrigation ditches, and water-intake pipes, and can
+reduce aesthetic and recreational value of water bodies,
+thereby decreasing tourism and real-estate values (Catling
+et al. 2003). Therefore, effective control methods are
+needed to manage this invasive plant. However, the specific
+effects of frogbit and different control methods on
+macroinvertebrates have not been investigated to date.
+All control techniques have advantages and disadvantages,
+and disadvantages can include adverse environmental
+effects (Madsen 1997). For example, physical control
+methods, such as water drawdown, may be effective in the
+short term but adversely affect native species. Chemical
+herbicides may have strong effects on nontargeted species
+and could lead to resistance in the targeted plants (Richardson
+2008). In previous studies, we tested 2 physical
+methods to control this speciesóhand pulling and shading
+with shade cloth. Shading effectively removed frogbit
+(Zhu et al. 2014), whereas hand pulling was effective only
+with frequent action (BZ, unpublished data). Shading may
+be a feasible choice for controlling frogbit because it grows
+in sheltered areas where few recreational activities occur,
+and the method is relatively time and cost efficient (Zhu
+et al. 2014). Shading requires only preparation, placement and retrieval of shade cloth, and the shade cloth is inexpensive
+and available commercially. It works best for monotypic,
+or nearly monotypic, stands of frogbit, which are
+often found in the natural aquatic ecosystems. However,
+how implementation of the 2 control methods affect the
+ecosystem remains unclear.
+Our objectives were to: 1) investigate the effects of frogbit
+on macroinvertebrates, and 2) assess the effects of hand
+pulling and shading on macroinvertebrate communities.
+We hypothesized that macroinvertebrate communities in
+sites without plants would differ from communities in or
+under frogbit beds. We also hypothesized that macroinvertebrate
+communities in or under frogbit beds would
+change after plant control was applied and that the changes
+would depend on the control method. We focused on macroinvertebrates
+because they are standard bioindicators
+for water quality and ecosystem health (e.g., Weigel et al.
+2002, Lencioni et al. 2012). Benthic macroinvertebrates
+live in the upper layers of sediments and are good indicators
+of water quality because they remain in areas suitable
+for their survival and differ in their tolerance to water
+conditions (Covich et al. 1999, Lencioni et al. 2012). Abundance
+and richness of sediment- and plants-associated
+macroinvertebrates typically are greater among aquatic
+plants than in unvegetated habitats (Feldman 2001). However,
+Zhu et al. (2008) observed significantly reduced dissolved
+O2 (DO) levels under high-density beds of frogbit
+in Oneida Lake. Therefore, we expected that benthic macroinvertebrate
+diversity would be reduced because of decreased
+DO but that the density of some surface and phytophilous
+taxa might increase in the presence of frogbit
+because of more food or habitat. We also expected that
+hand pulling and shading to remove frogbit would negatively
+affect surface and phytophilous organisms and that
+the effect of control measures on benthic invertebrates
+would depend on the control method. We predicted that
+hand pulling would benefit benthic invertebrates because
+of increased light and DO, whereas shading would reduce
+benthic macroinvertebrate diversity because of decreased
+light and DO
+  
+xmethods  
+Study site and experiment design
+Oneida Lake is the largest inland lake in New York
+State, with a surface area of 207 km2, a mean depth of
+6.8 m, and a maximum depth of 16 m (Mills et al. 1978).
+Frogbit occurs in the northwestern bays of the lake, and
+density has reached 500 plantlets/m2 (Zhu et al. 2008).
+We established 12 experimental plots in a small channel
+at the Big Bay of Oneida Lake (lat 43.25∞N, long 76.11∞W;
+Fig. 1A, B) to conduct our field mesocosm experiments.
+Experimental plots were defined with 1- ◊ 1-m polyvinyl
+chloride (PVC) pipe squares set floating on the surface,
+anchored with concrete blocks to the bottom of the lake,
+and labeled and kept afloat with buoys. Water depth in
+each plot was <1.5 m, and all plots were in areas protected
+from wind and waves and with minimal boat traffic.
+Bottom substrate was largely a mixture of fine sediments
+and decaying plant matter, with an abundance of
+woody debris and submerged macrophytes, and with emergent
+(mostly arrowhead Sagittaria sagittifolia) and floating
+plants (frogbit) near the shoreline. Vegetation was relatively
+evenly distributed along the shoreline and, therefore,
+should have affected macroinvertebrates similarly in all experimental
+plots. Current in the channel was very slow to
+nonexistent, and the channel was wide enough that it was
+mostly exposed to the sun, with little canopy cover from
+shoreline vegetation. Given the similar experimental conditions
+in this small experimental area (Fig. 1B), we assumed
+the benthic macroinvertebrate community in the channel
+was relatively homogenous (e.g., Gotelli and Colwell 2001).
+We randomly assigned 9 experimental plots to 1 of 3
+treatments (untreated, hand pulling, and shading) and selected
+3 additional plots without frogbit (plants-absent).
+The plants-absent sites were fairly open, with sparse vegetation,
+and were situated closer to the middle of the channel
+than the frogbit plots (all sites closer to shore had
+frogbit). We maintained the plants-absent sites by removing
+all floating European frogbit that drifted into those
+sites at the same time that we removed frogbit from the
+hand-pulled sites. We compared the plants-absent sites
+with sites covered by frogbit (a space-for-time approach) to address whether frogbit invasion affects macroinvertebrate
+communities. Untreated, hand pulling, and shading
+sites had similar frogbit cover (80ñ90%) at the beginning
+of the experiment. Untreated sites were covered with
+frogbit and were not subjected to either control method.
+We manually removed all frogbit monthly at hand pulling
+sites, and we covered shading sites with 100% shade cloth
+(i.e., no light penetration; International Greenhouse Company,
+Georgetown, Illinois). We initiated hand pulling and
+shading control methods on 15 June 2009 and continued
+until 9 October 2009.
+Macroinvertebrate sampling and identification
+We assessed differences between the macroinvertebrate
+assemblages in areas with and without frogbit and effects
+of hand pulling and shading on the macroinvertebrate
+community by comparing density of each invertebrate
+group, total abundance, taxon richness, and Simpsonís
+diversity index (Findlay et al. 1989) among the 4 treatments:
+plants-absent (no established frogbit), untreated (established
+frogbit, no control method), hand pulling, and
+shading.
+We used 2 methods, HesterñDendy samplers and Ekman
+grabs, to collect macroinvertebrates to ensure that
+we included as many organisms as possible. The Hesterñ
+Dendy samplers consisted of eight 7.5- ◊ 7.5-cm Masonite
+plates, spaced 0.94 cm apart (CDPR 2005, Valenty and
+Fisher 2012). We set 2 HesterñDendy samplers in each
+plot. One was suspended just below the waterís surface
+on a string tied as tautly as possible across the PVC-pipe
+site markers to collect surface and phytophilous macroinvertebrates,
+while the other rested on the bottom of the
+lake to collect benthic invertebrates. We obtained Hesterñ
+Dendy samples every 2 wk. Weather permitting, we set the
+samplers at the beginning of a 2-wk period, allowed them
+to collect invertebrates for 1 wk, retrieved and analyzed
+them, and stored them for 1 wk before resetting them. The
+final HesterñDendy samples represented a longer sampling
+period because of inclement weather. HesterñDendy
+samplers were in the lake from 23 to 29 June, 6 to 13 July,
+21 to 27 July, 4 to 11 August, and 20 September to 9 October.
+We did not set samplers on 19 August or 3 September
+because of weather conditions. When we collected
+HesterñDendy samplers, we took care to keep the samplers
+in the water until they were contained in bags to
+prevent invertebrates from leaving the sampler when it
+was lifted from the water. We avoided collecting vegetation
+with the samplers. Samplers were returned to a laboratory
+in sealed plastic bags and frozen or refrigerated,
+depending on expected time to analysis. Analysis of the
+HesterñDendy samplers was done by dismantling each sampler,
+gently scrubbing all debris and invertebrates from the
+plates with finger tips in a tray of water, then collecting the
+invertebrates for identification and storage. Two samples
+(hand pulling 1 surface from 4 to 11 August and plantsabsent
+1 bottom from 20 September to 9 October) were
+lost.
+We used an Ekman grab (mouth area 15.2 ◊ 15.2 cm) to
+collect benthic invertebrates (Blomqvist 1990) from each
+plot on 15 June prior to the start of the experiment and
+20 September near the end of the experiment. We returned
+the Ekman grab samples to the laboratory in plastic
+bags, where they were frozen until they could be analyzed.
+Samples were processed by thawing samples, removing
+macrophytes or woody debris, and picking through small
+portions of the sample with forceps in a dissecting tray
+until whole samples were analyzed. We subsampled 2 particularly
+large samples collected on 15 June (shading 2
+and untreated 3). We subsampled shading 2 by cutting the
+frozen sample in half vertically, such that portions of the
+top and bottom of the sample remained in the subsample.
+This method retained all substrate types, such as macro-phytes and benthic sediment, in the subsample. We subsampled
+untreated 3 by thawing the sample, thoroughly
+mixing it in a large tray, manually separating the sample
+into 2 equal halves, and randomly selecting Ω to analyze.
+In each case of subsampling, the subsample was 50% of
+the total sample. The density of macroinvertebrates was
+multiplied by 2 for analysis and comparisons.
+Macroinvertebrates were identified with the keys provided
+by Peckarsky et al. (1990). After all macroinvertebrates
+were identified, we categorized them into 6 types
+for analysis: mollusks, worms, amphipods, isopods, chironomids,
+and all other insects. Mollusks were identified
+to family (mussels and limpets) or class (all snails with
+coiled shells). Worms were identified as oligochaetes leeches, or flatworms. Insects and crustaceans were identified
+to family, whereas all aquatic mites were identified
+simply as Acari. The few hydras that were collected were
+identified as such, and 3 frog tadpoles in one Ekman sample
+were identified as tadpoles. We then categorized these
+organisms into 4 groups: amphipods included all of the
+family Gammaridae, isopods included all of the family
+Asellidae, chironomids included the family Chironomidae,
+and other insects included the orders Ephemeroptera,
+Odonata, Hemiptera, Megaloptera, Coleoptera, Trichoptera,
+Lepidoptera, and Diptera (except Chironomidae) because
+of their low abundance. We recorded total abundance
+as the sum of densities of all invertebrate groups
+together. Taxon richness was measured based on the lowest
+taxonomic resolution used to identify organisms, and
+Simpsonís diversity index was calculated based on taxon
+richness and density of each taxon (e.g., Findlay et al. 1989,
+Zhu et al. 2006).
+Potential limitations of study methods
+We worked in a system (floating plants) with inherent
+challenges related to sampling strategies and study design.
+For example, plots colonized by native plants might
+have provided a better comparison than open water when
+considering effects of plant removal on phytophilous invertebrates
+(e.g., Strayer et al. 2003). However, removal of
+frogbit yields open-water habitat rather than habitat occupied
+by other vegetation, so we chose to use an openwater
+control. HesterñDendy and Ekman grab samples
+tend to undersample free-swimming large insects because
+they may be able to avoid the samplers or are unlikely to
+colonize them (Findlay et al. 1989, Covich et al. 1999,
+Valenty and Fisher 2012). Thus, the absence of taxa from
+samples could reflect their habitat or behavioral preferences,
+life-history traits, or phenologies. However, our
+sampling methods enabled us to sample organisms likely
+to inhabit both benthic and epiphytic habitat efficiently.
+Moreover, the surrounding vegetation (mostly emergent
+arrowhead and floating European frogbit) and environmental
+conditions (such as water depth, water flow, and
+light exposure) were similar among sites, so collection
+bias should have been similar among sites, enabling us to
+make valid comparisons based on the organisms we did
+collect. Therefore, the conclusions drawn from our results
+should be valid.
+Data analysis
+We tested the effects of frogbit cover on macroinvertebrates
+by comparing the HesterñDendy samples and the
+Ekman grab samples between plants-absent and untreated
+sites. We analyzed the HesterñDendy samples first with
+paired t-tests to identify differences between surface and
+bottom samples. We cleaned each HesterñDendy sampler
+of organisms before redeploying it, so we treated each time
+period as an independent test of the macroinvertebrates
+present in each treatment. We compared the density of
+each type of organism (6 categories), total abundance, taxon
+richness, and Simpsonís diversity index between untreated
+and plants-absent treatments with a 2-way analysis of variance
+(ANOVA) with treatments and time as categorical
+variables (Kuehl 2000).
+We tested the effects of hand pulling and shading on
+macroinvertebrates by comparing density of different invertebrate
+types, total abundance, taxon richness, and Simpsonís
+diversity index between hand pulling sites and shading
+sites with the untreated sites with a 2-way ANOVA
+followed by Least Significant Different (LSD) post hoc tests
+with treatments (untreated, hand pulling, and shading) and
+time as categorical variables (Kuehl 2000). We used the
+same analytical approach with the Ekman grab samples.
+We conducted all statistical analyses with SPSS (version
+21; IBM, Armonk, New York). All data were ln(x + 1)-
+transformed to reduce heteroscedasticity (Kuehl 2000).
+We considered results significant at a = 0.05.
+xresults 
+Effects of control methods on frogbit mass
+No plants were present in the plants-absent sites, and
+% cover was similar among sites in all other treatments at the beginning of the experiment. Thus, initial biomass
+of frogbit was similar in the untreated, hand pulling, and
+shading sites. We ended the field experiment when European
+frogbit started to decay at the end of growing season.
+The dry biomass in different treatments revealed that
+control methods varied in their success. Frogbit dry mass
+was 0.5 ± 0.5 g/m2 (SE) in the plants-absent sites, 4.5 ±
+1.5 g/m2 in the untreated sites, 2.5 ± 1.8 g/m2 in the hand
+pulling sites, and 0 (no plants found) in the shading sites.
+Effects of frogbit cover on macroinvertebrates
+Macroinvertebrates collected from surface and bottom
+HesterñDendy samplers differed markedly under natural
+conditions (plants-absent and untreated sites), particularly
+with respect to amphipod density, isopod density,
+and total abundance of all types of organisms. Total abundance
+was 1.6◊ higher in surface than bottom samples
+(t = 2.502, df = 29, p = 0.018). Amphipod density was
+higher (t = 3.839, df = 29, p = 0.001) and isopod density
+was lower (t = ñ2.114, df = 29, p = 0.043) in surface than
+bottom samples. Therefore, we analyzed surface and bottom
+data separately.
+In surface samples, amphipod density was lower and
+mollusk density was higher in untreated than in plantsabsent
+sites (Table 1, Fig. 2A). Total abundance of macroinvertebrates
+did not differ between plants-absent and
+untreated sites (Fig. 2A), but taxon richness (F = 6.564,
+df = 1, p = 0.019, Fig. 2B) and Simpsonís diversity (F =
+16.457, df = 1, p = 0.001, Fig. 2C) were higher in untreated
+than plants-absent sites. Amphipod density, iso-pod density, density of other organisms, total abundance,
+and taxon richness also differed among sampling dates
+(all p < 0.05; Table 1). Total abundance and taxon richness
+were lower on 11 August than on all other dates. The
+treatment ◊ time interaction did not affect any response
+variable except density of other organisms (Table 1). In
+bottom samples, fewer worms but more chironomids were
+found in untreated than in plants-absent sites (Table 1,
+Fig. 3A, B). Simpsonís diversity varied significantly over
+time (F = 3.571, df = 4, p = 0.024). The treatment ◊ time
+interaction did not affect any response variable (Table 1).
+In Ekman grab samples, densities, total abundance,
+taxon richness, and Simpsonís diversity did not differ between
+untreated and plants-absent sites (Table 1, Fig. 4A,
+B). However, total abundance (Fig. 4A), taxon richness,
+and Simpsonís diversity (Fig. 4B) tended to be greater in
+untreated than plants-absent sites, particularly at the beginning
+of the experiment. For example, on 15 June, taxon
+richness (F = 3.846, df = 1, p = 0.121) and Simpsonís diversity
+(F = 0.991, df = 1, p = 0.376) in untreated sites were
+13.3 ± 3.4 and 3.3 ± 0.7, respectively, whereas these indices
+were 3.7 ± 0.3 and 2.4 ± 0.6, respectively, in plants-absent
+sites. The treatment ◊ time interaction did not affect any
+response variable (Table 1).
+Effects of control methods on macroinvertebrates
+Treatment (untreated, hand pulling, and shading) did
+not affect total abundance, taxon richness, Simpsonís diversity,
+or densities except for amphipods (Table 2, Fig. 5AñC)
+in HesterñDendy surface samples. Amphipod density near
+the surface was lower in shading than in untreated and
+hand pulling sites (F = 5.02, df = 2, p = 0.013, Fig. 5A).
+Macroinvertebrate communities differed among sampling
+dates (Table 2). Total abundance was lower in August than
+in the other sampling months, regardless of treatment
+(Fig. 5A). Amphipods dominated the invertebrate community
+on early sampling dates and were less abundant in October,
+whereas isopod density increased from June through
+October (Fig. 5A).
+Treatment did not affect macroinvertebrates in Hesterñ
+Dendy bottom samples or Ekman grab samples (Table 2,
+Fig. 6A, B). Macroinvertebrate communities, as represented
+by HesterñDendy bottom samples did not differ
+among sampling dates, but amphipod density and total
+abundance in Ekman grab samples were lower near the
+end than at the beginning of the experiment (Table 2,
+Fig. 6A). The treatment ◊ time interaction did not affect
+any benthic response variable (Table 2).
+xdiscussion
+Shading completely removed frogbit, whereas monthly
+hand pulling only partially reduced frogbit (2.5 g/m2 in
+hand pulling sites vs 4.5 g/m2 in untreated sites at the end
+of the experiment). In our present experiment, plantsabsent
+sites contained a few frogbit at the end because of
+invasion of plants from surrounding areas. In another experiment,
+we found that 70% light reduction was needed
+to remove frogbit (Zhu et al. 2014) and that biweekly hand
+pulling was sufficient to reduce European frogbit biomass
+nearly 150-fold (BZ, unpublished data).
+Effects of frogbit
+Consistent with our prediction for surface and phytophilous
+macroinvertebrates, frogbit had no measurable
+negative effect on surface macroinvertebrates, and areas
+covered by frogbit had more diverse insect taxa (Table 1,
+Fig. 2AñC). The effects of frogbit cover on benthic macroinvertebrates
+were more complicated and were inconsistent
+with our hypothesis. Fewer worms and more chironomids
+were collected by HesterñDendy bottom samplers in untreated than in plants-absent sites, but no differences
+were detected in Ekman grab samples. However, we think
+it is likely that the diversity of benthic macroinvertebrates
+was higher in sites with than without frogbit (e.g., 15 June;
+Fig. 4B). High variability in the initial samples (Fig. 4A)
+might have interfered with our ability to detect a significant
+difference. Therefore, we reanalyzed the data for 15 June
+and included hand pulling and shading sites (before treatments
+were applied). Simpsonís diversity index was significantly
+higher at sites with than without frogbit (F = 7.645,
+df = 1, p = 0.015).
+Sites with frogbit mats supported a more diverse surface
+macroinvertebrate community (and possibly benthic
+community) than sites without frogbit. Similar findings
+have been reported by other investigators (e.g., Kaenel
+et al. 1998, Strayer et al. 2003). Aquatic plants, including invasive floating species like frogbit, Eurasian water chestnut
+(Trapa natans L.), and water hyacinth (Eicchornia
+crassipes), provide food (themselves or epiphytic species,
+including bacteria, phytoplankton, zooplankton, and small
+invertebrates), refuge from predation, and nursery habitat
+(Kaenel et al. 1998, Covich et al. 1999). Kaenel et al. (1998)
+reported much higher total numbers of invertebrates in
+aquatic plant beds before than after removal, and the taxa
+most affected by plant removal were those that use macrophytes
+as habitat (e.g., Simuliidae and Chironomidae). Epiphytic
+and benthic macroinvertebrates were more abundant
+in water chestnut beds than in open water in the
+Hudson River, New York, results that suggested a systemwide
+increase in biodiversity and food for fish following
+invasion (Strayer et al. 2003).
+The positive effect of European frogbit on macroinvertebrate
+communities differed from our expectations that
+European frogbit would negatively affect benthic macro-invertebrates in Oneida Lake by decreasing DO (Zhu et al.
+2008). This effect has not been studied for frogbit, but
+Eurasian water chestnut supported more abundant macroinvertebrates
+than native wild celery (Vallisneria americana)
+in the tidal Hudson River even though the water
+chestnut areas were hypoxic or even anoxic at times (Strayer
+et al. 2003). However, Feldman (2001) found greater density
+of phytophilous macroinvertebrates in native wild celery
+than in water chestnut beds in the upper Hudson River,
+and Cattaneo et al. (1998) found no difference in macroinvertebrate
+density between native plant beds and water
+chestnut beds in an Italian lake. Thus, the effects of water
+chestnut on macroinvertebrates appear to be location specific,
+and this variability may also be the case for frogbit.
+Effects of hand pulling and shading methods
+Hand pulling is an ancient weed removal technique
+(Randall and Marinelli 1996). It has been used to remove
+tons of water chestnuts from Lake Champlain, Vermont
+(USA), since 1960 and to remove the same plant from
+Oneida Lake, New York (Countryman 1970, Zhu et al.
+2008). This method has been used with some success to
+remove European frogbit (e.g., Langdon 2007), and did not
+affect surface or benthic macroinvertebrates when compared
+to untreated sites (Table 2, Figs 5AñC, 6A, B). Thus,
+hand pulling is a preferred control method for maintaining
+macroinvertebrate communities while removing invasive
+floating plants. However, hand pulling must be done at
+least biweekly to control frogbit effectively (BZ, unpublished
+data).
+Shading also had little effect on macroinvertebrates although
+the density of organisms tended to be lower in
+shading sites than in untreated or hand pulling sites (e.g.,
+amphipods in the HesterñDendy surface samples). This
+result suggests a potential negative effect of the shading
+method on macroinvertebrate communities. Amphipods
+were mostly of the family Gammaridae, which are omnivores
+and may prey on other small invertebrates, such
+as chironomids and isopods (Berezina and Panov 2003).
+Those potential prey items were least abundant in the shading
+sites. The low abundance might be a consequence of
+low DO (Catling et al. 2003, Zhu et al. 2008) or low food
+availability, e.g., periphytic algae (Quinn et al. 1997,Melody
+and Richardson 2004), associated with shading. Quinn et al.
+(1997) studied a pasture stream for 142 d and found that
+total invertebrate and chironomid densities declined significantly
+as shade increased from 60 to 90% and invertebrate
+taxon richness declined markedly between 90 and 98%
+shade. Melody and Richardson (2004) investigated shading
+and litter input in a forest stream and reported that algal
+filaments were longer in the high-light treatments, a finding
+indicating a change in periphyton composition, which
+would affect macroinvertebrates and might limit secondary
+production. Therefore, shading is a less preferred method
+than hand pulling for controlling frogbit while maintaining
+the macroinvertebrate communities in the lakes.
+Managing invasive species requires implementation of
+control methods. Both the efficiency of the control method
+and its environmental consequences must be studied to
+prevent undesirable or unpredictable outcomes. A thorough
+knowledge of both aspects is needed to improve the
+efficacy of invasive species management and to promote
+development of new management strategies.

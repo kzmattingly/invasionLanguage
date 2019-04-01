@@ -1,0 +1,714 @@
+xabstract
+Round gobies have had significant impacts on benthic fish and invertebrate communities
+in nearshore habitats of the Great Lakes. As round gobies have become more abundant in lake habitats,
+there has been an expansion of their populations into tributary streams and rivers. We compared stream
+invertebrate and fish communities in New York tributaries to Lake Erie with round gobies present and
+absent. Four of six benthic invertebrate metrics differed between streams with and without round gobies.
+Streams with round gobies present had reduced Shannon diversity, EPT richness, and EPT/chironomid
+ratios, and increased macroinvertebrate density relative to streams without round gobies, but there was
+no difference in non-Diptera density, or total taxa richness. None of the four fish metrics examined differed
+between streams with and without round gobies. However, darters occurred in all streams lacking
+round gobies, but did not occur in any streams with round gobies. Comparisons with historical fish and
+macroinvertebrate distributional data support our suspicion of goby-induced community changes. In
+these New York streams, round gobies seem to have had significant impacts on invertebrate communities
+via their consumptive behavior, whereas the impacts on fish communities are less evident. If round gobies
+continue to expand their distribution inland, the resultant alterations in macroinvertebrate communities
+may impact the suitability of tributary streams as spawning and nursery habitat for several sport fish
+species and for energy dynamics in tributary streams.
+
+xintroduction
+Within a decade of its initial introduction, the
+round goby (hereafter referred to as goby) has become
+established in all of the Great Lakes, and in
+many nearshore habitats it is sometimes the most
+abundant fish encountered, reaching high population
+densities (Johnson et al. 2005, USGS 2006).
+Their abundance, in part, has led to significant impacts
+on nearshore benthic invertebrate and fish
+communities. Ratti and Barton (2003) reported a
+decline in the richness of benthic invertebrates in
+the wave-zone of eastern Lake Erie, finding 122
+taxa pre-goby (1974) and 83 taxa post-goby (2001).
+Some taxa increased in abundance (especially the
+co-invasive Dreissena bugensis and Echinogammarus
+ischnus), but Ephemeroptera, Trichoptera,
+and other insects decreased in abundance. Kuhns
+and Berg (1999) documented a similar decline in
+non-mussel invertebrates with goby presence in
+southern Lake Michigan. Fish species also have
+been impacted. Mottled sculpin (Cottus bairdi) and
+Johnny darter (Etheostoma nigrum) populations
+have declined in areas of Lake Michigan since
+round gobies were first netted in 1998 (Lauer
+2004). Chotkowski and Marsden (1999) showed
+that lake trout egg predation by round gobies was
+substantial and Steinhart et al. (2004) documented
+declines in smallmouth bass embryo survival within
+minutes after guarding males were angled from
+nests. These studies highlight field correlations between
+goby abundance and the decline of native
+macroinvertebrate and fish species.
+Recent distributional studies indicate round gobies
+are migrating up Great Lake tributary streams.
+Phillips et al. (2003) showed that four of six Pennsylvania
+tributaries sampled had gobies present. In
+Elk Creek, gobies comprised almost 20% of the
+number of fish caught and were found 2.25 km upstream
+from the mouth of the creek. Similarly,
+Weimer (2003) showed gobies had invaded up to
+1.5 km upstream in Eighteen Mile Creek, New
+York, and gobies currently are found about 40 km
+up the New York State Canal (Erie Canal) and continue
+to spread eastward (M. Goehle, USFWS, pers.
+comm., 2006). Several streams and rivers in Michigan
+now have gobies present (D. Jude, pers. comm.,
+U Michigan, 2006). It is unclear whether round gobies
+will change stream fish and macroinvertebrate
+communities or disrupt stream ecosystem energy
+flow to the extent they have in the Great Lakes.
+Like their lake counterparts, round gobies in
+stream habitats have diverse, macroinvertebratedominated
+diets composed mainly of chironomids
+and mayflies (Phillips et al. 2003, Weimer 2003,
+Carman et al. 2006, Lederer et al. 2006). As lakedwelling
+gobies increase in size, they exhibit an ontogenetic
+diet shift at about 60 to 70 mm SL,
+switching to a predominantly mollusc-based diet
+consisting of Dreissena mussels (Jude et al. 1995,
+French and Jude 2001). Most streams draining into
+the Great Lakes are devoid of Dreissena mussels,
+and thus large stream-dwelling gobies need to consume
+alternative prey. In Pennsylvania streams, gobies
+> 75 mm had diets composed primarily of
+Heptageniidae and Caenidae nymphs whereas those
+< 75 mm contained mostly chironomid larvae
+(Phillips et al. 2003). In the Flint River, Michigan,
+Carman et al. (2006) demonstrated that goby size
+was not the only factor affecting diet composition.
+Prey choice varied depending on the availability of
+different prey items throughout the day with hydropsychid
+caddisfly and chironomid larvae predominating
+during the day, chironomid pupae
+towards the evening, and heptageniid mayfly larvae
+at night.
+Expansion of goby populations into tributary
+streams of the Great Lakes has several implications.
+Egg predation by round gobies poses a threat to
+many species of game fish that spawn in these
+streams. Rainbow trout (Oncorhynchus mykiss) and
+smallmouth bass (Micropterus dolomieui) are two
+important sport fish that spawn in tributary streams
+of Lake Erie, and their populations ultimately may
+be reduced through egg predation by round gobies.
+Juveniles of these same species, as well as smaller
+benthic fish like darters and sculpins, prey upon
+macroinvertebrates, the primary food source of
+round gobies in stream communities. It is important
+that we understand the potential effects of this invasive
+fish in this new class of habitat, tributary
+streams, to more fully understand its impact within
+the Great Lakes watershed.
+The goal of this study was to examine the
+macroinvertebrate and fish communities in tributary
+streams to Lake Erie with and without round gobies.
+The abundance, taxa richness, taxa diversity,
+and occurrence of specific taxa of macroinvertebrates
+and fish were compared between streams
+with and without gobies. Because gobies have had
+significant impacts on benthic communities in lake
+habitats, we hypothesized that streams with this invasive
+fish present would also exhibit reduced
+macroinvertebrate and fish abundance, richness,
+and diversity relative to streams with gobies absent.
+
+xmethods
+Using 7.5 minute Quad maps, we identified nine
+potential streams with enough flow to support fish
+populations (Fig. 1), and which drained directly
+into Lake Erie between Buffalo, NY and the state
+line with Pennsylvania. Streams varied in size, substrate,
+and hydrologic condition, but had similar
+chemical environments (Table 1). We sampled fish
+and macroinvertebrate communities in a 50-m
+stream section within each stream near the stream
+mouth but upstream enough to avoid lake influence
+on flow. Sampling continued until we had at least
+four streams with and four streams without round
+gobies. We then compared macroinvertebrate and
+fish community composition among sites differing
+in goby presence or absence.
+Streams were sampled once between 31 May and
+13 July, 2005. We assessed fish communities using
+a Coffelt Electronics BP-6 backpack electroshocker
+(170 volts, 500 pps, DC-pulse, 150-350 seconds).
+All macrohabitats (e.g., pools, riffles, runs) were
+shocked within the 50-m reach working in an upstream
+direction. All fish, other than round gobies,
+were identified in the field, measured, weighed, and
+released. Round gobies were weighed and mea
+sured, and then preserved in 90% ethyl alcohol.
+Any fish that could not be identified in the field
+was preserved for later identification. For historical
+comparisons, fish community data from pre-goby
+invasion (1995) were obtained from the NY DEC
+(J. Evans, personal comm.) for all streams with existing
+data. Pre-goby fish samples were collected
+either via seining or electrofishing and no effort
+was taken to provide comparable abundance estimates
+with the current data. Thus, only qualitative
+presence/absence comparisons were made between
+current and historical data.
+Ten Surber samples (0.5 mm mesh, 0.093 m2)
+were collected from random locations at each site,
+disturbing substrate to a depth of ~10 cm, where
+possible. Additionally, a single 5-m traveling kick
+sample (0.5-mm mesh, 45-cm opening) was collected
+from riffle habitats in each stream following
+Surber collections and according to the New York
+DEC protocol of Bode et al (2002). Invertebrates
+and debris were transferred into Whirlpak bags,
+preserved in 90% ethyl alcohol, and sorted and
+identified in the laboratory. All macroinvertebrates
+were identified to the taxonomic level indicated in
+Table 2 using keys of Peckarsky et al. (1990) and
+Merritt and Cummings (1996). Typically, insect larvae
+were identified to genus.
+Kick samples were treated according to the
+bioassessment protocol of Bode et al. (2002). Samples
+were placed in a gridded sorting tray and a
+random square was examined for all macroinvertebrates.
+Random squares were processed in this
+manner until 100 organisms had been obtained.
+Metrics of Shannon diversity, taxa richness, percent
+EPT (Ephemeroptera, Plecoptera, Trichoptera), and
+percent Chironomidae were then determined. We
+also obtained pre-goby (1993) macroinvertebrate
+data from the NY DEC (B. Bode, Stream Biomonitoring
+Unit, NY DEC) for sites in their sampling
+program that were at the same location as our sampling
+sites (RIBS, Bode et al. 2002). Walnut, Eighteen
+Mile, Delaware, and Silver creeks were
+sampled in the same locations in 1993 and 2005.
+No sites had round gobies present in 1993, but Walnut
+and Eighteen Mile creeks contained gobies in
+2005.
+Nineteen water quality measurements and habitat
+condition variables were measured at each site,
+prior to fish or invertebrate sampling. A single,
+mid-depth grab sample was collected for determination
+of water temperature and dissolved oxygen
+(YSI Model 50B dissolved oxygen meter), conductivity
+(Oakton Con5 Acorn Series conductivity
+meter), and turbidity (LaMotte Model 2020 turbidity
+meter). Habitat metrics were recorded after fish
+and macroinvertebrate sampling had occurred. Wetted
+stream width was measured perpendicular to
+stream flow at 10-meter intervals throughout the
+study reach. Stream velocity (cm/s) and depth were
+measured at 1-m intervals across the stream width
+(Swoffer Model 2100 flow meter). We derived
+stream discharge (Q; m3/s) from stream depth and
+velocity measurements. Canopy cover was estimated
+using a crown densitometer at ten equidistant
+points, zig-zagged across the 50-m stretch of
+stream. The surrounding land use, such as residential,
+agricultural, or forested, was noted as well.
+Lastly, percent substrate particle size was estimated
+visually into seven categories: bedrock, boulder,
+cobble, pebble, sand, silt/mud, and detritus.
+Statistical Analyses
+Patterns within the fish and macroinvertebrate
+community data, and their relationship to environmental
+parameters, were first constrained with nonmetric
+multidimensional scaling using algorithms
+of Mather (1976) to determine how well the environmental
+data “explained” the observed community
+data. This analysis was performed with the
+software PC-ORD Ver. 4 (McCune and Medford
+1999). All abundance data were ln (x+1)-transformed
+prior to ordination procedures and only taxa
+occurring in > 3 streams were entered into the ordination.
+Categorical environmental data were not
+used in the ordination analysis. Data restrictions resulted
+in a 15-variable, environmental matrix, and
+fish and macroinvertebrate matrices of 10 and 20
+taxa, respectively. For both ordinations, Bray-Curtis
+distance measures were applied. Bray-Curtis distance
+(also called Sørensen distance) measure the
+dissimilarity between any two items in a sample
+matrix and is commonly employed in ecological
+studies (e.g., Magurran 1988, McCune and Grace
+2002).
+Maximized stress reductions were used to deci-
+pher the appropriate number of axes useful in explaining
+patterns in the data. A Monte Carlo simulation
+of 50 randomized runs of the data was used
+to infer stress reduction, seeking random runs
+which had stress values significantly less than the
+original data at p < 0.05. Pearson correlations were
+used to correlate environmental, macroinvertebrate,
+and fish community data against the resultant ordination
+axes. Additionally, Pearson correlations were
+applied to all environmental parameters and community
+data to assist interpretation of the ordination
+axes. In ordination plots, only environmental variables
+with R2 values ³ 0.50 were graphed as this
+represented the appropriate correlation for an a =
+0.05.
+Several indices were used to assess both fish and
+macroinvertebrate community differences in
+streams with and without round gobies. Total
+macroinvertebrate density, non-Diptera density,
+taxa richness, Shannon diversity, EPT richness, and
+the EPT/Chironomidae ratio were used to compare
+macroinvertebrate communities in goby-present and
+goby-absent streams. Additionally, pre- and postgoby
+invasion taxa richness, Shannon diversity, percent
+EPT and percent Chironomidae were compared
+for the four sites with 1993 and 2005 data.
+Fish communities in goby-present and goby-absent
+streams were assessed using taxa richness, Shannon
+diversity, catch per unit effort (CPUE), and biomass
+per unit effort (BPUE). Additionally, observed fish
+species presence/absence was compared to historical
+NY DEC presence/absence data for all streams
+for which data could be obtained (J. Evans, NY
+DEC, personal comm.).
+A series of 2-level nested ANOVAs was used to
+compare the Surber macroinvertebrate data metrics
+from streams with and without round gobies.
+Analyses were performed on log (x+1)-transformed
+data to meet variance assumptions. The analysis deciphered
+the differences among “goby/no goby
+streams” and among “all streams.” It also provided
+estimates of the error within and among all streams.
+When a significant among stream or among
+goby/no goby term was detected, an adjusted Bonferroni
+post-hoc test was computed. Each pre- and
+post-goby invasion macroinvertebrate metric was
+compared using a G-test testing whether any
+change in a metric was independent of goby presence.
+The fish metrics were assessed using onetailed
+Students’s t-tests and a Bonferroni-adjusted
+significance level of p < 0.0125 (0.05/4) after determining
+variance homogeneity and normality of the
+data.
+
+xresults
+The eight tributary streams sampled had similar
+chemical environments, but exhibited high variability
+in hydrologic and physical conditions (Table 1).
+All sites had pH values between 7.5 and 8.5, and
+water clarity was < 10 NTU at all sites except Little
+Sister Creek (NTU = 29.8). Streams with round gobies
+had higher discharge levels, greater mean
+depth and were predominantly forested (Table 1).
+Some environmental parameters were correlated
+to each other. Dissolved oxygen was negatively correlated
+with turbidity whereas it was positively correlated
+with percent sand substrate (r = –0.862, p =
+0.01; r = 0.797, p = 0.03, respectively). Percent
+cobble substrate was positively correlated with
+maximum velocity (r = 0.814, p = 0.03). Lastly,
+mean channel width was positively correlated with
+mean depth (r = 0.860, p = 0.01).
+Gobies were present in four of the eight tributary
+streams that were sampled. Eighteen Mile, Big Sister,
+Little Sister, and Walnut creeks had goby populations
+(Fig. 1). When gobies were present, they
+made up at least 50% of the number of fish collected.
+No quantitative data were collected in Eighteen
+Mile Creek due to a malfunction of the
+backpack electroshocker; however, round gobies
+were observed visually and collected by seining.
+Non-metric Multi-dimensional Scaling
+The ordination of fish community and environmental
+data yielded only a single axis that provided
+significant explanatory power. Fish communities
+aligned along this axis based on stream size, and
+gobies were found only in the largest streams. Thus,
+there was a strong autocorrelation between fish
+community structure, presence of round gobies, and
+stream size. The single axis resulting from the fish
+ordination explained less than 20% of the pattern in
+fish communities (R2 = 0.182). The axis primarily
+represented substrate composition and hydrologic
+variables. Only mean velocity and percent silt/mud
+had significant correlations with the resultant axis
+(r = –0.707 and 0.833, respectively; both p < 0.05).
+No individual fish species ordination score had a
+significant correlation with the resultant ordination
+axis (all p > 0.05).
+Three axes were formed by the ordination of
+macroinvertebrate density and environmental data.
+The stress value was low (1.239), as was the final
+instability score (0.037), indicating that the 3-axis
+ordination captured a majority of the variability in
+the data. A Monte-Carlo simulation of 50 random
+permutations of the data suggested that the final
+stress value was not computed by chance (p =
+0.039). The three axes cumulatively explained 95%
+of the variation between ordination distances and
+the original data (R2 = 0.950), but Axes 2 and 3 explained
+most of the variation (cumulative R2 =
+0.858, Fig. 2). Percent silt/mud, mean depth, and
+conductivity were significantly correlated with Axis
+2 (r = 0.746, 0.787, and 0.817; all p < 0.05),
+whereas mean velocity, dissolved oxygen content,
+and turbidity were significantly correlated with
+Axis 3 (r = 0.818, 0.722, and –0.720, respectively;
+all p < 0.05). Hydropsyche, Chimarra, Orconectes
+propinquus, Empididae, and Stenelmis were the
+only invertebrate taxa significantly correlated with
+Axis 2 (r = –0.710, –0.795, 0.748, –0.739, and
+0.857, respectively; all p < 0.05, except Stenelmis
+< 0.01). Five taxa, Hydropsyche, Baetis,
+Gammarus, Psephenus, and Simulidae, had a significant
+correlation with Axis 3 (r = 0.796, 0.711,
+–0.745, –0.719, and 0.843, respectively; all p <
+0.05, except Simulidae p < 0.01). The invertebrate
+ordination among these streams indicated a slight
+tendency to cluster as “small,” non-silt bottom,
+rapid flow stream communities (to the left and
+above the centroid) and “large,” soft-substrate, slow
+flow stream communities (to the right and below
+the centroid, Fig. 2).
+Streams with and without round gobies did not
+cluster well in ordination space (Fig. 2). Four of the
+eight streams fell to the right or left of the ordination
+centroid and four were above or below the centroid.
+Interestingly, three of four goby-present
+streams were found right of the centroid along Axis
+2, indicating that this axis may have some utility in
+describing goby presence. This axis was associated
+with stream size data. The “largest” streams were
+the deepest, had the largest percent silt/mud substrate,
+and the greatest conductivity. Alternatively,
+three of the four goby-absent streams appeared
+below the centroid along Axis 3 (Fig. 2), indicating
+this axis was a better descriptor of goby absence.
+This area of the graph was represented most by turbidity.
+Round Goby Relationship to
+Macroinvertebrate Communities
+A total of 57 invertebrate taxa was collected
+among the eight streams (Table 2). Of these, 10
+were found only in streams with round gobies present,
+19 were found only in streams without gobies,
+and 28 occurred in both stream types. Several
+macroinvertebrate community indices were correlated
+to some of the environmental variables. Total
+invertebrate density was positively correlated with
+mean channel width and negatively correlated with
+the percent canopy cover (r = 0.770 and –0.763;
+both p = 0.04). Non-Diptera density was positively
+correlated with maximum stream velocity (r =
+0.799, p = 0.03). Macroinvertebrate taxa richness
+was negatively correlated with conductivity (r =
+–0.814, p = 0.03). Shannon diversity was negatively
+correlated with mean channel width, mean depth,
+and conductivity (r = –0.798, –0.952, and –0.767,
+respectively; p = 0.03, 0.001, and 0.04). EPT richness
+was positively correlated with the maximum
+velocity of the stream and negatively correlated
+with conductivity (r = 0.786, p = 0.04; r = –0.884,
+p = 0.008, respectively). The EPT/chironomid ratio
+was negatively correlated with conductivity (r =
+–0.852, p = 0.02).
+Most, but not all, of the macroinvertebrate community
+indices varied among streams and between
+streams with and without gobies. The range of total
+macroinvertebrate density was similar among the
+goby-present and goby-absent streams (Table 2).
+However, there was a significant goby-presence effect
+on mean macroinvertebrate density (p < 0.001,
+Table 3); goby presence explained 7% of the variability
+in the data. Among-stream variability accounted
+for 54% of the overall variability. Post-hoc
+comparisons revealed three groups of streams with
+significant differences between them (p < 0.0065).
+Of these, Delaware and Little Canadaway (both
+non-goby streams), were significantly different
+from the others. Likewise, the density of non-
+Diptera invertebrates was similar in goby-present
+and goby-absent streams (Table 2), with significant
+among-stream variability (p < 0.001, Table 3).
+There was not a significant difference in the mean
+density of non-Diptera macroinvertebrates * m–2 in
+streams with or without round gobies (Table 3).
+There was significant variability in macroinvertebrate
+taxa richness among streams (p < 0.001, Table
+3), but there was no significant difference in taxa
+richness between goby-present and goby-absent
+streams (Table 3). Streams with gobies present had,
+on average, fewer taxa than streams without gobies
+(Fig. 3). EPT richness and Shannon diversity values
+both exhibited significant among-streams variability
+(p < 0.001, Table 3) and significant differences
+between streams with and without gobies. These
+metrics were higher in streams without gobies relative
+to streams with gobies (Fig. 3). Post-hoc comparisons
+of Shannon diversity revealed just two
+significantly different stream groupings, with Big
+Sister (a goby-present stream) lower than all of the
+other streams. The EPT richness post-hoc comparisons
+resulted in three significantly different stream
+groups (p < 0.0065), with Big Sister and Little Sister
+creeks (both goby-present streams) having lower
+EPT richness than the remaining streams. The
+EPT/chironomid ratio was significantly lower in
+streams with gobies relative to streams without gobies
+(p = 0.023, Table 3; Fig. 3).
+Walnut and Eighteen Mile creeks, on average,
+showed significant changes in percent Chironomidae
+and percent EPT from pre-goby invasion (1993)
+to current (2005) conditions. Percent midges increased
+roughly threefold in streams invaded by
+round gobies (Fig. 4) and this was a significant increase
+compared to the change observed in
+Delaware and Silver creeks, which were not invaded
+by gobies (Gadj = 11.88, df = 1, p < 0.001).
+Percent EPT declined approximately threefold in
+streams with gobies compared to streams without
+gobies over the same time period (Fig. 4) and this
+was a significant change (Gadj = 5.70, df = 1, p =
+0.017). Neither taxa richness nor Shannon diversity
+showed a significant change in streams with gobies
+compared to streams without gobies (both p >
+0.05), although over time, both richness and diversity
+values were slightly higher in streams without
+gobies relative to streams with gobies.
+Round Goby Relationship to
+Fish Communities
+A total of 23 fish taxa was collected across all
+streams (Table 4). Three species (smallmouth bass,
+emerald shiner, and tadpole madtom) were found
+only in streams that also held gobies, whereas seven
+species (rock bass, mottled sculpin, spottail shiner,
+an unidentified dace, creek chub, Johnny darter, and
+rainbow darter) occurred only in streams without
+gobies. Some fish community indices were correlated
+with the environmental variables. Fish taxa
+richness was negatively correlated with the conductivity
+(r = –.825, p = 0.02, Table 2). The biomass
+per unit effort (BPUE) rate was positively correlated
+to water temperature and negatively correlated
+with the percent of sand substrate (r = 0.755, p =
+0.05; r = –0.890, p = 0.007, respectively).
+There was no significant difference in the four
+fish community metrics (i.e., taxa richness, Shannon
+diversity, CPUE, and BPUE) between gobypresent
+and goby-absent streams (all p > 0.0125).
+However, all metrics were lower in streams containing
+gobies compared to streams without gobies
+(Table 5). Eighteen Mile Creek was excluded from
+the analyses because electroshocking was not performed.
+Historical NY DEC data indicated darter
+species occurred in all eight streams sampled prior
+to 1995. In the current collections, no Johnny
+darters (Etheostoma nigrum Rafinesque) or rainbow
+darters (E. caeruleum Storer) were collected from
+any stream also containing round gobies. Rainbow
+darters were collected in all the streams without go-
+bies and Johnny darters were collected in Little
+Canadaway Creek (Table 4).
+
+xdiscussion
+No studies have focused on the effects of round
+gobies on tributary stream macroinvertebrate and
+fish communities, although several distribution and
+diet studies exist (Philips et al. 2003, Weimer 2003,
+Carman et al. 2006, Lederer et al. 2006). Round gobies
+occurred in four of the eight tributary streams
+sampled and represented between 22% and 80% of
+the total fish abundance in these streams. These results
+are similar to the work of Phillips et al. (2003)
+who found gobies in four of six Pennsylvania
+streams, but abundances in the Pennsylvania
+streams only accounted for ~13–30% of the total
+fish catch. The similarities in presence among
+streams might indicate that the tributary systems in
+these neighboring states have been experiencing
+round goby invasions for comparable time periods.
+In three of the New York streams (Big Sister, Little
+Sister, and Walnut), round goby relative abundances
+were higher than in the Pennsylvania streams, representing
+80%, 50%, and 54% of the catch, respectively.
+Possibly, habitat suitability contributed to the
+high relative abundances in these streams compared
+to abundance values in PA. Several of the Pennsylvania
+streams had high bedrock occurrence in their
+lower reaches that may be unsuitable goby habitat,
+at least at high fish densities (Phillips et al. 2003).
+Bedrock occurrence was least in the three NY
+streams with the highest goby abundance. Overall
+fish community structure also was, in part, dictated
+by bedrock occurrence.
+In our ordination procedure, only a single axis
+provided explanatory power for fish community
+structure. Communities were related to variables
+describing stream size (e.g., maximum depth, discharge,
+percent occurrence of bedrock) and, in general,
+fish communities grouped into species
+associated with small bedrock streams or larger,
+cobble-dominated streams with gobies found in the
+latter. However, this ordination needs cautious interpretation
+because only ten fish species occurred
+with enough frequency among the streams to be included
+in the analysis.
+The fish community indices from goby-present
+streams did not differ from those of the goby-absent
+streams, although all the indices (fish taxa richness,
+Shannon diversity, CPUE, and BPUE) were higher
+in streams lacking round gobies. Gobies certainly
+have not occupied tributary streams as long as they
+have occupied the Great Lakes, so their impacts
+still may be in the early stages and more pronounced
+impacts may occur in the future. Alternatively,
+our ability to detect significant differences
+between fish community metrics in streams with
+and without gobies may be limited by our small
+sample size and the tendency of metrics to collapse
+community variability. The reciprocal transfer of
+energy and nutrients between streams and their
+watersheds suggests that invasive fish may have
+impacts which extend beyond the shoreline (Townsend
+1996). For example, Baxter et al. (2004)
+demonstrated that the invasion of rainbow trout (O.
+mykiss) into streams of Japan affected many aspects
+of stream ecosystem functioning. Rainbow trout directly
+competed with Dolly Varden char (Salvelinus
+malma) for macroinvertebrates, causing Dolly Varden
+to shift their diets to include more benthic
+invertebrates. The reduction of benthic macroinvertebrates
+indirectly led to an increase in algal biomass.
+Rainbow trout also reduced the amount of
+macroinvertebrates emerging from the stream, leading
+to a decline in riparian spiders in the nearby forest
+(Baxter et al. 2004). Similarly, energy and
+nutrient export from streams in New Zealand have
+been altered as a result of invasive fish (Townsend
+1996). We are currently investigating energy consumption
+patterns by round gobies in tributary
+streams and hypothesize that ultimately gobies may
+have impacts in Great Lake tributary streams as significant
+as those they have had in lakes. As gobies
+become more prominent in tributary streams, similar
+to the lakes, their aggressive nature and wide
+diet breadth may allow them to outcompete native
+fishes for food as well as nesting sites.
+Several studies within the Great Lakes have documented
+round gobies outcompeting other native,
+benthic fishes, such as logperch, sculpins, and
+darters (e.g., Dubs and Corkum 1996, Balshine et
+al. 2005). In this study, rainbow and Johnny darters
+were not found in any of the streams containing the
+round goby, whereas they were found in all of the
+goby-absent streams. Based on historical data, all
+eight of the streams sampled in this study normally
+harbor darters, but especially rainbow darters (J.
+Evans, pers. comm., NYDEC 2007). Thus, we may
+be witnessing the early stages of benthic fish
+species displacement by round gobies. Additionally,
+logperch (Percina caprodes, Rafinesque) were
+found in two of the goby-present streams (Eighteen
+Mile and Walnut creeks), whereas historically they
+were found in all four streams currently containing
+gobies. They also occurred in two of the four nongoby
+streams both historically and in the current
+collection. Collectively, these data suggest that
+round gobies may be displacing other small, benthic
+species, even though overall fish richness has not
+been altered. Perhaps the absence or reduction of
+benthic species, like darters, enables other species
+like minnows, shiners, and suckers to move in and
+inhabit these streams.
+Most macroinvertebrate community indices were
+different in streams with or without round gobies.
+EPT taxa richness, Shannon diversity, and EPT/chironomid
+ratios were lower in goby-present streams
+compared to streams lacking gobies, whereas total
+macroinvertebrate density was higher. Collectively,
+these data suggest gobies have impacted EPT
+species the most and this has subsequently led to a
+dominance by chironomids. Goby diets vary with
+body size, but smaller fish (< 7 cm TL) have been
+found to prey upon a variety of benthic invertebrates
+in both lake and stream studies (Kuhns and
+Berg 1999, French and Jude 2001, Philips et al.
+2003, Weimer 2003, Carman et al. 2006, Lederer et
+al. 2006). Although dreissenid mussels are the main
+diet item of adult round gobies (> 7 cm TL) in the
+Great Lakes (Jude et al. 1995, French and Jude
+2001), other prey, particularly insect larvae, dominate
+diets in tributary streams due to the absence of
+these mussels. Because many native stream fishes,
+such as dace, darters, logperch, and sculpins, prey
+upon macroinvertebrates, changes in the commu-
+nity structure of macroinvertebrates may have detrimental
+effects on these native fishes.
+A closer examination of the macroinvertebrate
+community data reveals some patterns of occurrence
+which suggest round gobies may be having
+further impacts in these tributary streams. Streams
+without gobies had nearly twice as many mayfly
+taxa as streams with gobies (n = 11 and 6, respectively).
+The mayfly taxa missing from the goby
+streams (Ephemera, Choroterpes, Paraleptophlebia,
+and Isonychia) are primarily grazers and
+filter-feeders and at least three taxa potentially
+would be exposed on rock surfaces available to
+goby predation. The net-spinning caddisflies
+(Cheumatopsyche, Hydropsyche, and Polycentropus)
+were about 2.5 times more abundant in
+streams without gobies compared to streams with
+gobies. Previous work by Carman et al. (2006)
+showed round gobies in the Flint River consumed
+significant numbers of hydropsychid caddisfly larvae.
+Our ordination data showed that of the netspinning
+caddisflies, only Hydropsyche abundance
+was strongly related to the resultant axes and presumably
+was affected by stream velocity patterns
+since flow is necessary for the functioning of their
+capture nets. Neither Cheumatopsyche nor Polycentropus
+abundance was strongly related to the resultant
+ordination axes (i.e., they occur near the
+centroid) and they were found in seven of the eight
+streams sampled. Thus, these two genera appear
+less strongly driven by environmental conditions
+relative to Hydropsyche. Only a single specimen of
+Polycentropus was collected from a goby-present
+stream, whereas it was present in three non-goby
+streams and fairly abundant in two of them. The reduced
+abundance of these common caddisfly taxa in
+streams with gobies compared to streams without
+gobies probably accounts for the significant EPT
+and EPT/Chironomidae ratio evident in our survey
+data. Additional support for this hypothesis is found
+in comparing pre-goby invasion and current
+macroinvertebrate data. Compared with pre-goby
+invasion macroinvertebrate data, the current percent
+EPT was lower in streams with round gobies and
+the percent Chironomidae was higher. These results
+suggest that streams invaded by round gobies have
+experienced a reduction in mayfly/stonefly/caddisfly
+abundance with a resultant dominance by
+midges, while the relative abundance of these
+groups has not changed appreciably in streams
+lacking gobies.
+Our study has documented not only the presence
+of gobies within some of the tributary streams of
+Lake Erie, but also a range of impacts on the fish
+and macroinvertebrate communities. In general,
+these tributary streams do not appear immune to
+round goby invasion, as Cooper et al. (2007) suggest
+for coastal Great Lake wetlands. The ability of
+the round goby to adapt to a variety of habitats and
+environmental conditions poses a threat to inland
+lakes and river systems. Further knowledge about
+the seasonal and long-term movement of gobies
+within streams, rather than just presence, is needed
+to better understand their use and potential impacts
+on tributary streams. If gobies are able to use the
+tributary streams as travel corridors, inland water
+bodies may be the next sites for round goby range
+expansion.

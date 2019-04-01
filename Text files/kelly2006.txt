@@ -1,0 +1,481 @@
+xabstract
+Assessing the effects of invading species on native community structure is often
+confounded by environmental factors and weakened by lack of replicated, longterm
+pre- and post-invasion monitoring. Here, we uncouple the community effects
+of a freshwater amphipod invader from environmental differences. In Irish rivers, the
+introduced Gammarus pulex replaces the native Gammarus duebeni celticus. However,
+the River Lissan in Northern Ireland is dissected by a weir that has slowed the
+upstream invasion by G. pulex. This allowed us in 2000 to sample three contiguous
+150-m reaches that were (1) G. pulex dominated; (2) mixed Gammarus spp.; and
+(3) G. duebeni celticus only. In 2003, we resampled these reaches and one additional
+of mixed Gammarus species and one with only G. duebeni celticus further upstream.
+In temperature, conductivity, and pH, there were statistically significant but no
+biologically relevant differences among the five reaches of 2003, and between the
+three reaches surveyed in both years. Although there was evidence of recovery in
+macroinvertebrate diversity and richness in invaded reaches between years, continued
+upstream invasion was associated with sustained reductions in these community metrics
+as compared to un-invaded sites. Community ordination indicated (1) different associations
+of community composition attributed to the distribution, abundance, and biomass
+of the invader; and (2) increasing similarity of invaded communities over time. The
+impact mechanisms of G. pulex on macroinvertebrate community composition may
+include predation and competition. The consequences of the observed community
+changes for ecosystem functioning require further investigation.
+xintroduction
+Human activity continues to increase the rate of biological
+invasions and the frequency of interactions among natives and
+invaders (Ricciardi & Rasmussen, 1998; Ricciardi & MacIsaac,
+2000; van der Velde et al., 2000; Dick et al., 2002; Jenkins, 2003).
+With some freshwater systems apparently poised for ëinvasional
+meltdowní, research priorities now focus on explaining and
+predicting the impact of invaders on native communities
+(Ricciardi & Rasmussen, 1998; Ricciardi, 2001; Dick et al., 2002).
+However, as successful freshwater invasions often accompany
+environmental degradation or a major disturbance (Ricciardi
+et al., 1998; van der Velde et al., 2000), it remains difficult to
+separate the direct effects of invaders on native communities
+from any environmental effects (MacNeil et al., 2000, 2001;
+Boudreau & Yan, 2003). Thus, situations must be sought where
+potentially confounding environmental factors are minimized.
+Furthermore, to test whether populations of invading species
+senesce over time and whether communities are resilient to
+disturbance by invaders, long-term studies as opposed to
+the transitory ësnap-shotí approach of the single survey are
+required to fully evaluate the impacts of invaders (Cronk &
+Fuller, 1996; Petrie & Knapton, 1999; Dernie et al., 2003;
+MacNeil et al., 2003).
+In Europe, the freshwater amphipod Gammarus pulex (L.)
+actively replaces Gammarus duebeni celticus Stock & Pinkster,
+1970, with differential mutual intraguild predation (IGP; see
+Polis et al., 1989) cited as a driving force (Dick et al., 1993, 1999).
+In Northern Irelandís rivers, the introduced G. pulex rapidly
+replaces the native G. duebeni celticus in lowland stretches, with short stretches of coexistence upstream and, finally, un-invaded
+stretches of G. duebeni celticus uppermost (Dick et al., 1994;
+MacNeil et al., 2001, 2004; Kelly & Dick, 2005a). Macroinvertebrate
+community composition and diversity differ significantly among
+these three stretch types (MacNeil et al., 2000, 2001; Kelly &
+Dick, 2005a). As the three stretch types occur over spatial scales
+of tens of kilometres (e.g. see MacNeil et al., 2004), longitudinal
+gradients in environmental factors may be the determinants
+of community changes. However, community differences may
+be driven to some degree by differences in the effects of the two
+Gammarus species, this being confounded by the environmental
+gradients. Indeed, an increasing number of studies have indicated
+that G. duebeni celticus and G. pulex may be strongly interactive
+with the macroinvertebrate community (MacNeil et al., 1997,
+2003). Furthermore, laboratory studies indicate that G. pulex has
+a greater predatory impact on some macroinvertebrates than
+G. duebeni celticus (Kelly et al., 2002a; Kelly & Dick, 2005a).
+However,separating the role of such biotic interactions in structuring
+these communities from the influence of distinct longitudinal
+changes in the riverine environment remains problematic (see
+also Vannote et al., 1980; MacNeil et al., 2001).
+During 2000, Kelly et al. (2003) identified a lowland stretch of
+the River Lissan, Northern Ireland, where an artificial weir had
+slowed the upstream invasion by G. pulex, presenting a situation
+where G. duebeni celticuswas present in a lowland reach (upstream
+of the weir), with a short reach immediately above the weir where
+the two species co-occurred. This presented a unique opportunity
+to assess differences in macroinvertebrate community composition
+in reaches with invader, mixed, and native Gammarus species
+over a spatial scale of only 800 m, where longitudinal environmental
+changes were not confounding factors. G. pulex is the
+only non-indigenous species that we have found in this river.
+Observations suggest that the G. pulex invasion occurred only
+a few years prior to our 2000 study (A. Keys, pers. comm.;
+see Kelly et al., 2003). Macroinvertebrate community composition,
+biomass, and diversity differed markedly among these three
+reaches, leading Kelly et al. (2003) to conclude that the invader
+had a greater impact on native community composition than the
+native, possibly via increased predation. However, these
+conclusions were tempered by the lack of spatial and temporal
+replication.
+The main questions remaining to be resolved were, first, would
+further advances of the invader be associated with differences in
+community composition and, second, would previously invaded
+communities show any recovery? Here, while applying the same
+caveat as the initial River Lissan study about intrinsic problems of
+pseudo-replication associated with studying community changes
+in a single river (Hairston, 1989; Kelly et al., 2003), we exploit the
+opportunity that the River Lissan presents to assess consequences
+for macroinvertebrate community composition of this ongoing
+invasion and species replacement. In particular, the two new
+study reaches reported here are within 2 km upstream of the
+original three reaches, a relatively short distance compared to the
+tens of kilometres of stretch types detailed above. Thus, environmental
+gradients are expected to be slight and unable to account
+for substantial differences in macroinvertebrate communities.
+The present analyses are therefore powerful in elucidating
+the impacts of the invasion without confounding environmental
+factors. Furthermore, if there are no large differences in physicochemical
+variables in the three reaches studied at the two time
+intervals, then temporal community patterns, such as recovery,
+may be interpreted as features of the invasion process.
+xmethods
+Spatio-temporal patterns of Gammarus invasion and macroinvertebrate
+community composition were assessed by sampling the
+River Lissan (Northern Ireland grid ref: H820807) on 1 September
+2000 and 11ñ14 August 2003. The 2000 data are those of Kelly
+et al. (2003) who surveyed three 150-m reaches, each differing
+in Gammarus community composition (G. pulex, mixed and
+G. duebeni celticus ó hereafter designated reaches 1ñ3; Fig. 1).
+In the study of Kelly et al. (2003), a range of physicochemical
+parameters was recorded (n = 25 per reach for each parameter)
+and macroinvertebrate samples collected (n = 25 Surber samples
+per reach). Data for 2003 were collected from the same three
+reaches in an identical survey. Due to the continued upstream
+invasion of G. pulex, two additional 150-m reaches were surveyed (one mixed Gammarus spp. and one a G. duebeni celticus reach,
+reaches 4ñ5; Fig. 1).
+One-factor ?????s were used to compare each environmental
+variable (see Table 1) among the five reaches in 2003 (data appropriately
+transformed ó arcsine for canopy cover, log10 for
+remaining variables except dissolved oxygen that was untransformed).
+Mean invertebrate density and dry weight biomass
+(both log10 transformed) were examined in separate two-factor
+?????s with respect to ëreachí (1,2,3,4,5; factor 1) and ëinvertebrate
+groupsí (Gammarus, all other species combined; factor 2,
+repeated measure). One-factor ?????s examined the Shannonñ
+Wiener diversity index and species richness among the five
+reaches in 2003. Two-factor ?????s (ëreachí and ëtimeí as factors,
+the latter as a repeated measure) examined these indices between
+2000 and 2003 in those three reaches sampled in both years.
+We used the community analysis programme ??-??? (McCune
+& Mefford, 1995). An initial analysis of all data combined for
+both years (i.e. eight data sets) was intractable and difficult to
+interpret, thus we decided to conduct two separate analyses.
+First, we examined spatial differences in macroinvertebrate
+community structure among the five reaches that were surveyed
+in 2003. Second, we examined temporal changes in community
+structure in the lower three reaches that were surveyed in both
+2000 and 2003. Detrended Correspondence Analysis (DCA; Hill
+& Gauch, 1980) was used to investigate the ordination of communities
+and how this relates to environmental parameters
+including, for the purpose of this study, the abundances of the two
+Gammarus spp. (see Kelly et al., 2003). DCA orders samples (sites)
+and species simultaneously along axes by an iterative reciprocal
+averaging procedure that aims to maximize the correlation
+between site and species scores (McCune & Mefford, 1995). We
+used macroinvertebrate (excluding Gammarus) density (log10(x+ 1)
+transformed) to ordinate the site/species matrix, with rare species
+omitted as they can unduly influence the analysis (Jongman
+et al., 1996). Coefficients of determination were calculated to
+assess the percentage of variance accounted for in ordination
+space by each of the ordination axes (McCune & Mefford, 1995).
+Then, assessment of potentially structuring environmental factors
+was made by calculating correlations between each environmental
+parameter and the ordination axes scores (McCune &
+Mefford, 1995). Finally, to determine if the distributions among
+sites of individual taxa were related to an underlying environmental
+gradient, correlations were calculated between the abundance of each
+macroinvertebrate taxon and each of the ordination axes scores.
+xresults
+The following were similar among the five reaches surveyed
+in 2003: stream width (5ñ6 m); altitude (46ñ55 m); geology
+(Sherwood Sandstone); and riparian tree composition (alder,
+ash, sycamore, and willow). There were no significant differences
+in mean phi scale value, flow velocity, dry weight allochthonous
+material, depth, percentage tree canopy cover, or dissolved oxygen
+saturation among the reaches (Table 1). The only statistically
+significant differences among reaches were temperature, conductivity,
+and pH (Table 1). However, these statistical differences are
+clearly driven by the consistent but extremely small differences
+in these parameters (Table 1). We do not attach biological significance
+to differences in means (largest minus smallest values)
+for temperature, conductivity, and pH of 1.7 ∞C, 25 µS cm-1
+, and
+0.11, respectively (see Table 1). We certainly would not expect to
+see significant shifts in macroinvertebrate communities over
+such small ranges of values recorded for these parameters
+(see also below and Discussion). Similarly, there were only small
+differences in the means of these parameters between the
+sampling years (means for 2000ñ03 differed by 1.3 ∞C, 28 µS cm-1
+and pH 0.6; see Kelly et al., 2003).
+Non-amphipod macroinvertebrate taxa occurring in the five
+reaches are shown in the Appendix. Ninety-seven per cent (30/31)
+of operational taxonomic units (OTUs) occurring in 2000
+also occurred in 2003 (only Isoperla grammatica being absent),
+while only 19% (7/36) OTUs (Esolus parallelipipedus, Muscidae,
+Empididae, Hexatomini, Phagocata vitta, Glossiphonidae and
+Ostracoda) were exclusive to the 2003 survey, implying a high degree of similarity despite differing spatial scales (i.e. five vs.
+three reaches) and a 3-year sampling gap.
+In both 2000 and 2003, reach 1 was dominated (i.e. occurred
+at > 90% Gammarus species density) by G. pulex, although at
+lower density in 2003 (Table 2). In 2003, reaches 2 and 3, the
+mixed Gammarus spp. and G. duebeni celticus only reaches of
+2000, respectively, had been overwhelmed by the progression of
+G. pulex, with only a very few G. duebeni celticus found (Table 2).
+In reach 4, the new (2003) mixed Gammarus reach, 65% of
+individuals were G. pulex and, in reach 5, G. duebeni celticus
+dominated with only two live G. pulex found (see Table 2).
+Overall macroinvertebrate density (Gammarus + all other
+OTUs) differed significantly among reaches 1 to 5 (F4,120 = 35.8,
+P < 0.0001; Fig. 2). Reach 4 density was significantly lower than
+reaches 2 and 3 (both P < 0.02; Fisherís protected least significant
+difference test, FPLSD), while the uppermost reach 5 density was
+significantly lower than reaches 1 to 4 (all P < 0.001).
+Gammarus densities were significantly lower than ëotherí
+macroinvertebrates (F1,120 = 617.6, P < 0.001; Fig. 2). However,
+there was a significant interaction effect (F4,120 = 24.5, P < 0.001;
+Fig. 2), with ëotherí macroinvertebrate density lowest in reach 1
+(significantly compared to reaches 2, 3, and 4, P < 0.001, P < 0.03,
+and P < 0.05, respectively), where Gammarus density was highest
+(significantly compared to reaches 2, 4, and 5; P < 0.04, P < 0.001,
+and P < 0.001, respectively).
+Overall macroinvertebrate biomass (Gammarus + all other
+OTUs) differed significantly among reaches 1 to 5 (F4,120 = 27.3,
+P < 0.001; Fig. 3). In reaches 1 to 3, biomass was significantly
+higher as compared with upstream reaches 4 and 5 (P < 0.04 and
+P < 0.001) and lower in reach 5 than reach 4 (P < 0.001). Overall,
+Gammarus biomass was not significantly different than ëotherí
+macroinvertebrate biomass (F1,120 = 2.2, NS; Fig. 3), but this was
+reach dependent as shown by the significant interaction effect
+(F4,120 = 37.8, P < 0.001; Fig. 3). That is, G. pulex tended to occur
+at greater biomass than all other invertebrates combined in
+reaches (1ñ3), whereas ëotherí taxa occurred at greater biomass
+in the G. duebeni celticus reach (5) with the mixed reach (4)
+intermediate.
+Species diversity and richness differed significantly among reaches
+1 to 5 (F4,120 = 27.9 and F4,120 = 22.8, respectively, both P < 0.001;
+Fig. 4a,b). Species diversity and richness were significantly lower
+in the original G. pulex-dominated reach 1 than reaches 2 to 5 (all
+P < 0.001; FPLSD) and significantly higher in the G. duebeni
+celticus-dominated reach 5 compared to all others (all P < 0.02).
+Overall, both diversity and richness were significantly higher
+in reaches 1 to 3 in 2003 compared to 2000 (F1,72 = 567.5 and
+F1,72 = 44.6, respectively, both P < 0.001; all pairwise comparisons
+with FPLSD P < 0.001; Fig. 5a,b). Overall, diversity
+and richness were significantly higher moving upstream from
+reach 1 to reach 3 (F2,72 = 35.8 and F2,72 = 81.8, both P < 0.001;
+all pairwise comparisons with FPLSD P < 0.001). There were
+significant interaction effects (F2,72 = 5.2 and F2,72 = 4.1, both
+P < 0.01), reflecting the smaller differences in means between
+2000 and 2003 at the higher as compared to the lower reaches
+(see Fig. 5a,b).
+In the ordination of the five 2003 study reaches (Fig. 6), axis 1
+explained 50% of the variation, with axis 2 a further 14%. There was a significant positive relationship between axis 1 scores and
+G. duebeni celticus abundance (r = 0.6, d.f. = 123, P < 0.001),
+whereas G. pulex abundance was significantly negatively correlated
+with axis 1 (r = ñ0.71, d.f. = 123, P < 0.001). Several environmental
+variables also had correlations in excess of 0.2 in the relationship
+with axis 1 of the ordination, but with the exception of conductivity,
+these were all substantially weaker than those of the Gammarus
+spp. (r = ñ0.84, P < 0.001; r = 0.36, P < 0.001; r = 0.25, P < 0.01;
+and r = 0.21, P < 0.05 for conductivity, depth, flow, and mean
+phi, respectively, all d.f. = 123). Conductivity was also signifi-
+cantly correlated with axis 2 (r = 0.41, d.f. = 123, P < 0.0001).
+The difference in mean conductivity over the five reaches was,
+however, extremely small (only 25 µS cm-1
+; see Table 1) and, as
+mentioned above, we do not attach biological relevance to
+this small range. The correlation of conductivity with axes in
+the ordination is clearly driven by the small but consistent
+downstream increase in conductivity (Table 1), but this minor
+gradient is unlikely to drive significant community change (see
+also Discussion).
+Therefore, the separation of the macroinvertebrate community
+is most likely influenced by the Gammarus species/abundance
+gradient, with samples from the current G. pulex- and G. duebeni
+celticus-dominated reaches occurring in distinct areas on the
+extremes of axis 1, and the mixed reach intermediate (Fig. 6).
+Nine taxa (Ecdyonurus venosus, Rhithrogena semicolorata,
+Chloroperla torrentium, Glossosoma sp., Ancylus fluviatalis,
+Limnus volkmari (larvae), Hydropysche, Dicranota spp., and
+Potamopyrgus jenkinsi) showed significant positive relationships
+with axis 1 (Table 3). Thus, the distribution and abundance of
+many taxa were at least partially related to the Gammarus
+species/abundance gradient. For instance, as G. pulex density
+decreases, then, for example, E. venosus and Hydropsyche spp.
+density increases (Table 3).
+In the ordination of the three reaches surveyed in both 2000
+and 2003 (Fig. 7), axis 1 explained 40% of the variation, with axis
+2 a further 15%. There was a significant positive correlation
+between axis 1 scores and G. duebeni celticus abundance, whereas
+G. pulex abundance was significantly negatively correlated with axis 1 (r = 0.46 and r = -0.37, respectively; both d.f. = 148,
+P < 0.001). There was also a significant positive correlation
+between axis 2 scores and G. duebeni celticus, whereas G. pulex
+abundance was again significantly negatively correlated with axis
+2 (r = 0.31 and r = -0.47, respectively; both d.f. = 148, P < 0.001).
+Several environmental variables also had correlations in excess of
+0.2 in the relationship with axis 1 of the ordination (r = ñ0.87,
+P < 0.001; r = -0.89, P < 0.001; r = -0.44, P < 0.001; r = 0.31,
+P < 0.001; and r = -0.26 for conductivity, pH, dissolved oxygen,
+flow, and canopy cover, respectively, all d.f. = 148) and axis 2
+(r = 0.31, P < 0.001 and r = 0.35, P < 0.001 for conductivity and
+pH, respectively). Again, however, these correlations only reflect
+small differences in these parameters between years (see previous
+text). Samples from the 2000 and 2003 reaches occurred in
+distinct areas on the extremes of axis 1 (Fig. 7), and the 2003
+samples were more tightly clustered along axis 2 compared to the
+year 2000 samples, implying that the communities in these three
+reaches have become more similar in the past 3 years.
+For the same ordination, the relationship between the abundance
+of individual macroinvertebrate taxa and the axes 1 and 2 scores
+is shown in Table 3. Species abundance correlations with axis 2
+scores, the axis negatively correlated with the invaderís
+abundance (see Fig. 7), mirrored those in 2000 in the original
+study of Kelly et al. (2003). For instance, the abundance of Baetis
+rhodani, R. semicolorata, Ephemerella ignita, Protonemura meyeri,
+Rhyacophila dorsalis, Hydrophilus spp., Elmis aenea (adults and
+larvae), Hydropsyche spp., Chironomidae, Lumbriculidae,
+and Hydracarinidae declined as G. pulex abundance increased
+on axis 2 and these species were also negatively associated with
+G. pulex abundance in 2000 (see Kelly et al., 2003).
+xdiscussion
+We have shown previously that macroinvertebrate communities
+in Northern Ireland rivers change significantly in composition
+over the scale of tens of kilometres (e.g. MacNeil et al., 2001;
+Kelly & Dick, 2005a), with corresponding longitudinal gradients
+in physicochemistry likely to be partially causal (see also Vannote
+et al., 1980). However, we have also shown that G. pulex has
+invaded many lower stretches of rivers, with the native G. duebeni
+celticus remaining only in upper stretches (Dick et al., 1993,
+1994). Thus, any differential community impacts of the invader
+vs. the native are normally difficult to discern due to confounding
+environmental gradients. In the present study, however, the five
+reaches on the River Lissan are within a 3 km length of the river, a spatial scale over which we have not observed large gradients
+in physicochemistry or concomitant community change in other
+Irish rivers (e.g. see Kelly & Dick, 2005a). While we did find
+statistically significant differences in three physicochemical
+parameters over the five reaches of this study, the difference
+between the highest and lowest means were extremely small
+and unlikely to be biologically relevant (temperature 1.7 ∞C;
+conductivity 25 µS cm-1
+; pH 0.11). Conductivity showed the
+strongest statistical difference among reaches and was also significantly
+correlated with axis 1 of our community ordination.
+However, the difference in mean conductivity of only 25 µS cm-1
+is an order of magnitude lower than ranges of conductivity found
+within sites of several rivers in Northern Ireland (Rippey, 1993),
+and well within the conductivity classification ranges used
+by other authors (e.g. Death & Joy, 2004). In chemical terms,
+a difference of 25 µS cm-1 is equivalent to a difference of around
+14 mg L-1 of NaCl (C. Hardacre, pers. comm.), and in reality
+river water conductivity is determined by a number of ions.
+Hence, the influence on the biological characteristics of a river of
+this small difference in conductivity would be minimal. There
+were similar biologically insignificant trends in physicochemistry
+between sampling years. We thus conclude that major community
+changes in this study area, both spatially and temporally, are
+unlikely to be driven by abiotic factors (see also Kelly et al., 2003).
+Rather, the distinct shifts in Gammarus species identity,
+abundance, and biomass can be viewed as significant longitudinal
+gradients that can reasonably be ascribed as causal in determining
+broader community composition (see succeeding text).
+Kelly et al. (2003), extrapolating from the 2000 data of the
+River Lissan study, predicted that G. pulex would become the
+dominant species in the then mixed Gammarus spp. reach and
+colonize the pure G. duebeni celticus reach further upstream. The
+current 2003 study confirms this prediction, with G. pulex
+overwhelming the previously pure G. duebeni celticus reach and
+forming a mixed species reach yet further upstream. Kelly et al.
+(2003) also predicted that this process would be accompanied by
+a reduction in diversity and richness of the wider macroinvertebrate
+community. This prediction was also realized by our analyses of
+samples in 2003. Although there was evidence of macroinvertebrate
+community recovery, higher densities and biomass of
+G. pulex in invaded reaches remained linked to lower richness,
+diversity, and taxon-specific abundance in both 2000 and 2003 as
+compared to un-invaded reaches. Indeed, the temporal recovery
+in species richness and diversity is associated with a reduction in
+invader abundance between 2000 and 2003. Such patterns could
+arguably be due to interannual or seasonal variation, however,
+we specifically controlled for the latter by sampling at similar
+times among years. We further rule out seasonal effects since
+Kelly & Dick (2005b) observed that invertebrate abundance
+remained depressed in the invaded reach over a 6-month period,
+corresponding to high abundance of G. pulex. Thus, with additional
+spatial and temporal replication (see Kelly et al., 2003),
+and environmental factors having negligible confounding effects,
+we can conclude that invasion by G. pulex caused significant
+macroinvertebrate community alterations in the River Lissan.
+Predatory macroinvertebrates can reduce prey densities through
+direct predation and by inducing emigration (Sih & Wooster,
+1994). This may explain observed negative associations between
+G. pulex abundance and that of taxa such as E. venosus, R. semicolorata,
+and Hydropsychespp. For example, amphipods including G. pulex
+can be highly predatory, interfere with feeding, and induce drift
+behaviour in a range of invertebrates that includes ephemeropterans,
+plecopterans, and trichopterans (MacNeil et al., 1997;
+Haden et al., 1999; Kelly et al., 2002a,b). Differences in resource
+acquisition and assimilation efficiency as compared to native
+species can also drive community impacts of non-indigenous
+species (Ruesink & Srivastava, 2001; Simon & Townsend, 2003),
+and may explain higher densities, biomass, and impacts of G.
+pulex as compared to G. duebeni celticus (MacNeil et al., 2001,
+2003; Kelly et al., 2003). Additionally, given the omnivorous diet
+of gammarid species, competition may also be a factor in driving
+these patterns (MacNeil et al., 1997).
+While macroinvertebrate communities may be extremely
+resilient to disturbance events (Dernie et al., 2003; Melo et al.,
+2003), the impacts of non-indigenous species may be persistent
+(Ricciardi & MacIsaac, 2000). The increase in diversity and
+richness in the 2003 G. pulex-dominated reaches as compared to
+the same three reaches in 2000 supports the concept of community
+resilience. However, this is confounded by the concomitant
+decrease in the density of G. pulex in the G. pulex-dominated
+reach 1, which may have reduced the effects of predation and competition. Introduced species may undergo ëboom-and-bust
+cyclesí of explosive population increase followed by declines
+(Simberloff & Gibbons, 2004), and thus longer term studies
+are required to identify if a partial recovery is occurring in the
+River Lissan.
+The progression of G. pulex upstream in this river is likely
+to slow as the upper stretches are approached, a pattern often
+observed (see MacNeil et al., 2001). Furthermore, Stock (1993)
+and Dick et al. (1997) noted that G. pulex had been unable to
+expand its range in some areas where G. duebeni celticus was
+dominant in Brittany and the Isle of Man. Meijering (1991)
+suggested that a complex of biotic and abiotic factors influenced
+the comparative population dynamics of Gammarus spp. and
+warned against oversimplification when considering just one
+factor. With G. pulex regarded as a predominantly lowland species
+(Meijering, 1991), it is probable that physicochemical factors,
+some perhaps not examined in this study but related to the
+lowland or upland nature of sites, may act to favour the native, or
+slow the further upstream progression of the invader. Nevertheless,
+in some river systems G. pulex does occur in the headwaters,
+G. duebeni celticus is completely displaced, and macroinvertebrate
+communities are poorly diverse (Kelly & Dick, 2005a). That
+MacNeil et al. (2001) suggested that G. pulex was more tolerant
+of organic pollution and lower dissolved oxygen than G. duebeni
+celticus is likely to compound such community changes. For
+instance, if rivers such as the Lissan suffer increased organic
+enrichment, further incursion of G. pulex into areas previously
+dominated by G. duebeni celticus may occur.
+The current study has implications for biological water quality
+monitoring. Macroinvertebrate community composition is
+currently used in the generation of biotic indices of water quality,
+such as the UK Biological Monitoring Working Party (BMWP)
+score (Wright et al., 1984), and various methods in North
+America (Hilsenhoff, 1988; Reynoldson et al., 1997). We have
+shown that, over a small spatial scale, significant changes in the
+resident macroinvertebrate community can accompany minimal
+changes in water chemistry, due to the presence of an invader.
+In the River Lissan, several pollution-sensitive taxa, including
+mayfly and stonefly species, declined or were displaced after
+invasion by G. pulex, and their consequent loss would thus
+render biotic indices inaccurate as measures of water quality
+unless corrected for the invaders presence. Indeed, at a much
+coarser scale, declines in such pollution-sensitive invertebrates
+concomitant with invasion by G. pulex were unexplained by
+water quality parameters in several Northern Irish rivers (see
+MacNeil et al., 2000; Kelly & Dick, 2005a).
+Understanding the mechanisms and patterns of biodiversity
+decline is crucial in aquatic systems given the alarming loss rates
+at local and global scales as compared to terrestrial systems (Sala
+et al., 2000; Gessner et al., 2004). Amphipods are increasingly
+prominent invaders of aquatic systems, affecting global patterns
+of biodiversity by displacing native amphipods and altering
+aquatic community structure (Ricciardi & MacIsaac, 2000; Van
+der Velde et al., 2000; Dick et al., 2002). This study shows that
+although such communities may recover to an extent, sustained
+declines in biodiversity are likely. Biodiversity decline has
+prompted investigations into species functional roles and the
+consequences for both aquatic and terrestrial ecosystem functioning
+(Ruesink & Srivastava, 2001; Bradford et al., 2002; Giller
+et al., 2004). However, linking individual species to ecosystem
+functioning is confounded by abiotic factors and practicalities
+of removing species assemblages from systems and measuring
+effects (Townsend, 2003). Systems such as the River Lissan may
+offer solutions to such problems by providing comparisons,
+unhindered by confounding factors, of how local species extinction
+and decline, and differential resource exploitation between
+native and invading species, alter aquatic ecosystem functioning.

@@ -1,0 +1,460 @@
+xabstract
+We offer a case study showing: a) the susceptibility of the Truckee River and Lake Tahoe to an invasion by the New Zealand mudsnail
+(Potamopyrgus antipodarum) and b) the short-term impacts on periphyton standing crop in the Truckee River and Lake Tahoe as a result of
+grazing by New Zealand mudsnails. Snail survivorship in the Truckee River experiment ranged from 50–85 percent across treatments and
+snail survivorship ranged from 5–40 percent in the Lake Tahoe experiment. Periphyton standing crop was negatively affected in both snail
+density treatments of the Truckee River experiment but the results were mixed in the Lake Tahoe experiment. Our results suggest that the
+Truckee River is more vulnerable to establishment by New Zealand mudsnails than Lake Tahoe.
+
+xintroduction
+In the Western United States ecosystem
+managers have turned their attention to a
+relatively new invader, the New Zealand
+mudsnail, Potamopyrgus antipodarum (Gray,
+1843). Once established, P. antipodarum can
+rapidly spread through aquatic ecosystems. High
+growth rates and the ability of individuals to
+survive for up to three weeks out of water
+contribute to the species’ ability to expand its
+range (Winterbourn 1970). P. antipodarum is a
+small snail (5 mm or less) that can establish in
+high densities of up to 800,000/m2, causing a
+number of deleterious impacts (Kerans et al.
+2005). The snails can compete with native
+invertebrates for algae, thus decreasing native
+macroinvertebrate biodiversity and biomass
+(Zaranko et al. 1997; Kerans et al. 2005).
+P. antipodarum do not represent a profitable
+food source for fish because their shells can
+resist digestion (Bowler 1991). The poor food
+quality of P. antipodarum and decrease in native
+invertebrate populations can negatively impact
+fish growth rates (Vinson and Baker 2008).
+Lake Tahoe and the Truckee River are two
+interconnected aquatic ecosystems located in the
+western United States on the border of California
+and Nevada. Lake Tahoe is an oligotrophic,
+subalpine lake in the Sierra Nevada Mountains;
+it is the second deepest lake in the United States
+(USGS Lake Tahoe Data Clearinghouse 2008).
+The Truckee River is Lake Tahoe’s only surface
+outflow, flowing northeast through Reno,
+Nevada and into the terminal Pyramid Lake.
+Potamopyrgus antipodarum have not invaded
+Lake Tahoe or the Truckee River, but
+populations have become established in other
+proximate locations such as the Owens River,
+American River, Calaveras River, Mokelumne
+River, Colorado River, Putah Creek, Lake Mead,
+and Lake Shasta (Montana State University
+2011). Given the potential for boats bringing P.
+antipodarum from infested waters to either Lake
+Tahoe or the Truckee River, our study had two
+objectives: 1) to assess the likelihood of short
+term survival and changes in snail biomass, and
+2) to quantify the potential impacts of an
+invasion by P. antipodarum on periphyton
+standing crop and community composition.
+Regional land managers were interested in a fast
+assessment of invasion potential to assist with
+prioritizing management of potential aquatic
+invaders, so it was determined that a short term,
+low resolution, predictive experiment would be
+of management value.
+
+xmethods
+We conducted semi-natural laboratory
+experiments to determine the survivability of
+Potamopyrgus antipodarum, and its potential
+impacts on periphyton in the Truckee River and
+Lake Tahoe. Rocks with naturally occurring
+periphyton were placed into 75 L aquaria filled
+with approximately 60 L of water from each
+ecosystem. Each aquarium had a bottom surface
+measuring 30 × 60 cm. Twenty L of fresh water
+was brought in from the respective system every
+three days to diminish container and nutrient
+depletion effects. Two 1000 W Eye Hortilux
+Metal Halide grow lamps were placed above the
+aquaria and set to 12 h cycles to mimic natural
+light regimes. Environmental conditions (e.g.
+water temperature, dissolved oxygen,
+conductivity) in each aquarium were monitored
+every 12 hours for the 14 d duration of the
+experiments.
+Rock substrate with periphyton was collected
+from the Truckee River at Idlewild Park, in
+Reno, Nevada and from Carnelian Bay on the
+North Shore of Lake Tahoe, California in spring
+2006. These locations were chosen due to their
+accessibility and their popularity with the public
+for recreational fishing, swimming, and boating.
+The size of the individual rocks varied from 8 to
+60 cm3 and all of the aquaria were filled with a
+single layer of periphyton-covered rocks; the
+tops of the all the rocks were at least 10 cm
+below the surface of the water.
+Snails used in the experiments were collected
+in Putah Creek, California. This creek forms the
+outflow of Lake Berryessa and is located in the
+Coastal Range between Sacramento and the San
+Francisco Bay Area. Over six percent of the
+boats that come to Lake Tahoe have been in
+Lake Berryessa in the previous seven days
+(Wittman 2008). Therefore, it is plausible that
+this particular population of snails could be
+transported and introduced to either Lake Tahoe
+or the Truckee River. After the snails were
+collected they were placed into an aquarium with
+water from Putah Creek. To insure that all snails
+were alive initially, only snails that were moving
+up the sides of the aquarium were placed in petri
+dishes for sub-sampling and use in the
+experiments.
+The Truckee River experiment had a lowdensity
+treatment (LD; 2 replicates, 140
+snails/m2), a high-density treatment (HD; 2
+replicates, 7400 snails/m2), and a control (C; 4
+replicates, no snails). The control allowed us to
+test whether the snails had a quantifiable effect
+on periphyton growth. Density measurements
+refer to the number of snails divided by the area
+of the aquaria bottom (1800 cm2), not the area of
+rock substrate. The Lake Tahoe experiment had
+C, LD and HD treatments of similar densities to
+the Truckee River experiment, but each
+treatment (including C) had 2 replicates. We
+used relatively low snail densities to avoid the
+negative effects that competition for food
+resources would have on survival rates.
+Samples of periphyton were collected from
+rocks before and after the experiment (n = 6 for
+each replicate, so n = 36 for Tahoe, and n = 48
+for Truckee) by scraping a specified area
+(Truckee = 3 cm2, Tahoe = 5 cm2). The area
+scraped for the Tahoe experiment was larger
+because of lower periphyton standing crop.
+Samples prepared for chlorophyll-a analysis
+were frozen at -20 °C. Chlorophyll-a extraction
+was performed using a hot methanol procedure
+and analyzed with a spectrophotometer to
+determine periphyton standing crop (Eloranta
+1983, Iwamura et al. 1970). Enumeration and
+identification of algae (genus level) was
+accomplished using differential interference
+contrast microscopy on an Olympus BX-60
+(Olympus America Inc.) that was outfitted with
+epifluorescence capabilities. A minimum of 400
+natural unit counts (cells, colonies, or filaments)
+were identified. The minimum count was
+accomplished from random fields along transects
+on three slides. Medium size taxa (50 μm to 200
+μm) were counted at 200× (10 fields) and large
+taxa (> 200 μm) were enumerated at 100×
+(whole slide). All counts were standardized to
+the cobble area (cm2). One milliliter of subsample
+was acid washed (nitric acid 50% v/v)
+and fixed in a diatom mounting media for
+viewing at 1000× to confirm the identity of
+diatom genera. Algal growth forms were
+identified using Kutka and Richards (1996)
+metrics that were modified from Molloy (1992).
+Sub-samples of the water used in the
+experiments were obtained for nutrient analysis
+every time fresh water was collected (n = 5 for
+the Truckee River experiment, n = 6 for Lake
+Tahoe). Nitrate, ammonium, soluble reactive
+phosphorus, dissolved phosphorus, and total
+phosphorus were analyzed using standard
+methods (Clesceri et al. 2005; Solórzano 1969).
+Calcium levels were measured by mixing 20 ml
+of water from each of the sub-samples into two
+samples (one for the Truckee River and one for
+Lake Tahoe). These two samples were analyzed
+in accordance with EPA procedures (United
+States Environmental Protection Agency 1993).
+The snails used to determine pre-treatment
+mean snail weight were collected from the
+populations used in the experiments by randomly
+selecting snails from petri dishes full of live
+snails. Snails removed from the petri dish were
+dried and weighed. Snails that remained in the
+petri dish were used in the experiments. These
+sub-samples, collected before and after
+termination of the experiment, were dried at
+90ºC for 24 hours and individually weighed to
+determine mean snail weight using n = 150 snails
+for all pre-treatment (PT) weights, n = 200 for
+Truckee River HD post-treatment weights, and
+all surviving snails for the remaining treatment
+weights. To determine survivorship at the end of
+the experiment all snails in the aquaria were
+counted and placed into a smaller aquarium with
+fresh water from the respective system. A square
+was drawn on the bottom of the aquarium and
+the snails were given 48 h to move out of that
+square. Snails that showed no signs of movement
+after 48 hours were considered dead.
+Survivorship was determined by dividing the
+number of snails alive at the end of the
+experiment by the number of snails alive at the
+beginning. Growth rates are presented as percent
+of initial mean snail weight per day, calculated
+by dividing milligrams of growth per day in each
+treatment by the initial mean snail weight.
+Statistical tests were performed on mean snail
+weight and chlorophyll-a data that had been
+tested for equal variances by performing a Oneway
+ANOVA on the squared residuals and for
+normality using the Ryan-Joiner test (similar to
+Shapiro-Wilk). Multiple comparison tests
+(Tukey’s Honestly Significant Differences) were
+used in conjunction with One-way ANOVAs to
+determine which data sets were significantly
+different from each other. Where data were
+normal but variances were found to be unequal a
+weighted ANOVA was used (Ott and
+Longnecker 2010). Mean snail weight data were
+normalized with a square root transformation.
+Pre-treatment mean snail weights were compared
+between the two experiments using an ANOVA.
+Chi-squared tests were used to assess the
+significance of differences in survivorship
+between treatments. All statistical analyses were
+performed using Minitab 16 (Minitab Inc., State
+College, PA). Graphs were created using
+GraphPad Prism version 4.03 (GraphPad
+Software, La Jolla, CA).
+
+xresults
+Environmental conditions in the aquaria stayed
+moderately constant throughout the 14 days in
+both experiments (Table 1). Temperature, dissolved
+oxygen, and conductivity in the aquaria
+were similar to conditions in the field (USGS
+2011a, Kolosovich personal observation). Water
+collected from the Truckee River (February,
+2006) had higher nutrient levels than the water
+collected from Lake Tahoe (May, 2006).
+Ammonium, total phosphorus, and soluble
+reactive phosphorus concentrations in the waters
+of the two systems were all relatively similar
+(Table 1). Dissolved calcium (approximately 9–
+10 mg/L) did not seem to impact survival in the
+short-term. Water from the Truckee River did
+have slightly higher calcium concentrations
+(Table 1), but P. antipodarum are often found in
+waters with both high and low calcium content
+(Winterbourn 1970). Furthermore, Lodge et al.
+(1987) stated that when calcium concentrations
+are above 5 mg/L the success of snail
+establishment was governed by other factors,
+including food selectivity.
+In both experiments snail survival rates were
+higher in LD than HD treatments and
+survivorship was significantly different between
+the HD treatments in the two locations (Chi
+square p<0.001) and between the LD treatments
+(p<0.001). The difference in snail survival rates
+between LD and HD treatments were significant
+in both the Truckee River (Chi square p=0.016)
+and the Lake Tahoe experiments (p<0.001, Table
+2). Mean snail weights were not compared
+among locations because the snails used in the
+two experiments were collected from the same
+population but at different times and because the
+pre-treatment mean snail weights were different
+for the two experiments (ANOVA p<0.001,
+Figure 1). In the Truckee River experiment the
+PT, LD, and HD mean snail weights were found
+to be significantly different (ANOVA p<0.001)
+and the Tukey’s Honestly Significant Difference
+test showed that the PT mean snail weight
+differed from the LD and HD mean snail
+weights, but the LD and HD mean snail weights
+were not significantly different from each other
+(Figure 1). The mean snail weights in the Lake
+Tahoe experiment were found to be normally
+distributed but had unequal variances so a
+weighted ANOVA was used to determine
+significance and none of the differences were
+found to be statistically significant (p=0.098).
+When snail weights are converted to growth rates
+(as percent of initial biomass per day) then the
+LD treatments in both the Truckee River and the
+Lake Tahoe experiments behaved very similarly
+(1.746 and 1.741 respectively). In the Truckee
+River HD treatment the snails grew by 3.468
+percent of initial biomass per day and the snails
+in the Lake Tahoe HD treatment exhibited
+negative growth, losing 0.641 percent of their
+initial biomass per day (Table 2).
+A One-way ANOVA shows that the
+concentrations of chlorophyll-a in both LD and
+HD treatments and the control of the Lake Tahoe
+experiment were significantly different (ANOVA
+p=0.001). The Tukey’s Honestly Significant
+Difference test showed that the HD treatment
+differed significantly from the LD and the C, but
+the LD and the C were not significantly
+different. In the Truckee River experiment
+chlorophyll-a concentrations were found to be
+normally distributed, but the variances were not
+equal so a weighted ANOVA was used. The
+results indicate that none of the differences were
+statistically significant (ANOVA p=0.836,
+Figure 2).
+In the Truckee River experiment a total of 18
+diatom genera and one chlorophyte (Stigeoclonium)
+were identified. The assemblages were
+consistently similar (>70 %) among PT, C, LD,
+and HD treatments. The highly motile diatom,
+Nitzschia, was particularly abundant as well as
+the erect diatom Diatoma. In the Lake Tahoe
+experiment, 24 diatom genera, one cyanophyte
+(Oscillatoria), and two chlorophytes
+(Stigeoclonium and Cosmarium) were identified.
+These diatom-dominated assemblages were also
+consistently similar (>80% similarity) among
+PT, C, LD, and HD treatments. The araphid
+diatoms, Synedra and Fragilaria, dominated the
+Tahoe assemblages, thus inflating the relative
+abundance of erect growth forms. The primary
+substrate for these abundant erect taxa appeared
+to be excessive stalks (extracellular polymeric
+substances) produced by the diatoms,
+Gomphonema and Gomphoneis. These stalks did
+appear to decrease in the HD treatments. Stalks
+were also present in the Truckee biofilms,
+though not as excessive as in the Lake Tahoe
+experiment.
+
+xdiscussion
+Our results suggest that the Truckee River may
+be more susceptible than Lake Tahoe to an
+invasion by Potamopyrgus antipodarum. In the
+Truckee River experiment, snails had higher
+growth rates in the HD treatment than the LD
+treatment; however, survival rates were higher in
+the LD treatment (Table 2, Figure 1). The results
+of the ANOVA showed that mean snail weights
+in both LD and HD treatments were significantly
+different from the PT weight. This indicates that
+the snails did grow in both Truckee River
+treatments but the higher post-treatment mean
+snail weight in the HD treatment was not
+significantly different from the LD treatment.
+Generally >50 % of snails survived and grew at
+both densities in Truckee River water,
+suggesting the potential to persist in this
+environment.
+The Lake Tahoe experiment suggested low to
+moderate survival rates in that environment, with
+a decline in mean snail weight during the
+experiment timeframe in the HD treatment
+(Table 2). At the low density of 140 snails/m2,
+snails survived and grew. However, at the higher
+density of 7400 snails/m2, survivorship was very
+low (6%), and growth over 14 days was negative,
+suggesting difficulty in persisting in the Lake
+Tahoe environment at this density. In the Lake
+Tahoe experiment, periphyton in the HD
+treatment was grazed to such low levels that food
+availability may have been the main factor
+limiting survivorship and growth (Figure 2).
+Lake Tahoe is an oligotrophic ecosystem and
+periphyton productivity may not sustain high
+densities of P. antipodarum. It is possible that in
+the Lake Tahoe HD treatment, periphyton
+became so sparse and resource competition so
+high, that grazing became an activity in which
+the snails exhibited a net loss of energy.
+Snails tend to be effective grazers that can
+control algal biomass and community structure.
+The current work shows strong evidence of topdown
+effects on periphyton standing crop;
+however, there was no indication that the
+community structure was affected. Previous
+research suggested that physiognomy may not
+always be a good predictor of the susceptibility
+of different algae to grazing (Wellnitz and Ward
+1998). Similarly, Villanueva et al. (2004) found
+little change in the periphyton community
+composition due to grazing by another snail,
+Chilina dombeiana (Bruguiere, 1789). However,
+the duration of the current study may not have
+been enough time to result in a change in
+community structure due to grazing. Some
+studies did not see a divergence in similarity
+between their grazing treatments until after day
+16 (Lamberti et al. 1987; Steinman et al. 1992).
+The excessive amounts of stalk material in the
+Tahoe periphyton likely increased the carbon
+content of the biofilm grazed by snails, thereby
+increasing the carbon relative to nitrogen and
+phosphorus. Thus, the potential stoichiometric
+imbalance of Tahoe periphyton may have
+impaired survivability by providing poorer food
+quality compared to the Truckee River
+periphyton (Sterner and Elser 2002).
+After 14 days the systems might not have
+reached equilibrium and, given more time, snails
+in the Truckee River HD treatment could have
+experienced a population crash as well. Ideally,
+the experiment would have occurred over more
+than 14 days, but the need for immediate
+information to assist with ongoing management
+decisions as well as funding limitations
+necessitated the short duration of the
+experiments. In fact, results from this, as well as
+other studies in the region, led to the
+establishment of new guidelines for boat
+permitting and inspection at Lake Tahoe to
+proactively reduce the likelihood of nuisance
+aquatic species introductions (TRPA 2010;
+USACE 2009). As of June 2011 P. antipodarum
+have not been found to be in Lake Tahoe nor the
+Truckee River (Montana State University 2011;
+USGS 2011b).
+Potamopyrgus antipodarum has a strong
+ability for widespread colonization because of its
+environmental adaptability including tolerance of
+broad thermal ranges, osmotic concentrations,
+flow, disturbance regimes, and substrates
+(Winterbourn 1970; Hylleberg and Siegismund
+1987; Quinn et al. 1994; Schrieber et al. 2003;
+New Zealand Mudsnail Management and Control
+Working Group 2006; Butkus et al. 2012; Moffit
+and James 2012). The most effective way to
+minimize impacts is to prevent or slow snail
+introductions to new ecosystems. Since invasion
+vectors can include boats or other personal
+equipment (fishing gear, boots, etc), and the
+success of this species is a function of the clone
+present and local environmental conditions,
+ecosystem-specific experiments are important for
+determining survivability and the potential of
+P. antipodarum to successfully invade specific
+waterways. We offer a case study showing that
+the short–term survival of adult snails is possible
+in the nutrient poor ecosystems of the Western
+United States. Given that over 50% of the snails
+survived and exhibited measurable growth in
+both snail density treatments of the Truckee
+River experiment, our results indicate that if
+these snails are transported to the Truckee River,
+they will be able to prosper in high densities.
+The Truckee River is a popular fishing
+destination for the residents of Reno, NV,
+especially because it flows through the center of
+town. It is also connected to other lakes that are
+popular among fishermen (e.g. Virginia Lake,
+Pyramid Lake, and Washoe Lake). Local, state,
+and Native American tribal agencies should be
+proactive in investigating survival and growth
+potentials of invasive species in western
+waterways. Such information would aid in
+predicting potential outcomes of species
+invasions and could be used to prioritize what
+species and ecosystems should be of primary
+concern.

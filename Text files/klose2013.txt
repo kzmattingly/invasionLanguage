@@ -1,0 +1,884 @@
+xabstract
+The effects of invasive species on native
+communities often depend on the characteristics of the
+recipient community and on the food habits of the invasive
+species, becoming complicated when the invader is
+omnivorous. In field enclosure experiments, we assessed
+the direct and interactive effects of an invasive omnivorous
+crayfish (Procambarus clarkii) and either native herbivorous
+snails (Physella gyrina) or shrimp (Atyoida bisulcata)
+on stream communities in California and Hawaii, respectively.
+Based on literature data and the characteristics of
+each study site, we predicted that crayfish would affect
+primarily algal-based trophic linkages in an open California
+stream but detritus-based trophic linkages in a shaded
+Hawaiian stream, with trophic cascades mediated through
+crayfish effects on primary consumers being observed in
+both systems. As predicted, crayfish in California directly
+reduced periphyton, filamentous algae, sediment, and snail
+levels, but generated a cascade by decreasing snail densities
+and increasing periphyton biomass. Contrary to prediction,
+crayfish did not reduce total invertebrate biomass.
+As predicted, crayfish in Hawaii reduced leaf litter,
+filamentous algae, and benthic invertebrate biomass. Contrary
+to our predictions, however, a trophic cascade was not
+observed because shrimp did not affect periphyton levels,
+crayfish did not reduce shrimp abundance, and crayfish had
+greater negative impacts on filamentous algae than did
+shrimp. Our findings highlight that the same invasive
+species can generate different effects on disparate systems,
+probably as mediated through the availability of different
+food types, flexibility in the invasive species’ food habits,
+and complex pathways of trophic interaction.
+
+
+xintroduction
+Although covering only a minute proportion of the Earth’s
+surface (\2 %), freshwater systems contain 6 % of all
+described species, but have extinction rates five times
+higher than terrestrial and marine systems combined
+(Ricciardi and Rasmussen 1999; Sala et al. 2000; Dudgeon
+et al. 2006). The introduction and spread of invasive species,
+and their impacts on native ecosystems, rank second
+only to habit degradation as a threat to global biodiversity
+(Sala et al. 2000). In some cases, invasive species may
+remain undiscovered for many years with few discernible
+ecological impacts; however, in other cases, the invasion
+and spread of introduced species result in profound biological
+and economic changes (Herbold and Moyle 1986;
+Kolar and Lodge 2000). As a consequence, scientists and
+managers are interested in determining the attributes of
+invasive species and recipient communities which allow
+invaders to thrive and greatly affect native communities,
+including reductions or extinctions of native taxa.
+The characteristics of invasive species that determine
+their persistence and expansion in novel communities have
+been postulated to include: (1) broad physiological tolerances,
+(2) high genetic variability, (3) high fecundity, rapid
+growth and early maturity, (4) rapid dispersal, and (5)
+generalist habitats and diets (e.g., omnivory) (Kolar and
+Lodge 2001). Regarding the last point, some invasive
+omnivores pose multiple threats to native species through
+competition for shared resources, predation on native taxa,
+and alteration of environmental conditions and native prey
+behavior (Polis et al. 2000; Turner et al. 2000; Vandermeer
+2006; Thompson et al. 2007). The broad diets and habitat
+tolerances of invasive omnivores often also dictate that
+their impacts depend on recipient community attributes
+such as: (1) the degree to which areas are affected by
+human disturbance, (2) the comparability of new environments
+to the alien species’ habitat of origin, (3) low or high
+native species richness, and (4) the relative availability of
+different food sources (Hobbs and Huenneke 1992; Levine
+and D’Antonio 1999; Stohlgren et al. 1999; Naeem et al.
+2000; Fridley et al. 2007). Likewise, systems affected by
+changing land use patterns, such as those in California, as
+well as native ecosystems with high levels of endemicity,
+such as island ecosystems (e.g., Hawaii), may be particularly
+vulnerable to invasions (Elton 1958; Vitousek and
+Walker 1989; Nichols et al. 1990; Levine and D’Antonio
+1999; Holway et al. 2002). Although many previous studies
+have focused on the effects of invasive species on specific
+native taxa, species invasions, particularly by omnivores,
+can affect entire food webs via direct and indirect interactions
+through multiple trophic levels.
+Several studies have documented the importance of
+omnivores in structuring lake and pond communities,
+focusing on the effects of omnivorous crayfish on food
+webs (Lodge et al. 1994; Nystro¨m et al. 1999). As generalized
+omnivores, crayfish typically influence the biomass,
+abundance, and species composition of algae,
+macrophytes, detritus, and other benthic invertebrates;
+however, these impacts are often specific to the taxa or
+system under consideration. For example, the direct effects
+of crayfish on highly mobile taxa (e.g., baetid mayflies)
+may be weak relative to their impacts on slow-moving
+invertebrates, such as snails (Parkyn et al. 1997; Nystro¨m
+2005). Although omnivorous invasive decapods are often
+abundant in streams with a diversity of food resources,
+including algae and leaf litter, only a few studies have
+assessed their separate and joint impacts with native
+grazers and detritivores on stream communities (Hart 1992;
+Creed 1994; Usio and Townsend 2004; Nilsson et al.
+2008).
+Here, we compare the impacts of the same invasive
+crayfish species and native primary consumers (grazers,
+detritivores) on the community of a temperate stream with
+an open canopy in California (Ventura River) to their
+impacts on a forested tropical stream community in Hawaii
+(Waiau Stream). Unlike open California streams, Hawaiian
+streams contain few invertebrate species (Ziegler 2002)
+and receive substantial leaf litter inputs from abundant
+riparian vegetation. We focused on the effects of an invasive
+omnivore in temperate mainland and tropical island
+systems because of the omnivore’s importance in influencing
+benthic food webs (invertebrates, algae, leaf litter),
+its potential to affect native consumers through both
+competition and predation (Usio 2000; Klose and Cooper
+2012), and the paucity of information about the effects of
+an invasive omnivore on depauperate native stream invertebrate
+communities on islands (Larned et al. 2003).
+The red swamp crayfish, Procambarus clarkii (Girard),
+is native to the south central United States and is currently
+the most broadly distributed crayfish species in the world,
+reaching high densities in streams in southern California
+and Hawaii (Gamradt and Katz 1996; Huner 2002; Riley
+et al. 2005; Klose and Cooper 2012). The dominant
+macroinvertebrate primary consumer in the southern Californian
+stream we studied was the herbivorous snail Physella
+gyrina (Say), whereas the atyid shrimp Atyoida
+bisulcata (J.W. Randall), which primarily functions as a
+collector/gatherer (Resh et al. 1990), was the most abundant
+large macroinvertebrate in the Hawaiian stream. The
+Ventura River had an open canopy and substantial biomasses
+of both filamentous algae (Cladophora Ku¨tzing)
+and invertebrate taxa (i.e., baetid mayflies, chironomids,
+philopotamid caddisflies), moderate microalgae (primarily
+diatoms) and physid snail biomass, and negligible leaf litter
+inputs. The shaded Waiau Stream, on the other hand,
+contained moderate levels of filamentous algae (Spirogyra
+C.G. Nees) and invertebrate biomass (i.e., hydropsychid
+caddisflies, nematodes, oligochaetes), abundant atyid
+shrimp, a low biomass of microalgae (i.e., periphyton), and
+high leaf litter levels (i.e., Hibiscus tiliaceus L., Schizostachyum
+glaucifolium (Rupr.) Munro). To examine the
+direct, indirect, and interactive community impacts of the
+invasive red swamp crayfish, P. clarkii, and two native
+consumers in disparate systems, we experimentally
+manipulated crayfish and snails or shrimp in a cross-classified
+design in field enclosures in streams in southern
+California and Hawaii to address the following two questions.
+(1) What are the individual and combined effects of
+crayfish and snails (California) or shrimp (Hawaii) on
+inorganic sediment, leaf litter mass, algal biomass, invertebrate
+densities and biomass, and snail microdistributions
+in systems which differ in abiotic and biotic characteristics?
+(2) What do the individual and combined effects of an
+invasive omnivorous crayfish and two native consumers in
+dissimilar stream communities indicate about the direct and
+indirect effects of crayfish on different food webs?
+Because the red swamp crayfish is omnivorous and
+typically reduces the biomass of both filamentous algae and
+slow-moving benthic invertebrates (e.g., snails), we predicted
+that crayfish in the unshaded California stream
+would affect primarily the components of algal-based food
+webs by directly grazing periphyton and filamentous algae,
+and consuming aquatic insects and herbivorous snails, the
+latter leading to a trophic cascade with increased microalgae
+biomass (Fig. 1a) (Hart 1992; Creed 1994; Lodge
+et al. 1994; Nystro¨m et al. 1999; Klose and Cooper 2012).
+In the Hawaiian stream, on the other hand, we hypothesized
+that crayfish would reduce both filamentous algae,
+which were patchily distributed on the stream bottom, and
+atyid shrimp densities (Banha and Anasta´cio 2011), the
+latter resulting in increases in the biomasses of filamentous
+algae and periphyton (primarily diatoms), as well as reduce
+components of the detritus-based food web (i.e., collectors,
+leaf litter, fine particulate organic matter) (Fig. 1b; Pringle
+et al. 1993; Usio 2000; Schofield et al. 2001; Ziegler 2002).
+We did not expect to see trophic cascades in the detritusbased
+food chain because shredders, except for the omnivorous
+crayfish, were virtually absent in Hawaii. Among
+invertebrates, we predicted that crayfish would primarily
+reduce large, slow-moving or sedentary prey (e.g., snails,
+oligochaetes, odonates), but would have little direct effect
+on evasive, mobile, and/or small prey (microcrustaceans,
+amphipods, baetid mayflies) (Parkyn et al. 2001; Stenroth
+and Nystro¨m 2003; Nystro¨m 2005). We examined our
+hypotheses by manipulating the densities of crayfish and
+two primary herbivorous/detritivorous consumers (snails or
+shrimp) in enclosures in a Californian and a Hawaiian
+stream.
+
+
+xmethods
+Invasion and natural histories
+Ventura River and Waiau Stream
+The precise timing and location of red swamp crayfish
+(P. clarkii) introductions into southern California, including
+the Ventura River, are unknown; however, this crayfish
+species was first documented from a southern California
+stream (near Pasadena, Los Angeles County) in the 1920s
+(Holmes 1924). Based on historical records, it is likely that
+P. clarkii spread into rivers and streams from reservoirs
+where they escaped or were deliberately released as bait for
+recreational sport fishing (Riegel 1959). Stomach content
+and stable isotope analyses show that crayfish feed on
+detritus, algae, plants, invertebrates (including other crayfish),
+and vertebrates (including fish and amphibians)
+(Guan and Wiles 1997; Parkyn et al. 2001; Stenroth and
+Nystro¨m 2003), and become key shredders in systems
+receiving high inputs of allochthonous material (Ilheu and
+Bernardo 1993). The distribution of the freshwater gastropod
+P. gyrina extends from California to the Gulf of
+Mexico, and northward to Quebec and the Northwest
+Territories (Dillon and Wethington 2004). P. gyrina consumes
+detritus, algae, fungi, and living animal and vascular
+plant material, but is primarily a herbivore (Sheldon 1987).
+P. clarkii was first introduced to the Hawaiian Island of
+Oahu in 1934 then spread rapidly, invading Kauai and
+Maui by 1954 and Molokai and Hawaii shortly thereafter,
+becoming a pest which damaged both taro plants and irrigation
+levees (Huner 1977). The mountain atyid shrimp,
+A. bisulcata, is an algivore/detritivore endemic to the
+Hawaiian Islands, functioning as a collector/gatherer at low
+flow velocities and as an omnivorous filter feeder at high
+current speeds (Resh et al. 1990; Ziegler 2002).
+The design of field experiments in California
+and Hawaii
+Because the Waiau Stream site was remote and difficult to
+reach, we could not use the same experimental enclosures
+in the Ventura River and Waiau Stream. Although we
+manipulated the presence-absence of crayfish and dominant
+primary consumers (snails in the Ventura River,
+shrimp in Waiau Stream) in a cross-factorial design in both
+systems, we used rectangular stream channels (2 m
+long 9 0.31 m wide 9 0.15 m high) in the Ventura River
+and smaller cylindrical enclosures (0.30 m diameter
+9 0.37 m high) in Waiau Stream. Despite differences
+in the size and shape of experimental arenas used at these
+sites, the results suggest that these differences probably did
+not affect experimental outcomes because crayfish effects
+were most manifest on sedentary resources in both systems
+(Englund et al. 2001). Nevertheless, the methods and
+results for both systems are presented separately here, as
+two independent experiments, but the results from the two
+systems are compared to each other and to those from other
+systems in the ‘‘Discussion’’.
+Study sites
+Ventura River
+This experiment was conducted for 12 days in a third-order
+section of the Ventura River, southern California, during
+July 2004. The Ventura River flows southward 26 km from
+an elevation of[1,400 m in the Transverse Ranges to the
+Pacific Ocean, draining a 590-km2 catchment. The Ventura
+River is alkaline (pH 8.0) and mesotrophic (NH4
+? =
+0.1–0.6 lmol L-1, NO3
+- = 31.3–37.7 lmol L-1, SRP =
+1.2–1.9 lmol L-1). The study section was 6–8 m wide
+with a 25 % riparian canopy represented by giant reed
+(Arundo donax L.), western sycamore (Platanus racemosa
+Nutt), and willow (Salix spp. L). Current velocities and
+water temperatures ranged from 4 to 25 cm s-1 and 18 to
+22.5 C during the study period, average water depth was
+0.3 m in riffles and ranged from 1 to 4 m in pools, and
+substrata consisted largely of sand and gravel in pools, and
+medium to large cobbles in riffles. Cladophora sp. (Ku¨tzing)
+was the dominant macroalga, microalgae were represented
+by diatoms, and common benthic invertebrates
+included mayflies (Tricorythodes Ulmer), chironomids
+(Chironomidae: Chironominae, Orthocladiinae), worms
+(oligochaetes), crustaceans (Hyalella azteca Saussure),
+microcrustaceans (ostracods, chydorid cladocerans, copepods),
+and gastropods (P. gyrina). The density of P. clarkii
+was estimated on two occasions using night visual counts
+within a modified quadrat sampler. Ten 1-m2 areas were
+delineated with four re-bar posts driven into substrata and
+extended above the water line (0.3–0.4 m water depth).
+Immediately prior to the visual count of each area, the
+re-bar was surrounded on all sides by 0.4 cm mesh netting
+forming a quadrat. Crayfish density was estimated by using
+a headlamp and scanning the stream bottom within the
+delineated area at night, turning over all large rocks and
+cobbles and counting all crayfish on the stream bottom.
+The P. clarkii density estimate was 3.7 ± 1.2 individuals
+m-2 (mean ± 1 SE) over the two sampling occasions,
+agreeing with estimates obtained in other years (Klose
+2007). Fish species occurring in the study reach, based on
+minnow trap catches (20 baited traps set out overnight;
+each 42 cm long 9 23 cm diameter, with a 4-cm-deep
+funnel) and direct observations, included threespine stickleback
+(Gasterosteus aculeatus L.), arroyo chub (Gila
+orcuttii Eigenmann and Eigenmann), prickly sculpin
+(Cottus asper Richardson), and rainbow trout (Oncorhynchus
+mykiss Walbaum).
+Waiau Stream
+Fieldwork was conducted during September 2004 in Waiau
+Stream, a second-order stream on the island of Hawaii,
+located 5 km east of the Hilo Forest Reserve. Waiau Stream
+flows eastward 3.5 km before discharging into Hilo Bay.
+The stream is slightly alkaline (pH 7.6) and oligotrophic
+(NO3
+- = 9.1 lmol L-1, SRP = 1.7 lmol L-1). During
+the 12-day study period, the study reach was 10–11 m wide,
+average water depths were 0.35 m in riffles and 1.5 m in
+pools, current velocities ranged from 0 to 100 cm s-1 and
+water temperatures from 20 to 23 C, and stream substrata
+were diverse, including bedrock and basaltic boulders in
+riffles, and coarse gravel and small cobbles in pools.
+Riparian canopy cover was 68 % and represented by guava
+(Psidium guajava L.), hau (H. tiliaceus), bamboo (S. glaucifolium),
+siris (Albizia lebbeck (L.) Benth.), false heather
+(Cuphea hyssopifolia Kunth) and Job’s tears (Coix lacrymajobi
+L.). Spirogyra was the dominant filamentous algal
+genus present, microalgae included epilithic diatoms,
+and the benthic invertebrate community was comprised
+of worms (oligochaetes, nematodes, and polychaetes),
+flatworms (Dugesia sp.), microcrustaceans (ostracods,
+copepods, chydorid cladocerans), and introduced caddisflies
+(Hydropsychidae: Cheumatopsyche pettiti (Banks),
+Hydroptilidae: Oxyethira mira (Morton) and Hydroptila
+arctia (Ross)). Decapod and fish species present included
+Tahitian prawns (Macrobrachium lar J.C. Fabricius), red
+swamp crayfish (P. clarkii), mountain shrimp (A. bisulcata),
+and guppies (Poecilia reticulata Peters). Based on one
+night’s visual survey (using methods described previously
+for the Ventura River), and another survey that included
+hand-netting and mark–recapture methods (Ricker 1975),
+P. clarkii average density was calculated to be 1.2 ± 0.3
+crayfish m-2 and A. bisulcata density was estimated to be
+22 ± 7.5 shrimp m-2.
+Experimental methods
+Ventura River
+Sixteen parallel stream channels constructed from polyvinyl
+chloride (PVC) pipe cut longitudinally in half were
+placed in a low velocity riffle in an unshaded stream reach
+with high background densities of adult crayfish, with
+channel environments closely mimicking the biotic and
+abiotic (e.g., water temperature, substrata) conditions in the
+reach. Two (2 m long 9 0.31 m wide 9 0.15 m high)
+stream channels were mounted onto each of eight
+1.2 9 2.4 m plywood sheets coated with water resistant
+Varathane, which were then placed on the stream bottom.
+The channel top edges protruded 2–3 cm above the water’s
+surface and the ends of each channel were fitted with
+plastic screens (0.3 cm mesh width) which were cleaned
+daily, allowing continuous water flow and colonization by
+invertebrates while preventing the escape or entry of
+crayfish and snails. Natural substrata from an area of
+stream bed equal to the total area of all channels combined
+were elutriated to separate invertebrates from substrata,
+then substrata were scrubbed and carefully selected to
+mimic natural stream conditions, with an equal number of
+very small (24), small (12), medium (5), and large (3)
+substrata placed into each channel (mean circumferences 7,
+21, 36, and 58 cm, respectively), along with sand and
+gravel to an average depth of 2.5 cm. Four open-ended
+PVC cylinders (20 cm long 9 8 cm diameter) were placed
+on the bottom of each stream channel at equally spaced
+intervals to provide shelter for crayfish and reduce intraspecific
+interactions. Current velocities within each channel
+ranged from 0 to 3 cm s-1. Invertebrates and algae collected
+from the elutriated substrata were combined, mixed
+thoroughly in a bucket, then equal aliquots were added to
+each stream channel, ensuring that initial abundances
+of invertebrates and algae were similar among enclosures.
+Square unglazed ceramic tiles (2.3 cm on each
+side 9 0.5 cm thick) were placed on the stream bed for
+4 weeks for periphyton colonization, then 25 preconditioned
+tiles were placed along the bottom of each stream
+channel at equally spaced intervals at the beginning of
+the experiment. A standardized mass of Cladophora
+(81.2 ± 2.85 g wet mass) was bound and tethered in the
+center of each channel, producing Cladophora coverage
+similar to that measured in the Ventura River (Klose,
+unpublished data). We have often observed P. clarkii
+actively foraging in the Ventura River and similar nearby
+streams, often in stagnant pools during the summer and fall
+dry season, at depths similar to those in our stream channels
+both at night and during the day (Klose and Cooper
+2012).
+Four treatments were randomly assigned to channels
+with each replicated four times in a fully factorial design as
+follows: P. clarkii only (2 crayfish per channel, 3.2 crayfish
+m-2), P. gyrina only (100 snails per channel,
+127 snails m-2), both P. clarkii and P. gyrina (2 crayfish
+and 100 snails per channel), and neither P. clarkii or
+P. gyrina (control). All individual crayfish were of similar
+length and mass (8.8 ± 0.14 cm TL and 22.3 ± 1.3 g wet
+mass). Natural densities of P. gyrina ranged from 0 to
+321 snails m-2 (9.9 ± 0.25 mm TL) (Klose, unpublished
+data). Channel tops were covered with thin, transparent
+netting (0.4 cm mesh) and secured every 10 cm with
+removable metal clips to exclude avian and mammalian
+predators and to prevent crayfish and snail escape. Light
+levels measured as photosynthetically active radiation
+(PAR) were recorded below the water’s surface within each
+stream channel, both with and without the netting in place,
+producing an estimate of the amount of light reduction by
+the netting of 4.5 %.
+Day and night visual surveys were performed 5 days
+following the start of the experiment in channels which
+contained snails to determine the number of P. gyrina on
+the tops of substrata, on the walls of stream channels both
+above and below the water line, and on crayfish shelters.
+Two researchers counted all snails on each of these surfaces,
+and data from the two observers were averaged.
+Night visual counts were conducted using flashlights and
+began 1 h after sunset (2115 hours PST) and were completed
+at 2300 hours. Four ceramic tiles were collected at
+the beginning and end of the experiment from each channel
+for periphyton biomass estimates [as ash free dry mass
+(AFDM) and chlorophyll a concentrations], then frozen on
+return to the laboratory. Initial invertebrate densities were
+sampled using a 0.041-m2 Surber sampler (250 lm mesh
+size, 3 Surber samples per channel), and final sampling was
+performed by washing the entire contents of each stream
+channel into a 250-lm mesh drift net at the channel outflow.
+Invertebrate samples were preserved in the field in
+75 % ethanol. All crayfish were recovered at the end of the
+experiment.
+Waiau Stream
+Sixteen cylindrical plastic containers (0.30 m diameter
+9 0.37 m high) were placed 8 cm apart on the stream
+bottom along a pool-riffle transition zone at a water depth
+of 30 cm, and covered with transparent netting (0.4 cm
+mesh width). Each container had 20 holes (0.7 cm diameter)
+on opposite sides toward the top which allowed
+continuous water flow through the containers. Current
+velocities within each enclosure ranged from 0 to
+1 cm s-1. Elutriated stream gravel to a depth of 5 cm and
+ten small, three medium, and one large cobble (circumferences
+5, 10, and 22 cm, respectively) from the streambed
+were placed on the bottom of each enclosure. One
+open-ended PVC cylinder (13 cm long 9 4 cm diameter)
+was placed on the bottom of each enclosure as a crayfish
+refuge, then enclosures were stocked with natural densities
+of benthic invertebrates and algae collected from Waiau
+Stream using the same procedures described for the Ventura
+River study.
+The presence and absence of P. clarkii and A. bisulcata
+were manipulated in enclosures in a factorial design
+with each treatment being replicated four times: one
+P. clarkii only (14 crayfish m-2), three A. bisulcata only
+(42 shrimp m-2), both P. clarkii and A. bisulcata (1 crayfish
+and 3 shrimp), and neither P. clarkii or A. bisulcata
+(control). The density of crayfish used in the enclosures
+was higher than natural densities; however, it was impossible
+to add fewer than one crayfish per enclosure. All
+experimental crayfish were of similar length and mass
+(7.4 ± 0.24 cm TL and 15.1 ± 1.4 g wet mass, respectively),
+and A. bisulcata averaged 3.6 ± 0.1 cm TL. All
+P. clarkii were recovered at the end of the experiment.
+To examine the effects of consumers on periphyton
+biomass, two initial and two final periphyton samples were
+collected from the top of a cobble placed in each experimental
+container by scrubbing, brushing, and washing a
+6.2-cm2 cobble area into a pan of water, then filtering the
+suspension through A/E filters which were frozen for later
+analysis. Hibiscus and Schizostachyum leaf packs (initial
+wet masses 4.2 ± 0.18 and 1.8 ± 0.05 g, respectively) and
+a clump of the filamentous green alga, Spirogyra (initial
+wet mass 3.8 ± 0.07 g) were bound and tethered to the
+bottom of each enclosure and weighed at the beginning and
+end of the experiment, including any loose fragments
+observed at the end of the experiment. Invertebrates were
+sampled at the end of the experiment by washing and
+elutriating all substrata in each container through a 250-lm
+mesh net, then preserving samples in 75 % ethanol.
+Laboratory methods
+Invertebrates were identified to the lowest practical taxonomic
+level (generally family or genus for insects and
+mollusks, coarser levels for other taxa) and counted under a
+dissecting microscope at 912 magnification. Average
+individual dry mass for each taxon within each channel was
+determined by averaging the lengths of ten individuals of
+each taxon from each channel which were measured to the
+nearest 0.01 mm using digital calipers, then calculating dry
+weights using length–weight relationships (Meyer 1989).
+Invertebrate taxa were assigned to functional feeding or
+size categories, including herbivores/detritivores, predatory
+invertebrates, meiofauna, and filter feeders using designations
+in Merritt and Cummins (1996) and Thorpe and
+Covich (2001) (ESM Appendices D, E). Owing to their
+broad range of feeding modes and diets, Chironominae
+(here Chironominae and Orthocladiinae combined) were
+excluded from functional feeding group categorizations,
+but chironomids belonging to the Tanypodinae were treated
+separately as small predators. Chironomids (Chironominae,
+Orthocladiinae), however, were included in total
+invertebrate density and biomass calculations.
+Ceramic tiles from the Ventura River experiment were
+brushed clean and rinsed with distilled water. The resulting
+slurry was split into two equal aliquots which were filtered
+onto separate A/E filters, then stored at -20 C until AFDM
+and chlorophyll a determinations. In both experiments, filters
+were extracted at 4 C in 90 % acetone for 24 h, then
+chlorophyll a concentrations were measured by fluorometry
+using the acidification method (Sartory and Grobbelaar
+1986). For AFDM analysis, samples were dried at 60 C for
+24 h, weighed to the nearest 0.1 mg, then reweighed following
+combustion at 500 C for 2 h. AFDM was determined
+as the difference between initial and final dry weight
+following ignition (Steinman and Lamberti 1996).
+Statistical analyses
+Statistical analyses were conducted using the mean value
+for each response variable from each stream channel or
+enclosure as a replicate value. We compared the final mean
+levels of chlorophyll a, AFDM, and inorganic sediment in
+control treatments of the Ventura River and Waiau Stream
+using Student’s t tests (n = 4 from each stream). Effects of
+treatment on initial chlorophyll a and AFDM levels, and
+initial masses of filamentous algae and leaf packs, were
+determined using two-way ANOVAs. If no initial differences
+between treatments were detected then the final
+effects of treatments were determined by applying two-way
+ANOVAs to final response variable values only. If there
+were significant associations between treatment and initial
+levels of these variables, then two-way ANOVAs were
+performed on proportional changes (final/initial) in the
+values of these variables. Independent variables in all twoway
+ANOVAs were the presence versus absence of crayfish
+and snails (Ventura River) or shrimp (Waiau Stream).
+In the Ventura River study, where the densities and microdistributions
+(proportion observed above the water line)
+of snails were monitored during the day and night, the
+effects of crayfish and time of day on P. gyrina densities
+and microdistributions were evaluated using repeated
+measures ANOVAs.
+Prior to all analyses, normality was tested using the
+Kolmogorov–Smirnov test and residuals from analyses
+were plotted and examined. If assumptions of normality
+and homogeneity of variances could not be met, then values
+of count or continuous variables were log10-transformed.
+When variables included zero values, then one or
+the smallest detectable unit for that response variable was
+added to all values for that variable prior to transformation
+(Quinn and Keough 2002). All statistical analyses were
+performed with JMP v.6.0.0 for WindowsTM (SAS Institute,
+Cary, NC, USA).
+
+
+xresults
+Ventura River
+In general, our enclosure experiment supported some but not
+all of our predictions of crayfish effects on components of
+the California stream food web.We hypothesized that, in the
+absence of crayfish, snails would reduce periphyton biomass
+(as chlorophyll a and AFDM), and inorganic sediment
+levels, but that crayfish, when present, would reduce snails
+which would release periphyton from grazing pressure,
+leading to increases in periphyton biomass. These predictions
+were supported by the experimental results, because
+snails significantly reduced periphyton and sediment levels
+when crayfish were absent, crayfish reduced snail densities
+and drove them into refugia above the water line, particularly
+at night, and periphyton biomass and sediment levels
+were higher in the presence than absence of crayfish when
+snails were present (Figs. 2, 3; Table 1). Although crayfish
+reduced periphyton and sediment levels, their effects were
+not nearly as pronounced as those for snails, and periphyton
+biomass and sediment levels were similar in treatments with
+crayfish regardless of the presence of snails (Fig. 2). Further,
+in support of our predictions, crayfish, but not snails,
+significantly reduced the biomass of Cladophora (Fig. 2;
+Table 1; ESM Appendix A).
+Invertebrate biomass and abundance across all treatments
+in the Ventura River were dominated by Chironominae
+(51 % of total biomass, 15 % of total density),
+Ostracoda (11, 31 %), Cyclopoida (8.1, 28 %), Wormaldia
+(7.1,\1 %), and Baetis tricaudatus (6.2 %, 1.2 %). Herbivores/
+detritivores comprised 16 %, predatory invertebrates
+1.1 %, meiofauna 24.2 %, and filter feeders 7.1 % of
+total invertebrate biomass and 13.6, 0.05, 71.1, and 0.16 %,
+respectively, of total invertebrate density (ESM Appendix
+D). There were significant crayfish 9 snail interaction
+effects on the biomasses of total invertebrates, filter feeders,
+and Chironominae, and densities of Chironominae,
+because levels of these variables were higher in the snail
+alone and crayfish alone treatments than in the control or
+crayfish ? snail treatments (Table 2). Crayfish reductions
+of the densities of predatory invertebrates (i.e., Tanypodinae,
+Graptocorixa, Enallagma) were marginally significant
+(Fig. 4; ESM Appendices B, D). Other feeding groups or
+size categories, such as total invertebrate and filter feeder
+densities, herbivore/detritivore and meiofauna biomasses
+and densities, and taxon diversity, richness and evenness
+were unaffected by treatment (ESM Appendices B, D).
+Waiau Stream
+We predicted that crayfish effects on periphyton biomass
+and inorganic sediment levels when alone would be minimal
+owing to low periphyton and sediment levels in this
+shaded stream, and that crayfish consumption would be
+directed at more abundant resources such as filamentous
+algae, leaf litter, and benthic invertebrates. Many of our
+predictions were confirmed because crayfish had no effects
+on periphyton and sediment levels, but reduced filamentous
+algae, benthic invertebrate, and leaf litter levels (Figs. 5, 6;
+ESM Appendices A, C). However, we also hypothesized
+that shrimp would reduce periphyton, filamentous algae,
+and sediment levels, and that crayfish, when present, would
+consume shrimp leading to increases in the levels of these
+variables. Somewhat contrary to our predictions, shrimp
+had no significant effect on periphyton biomass, but did
+marginally reduce sediment levels and Spirogyra biomass
+(Fig. 5; Table 1; ESM Appendix A). Regarding the
+hypothesized trophic cascade, we found that crayfish had
+no effect on shrimp density, that there were no effects of
+shrimp or crayfish, alone and together, on periphyton
+biomass, and that crayfish caused larger reductions in filamentous
+algae biomass than did shrimp, but that average
+sediment levels were marginally higher in the presence
+versus absence of crayfish when shrimp were present
+(Fig. 5; Table 1; ESM Appendix A).
+More specifically, final numbers of shrimp remaining in
+enclosures at the end of the experiment were not significantly
+different between treatments with and without
+crayfish (shrimp density when alone 35 ± 7.1 m-2; shrimp
+density with crayfish 28 ± 5.8 m-2; mean ± 1 SE) (t test
+comparing shrimp vs. crayfish ? shrimp treatments: t =
+-0.77, P = 0.50). Invertebrate biomass and density were
+dominated by Oligochaeta (65 % of total biomass, 27 % of
+total density), Hydrachna (8.9, 9.1 %), Ostracoda (8.1,
+25 %), C. pettiti (7.7, \1 %), and Dugesia (4.3, 1.3 %).
+Herbivores/detritivores comprised 67.4 %, predatory
+invertebrates 4.7 %, meiofauna 20.2 %, filter feeders
+7.8 %, and Chironominae\1 % of total invertebrate biomass
+and 28.1, 1.4, 69.7,\1, and\1 %, respectively, of
+total invertebrate density (ESM Appendix E). As predicted
+from the known feeding habits of crayfish and A. bisulcata,
+total invertebrate and herbivore/detritivore biomasses and
+densities (primarily oligochaetes) were reduced by crayfish,
+but not by shrimp (Fig. 6; Table 2; ESM Appendix C).
+Both crayfish and shrimp appeared to marginally reduce
+predatory invertebrate (primarily flatworm) levels, but their
+effects when together were similar to their individual
+effects when alone (Fig. 6; ESM Appendix C). Taxon
+diversity, richness, and evenness, and the biomasses and
+densities of Chironominae and meiofauna were unaffected
+by treatment (Fig. 6; ESM Appendix E).
+
+xdiscussion
+The results of this study provide experimental support for
+the hypothesis that the biological and physical characteristics
+of recipient ecosystems, such as autochthonous
+production and allochthonous input rates, and consumer
+behavioral characteristics, drive an invasive omnivore’s
+consumption patterns, ultimately influencing food web
+structure and function. Based on literature information, we
+predicted that crayfish would primarily affect components
+of an algae-based food web in an open California stream
+but components of a detritus-based food web in a shaded
+Hawaiian stream. More specifically, we predicted that
+crayfish would have strong effects on filamentous algae,
+periphyton (diatoms), sediment, total invertebrates, and
+snails in the Ventura River, and strong effects on shrimp,
+total invertebrates, filamentous algae, and leaf litter, but
+weak effects on periphyton, in Waiau Stream. We also
+predicted that snails and shrimp would reduce periphyton
+and sediment levels and that the addition of crayfish would
+reduce these primary consumers leading to increases in
+periphyton and sediment levels. Finally, we expected that,
+among invertebrates, crayfish would have the greatest
+impacts on large, slow-moving or sedentary prey because
+these prey are easiest to catch and handle.
+There was mixed confirmation for our predictions. In
+this study, crayfish reduced large, slow-moving invertebrates
+(e.g., snails, odonates, oligochaetes) and had few
+effects on active, mobile prey (e.g., shrimp, amphipods,
+baetid mayflies), consistent with literature data indicating
+that large, slow-moving or sedentary prey are most vulnerable
+to crayfish predation (Lodge et al. 1994; Parkyn
+et al. 1997; Nystro¨m et al. 1999; Klose and Cooper 2012).
+We predicted that crayfish would reduce snails in California
+and shrimp in Hawaii (Banha and Anasta´cio 2011;
+Klose 2011; Klose and Cooper 2012). Consistent with the
+literature, we found that crayfish reduced the abundance
+and altered the microdistribution of snails in the California
+stream (Lodge et al. 1994; Nystro¨m et al. 1999; Klose
+2011); however, crayfish had no significant effects on the
+densities of the endemic mountain atyid shrimp in Hawaii.
+This contrast between crayfish effects on primary consumers
+in California versus Hawaii likely arose from differences
+in the vulnerabilities of fast-moving, evasive
+shrimp versus slow-moving snails to crayfish predation.
+Crayfish in California, and both crayfish and shrimp in
+Hawaii, marginally reduced the biomass or density of
+large, slow-moving predatory invertebrates, primarily odonates
+in California and flatworms in Hawaii, congruent
+with the results of previous experiments conducted in
+southern California (Klose and Cooper 2012). In contrast,
+total invertebrate and small herbivore/detritivore biomass
+and abundance were reduced by crayfish in Hawaii but not
+California, presumably because the dominant herbivores/
+detritivores were large oligochaetes in Hawaii, but smaller
+chironomids in California (chironomid mean length
+6.4 ± 0.12 mm). In addition, oligochaetes were larger in
+Waiau Stream than the Ventura River (mean length
+8.5 ± 1.4 vs. 5.2 ± 0.09 mm, respectively; t test: t =
+-1.95, P\0.05), perhaps accounting for differences in the
+susceptibilities of this taxon to crayfish predation. Further,
+oligochaetes may have occupied refugia by burrowing into
+sand in California, but remained vulnerable to crayfish
+among the coarser substrata found in the Hawaiian stream.
+Literature data also indicate that crayfish switch from
+feeding on large, slow-moving invertebrates to filamentous
+algae, then smaller invertebrates, and finally microalgae as
+preferred food sources become scarce (Dorn and Wojdak
+2004). As predicted, crayfish in the Ventura River, and
+both crayfish and shrimp in Waiau Stream, reduced the
+biomass of filamentous algae, similar to previous findings
+(Hart 1992; Creed 1994; Dorn and Wojdak 2004). Consumption
+of filamentous algae by decapods can have many
+repercussions for stream communities, including reductions
+in the abundance of invertebrates associated with
+filamentous algae, increases in the abundance of sedentary
+invertebrate taxa competing with algae for attachment
+space, and increases in the biomass of microalgae (Creed
+1994; Schofield et al. 2008; Klose and Cooper 2012). We
+did not observe such indirect effects of crayfish on other
+components of these stream communities; however,
+we tethered small amounts of filamentous algae in our
+enclosures, which replicated natural macroalgal cover in
+the streams but which may have may have resulted in
+muted indirect effects mediated through macroalgae compared
+to systems where substrata were covered or dominated
+by filamentous algae. In contrast to shrimp effects in
+Hawaii, we found that snails had no direct effects on filamentous
+algae biomass in the California stream, presumably
+because large filamentous algae are not easily handled
+or ingested by snails and, in some cases, may even benefit
+from snail removal of epiphytic diatoms attached to macroalgal
+filaments (Sarnelle et al. 1993).
+Although leaf litter was largely absent from the Ventura
+River, it was abundant in Waiau Stream and, as hypothesized,
+crayfish reduced hau and bamboo leaf litter in the
+Hawaiian stream. Other studies have shown that crayfish
+can reduce leaf litter in a variety of stream systems, often
+being the dominant shredders in systems with substantial
+allochthonous inputs (Usio 2000; Schofield et al. 2001;
+Zhang et al. 2004). Native shredders are largely absent in
+Hawaiian streams, and the invasive red swamp crayfish is
+often the sole shredder currently found in Hawaiian
+freshwaters (Larned et al. 2003). Shredders, such as crayfish,
+directly consume leaf material, reduce organic particle
+size, and enhance benthic organic matter accumulation
+(Gulis and Suberkropp 2003; Zhang et al. 2004). Because
+oligochaetes consume primarily fine particulate organic
+matter, their dominance in Waiau Stream may stem from
+the accumulation of benthic organic matter in this system;
+however, they appeared to be vulnerable to crayfish
+predation.
+Although we predicted that crayfish would reduce benthic
+invertebrates in both systems, this outcome was only
+observed in Waiau Stream. Total invertebrate, filter feeder,
+and Chironominae biomass, and Chironominae density,
+were higher in the crayfish alone and snail alone treatments
+than in the control and crayfish ? snail treatments in the
+Ventura River. The mechanisms responsible for these
+results are unclear; however, it is possible that these taxa
+may have benefited from the effects of ecosystem engineering
+via the reduction of sediment levels by crayfish and
+snails, but with the reduction of sediment levels by snails
+rendering these taxa vulnerable to crayfish predation when
+both snails and crayfish were present (March et al. 2002;
+Mermillod-Blondin et al. 2004). That alteration of sediments
+by snails and crayfish may have been responsible, at
+least partly, for the observed responses of these invertebrates
+to treatment as supported by a negative relationship
+between total invertebrate biomass and sediment mass
+(Pearson’s r = -0.56; P = 0.03). Crayfish effects on
+chironomid abundance reported in the literature have been
+inconsistent (Creed and Reed 2004; Usio and Townsend
+2004; Nystro¨m 2005; Klose and Cooper 2012), and in this
+study ranged from complex effects in the Ventura River to
+no effects in Waiau Stream; however, chironomids were
+rare in Waiau Stream.
+Crayfish reduced periphyton and sediment levels in the
+Ventura River, but not in Waiau Stream, presumably
+because of low microalgae and sediment levels and the
+abundance of alternative food sources (oligochaetes, leaf
+litter, filamentous algae) in Waiau Stream, consistent with
+our predictions of different crayfish effects on algal-based
+versus detrital-based food webs. Although we previously
+observed, and therefore predicted, that crayfish would
+decrease total invertebrate biomass and taxon diversity in
+the Ventura River (Klose and Cooper 2012), we did not
+observe these crayfish effects on these invertebrate variables
+in this study. In our previous field experiment in the
+Ventura River, crayfish reduced periphyton biomass and
+inorganic sediment, with resultant reductions in the
+abundance of the meiofauna; however, filamentous algae
+and snails were largely absent from experimental enclosures
+(Klose and Cooper 2012; see also Hart 1992; Creed
+and Reed 2004). In the results reported here, the addition
+of filamentous algae (Cladophora) and snails to experimental
+arenas apparently resulted in less pronounced
+effects of crayfish on periphyton biomass, sediment, and
+associated invertebrates (e.g., meiofauna) (Luttenton et al.
+1998).
+We also predicted that trophic or behavioral cascades
+would be observed in both systems, with crayfish-induced
+reductions in snail or shrimp densities or activity resulting
+in increases in algal and sediment levels (Fig. 1; Lodge
+et al. 1994; James et al. 2000). Such cascades assume that
+dominant primary consumers greatly reduce algal and
+sediment levels. In the Ventura River, snails greatly
+reduced periphyton and sediment levels, but had no effects
+on filamentous algae (see above), whereas in the Waiau
+Stream, shrimp had no effects on periphyton biomass, but
+marginally reduced sediment and filamentous algae levels.
+In California, crayfish greatly reduced snail densities and
+forced snails into refugia above the water line, precluding
+their grazing on periphyton, so sediment and periphyton
+levels increased when crayfish were present. In contrast, we
+observed no evidence for cascades in the Hawaiian stream,
+presumably because shrimp had no effects on periphyton
+biomass and because crayfish did not reduce shrimp densities.
+Although sediment levels were marginally higher
+where both shrimp and crayfish were present than where
+only shrimp were present, this did not appear to have an
+effect on algal or invertebrate abundances. Finally, it might
+be predicted that the addition of crayfish would reduce
+shrimp consumption of filamentous algae (Spirogyra),
+leading to higher filamentous algae biomass where crayfish
+and shrimp were found together than where shrimp were
+found alone; however, the negative impacts of crayfish on
+filamentous algae biomass appeared to be stronger than the
+impacts of shrimp on this resource.
+Although crayfish densities and the size and shape of
+experimental units used in the Ventura River and Waiau
+Stream were different, the results indicate that comparisons
+of crayfish effects on these two systems are valid. Klose
+and Cooper (2012) and Matsuzaki et al. (2009) found
+negative exponential relationships between invertebrate
+densities and macrophyte biomass, respectively, and crayfish
+density, suggesting that crayfish effects may have been
+similar across the range of crayfish densities used in our
+Californian and Hawaiian experiments. Similarly, McCarthy
+et al. (2006) found that crayfish effects on invertebrate
+taxa (i.e., gastropods, odonates, trichopterans, and amphipods)
+could be extrapolated accurately from small cages
+(0.2–4.7 m2) with high crayfish densities (0.8–30 individuals
+m-2) to whole lakes. These experimental scales and
+crayfish densities were comparable to those used in our
+studies (arena size 0.07 and 0.62 m2, crayfish densities 14
+and 3.2 m-2 in Hawaii and California, respectively). Further,
+dominant crayfish food resources present in both systems
+were slow-moving or sedentary, including periphyton,
+filamentous algae, and chironomids in the Ventura River,
+and periphyton, filamentous algae, leaf litter, and oligochaetes
+in Waiau Stream. The design of enclosures limited
+resource exchange between the inside and outside of
+experimental arenas, with exchange points limited to fine
+mesh at the ends of long, rectangular channels (Ventura
+River) or to a limited number of small holes bored into the
+sides of cylindrical enclosures (Waiau Stream). Because
+there was limited or no exchange of these resources between
+the inside and outside of enclosures, crayfish effects would
+have been affected minimally by resource exchange rates
+(Englund et al. 2001). In addition, the sizes of end meshes or
+side holes of enclosures in both streams were fine enough to
+retain snails in California and atyid shrimp in Hawaii, so
+experiments constituted closed predation trials for these
+taxa, showing crayfish impacts on their populations in the
+absence of prey migration.
+Assessments of the effects of a top invasive omnivore on
+resources in different streams systems (temperate mainland
+vs. tropical island) represent an important step in developing
+predictive models of crayfish impacts on different
+freshwater ecosystems. We suggest that predicting the net
+effects of omnivorous invaders on native communities, as
+well as determining the precise mechanisms for these
+effects, will remain difficult until we determine the vulnerability
+of different food types and species to invasive
+taxa as well as the precise composition of the recipient
+communities. Although short-term food preference trials
+appear to provide a reliable guide to the immediate effects
+of an invasive omnivore on native communities, flexibility
+in the omnivore’s food habits, changing food resource
+conditions, and longer term and larger scale prey responses
+to omnivores (e.g., shrimp moving into riffles and runs
+where fast current speeds exclude crayfish) may make the
+predictions of long-term impacts problematic.

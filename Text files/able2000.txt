@@ -1,0 +1,833 @@
+xabstractThe tidally inundated marsh surface is an important site for energy exchanges for many resident a transient species. In many areas along the East Coast of the U.S. the dominant vegetation, Spartina altermiflora, has bee replaced by the common reed (Phragmites australis). This shift has caused concern about the impact of Phragmites on marsh fauna but research in this area has been limited. During 1997 and 1998, we examined the effect of Phragmites fish and decapod crustacean use of the marsh surface in the brackish water reaches of the Mullica River, in southern New Jersey, U.S. Fish and decapod crustaceans were sampled with an array of shallow pit traps (rectangular glass dish 27.5 x 17.5 x 3.7 cm) and with flumes (1.3 m wide x 10 m long of 3.2-mm mesh). Fish (2-60 mm TL) dominated p trap collections with Fundulus heteroditus and Fundulus luciae significantly more abundant at Spartina sites. Fundulus he eroditus was also the dominant fish (15-275 mm TL) collected in flumes but collections with this gear, including a numb of species not collected in pit traps, showed no distinct preferences for different marsh vegetation types. Decapo crustaceans (1-48 mm CW) collected in pit traps were generally less abundant than fishes with Calinectes sapidus a Palaemonetes spp. most abundant in Spartina, while Rhithropanopeus harrisii was most abundant in Phragmites. The sam decapod crustacean species (2-186 mm CW) dominated the flume collections and, similar to the pattern of fish collecte by the flumes, there were no distinct habitat preferences for different marsh vegetation types. As a result of the observations, with different sampling techniques, it appears there is an overall negative effect of Phragmites on larva and small juvenile fish but less or no effect on larger fish and decapods crustaceans.
+
+xintroduction
+  Introduction
+ The tidally inundated marsh surface is believed
+ to be an important site for energy exchanges for
+ resident and transient fishes and decapod crusta-
+ ceans (Kneib 1997b; Cicchetti and Diaz 2000; Dee-
+ gan et al. 2000). This is evident based on the great
+ abundance of fishes and decapod crustaceans that
+ typically occur there (Kneib 1984, 1987a,b; Talbot
+ and Able 1984; Rozas and Reed 1993; McIvor and
+ Rozas 1996; Cicchetti and Diaz 2000). One reason
+ for these high abundances is that the marsh sur-
+ face provides a spawning site for many fish species
+ (Able and Castagna 1975; Taylor et al. 1979; Mid-
+ daugh and Takita 1983; Taylor and DiMichele
+ 1983; Conover and Kynard 1984; Kneib 1986). In
+ addition, it is an important feeding area for some
+ species (Weisburg and Lotrich 1982) and a refuge
+ from predation for others (Kneib 1987b). The lat-
+ ter helps explain why the marsh surface is such an  
+important nursery for small individuals of species
+ such as Fundulus heteroclitus and Fundulus luciae
+ (Byrne 1978; Taylor et al. 1979; Kneib 1984, 1986,
+ 1987a, 1997a,b; Talbot and Able 1984; Able and
+ Fahay 1998). This same pattern of marsh surface
+ as habitat for feeding and refuge is also true for
+ some decapod crustaceans including the blue crab
+ (Callinectes sapidus) and shrimps (Welsh 1975; Zim-
+ merman and Minello 1984; Kneib 1987b; Fitz and
+ Wiegert 1991; Rozas and Reed 1993; Peterson and
+ Turner 1994; Minello 1999; Cicchetti and Diaz
+ 2000).
+ In the northeastern United States especially, salt
+ marshes have been invaded by the common reed,
+ Phragmites australis, which has replaced Spartina al-
+ terniflora and other species on the marsh surface.
+ Phragmites was formally a minor component of the
+ tidal marsh vegetation for at least 3,000 yr (Niering
+ and Warren 1977; Orson et al. 1987); in the last
+ several decades it has become much more abun-
+ dant in many marsh systems along the East Coast
+ of the U.S. This invasion and replacement of other
+ marsh species has been documented for Connect-
+ icut (Roman et al. 1984), New York (Winogrond
+ 1997), New Jersey (Windham 1995; Windham and
+ Lathrop 1999), Delaware (Hellings and Gallagher
+ 1992; Sneddon et al. 1995), Maryland (Rice and
+ Stevenson 1996), Virginia (Havens et al. 1997; Pyke
+ and Havens 1999), and South Carolina (Stalter
+ and Baden 1994). The increase in the distribution
+ and abundance of Phragmites has raised concern
+ about its impact on natural marsh systems, the as-
+ sociated fauna, and energy exchanges between
+ marshes and the adjacent estuary (Roman et al.
+ 1984; Marks et al. 1994; Weinstein and Baletto
+ 1999; Meyerson et al. 2000; Weinstein et al. 2000).
+ For example, the change in vegetation that occurs
+ during this invasion may influence marsh surface
+ topography by raising the substrate level above the
+ water table and smoothing the surface topography
+ because of increased litter production, and thus
+ eliminating the water-filled hollows typically found
+ in Spartina dominated marsh surface (Windham
+ and Lathrop 1999). On the other hand, others
+ have suggested that it should be introduced into
+ selected areas to increase marsh elevation in order
+ to compensate for marsh loss due to sea level rise
+ (Stevenson et al. 2000).
+ Despite these contradictory concerns, there has
+ been little focused effort to determine the impacts
+ of Phragmites on the fauna associated with the salt
+ marsh surface. An exception to this is a recent
+ analysis of the abundance and food habits of E het-
+ erocitus in a variety of reference marshes, domi-
+ nated by Juncus gea-dii, Typha angustifolia, and
+ Spartina patens, relative to Phragmites-dominated
+ marshes in the lower Connecticut River (Fell et al.
+ 1998). These authors suggested that marshes with
+ Phragmites appeared to be functioning in the same
+ way as nearby reference marshes of variable vege-
+ tation based primarily on fish abundance and food
+ habits. Further, an analysis of trophic linkages be-
+ tween E heteroclitus and marsh vegetation indicated
+ that this species derived some of the nutrients in
+ its tissue from Phragmites when found in marshes
+ dominated by this vegetation (Wainright et al.
+ 2000).
+ We examined macrofaunal use of the marsh sur-
+ face in Phragmites-dominated areas largely because
+ this species has shown a marked increase in the
+ relatively undisturbed, low salinity marshes at Mul-
+ lica River in southern New Jersey in recent years
+ (Windham 1995; Windham and Lathrop 1999).
+ We examined the potential influence of Phragmites
+ on the fauna that use the marsh surface as a nurs-
+ ery by comparing the species composition, abun-
+ dance, and size of fish and decapod crustaceans
+ on P australis versus S. alterniflora dominated
+ marsh surfaces. Preliminary results of a portion of
+ this study were presented as an example of the val-
+ ue of pit trap sampling for assessing fish abun-
+ dance on the marsh surface (Able 1999).
+
+xmethods
+ STUDY AREA
+ Sampling occurred on Hog Islands (Fig. 1) lo-
+ cated in the upper reaches of the Mullica River, a
+ portion of the Jacques Cousteau National Estua-
+ rine Research Reserve in NewJersey, U.S. (Able et
+ al. 1995), which is an appropriate study area for
+ three reasons. First, the recent invasion of P aus-
+ tralis has been thoroughly documented through
+ analysis of aerial photography. The percentage of
+ vegetative cover of this species has increased from
+ 3.2% to 83.1% between 1971-1991 (Ferren et al.
+ 1981; Windham 1995; Windham and Lathrop
+ 1999). Further, this increase in Phragmites seems to
+ be representative of other brackish water sites with-
+ in this estuary (Windham 1995). Second, this es-
+ tuary and the study area has relatively few human
+ impacts (Able et al. 1995), which could mask the
+ effects of vegetation on macrofaunal use of the
+ marsh surface. Third, the close proximity of the
+ different vegetation types means that interpreta-
+ tion is not as likely to be impacted
+ physical characteristics.
+ by differing
+ SITE SELECTION AND DESCRIPTION
+ During 1997, four sites were sampled on Hog
+ Islands, two P australis-dominated areas (Phrag Lw
+ and Phrag Up) and two S. alterniflora-dominated
+ areas (Spart B and Spart D) (Table 1 and Fig. 1).
+ During 1998, a total of eight sites were sampled,
+ four P australis-dominated areas (Phrag A-D) and
+ four S. alterniflora-dominated areas (Spart A-D). All
+ sites were within an approximately 1.5 km area.
+ Phragmites australis sites were invaded, except Phrag
+ A, after 1971 (Windham personal communication;
+ Table 1). Spartina alterniflora sites at Hog Islands
+ were generally small (< 500 m2) and fragmented,
+ surrounded on all sides by Phragmites.
+ Marsh surface elevation largely controls the area
+ of marsh surface that is flooded, and the amount
+ of time the marsh surface remains flooded at high
+ tide. Thus, elevation is important in understanding
+ the spatial and temporal availability of marsh sur-
+ face habitat for fish and nektonic invertebrates.
+ Relative elevation among locations was determined
+ with a tripod-mounted Electronic Distance Ma-
+ chine (EDM), prism pole, and Sokkia surveying
+ program. This method provided benchmarks on
+ sites used during 1997 and potential sites to be se-
+ lected for 1998 that were relative to other loca-
+ tions. Relative elevation of the marsh surface at
+ each pit trap was then measured with a hand-held
+ level and stadia rod and these elevations were ref-
+ erenced to the benchmarks.
+ Based on these methods, it was determined that
+ sites selected for the 1997 field season differed in
+ marsh surface elevation between vegetation types
+ (ANOVA: F1,2 = 2217.58, p = 0.0005) with Phrag-
+ mites-dominated sites lower (at a location approxi-
+ mately 15 cm from the marsh edge) than Spartina-
+ dominated sites (Fig. 2). Therefore, during 1997,
+ Phragmites-dominated sites were more available to
+ nektonic macrofauna than Spartina-dominated
+ sites. In order to eliminate elevation as a confound-
+ ing variable, we selected sites for the 1998 field
+ season after reviewing relative elevations deter-
+ mined for potential sites. As a result, during 1998
+ relative elevation at the pit traps was not signifi-
+ cantly different between vegetation type (ANOVA:
+ F1,6 = 0.36, p = 0.569) (Fig. 2). During both years,
+ elevation for pit traps varied with distance from the
+ marsh edge with a general increase in elevation
+ with increasing distance from the marsh edge (AN-
+ OVA 1997: F2,4 = 20.16, p = 0.0008; 1998: F2,12 =
+ 39.86, p = 0.0001) (Fig. 2) but those within the
+ same site and distance from the marsh edge gen-
+ erally varied less than 10 cm. Spartina sites were
+ more variable than Phragmites at the higher eleva-
+ tion with two sites similar at the 5.0 and 9.5 m dis-
+ tance from marsh edge while one site was lower
+ and one site was higher.
+ During 1998, a general description of the marsh
+ surface topography at each site was compiled at the
+ end of the field season. Percent standing water (>
+ 1 mm of water) on the marsh surface was visually
+ determined within a 10 m area encircling the pit
+ trap array and flume. Three individuals qualitative-
+ ly assessed the amount of standing water on the
+ marsh surface and the range of their estimates
+ were recorded. Measurements were taken just after
+ the tide had receded from the marsh surface,
+ therefore these are maximum estimates of avail-
+ able standing water. A count was also made of any
+ pools of water and any creeks within this area.
+ Marsh surface topography differed by vegetation
+ type (Table 1). Standing water was present on all
+ Spartina-dominated sites and covered as much as
+ 40% of the marsh surface. In Phragmites-dominated
+ sites little or no standing water (0-5%) was pre-
+ sent. These estimates were consistent with our ob-
+ servations during the field season, i.e., the marsh
+ surface on Phragmites marshes was always drier.
+ There were some small (< 0.5 m wide), shallow
+ intertidal creeks present on or adjacent to the
+ study sites, however, these were found on both veg-
+ etation types.
+ PHYSICAL AND ABOVEGROUND VEGETATION
+ CHARACTERISTICS
+ During the entire study period (May 16-October
+ 31, 1997 and May 1-October 8, 1998), water salin-
+ ity (%o), temperature (?C), and pH were recorded
+ every 30 min by a datalogger (Endeco YSI Envi-
+ ronmental Monitoring Systems-PC6000). During
+ 1997, the datalogger was placed adjacent to one of
+ the Phragmites sites (Phrag Lw) in 1 m of water
+ (Fig. 1). In 1998, it was placed between the two
+ islands in 2 m of water. There were some extended
+ time periods in which the datalogger was either
+ removed for routine maintenance or it malfunc-
+ tioned, including June 5-18, 1997, July 4-14, 1997,
+ July 26-31, 1997, September 25-30, 1997, and July
+ 11-13, 1998. Hand-held point estimates of temper-
+ ature (alcohol field thermometer) and salinity (re-
+ fractometer) were taken when flume cod ends
+ were set and retrieved. These data were compared
+ with datalogger data to ground truth values and
+ were found comparable.
+ To characterize vegetation type and biomass, two
+ replicates of aboveground vegetation were taken at
+ three distances from the marsh edge (0.5, 5.0, and
+ 9.5 m) at each sampling site on August 8, 1997 and
+ August 13, 1998. In previous years, this time period
+ proved to be at the peak of growth of these species
+ at this location and therefore represent maximum
+ stem density, biomass, and height (Windham
+ 1995). For each replicate, all live and dead stand-
+ ing stems within 0.25 m2 quadrats were clipped at
+ ground level, identified to lowest possible taxa,
+ counted, bagged, and dried to a constant weight
+ (g) to determine biomass. Length (cm) of 10 live
+ random stems from each quadrat were measured
+ before drying.
+ FAUNAL SAMPLING TECHNIQUES
+ At each site, larval and juvenile fish and decapod
+ crustaceans were passively collected on the marsh
+ surface with shallow pit traps, rectangular glass
+ dishes (27.5 X 17.5 X 3.7 cm) that were sunk flush
+ with the marsh surface. These traps served as mim-
+ ics of the shallow water habitats typically used by
+ larval and small juvenile fish and crustaceans dur-
+ ing periods in which the marsh is not inundated
+ and were functionally similar to those used to col-
+ lect fish on the marsh surface in North Carolina
+ (Kneib 1978), Georgia (Kneib 1984, 1987b,
+ 1997a), and New Jersey (Talbot and Able 1984;
+ Marteinsdottir 1991). At each site, a total of nine
+ traps were arranged in three parallel rows at three
+ distances (0.5, 5.0, and 9.5 m) from the marsh
+ edge. Pit traps within each row were placed 0.5 m
+ apart. An elevated boardwalk was installed in early
+ spring before vegetation developed and this gave
+ access to the pit traps without altering the marsh
+ surface. On each sampling date, pit traps were
+ completely emptied at low tide prior to flooding at
+ high tide. After the water receded from the marsh
+ surface on the next low tide, the contents of the
+ traps were emptied into bags and refrigerated for
+ several hours before being sorted in the laboratory.
+ All fish and decapod crustaceans were preserved
+ in 95% ETOH. Fish and crabs were measured to
+ the nearest 0.1 mm total length (TL) or carapace
+ width (CW), respectively, using calipers. Fundulus
+ spp. were identified using descriptions compiled
+ by Hardy (1978) and Able and Fahay (1998). Pit
+ trap sampling occurred twice each month at or
+ near daytime spring tides from June through Oc-
+ tober 1997 (total of 10 sampling dates and 355 in-
+ dividual pit trap sets) and April through October
+ 1998 (total of 11 sampling dates and 782 individual
+ pit trap sets). A total of 5 pit traps in 1997 (1.5%
+ of 1997 total sets) and a total of 10 pit traps in
+ 1998 (1.3% of 1998 total sets) did not flood due
+ to unusually low spring high tides and these were
+ excluded from analyses.
+ Larger juvenile and adult fish and decapods us-
+ ing the marsh surface were collected at each site
+ with a single flume net (Mclvor and Odum 1986),
+ adjacent to the pit trap arrays. The flumes consist-
+ ed of two parallel (1.3 m apart) walls (1 m high X
+ 10 m long of 3.2-mm mesh) extended perpendic-
+ ularly from the marsh edge. The back of the flume
+ was blocked with similarly sized mesh. At high tide,
+ a weighted mesh bag cod end (1.3 m X 1.3 m with
+ 3.2-mm mesh) was attached to the flume to enclose
+ the sampling area. As the tide receded, transient
+ fauna that occurred on the marsh surface at high
+ tide moved into the cod end. The cod end was
+ retrieved at low tide. We attempted to increase cap-
+ ture success within each flume with modified Gee
+ minnow traps (length = 45 cm, diam = 23 cm,
+ mesh = 0.64 cm2), which were positioned inside
+ each flume after the cod end was in place. Al-
+ though some animals were collected in these traps,
+ the overall catch rates were not dramatically en-
+ hanced. As a result, trap catches were combined
+ with flume data for all analyses. Flume sampling
+ occurred from April through October 1998 (total
+ of 11 sampling periods and 264 sets). Each sam-
+ pling period included three consecutive days (at
+ or near spring tides) of flume sampling on daytime
+ high tides. All fish and selected decapod crusta-
+ ceans were identified, counted, and measured in
+ the field. Fish were measured either to the closest
+ millimeter total length (TL) or fork length (FL).
+ Decapod crustaceans were measured to the closest
+ millimeter carapace width (CW). All fork lengths
+ of fish were converted to total lengths for compar-
+ ison using regressions from Able and Fahay
+ (1998).
+ ANALYSIS
+ Analysis of variance (ANOVA) was used to test
+ for the effect of vegetation type and other factors
+ on relative marsh surface elevation, stem density
+ (live and dead), aboveground biomass (live and
+ dead), live stem height, and overall fish and deca-
+ pod abundance collected by flume. The unit of
+ replication was a pit trap for elevation, quadrat for
+ vegetation, and flume set for fish and decapod
+ analyses. Our blocked factorial design included
+ vegetation type (Spartina or Phragmites) and dis-
+ tance from marsh edge (0.5, 5.0, or 9.5 m) and
+ interactions with location blocked for elevation
+ and vegetation analyses. The model for flume anal-
+ ysis differed with the exclusion of distance from
+ marsh edge and inclusion of month (April-Octo-
+ ber). Aboveground biomass and overall fish and
+ decapod abundance collected by flume was log-
+ transformed and stem height was square root
+ transformed in order to meet the assumptions of
+ the ANOVA. Separate analyses were conducted for
+ each year (1997 and 1998).
+ Since the assumptions necessary for ANOVA
+ were not met for some sampling techniques, over-
+ all abundance of fish and decapods collected by
+ pit trap and species specific comparisons of fish
+ and decapods collected by both pit trap and flume
+ were analyzed with nonparametric statistics. Sepa-
+ rate Kruskal-Wallis tests were performed to exam-
+ ine differences between vegetation type (Spartina
+ and Phragmites) and distance from marsh edge
+ (0.5, 5.0, and 9.5 m) within each vegetation type
+ for pit trap collections, while flume collections
+ were only tested between vegetation type.
+
+xresults
+ PHYSICAL AND VEGETATION CHARACTERISTICS
+ During the sampling period the datalogger de-
+ ployed in the sampling area recorded seasonally
+ variable values of salinity and temperature (Fig. 3).
+ Some of the variability between years may have re-
+ sulted from the different depths of deployment,
+ i.e., 1 m in 1997 and 2 m in 1998. Mean salinities
+ were similar between years and the range of values
+ were similar as well (1997: mean = 7.0%o, range
+ = 0.0-19.1; 1998: mean = 8.1%o, range = 0.0-
+ 18.8). The timing of minimum and maximum val-
+ ues varied somewhat between years. In 1997, salin-
+ ities < 5.0%o occurred in May, June, and August
+ while in 1998 these values occurred in May, June,
+ and July. Maximum values (> 15.0%o) in 1997 oc-
+ curred in July, August, and October while in 1998
+ these values were in July, August, September, and
+ October. Temperatures followed a seasonal pattern
+ in both years with lowest mean temperatures in
+ May and highest in July (Table 2). Mean temper-
+ atures were higher in 1998 (23.3?C) than in 1997
+ (20.6?C) even though the datalogger was at greater
+ depth in 1998. pH was variable in this system with
+ similar mean (6.6 and 6.7) and overall range (4.1-
+ 7.7) of values for 1997 and 1998, respectively. In
+ general, the lowest pH was associated with in-
+ creased river runoff and low salinities (Able un-
+ published data).
+ The characteristics of the vegetation at the dif-
+ ferent marsh types was consistent between years al-
+ though it varied somewhat among locations (Table
+ 1). Phragmites sites were monotypic stands of P. aus-
+ tralis while the Spartina sites were dominated by S.
+ alterniflora with S. patens, Scirpus americanus, and
+ Amaranthus cannabinus present to a lesser degree.
+ Several vegetation characteristics differed marked-
+ ly between the Phragmites and Spartina sites (Fig.
+ 4). In 1997 and 1998, the average density of live
+ stems was significantly greater at the Spartina sites
+ than for Phragmites (ANOVA 1997: F1,2 = 108.5, p
+ = 0.009; 1998: F1,8 = 14.1, p = 0.006); while the
+ density of dead stems was similar between vegeta-
+ tion types during both years (ANOVA 1997: F12 =
+ 0.58, p = 0.527; 1998: F,8 = 2.16, p = 0.180). The
+ average live biomass (ANOVA 1997: F12 = 38.49,
+ p = 0.025; 1998: F,8 = 89.45, p = 0.0001) and the
+ average height (ANOVA 1997: F1,2 = 254.56, p =
+ 0.004; 1998: F,8 = 135.57, p = 0.0001) of above-
+ ground vegetation was consistently greater for
+ Phragmites than for Spartina sites in both years.
+ SIZE COMPOSITION OF THE FAUNA
+ Although the size composition of fish and deca-
+ pod crustaceans varied with sampling gear, pat-
+ terns were similar regardless of vegetation type
+ (Figs. 5 and 6). Pit traps caught smaller fishes and
+ decapod crustaceans than flumes. For fishes, the
+ mean size in pit traps was 14.5 mm TL while fishes
+ in flumes were much larger (mean = 59.4 mm
+ TL). Thus, individuals collected in pit traps were
+ predominantly recently hatched young-of-the-year,
+ while those collected in flumes represented large
+ young-of-the-year and older age classes. There was
+ some overlap in size of fishes in these two gears
+ from approximately 19-61 mm TL, but these rep-
+ resented a relatively small proportion of the fish
+ collected in pit traps. For decapod crustaceans, the
+ differences in size by collecting gear were not as
+ pronounced. The mean size was 7.8 mm CW in pit
+ traps and 30.0 mm CW in flumes but there was
+ considerable overlap in the range of sizes from ap-
+ proximately 3-22 mm CW.
+ DISTRIBUTION AND ABUNDANCE OF FAUNA
+ Overall fish use of Spartina-dominated marsh was
+ significantly and consistently higher than for Phrag-
+ mites-dominated marsh for small fishes based on pit
+ trap collections in both years (Kruskal-Wallis 1997:
+ X2 = 86.8, p = 0.0001; 1998: x2 = 183.14, p =
+ 0.0001) (Table 2 and Figs. 7 and 8). The rarity of
+ fish in Phragmites-dominated marshes is evident by
+ the fact that only 15 individuals were collected in
+ 1997 and 33 individuals in 1998 of the 1,600 in-
+ dividuals captured in both years (Table 2). The
+ spatial pattern of fish use within these vegetative
+ types was similar for both years based on pit trap
+ collections (Fig. 7). Distance from the marsh edge
+ within Spartina marshes had a significant effect on
+ fish, i.e., Fundulus spp., abundance with pit traps
+ positioned 0.5 m from the marsh edge typically
+ capturing fewer fish than pit traps at 5.0 m and 9.5
+ m from the marsh edge (Kruskal-Wallis 1997: x2 =
+ 35.98, p = 0.0001; 1998:.52 106.52, p = 0.0001)
+ (Fig. 7). So few fish were capture d at the Phrag-
+ mitesdom 1998 (n = ing dated sites that no pattern was discern-
+ able. No significant differences (ANOVA: Fon =
+ 0.24, p i 0.641) occurred in flume collections
+ where the abundance of larger fish typically caught
+ in this gear averaged 3.6 at 0.3 individuals per 1.3
+ mm of marsh edge in Spartina and 2.8 + 0.5 in
+ Phragmites (Table 2 and Fig. 9).
+ Overall decapod crustacean use varied among
+ marsh-surface p it trap collections (Table 2 and
+ Figs. 7 and 9). During 1997, vegetation type did
+ not have a significant effect on decapod abun-
+ dance (Kruskal-Wallis: 02 = 1.229, p = 0.268);
+ while vegetation was significant in 1998 (Kruskal-
+ Wallis: x2 = 9.471, p = 0.002). Similarly, during
+ 1997, distance from marsh edge did not signifi-
+ cantly affect decapod distribution on either Spar-
+ tina (Kruskal-Wallis: x2 = 2.23, p = 0.328) or Phrag-
+ mites (Kruskal-Wallis: x2 = 5.705, p = 0. 0577)
+ marshes; while in 1998, it did (Kruskal-Wallis Spar-
+ tina: x2 = 16.80, p = 0.0002; Phragmites: x2 =
+ 21.866, p = 0.0001) (Fig. 7). These differing pat-
+ terns of significance between years may have been
+ the result of a smaller sample size in 1997 than
+ 1998. There was no significant difference in abun-
+ dance of decapods in flume collections between
+ Spartina and Phragmites sites (F1,6 = 0.25, p =
+ 0.635) (Table 2 and Fig. 9).
+ The temporal pattern of fish and decapod abun-
+ dance was generally similar between vegetation
+ types and collecting gears (Figs. 8 and 9). For fish-
+ es collected in pit traps at Spartina sites, catches
+ were low or zero in May, June, September, and Oc-
+ tober (Fig. 8). Peak abundance was in midsummer,
+ early July in 1997 and late July in 1998, with abun-
+ dance slightly greater in 1997 (12.1 + 2.4) than in
+ 1998 (9.0 ? 1.4) (Fig. 8). For decapod crustaceans
+ in Spartina, abundance peaked in August 1997 and
+ September in 1998 (Fig. 9). Peak catches in Phrag-
+ mites were most noticeable in 1997 in June and Oc-
+ tober (Fig. 9). No peaks were observed in Phrag-
+ mites in 1998. For flume collections, patterns of
+ abundance varied with the faunal group. For fish-
+ es, the pattern of abundance was variable (Fig. 8);
+ for decapods, abundance peaked during August
+ through October in both Spartina and Phragmites
+ (Fig. 9).
+ SPECIES COMPOSITION
+ The species composition of recently hatched lar-
+ vae and small juvenile fishes collected in pit traps
+ varied with vegetation type and this pattern was
+ consistent across years (Table 2). During both
+ years, F. heteroclitus dominated the catches in both
+ vegetation types (1997; 98.2%, n = 521 total fish:
+ 1998; 96.3%, n = 1,130). The only other species
+ to consistently occur in the collections was another
+ marsh resident, F luciae. In each year, 97% of the
+ E heteroclitus (Kruskal-Wallis 1997: x2 = 83.63, p =
+ 0.0001; 1998: x2 = 177.89, p = 0.0001) and 100%
+ of the E luciae (Kruskal-Wallis 1997: x2 = 5.201, p
+ = 0.023; 1998: x2 = 23.064, p = 0.0001) occurred
+ in Spartina marshes. No fish species collected by
+ pit trap was dominant in Phragmites (Table 2).
+ The composition of decapod crustaceans in pit
+ traps varied between years and with vegetation type
+ (Table 2). In 1997, two crabs, Callinectes sapidus
+ (56.0%) and Rhithropanopeus harrisii (41.5%),
+ made up the vast majority of the individuals col-
+ lected (n = 159 total decapods). In 1998, Palae-
+ monetes spp. (85.5%) made up much of the catch
+ (n = 675 total decapods) even though only a single
+ individual was collected in 1997. Other contribu-
+ tors included Uca spp. (7.4%), R harrisii (3.8%),
+ and C. sapidus (3.0%). The distribution of these
+ species relative to vegetation type was species spe-
+ cific (Table 2). During both years, Callinectes sapi-
+ dus was consistently more abundant in collections
+ in Spartina (1997: 81%; 1998: 95%) (Kruskal-Wallis
+ 1997: x2 = 13.686, p = 0.0002; 1998: x2 = 16.138,
+ p = 0.0001). During 1997, R harrisii (91%) was
+ significantly more abundant in Phragmites (Kruskal-
+ Wallis: x2 = 31.60, p = 0.0001). During 1998, Pa-
+ laemonetes spp. were collected exclusively in Sparti-
+ na (Kruskal-Wallis: x2 = 49.72, p = 0.0001), while
+ most Uca spp. (80%) were collected in Phragmites
+ (Kruskal-Wallis: x2 = 13.835, p = 0.0002).
+ The overall species composition of the fauna col-
+ lected with flumes was similar to the pit traps for
+ decapod crustaceans but differed markedly for
+ fishes (Table 2). Fundulus heteroclitus was still the
+ dominant fish (84.2% of 848 total fish) collected
+ in flumes. E luciae (1.5%) also occurred. Other
+ species unique to flume collections included Mo-
+ rone americana (4.4%), Menidia menidia (2.9%), Go-
+ biosoma bosc (2.6%), Anguilla rostrata (2.2%), and
+ Gobiosoma spp. (1.1%). With flume sampling, F het-
+ eroclitus was evenly distributed between Spartina
+ (55%) and Phragmites (45%) (Kruskal-Wallis: x2 =
+ 3.820, p = 0.0507). This pattern was similar for all
+ other fish species except A. rostrata which was sig-
+ nificantly more abundant in Spartina (Kruskal-Wal-
+ lis: x2 = 4.305, p = 0.038). Most decapod species
+ collected by flume were evenly distributed by veg-
+ etation type except for R harrisii which was more
+ abundant in Spartina (Kruskal-Wallis: x2 = 5.247, p
+ = 0.022).
+
+xdiscussion
+ INFLUENCE OF SAMPLING TECHNIQUE
+ The patterns of distribution and abundance of
+ fishes and decapod crustaceans in this study varied
+ between collecting gears and vegetation type. The
+ influence of sampling technique is especially criti-
+ cal in interpreting faunal use patterns on the to-
+ pographically complex marsh surface, especially
+ for the very small, early life history stages of fishes.
+ In this study we relied on two sampling approaches
+ to help characterize the nekton in the different
+ vegetation types, flumes and pit traps. The advan-
+ tages of flumes are that they presumably provide a
+ quantitative measure of abundance for nekton that
+ move onto the marsh surface with flooding tides
+ (McIvor and Rozas 1996; Rozas and Minello 1997).
+ Typically, the mesh sizes in prior studies, as in this
+ one, are too large to retain recently hatched larvae
+ and small juvenile fishes (see Fig. 5). Pit traps are
+ non-quantitative samplers (Kneib 1987a, 1997a)
+ and these and other techniques used to sample
+ marsh surface nekton may be biased by a variety
+ of factors (Fulling et al. 1999).
+ On the other hand, pit traps offer the advantage
+ that they appear to mimic natural water-filled de-
+ pressions on the marsh surface, and thus may in-
+ troduce fewer artifacts into a sampling program
+ targeting young-of-the-year Fundulus spp. than con-
+ structing large structures such as flumes which in-
+ fluence the direction and location of capture
+ (Kneib 1991; Kneib and Wagner 1994; Kneib and
+ Knowlton 1995). Clearly, these two sampling ap-
+ proaches influenced the size and species compo-
+ sition of the fishes and decapods captured. As a
+ result, pit traps consistently captured smaller indi-
+ viduals of fewer species (primarily F heteroclitus),
+ while flumes captured larger and a more diverse
+ group of fishes and decapods. Thus, gear type
+ strongly influenced the interpretation of the nek-
+ ton using the marsh surface. As a result, if we had
+ only sampled with flumes we may have concluded
+ that the size and faunal composition of fishes and
+ decapods of Phragmites versus Spartina marshes is
+ similar and that vegetation type does not influence
+ the fauna. The primary reason that fish abundance
+ in flumes appeared similar between vegetation
+ types is that the overwhelming dominant species,
+ i.e., large juvenile and adult F heteroclitus (mean =
+ 58.1 ? 0.6 mm TL), were evenly distributed be-
+ tween vegetation types. However, other species had
+ greater abundance in Spartina relative to Phragmi-
+ tes. For example, G. bosc and Gobiosoma spp. (prob-
+ ably the same species because the only other Go-
+ biosoma in this estuary [ G. ginsburgi] is distributed
+ in higher salinities; Duval and Able 1998), and A.
+ rostrata were significantly more abundant or exclu-
+ sively found (F luciae) in Spartina (Table 2). The
+ only fish species that appeared more abundant in
+ Phragmites was M. menidia. Unfortunately, the only
+ other study that addresses faunal use of the marsh
+ surface in Phragmites-dominated marshes (Fell et
+ al. 1998) used a different sampling technique
+ (Breder traps; Breder 1960) of unstated mesh size
+ to capture fishes moving onto the marsh surface.
+ Perhaps because Breder traps were used to capture
+ fishes as they moved on and off the marsh surface,
+ they had a species composition similar to our
+ flume collections, i.e., shared a number of species
+ besides F. heteroclitus, including Morone americana,
+ Menidia spp., and Anguilla rostrata. No size infor-
+ mation is available from Fell et al. (1998), so no
+ further comparisons with our study are possible.
+ Together these flume and pit trap sampling
+ techniques provide a fuller understanding of nek-
+ ton use of the marsh surface than either gear sep-
+ arately. Together they demonstrate the full size
+ spectrum of fishes and decapods that use the
+ marsh surface and present a slightly different view
+ of seasonality on the marsh surface. For the
+ flumes, the periods of abundance appear to be lon-
+ ger in duration for fishes and decapods, but the
+ peaks in abundance of decapods in pit traps, at
+ least, were more pronounced in 1998. While spe-
+ cies composition of decapods appeared similar for
+ both gears, there was a marked difference for the
+ fishes as indicated above. The influence on the
+ above parameters is likely due to the differences
+ in sampling modes, i.e., flumes sample primarily
+ transient nekton moving on and off the marsh sur-
+ face, and pit traps sample primarily the resident
+ nekton as they move around on the marsh surface.
+ INFLUENCE OF VEGETATION TYPE
+ The patterns of decapod use of the Spartina and
+ Phragmites-dominated marsh surface varied be-
+ tween years and sampling techniques, as previously
+ discussed. The species composition in pit traps dif-
+ fered markedly between years and these differenc-
+ es probably reflected differences in availability.
+ The large numbers of Palaemonetes spp. in 1998 ac-
+ counted for the peak in decapod abundance in
+ September and October and this occurred at the
+ same time as a dramatic increase in salinity and
+ decrease in pH at the study area (Fig. 3). This sug-
+ gests that high salinity (Table 2) water from lower
+ in the estuary brought large numbers of Palaemo-
+ netes and/or their larvae into the Hog Islands area.
+ This pattern was reflected in increased catches of
+ shrimp in the flumes as well. The abundance rel-
+ ative to vegetation type varied with individual spe-
+ cies in the pit trap collections (Table 2). In both
+ years, C. sapidus was more abundant in Spartina
+ and R. harrisii was more abundant in Phragmites. In
+ 1998, the Palaemonetes spp. were exclusively found
+ in Spartina. We suspect that these patterns by C.
+ sapidus and Palaemonetes are due to a behavioral
+ preference as they move on to the marsh surface
+ on flooding tides.
+ The overall species composition of decapods was
+ similar between pit traps and flumes in 1998. Two
+ possible exceptions were that C. sapidus was rela-
+ tively much more abundant and Uca spp. were less
+ abundant in flume collections relative to pit trap
+ collections. These exceptions may be the result of
+ differences in life history patterns of these species.
+ Callinectes sapidus is a transient on the marsh sur-
+ face (Fitz and Wiegert 1991; Cicchetti and Diaz
+ 2000) and therefore is more susceptible to the
+ flume gear which collects animals as they are leav-
+ ing the marsh surface; while Uca spp. reside on the
+ marsh surface regardless of tide and are less sus-
+ ceptible. Differences relative to vegetation type
+ were not so clear within flume collections with
+ most species of similar relative abundance regard-
+ less of vegetation type.
+ Others have determined that some of the same
+ species of decapods use the marsh surface. For C.
+ sapidus, this was documented in Texas (Minello
+ and Zimmerman 1992), Louisiana (Rozas and
+ Reed 1993), Georgia (Fitz and Wiegert 1991), and
+ South Carolina (Mense and Wenner 1989) marsh-
+ es, and now we have confirmed that it occurs in
+ New Jersey as well. The same pattern of use of the
+ marsh surface is evident for Palaemonetes spp. in
+ Texas (Minello and Zimmerman 1992), Louisiana
+ (Rozas and Reed 1993; Peterson and Turner
+ 1994), and Georgia (Kneib and Wagner 1994), and
+ we have identified that this occurs on New Jersey
+ salt marsh surfaces, although it varied annually at
+ our typically low-salinity study area. Taken together
+ it appears that decapod crustaceans can make up
+ a significant component of the marsh surface fau-
+ na in NewJersey and elsewhere and should be con-
+ sidered as potentially important mediators of en-
+ ergy flow and trophic interactions from the marsh
+ surface to adjacent intertidal and subtidal habitats
+ (see Cicchetti and Diaz 2000).
+ The pattern of fish species composition varied
+ with vegetation type, based on pit trap sampling,
+ perhaps as a result of the differences in marsh to-
+ pography associated with vegetation. Fundulus lu-
+ ciae was captured exclusively in Spartina marsh, per-
+ haps because it lives in shallow depressions on the
+ marsh surface (Able et al. 1983). If future studies
+ confirm its absence in Phragmites marshes, that
+ would be one example of how this vegetation type
+ reduces biodiversity.
+ The much reduced abundance of small, recently
+ hatched F heteroclitus in Phragmites-dominated
+ marshes merits special attention because this is
+ probably the most important fish species in marsh-
+ es along the East Coast of North America due to
+ its abundance and the roles it plays in marsh tro-
+ phodynamics both as predator and prey (Kneib
+ 1986, 1997b). Additionally, the habitat use, growth,
+ and survival of the larvae and small juveniles may
+ be particularly important to the population dynam-
+ ics of this species (Kneib 1993, 1997a) as occurs
+ for many other species of fish (e.g., Able and Fahay
+ 1998). The greater abundance of F heteroclitus lar-
+ vae and small juveniles in Spartina relative to Phrag-
+ mites-dominated marsh may be due to several fac-
+ tors. First, the patterns of abundance may reflect
+ spawning site preference. It is well documented
+ that F heteroclitus deposits its eggs as it moves onto
+ the marsh surface in Spartina marshes at the base
+ of Spartina stems (Taylor et al. 1977) and in ribbed
+ mussel (Guekensia demissa) shells (Able and Castag-
+ na 1975; Able 1984; Able and Hata 1984). This ef-
+ fect could be enhanced if there is fidelity to the
+ spawning site by the larvae. Second, differential
+ survival of eggs and larvae could also account for
+ the differences observed, as could preference of
+ larvae for Spartina marshes.
+ Perhaps the simplest explanations are that E het-
+ eroclitus prefer to spawn in Spartina dominated
+ marshes and the larvae have a high degree of fi-
+ delity to these sites. The first suggestion has yet to
+ be tested. However with regard to the latter, there
+ are numerous examples of the use of intertidal
+ marsh surface puddles and depressions as micro-
+ habitat for larvae and small juveniles of E heterocli-
+ tus in NewJersey (Talbot and Able 1984), Delaware
+ (Taylor et al. 1979), North Carolina (Kneib and
+ Stiven 1978), and Georgia (Kneib 1984, 1986,
+ 1987a, 1997a,b). Thus, these likely serve as essen-
+ tial habitats for early life history stages. These hab-
+ itat types were present in the variable topography
+ of the Spartina sites in this study but infrequently
+ in the Phragmites sites where standing water was sel-
+ dom present (Table 1). The flat "table top" to-
+ pography appears to be characteristic of Phragmites
+ marsh surfaces at Hog Islands (Windham and La-
+ throp 1999), and in marshes along Delaware Bay
+ (Weinstein and Balletto 1999). Our own extensive
+ observations in a variety of Phragmites-dominated
+ marshes in Delaware Bay (Able et al. unpublished
+ data) confirm the difference in marsh topography
+ between these vegetation types. Perhaps, as sug-
+ gested by Windham and Lathrop (1999), the high
+ litter production in Phragmites marshes may fill de-
+ pressions in the marsh surface, thus raising the soil
+ level above the water table, as well as smoothing
+ the surface topography. Both of these would re-
+ duce the number and size of depressions and thus
+ serve to eliminate the nursery habitat for recently
+ hatched Fundulus spp. as noted above. Further-
+ more, if Phragmites causes the marsh surface to be
+ elevated, as has been suggested (Stevenson et al.
+ 2000), it may reduce access to the marsh surface
+ in general and eliminate it as a feeding and nurs-
+ ery area. If this process varies with age of Phrag-
+ mites, i.e., older stands have flatter topography,
+ then all of the above effects may vary among stands
+ of Phragmites and confound interpretation of ef-
+ fects on the fauna unless age or other factors that
+ influence marsh surface topography are taken into
+ consideration. However, even when we created
+ standing water on the Phragmites marsh surface
+ with pit traps, we caught very few fish, suggesting
+ that there are few in the Phragmites marsh sites in
+ general.
+ Clearly, the sources of larvae, i.e., local repro-
+ duction or movement from adjacent sources,
+ needs to be resolved for this and other Phragmites-
+ Spartina marsh comparisons to see if our results for
+ larvae and small juveniles can be confirmed. Ad-
+ ditionally, the possibility of differential larval pref-
+ erence and survival needs to be investigated fur-
+ ther to determine the source of these differences
+ in distribution and abundance.
+ Other physical characteristics and faunal com-
+ ponents also differ across these vegetation types at
+ some of the same study sites (Angradi et al. un-
+ published data). In their study, benthic macroin-
+ vertebrate density and richness was greater in Spar-
+ tina than Phragmites. In the Phragmites marshes, de-
+ trital biomass was higher, as was water velocity.
+ Both variables may be responses to vegetation type
+ and density. Also, species composition varied
+ across vegetation types, perhaps because of large
+ amounts of standing water on the marsh surface at
+ their Spartina sites and generally drier conditions
+ in Phragmites marshes (Bertness 1999).
+ In summary, vegetation type and associated mi-
+ crotopography influenced fish and decapod use of
+ the marsh surface at Hog Islands, especially for F
+ heteroclitus an important component of marsh tro-
+ phic relays. However, more studies at a variety of
+ sites need to be completed before we can confirm
+ the patterns observed in this study. These future
+ attempts to evaluate the effects of Phragmites
+ should incorporate detailed site analysis including
+ microtopography, elevation, and soil characteristics
+ as well as age of Phragmites sites. Clearly, faunal
+ sampling techniques are a major consideration.

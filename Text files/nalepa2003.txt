@@ -1,0 +1,1004 @@
+xabstract
+Trends in benthic macroinvertebrate populations were examined in inner and outer Saginaw
+Bay, Lake Huron, from 1987 to 1996. These years represent the time period after phosphorus abatement,
+but immediately before (1987 to 1990) and after (1991 to 1996) colonization of the bay by the zebra
+mussel, Dreissena polymorpha. In 1987 to 1990, densities of the major macroinvertebrate groups in the
+inner and outer bay were not significantly different from, or were greater than, densities reported just
+prior to abatement efforts in the early 1970s. Oligochaete densities in the deepwater/silt region of the
+inner bay were trending downward between 1988 and 1991, but pollution-tolerant forms dominated the
+community, indicating the system was eutrophic just prior to Dreissena colonization. Dreissena impacts
+on the macroinvertebrate community varied depending on the particular habitat. At shallow-water/sand
+sites in the inner bay, Gammarus increased, and sphaeriids declined after Dreissena colonization, but no
+changes were observed in oligochaetes and chironomids, and overall species diversity showed little
+change. At deepwater/silt sites in the inner bay, densities of oligochaetes and chironomids declined just
+after the peak in Dreissena, but then returned to levels generally similar to those found prior to
+Dreissena. The oligochaete trophic index at deepwater/silt sites indicated a shift from eutrophic to more
+oligotrophic indicator species after Dreissena became established, and species diversity increased. In the
+outer bay, Diporeia and sphaeriids declined after Dreissena peaked, but few other changes were
+observed. Total non-dreissenid macroinvertebrate biomass (AFDW) in the inner bay, and in shallow
+areas of the outer bay, did not change as a result of Dreissena colonization. On the other hand, biomass
+in the deeper regions of the outer bay decreased because of the loss of Diporeia. Changes in the inner
+and outer bay typify the growing dichotomy between nearshore and offshore communities in the Great
+Lakes since Dreissena became established. 
+
+xintroduction
+Prior to the introduction of the dreissenid mussels
+Dreissena polymorpha and Dreissena bugensis
+(zebra mussel and quagga mussel), broad-scale
+trends in benthic macroinvertebrate communities in
+nearshore areas of the Great Lakes (< 30 m, shallow
+bays and basins) were mainly attributed to changes
+in nutrient loads. Increased inputs of phosphorus up
+until the mid-1970s led to increased densities of
+benthic taxa that were tolerant of eutrophic-polluted
+conditions, while densities of less-tolerant taxa declined
+(see Cook and Johnson 1974 for review).
+After phosphorus abatement programs in the mid-
+1970s, abundances generally declined, and communities
+in many nearshore areas shifted back to taxa
+more indicative of an improved trophic state (Johnson
+and McNeil 1986, Kreiger and Ross 1993,
+Schloesser et al. 1995, Kilgour et al. 2000).
+The introduction and proliferation of dreissenid
+mussels has complicated the interpretation of benthic
+community trends relative to changes in nutrient
+loads and system productivity. Because of large
+standing stocks and high filtering rates, dreissenids
+have altered normal pathways of energy flow from
+pelagic to benthic regions (Nalepa and Fahnenstiel
+1995), or have physically altered benthic habitats
+(Bially and MacIsaac 2000). Impacts on the
+macroinvertebrate community have varied depending
+upon particular habitat, spatial proximity to
+mussel colonies, and taxa initially present. In
+nearshore, hard-substrate regions, abundances of
+many taxa have increased in response to the increase
+in habitat complexity created by mussel
+colonies, and/or to the increase in food availability
+from mussel biodeposits (Wisenden and Bailey
+1995, Botts et al. 1996, Howell et al. 1996, Ricciardi
+et al. 1997). In deeper, offshore regions, the response
+has generally led to a decline in abundances,
+likely because mussels in nearshore areas sequester
+food resources that normally would settle in depositional
+zones (Nalepa et al. 1998, Lozano et al.
+2001). Other studies have shown no change in benthic
+standing stocks after Dreissena colonization
+(Johannsson et al. 2000), or the positive response
+for many taxa was short term, even in hard-substrate,
+nearshore regions (Haynes et al. 1999).
+In this paper, we document trends in benthic
+macroinvertebrate populations in Saginaw Bay,
+Lake Huron between 1987 and 1996, and these
+trends are examined relative to both phosphorus
+abatement and the establishment of Dreissena.
+When the sampling surveys were initiated in 1987
+and 1988, the objective was to determine if the benthic
+community in the bay had responded to improvements
+in water quality that resulted from
+reductions in phosphorus loads (Bierman et al.
+1984). Sampling was designed to assess changes
+since the early 1970s, which was the time period
+just before abatement efforts. When Dreissena became
+established in Lake St. Clair and rapidly
+spread through Lake Erie in 1988, it was reasoned
+that this species would soon become very abundant
+in Saginaw Bay, and further benthic sampling was
+initiated in 1990 and continued through 1996 with
+the objective of assessing changes induced by
+Dreissena. Dreissena did become established in the
+bay in 1991 (Nalepa et al. 1995), and thus the 1987
+to 1996 sampling period represents the years immediately
+before and after dreissenid colonization.
+
+xmethods
+Dates, Locations, and Procedures
+Samples for benthic macroinvertebrates were collected
+at 30 sites in 1987 and 1988, and at 10 sites
+in 1990 to 1996 (Fig. 1). Samples were collected in
+spring (May), summer (July), and fall (Sept. to
+Nov.) of each year except in 1996 when samples
+were collected only in summer and fall. Because of
+poor weather or mechanical failures, not all sites
+were sampled on some dates. Site locations and
+sampling dates are given in Nalepa et al. (2002).
+Sampling sites were selected by first plotting site
+locations of previous benthic surveys (Surber 1954,
+1955; Schneider et al. 1969; Batchelder 1973; Great
+Lakes Research Division, University of Michigan,
+unpublished data), and then choosing the sites to resample
+based on type of sampler used, detail of
+data provided, and spatial coverage of the bay.
+Triplicate samples were collected at each site
+with a Ponar grab (area = 0.046 m2). After collection,
+each sample was washed into a large tub, and
+then into an elutriation device fitted with a sleeve
+made of 0.5-mm mesh Nitex (Nalepa et al. 1985).
+Retained material was washed into a collection jar
+and preserved in 5% buffered formalin containing
+rose bengal stain. The substrate was visually described
+prior to rinsing the sample through the
+Nitex screen (Nalepa et al. 1985).
+To obtain quantitative estimates of Dreissena,
+samples were collected at eight sites using SCUBA
+divers every fall from 1991 to 1996 (Fig. 1). Five
+sites were located in areas with sand/cobble and
+could not be effectively sampled with the Ponar
+(Stations 5, 6, 15, 19, 27), while three sites had
+sand substrates and were sampled by both SCUBA
+and Ponar (Stations 13, 14, 16). At each site, divers
+randomly placed a 0.25 or 0.5 m2 frame on the bottom
+and hand-collected all hard material within the
+frame area. After all material was removed, the area
+within the frame was re-sampled using a diveroperated
+suction device fitted with a Nitex net with
+0.5-mm openings (Winnell and Jude 1987). This
+procedure ensured that all loose mussels were included
+in the sample. Triplicate samples were collected
+at each site, with divers moving 2 to 3 m
+between replicates.
+In the laboratory, material collected in the grab
+and retained by the 0.5-mm sleeve was placed into
+a white enamel pan and organisms were removed,
+enumerated, and sorted into major groups (Amphipoda,
+Oligochaeta, Sphaeriidae, Chironomidae,
+Dreissena, and others) under a 1.5× lighted magnifier
+lamp. Turbellarians and nematodes were observed
+in the samples but, since methods were not
+quantitative for these groups, their numbers were
+not recorded. When the number of organisms in a
+sample was extremely large, the sample was proportionately
+split and only a portion was processed.
+All organisms were identified to the lowest practical
+taxonomic level. For oligochaetes, between 75
+and 100 individuals in a replicate (proportionately
+split with a Folsom plankton splitter when numbers
+were high) were cleared in lactophenol before identification.
+Oligochaetes were mounted on microscope
+slides (in glycerine) and their images were
+projected onto a sheet of paper using a camera lucida
+and then traced. Individuals were identified,
+and taxonomic designations placed alongside the
+respective traced image. Only individuals with a
+prostomium were identified and tabulated; fragments
+(without prostomium) were identified as such
+but were not counted. For chironomids, a maximum
+of 50 individuals were identified per replicate.
+Head capsules were teased off the body, cleared in
+lactophenol, and mounted on microscope slides
+with mentum side up. The corresponding body was
+mounted alongside the head capsule and the image
+traced as for oligochaetes.
+Biomass (ash-free dry weight [AFDW]) for Amphipoda,
+Isopoda, Ephemeroptera, Oligochaeta,
+Chironomidae, and Dreissena were derived from
+length-weight relationships determined either directly
+on fresh animals, or taken from the literature.
+If a length-weight relationship for a given taxon
+was not available from the literature, it was assigned
+the relationship of a closely-related form
+(Nalepa et al. 2002). When length-weight relationships
+were available for only dry weight, ash-free
+dry weight was assumed to be 90% of dry weight
+(Johnson and Brinkhurst 1971). Weights were determined
+by placing fresh animals into pre-weighted,
+aluminum planchets, dried at 60°C for 48 h, and
+weighed to the nearest 0.1 mg. AFDW was obtained
+by re-weighing the specimens after ashing at
+550°C for 1 h. Lengths were measured directly or
+determined from traced images using a digitizer
+(Quigley and Lang 1989).
+For oligochaetes, all body fragments present on
+the slides were measured and included in the biomass
+total. Length-weight conversions are based on
+the finding that preservation does not alter length
+(Erman and Erman 1975). For Dreissena, lengths
+were measured on up to 500 animals in each sample
+using a computer scanner and fitted software. If
+more individuals were present in the sample, the
+sample was proportionately split. To determine
+length-weight of Dreissena, at least 25 individuals
+of various sizes were collected in fall at Station 5 in
+1991 to 1996, and at Station 19 in 1994 to 1996.
+Annual biomass is best derived from a lengthweight
+determined in the fall when spawning has
+been completed (Nalepa et al. 1993). Shell lengths
+were measured, and AFDW of the soft tissue was
+determined as above. Corresponding length-weight
+relationships were determined and then used to calculate
+soft-tissue biomass of mussels at the various
+sites. In 1991 to 1993, length-weight relationships
+derived from mussels collected at Station 5 were
+used to calculate biomass at all sites, but in 1994 to
+1996 separate relationships derived from mussels at
+Station 5 and Station 19 were used to calculate biomass
+at sites in the inner bay and outer bay, respectively.
+
+AFDW of other benthic taxa (Sphaeriidae, Gastropoda,
+Trichoptera, Isopoda, Hirudinea, and
+Diptera other than Chironomidae) was determined
+directly from preserved specimens within a given
+sample. While preservation does not cause weight
+loss in Sphaeriidae (Johnson and Brinkhurst 1971),
+weight loss likely occurred in the other taxa. However,
+these taxa generally constituted only a small
+portion of total biomass at a given site. Further details
+of biomass determinations, including lengthweight
+regressions, are given in Nalepa et al.
+(2002). Site Groupings and Analysis
+To examine benthic responses to abatement efforts,
+data collected in 1987 to 1990 (post abatement
+and pre-Dreissena) were compared to data
+from two surveys conducted in the early 1970s (preabatement).
+One survey occurred mainly in the
+inner bay (in 1971; Batchelder 1973), and the other
+occurred in the outer bay (in 1972; Great Lakes Research
+Division [GLRD], University of Michigan,
+unpublished data). Sampling methods in both surveys
+were similar to that of this study; that is, the
+collection device was the Ponar grab, and samples
+were washed through a 500–600-µm screen. We
+matched our sites with sites sampled in 1971 based
+on substrate, water depth, and general location,
+while our site locations matched 1972 site locations
+exactly since the 1972 coordinates were incorporated
+into the original sampling design. When testing
+for differences between the two time periods
+within a given substrate, each site pairing was considered
+a separate replicate.
+Substrates at the twenty-one sites sampled with
+the Ponar grab in the inner bay varied from coarse
+sand/gravel to silt, and water depths ranged from
+3.0 to 11.8 m (Nalepa et al. 2002). As found by others
+(Wood 1964, Robbins 1981), the amount of finegrained
+material increased with water depth. For
+purposes of data analysis, sites in the inner bay
+were grouped into three categories based on water
+depth and substrate type: 1) sand/gravel, 3.0 to
+4.8 m; 2) silty sand, 4.2 to 9.0 m; and 3) silt, 6.7 to
+11.8 m (Table 1). The only site that did not fit into
+one of these categories was Station 31. Water depth
+at this site was only 3.2 m, but the substrate differed
+from all other sites, consisting of coarse plant
+debris/silt. This site was located in the center of a
+shallow, confined embayment (Wildfowl Bay) andwas not representative of the bay in general. With
+this exception, sites in these three categories were
+located in regions considered to be non-depositional,
+transitional, and depositional, respectively
+(Robbins 1981). In the outer bay, substrates consisted
+of silty sand at all sites, and depths ranged
+from 10 to 30 m (Nalepa et al. 2002). Since substrates
+were generally the same, the nine outer bay
+sites were grouped into three categories based on
+water depth: 10 to 13 m, 16 to 22 m, and 28 to
+30 m (Table 1). These depth categories are consistent
+with prior characterization of depth-macroinvertebrate
+associations in other regions of the Great
+Lakes for similar depths and substrate types (Cook
+and Johnson 1974, Mozley and Howmiller 1977).
+As noted, only ten sites were sampled in 1990 to
+1996, but these sites were considered to be representative
+of the various habitat types. In the inner
+bay, three sites were in the shallow water/sand region
+(Stations 13, 14, 16), one site was in the middepth/silty
+sand region (Station 11), and three sites
+were in the deep water/silt region (Stations 4, 7, and
+10) (Fig. 1). In the outer bay, sampling was continued
+at three sites, each within the three depth intervals:
+13 m (Station 24), 16 m (Station 20), and 28
+m (Station 23).
+When testing for benthic macroinvertebrate responses
+to Dreissena colonization, the 1987 to 1990
+period was considered as the pre-Dreissena period,
+and 1993 to 1996 was considered as the post-Dreissena
+period. While data collected in 1991 and 1992
+were included when interpreting trends, these 2
+years were considered transitional and not included
+in the statistical analysis. That is, Dreissena was
+present for only part of the year in 1991, and abundances
+were at unsustainably high levels in 1992
+(Nalepa et al. 1995). Only data collected at the ten
+sites sampled every year were used to assess Dreissena
+impacts. The mean of each year was considered
+an individual replicate, and differences
+between periods were tested using a t-test. Abundance
+data were ln +1 transformed prior to any
+statistical analysis (t-tests and ANOVAs) and met
+the requirements of normality and equality of
+variances.
+Species composition of the oligochaete community
+is a good indicator of trophic status, and community
+changes were examined using an
+oligochaete trophic index (Howmiller and Scott
+1977, Milbrink 1983, Lauritsen et al. 1985). The
+index is determined by placing each species (excluding
+Naididae and Enchytraeidae) into one of
+four categories based on its tolerance to organic enrichment.
+Values of each category range from 0 (intolerant
+of enrichment; found mostly in oligotrophic
+conditions) to 3 (tolerant of enrichment;
+found in highly eutrophic conditions). The assigned
+category of each species follows that of Milbrink
+(1983) and Lauritsen et al. (1985). To obtain the
+index, the number of individuals in each category is
+multiplied by the category value (species in category
+0 are assigned a value of 0.5). The products
+are then summed and divided by the total number
+of individuals.
+The Simpson Diversity Index (Simpson 1949)
+and the Bray Curtis Index (Bray and Curtis 1957)
+were used to determine changes in structure of the
+entire macroinvertebrate community. The former
+index considers both taxonomic richness and evenness,
+while the latter considers presence/absence
+and absolute abundance of each taxa. Of the many
+similarity indices, the Bray-Curtis Index has been
+shown to be the most effective quantitative index
+when assessing changes in community structure
+(Hruby 1987, Pontasch and Brusven 1988, Pontasch
+et al. 1989). Since the index is sensitive to occasional
+large numbers, data were square-root transformed
+prior to index calculation (Pontasch and
+Brusven 1988). Both indices were determined on
+the non-dreissenid community. 
+
+xresults
+General Distribution Patterns in 1987 and 1988
+Since 30 sites were sampled in 1987 and 1988
+and these sites provided broad spatial coverage of
+the bay, data collected in these 2 years were used to
+characterize general distribution patterns. Total
+mean densities in the inner bay generally increased
+with water depth and the amount of fine-grained
+material (Table 1, Fig. 2). Mean densities at sites
+with sand, silty sand, and silt substrates were 1,441,
+8,327, and 21,951/m2, respectively. Differences
+were significant for all major macroinvertebrate
+groups (ANOVA, P < 0.01) (Table 1). Oligochaetes,
+chironomids, and sphaeriids were more abundant at
+sites with sandy silt or silt substrate, while the amphipod
+Gammarus sp. was most abundant at sites
+with sand. In terms of composition, oligochaetes
+were the dominant group in all three substrates, accounting
+for 77 to 95% of all organisms collected.
+Dominant species in silt were Limnodrilus
+hoffmeisteri and Limnodrilus cervix, while the naidids
+Piguetiella michiganensis, Uncinais uncinata,
+and Arcteonais lomondi were the most common
+species in sand. Most abundant chironomid specieswere Cladotanytarsus spp. and Tanytarsus sp. in
+sand, Chironomus anthracinus, Tanytarsus sp., and
+Procladius sp. in silty sand, and Chironomus semireductus-gr.
+and C. anthracinus in silt.
+In the outer bay, total density declined, and the
+community shifted to species more typical of a
+cold-water environment as depth increased. The
+greatest depth-related change occurred in chironomids
+(Table 1). Chironomid densities declined from
+4,559/m2 at the 10 to 13 m interval to 191/m2 at the
+28 to 30 m interval (P < 0.01). Tanytarsus sp.,
+Paratendipes sp., and C. anthracinus were the dominant
+taxa at the shallower sites, while Heterotrissocladius
+spp. was dominant at the deeper sites. The
+amphipod Diporeia spp. was most abundant at the
+deepest interval (P < 0.01). Both Heterotrissocladius
+and Diporeia are typically found in the colder,
+deeper regions of the Great Lakes; both species
+were rarely found in the inner bay. Total densities
+of both oligochaetes and sphaeriids were not related
+to depth (P > 0.05). At least for the former group,
+this was partly attributable to high densities at one
+of the sites in the deepest interval, Station 50. Mean
+oligochaete density at this site was 4,100/m2, compared
+to just 430/m2 at the other site within this interval,
+Station 23. This difference could be
+attributed to high numbers of tubificids at Station
+50 (82% of all oligochaetes), of which Potamothrix
+vejdovskyi and L. hoffmeisteri were the dominant
+species. Based on typical exchange rates and flow
+patterns from the inner bay to the outer bay (Danek
+and Saylor 1977), the community at Station 50 was
+more likely influenced by nutrient-rich waters from
+the inner bay than the community at Station 23.
+Both chlorophyll and total suspended matter was
+consistently higher at the former station compared
+to the latter (Nalepa et al. 1996). Both P. vejdovskyi
+and L. hoffmeisteri do well in enriched environments
+(Milbrink 1983). In contrast, the dominant
+oligochaete species at Stations 23 was Stylodrilus
+heringinaus, an oligotrophic, cold-water form.
+Comparisons Pre- and
+Post-Phosphorus Abatement
+A total of twelve sites sampled in the inner bay in
+1987 to 1990 (post abatement) were matched with
+sites sampled in 1971 by Batchelder (1973) (preabatement).
+Comparisons of the major benthic
+groups indicated that mean densities in 1987 to
+1990 were generally similar to, or greater than, densities
+in 1971 (Table 2). In terms of species composition,
+only the chironomid community could be
+compared since oligochaetes were not identified to
+species in 1971. Further, only broad, generic comparison
+of the chironomid community was possible
+because of uncertainties with nomenclature and
+level of taxonomic detail given for the 1971 data.
+Dominant chironomid taxa in 1971 were Tanytarsus
+sp. (50%) and Polypedilum spp. (31%) in sand,
+Chironomus spp. (41%) and Procladius spp. (34%)
+in silty sand, and Chironomus spp. (93%) in silt
+(Batchelder 1973). For the same sites, dominant
+species in 1987 to 1990 were Cladotanytarus spp.
+(25%) and Tanytarsus sp. (23%) in sand, Chironomus
+spp. (47%), Tanytarsus sp. (30%) and Procladius
+sp. (12%) in silty sand, and Chironomus spp.
+(95%) in silt.
+In the outer bay, five of the sites sampled in
+1987 to 1990 corresponded to sites that were sampled
+in 1972 (Table 3). A comparison of densities
+in the two sampling periods indicated that all
+differences in the major groups were non significant (paired t-test, P > 0.05). Further, the
+oligochaete trophic index indicated the community
+was dominated by oligotrophic species in both time
+periods. Index values (mean ± SE) were 0.96 ±
+0.05 in 1972 and 1.02 ± 0.02 in 1987–90. Dominant
+species were Spirosperma ferox, Aulodrilus
+pluriseta, and S. heringianus; these three species
+accounted for 92% of all oligochaetes in 1972 and
+65% in 1987 to 1990. Other abundant species in the
+latter period were P. vejdovskyi (10%), L. hofmeisteri
+(6%), and Aulodrilus americanus (3%). For
+chironomids, Tanytarsus sp. was the dominant
+species in both periods (45% of all chironomids).
+Differences in Simpson’s Diversity Index between
+the two periods were non-significant (paired t-test,
+P > 0.05).
+Trends and Comparisons, Pre- and Post-Dreissena
+Dreissena was initially found in samples from
+spring 1991, and the first large recruitment occurred
+that summer (Nalepa et al. 1995). Mean densities
+on cobble/sand in the inner bay, as sampled by
+divers, reached a maximum of 33,838/m2 in 1992,
+declined in 1993, and then varied between 2,100
+and 5,500/m2 from 1993 to 1996 (Table 4). Few
+mussels were found at sites with silty sand or silt
+substrate during the entire sampling period. Densities
+tended to be higher in the outer bay than in the
+inner bay, but this was likely a result of greater
+amounts of hard substrate (cobble, bedrock) found
+at the outer bay sites. Mean biomass for 1993 to
+1996 varied between 4.1 and 13.4 g/m2 in the inner
+bay, and between 13.8 and 97.8 g/m2 in the outer
+bay (Table 4). Greater biomass occurred at sites inthe outer bay not only because of higher densities,
+but also because the mussels were larger and
+weighed more per unit length (Nalepa et al. 2002).
+While mussel densities in the outer bay were generally
+consistent between 1994 and 1996, biomass increased
+as a result of an increase in mean size
+(Nalepa unpublished data).
+The response of the benthic community to Dreissena
+colonization varied depending upon substrate
+type and water depth. At shallower sites with sand
+or silty sand substrates in the inner bay, densities of
+only two taxa changed significantly relative to the
+establishment of Dreissena (Table 5). At these sites,
+densities of Gammarus were significantly higher (P
+< 0.05), and densities of sphaeriids were significantly
+lower (P < 0.05) in the post-Dreissena period
+(1993 to 1996) compared to the pre-Dreissena period
+(1987 to 1990). Densities of both oligochaetes
+and chironomids were not significantly different between
+the two periods (P > 0.05). Mean annual densities
+of both groups were highly variable at the site
+with silty sand (Station 11) in the pre-Dreissena period,
+which may explain the lack of statistical significance
+between the pre-and post-Dreissena
+periods (Table 5). But even so, densities of both
+groups were relatively stable between 1991 and
+1996 and unaffected by the peak and decline in
+Dreissena over that time period. Since oligochaetes
+and chironomids, as well as Gammarus, are consistently
+more abundant in mussel clusters than in surrounding
+substrates (Karatayev et al. 1997), the
+relationship between densities of these groups andDreissena was examined by using correlation
+analysis. Only those replicate samples taken in the
+post-Dreissena period (1993 to 1996) and with
+Dreissena present were used in the analysis. Pearson
+correlation coefficients between densities of
+oligochaetes and chironomids and Dreissena were
+not significant (P > 0.05; oligochaete coefficient =
+0.13, n = 96; chironomid coefficient = –0.05, n =
+96). In contrast, a similar analysis for Gammarus,
+was highly significant (P < 0.01; coefficient = 0.61;
+n = 62).
+Species composition of both oligochaetes and
+chironomids were generally unaffected by Dreissena
+at sites with sand and silty sand substrates.
+The oligochaete trophic index remained generally
+constant over the entire sampling period at sites
+with both substrates (Fig. 3a). The index does not
+include Naididae, however, and this family dominated
+the oligochaete community at sites with sand.
+A further examination of naidids indicated some
+changes in the relative proportion of individual
+species, although the total number of taxa was similar
+in the pre-and post-Dreissena periods (7 and 10,
+respectively). The proportion of the following
+species changed the most between the two periods:
+Arcteonais lomondi and Chaetogaster sp. decreased
+(14.0% to 1.2%; 13.6% to 0.1%) and Piguetiella
+michiganensis increased (40.2% to 70.0%). For chironomids,
+a total of 19 and 24 taxa were collected
+in the pre- and post-Dreissena periods, respectively,
+and the dominant species was Cladotanytarsus
+mancus in both periods (42.8% and 69.1%). Temporal
+trends in Simpson’s Diversity Index relative
+to Dreissena colonization were not apparent (Fig.
+3b).
+At sites in the deepwater/silt region, oligochaete
+densities were significantly lower (P < 0.01) in the
+post-Dreissena period compared to the pre-Dreissena
+period, but differences in the other groups
+were not apparent (P > 0.05). Oligochaetes declined
+from a peak of 21,195/m2 in 1988 to a low of
+1,208/m2 in 1994, and then increased to 4,618/m2
+by 1996. Greatest proportional declines occurred
+between 1990 and 1991 (50%), and between 1992
+and 1993 (76%). While the latter decline followed
+the Dreissena peak, it seems unlikely that the former
+decline could be attributed entirely to Dreissena.
+Mean oligochaete density was 17,749/m2 in
+fall 1990, but only 7,758/m2 in spring 1991. Thus,
+oligochaete densities were already much lower in
+spring 1991 even before the major Dreissena colonization
+occurred in summer 1991.
+Tubificid oligochaetes comprised 99% and 90%
+of all oligochaetes in the pre- and post-Dreissena
+periods, respectively, at sites in the deepwater/silt
+region, and the oligochaete trophic index indicated
+a distinct shift from eutrophic to mesotrophic
+species after Dreissena colonization (Fig. 3a). The
+mean index value declined from 2.14 ± 0.12 to 1.72
+± 0.09 (P < 0.05). The proportion of the following
+species indicative of considerable enrichment decreased:
+L. hoffmeisteri (33.4% to 22.2%), L. cervix
+(25.8% to 8.7%), and Tubifex tubifex (4.6% to
+0.2%), while the following species indicative of
+only slight enrichment increased: Aulodrilus limnobius
+(0.0% to 10.3%), and Aulodrilus pigueti (1.3%
+to 12.5%). Densities of chironomids declined in the first few
+years after the peak in Dreissena at sites in the deep
+water/silt region, but then increased so that the difference
+in the pre- and post-Dreissena periods was
+not significant (P > 0.05) (Table 5). By 1995 and
+1996, chironomid densities were similar to or
+greater than densities found in the pre-Dreissena
+period. While the total number of species collected
+in the two periods was similar (16 and 14), there
+were shifts in proportions of the dominant taxa. The
+proportion of the following species increased the
+most: C. anthracinus (25.4% to 34.7%), Chironomus
+sp. (2.0% to 17.5%), Cryptochironomus digitatus
+(0.3% to 9.5%), and Procladius sp. (3.3% to
+7.7%), and the following species declined: Chironomus
+semireductus gr. (52.6% to 25.8%), and
+Chironomus plumosus (12.5% to 0.0%). The latter
+two species are indicative of highly eutrophic conditions
+(Saether 1979), and their decline would indicate
+an improved trophic state, as indicated by the
+oligochaete trophic index. At these sites, the Simpson
+Diversity Index increased significantly (P <
+0.05) after Dreissena colonization, likely as a result
+of the decline in overall abundance of oligochaetes
+and the increase in mesotrophic-indicator species
+(Fig. 3b).
+In the outer bay, significant differences in densities
+between the pre- and post-Dreissena periods
+were not detected for any of the major taxonomic
+groups at the three sites sampled (P > 0.05). However,
+after Dreissena became established, there was
+a downward trend in densities of sphaeriids at the
+13-m site and Diporeia at the 28-m site (Table 5).
+The downward trend was not apparent until after
+1993; if this year was not considered as part of the
+post-Dreissena period, the decline was significant
+(P < 0.05) for both taxa. Oligotrophic forms dominated
+the oligochaete community in the outer bay
+throughout the sampling period. On an annual
+basis, the oligochaete trophic index at the three
+sites varied from 0.55 to 1.43, and Simpson’s Diversity
+Index varied from .69 to .90. Differences
+between the pre- and post-Dreissena periods were
+not significant for either index (P > 0.05).
+Minor taxa collected in the bay during the study
+period included Gastropoda (Amnicola limosa,
+Probythinella lacustris, Bythinia tentaculata, Physa
+sp., Pleurocera acuta, Valvata sincera, and Valvata
+tricarinata), Ephemeroptera (Caenis sp., Hexagenia
+sp.), Trichoptera (Oecetis sp.), and Isopoda (Caecidotea
+racovitzai). Differences were noted in two of
+these taxa relative to Dreissena colonization. Oecetis
+sp. was more abundant in the post-Dreissena
+period at the silty sand site in the inner bay (0/m2 to
+10/m2), while C. racovitzai was less abundant at the
+28-m site in the outer bay (117/m2 to 1/m2).
+In comparing communities in the pre- and postDreissena
+periods at each of the ten sites, the Bray
+Curtis Index indicated that communities at sites in
+the deepwater/silt region changed the most (were
+least similar), while communities at the outer bay
+sites changed the least (were most similar) (Fig 4).
+The index ranged from 0.43 to 0.53 at the former
+sites and from 0.67 to 0.69 at the latter sites.
+Biomass Trends and Comparisons,
+Pre- and Post-Dreissena
+As found for density, changes in total macroinvertebrate
+biomass (excluding Dreissena) varied by
+substrate and depth. Biomass at sites with sand substrates
+in the inner bay was significantly greater
+(P < 0.05) in the post-Dreissena period (1993 to
+1996) compared to the pre-Dreissena period (1987
+to 1990), but differences were not significant at
+sites with silty sand or silt substrates (P > 0.05).
+Biomass at sites with sand increased from a mean
+of 0.10 to 0.43 g/m2 (Fig. 5). This increase wasmostly a result of greater numbers of Gammarus,
+although a few large gastropods (Bythinia tentaculata
+and Pleurocera acuta) were found in 1996 and
+not in other years. Gammarus accounted for 30%
+and 56% of total biomass in the pre- and post-periods,
+respectively. Although not significant, mean
+biomass at sites in the deep water/silt region decreased
+from 5.5 to 2.9 g/m2, mostly because of
+lower densities of oligochaetes in the post-Dreissena
+period. Chironomids dominated the biomass at
+sites in the deepwater/silt region, accounting for
+69% of total biomass in the pre-Dreissena period
+and 89% in the post-Dreissena period.
+In the outer bay, significant differences in total
+biomass between the pre- and post-Dreissena periods
+were not detected at the two shallow sites (Stations
+24 and 20). Large year-to-year variation
+occurred at both sites during the post-Dreissena period
+(Fig. 5). Biomass at the deeper 28-m site (Station
+23) was significantly lower in the
+post-Dreissena period (P < 0.05), and this decline
+can be attributed mainly to decreased numbers of
+the amphipod Diporeia (Table 5). 
+
+xdiscussion
+Trends in densities of the major macroinvertebrate
+groups from 1987 to 1996 in Saginaw Bay can
+be put into a historical perspective by examining
+densities reported in studies over several decades
+beginning in the mid-1950s (Surber 1954, 1955;
+Alexander 1963; Shannon et al. 1967; Schneider et
+al. 1969; Batchelder 1973; Michigan Department of
+Natural Resources [MDNR] unpublished data).
+Densities from previous studies were converted to
+Ponar equivalents as given in Nalepa et al. (2002).
+An examination of historical trends was limited to
+the deepwater/silt region since organic materials
+from both allochthonous and autochthonous sources
+eventually focus and settle in this region (Robbins
+1981), and therefore changes in the macroinvertebrate
+community most closely reflect shifts in the
+overall productivity of the system.
+In the deepwater/silt region, both oligochaetes
+and chironomids increased between the 1950s and
+the 1960s/early 1970s (Fig. 6). These increases
+were likely a result of increasing nutrient loads and
+high system productivity (Vollenweider et al. 1974).
+This was also the time period over which the burrowing
+mayfly Hexagenia, a pollution sensitive
+form, disappeared from the bay (Schneider et al.
+1969). Phosphorus abatement programs were initiated
+in the mid-1970s, and total phosphorus loads in
+the inner bay declined 55% between 1974 and 1980
+(Bierman et al. 1984). This resulted in a 53 to 61%
+decline in chlorophyll (20.6 to 12.2 µg/L in spring
+and 29.1 to 12.2 µg/L in fall) (Bierman et al. 1984),
+a reduction in populations of eutrophic indicator
+species of phytoplankton (Stoermer and Theriot
+1985), and the elimination of nuisance blooms of
+blue-green algae (Stoermer et al. 1983). Further reductions
+in total phosphorus and chlorophyll were
+not apparent between 1980 and 1991 (Fahnenstiel et
+al. 1995a).
+Despite improvements in water quality, densities
+of the dominant macroinvertebrate groups,
+oligochaetes and chironomids, changed little or increased between 1971 and 1987 to 1990. This finding
+is surprising, particularly for oligochaetes,
+given that other studies in the Great Lakes have
+found decreases in abundances after abatement programs
+(Johnson and McNeil 1986, Schloesser et al.
+1995, Nalepa et al. 1998). A close examination of
+trends suggests that densities of at least
+oligochaetes were abnormally high in 1987 to 1990
+and likely not representative of the post abatement
+period. For instance, a 1986 survey reported a mean
+oligochaete density of 7,200/m2 in the
+deepwater/silt region (MDNR unpublished data)
+(Fig. 6). This value was far less than the mean of
+20,800 m2 in 1987, just 1 year later. By 1991, densities
+declined back to 7,900/m2. Given the magnitude
+of this increase and decrease over such a short
+time period, it is possible that densities were affected
+by a short-term storm event that occurred in
+fall 1986. A 100-year flood displaced 8 to 200 cm
+of surface sediment material from river margins
+into the bay (Ludwig et al. 1993). These organic inputs
+would have been deposited in the
+deepwater/silt region and perhaps led to the dramatic
+increase in oligochaete densities the following
+year. Densities of tubificid oligochaetes can
+increase rapidly after periods of high organic sedimentation
+(nearly a 2-fold increase in just a few
+months; Lang and Hutter 1981). Consistent with
+this theory, the highest proportion of immature tubificids
+over the entire sampling period occurred in
+1987 (93%). Subsequent declines, particularly after
+1990 but before Dreissena, may have been a result
+of the population returning to levels more at equilibrium
+with the carrying capacity of the bay prior
+to this discharge event. Mean annual water temperatures
+in the inner bay in 1987 and 1988 were
+higher than in the previous 6 years (McCormick
+and Fahnenstiel 1999) and this may have also contributed
+to greater oligochaete recruitment. If densities
+in 1986 and 1991 are considered to be typical of
+the post-abatement period, then oligochaete densities
+declined about 45% from pre-abatement densities
+found in 1971, and chironomids declined by
+40%. However, despite these apparent declines in
+densities, eutrophic-indicator species of both
+groups still dominated the community.
+Several distinct changes occurred in the macroinvertebrate
+community just after the peak of Dreissena
+in 1992. At sites in the deepwater/silt region,
+density and biomass of both oligochaetes and chironomids
+decreased sharply, even though few mussels
+were ever found in this region. It is likely that,
+at least initially, filtering activities of abundant
+Dreissena populations in the sand/shallow water regions
+of the bay led to diminished organic inputs
+into the deepwater/silt region, leading to a decline
+in densities of these two groups. Strayer and Smith
+(2001) reported a similar pattern in the Hudson
+River estuary; that is, Dreissena populations in
+shallow-water areas had a negative impact on
+macroinvertebrate populations in adjacent deepwater
+areas where no Dreissena were present. In
+inner Saginaw Bay, this response was evident for
+just a few years after the 1992 peak in Dreissena.
+By 1995 to 1996, oligochaete densities had increased from earlier lows, and chironmid densities
+were greater than found prior to Dreissena. The
+oligochaete trophic index declined after 1992 and
+remained lower through 1996, indicating that increased
+densities in 1995 and 1996 consisted of
+species reflective of more oligotrophic conditions.
+In terms of other taxa, of particular interest was
+the number of Hexagenia spp. collected in the
+deepwater/silt region of the inner bay. As noted,
+this pollution-sensitive species was once abundant
+in this habitat, but disappeared in the 1950s. Over
+the 9-year study period, five individuals were collected
+in the inner bay, two in 1990 and three in
+1994, and all were found at Station 11 (Nalepa et al.
+2002). In western Lake Erie, Hexagenia returned to
+former abundances in the early 1990s after a
+decades-long absence (Edsall et al. 1999). Hexagenia
+was not found in Saginaw Bay in the early
+1970s (Batchelder 1973; GLRD unpublished), so
+the finding of a few individuals is noteworthy. Yet a
+large-scale return to Saginaw Bay, although predicted
+(Schaeffer et al. 2000), had yet to occur
+through 1996.
+There were two clear responses to the establishment
+of Dreissena in the shallow water/sand region:
+an increase in Gammarus and a decrease in
+Sphaeriidae. Similar to the present study, most
+other studies have reported a similar response in
+these two taxa (Howell et al. 1996, Haynes et al.
+1999). Gammarus apparently benefits from increased
+habitat complexity created by Dreissena
+clusters, and from increased food availability generated
+by mussel biodeposits (Ricciardi et al. 1997,
+Stewart et al. 1998). In this study, densities of Gammarus
+in the post-Dreissena period (240 to 494/m2)
+exceeded historical densities (152/m2 in 1956 [J. C.
+Schneider unpublished data] and 97/m2 in 1971
+[Batchelder 1973]). The decline in sphaeriids has
+been attributed to physical attachment by Dreissena,
+or to competition for food (Lauer and McComish
+2001, Strayer and Smith 2001).
+In contrast to some studies, we did not observe
+any changes in densities of oligochaetes or chironomids
+in response to Dreissena in the shallow
+water/sand region. Relative impacts of Dreissena on
+these two groups are variable and appear to be a
+function of where samples were collected relative to
+Dreissena clusters. Some studies have shown that
+densities of these two groups are higher within, or
+adjacent to, mussel clusters than in surrounding substrates
+(Karatayev et al. 1997, Bially and MacIsaac
+2000). Yet other studies have shown that, overall,
+densities of oligochaetes and chironomids did not
+change or declined after Dreissena introduction (Johannsson
+et al. 2000, Kilgour et al. 2000, Strayer
+and Smith 2001). Mussels do provide more suitable
+habitat and/or food for these groups but, as argued
+by Strayer and Smith (2001), local studies within
+mussel beds neglect changes on a broader spatial
+scale. The local impact of Dreissena on oligochaetes
+and chironomids is a function of mussel density
+(Karatayev et al. 1997). At sand sites in the inner
+bay, mussel densities in individual replicates with
+mussels ranged from 1 to 42,390/m2 (mean =
+3,855/m2). Yet even with these densities on a local
+scale, no relationship between Dreissena and densities
+of oligochaetes and chironomids was observed.
+The decline of the amphipod Diporeia in the outer
+bay is consistent with declines in other regions of
+the Great Lakes after Dreissena became established
+(Dermott and Kerec 1997, Nalepa et al. 1998,
+Lozano et al. 2001). A common theory for the decline
+in Diporeia is that mussels are outcompeting
+Diporeia for food resources settling to the bottom,
+particularly diatoms (Nalepa et al. 1998, Dermott
+2001). Inconsistent with this theory, at least in the
+outer bay, is the fact that neither chlorophyll nor diatom
+biovolumes in the water column declined at
+Station 23 between 1991 and 1996 (Johengen et al.
+2000; H. A. Vanderploeg unpublished data). Diporeia
+densities declined at Station 23 just 2 years after
+Dreissena peaked at shallower sites within the outer
+bay (Stations 19 and 27), yet Dreissena was never
+collected at Station 23 over the entire sampling period.
+While Diporeia has declined in areas where
+both Diporeia and Dreissena are found in immediate
+proximity (Dermott and Kerec 1997), the decline at
+Station 23 in outer Saginaw Bay provides another
+example of populations that have declined in areas
+removed from Dreissena, and where food resources
+are still apparently available to sustain at least some
+of the population (Dermott 2001).
+Based on the relative proportion of the various
+substrate types within the inner bay (57% sand,
+16% silty sand, and 27% silt; Robbins 1981), and
+mean biomass of benthic communities within each
+substrate type, system-wide changes in benthic biomass
+were calculated for each sampling year. The
+inner bay is a well-mixed, semi-confined system,
+and thus net gains or losses of benthic biomass may
+be interpreted relative to overall system productivity.
+When considered as a whole, biomass of the
+non-dressenid macroinvertebrate community was
+affected by Dreissena for only a short time period
+(Table 6). While decreases were apparent immediately
+after the peak in Dreissena in 1992, biomassincreased after Dreissena populations apparently
+stabilized. Mean yearly biomass of 2.30 and 2.72 ×
+109 g in 1995 and 1996 were not different from values
+of 2.14 to 3.57 × 109 in 1987 to 1990 prior to
+Dreissena. Thus, the energetic demands of Dreissena
+ultimately did not come at the expense of the
+non-dreissenid benthic community. The same finding
+was reported for the western basin of Lake Erie
+(Johannsson et al. 2000), a system similar to inner
+Saginaw Bay. When Dreissena is included, standing
+stocks of the total benthic community in the inner
+bay were 2 to 6 times greater in 1993 to 1996 compared
+to 1987 to 1990 (Table 6). The question remains
+how the non-dreissenid benthic community
+can be sustained given the added energetic requirements
+of the dreissenid population. The system is
+dominated by detritivores (oligochaetes and chironomids),
+and conceivably the availability of detrital
+food did not decline or perhaps even increased.
+While chlorophyll levels declined 61% in the inner
+bay after Dreissena became established (Fahnenstiel
+et al. 1995a), standing stocks of benthic
+macroalgae and submersed macrophytes increased
+because of increased light penetration to the bottom
+(Skubinna et al. 1995, Lowe and Pillsbury 1995).
+As calculated by Fahnenstiel et al. (1995b), a decrease
+in phytoplankton production was almost
+compensated for by an increase in benthic algal
+production, without even considering a potential increase
+in other benthic producers such as vascular
+hydrophytes and metaphytonic algae. Moreover, the
+potential for increased nutrient supply rates resulting
+from Dreissena excretion would enhance
+growth rates of both benthic and pelagic algae
+(Heath et al. 1995). In addition, large, late summer/fall
+blooms of the cyanophyte Microcystis have
+been documented in the inner bay beginning in
+1994 as a result of selective rejection by Dreissena
+(Vanderploeg et al. 2001). When settled to the bottom,
+this alga may enhance food availability to the
+benthos, either directly or indirectly through increased
+bacterial production (Brunberg and
+Bostrom 1992).
+A number of studies have examined macroinvertebrate
+changes within a specific habitat type, such
+as within hard-substrate habitats colonized by
+Dreissena, but few have determined changes on a
+system-wide basis. After Dreissena colonized the
+Hudson River, Strayer and Smith (2001) reported a
+10% gain in non-dreissenid biomass at shallow
+water sites, but a 50% loss at deepwater sites.
+Based on the proportion that each habitat comprised
+of the river system, it was estimated that nondreissenid
+biomass declined 40% on a riverwide
+basis. In comparison, a 58% overall decline was
+found in non-dreissenid biomass in the inner bay
+within 2 years after the peak in Dreissena (1993 and
+1994), but then biomass increased such that there
+was no difference in biomass 3 to 4 years (1995 and
+1996) after the Dreissena peak when compared to
+the pre-Dreissena period (1987 to 1990). In 1995
+and 1996, mean biomass at the shallow-water/sand
+sites increased by 84% compared to 1987 to 1990,
+while biomass at the deepwater/silt sites declined
+by 27%.
+Even though total non-dreissenid macroinvertebrate
+biomass did not change as a result of the introduction
+of Dreissena in the inner bay, Dreissena
+likely enhanced the amount of food available to
+upper trophic levels. When considering macrobenthic
+forms that are most readily fed upon by many
+fish such as chironomids, Gammarus, and sphaeriids
+(Wells 1980), the decline in sphaeriids was more
+than offset by the increase in Gammarus, and no
+long-term changes were observed in biomass of
+chironomids. For example, yellow perch in the
+inner bay fed primarily on chironomids in the late
+1980s (Schaeffer et al. 2000), but also will feed on
+amphipods when available (Haygood and Margraf
+1987). The 5-fold increase in Gammarus over most
+of the inner bay without a corresponding decline in
+chironomids will likely have a positive effect on
+this fish species. The assumption, of course, is that
+Gammarus is available to fish and not sheltered
+from predation within mussel clusters. When considered as a whole, the fish community in the inner
+bay shifted to more benthic-feeding forms since
+Dreissena became established (Thomas and Haas
+1997). In the outer bay, the introduction of Dreissena
+will probably have a more negative impact on
+upper trophic levels. Although macroinverteberate
+biomass at shallower water sites in the outer bay
+were not affected by Dreissena, the decline in biomass
+at deep-water sites as a result of the loss of
+Diporeia will likely adversely affect some fish
+species (Pothoven et al. 2001).
+In summary, it was difficult to determine a clear
+response of the benthic macroinvertebrate community
+to phosphorus abatement efforts over the time
+period of this study. The community in the deepwater/silt
+region of the inner bay, the best location in
+the bay to interpret long-term trends, was likely affected
+by a major storm event that occurred just
+prior to our initial sampling. This confounded interpretations
+of abatement efforts. Densities of the two
+major groups, oligochaetes and chironomids, were
+likely 45% and 40% lower after abatement and before
+Dreissena colonization, but eutrophic species
+still dominated each of these groups. After Dreissena
+became established, oligochaete densities initially
+declined in the deepwater/silt region of the
+inner bay, but then returned to values near those
+found in the pre-Dreissena period. Also, the
+oligochaete community shifted to species more indicative
+of an improved trophic state, and overall
+species diversity increased. Sphaeriids declined in
+the shallow/sand and silty sand regions, but Gammarus
+increased. Species diversity in these regions
+was little changed after Dreissena colonization. Despite
+shifts in community composition, non-dreissenid
+biomass in the entire inner bay was
+unchanged relative to biomass found in the preDreissena
+period by the end of the sampling period.
+In the outer bay, the most significant change was a
+decrease in biomass at deeper depths as a result of a
+decline in Diporeia. The increase of Gammarus in
+the shallow, nondepositional regions of the inner
+bay, and the loss of Diporeia in the deeper regions
+of the outer bay have contrasting implications to the
+food web. 

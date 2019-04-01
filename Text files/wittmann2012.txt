@@ -1,0 +1,551 @@
+﻿xabstract
+The increasing dispersal and establishment of aquatic invasive species in natural freshwater ecosystems has led
+to efforts to remove non-native taxa and/or restore native species. An invasive bivalve, Asian clam (Corbicula
+fluminea), recently (2002) became established in a large, natural subalpine lake (Lake Tahoe, USA). In 2009,
+experimental efforts were undertaken to harvest C. fluminea from Lake Tahoe sediments using a manually
+operated suction dredge apparatus.
+2. Treatment and control plots were monitored for a 450 day period after dredging to observe target species
+(C. fluminea) and non-target macroinvertebrate recovery rates. A paired Before-After-Control Impact analysis
+was used to assess the short- and long-term impacts of suction dredging.
+3. Physical harvest resulted in short-term reductions of C. fluminea (1500 individuals m-2 before treatment to 60
+individuals m-2 14 days after treatment) with significant disruption to benthic macroinvertebrate community
+structure. The impact to the target invasive species (C. fluminea) was present 450 days after treatment and
+community diversity (as represented by Simpson diversity index) did not recover after 1 year (365 days) in
+dredged sites. Certain non-target macroinvertebrate taxa (Chironomidae and native clam (Pisidium spp.))
+increased in suction dredge plots to levels greater than before treatment or in control plot conditions at the end
+of the study period.
+4. Harvesting C. fluminea significantly reduced population densities for a period of 450 days after the removal.
+Recolonization rates of C. fluminea and non-target species over multiple reproductive seasons will determine the
+feasibility for this method as a long-term control strategy.
+
+xintroduction
+The establishment of aquatic invasive species
+continues to affect freshwater ecosystems and
+present costly challenges to natural resource
+managers. While prevention of invasive species
+introductions is considered to be the most effective
+means to reduce invasive species impacts (Leung
+et al., 2002; Finnoff et al., 2007; Keller et al., 2008), it
+is a complex and resource-intensive endeavour that is
+often complicated by undetected propagules,
+illegal releases, or accidental introductions that can
+confound prevention goals. As a result, natural
+resource managers are often tasked with controlling
+or removing an introduced species after it has
+become established.
+Harvesting invasive species has promise as a
+non-chemical means to reduce negative economic
+and ecological impacts and increase water quality
+and commercial and recreational use of ecosystems
+(Simberloff, 1999; Mack et al., 2000). Efforts to
+physically remove invasive species have been
+attempted for a number of taxa including rusty
+crayfish (Hein et al., 2007), dreissenid mussels
+(Wimbush et al., 2009), aquatic macrophytes
+(Tobiessen et al., 1992; Eichler et al., 1993), and
+smallmouth bass (Weidel et al., 2007) with varied
+levels of success. Unintended effects of invasive
+species removal include shifts to native community
+structure (Rinella et al., 2009) or increases in
+population growth rates of the management
+target (Zipkin et al., 2009). Although rare,
+invasive species management goals have been
+accomplished through long-term programmes of
+physical removal (Wimbush et al., 2009) or
+combining physical removal with other treatment
+methods (Madsen, 1997).
+Many methods exist to remove species from
+aquatic systems such as hydraulic dredging, hand
+removal, trapping, or electroshocking and each
+has impacts on the surrounding environments
+and biological communities. Dredging or suction
+removal is a widely used method of species
+extraction from sediments, and has been used for
+the removal both of desirable (i.e. commercial)
+species such as the razor clam (Ensis spp.) and
+nuisance benthic macrophytes (Nichols and
+Cottam, 1972; Tobiessen et al., 1992; Eichler
+et al., 1993; Hauton et al., 2007). In general,
+dredging in aquatic environments is considered a
+major disturbance to benthic systems as it
+reduces benthic macroinvertebrate populations
+(Kenny and Rees 1996; Pranovi et al., 1998;
+Lewis et al., 2001) and disrupts the population
+structure of native communities (Grassle and
+Sanders 1973; McCall, 1977; Dernie et al., 2003).
+These types of disturbances have also been
+observed with dredging activities specifically
+targeted towards biotic removal (Tuck et al.,
+2000; Morello et al., 2005).
+Corbicula fluminea is a sediment-dwelling bivalve,
+introduced and invasive to North America and
+native to temperate and tropical regions of Asia,
+Africa, and Australia (Counts, 1986). The impacts
+of C. fluminea both on natural and on man-made
+systems are known (Isom, 1986) and have been
+observed to affect native invertebrate communities
+(Karatayev et al., 2003), phytoplankton assemblages
+(Lopez et al., 2006), benthic habitats (Hakenkamp
+and Palmer, 1999) and nutrient cycling (Lauritsen
+and Mozley, 1989). This species is considered an
+economic nuisance because of its ability to biofoul
+water intakes (Eng, 1979), particularly in nuclear
+and hydropower production (Isom et al., 1986;
+Williams and McMahon, 1986) where damage
+caused by C. fluminea has been estimated at $1
+billion annually (Pimentel, 2005).
+Established populations of C. fluminea were first
+observed in Lake Tahoe, CA-NV in 2002 and in
+2008 high density populations (up to 6000 clams m-2)
+were observed in nearshore habitats by scientists,
+natural resource managers, and community
+stakeholders who responded by creating a
+science-based rapid response management
+programme. To explore the feasibility of reducing
+C. fluminea abundance with physical harvesting,
+a dredging experiment was carried out on
+sub-populations of C. fluminea. Benthic substrate
+removal through diver assisted suction dredging
+was applied to treatment plots with established
+populations of C. fluminea and monitored for
+450 days. The objectives of this study were to
+assess the recolonization rates of C. fluminea and
+co-occurring benthic macroinvertebrate taxa after
+suction removal to understand community recovery.
+
+xmethods
+Lake Tahoe (Figure 1) is a large, deep (surface area:
+495km2, maximum depth: 501 m) oligotrophic lake
+located at a subalpine elevation of 1898m in the
+Sierra Nevada Mountain Range. The Tahoe
+Basin’s largely granitic geology, the lake’s large
+volume (150km3) and relatively small drainage
+(800km2) basin explain its low nutrient
+concentrations and primary productivity rates
+(Goldman, 1988). Annual water temperature
+ranges from 5 to 28 C in the littoral zone, with
+upper and lower temperature extremes occurring
+in marina locations. The lake is oligomictic,
+mixing completely only in years of intense spring
+storms (Goldman et al., 1989; Wetzel, 2001). The
+photic zone extends to an approximate depth of
+100 m, and the entire water column is oxygenated
+throughout the year (Coats et al., 2006). Lake Tahoe
+supports an assemblage of benthic invertebrates
+dominated by oligochaetes, amphipods, ostracods,
+and dipteran larvae (Frantz and Cordone, 1996).
+
+Diver-assisted suction dredging was applied in 5m
+water depth at two sites, Marla Bay and Lakeside,
+which both have established C. fluminea
+populations – with Marla Bay representing a high
+density C. fluminea population (average abundance
+~2000m-2) and Lakeside representing a region with
+lower densities (average abundance ~500m-2). At
+each site, three suction removal plots and one
+control plot (surface area: 36m2) were delineated
+on the lake bottom to guide the dredging diver and
+to demarcate sampling areas for monitoring
+purposes (Figure 1). Owing to field resource
+limitations, only two plots were suctioned at Marla
+Bay and three at Lakeside. In March 2009 a
+suction dredge apparatus (4cm diameter hose,
+engine specifications: 5.5 HP (4.1kW) @3600 rpm
+net power output, 196 cm3 displacement, 12.4Nm
+@2500 rpm net torque) was used to remove
+treatment plot sediments to a depth of 13cm at
+Marla Bay (9.5m3 removed) and a depth of 8cm
+(depth of sediments above a clay hard pan
+boundary) at Lakeside (8.5m3 removed).
+To collect benthic macroinvertebrates, sediment
+grab samples (N=3) were collected in each of the
+treatment and control plots using a petite Ponar
+grab sampler (2.4L volume, 231 cm2 sample area,
+Wildlife Supply Company, Yulee, FL, USA) at
+7 days before and 14, 90, 240, 365, and 450 days
+after dredging. Upon collection all samples were
+screened (500 mm mesh) and the retained sediment
+was then placed in a super-saturated sugar solution
+to float invertebrates (Anderson, 1959). Samples
+were then picked manually to remove all
+macroinvertebrates. All organisms were preserved
+in 70% ethanol until identification (Merritt and
+Cummins, 1996; Thorp and Covich, 2001) Average
+particle size distribution of Marla Bay and
+Lakeside sediment types was determined using a
+wet sieve method (Gordon et al., 1992) and
+described using a Wentworth scale. Temperature
+samples were collected using in situ loggers (4 h
+sampling interval) (iButtonW #DS1922L, 0.5 C
+accuracy, Embedded Data Systems, Lawrenceburg,
+KY, USA).
+Total macroinvertebrate abundance, abundance
+by taxonomic grouping and Simpson Diversity
+Index (Simpson, 1949) was calculated for each
+sample. Abundance was calculated by dividing the
+number of species individuals per sample by the
+volume of the petite ponar grab sampler. Impact
+of sediment removal on the invertebrate
+community was assessed using Paired Before-After
+Control-Impact (BACIP) analysis (Stewart-Oaten
+et al., 1986; Underwood, 1991, 1994; Guerra-
+García et al., 2003). Effect size was calculated by
+forming differences between site-specific pairs:
+
+where X represents taxonomic abundance or
+diversity index values, m is the mean difference
+between control and impact, ’i the change in
+difference from before to after, and eik the error
+associated with the differences (Stewart-Oaten
+et al., 1986). Differences (Dik), were then compared
+for before and after periods using a two-sample
+t-test. Both sites (Marla Bay and Lakeside) were
+combined to calculate the overall mean difference
+in effect size while maintaining site-specific pairing
+between control and treatment plots. A significant
+change in the mean difference (m) after the onset of
+the perturbation was considered strong evidence of
+an environmental impact. All statistical analysis was
+carried out using program R 2.12.1.
+
+xresults
+Before treatment, average total macroinvertebrate
+abundance (P<0.001, t-test, n =12, df = 22) was
+lower at Lakeside (mean abundancestandard
+error: 4014280m-2) compared with Marla Bay
+(6995684m-2). Common taxonomic groupings
+were observed at both sites: Amphipoda (Hyalella
+sp.), Chironomidae, Oligochaeta, Gastropoda
+(Planorbidae and Physidae), and non-native and
+native bivalves, Corbiculidae (C. fluminea) and
+Sphaeriidae (Pisidium casertanum and compressum;
+hereafter referred to as Pisidium spp.), respectively.
+Other less common taxonomic groups observed at
+both sites were Trichoptera (Leptoceridae,
+Lepidostomatidae), Ceratopogonidae (Palpomyia
+sp.), Ostracoda, Copepoda, Hydracarinidae,
+Cladocera, Hirudinea and Nematoda, and were
+not included in the analysis because of rare
+occurrence. C. fluminea was dominant in Marla
+Bay, with average relative abundance of 35%
+(2450343m-2), compared with Lakeside where
+C. fluminea abundances represented 8%
+(48595m-2) of the community (Figure 2).
+Chironomids were the other dominant taxonomic
+group at Marla Bay (2527145m-2, 31%), and
+Amphipoda (66976m-2; 10%), Oligochaeta
+(676126m-2; 10%), and Gastropoda (779214m-2;
+11%) represented secondary groups. Pisidium spp.
+(7819m-2) comprised 1% of the population at
+Marla Bay compared with more than 13%
+(53658m-2) of the population at Lakeside. The
+dominant groups at Lakeside were Amphipoda
+(1354188m-2; 34%) and Chironomidae (55974m-2;
+14%) (Figure 2).
+Sediment substrate at the Lakeside site was
+characterized as coarse to medium sand with a
+median sediment particle size, Me = 0.375mm and
+very coarse sand at Marla Bay, Me = 1.180 mm.
+Water temperature at the sediment–water interface
+ranged from 5.6 to 17.9 C during the course of
+the 450 day monitoring period.
+Immediate (14 days after treatment) impacts of
+suction removal were similar among most
+taxonomic groupings (Table 1, Figure 3). There
+was no significant difference in taxonomic
+abundances and diversity indices between control
+and treatment plots before suction removal
+(Table 1). At 14 days (April 09) after suction
+removal treatment, average total invertebrate
+abundance (combined between two sites) was 410
+(140 S.E.) individuals m-2; a 93% reduction
+compared with pre-treatment condition (5892594).
+The initial impact on C. fluminea was significant
+with a 96% reduction from 1484 (472) to 59 (34)
+individuals m-2 in the treatment site. Amphipoda
+also showed a dramatic reduction in abundance,
+decreasing 96% from 1022 (143) in the
+pretreatment condition to 44 (23) individuals m-2
+at 14 days. While average abundances of both
+chironomids and gastropods on day 14 in treatment
+plots did significantly decline after dredging
+(Figure 3), BACIP results showed that there was no
+significant impact on mean effect size (Table 1).
+Simpson diversity index values were significantly
+affected immediately after treatment, with mean
+effect size increasing more than two orders of
+magnitude compared with pre-treatment and control
+conditions (Table 1).
+Mean effect size varied during the monitoring
+period with differences observed among the
+taxonomic groups. Abundance of the management
+target C. fluminea in dredged plots was
+significantly less than in control plots at 450 days
+(July 2010) after treatment (Figure 3). However, at
+365 days (April 2010) after treatment BACIP
+results showed that effect size in dredged plots was
+not significantly different from control or before
+conditions. Total invertebrate abundance effect
+size was not significant at 240 days (December
+2010) after treatment. However, Simpson diversity
+index remained significantly different from the
+pre-impact condition throughout the entire
+sampling period (450 days; July 2010) suggesting
+that community dynamics were altered by
+harvesting. Chironomids had a significant positive
+effect size at day 240 (December 2009), indicating
+that abundances in treatment plots at this time
+surpassed abundances in control and impact plots
+before treatment. All other taxonomic groups had
+negative, but reducing, effect sizes at the end of
+the sampling period – indicating a trend towards
+a return to background and pre-treatment
+abundances. Figure 4 shows the proportional
+change in effect size for total invertebrate
+abundance, C. fluminea abundance, native clam
+(Pisidium spp.) abundance, and Simpson diversity
+index. By the end of the sampling period, both
+Pisidium spp. and total invertebrate abundance
+show the greatest reductions in effect size,
+declining from 0.92 at 14 days to 0.28 at 450 days
+and 0.78 at 14 days to 0.28 at 450 days,
+respectively. C. fluminea effect size was no longer
+significant at the end of the monitoring period,
+with a decrease from 0.76 to 0.53, while species
+diversity remained affected, with a proportional
+reduction to 0.63 at 450 days.
+
+
+
+xdiscussion
+While physical harvesting can decrease the
+abundance of a target species, it can also disrupt
+soft-sediment benthic communities by reducing
+diversity and abundance of some taxa. Dredging to
+remove C. fluminea populations in Lake Tahoe
+reduced benthic macroinvertebrate abundances and
+produced variable recolonization patterns that were
+dependent on environmental parameters and
+individual taxon responses. At the end of this
+study’s monitoring period, total invertebrate
+abundances in treatment plots were not significantly
+different from control or pre-treatment plot
+conditions, whereas diversity indices remained
+significantly decreased, suggesting that community
+dynamics were still altered 450 days after treatment.
+In general, dominance of a few groups is a
+common feature of macroinvertebrate communities
+in the early stages of the recolonization process
+(Ladle et al., 1980; Otermin et al., 2002), in part
+because they are either able to persist in sediments
+or can migrate into disturbed areas (Yount and
+Niemi, 1990). In this study, chironomids were
+among the first recolonizers in treatment plots, with
+a 50% recovery rate in abundances at 90 days (July
+2009). In contrast, the abundances of some taxa
+such as amphipods and oligochaetes did not begin
+to recover until 150 days (September 2009) after
+treatment. At 150 days after treatment amphipod
+abundances increased more rapidly than those of
+oligochaetes. Chironomids are ubiquitous in Lake
+Tahoe, and have been similarly observed as early
+colonizers in other systems because of their
+r-selected traits (Gray, 1981; Malmqvist et al., 1991;
+Otermin et al., 2002). In addition, chironomids were
+not completely removed after suction treatment,
+leaving behind 10% of the initial population
+abundance as primary recolonizers. In comparison,
+other taxa, such as amphipods and gastropods, were
+more completely removed, with 4% of their original
+population abundance remaining in treatment plots.
+The rapid chironomid recolonization could also be
+attributed to potential migration from adjacent
+untreated plots given its high abundance compared
+with other taxa observed in Lake Tahoe. Amphipods
+had rapid recovery relative to control plot
+conditions, which was probably attributable to their
+mobility, and similar to chironomids, a high
+potential for migration from adjacent, untreated
+areas. Temporal patterns of amphipod abundance
+mimicked control plot conditions, and by 150 days
+(September 2009) effect sizes were insignificantly
+different from controls. Similar to amphipods,
+oligochaete abundances in treatment plots showed
+increases correlated with control plots, but with
+many fewer individuals throughout the entire
+450 day monitoring period, suggesting that migration
+of new individuals from adjacent areas was not as
+frequent for oligochaetes as it was for other more
+mobile taxa. Timing of reproductive cycles for these
+taxa is unknown, but it was also possible that early
+recolonization rates during the spring and early
+summer periods for chironomids and amphipoda
+were optimal in comparison with oligochaetes,
+Pisidium spp., or C. fluminea, all of which did not
+show significant increases in abundance until at
+least 240 days (December 2009) after treatment.
+Slight increases in the abundance of the target
+invasive species C. fluminea in treatment plots did
+not begin until 240 days (December 2009) after
+treatment, and treatment plot densities were
+statistically different from control plots at 450 days
+(July 2010). However, during the April 2009
+sampling (365 days after treatment), C. fluminea
+treatment and control plots did not significantly
+differ. This reduction of control plot abundances
+could have been attributed to sampling effects
+given the naturally heterogeneous distribution of
+C. fluminea in space, or potentially from a
+winter-time decrease in the abundances as a
+result of a low temperature mortality event (Werner
+and Rothhaupt, 2008). Subsequent sampling on
+450 days after treatment (July 2010) showed
+continued increases in both the control and
+treatment plot abundances of C. fluminea, once
+again returned to a significant difference between
+control and treatment plots densities, but an
+insignificant effect size as represented in the BACIP
+results. While BACIP analyses have frequently been
+used to assess the impact of dredging on
+macrobenthic communities (Morello et al., 2005),
+natural changes in control populations and timing
+of monitoring events can affect results and
+interpretations of recovery. This is particularly
+important in relation to management scenarios,
+where the determination of invasive species control
+programmes are often based on monitoring results
+that are limited in extent.
+It is possible that recolonization by C. fluminea
+was influenced by the following: (1) minimum
+thermal thresholds for reproduction/juvenile
+release, and (2) the coarse sediment type at Marla
+Bay, compared with the clay substrate at Lakeside
+remaining after removal. C. fluminea population
+densities remained low at both sites until the
+minimum temperatures required for reproduction (i.
+e. gametogenesis, juvenile release) were approached
+during the spring and summer periods. Through
+either juvenile release, or movement of adults from
+adjacent plots, recolonization of C. fluminea
+occurred in the summer months, but with higher
+abundances observed in Marla Bay as a result of
+sediment type (coarse sediments in Marla, and clay
+pan remaining after suction removal at Lakeside)
+that provided more favourable habitat in which
+to recolonize. In contrast, through site surveys
+using SCUBA, Pisidium spp. were observed
+inhabiting the upper clay and re-sedimented
+layers at Lakeside after dredging.
+Unlike the invasive target species, C. fluminea,
+abundances of native bivalves Pisidium spp.
+increased to levels greater than or equal to those
+observed in the treatment plots by day 365 (April
+2010) compared with control plot conditions. C.
+fluminea is well known for its temperature-dependent
+reproductive rates (Williams and McMahon, 1989),
+generalist feeding preference (Way et al., 1990;
+Hakenkamp and Palmer, 1999), and tolerance to a
+wide variety of environmental conditions (Williams
+and McMahon, 1989). The relative recolonization
+success of Pisidium spp. compared with the slower
+recolonization rates of opportunist C. fluminea,
+suggests that C. fluminea is perhaps not as well
+adapted to low water temperatures, limited food
+availability, and other environmental variables not
+measured here. Further study of inter-specific
+competition in Lake Tahoe is needed to understand
+this relationship.
+The 450 day monitoring period of the treatment
+plots revealed several important factors of
+recolonization dynamics in this system. First,
+while total invertebrate abundance recovered to
+pre-disturbance levels, species diversity (as
+represented by the Simpson index) was significantly
+different from pre-treatment and control plot value
+throughout the entire post-dredging monitoring
+period (14–450 days). This suggests a modified
+community structure, which was most strikingly
+highlighted through shifts in chironomid
+abundances in treatment plots. Second, multiple
+linear regression results suggest that, similar to
+other pulse-disturbed freshwater soft-sediment
+benthic communities (Lake, 2000), time since
+treatment was a consistent predictor of C. fluminea
+and total invertebrate abundances, as well as
+Simpson diversity index effect sizes. Third, at
+the end of this study period (450 days; July 2010),
+the Simpson diversity index in the treatment
+plots remained significantly different from both
+pre-treatment and control conditions. This has
+several implications: (i) continued monitoring is
+required to understand whether the macrobenthic
+invertebrate community can fully recover to
+pre-treatment or control conditions, and (ii) further
+studies relating to inter- and intra-specific dynamics
+in treatment plots that can have longer-term
+impacts on community recovery are warranted.
+Recovery times of macroinvertebrate taxa after
+disturbance in lentic habitats have been observed to
+range from days to years and are dependent on
+environmental condition, community composition,
+and magnitude of the perturbation (Cowell, 1984;
+Van de Meutter et al., 2006; Sychra and Adamek,
+2011). Understanding benthic community dynamics
+under a pulse disturbance scenario can further
+indicate whether suction dredging is an effective
+method for invasive species control of molluscs
+in lentic habitats.
+Several control strategies for invasive molluscs,
+namely dreissenid mussels, have been developed
+and in some cases, have been successful (Nalepa
+and Schloesser, 1993; Claudi and Mackie, 1994;
+D’Itri, 1997). Removal of adult C. fluminea and
+other invasive molluscs has been used primarily in
+power generation settings where biofouling of
+important structures incurs significant costs and
+removal was necessary for proper plant
+functioning (Connelly et al., 2007). However, for
+open water bodies these approaches are generally
+not suitable as they can be ecologically damaging,
+expensive, and ineffective (Wimbush et al., 2009).
+There have only been two reports of bivalve
+eradication (using chemical treatment) in open
+water bodies (Bax, 1999; Virginia Department
+of Game and Inland Fisheries, 2009) and one
+non-chemical treatment that reduced but did
+not eradicate a dreissenid mussel population
+(Wimbush et al., 2009). In general, the only accepted
+practical approach for managing molluscan
+invasions in open waters is thought to be by
+prevention-oriented management (Frischer et al.,
+2005) with potential for control during early
+invasion stages when population densities are
+typically low (Hobbs and Humphries, 1995). While
+C. fluminea abundances remained significantly low
+at the end of the monitoring period (450 days after
+treatment, and one full reproductive period),
+continued monitoring of these populations is needed
+to determine the effectiveness of the sediment
+suction dredging method as a viable option for
+population control. The cost of labour and materials
+associated with the implementation of diver-assisted
+suction removal were $265m-2 and included dredge
+apparatus equipment purchase, high altitude
+commercial diver labour, sediment disposal, and
+permitting fees.
+Control of a biological invasion is most effective
+when it uses a long-term, ecosystem-wide strategy
+rather than a directed approach focusing on
+removing individual invaders, in part because of
+its impact on associated native taxa (Mack et al.,
+2000). High rates of fecundity, competitive
+resource utilization and juvenile dispersal allow
+invasive species such as C. fluminea to invade
+areas rapidly, which can limit management
+options and reduce restoration efforts (Sakai et al.,
+2001). While physical removal was economically
+costly, it effectively reduced the target invasive
+species abundance over a 450 day period. At the
+same time, it also reduced associated invertebrate
+abundances and caused disruptions to the
+community structure of the macrobenthos.

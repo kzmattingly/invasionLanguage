@@ -1,0 +1,567 @@
+xabstract Dispersal can limit the ranges of species and the
+diversity of communities. Despite its importance, little is
+known about its role in freshwater habitats and its relation
+to habitat type (lentic vs. lotic), especially for organisms
+with cryptic dispersal methods such as plankton. Poor dispersers
+are expected to show more clumped distributions or
+greater spatial autocorrelation (SA) in community composition
+than good dispersers. We examined patterns of SA
+across freshwater taxa with diVerent dispersal modes
+(active vs. passive) and their association with habitat type
+(lake vs. stream) using 18 spatially explicit community
+composition data sets. We found signiWcant relationships
+between SA and body size among taxa in lake habitats, but
+not in streams. However, the increase in SA with body size
+in lakes was driven entirely by Wshesóorganisms ranging
+in size from diatoms to macro-invertebrates showed equivalent
+levels of SA. These results support the idea that large
+organisms are less eVective dispersers in aquatic environments,
+resulting in greater SA in community structure over
+broad scales. Streams may be eVectively more connected
+than lakes as patterns of SA and body size were weaker in
+lotic habitats. Our data suggest that the critical threshold
+where greater body size increases dispersal limitation
+seems to come at the juncture between invertebrates and
+vertebrates rather than that between unicellular and multicellular
+organisms as has been previously suggested. 
+
+
+xintroduction 
+
+
+Dispersal among habitats is a cornerstone of modern ecological
+theory, and underpins the large body of work
+devoted to the study of population dynamics (Bilton et al.
+2001; Hanski and Gilpin 1997; Palmer et al. 1996), biogeography
+and community structure (Hubbell 2001;
+MacArthur and Wilson 1967). The scale and pattern of dispersal
+has important implications for evolution (Palumbi
+1994), population genetics (Grosberg and Cunningham
+2001) and community composition (Hillebrand and
+Blenckner 2002; Mouquet and Loreau 2002). Dispersal
+limitation is often treated as an alternative explanation for
+patterns of biological diversity to local selective processes
+(Ricklefs 2004). The critical distinction among several
+competing theories of broad-scale community ecology
+hinges on whether dispersal rates are high relative to local
+extinction or demographic rates, and whether dispersal
+occurs broadly or only within a spatially restricted neighborhood (Leibold et al. 2004). Information on the
+frequency, range, and factors aVecting dispersal is thus
+essential to understanding many ecological and evolutionary
+processes.
+Dispersal can have profound eVects on population and
+community structure at local and regional scales. Low
+dispersal probabilities may limit membership in local
+communities, therefore increasing habitat connectivity
+may result in enhanced within-patch diversity (Debinski
+and Holt 2000). However, suYciently high levels of dispersal
+may sustain sink populations that exclude other
+species and thereby reduce local diversity, leading to
+maximal local diversity at intermediate dispersal rates
+(Mouquet and Loreau 2002). Increasing dispersal is also
+expected to enhance similarity among sites and reduce
+beta diversity or species turnover among habitat patches.
+Since dispersal occurs over restricted spatial scales in all
+organisms, similarity in community composition declines
+with increasing distance among habitats (Condit et al.
+2002; Gilbert and Lechowicz 2004; Nekola and White
+1999; Tuomisto et al. 2003). The change in community
+structure with spatial separation is analogous to ìisolation
+by distanceî in population genetics, a measure which
+has often been used to infer rates of gene Xow among
+populations (Slatkin 1993).
+Despite the importance of dispersal in structuring populations
+and communities, surprisingly little is known about
+the extent, rates and mechanisms of dispersal in freshwater
+invertebrates (Bilton et al. 2001). DiYculties in measuring
+dispersal rates arise due to the cryptic nature of the dispersive
+stages and the lack of obvious dispersal mechanisms in
+many aquatic taxa. However, it may be reasonable to
+expect that dispersal constrains the distributions of many
+freshwater organisms due to the uninhabitable matrix surrounding
+lakes and streams. Recent reviews of dispersal in
+freshwater micro-invertebrates arrived at contrasting conclusions
+about the importance of dispersal limitation in
+plankton communities. De Meester et al. (2002) and Havel
+and Shurin (2004) concluded that zooplankton have high
+dispersal rates such that local selection processes are most
+important for shaping populations and communities. Bohonak
+and Jenkins (2003) questioned the generality of these
+conclusions and argued that the importance of dispersal for
+limiting the distributions of many taxa is unknown. Data on
+the importance of dispersal for constraining distributions of
+species or genotypes comes from patterns of morphology of
+surface scales of Paraphysomonas (Finlay and Clarke
+1999), community composition (Cottenie et al. 2003; Pinel-
+Alloul et al. 1995), experimental studies of colonization
+(Allen 2007; C·ceres and Soluk 2002; Cohen and Shurin
+2003; Jenkins and Buikema 1998) and invasion (Cottenie
+and De Meester 2004; Havel et al. 2002; Shurin 2000) and
+the recovery of lakes from past perturbations (Sarnelle and
+Knapp 2004). The importance of dispersal for patterns of
+diversity, ecosystem processes and food web structure in
+aquatic habitats remains much less understood than the role
+of local interactions.
+Contrary to plankton, Wsh and other aquatic vertebrates
+are largely obligate active dispersers through surface
+waters, and as such may be more inXuenced by direct
+aquatic connectivity patterns compared to planktonic
+organisms or macro-invertebrates. Isolation and extinction
+dynamics are both important structuring factors in lake
+and stream Wsh communities (Jackson et al. 2001; Magnuson
+et al. 1998; Olden et al. 2001; Tonn et al. 1990). Isolation
+is likely more diYcult to overcome for Wsh in lake
+systems than rivers due to reduced potential for dispersal
+through Xowing surface waters. In streams, isolation is
+often approximated as continuous variables such as stream
+size and Xow variability that may impede dispersal to
+diVering degrees (Taylor and Warren 2001). In lake Wsh
+communities, isolation is often determined by dispersal
+across the terrestrial landscape through stream connections,
+human Wsh stocking, or past post-glacial lakes. For
+instance, six lakes in Wisconsin are still Wshless after the
+last glaciers receded ª10.000 years ago, although each
+appears capable of supporting Wsh (Magnuson et al. 1998).
+Many high elevation lakes are historically Wshless yet able
+to support stocked salmonids, indicating that barriers to
+dispersal impeded colonization in the past (Knapp et al.
+2001).
+DiVerences in dispersal modes suggest that larger organisms
+may be more constrained by dispersal than smaller
+taxa. First, micro-organisms are often asexual and therefore
+less susceptible to Allee eVects or negative density dependence
+at low population sizes (Sarnelle and Knapp 2004).
+Many zooplankton and phytoplankton also have dormant
+life history stages that may be transported via wind or animal
+vectors and allow populations to be resurrected following
+local extinctions. In addition, large organisms support
+smaller local population sizes (Cohen et al. 2003) that may
+be more vulnerable to local extinction and provide fewer
+propagules for colonization. Finlay and colleagues (Finlay
+2002; Finlay and Clarke 1999; Finlay et al. 2002) proposed
+that most free-living, microbial eukaryotes and prokaryotes
+have global distributions, whereas larger taxa show more
+restricted geographical ranges. Based on these data, Finlay
+(2002) proposed a hypothetical model relating body length
+to ubiquity or dispersal limitation. To test this idea, Hillebrand
+et al. (2001) compared beta diversity of unicellular
+versus multicellular groups and found that the multicellular
+taxa showed more clumped distributions and weaker species-
+area relations, consistent with lower dispersal rates.
+However, Hillebrand et al. (2001) compared organisms
+from very diVerent habitats (e.g., coral reefs vs. lakes). The
+question of whether body size (or dispersal mechanism) and relative dispersal rates are correlated in freshwater
+communities remains unresolved.
+We used 18 data sets on species distribution from a large
+number of lakes and streams in North America and Europe
+to examine patterns of beta diversity with distance among
+freshwater organisms. We used the slope of the distancerelated
+increase in community dissimilarity (similarity
+decay, Nekola and White 1999) as a measure of multivariate
+spatial autocorrelation (SA) (Legendre and Legendre 1998)
+in species composition. SA is related to dispersal ability
+(Bolker and Pacala 1999; Tilman et al. 1997), with poor dispersers
+showing more clumped distributions than those that
+move rapidly among habitats. However, SA in species distributions
+may also be driven by spatial cohesion in local environmental
+conditions among sites (Legendre 1993; Nekola
+and White 1999). Thus, patterns of SA across taxa may be
+related to diVerences in how organisms respond to local conditions.
+We selected studies spanning a large spatial scale
+(>1,000 km between the most distant sites) where environmental
+heterogeneity is substantial for all taxa. Because Wsh
+dispersal is inXuenced by hydrologic connectivity, we predicted
+that Wsh communities will be more dispersal limited
+in lakes than rivers, and consequently that the SA of lake
+Wshes will be greater than those in streams. If plankton are
+not dispersal limited because of eYcient passive dispersal,
+their SA should be low compared to that of Wsh. If unicellular
+organisms are the most eVective dispersers, then microalgae
+should show the least SA. Finally, we predicted that SA
+for macroinvertebrates with active dispersal mechanisms
+should be in between those of Wsh and plankton. We thus
+speciWcally tested the predictions that: (1) the size of aquatic
+organisms is related to the degree of SA in lake communities,
+and (2) this relation is weaker for organisms in streams
+than those in lakes since the lotic environment may be eVectively
+less isolated for its inhabitants.
+In addition to these two biological hypotheses, we also
+tested the inXuence of three important statistical issues in
+the computation of SA of biological communities: the use
+of the mean versus the extreme low values of similarity for
+a given distance class, since the range of similarities
+observed varied with distance; the consequences of diVerences
+in species richness between group of organisms; and
+the sensitivity of the SA computations to the temporal scale
+of the survey (integrated over several years vs. snapshot
+samples within years). xmethods
+
+ We collected data sets on several groups of freshwater taxa
+from a variety of published and unpublished sources. The
+data requirements were that: (1) the sites were distributed
+over a large spatial extent (>1,000 km between the most
+distant sites); and (2) spatial location of the sites was
+known, together with at least presence-absence data of
+taxon composition. Table S1 in the Electronic supplementary
+material (ESM) gives an overview of the data sets
+used, the origin, and their main characteristics. In every
+data set, we removed taxa with uncertain taxon determinations
+(unknown species or life stages), and also removed
+sites with missing spatial data.
+We computed the dissimilarity between two sites based on
+their species presence-absence with the Jaccard index
+(Legendre and Legendre 1998). We calculated the geographic
+distance between two sites as the great circle distance
+from latitude-longitude data. The great circle distance
+is the shortest distance between two points on the earthís
+surface. The spatial data for the Wsh data from Sweden were
+in xñy coordinates (universal transverse Mercator coordinate
+system), and for those data we computed the Euclidean
+distances between the diVerent sites (not accounting for the
+curvature of the earthís surface). For every data set, we calculated
+the dissimilarity in species composition for every
+pair of sites and the distance in kilometers. SA was deWned
+as the slope of the regression line between the logarithm of
+dissimilarity in community composition (Jaccardís) and
+distance. Thus, we Wt a model with an exponential rate of
+decay, the form of the relationship which most often provides
+the best Wt to data of this type (Nekola and White
+1999).
+The plots of dissimilarity versus distance formed wedgeshaped
+clouds with high variance at low distances, and low
+variance at high distances. This caused two problems with
+using a regression of all the data points to determine the
+slope of the relationship. First, most of the points occur at
+small distances, giving more weight to small distances.
+Second, the distribution of the dissimilarity values at a
+given distance might be a better indicator of dispersal limitation
+than the mean dissimilarity. For instance, imagine
+that 70% of the dissimilarities lie between 0.9 and 1.0, but
+that the lower 30% of the dissimilarities cover a range of
+0.1ñ0.9 for the shorter distances, while the lower 30% falls
+between 0.8 and 0.9 at long distances. The slope of the
+regression line between dissimilarity and distance (SA) in
+this example is inXuenced mainly by the points in the 0.9ñ
+1.0 range, and would be low. However, SA is clearly present,
+but is only apparent from the lower 30% of dissimilarity
+values. To deal with this issue, we divided the
+logarithmically transformed distances into 50 equal size
+classes and computed both the overall mean of the logtransformed
+dissimilarity, and the mean of the lower 30% of the dissimilarities for each distance class. We then
+regressed both measures of dissimilarity on the middle
+point of the distance class. This approach eliminated both
+the problems of giving unequal weight to diVerent distances
+and the unequal variation in dissimilarity across the distance
+gradient. We used the slope of the regression line as a
+measure of SA. We called the slope of the regression line
+based on the lower 30% dissimilarities per distance bin
+ìsensitive SAî. This measure is more sensitive to detecting
+potential relationships between distance and dissimilarity
+because it focuses just on the sites showing the greatest
+contrasts in species composition.
+Total taxon richness varied considerably among groups
+(e.g., 30 Wsh species vs. 1,255 benthic macro-invertebrate
+taxa), and may inXuence the computation of dissimilarity.
+We therefore repeated the previous analysis after standardizing
+the number of taxa for calculating the dissimilarity
+values by rarefaction. For data sets with more than 50 taxa,
+we generated 100 data sets of 50 randomly selected taxa
+from each survey, and computed 100 new slope values. The
+mean of these 100 new slopes are a measure of SA standardized
+for diVerences in richness between taxonomic
+groups. If patterns of SA are independent of diVerences in
+overall richness, then rarefying to the minimum number of
+taxa should not inXuence our results.
+Finally, we also tested whether temporal sampling intensity
+inXuenced the patterns of SA with respect to body size
+or habitat. ìIntegrated SAî considered regression slopes
+from data sets with species composition determined as the
+total number of species observed over several years of sampling.
+ìDirect SAî considered only the regression slopes
+comparing species composition in single samples per site
+taken in the same limited time period (<1 year). We might
+expect integrated SA to be lower than direct SA if the timeintegrated
+samples increased the chances of encountering
+species due to longer periods for dispersal between sites to
+take place (Shurin et al. 2007). Integrated SA increases the
+number of species found in a particular site due to the ubiquitous
+species-time relationship.
+We computed the signiWcance for all estimates of SA by
+linear regression. The use of distance bins and mean dissimilarities
+broke the interdependence between the diVerent
+points, and prohibited the use of Mantel tests to determine
+the signiWcance. We tested hypotheses about eVects of body
+size on SA with regressions of regular and sensitive SA on
+the body mass of the organisms (in log grams wet weight)
+obtained from published sources (Hillebrand 2004). Even
+though mean body mass is a coarse measure with large
+within-group variance, this will not aVect our results due to
+the 10 orders of magnitude variation in body size separating
+the smallest and largest organisms, spanning the range from
+diatoms to Wshes. If dispersal is less limiting for small
+organisms, then we predict that all measures of SA will
+increase with body size. We compared the signiWcance of
+these regressions for lakes and streams in order to address
+hypothesis 2. We performed these analyses for both the
+integrated and direct SA. Moreover, for studies with both
+integrated and direct SA estimates, we checked whether
+integrated dispersal limitations were signiWcantly smaller
+than direct SA with a one-sided paired t-test.
+xresults Twenty-eight out of 36 surveys showed a signiWcant
+increase in community dissimilarity among sites separated
+by greater distances (see Tables S2, S3; Figs. S1, S2 in
+ESM). Most organisms exhibited signiWcant SA, suggesting
+an eVect of either dispersal limitation or spatially autocorrelated
+environmental variation on community
+composition. SA (the slope of the distance-dissimilarity
+plot) showed considerable variation among surveys and
+taxa. Larger taxa showed stronger SA than smaller organisms,
+regardless of the measure used for SA. Both integrated
+(Fig. 1) SA and direct SA (Fig. 2) increased
+signiWcantly with body size for lake organisms, but not in
+streams (hypotheses 1 and 2; Table S4). Although the
+slopes for sensitive SA were higher than regular SA (Figs.
+1, 2), both were signiWcantly positive regardless of the sensitivity
+of the analyses.
+Standardizing the surveys to the same number of taxa
+before calculating dissimilarity did not alter the result with
+regard to body size; the mean standardized slope was
+highly correlated with the slopes computed from using all
+the taxa (correlations coeYcients were between 0.91 and
+0.98, and highly signiWcant; we only did the computations
+for the integrated SA values; see Fig. S3 in ESM). Overall
+taxonomic richness, therefore, did not inXuence the measure
+of SA or the signiWcance of the relationship with body
+size.
+Contrary to the prediction from hypothesis 3, integrated
+SA was not signiWcantly lower than direct SA values (SA
+for lake organisms, integratedñdirect SA = 0.00005,
+tdf=6 = 1.23, P = 0.86; sensitive SA for lake organisms, integratedñ
+direct = 0.00002, tdf=6 = 1.02, P = 0.83; SA for
+stream organisms, integratedñdirect = 0.0002, tdf=7 = 1.20,
+P = 0.87; sensitive SA for stream organisms, integratedñ
+direct = 0.0008, tdf=7 = 1.10, P = 0.84). This indicates that
+the temporal period of sampling does not aVect the conclusions
+regarding body size in either lakes or streams.
+Since the data set contains no information on environmental
+variables, we used indirect approaches to ask
+whether the scale of environmental heterogeneity aVects 
+
+
+our patterns of SA. First, it is possible that the above results
+were caused by a larger taxa experiencing smaller scale
+environment heterogeneity. Since the spatial scales of the
+diVerent studies were very similar, this should translate into
+higher beta diversity or greater average change in species
+composition between habitats regardless of distance for
+larger taxa. We computed average community dissimilarity
+within each data set as a measure of beta diversity that is
+independent of total regional diversity (Forbes and Chase
+2002). Neither lakes nor streams showed any association
+between body size and beta diversity (lakesí slope = °0.005,
+tdf=7 = °1.2, P = 0.26; streamsí slope = 0.003, tdf=7 = 0.89,
+P = 0.4). Second, it is possible that the positive relationship
+between body size and SA is caused by larger taxa having
+smaller species range sizes. We therefore computed the
+average species ranges within each data set. The range of a
+species was deWned as the maximum distance between two
+sites occupied by that species. However, we found no signiWcant
+relationship between body size and average species
+range size (lakesí slope = 24.2, tdf=6 = 1.91, P = 0.11;
+streamsí slope = °7.62, tdf=7 = °0.90, P = 0.4). These two
+analyses suggest that patterns of SA and body size reXect
+diVerent levels of dispersal limitation rather than variable
+responses to environmental heterogeneity. xdiscussion
+ Our results indicate that SA in community similarity is
+greater for Wsh than invertebrates or micro-organisms in
+lakes but not in streams. This result is consistent with the
+hypothesis that the importance of dispersal limitation
+increases with size among taxa. However, contrary to Finlay
+(2002), we found that the pattern of increasing SA with
+size was only evident when comparing vertebrates with
+smaller organisms. Benthic macro-invertebrates, zooplankton
+and phytoplankton showed similar levels of SA. This
+result suggests that dispersal ability is lower in Wsh, but that
+invertebrates and micro-organisms are similar in their dispersal
+ability. Invertebrates and micro-organisms vary
+widely in dispersal (active vs. passive) and reproductive
+(sexual vs. asexual) modes. However, our results show that
+organisms in the size range from unicellular phytoplankton
+to macro-invertebrates show equivalent levels of SA, suggesting
+similar degrees of dispersal limitation.
+Fish may be subject to greater dispersal limitation for
+any of several reasons. First, all of the taxa in our data set
+are obligately sexual, thus subject to the potential for Allee
+eVects or a negatively density-dependent growth rate at low
+density. Allee eVects can slow the spread of invasion and
+limit the geographic ranges (Amarasekare 1998). Sarnelle
+and Knapp (2004) found that obligately sexual calanoid
+copepods failed to recover after being driven to extinction
+by stocked trout in California alpine lakes. By contrast,
+cyclically parthenogenetic Daphnia re-established quickly
+once Wsh stocking ended and Wsh populations became
+extinct. Thus, an obligately sexual mode of reproduction
+may subject Wsh to greater dispersal limitation. In addition,
+body size is correlated positively with trophic position and
+negatively with population size (Cohen et al. 2003). Small
+local populations provide few individuals to serve as propagules
+and colonize neighboring habitat. Finally, Wsh lack
+terrestrial modes of dispersal, either through Xying adults or
+dormant stages, either or both of which characterize the
+invertebrate and phytoplankton taxa in our data set.
+The similar levels of SA observed in organisms ranging
+from diatoms to macro-invertebrates suggest that organisms
+can employ a number of diVerent strategies to become
+eVective dispersers. Most aquatic insects are obligately sexual
+and lack dormant stages, but have complex life cycles with actively dispersing Xying adults. The adult stages may
+account for the relatively broad distributions of these
+organisms. Mollusks and crustaceans have no active dispersive
+stages, and are sexual, but may have dormant stages or
+be able to survive periods of desiccation as adults. Zooplankton
+and phytoplankton are often asexual and have dormant
+stages, but lack active dispersal stages. Passively
+dispersing organisms in all habitats show lower beta diversity
+(Soininen et al. 2007a) and Xatter distance decay of
+similarity (Soininen et al. 2007b) than active dispersers,
+suggesting that passive dispersal is in general more eVective.
+All of these groups show similar levels of SA, suggesting
+that these diVerences in life history and dispersal
+strategies result in broadly similar levels of dispersal limitation.
+However, these broad groupings may obscure considerable
+variation in dispersal ability within groups. For
+instance, some zooplankton are far more dispersal limited
+than others (Shurin 2000), therefore broad generalities may
+hide important exceptions within the designations chosen.
+Our conclusions on the relation between dispersal limitation
+and body size agree well with some elements of the
+model proposed by Finlay (2002). Contrary to his model of
+biogeographic ubiquity for small-bodied taxa, most of the
+groups in our analyses showed signiWcant relationships
+between dissimilarities and distance. Bacteria and microorganisms
+show Xatter species-area relationships and lower
+spatial turnover than metazoans, further suggesting greater
+dispersal abilities (Green et al. 2004; Horner-Devine et al.
+2004). However, the transition zone from weak to strong
+SA in our data set occurs at a body size in between those of
+the Wsh and macro-invertebrates, which is larger than the
+threshold of 1 mm proposed by Finlay (2002). However,
+the patterns are more in line with those shown by Fenchel
+and Finlay (2004). They found that beta diversity (the proportion
+of the global species pool observed in a site) was
+unrelated to size for taxa spanning the range from heterotrophic
+nano-Xagellates to nematodes and triclads (but
+lower for mollusks) in an English pond. By contrast, marine
+organisms from Denmark showed strong declines in beta
+diversity with size across all levels. Thus, the ubiquity of
+micro-organisms and endemism of those larger than 1 mm
+may not be a universal feature of all communities. Lakes appear to be relatively more isolated and show
+greater SA than streams, suggesting that the terrestrial landscape
+may be more permeable to dispersers through
+streams than among lakes. Although lakes may also be connected
+along stream networks, many lentic taxa may be
+unable to eVectively disperse through Xowing water. The
+straight-line distance decay of similarity may not represent
+the eVective distance separating diVerent stream communities
+if most dispersal takes place through Xowing water. In
+addition, many invertebrates in streams have Xying adult
+stages, which may contribute to the apparently high connectivity
+of lotic habitat. These results support others showing
+habitat and geographic variation in beta diversity and
+similarity decay, consistent with diVerences among ecosystems
+in the importance of dispersal limitation (Soininen
+et al. 2007a, b).
+The results shed some light in the question of whether
+zooplankton are signiWcantly limited in their distributions
+by dispersal (Bohonak and Jenkins 2003; De Meester et al.
+2002; Havel and Shurin 2004). Patterns of SA across freshwater
+taxa support the idea that plankton communities in
+lake ecosystems are not strongly dispersal limited. Zooplankton
+showed relatively low levels of SA, comparable
+with other micro-organisms and smaller than those of Wsh.
+We found that direct dispersal limitation was not consistently
+higher than integrated dispersal limitation, indicating
+that the time-scale of observation did not aVect this conclusion.
+Although micro- and macro-invertebrates and phytoplankton
+in general showed lower SA than Wshes, these
+broad taxonomic groupings likely contain organisms that
+vary considerably in their dispersal abilities. For instance,
+obligately sexual copepods may be more dispersal limited
+than asexual cladocerans (Sarnelle and Knapp 2004).
+Macro-invertebrates also include a wide range of taxa, from
+insects with Xying adults to snails and amphipods that lack
+obvious dispersal strategies. Despite the broad life history,
+morphological and behavioral diVerences among taxa
+within groups, our results indicate consistent variation
+resulting in greater dispersal limitation in Wshes than other
+aquatic organisms.
+Our results using SA as an indicator of the degree of dispersal
+limitation are consistent with other evidence showing
+that larger aquatic taxa have a harder time moving
+through the landscape. However, organisms may also show
+SA as a consequence of responses to biotic or abiotic conditions
+that are themselves spatially correlated (Legendre
+1993). Similar problems arise when using genetic distance
+to infer dispersal rates in that identical patterns may be generated
+by SA in local selective factors imposed by the environment
+(De Meester et al. 2002). It is possible that our
+patterns relating SA and body size are driven by diVerences
+in how small and large organisms respond to environmental
+constraints. That is, large taxa may be more sensitive to
+environmental factors that show greater autocorrelation.
+However, at the large sample scale of our study (>1,000 km
+between sites), environmental heterogeneity will be substantial
+for all taxa, independent of body size. It is conceivable
+that Wsh respond to particular environmental factors
+that show more aggregated spatial patterns, but we can
+think of no reason why this would be the case. By contrast,
+a number of aspects of the biology of vertebrates should
+lead to greater dispersal limitation. We therefore consider it
+likely that our measure of SA is a reXection of dispersal
+abilities of diVerent groups rather than sensitivity to local
+environmental factors that show diVerent spatial patterns.
+The evidence for similar dispersal rates between sites for
+zooplankton, phytoplankton and macro-invertebrates has
+important consequences in terms of metacommunity
+dynamics. The relative importance of habitat heterogeneity
+versus dispersal in generating geographic variation in community
+structure is the distinction between species sorting
+and the island biogeographic perspective (Leibold et al.
+2004). Our results suggest that most aquatic invertebrates
+experience enough dispersal to sort themselves out among
+environments across broad distances. Pinel-Alloul et al.
+(1995) studied lakes at a similar scale to this study, and
+found important relations between local environmental
+variables and zooplankton community composition, independent
+from spatial variables, suggesting that at that scale
+dispersal is not limited, but also not suYcient to result in
+source-sink dynamics. Cottenie et al. (2003) studied ponds
+in a much smaller area and tightly interconnected to each
+other (up to 7,000 dispersing individuals per hour between
+two ponds, Michels et al. 2001), and found at these very
+high dispersal rates some eVects of mass transport on zooplankton
+community structure, but still very strong species
+sorting eVects.
+Our analyses suggest that SA in freshwater organisms is
+partly related to body size. This result is consistent with the
+idea that smaller organisms are less constrained by dispersal
+limitation than bigger ones. However, it is still very
+diYcult to associate SA with actual dispersal rates quanti-
+Wed as individuals per time period per area. The next step is
+to develop mechanistic models relating SA to measured
+Weld dispersal rates. The power of the relation between size
+and dispersal is that body size is a much easier trait to measure
+at the species level than dispersal ability. If dispersal is
+actually closely related to size, then it may be possible to
+generate spatially explicit metapopulation models based on
+information about size. One complication of using SA as an
+indicator of dispersal rates is that SA reXects both colonization
+and dispersal processes. Integrating aspects of the
+physical environment into spatial models of species distributions
+should in principle allow more sophisticated tests
+of hypotheses about the eVects of dispersal and local selection
+on patterns of species turnover (Cottenie 2005). In addition, organismal traits other than body size may aVect
+dispersal ability and therefore turnover. The roles of environmental
+Wltering and the traits of species in determining
+spatial patterns are likely to be useful topics for future
+research on discerning the imprint of dispersal limitation on
+community structure.

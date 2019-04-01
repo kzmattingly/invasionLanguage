@@ -1,0 +1,636 @@
+xabstract
+
+
+ 1. The European catfish, Silurus glanis, was widely introduced in western Europe, and it has now
+
+established self-sustaining populations in numerous large rivers of western France. Using data
+
+collected from surveys conducted by the French National Agency for Water and Aquatic Environment
+
+(Onema) from 1989 to 2010 in more than 500 sites throughout the country (10636 electrofishing
+
+surveys), we investigated the potential impact of the European catfish on fish communities in French
+
+rivers.
+
+2. In the first part of the analysis, we compared trends observed before and after the European catfish
+
+was established at given sites (beforeñafter analysis). Species richness, evenness and diversity
+
+decreased significantly after the European catfish was established at 1.4%, 1.4% and 5.8% of the sites,
+
+respectively. Total fish biomass and density decreased significantly at 6.6% and 2.9% of the sites,
+
+respectively. In the second part of the analysis, we compared sites with European catfish against sites
+
+lacking European catfish during the same period (withñwithout analysis). Fish species richness was
+
+significantly higher in sites with European catfish. No significant differences in fish diversity, evenness,
+
+total fish biomass or density were found between sites with or without European catfish.
+
+3. While our results indicate that the European catfish may in a few cases impact fish communities
+
+or populations, it does not appear to be responsible for a countrywide collapse in fish assemblages.
+
+xintroduction
+
+
+ Several threats to inland water ecosystems have been
+
+identified, among which invasions are recognised as
+
+serious menaces (Dudgeon et al., 2006). Often resulting
+
+from accidental or intentional translocations of species
+
+by humans, invasions affect a wide range of plant and
+
+animal taxa in many lakes and rivers worldwide
+
+(Garcia-Berthou, 2007; Ricciardi & MacIssac, 2011).
+
+Freshwater fish are among the most introduced animals
+
+worldwide (Copp et al., 2005; Elvira & Almodovar,
+
+2001), mainly because of escapes from aquaculture or
+
+intentional releases for recreational fisheries (Copp, Templeton
+
+& Gozlan, 2007; Welcomme et al., 2010; Cucherousset
+
+& Olden, 2011). Non-native game fish are often
+
+significantly larger than native species and occupy significantly
+
+higher trophic levels (Donaldson et al., 2011).
+
+In freshwater ecosystems subject to strong top-down
+
+control (Shurin et al., 2002), fish introductions may have
+
+important effects (Vander Zanden, Casselman & Rasmussen,
+
+1999) such as changes to prey-size refugia and
+
+thus to predatorñprey equilibria (Chase, 1999; Clavero &
+
+Garcia-Berthou, 2005) or energy fluxes (MacAvoy et al.,
+
+2000).
+
+One of the most popular and successful fish introductions
+
+in Europe has involved the European catfish, Silurus
+
+glanis. Originating in eastern Europe and western
+
+Asia, the species was introduced to France at the end of
+
+ the 19th century and has now established self-sustaining
+
+populations in many French rivers (Copp et al., 2009;
+
+Poulet, Beaulaton & Dembski, 2011). This long-lived
+
+predator may reach a total length of over 2.5 m, becoming
+
+twice as large as the native piscivore, northern pike
+
+(Esox Lucius).
+
+The large number of videos broadcast and articles
+
+published in newspapers and angling magazines, feeding
+
+myths about the size or behaviour of specimens
+
+caught, and even some scientific publications (e.g. Cucherousset
+
+et al., 2012), have resulted in strong views for
+
+or against S. glanis and deep concerns about its foraging
+
+behaviour and impact on freshwater biota. Although
+
+S. glanis has been hypothesised to affect waterbird populations
+
+in Spanish reservoirs (Carol et al., 2009), little is
+
+known about the ecology of the introduced S. glanis and
+
+there is no evidence that it as a voracious predator
+
+(Copp et al., 2009; SyvÄaranta et al., 2010).
+
+Using data collected from 10636 electrofishing surveys
+
+conducted within the last two decades in more than 500
+
+sites throughout France, we aimed to evaluate the potential
+
+impact of S. glanis on riverine fish populations in the
+
+metropolitan area of France. Fish species richness, evenness,
+
+diversity, density and biomass were compared in
+
+different rivers (i) prior to and after S. glanis establishment
+
+(beforeñafter analysis) and (ii) between sites with
+
+and without S. glanis (withñwithout analysis).
+
+
+
+xmethods
+
+
+ The French National Agency for Water and Aquatic
+
+Environments (Onema) has been monitoring freshwater
+
+fish populations in the whole river network of France
+
+for several decades. Sites were sampled during the lowflow
+
+period (from May to October) using standardised
+
+electrofishing procedures appropriate to prevailing river
+
+widths and depths. Streams were sampled by wading
+
+(mostly two-pass removal), while fractional sampling
+
+strategies were used in larger rivers (see Poulet et al.,
+
+2011). Fish were identified to species, counted, weighed
+
+and then released.
+
+
+ Only surveys performed with the same sampling protocol
+
+at a given site were selected. Density and biomass
+
+were expressed as fish number and biomass per 100 m2.
+
+Species diversity was described using Shannonís diversity
+
+index and evenness using Pielouís evenness index.
+
+Analyses were conducted using R software (R Development
+
+Core Team, 2014). The impact of S. glanis was
+
+defined from the standpoint of a quantifiable negative
+
+effect on the recipient environment (sensu Gozlan, 2008).
+ We considered impact as a significant decrease in total
+
+fish richness, native fish richness, diversity, evenness,
+
+biomass or density after S. glanis establishment at a site.
+
+Fish assemblages were so different among sites that it
+
+was impossible to perform a global analysis.
+
+Silurus glanis was considered established at a given
+
+site as soon as one individual was caught (t0). Sites that
+
+were sampled at least once before t0 and after t0 were
+
+selected. Among these, sites with at least four years of
+
+S. glanis presence were used for the analysis (n = 112).
+
+Differences between the descriptive variables in each
+
+site (total species richness, native species richness, diversity,
+
+evenness, biomass and density) recorded before t0
+
+and after t0 were tested using the MannñWhitney test.
+
+When a significant negative difference was identified,
+
+the Spearman correlation and autocorrelation tests (rank
+
+1) with time before t0 were used to detect a general negative
+
+temporal trend experienced prior to t0 and not
+
+attributable to the presence of S. glanis.
+
+The beforeñafter analysis does not allow the assignment
+
+of negative trends observed in the field to S. glanis
+
+(i.e. correlation does not imply causation). We performed
+
+the beforeñafter analysis with a comparison of
+
+sites with and without S. glanis (withñwithout analysis)
+
+to parallel the intervention analysis (IA) and impact versus
+
+references sites (IVRS) analyses of Stewart-Oaten &
+
+Bence (2001). The impact of S. glanis was judged according to whether
+
+sites with S. glanis (W-sites) exhibited significantly lower
+
+total species richness, native species richness, diversity,
+
+evenness, biomass or density than sites where environmental
+
+conditions would allow the presence of S. glanis
+
+but where it has never been recorded (while electrofishing
+
+or angling; Wt-sites).
+
+The W-sites were selected using species distribution
+
+models (set from 236 occurrence and 874 absence sites
+
+throughout France), taking into account elevation, distance
+
+from source, slope, catchment surface, mean temperature
+
+in January and mean temperature in July.
+
+Because of the non-native status of S. glanis, many of
+
+these absences were not environmentally caused. We thus chose an iterative ensemble modelling approach
+
+(Lauzeral, Grenouillet & Brosse, 2012) that combined six
+
+different statistical methods. Two-thirds of the sites were
+
+chosen at random and used to calibrate the models, and
+
+the other third was kept for independent evaluation. The
+
+calibrated model was then projected over France, giving
+
+rise to a potential species distribution. The selection of
+
+the calibration data set was repeated ten times. The ten
+
+resulting distributions were then summed, giving rise to
+
+a map of the level of habitat suitability. Each modelselected
+
+site (n = 521) was submitted to the expertise of
+
+field technicians from Onema. First, the experts were
+
+asked to judge the probability of S. glanis presence in or
+
+near the site. In fact, especially in large rivers, European
+
+catfish is not always detected using electrofishing and
+
+the field technicians were sometimes aware of the presence
+
+of the species (from anecdotal evidence of anglers).
+
+Then, the experts were asked to judge the suitability of
+
+habitat at each site, to refine results from the model
+
+(10í 9 10í resolution). Some model-selected sites had
+
+local habitat features (not previously used in the model)
+
+that were not suitable for S. glanis (e.g. water velocity).
+
+Finally, 47 stations were confidently selected.
+
+The previously selected Wt-sites were compared with
+
+W-sites showing homogenous environmental conditions.
+
+To identify these W-sites, a hierarchical classification
+
+(HC, Wardís method) was performed on the environmental
+
+data set containing both W-sites and Wt-sites.
+
+This hierarchical classification generated four groups. A
+
+redundancy analysis (RDA) showed significant differences
+
+between the groups (99% randomisation test,
+
+ADE4 package for R), although two groups of stations
+
+overlapped, revealing very close environmental conditions.
+
+These two groups, containing 46 of the 47 sites
+
+without S. glanis, were retained for further analysis.
+
+To detect a potential time lag in S. glanis impact, Wtsites
+
+were compared with W-sites colonised for 0ñ
+
+2 years, 3ñ5 years, 6ñ10 years or more than 10 years during
+
+the same period of time (here, the last data recorded
+
+in the database, that is from 2006 to 2010). Significant difference
+
+in fish richness, native fish richness, diversity,
+
+evenness, biomass or density between Wt-sites and Wsites
+
+was identified using the MannñWhitney test.
+
+xresults
+
+
+ Total fish species richness, native fish richness, evenness
+
+and diversity were potentially affected by S. glanis in
+
+1.4% (1/69), 1.4% (1/69), 1.4% (1/69) and 5.8% (4/69) of
+
+sites, respectively. Total fish biomass was potentially
+
+affected at 6.6% (4/61) of sites, while total biomass of
+
+fish other than S. glanis was potentially affected at 13.1%
+
+(9/61) of sites. The total density of sampled fish was
+
+potentially affected after S. glanis establishment at 2.9%
+
+(3/69) of sites, while total density of fish other than
+
+S. glanis was affected at 5.8% (5/69) of sites.
+
+The biomass of the three fish species most strongly
+
+represented (in terms of biomass) in the data set was
+
+potentially impacted by S. glanis in 3.3% (chub, Squalius
+
+cephalus) and 4.1% (barbel, Barbus barbus) of sites but
+
+with no impact identified for the European eel, Anguilla
+
+anguilla (Table 1).
+
+The densities of the three fish species most strongly
+
+represented (in terms of density) during electrofishing
+
+(roach, Rutilus rutilus; chub and bleak, Alburnus alburnus)
+
+were significantly lower at 13%, 1.4% and 2.9% of sites,
+
+respectively, in relation to S. glanis introduction.
+
+For the top predators, a significant decrease in biomass
+
+was detected in 8.3% (northern pike, Esox lucius)
+
+and 1.8% (Eurasian perch, Perca fluviatilis) of sites and a
+
+significant change in densities was found in 5.5% and
+
+6.2% of sites, respectively. No significant change, however,
+
+was observed in either biomass or density of pikeperch,
+
+Sander lucioperca. Irrespective of time since S. glanis introduction, no difference
+
+was found between W-sites and Wt-sites with
+
+respect to total evenness, diversity, biomass or density.
+
+A significant difference in total species richness was
+
+found between W-sites and Wt-sites (KñW test;
+
+P = 0.0036); most Wt-sites held fewer fish species than
+
+W-sites (mean values: Wt = 14; W[0-2] = 17; W[2-5] = 17;
+
+W[5-10] = 18; W>10 = 19). This difference originates from
+
+significant differences in both native and non-native fish
+
+species richness (K-W test; P = 0.04 and P < 0.001,
+
+respectively).
+
+The withñwithout analysis showed no differences in
+
+biomass of the three most represented species (carp,
+
+European eel and chub), or densities of the three most
+
+numerically represented species (roach, chub and bleak)
+
+or biomass and density of the top-predators (northern
+
+pike, pikeperch and Eurasian perch) (Table 2).
+
+xdiscussion
+ Comparisons between sites with and without S. glanis
+
+did not highlight any drastic changes in species richness
+
+during the study period, and no fish species extinction was attributed to S. glanis. On the contrary, sites with
+
+S. glanis had higher mean total, native and non-native
+
+species richness. Sites without catfish are probably less
+
+prone to colonisation because of low local habitat suitability,
+
+physical barriers such as dams or waterfalls, or
+
+lower anthropogenic propagule pressure (Lockwood,
+
+Cassey & Blackburn, 2005), which limit the spread of
+
+S. glanis as well as other species of fish and thus do not
+
+permit a rise in species richness (Daufresne & BoÄet,
+
+2007).
+
+The withñwithout analysis also revealed no significant
+
+differences in fish evenness, biomasses or fish
+
+densities, regardless of time since the invasion began.
+
+Nor was there a time lag between S. glanis establishment
+
+and any change over a period ranging from 0 to
+
+more than 10 years since S. glanis was first caught (i.e.
+
+when old and large individuals were probably not
+
+well represented). Some river basins are considered as
+
+non-equilibrium islands in which species extinctions
+
+(related to historical events) are not fully balanced by
+
+colonisations from neighbouring river basins (Oberdorff,
+
+Hugueny & Guegan, 1997; Reyjol et al., 2007).
+
+Species-unsaturated rivers are more susceptible to
+
+invasion by non-native species because ecological space
+
+is less densely packed and interspecific competition is
+
+less intense (Hutchinson, 1959; Kennedy et al., 2002). In
+
+addition, S. glanis appears to be a scavenging predator,
+
+able to exploit a wide variety of prey sources (Copp
+
+et al., 2009) so that, despite its size, the species does
+
+not occupy the highest trophic position in fish
+
+communities of large rivers in France (SyvÄaranta et al.,
+
+2009). Feeding on a wide spectrum of available prey
+
+alleviates predation pressure on any particular category
+
+or species of prey (except for some specialised
+
+S. glanis individuals; see SyvÄaranta et al., 2009; Cucherousset
+
+et al., 2012).
+
+Few sites have experienced a significant impact of
+
+S. glanis introduction, and this lessens the effect of
+
+S. glanis as one among the numerous variables driving
+
+river ecosystems. Some systems, such as ponds or
+
+streams, are known to be more sensitive to invasion than
+
+large systems (Elton, 2000; Gozlan, 2008), and anthropogenic
+
+alterations may have an additive or synergistic
+
+impact with S. glanis on the host system (Light &
+
+Marchetti, 2006).
+
+Possible impacts on a given species were detected in a
+
+small percentage (usually <5%) of sites in our analysis.
+
+Roach decreased to the greatest extent after S. glanis
+
+establishment. Wysujack & Mehner (2005) reported that
+
+S. glanis (TL ranging from 40 to 100 cm) feeds mostly on
+
+crayfish and roach. Predation by S. glanis on mostly
+
+smaller roach individuals, in comparison with predation
+
+by either northern pike or pikeperch, could explain why
+
+15% of the sites experienced a significant decrease in
+
+roach density. Nevertheless, sites without S. glanis did
+
+not hold significantly more roach than sites with the
+
+invader, and neither roach biomass nor density
+
+decreased with time since S. glanis establishment. Climate
+
+change may affect roach reproduction (Geraudie
+
+et al., 2009), and efforts to enhance water quality made during the study period led to a decrease in pollution
+
+by phosphorus and organic substances (Crouzet, 1999),
+
+while river incision led to an increase in water velocity
+
+(Wyzga, 2001; Kondolf, Piegay & Landon, 2002). These
+
+changes could be responsible for declines in limnophilic
+
+or eurytopic populations such as those of roach or perch
+
+(Jeppesen et al., 2000; Olin et al., 2002; Poulet et al.,
+
+2011).
+
+Silurus glanis might potentially affect predatory species
+
+such as northern pike or pikeperch via predation or
+
+competition for food or habitat. However, densities of
+
+predators are often low (<1 individual 100 m
+
+2), and the
+
+number of sites holding these species is often small; this
+
+may limit the robustness of our analysis for such species.
+
+Predatory fish are also very popular with anglers,
+
+potentially creating a significant pressure on their populations
+
+through harvesting. The population dynamics of
+
+such species are also blurred by numerous stocking episodes,
+
+for which statistics are often absent and where
+
+stocking efficiency may vary widely from year to year
+
+(Arlinghaus et al., 2007; Arlinghaus, Matsumura &
+
+Dieckmann, 2010.
+
+Our study showed no generalised impact of S. glanis
+
+on fish biomass, density or community structure in
+
+French rivers. Nevertheless, S. glanis may have local
+
+effects on fish populations since significant changes in
+
+fish biomass and density after S. glanis establishment
+
+were identified at several sites. Future studies should
+
+determine in greater detail whether S. glanis might
+
+change the structure of the food web in the decades
+
+after its establishment. Additionally, research should
+
+focus on potential effects on migratory species (Mac-
+
+Avoy et al., 2000) whose populations are not monitored
+
+by Onemaís electrofishing survey.

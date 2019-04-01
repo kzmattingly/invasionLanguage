@@ -1,0 +1,629 @@
+xabstract
+Non-native species represent a significant threat to indigenous biodiversity and ecosystem functioning worldwide.
+It is widely acknowledged that invasive crayfish species may be instrumental in modifying benthic invertebrate
+community structure, but there is limited knowledge regarding the temporal and spatial extent of these
+effectswithin lotic ecosystems. This study investigates the long termchanges to benthicmacroinvertebrate community
+composition following the invasion of signal crayfish, Pacifastacus leniusculus, into English rivers. Data
+from long-term monitoring sites on 7 rivers invaded by crayfish and 7 rivers where signal crayfish were absent
+throughout the record (control sites)were used to examine howinvertebrate community composition and populations
+of individual taxa changed as a result of invasion. Following the detection of non-native crayfish, significant
+shifts in invertebrate community composition were observed at invaded sites compared to control sites.
+This pattern was strongest during autumn months but was also evident during spring surveys. The observed
+shifts in community composition following invasion were associated with reductions in the occurrence of ubiquitous
+Hirudinea species (Glossiphonia complanata and Erpobdella octoculata), Gastropoda (Radix spp.), Ephemeroptera
+(Caenis spp.), and Trichoptera (Hydropsyche spp.); although variations in specific taxa affected were
+evident between regions and seasons. Changes in community structure were persistent over time with no evidence
+of recovery, suggesting that crayfish invasions represent significant perturbations leading to permanent
+changes in benthic communities. The results provide fundamental knowledge regarding non-native crayfish invasions
+of lotic ecosystems required for the development of future management strategies.
+
+xintroduction
+The spread of non-native taxa represents a significant threat to freshwater
+biodiversity and ecosystemfunctioning at a global scale (Sala et al.,
+2000; Lodge et al., 2000; Simberloff et al., 2013). The establishment of
+populations of invasive species within an ecosystem can severely disrupt
+the structure and functioning of native floral and faunal communities
+through direct predation, competition and displacement of native species,
+but also via indirect pathways and the decoupling of trophic dynamics
+(Nyström et al., 1996; Strayer, 2010; Gutiérrez et al., 2014). Consequently,
+the influence of invasive taxa are often far reaching,with impacts ranging
+fromthe replacement of individual species to the modification of ecosystem
+processes (Ricciardi, 2007; Jackson et al., 2014).
+Crayfish represent some of themost successful andwidely distributed
+invasive aquatic species worldwide, following either intentional introduction
+or accidental translocation (e.g. Hudina et al., 2012;
+Holdich et al., 2014; Kouba et al., 2014). They are one of the largest
+freshwater invertebrates, frequently dominating benthic faunal biomass
+where they occur (Lodge and Hill, 1994; Momot, 1995; Sousa
+et al., 2013). Even though many non-native crayfish replace an indigenous
+species, and thus frequently occupy similar ecological niches, invader
+effects may still be extensive if individuals reach a larger size
+and/or occur at greater population densities (Strayer, 2010; Gheradi
+et al., 2011), especially if this is associatedwith reduced predation pressure
+or if invaders are able to exploit a wider range of resources.
+Crayfish display opportunistic polytrophic feeding habits, consuming
+algae, macrophytes, detritus, zoobenthos, fish and other crayfish
+(Momot et al., 1978; Lagrue et al., 2014; Ercoli et al., 2015a). Invasive
+crayfish may also act as ecosystem engineers through the alteration of
+detrital processing rates (Creed and Reed, 2004; Bobeldyk and
+Lamberti, 2008; Carvalho et al., 2016) and by changing the dominant
+algal cover on substrates (Creed, 1994; Matsuzaki et al., 2009). Studies
+documenting the effect of invasive crayfish in stream ecosystems have
+identified significant reductionson the biomass and richness of aquatic
+macrophytes (Lodge et al., 1994; Nyström et al., 2001), and aquatic invertebrates
+(Nyström et al., 1999; Stenroth and Nyström, 2003;
+Crawford et al., 2006; Nilsson et al., 2012; Ercoli et al., 2015b).
+Following invasion by crayfish, aquatic invertebrate community
+composition has been reported to shift towards more mobile taxa
+adapted to high flow velocities (e.g. Ephemeroptera species) at the expense
+of less mobile taxa such as Mollusca, Hirudinea and casebearing
+Trichoptera species (Keller and Ruman, 1998; Parkyn et al.,
+1997; Dorn, 2013). The mobility of taxa, in addition to prey handling
+time, has been cited as key characteristics influencing the vulnerability
+of individual species associated with preferential predation (Ilheu and
+Bernardo, 1993; Nyström and Perez, 1998; Nyström, 1999). However,
+many taxa display behavioural and life history changes in response to
+predator pressure through avoidance behaviours such as vertical migration
+or enhanced locomotion (Crowl and Covich, 1990; Alexander and
+Covich, 1991; Haddaway et al., 2014).
+Indirect effects may also be evident within the ecosystem with a removal
+ofmacrophyte and algae cover affecting invertebrate populations
+through the loss of trophic resources and habitat availability (Lodge
+et al., 1994;Nyströmet al., 1996). Similarly, a reduction of sedentary periphyton
+grazers (such as gastropods) and stimulated productivity
+through the excretion of nutrients may potentially benefit mobile
+grazers through the liberation of resources (Flint and Goldman, 1975;
+Charlebois and Lamberti, 1996). There have been suggestions that the
+composition of diet and feeding behaviour of crayfish varieswith season
+(Goddard, 1988; Guan and Wiles, 1998), although evidence remains
+limited. Crayfish activity is seasonally variable being strongly regulated
+by water temperature (Gheradi et al., 1998; Bubb et al., 2004) as is the
+availability of macroinvertebrate prey (Allan, 1981).
+As invasive crayfish extend their range, understanding their effects on
+biodiversity and ecosystem services is increasingly important for
+informing management strategies (Lodge et al., 2012; Jackson et al.,
+2014; Moorhouse et al., 2014). Despite the widely acknowledged threat
+that invasive crayfish pose,much of the research to date has been focused
+on lentic ecosystems, whilst the impact on stream communities has been
+poorly quantified in many regions (Stenroth and Nyström, 2003; Pysek
+et al., 2008; Lodge et al., 2012). The majority of studies have investigated
+the short-termeffects of invasive crayfish at site or reach scales via smallscale
+in-situ enclosure experiments or through the use of ex-situ laboratorymesocosms
+typically over one season (e.g., Parkyn et al., 1997; Stenroth
+and Nyström, 2003; Magoulick, 2014; see Twardocleb et al., 2013 for a
+meta-summary of all published invasive crayfish studies). Other studies
+have employed in-situ sampling over a limited duration (1–12 months)
+where invading crayfish populations are already well established
+(e.g., Crawford et al., 2006). Short term experiments providemechanistic
+insights into crayfish–community or individual population interactions.
+However, it is also necessary to investigate the long-term and large
+scale effects of invasive crayfish in order to determine whether they are
+persistent and if the effects vary spatially, temporally or seasonally.
+Long- term studies also provide the opportunity to quantify the extent
+of invasion effects that cannot be captured though experimental
+mesocosm studies (Wilson et al., 2004; McCarthy et al., 2006).
+This study examines the long-term effects of the invasive signal crayfish,
+Pacifastacus leniusculus (Dana) on macroinvertebrate community
+composition and individual taxa within lowland rivers in England (UK)
+during spring and autumn seasons. Signal crayfish (P. leniusculus) are endemic
+to North America and have been introduced to over 20 countries in
+Europe. They are considered to be one of the most prevalent non-native
+crayfish species in Europe, with widespread and abundant populations
+now established across the UK (Kouba et al., 2014; Holdich et al., 2014).
+Unlike previous studies, the effect of invasive crayfish is investigated
+using multiple regions and catchments before and after invasion, and in
+direct comparison with control sites where long-term monitoring has
+not recorded the presence of P. leniusculus. Specifically we addressed
+the following questions:
+1) Does the invasion of P. leniusculus lead to significant changes in benthic
+macroinvertebrate community composition in lotic ecosystems?
+2) Is the effect of P. leniusculus invasion on macroinvertebrate community
+composition spatially extensive (is the effect evident over different
+bio-geographical ranges of lowland England) and do the effects
+persist over time (multiple years)?
+3) Are the implications of P. leniusculus invasion seasonally dependent
+or are the effects on themacroinvertebrate community composition
+persistent and evident all year round?
+4) Are the same lotic taxa identified in previous studies of invasion by
+P. leniusculus (e.g. sensu Guan and Wiles, 1998; Usio and
+Townsend, 2004; Crawford et al., 2006) responsible for the changes
+observed in rivers in the current investigation?
+
+xmethods
+2.1. Datasets characterised
+Following preliminary consultation with staff from a statutory environmental
+monitoring authority, the Environment Agency of England,
+macroinvertebrate community data from three English regions were
+extracted from the Environment Agency ‘BIOSYS’ database. The
+database covers sites across England and contains long term biomonitoring
+(benthic macroinvertebrate) records for over 27,000 sites. To
+allow comparison between sites invaded by P. leniusculus and control
+sites, those selected for the study shared similar characteristics with
+the exception of invasion by crayfish. This aimed to minimise the influence
+of any potential confounding factors on the analysis. All sites selected
+had to fulfil the following criteria: i) records extended over
+multiple years with a minimum of 5-years macroinvertebrate community
+data prior to invasion by P. leniusculus or in the case of control
+sites 5-years before the average date rivers in the region were invaded
+(the dataset was subsequently divided into spring and autumn survey
+periods); ii) sites did not support a native crayfish population during
+any of the time series; iii) sites were not subject to other recent invasions
+and; iv) sites were not subject to other significant anthropogenic
+stressors such as water abstraction, flow regulation or impaired water
+quality. Criterion iii) was relaxed for the non-native gastropod
+Potamopyrgus antipodarum (Gastropoda: Hydrobiidae) because this
+species is widely distributed across most regions of the UK since its introduction
+over a century ago (Ponder, 1988) but is not thought to
+have a significant influence on freshwater invertebrate communities
+in most European streams (Murria et al., 2008).
+Data from three regions formed the basis for the analysis, encompassing
+natural variability in community composition across England
+(East, South -East and North-West England; Fig. 1). The regions were selected
+to reflect natural biogeographical, geological and hydrological variability
+across England, thus incorporating the diverse regional variability
+of lowland river systems. Following screening of the data, a total of 7 ‘invaded’
+and 7 ‘control’ lowland rivers were identified (Table 1). Rivers
+were selected to have broadly comparable physical characteristics within
+the individual regions (channel size, discharge, water chemistry, altitude
+and geology). Rivers in South East England were predominately characterised
+by chalk deposits, those in East England by mudstones and those
+in the North-West by sedimentary sandstone and igneous rocks. The
+characteristics of the rivers employed by region are shown in Table 2. Rivers
+utilised in the study were not heavily managed or regulated and consequently
+physical and hydrological characteristics did not change during
+the study period. In addition, electrofishing surveys conducted by the Environment
+Agency of England indicate no major changes in fish populations
+over time in all rivers employed.
+All benthic invertebrate samples were collected using the Environment
+Agency's standard sampling protocol comprising a 3-minute
+‘kick-sample’, which encompasses all available habitats, and an additional
+1-minute, detailed hand search (Murray-Bligh, 1999). This sampling
+strategy has provided an effective means of detecting temporal
+changes in invertebrate communities of English andWelsh rivers previously
+(Monk et al., 2008; Durance and Ormerod, 2009). Data were
+analysed on a seasonal basis (Spring,March–May and Autumn, September–
+November) to enable the determination of consistent trends. The
+data-set comprised 530 samples in total (255 and 275 from invaded
+and control samples respectively) with the majority of samples collected
+between 1990 and 2013 (three sites had data series extending back
+to the 1970's and an additional three further sites had data from the
+mid 1980's) and a total of 596 taxa were recorded.
+Given the length of macroinvertebrate community records many of
+the faunal lists comprised mixed taxonomic levels of identification. As a
+result the lowest possible taxonomic level available across the three regions
+was used. In the majority of instances this meant genus level data
+were utilised, although species level data were available for a number of
+taxa. Diptera larvae were resolved to family level and Hydracarina to
+order level throughout the series. Due to variations in the way in which
+abundance data were recorded over time, reflecting a shift from abundance
+classes on a 33rd percentile logarithmic scale to abundances on
+standard logarithmic scales (and real counts for single digit abundances),
+abundance data were standardised into ordinal classes (Durance and
+Ormerod, 2009) to enable comparison over the whole series (1 = ≤9,
+2=10–32, 3 =33–99, 4 =100–332, 5 = 333–999, 6 =≥1000).
+2.2. Data analysis
+Changes to macroinvertebrate community composition were examined
+via non-metric multidimensional scaling (NMDS) using
+Bray—Curtis similarity coefficients. Data were categorised into four
+groups: i) control — before invasion, ii) control — after invasion, iii) invaded
+— before invasion and; iv) invaded — after invasion. For invaded
+sites the approximate date of invasion was determined by the first occurrence
+of P. leniusculus in the historical faunal series. No density
+data were available for the sites because routine sampling of crayfish
+populations is not a standard Environment Agency biomonitoring practice
+following invasion. Detecting signal crayfish is difficult due to their
+high mobility (Gladman et al., 2010) and there are currently no
+methods of determining crayfish populations below a density of
+0.2 m−2 (Peay, 2003). For the kick-net samples utilised in this study,
+it is likely that the detection limit is higher, probably approaching a density
+of 1.0 m−2. Consequently for all sites employed in this study, crayfish
+densitieswould be significant, although some variation by sites and
+through time is likely. In addition, it is important to acknowledge that
+signal crayfish may have been present at the study sites for a several
+years prior to formal detection.
+Control sites were divided into two periods (before invasion and
+after invasion) based on themean date of invasion for the invaded rivers
+in the respective region (1997 for East; 1997 for North West; and 2003
+for South East). The assignment of a nominal date allowed a direct comparison
+between the control and invaded sites over the same timeperiod
+and also provided a means of assessingwhether therewere temporal
+shifts in invertebrate community composition not associatedwith
+crayfish invasion. This approach was taken as previous long-term analyses
+of UK data sets have revealed changes in community composition
+associated with drought (Monk et al., 2008), modification of channel
+morphology (Dunbar et al., 2010) and improvements in water quality
+(Durance and Ormerod, 2009).
+A one way ANOSIM (analysis of similarities) was used to examine
+differences in the communities amongst the control and invaded rivers
+before and after ‘invasion’. BothP and R ANOSIM valueswere examined,
+with R values N 0.75 indicating strong separation amongst groups, R =
+0.75–0.25 indicating separate groups with overlapping values and
+R b 0.25 as barely distinguishable groups (Clarke and Gorley, 2006).
+Taxa contributing to the differentiation of communities within individual
+regions and for river group (control and invaded) were identified
+through the application of the similarity percentage (SIMPER)with a selection
+of these examined in further analysis according to criteria described
+below. Preliminary NMDS analysis indicated strong differences
+amongst regions for macroinvertebrate community composition and
+as a result subsequent analyses were conducted on a regional basis.
+ANOSIM indicated significant differences for all pairwise comparisons
+of regions in both seasons; all P values b 0.001 and R values N 0.75. To
+assess temporal changes in community composition and determine if
+macroinvertebrate communities demonstrated recovery following invasion,
+temporal trajectories of changes in assemblage composition
+were plotted for each river and season. All regional NMDS analyses
+were performed in PRIMER Version 6.1.16 (PRIMER-E Ltd., Plymouth,
+UK).
+To assess changes in individual taxa associated with crayfish invasion,
+taxon occurrence (presence or absence) amongst the control and
+invaded rivers both before and after invasion were examined. Nine
+taxa (3 Mollusca, 2 Ephemeroptera, 2 Hirudinea, 1 Trichoptera and 1
+Crustacean)were selected for further analysis on the basis of the following
+criteria: i) identified as driving community differentiation in a number
+of regions through application of SIMPER in analyses outlined above
+and/or ii) widely cited in previous studies of invasive crayfish effects in
+lotic systems (e.g. Keller and Ruman, 1998; Haddaway et al., 2014;
+Moorhouse et al., 2014) and; iii) abundant in all regions and sites during
+the study period.
+Generalised linearmixedmodels (GLMMs)were fitted to each taxon
+for each season (Spring and Autumn) using a binomial error distribution.
+Models were fitted to presence/absence data using the
+glmmADMB version 0.8.1 package (Fournier et al., 2012; Skaug et al.,
+2014) in R version 3.1.2 (R development Core Team, 2014). The final
+model was built using region, treatment (control or invaded) and time
+period (before or after invasion) as terms.Monitoring sitewas specified
+as a randomeffect to reflect that taxon occurrence through time at individual
+sites will be correlated. To assess the effect of crayfish on the occurrence
+of specific taxa, the significance of the interaction term (time
+period × treatment) was examined. This enabled determination of
+whether taxa changes over time occurred in both invaded and control
+rivers or if the effect was confined to those where P. leniusculus occurred.
+Resultswere visualised by predicting probabilities of occurrence
+for each Before–After–Control–Invaded combination calculated from
+the GLMMon the linear predictor scale and transformed to the response
+scale using the inverse-logit function to enable the direction and trends
+of change to be ascertained. Standard errors for predictions were calculated
+on the linear predictor scale by multiplying the model matrix for
+each Before–After–Control–Invaded combination by the variance–covariance
+matrix for the fixed-effect parameter estimates. These were
+converted to confidence intervals (±2 SE) on the same scale and similarly
+back-transformed. Visual predictions of the Before–After–Control–
+Invaded relationship are based upon an ‘average’ site as a function of the
+global GLMM.
+
+xresults
+3.1. Community composition
+Non-metric multi-dimensional scaling (NMDS) ordination diagrams
+for all three regions (South East, NorthWest and East England) indicated
+distinct clusters of macroinvertebrate communities following crayfish
+invasion for both Spring and Autumn seasons (Fig. 2). In most
+instances, each of the regional diagrams indicated similar community
+composition between control and invaded sites prior to crayfish colonisation.
+Following colonisation, the invaded and control sites formed distinct
+groups, indicating a change in community composition at both
+control and invaded sites compared to the period preceding crayfish
+invasion.
+The degree of separation between the groups using analysis of similarity
+(ANOSIM) indicated highly significant differences for all pairwise
+comparisons of groups for South East England (all P b 0.02), NorthWest
+(all P b 0.002) and East England (all P b 0.001). R values indicate that before
+colonisation, control and invaded groups were barely distinguishable
+in the South East (Rs = 0.116 and Ra = 0.16 for both spring and
+autumn respectively) and in the East during spring months (Rs =
+0.130). During autumn months for East England (Ra = 0.280) and for
+both seasons in North West England (Rs = 0.636 and Ra = 0.344) the
+degree of similarity between invaded and control sites before invasion
+was less strong butwas still evident. Following colonisation by crayfish,
+invaded and control groups demonstrated a higher degree of separation
+in all three regions and were strongly separated in the North West
+(Rs=0.886 and Ra=0.861) andwere separated but overlappingwithin
+the South East (Rs = 0.512 and Ra = 0.421) and East (Rs = 0.457 and
+Ra=0.609).
+Temporal trajectories of macroinvertebrate community change
+were observed for both invaded and control rivers (Fig. 3 and
+Fig. S1). Within invaded rivers, the community demonstrated clear
+changes in structure directly after invasion. Community changes
+were also evident in control rivers over the time period but these
+were different to those recorded for invaded sites and very little
+overlap was evident after the invasion point (IP on Fig. 3). Prior to
+invasion, control and invaded river trajectories demonstrated considerable
+overlap with pathways intersecting on a number of occasions.
+Following the invasion point, trajectories of change for both
+control and invaded rivers remained discrete, with no similarities
+apparent or marked changes in trajectory paths (to indicate recovery)
+evident for invaded sites.
+The taxa primarily responsible for community composition changes
+within invaded rivers (before vs after), as identified by the similarity
+percentage (SIMPER), differed regionally as a function of natural biogeographic
+differences in community composition, although several
+taxa were common to two or more regions: 3 regions — Gammarus
+pulex, Hydropsyche spp., Potamopyrgus antipodarum, Baetis spp. and
+Hydracarina and; 2 regions — Sphaeriidae, Simuliidae and Elmidae
+(Table 3). Where several species were identified by SIMPER from the
+same genus within or between regions, these were combined to enable
+analysis of the most ubiquitous taxa across regions through application
+of the GLMM (e.g. Hydropsyche spp., Baetis spp., Caenis spp. and Radix
+spp. contained several species identified by SIMPER). Regions also
+displayed some seasonal differences in the taxa identified as driving
+changes, with some taxa identified to be driving community
+dissimilarity in one season but not the other (e.g. Planorbidae, Asellus
+aquaticus, Heptageniidae). Taxa identified to be driving changes in control
+river communities over timeare presented as SupplementaryMaterial
+(Table S1).
+3.2. Taxon-specific responses
+Results presented beloware for the GLMMmodel fitted to presence/
+absence of nine select taxa by individual season based upon a global
+model (all regions). Results indicate if changes in taxa occurrence over
+time were common across all sites (both control and invaded rivers)
+or if they were confined to invaded sites and therefore could be attributed
+to crayfish invasion.
+3.2.1. Spring
+The prevalence of the leech Glossiphonia complanata (P=0. 024)declined
+significantly following crayfish invasion whilst the occurrence of
+Erpobdella octoculata did not differ significantly compared to control
+sites (P = 0.161), although a reduction in its occurrence was evident
+(Fig. 4). The occurrence of the bivalve family Sphaeriidae declined following
+invasion but thiswas not statistically significantwhen compared
+to control sites (P = 0.228). The prosobranch gastropod mollusc
+P. antipodarum (P=0.320) demonstrated no significant changes in occurrence
+associatedwith crayfish invasionwhilst the pulmonate gastropod
+Radix spp. declined significantly (P=0.003; Fig. 4). Mayflies from
+the genus Caenis displayed reduced prevalence following invasion but
+this was not significant relative to control sites (P=0.165). Themayfly
+Baetis spp. and amphipod G. pulex displayed no change in prevalence
+(P = 0.120 and P = 0.060 respectively) following crayfish invasion
+with their occurrence remaining high (Fig. 4). The occurrence of the
+caddisfly nymph, Hydropsyche spp., reduced significantly (P = 0.010)
+following crayfish invasion compared to control sites (Fig. 4).
+3.2.2. Autumn
+The occurrence of the leech species G. complanata, E. octoculata, and
+the gastropod Radix spp. (all P b 0.001) declined significantly following
+crayfish invasion relative to control sites (Fig. 5). Both Sphaeriidae and
+P. antipodarum demonstrated no change in occurrence following
+crayfish invasion (P=0. 840 and P=0.225 respectively; Fig. 5). Insect
+larvaewithin the order Ephemeroptera displayed contrasting responses
+following crayfish invasion. The prevalence of Baetis spp. did not differ
+significantly over time at either control or invaded sites (P = 0.700)
+whilst Caenis spp. were significantly less common following crayfish invasion
+(P ≤ 0.001; Fig. 5). The amphipod G. pulex (P = 0.281) demonstrated
+no significant changes following invasion, whilst the
+Trichoptera Hydropsyche spp. declined at invaded sites (P = 0.028;
+Fig. 5). All statistical significance levels and standard error values for
+the Before–After–Control–Invaded interaction effect for each taxon are
+shown in Table 4.
+
+
+xdiscussion
+4.1. Invertebrate community responses to P. leniusculus invasion
+The results fromthis study provide strong evidence that invasive signal
+crayfish affect invertebrate community composition in lowland rivers.
+All three regions examined experienced marked changes in benthic
+community composition following invasion when compared to both
+pre-invasion conditions and control sites. The effect on macroinvertebrate
+communities in all three regions was seasonally consistent,
+being strongest during autumn months, butwere also evident in spring
+months. Crayfish movement and growth is strongly driven by water
+temperature, with activity typically peaking during summer months
+(Sousa et al., 2013; Johnson et al., 2014). Consequently, stronger effects
+on macroinvertebrate communities during the autumn months were
+expected, as these samples typically occur at the height or towards the
+end of crayfish activity (notably directly after the breeding season).
+Slight differences in the taxa driving the community changes between
+seasons were also evident, suggesting that seasonal heterogeneity of
+prey availability, and thus preferential predation, is a key process determining
+the effects of invaders on macroinverterbrate communities (Xu
+et al., 2012).
+In each of the regions examined, the community composition of control
+and invaded sites diverged when compared with samples from the
+pre-invasion period. In addition, control sites also displayed a shift in
+community composition temporally, but these changes were different
+to those recorded in the invaded rivers, suggesting the presence of a
+widespread stressor across all sites. During the study period, England
+experienced highly variable hydro-climatological conditions with a series
+of high magnitude droughts and prolonged periods of low flows
+in 1989–1992, 1995–1997 and 2004–2006, with the latter years focussed
+in the South East of England (Marsh et al., 2007; Hannaford
+and Buys, 2012). With the exception of one site, the River Ver in South
+East region, the invasion by P. leniusculus occurred during or directly
+after one of these high magnitude low flow periods known to have resulted
+in community changes across England (Wright et al., 2004;
+Monk et al., 2008; Laize et al., 2014;Worrall et al., 2014). These periods
+resulted in changes to community composition at all of the sites examined
+and provides evidence to explain the long-term changes observed
+at control sites in addition to those at sites invaded by P. leniusculus.
+However, it is important to note that the invasion of sites in this study
+is likely to predate the point in which they were recorded in biomonitoring
+samples in some instances. As a result, the drought conditions
+may have facilitated the expansion of non-native crayfish populations.
+The interaction between flow regime/hydrological variability and invasive
+taxa requires further detailed examination. Evidence suggests that
+crayfish populations are not severely affected during high magnitude
+drought events (Distefano et al., 2009; Dyer et al., 2015) and consequently
+invasive crayfish may have strong effects on stream ecosystems
+irrespective of the occurrence of hydrological stressors (Magoulick,
+2014).
+4.2. Temporal and spatial persistence of crayfish invasion effects
+Results from this study indicate that crayfish invasions have long
+term effects on rivers across a broad biogeographical range with invasion
+effects not dependent on a specific physical setting. Community
+impacts are evident and have persisted within all of the regions despite
+being characterised by different lithologies, flow regimes and habitat
+characteristics. Despite control and invaded rivers representing discrete
+communities following invasion in all sites, the degree of separation
+varied between regions. The effect of invasive crayfish is heavily dependent
+on original community composition as this dictates which species
+are preferentially predated. Communitieswhich support abundant populations
+of taxa susceptible to predationwill therefore bemore severely
+affected following invasion events. We are aware of only two other
+studies which have examined the long-termimpact of invasive crayfish
+on benthic communities thus far (Wilson et al., 2004; McCarthy et al.,
+2006), however both were focussed on lentic systems in North
+America over limited spatial scales. Both studies reported significant
+modifications to benthic community composition with dramatic longterm
+and potentially irreversible effects on the ecosystem evident as a
+whole. Results fromthe current investigation, provide the first quantitative
+evidence that crayfish invasion effects within rivers are longstanding
+and persist once the invading population has become
+established.
+Temporal trajectories of community change indicated that shifts occurred
+directly after invasion in the majority of rivers examined. As the
+precise date of invasion is not known for these rivers (IP indicates the
+point they were detected in routine benthic samples), it is likely that
+densitieswould have reached significant numbers before being formally
+detected and explains the immediate shift in community following the
+identified invasion point. Timelags are typically evident in invasion processes,
+with the effects on communities often taking several years to appear
+as densities of the invading organism increase (Sakai et al., 2001;
+McCarthy et al., 2006). The ordination plots of all invaded rivers suggest
+that no recovery of the communities occurred following the establishment
+of crayfish populations,with control and invaded rivers displaying
+distinct trajectories. Changes to the macroinvertebrate community in
+invaded rivers appear to occur rapidly once crayfish densities are high
+enough to be detected in kick samples (Hiley, 2003). Consequently it
+is likely that there is a threshold effect at which impacts on the macroinvertebrate
+community become significant and potentially irreversible.
+Early detection of signal crayfish in lotic ecosystems through
+routine monitoring is therefore imperative in order to manage and potentially
+limit the implications of crayfish populations on the wider
+macroinverterbrate community and ecosystem.
+4.3. Taxa–crayfish interactions
+Despite differences in the response of individual taxa following invasion,
+the occurrence of a number of ubiquitous taxa significantly changed
+across all regions. The classHirudinea iswidely cited as being severely affected
+following crayfish invasion, typically demonstrating significant reductions
+in the abundance of taxa following the establishment of large
+crayfish populations (Stenroth and Nyström, 2003; Crawford et al.,
+2006; Ruokonen et al., 2014). Results from this study provide further evidence
+to support this with G. complanata displaying significant reductions
+in occurrence following crayfish invasion for both spring and
+autumn survey periods. The occurrence of E. octoculata was reduced
+considerably during the autumnmonths but displayed no significant differences
+during spring months (although reductions were evident). Differences
+in predation of these two taxa in spring months may be as a
+result of reproduction characteristics. Glossiphonids are the only leechs
+to brood and carry their young, whilst Erpobdellids form cocoons on
+the substrate, which may protect the young from predation during the
+months of March–July (Elliott and Mann, 1979). A number of reasons
+have been speculated as potentialmechanisms to account for the reduction
+of Hirudinea taxa following crayfish invasion including the predatory
+nature of leeches and direct competition for resources. The life history
+of a number of Hirudinea species is strongly associated with gastropod
+populations as a function of their ectoparasitic nature (Elliott and
+Mann, 1979; Ruokonen et al., 2014), although their low mobility and
+soft bodies most likely results in preferential predation by P. leniusculus
+(Stenroth and Nyström, 2003).
+Themostwidely cited taxa affected by invasive crayfish colonisation
+are gastropods and bivalves, with reductions in species richness, abundances
+and biomass widely reported (Weber and Lodge, 1990; Lodge
+et al., 1994; Nyström et al., 1996, 2001; Stenroth and Nyström, 2003;
+Dorn, 2013; Ruokonen et al., 2014). Results from this study indicate a
+significant effect of crayfish on Radix spp.with reductions in occurrence
+observed during both spring and autumn months. Gastropods have
+been cited as being particularly vulnerable to crayfish predation because
+of their limited speed of locomotion (Hanson et al., 1990;
+Nyström and Perez, 1998; Rosewarne et al., 2013). However, not all
+mollusc taxa displayed similar responses. Sphaeriidae displayed no
+change in response to crayfish invasion (although some reductions
+were evident during spring months), nor did the non-native mud
+snail, P. antipodarum. Some life history characteristics may reduce predation
+effects and, as a consequence of their high predation risk, many
+gastropod species display avoidance behaviour by migrating above
+the waterline for several hours (Alexander and Covich, 1991; Crowl
+and Covich, 1990; Turner et al., 1999), whilst others demonstrate
+changes to their life history through enhanced growth rates and
+lowered reproduction rates (Hoverman et al., 2005). Under experimental
+conditions P. antipodarum has been shown to avoid predation
+through increased vertical migration in the presence of crayfish
+(Haddaway et al., 2014). This avoidance mechanism would enable
+them to evade crayfish predation and may explain why their populations
+remain largely unchanged in this study despite evidence of selective
+predation of crayfish on gastropod species based upon handling
+times (time taken for crayfish to consume prey items, Crowl and
+Covich, 1990; Nyström and Perez, 1998).
+Another taxonwhich is highly adaptable in their ability to evade predation
+andwhich displayed no change in occurrence for either spring or
+autumn months in this study was the freshwater amphipod G. pulex.
+This taxon has been widely cited as adopting various avoidance strategies
+in order to evade inter and intra-specific predation, including enhanced
+drift and locomotion, vertical migration and increased use of
+refuges (Andersson et al., 1986; McGrath et al., 2007; Haddaway et al.,
+2014). Consequently, it is likely that this species possesses a repertoire
+of strategies and defences towards predation, which potentially makes
+them able to evade crayfish more readily than other taxa.
+Richness of aquatic insect larvae within the orders of Ephemeroptera,
+Plecoptera and Trichoptera (EPT richness) is one of the most commonly
+employed bioindicators internationally (e.g. Ligeiro et al., 2013;
+Tonkin et al., 2015). However, the results from this study highlight
+that interpretations of order level responses to disturbances associated
+with invasive crayfish should be undertakenwith caution, especially orders
+supporting highly variable habitat and feeding preferences and life
+histories. As a result we would propose the use of greater taxonomic
+resolution (genus or species level if possible) to provide the appropriate
+information to identify and disentangle taxa-specific interactions
+(Monk et al., 2012).
+Several studies considering the impact of crayfish, have discussed
+the impact of crayfish on Ephemeroptera as a whole order, rather than
+individual taxa (Guan andWiles, 1998; Usio and Townsend, 2004). Results
+fromprevious research suggests that the effects on Ephemeroptera
+are not consistent, with some studies documenting a decrease in abundance
+(McCarthy et al., 2006) or selective predation by crayfish on individuals
+with a greater body size (Guan and Wiles, 1998), whilst others
+have reported an increase in abundance or no change at sites where
+crayfish have invaded (Keller and Ruman, 1998; Usio and Townsend,
+2004; Crawford et al., 2006; Grandjean et al., 2011). Results from the
+current study indicate that as an order, individual Ephemeroptera taxa
+may display different responses to crayfish invasion. Within this
+study, the largely ubiquitous ephemeropteran genus Baetis demonstrated
+no change in occurrence during both spring and autumn months.
+This most likely reflects their relatively high mobility, thus enhancing
+their ability to evade crayfish predation (Peckarsky, 1996). However,
+not all Ephmeroptera taxa displayed positive or benign responses to
+crayfish invasion,with Caenis spp. demonstrating significant reductions
+in occurrence following crayfish invasion during both spring and autumn.
+This reduction may reflect habitat preferences of most Caenis
+spp. for fine sediment accumulationswhich makes themprone to ingestion
+or physical disturbance by foraging crayfish (Capelli, 1980;
+Gutierrez-Yurrita et al., 1998; Usio and Townsend, 2004; Helms and
+Creed, 2005).
+The Trichoptera Hydropsyche spp., also displayed a significant reduction
+in occurrence during both spring and autumn months following
+crayfish invasion. The majority of feeding activity by this taxa is through
+net building during spring and summer months, with net construction
+typically representing simple open structures to permit filter feeding
+(Edington and Hildrew, 1995). This sedentary activity in addition to
+the open nature of the fixed shelter (Mackay and Wiggins, 1979) may
+make them preferential prey for crayfish predation, in contrast to other
+caseless caddisfly larvae which are freeliving and mobile such as
+Rhyacophilidae (Elliot, 1968) or those which are much more hidden
+such as Psychomyiidae in fixed enclosed tunnel like galleries (Christian
+et al., 2005).
+5. Conclusion
+Crayfish are considered to be influential organisms within many
+aquatic ecosystems, interacting with all trophic levels of the food web
+(Creed, 1994;Momot, 1995). The results of this study provide direct evidence
+to suggest that the implications of crayfish invasion are persistent
+and result in major changes to benthic invertebrate communities,
+although the effects on the community are stronger during autumn. Invasion
+effects are not dependent on the physical and habitat characteristics
+of the lotic ecosystem, with modifications to macroinvertebrate
+communities evident across the range of bio-geographical regions typical
+of lowland rivers. The specific effects on the invaded ecosystem are
+however dependent on original community composition. The resulting
+fauna affected and those which are responsible for the community
+changes observed may therefore vary between rivers. The spread of invasive
+taxa across the globemay also represent a significant challenge to
+ongoing environmental monitoring programmes. The results of this research
+clearly demonstrate that the predation and interaction of an invasive
+species with the receiving ecosystem can significantly modify
+aquatic community composition. These community modifications may
+thereby potentially affect the results of widely utilised biomonitoring
+indices and as a result care should be taken when interpreting routine
+biomonitoring data (i.e water quality, river flow or fine sediment pressures)
+where non-native/invasive taxa are known to be present
+(MacNeil et al., 2013; Mathers et al., 2016). This study highlights the
+value and need for further multi-scale research to fully understand the
+wider spatial and temporal implications of historic invasions to complement
+reach scale and mesocosm studies (Wilson et al., 2004;McCarthy
+et al., 2006). This fundamental knowledge base is needed to informand
+underpin management strategies which are aimed at controlling and
+mitigating the effects of invasive species (Moorhouse et al., 2014).

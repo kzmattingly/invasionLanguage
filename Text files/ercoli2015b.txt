@@ -1,0 +1,403 @@
+xabstract We investigated differences in the abundance, community composition and taxon richness of
+sublittoral macroinvertebrates in boreal lakes containing introduced invasive signal crayfish
+(Pacifastacus leniusculus) or native noble crayfish (Astacus astacus). We hypothesised that sublittoral
+macroinvertebrate assemblages in lakes containing noble crayfish, which reportedly prefer the
+shallow littoral, would differ little from those in lakes without crayfish, in contrast to assemblages in
+lakes containing signal crayfish, which reportedly forage at greater depths.
+2. In a set of 24 small and medium-sized Finnish lakes, eight lakes contained signal crayfish, eight
+had noble crayfish and eight control lakes had no crayfish. At three sites per lake, we sampled
+macroinvertebrates quantitatively from soft sediment in the sublittoral.
+3. The sublittoral macroinvertebrate assemblage in lakes with noble crayfish and control lakes was
+similar. In contrast, lakes with signal crayfish had a lower density of Trichoptera and Ephemeroptera,
+as well as a lower density and species richness of Chironomidae, and a lower overall benthic density
+and taxon richness.
+4. In contrast to some previous reports from other habitats, we infer that introduced signal crayfish
+have stronger negative effects than native noble crayfish on sublittoral macroinvertebrates. Hence,
+the ecological equivalence or differences of crayfish species cannot be generalised across habitats. 
+
+
+xintroduction
+
+
+ The impact of invasive species on native biota and ecosystem
+processes is an important ecological issue. Nonnative
+freshwater crayfish are well-known examples of
+animals which have been widely translocated from their
+natural ranges and have become invasive in the recipient
+regions (Holdich et al., 2009; Gherardi, 2010;
+Reynolds & Souty-Grosset, 2012). Previous studies have
+reported direct and indirect impacts of non-native crayfish
+on invaded ecosystems (NystrÄom, BrÄonmark &
+Graneli, 1999; Usio, 2000; NystrÄom et al., 2001; Wilson
+et al., 2004; Ruokonen, Karjalainen & HÄamÄalÄainen, 2014),
+but these impacts might be species specific (Haddaway
+et al., 2012; Jackson et al., 2014) or habitat specific (Kreps,
+Baldridge & Lodge, 2012; Hansen et al., 2013; Ruokonen
+et al., 2014). Nevertheless, global meta-analyses have
+suggested that non-native crayfish generally have stronger
+negative effects on other organisms than do native
+crayfish (McCarthy et al., 2006; Twardochleb, Olden &
+Larson, 2013).
+The signal crayfish, Pacifastacus leniusculus, originally
+from the Pacific Northwest of North America, has been
+introduced widely in Europe, including Finland where
+the signal crayfish potentially threatens native biota and
+replaces the native noble crayfish, Astacus astacus (Kirjavainen & Sipponen, 2004). However, based on stable
+isotope analyses, Ercoli et al. (2014) showed that signal
+and native noble crayfish have similar diets within
+Finnish boreal lakes, even though at the overall species
+level the signal crayfish has a somewhat broader feeding
+niche than the noble crayfish, consistent with the results
+of Olsson et al. (2009) from Swedish streams. Moreover,
+Ercoli et al. (2015) reported similar impacts of signal and
+noble crayfish on the shallow littoral macroinvertebrate
+benthos in Finnish boreal lakes, suggesting that these
+two crayfish species can be ecologically equivalent in
+this kind of habitat. Similar effects of these two species
+on invertebrate prey were also reported by Lagrue et al.
+(2014) from a French stream.
+Crayfish are highly mobile (Gherardi & Barbaresi,
+2000) and the signal crayfish in particular is capable of
+migrating from the littoral to deeper areas of lakes (Flint,
+1977; Ruokonen et al., 2012), where they can affect the
+benthos by direct feeding and by modifying physical
+habitat and nutrient dynamics (Johnson, Rice & Reid,
+2011; Harvey et al., 2014). Given that the effects of crayfish
+can be habitat specific and that signal crayfish colonise
+deeper water (Tulonen et al., 2008; Erkamo et al.,
+2010; Ruokonen et al., 2012) than noble crayfish (which
+is more restricted to the shallow littoral; Westman, Savolainen
+& Julkunen, 2002), we might expect that effects
+on macroinvertebrate assemblages beyond the shallow
+littoral will be stronger for signal than for noble crayfish.
+Most previous studies have only investigated the effects
+of crayfish on littoral communities in lakes (NystrÄom
+et al., 1999; Dorn & Wojdak, 2004; Karen et al., 2004;
+Gherardi & Acquistapace, 2007; Ruokonen et al., 2014;
+Ercoli et al., 2015), whereas impacts of crayfish in deeper
+water are largely unknown.
+The sublittoral of lakes extends from the middle of the
+littoral zone to the limit of the euphotic zone and is
+characterised by a species-poor macroinvertebrate benthos,
+usually dominated by Oligochaeta, Chironomidae,
+amphipod crustaceans and mussels (Kalff, 2002). Knowledge
+of the effects of crayfish on the sublittoral benthos
+is needed for better understanding of the ecology of
+lakes and for management and conservation of their
+native biota. Using quantitative data on macroinvertebrates
+from the sublittoral of Finnish boreal lakes with
+either signal or noble crayfish or no crayfish at all, we
+investigated (i) whether the presence of introduced signal
+and native noble crayfish is associated with any differences
+in population density, species richness and
+composition of the sublittoral macroinvertebrate benthos,
+and (ii) if so, whether the apparent effects of the
+two crayfish species are similar. xmethods The study lakes (Fig. 1) are in south-central Finland (see
+Table 1 for locations and environmental characteristics
+of the individual lakes) and were chosen on the basis of
+the crayfish register of the Finnish Game and Fisheries
+Research Institute (FGFRI). According to these data, signal
+and noble crayfish do not occur together in lakes,
+due to the crayfish plague which is carried by the signal
+crayfish and transferred to the more vulnerable noble
+crayfish. Hence, we had to study the two crayfish species
+in separate lakes. We selected eight lakes containing
+signal crayfish, eight lakes containing noble crayfish and
+eight lakes without crayfish. The lakes were as similar
+as possible with respect to water quality and morphometry
+(Table 1). Water quality measures (pH, colour,
+dissolved oxygen and total phosphorus concentration at
+2ñ5 m depth) and lake morphometry (lake area, shoreline
+length) have been collected for each lake from the
+HERTTA database (http://wwwp2.ymparisto.fi/scripts/
+hearts/welcome.asp) (see Ercoli et al., 2014, 2015),
+whereas the slope of the shore of each lake was calculated
+as in Ercoli et al. (2014, 2015). All the lakes are in
+rural catchments without shoreline urbanisation.
+Signal crayfish were introduced into some lakes in this
+area in the 1990s, and their populations are nowadays
+considered well established (Erkamo et al., 2010). The
+history of individual native noble crayfish populations is
+not documented in detail, but they have often been
+restocked where original populations were reduced and noble crayfish have also been introduced into lakes that
+previously lacked crayfish both within and even beyond
+their native geographic range in Finland. The lakes with
+noble crayfish in our study are all within the native
+range and have long-established natural populations
+(JÄarvi, 1910). We were not able to carry out crayfish trapping
+in the lakes to obtain empirical data on their distribution
+and abundance. Therefore, we had to rely on
+crayfish data made available by the FGFRI. Although
+quantitative data for crayfish were not available from
+our sampling years, FGFRI provided data on the numerical
+abundance of signal and noble crayfish in terms of
+catch per unit effort (CPUE, number of individuals
+trap
+1 night
+1) from previous years (see Table 1). These
+data were obtained using cylindrical traps baited with
+dead cyprinids and placed along the shore during the
+evening and collected the following morning. From
+some lakes, only rough estimates were available and for
+some lakes only knowledge of ëexploitable populationí,
+which indicates the minimum crayfish density exploitable
+for commercial purposes, which in Finland is considered
+to be CPUE > 1 (Erkamo et al., 2010). Assuming
+the CPUE of 1 for exploitable populations and 2 and 3
+for the lakes KarisjÄarvi and AuhjÄarvi (see Table 1), the
+mean density (SE) of noble and signal crayfish
+between the two lake categories was not significantly
+different (mean CPUE for signal crayfish 4.4  5.5, and
+noble crayfish 2.3  1.2, t-test, P = 0.27). All the crayfish
+lakes had an exploitable population in the study years
+(see Ercoli et al., 2014, 2015). The FRGI or local lake
+owners confirmed that control lakes lacked crayfish,
+either because they have lost their native populations or
+because crayfish have never managed to colonise them;
+nonetheless, based on their environmental conditions,
+we assume that they are equally habitable for crayfish. Sublittoral macroinvertebrate were sampled either in
+August 2010 or in August 2011, and equal numbers of
+lakes were sampled from each lake category in both years
+(see Table 1). Five replicate sublittoral samples were taken
+from soft sediment (the dominant sublittoral substratum)
+at three widely spaced sites (minimum distance from each
+other, 500 m) in each lake at 2ñ5 m depth (according to
+the location of the sublittoral zone) using an Ekman grab
+(area, 0.026 m2). Samples were immediately preserved in
+70% ethanol and, in the laboratory, macroinvertebrates
+were sorted, identified (mostly to species or genus) and
+counted. Animals were then pooled into higher taxa (families
+or orders) and weighed (wet mass, after blotting
+excess moisture). After weighing, head capsules of Chironomidae
+larvae were mounted on microscope slides in
+Euparal and identified to genus. No crayfish were
+caught by the Ekman grab. A linear mixed effects (LME) model for nested data
+(Zuur et al., 2009) was used to explore the effects of signal
+and noble crayfish on macroinvertebrate density
+(numbers m
+2), biomass (mg m
+2) and Shannon diversity
+index in the lakes. The response variables such as macroinvertebrate
+density, biomass and Shannon diversity
+index calculated for each site were included as observational
+units in the model, while lake category and lake
+were fixed and random factors, respectively. A generalised
+linear mixed model (GLMM), with Poisson distribution
+for count data (Zuur et al., 2009) and the same fixed
+and random factors as in LME, was used to test for differences
+in taxon richness of total macroinvertebrates and
+of Chironomidae (which was the most diverse group)
+among lake categories. To control for the effects of environmental
+characteristics, we first carried out principal
+components analysis (PCA) on the environmental variables
+(Table 1), selected PCs with eigenvalues greater
+than unity and added these into the LMEs and GLMMs.
+In the initial models, only the main effects (lake category,
+PC1 and PC2) were included and then their interactions
+(lake category x PCs) were added if the model was
+improved, as judged by the Akaike information criterion
+(AIC). Models were checked for homogeneity and normality
+of residuals by exploring residual versus fitted
+values plots for any patterns. Densities of the taxonomic
+groups (Gastropoda, Bivalvia (Sphaeridae), Oligochaeta,
+Isopoda (Asellus aquaticus), Ephemeroptera, Chironomidae,
+Ceratopogonidae and Trichoptera) were also separately
+modelled as described above.
+To compare assemblages among the three lake categories,
+we grouped macroinvertebrates into higher taxa,
+mainly orders (cf. Ercoli et al., 2015): Gastropoda, Bivalvia
+(Sphaeridae), Oligochaeta, Nematoda, Amphipoda,
+Isopoda (Asellus aquaticus), Ephemeroptera, Megaloptera
+(Sialidae), Heteroptera (Corixidae), Coleoptera, Chironomidae,
+Tabanidae, Ceratopogonidae and Trichoptera. We
+used non-metric multidimensional scaling (NMDS) ordination,
+on transformed [log(mean count+1)] density data
+with the BrayñCurtis distance measure, to explore visually
+how the macroinvertebrate assemblages differed
+among lakes and lake groups. To test whether the environmental
+features affected macroinvertebrate assemblages
+among lake categories, NMDS axes solutions were correlated with a second matrix containing environmental
+variables and tested for their correlation with
+the ordination using a permutation test. Lake categories
+were also tested for differences using MRPP (multiresponse
+permutation procedures). Indicator species
+analysis (ISA) was performed to distinguish those taxa
+that characterised the community of a particular lake
+category.
+All statistical analyses were performed in R 2.15.2
+(R Core Team and contributors worldwide, 2012). Variables
+were square-root-transformed if assumptions of
+normality were not met (total macroinvertebrate,
+Ephemeroptera and Chironomidae densities). LME model
+and GLMM were performed using the lme and glmer
+functions, respectively, under the lme4 package (Zuur
+et al., 2009), while principal component analysis (PCA)
+was performed using the prcomp function under the stats
+package (Holland, 2008). We used the vegan package
+(Oksanen, 2013) for NMDS with the ordiellipse function
+and MRPP, and the indicspecies package for ISA (Caceres,
+2013). 
+
+
+xresults Environmental characteristics were similar among lake
+categories (Table 1); only dissolved oxygen differed,
+which was due to the very low value recorded in one
+signal crayfish lake, Auhjarvi (see Table 1). Therefore,
+we tested whether lake categories would have had a different
+macroinvertebrate composition and consequently
+would have been differently grouped with or without
+Lake AuhjÄarvi. Moreover, we also checked whether
+macroinvertebrate density was correlated with oxygen.
+Results showed that the inclusion of Lake AuhjÄarvi was
+not a determinant in the non-metric multidimensional
+scaling (NMDS) ordination or in MRPP results and that
+there was no correlation between density and oxygen,
+demonstrating that oxygen was not a primary influence
+for the macroinvertebrate composition in our study
+lakes. Principal components 1 and 2 (Table 1), having eigenvalues
+greater than 1 (49.18 and 45.46, respectively),
+were selected to summarise environmental variability
+among lakes and were included in the models. However,
+none of the response variables showed any significant
+association with these PCs controlling for the effect
+of environmental variability (Table 1).
+Macroinvertebrate density (t = 2.62, d.f. = 19,
+P = 0.01), taxon richness (Z = 5.19, P < 0.001) and the Shannon diversity index (t = 4.27, d.f. = 19, P < 0.001)
+were significantly lower in signal crayfish, but not in
+noble crayfish, lakes than in control lakes (Table 2;
+Fig. 2añc). No significant effects of lake category on
+macroinvertebrate total biomass were found (Table 2;
+Fig. 2d).
+The densities of most taxonomic groups (Fig. 3a) were
+similar across lake categories, except for Chironomidae,
+Trichoptera and Ephemeroptera, which again showed
+lower abundances in lakes with signal crayfish rather
+than in noble crayfish or control lakes (Table 2). No taxonomic
+group showed any significant difference in biomass
+among lake types (Fig. 3b).
+There were also significant effects of signal crayfish on
+the generic richness of Chironomidae (Table 2; Fig. 4).
+Signal crayfish lakes had lower richness than control
+lakes or those with noble crayfish (Table 2). Indicator
+species analysis revealed differences in the taxonomic
+composition of Chironomidae, Trichoptera and Ephemeroptera
+among the lake categories (Table 3). Whereas
+some taxa were characteristic of noble crayfish and control
+lakes, no taxon was characteristic of signal crayfish
+lakes.
+Based on the decrease in stress, a three-dimensional
+solution was optimal for non-metric multidimensional
+scaling (NMDS) ordination (final stress = 0.11) of the
+lakes on the basis of the macroinvertebrate composition
+(Fig. 5). The ordination spaces formed by axis 1 versus 2
+(Fig. 5a) and axis 1 versus 3 (Fig. 5b) indicate a rather
+similar macroinvertebrate composition in noble crayfish
+and control lakes, but a substantial differentiation of
+these from signal crayfish lakes. This differentiation in
+macroinvertebrate assemblages was also supported by
+multi-response permutation procedures (MRPP) analysis
+showing that signal crayfish lakes differed significantly
+from noble crayfish lakes (A = 0.09, P = 0.02) and from
+control lakes (A = 0.17, P = 0.002), whereas there was no
+difference between the two latter lake categories
+(A = 0.01, P = 0.65). 
+
+
+xdiscussion
+ There were no differences in the sublittoral macroinvertebrate
+benthos in lakes with noble crayfish and
+lakes with no crayfish, indicating that the native noble
+crayfish has no significant effect on macroinvertebrate assemblages in deeper water. In contrast, and consistent
+with our hypothesis, the density and taxon richness
+was less and community composition was
+different in lakes with the invasive signal crayfish.
+Tulonen et al. (2008) reported that signal crayfish will
+occupy deeper water than noble crayfish in Finnish
+lakes, as also documented by SvÄardson, FÄurst &
+FjÄalling (1991) from three Swedish lakes. This capacity
+of the signal crayfish to forage deeper means it can
+potentially exert a wider impact on lake macroinvertebrate
+assemblages. Hence, even though we were not
+able to carry out the trapping that would have been
+required to document conclusively the presence of signal
+crayfish or absence of noble crayfish in the sublittoral
+of the lakes and support a direct effect of signal
+crayfish on sublittoral macroinvertebrates, we believe
+the most plausible explanation for the difference we found between sublittoral macroinvertebrates in noble
+and signal crayfish lakes is that signal crayfish were
+foraging in the sublittoral whereas noble crayfish were
+not to any meaningful extent.
+Our results are consistent with reports by NystrÄom
+et al. (1999), Dunoyer et al. (2013) and Ruokonen et al.
+(2014) that the introduced signal crayfish strongly
+affects native macroinvertebrates. Furthermore, recent
+results from meta-analyses and field research comparing
+the impacts of several non-native and native crayfish
+species have suggested that, in general, non-native
+species have stronger, though variable, impacts on
+native communities than native crayfish (McCarthy
+et al., 2006; Twardochleb et al., 2013), consistent with
+our findings for sublittoral macroinvertebrates. In contrast,
+Lagrue et al. (2014) recently reported that invasive
+signal crayfish and native noble crayfish had
+similar negative effects on macroinvertebrates, indicating
+a rather similar ecological role for the two species
+in a French river. Most of these previous studies have
+been conducted at small experimental scales or in controlled
+laboratory experiments, results from which may
+not be robustly extrapolated to whole-lake responses,
+as Lagrue et al. (2014) also suggested. Thus, our results
+at the whole-lake scale provide important additional
+insights into the relative impacts of these two crayfish
+species.
+The results extend our previous findings that the density,
+taxon richness and taxonomic composition of littoral
+macroinvertebrates did not differ significantly
+between signal and noble crayfish lakes (Ercoli et al.,
+2015), indicating similar ecological effects of the two species
+on the littoral zoobenthos. Moreover, stable isotope
+analyses indicated that the two species used similar food
+sources in similar proportions (Ercoli et al., 2014). Thus,
+in these medium-sized and fairly shallow boreal lakes,
+both crayfish species probably forage mainly in the shallow
+littoral using similar food resources and having similar
+impacts on macroinvertebrate assemblages, although
+the reported capacity of the signal crayfish to forage
+deeper into the sublittoral apparently gives it a larger
+overall food niche width (Ercoli et al., 2014).
+The sublittoral densities of Chironomidae, Ephemeroptera
+and Trichoptera, and the species richness of chironomids,
+were less in lakes with signal crayfish.
+Although Hanson, Chambers & Prepas (1990) and
+NystrÄom et al. (1999) found that both mobile taxa and
+sediment-dwelling infauna with different predator
+avoidance strategies were less susceptible to predation
+by crayfish than other taxa; in our study, sedimentdwelling
+Chironomidae and Ephemeroptera, including
+mainly burrowing Ephemera larvae, were the groups
+most evidently affected in lakes with signal crayfish.
+The sublittoral zone is an important compartment of
+lakes where oxygen and food availability particularly
+influence the macroinvertebrate community structure
+and constrain production (MerilÄainen et al., 2003). However,
+our results indicate that sublittoral macroinvertebrate
+communities can apparently also be influenced by
+predators that are able to forage deeper, like invasive
+crayfish, as also suggested by Ruokonen et al. (2012) and
+Caires et al. (2013).
+In conclusion, the findings of this study, in combination
+with our previous results on the littoral macroinvertebrate
+assemblages (Ercoli et al., 2015), suggest that the
+effects of the introduced signal crayfish and native noble
+crayfish on macroinvertebrate communities differ
+between habitats. The two species have similar effects
+on littoral macroinvertebrates, but the invasive signal
+crayfish produces stronger negative effects on sublittoral
+macroinvertebrate. Further research is needed at the
+whole-ecosystem scale to develop efficient management
+and conservation strategies for invasive and native crayfish
+and particularly to evaluate whether, in countries
+like Finland with important crayfish fisheries, signal
+crayfish can be safely stocked as an ëecologically equivalentí
+species to replace noble crayfish populations that
+have been lost from lakes.

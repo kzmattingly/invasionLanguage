@@ -1,0 +1,1194 @@
+xabstract
+
+
+
+
+Reed invasion is a common phenomenon of open streams with disturbed riparian vegetation in river
+
+catchments. Knowledge of the effects of such vegetation change on aquatic communities is fundamental to
+
+river management. Macroinvertebrate fauna in Phragmites australis (Cav.) Trin. ex Steud. and open bank
+
+habitats were examined in three rivers in central Victoria in order to understand the effect of such littoral
+
+habitat on macroinvertebrates. Data were analysed using Partially Nested Factorial ANOVA with season,
+
+river and habitats as main effects. Habitat structure had a significant effect (p<0.05) on macroinvertebrate
+
+species richness, however this was not seasonally consistent across the three rivers. There was a significant
+
+increase (p<0.05) in macroinvertebrate taxa richness in Phragmites habitats during winter and spring
+
+seasons. Total abundance of taxa showed no consistent significant differences in the two habitats. Results of
+
+Canonical Analysis of Principle Coordinates indicated significant differences (p<0.05) in macroinvertebrate
+
+assemblages between Phragmites and bare bank habitats in all seasons. Habitat selection by taxa
+
+could be related to the microphysical environment of the habitats. This study suggests that reed beds create
+
+important littoral habitat structures which support diverse macroinvertebrate assemblages
+
+xintroduction
+
+
+
+
+Phragmites australis (Cav.) Trin. ex Steud. is one
+
+of the common native reeds of open streams and
+
+wetlands worldwide (Sainty & Jacobs, 1981).
+
+There is increasing evidence to suggest that riparian
+
+disturbance, alteration of natural hydrologic
+
+regime, soil salinization and increased sedimentation
+
+favour invasion and continued spread of
+
+Phragmites in lotic systems (Roman et al., 1984;
+
+McNabb & Batterson, 1991; Saltonstall, 2003).
+
+Invasion of Phragmites in open reaches with low
+
+riparian vegetation cover has been observed in
+
+many river catchments in Victoria (CALP, 1997).
+
+Redistribution of Phragmites in rivers managed
+
+for irrigation has been observed in South Eastern
+
+Australia (Roberts, 2000). However, quantitative
+
+studies on the effects of such redistribution on
+
+river health and aquatic biodiversity are limited
+
+(Roberts, 2000).
+
+Phragmites tends to reduce plant diversity in
+
+affected areas but its overall impact is poorly
+
+understood (Ailstock et al., 2001). There is evidence
+
+to suggest that Phragmites is capable of
+
+changing the physico-chemical environment of its
+
+surroundings through the production of detritus
+
+and capturing of sediments (Weinstein & Balletto,
+
+1999; Rooth & Stevenson, 2000) which can influence
+
+the utilization of this habitat by insects, fish,
+
+birds and other wildlife. Benoit & Askins (1999)found that biodiversity of flowering plants and
+
+birds were reduced in Phragmites dominant
+
+marshes. Several authors have reported that
+
+larval and juvenile fish usage of marshes has been
+
+affected by Phragmites invasion (Able & Hagan,
+
+2003; Able et al., 2003; Raichel et al., 2003).
+
+Angradi et al. (2001) found that diversity of benthic
+
+macroinvertebrates was lower in Phragmites than
+
+Spartina alterniflora dominant habitats. However,
+
+there is also evidence to support the view that
+
+Phragmites has a positive impact on the ability of
+
+marshes to function as habitats for fauna (Able &
+
+Hagen, 2000). Meyer et al. (2001) showed that fish
+
+species composition was not affected by Phragmites
+
+invasion. Wainright et al. (2000) reported that
+
+Phragmites may contribute to the food chain in
+
+marsh systems. Some biologists regard Phragmites
+
+beds as important habitats for wildlife (Roman
+
+et al., 1984; Marks et al., 1994). As a result, many
+
+reed swamps are given special conservation status,
+
+for example as Sites of Special Scientific Interest
+
+(SSSI) under the Ramsar Convention, Special
+
+Protected Areas or as national or local nature reserves
+
+(Arnold & Ormerod, 1997). In most of these
+
+cases conservation importance is based on botanical,
+
+ornithological or terrestrial invertebrate criteria,
+
+which figure strongly in selection and
+
+management. By contrast, knowledge of aquatic
+
+invertebrates in reed beds in lotic systems is limited.
+
+Given these scientific uncertainties, research efforts
+
+need to focus on the ecological benefits and losses
+
+associated with Phragmites in lotic systems, especially
+
+the aquatic macroinvertebrate communities,
+
+for developing management strategies.
+
+Macroinvertebrate species richness, abundance
+
+and community composition associated with
+
+Phragmites reed beds and open bare bank habitats
+
+were assessed in three selected fourth to fifth order
+
+streams in central Victoria, Australia, during summer,
+
+autumn, winter and spring seasons of 2004.
+
+xmethods
+
+
+
+Birch Creek is a major tributary of the northward
+
+flowing Tullaroop Creek system in the upper
+
+catchment of the Loddon River. The riparian
+
+vegetation includes native Eucalyptus spp., Acacia
+
+spp., Callistemon spp., Leptospermum spp. and
+
+exotic Salix spp. (willows), with intermittent reed
+
+dominant stretches. The dominant land uses
+
+adjacent to the creek are grazing and cropping.
+
+Jim Crow Creek is also a tributary of the Loddon
+
+River, containing native vegetation, exotic willows
+
+and intermittent reed beds. It largely flows through
+
+public land. The East Moorabool is a branch of
+
+the Moorabool River, which originates in the
+
+Central Highlands. It flows south through native
+
+forest and agricultural areas and has stretches
+
+dominated by Phragmites (Fig. 1).Two sites (50 m reach) in each of the three creeks
+
+were selected for sampling. Each site had stretches
+
+of Phragmites and bare banks. Twelve samples
+
+were collected from each site with six samples from
+
+each habitat type. Sampling was carried out during
+
+summer, autumn, winter and spring seasons of
+
+2004. Samples were collected using a 20 cm
+
+20 cm horizontal metal frame attached to a
+
+sampler with a 250 l mesh net (Surber sampler).
+
+The area inside the sample frame was excavated to
+
+5 cm depth and the whole sample together with the
+
+portion retained in the net as a result of site disturbance
+
+was collected and sealed in a polythene
+
+bag. Phragmites was sampled by cutting the above
+
+ground portion of the plant and any macroinvertebrates
+
+attached were washed off and included in
+
+the sample. The Phragmites leaves were separated
+
+from the sample so that coarse particulate organic
+
+matter (CPOM) and fine particulate organic matter
+
+(FPOM) could be measured. All samples were
+
+transported to the laboratory for sorting. Dissolved
+
+oxygen, pH, conductivity, temperature,
+
+flow within habitat, average stream flow and depth
+
+were also recorded in situ. In the laboratory,
+
+samples were sieved (minimum sieve size 250 l)
+
+and macroinvertebrates were separated and preserved
+
+in 70% alcohol. The taxa present in each
+
+sample were identified to the lowest possible taxonomic
+
+level (Pinder & Brinkhurst, 1994; Cranston,
+
+1996; Dean & Suter, 1996; Smith, 1996;
+
+CSIRO, 1999; Hawking & Theischinger, 1999;
+
+Gooderham & Tsyrlin, 2002). The remaining
+
+fraction of the samples was separated according
+
+to the particle size as coarse particular matter
+
+fraction (>1 mm) and fine particular matter
+fraction (1 mmñ250 l) and air dried for 1 day and
+
+oven dried at 105 C until constant weight was
+
+attained. After recording the dry weight, each
+
+fraction was ashed at 550 C for 6 h and ash free
+
+dry weight (AFDW) was recorded for each fraction.
+
+CPOM and FPOM content were calculated
+
+and then percentages of CPOM and FPOM were
+
+derived.Partially Nested Factorial ANOVA experimental
+
+design was used to analyse data. The factors considered
+
+in the model were season (four levels,
+
+fixed), river (three levels, random), sites (two levels,
+
+random, nested within river), and habitat (two
+
+levels, fixed). For a seasonal sampling event,
+
+samples were collected within three consecutive
+
+days of a season to counteract the effect of within
+
+season variation. With six samples from each
+
+habitat a total of 276 samples were collected during
+
+all seasons. Due to high flows, Site 2 of Birch
+
+Creek could not be sampled during winter and
+
+these sections of data were considered missing
+
+during analysis. Macroinvertebrate taxa recorded
+
+in the study were considered as variables in the
+
+analysis.Macroinvertebrate community assemblage differences
+
+were assessed using the direct ordination
+
+procedure of Canonical Analysis of Principle
+
+Co-ordinates (CAP). This technique allows (i)
+
+testing for differences among assemblages (ii)
+
+identification of taxa most highly associated with
+
+the effects of interest (habitats in this analysis) (iii)
+
+visualization of the between and within group variation
+
+and (iv) a discriminant analysis (Anderson &
+
+Robinson, 2003; Anderson & Willis, 2003).
+
+CAP analysis was conducted in two ways for
+
+community analysis in this study. First, discriminant
+
+analysis was conducted using CAP where the
+
+focus was on discriminating between habitats
+
+(Phragmites and bare bank) for each river separately
+
+during different seasons. Secondly, CAP was
+
+used to determine seasonal associations of taxa
+
+with each habitat type using the data pooled
+
+across the three rivers. The taxa highly associated
+
+with habitat type were identified using correlation
+
+between the individual taxon abundance and the
+
+canonical axis separating habitats. These correlations
+
+were averaged across seasons to calculate the
+
+mean correlation value for each taxon. To examine
+
+the community gradients Principle Coordinates
+
+Analysis (PCoA) (Gower, 1966) was employed and
+
+indirect ordination plots were generated. Both
+
+CAP and PCoA were conducted using the CAP
+
+package developed by Anderson (2003). In all
+
+cases, the Bray-Curtis dissimilarity coefficient was
+
+used.Differences in species richness and total abundance
+
+among habitats were assessed using Partially
+
+Nested Factorial ANOVA design. Total abundance
+
+values were log transformed log(1+x)
+
+before analysis to counteract the effect of highly
+
+dominant taxa. These univariate tests were done
+
+using the SPSS statistical package using general
+
+linear models. Posterior pair-wise comparisons
+
+(t-test) were done to estimate differences among
+
+groups in selected factors which were significant in
+
+the ANOVA.Effects of physical variables on macroinvertebrate
+
+species richness in each habitat type were calculated
+
+using Multiple Regression Analysis. The
+
+physical variables considered were; flow within the
+
+habitat, average stream flow, depth of each habitat
+
+type, pH, conductivity, dissolved oxygen, temperature,
+
+CPOM, FPOM, % CPOM and % FPOM.
+
+xresults
+
+
+
+The physical and chemical characteristics of sites
+
+are summarized in Figure 2. Average depth of
+
+Phragmites habitats varied between 20ñ40 cm and
+
+5ñ20 cm for bare bank habitats. pH values ranged
+
+in the two habitats from 7.5 to 8.5. Conductivity
+
+ranged between 38 and 1750 lS/cm during seasons
+
+with higher summer and autumn values and lower
+
+values during winter and spring. Temperature
+ varied between 8 and 25 C with lowest values
+
+recorded during winter. These parameters, with
+
+the exception of depth, did not show marked differences
+
+among habitats. There was flow in all
+
+three rivers during winter and spring but very little
+
+or no flow during summer and autumn. Percentage
+
+CPOM and FPOM recorded in Phragmites habitats
+
+were higher than open banks in most sites.
+Eighty-seven macroinvertebrate taxa were recorded
+
+in sites sampled in the three rivers with 54
+
+taxa in Birch Creek, 62 in Jim Crow Creek and 69
+
+in Moorabool. Seventy-eight taxa were recorded in
+
+Phragmites habitats and 72 in bare bank habitats.
+
+Fourteen taxa were exclusively found in Phragmites
+
+habitats and nine in bare bank habitats.
+
+When considering main factors, a significant
+
+proportion of variation of species richness and
+
+total abundance of taxa was explained by the
+
+habitats (partial g2 for species richness=0.94; total
+
+abundance of taxa=0.87). The factors, which
+
+made the next greatest contribution to the variation
+
+of species richness and total abundance of
+
+taxa were River followed by Site and Season
+
+effects (Tables 1 and 2).
+
+There was a significant effect (p<0.05) of
+
+habitat on species richness (Table 1; Fig. 3a).However, effect of habitat was not consistent
+
+across sites and during different seasons (signifi-
+
+cant seasonsite (river)habitat interaction).
+
+During summer, Sites 1 and 2 of Birch Creek
+
+showed significant increase (p<0.05) in species
+
+richness in Phragmites habitats compared to bare
+
+bank habitats. During autumn Moorabool sites
+
+showed significant increase in species richness in
+
+Phragmites habitats compared to bare bank habitats.
+
+However, during winter and spring in all sites
+
+Phragmites habitats showed increase in species
+
+richness.
+
+Habitat had no clear consistent significant effect
+
+on total abundance of taxa in either habitat
+
+(Table 2; Fig. 3b). However, there was a significant
+
+seasonhabitatsite interaction. During autumn,
+
+sites 4, 5 and 6 showed significant increase in total
+
+abundance in bare bank habitats compared to
+
+Phragmites habitats. During winter, site 4 and
+
+during spring, sites 5 and 6 showed significant
+
+increase in total abundance compared to bare bank
+
+habitats.
+
+There was also a significant seasonriver
+
+interaction in species richness and total abundance
+
+of taxa (p<0.05).When considering the distribution of major groups
+
+of taxa between the two habitats, in all seasons the
+
+Amphipoda were the dominant group and made
+
+the major contribution to total number of individuals,
+
+accounting for more than 50% of the total in some sites (Fig. 4). The Odonata was mostly
+
+found associated with Phragmites habitat and
+
+Gastropoda and Bivalvia were abundant in this
+
+habitat during winter and spring. When considering
+
+the distribution of Plecoptera, Oligochaeta,
+
+Coleoptera and Hemiptera (dominated by Corixidae)
+
+in two habitats, they were more abundant in
+
+bare bank habitats and Hemiptera was more
+
+prominent during summer and autumn seasons.
+
+Decapoda was more common in Phragmites habitat
+
+in all seasons.
+
+Effect of habitat on macroinvertebrate community
+
+assemblages
+
+Phragmites and bare bank macroinvertebrate
+
+community assemblages showed significant differences
+
+(p<0.05) in all sites except autumn in Birch
+
+Creek (Table 3). Taxa allocation success in CAP
+
+plots was higher during winter, spring and summer
+
+but lower in autumn, indicating higher separation
+
+of taxa in two habitats during summer, winter and
+
+spring seasons. Jim Crow Creek and Moorabool
+
+River habitats showed lower misclassification rates
+
+compared to Birch Creek habitats. Figures 5 and 6
+
+show PCoA plots of macroinvertebrate community
+
+assemblages associated with the two habitats
+
+in different rivers during different seasons. Even
+
+though the sites were selected randomly in streams,
+
+assemblages also show separation according to
+
+sites in PCoA plots where habitat separation
+
+sometimes overlaps. However, CAP results indicated
+
+significant differences (p<0.05) in the two
+
+communities of the two habitats in all the sites
+
+throughout the seasons sampled.
+
+Table 4 shows the correlation of each taxon
+
+with habitat type. Correlations of taxa with
+
+canonical axes showed that, Lestidae, Planorbidae
+
+(Gyraulus sp.), Coenagrionidae, some species of
+
+Limnephilidae Tanypodinae, Sialidae, Physidae
+
+(Physa acuta Draparnaud), Sphaeriidae (Pisidium
+
+sp.) and Atyidae (Paratya australiensis Kemp) had
+
+a relatively higher association with Phragmites
+
+habitats (mean correlation coefficient with canonical
+
+axis >0.2). Ancylidae (Ferrissia sp.), Leptophlebiidae
+
+(Atalophlebia sp.), Limnephilidae,
+
+Ceinidae (Austrochiltonia sp.), Leptophlebiidae
+
+(Atalophlebia australis Eaton), Baetidae, Caenidae
+
+(Tasmanocoenis sp.) and Calamoceratidae showed
+
+moderate association (mean correlation coefficient
+
+with canonical axis >0.1) with Phragmites habitats
+
+while Caenidae (Wundacaenis sp.) and Orthocladiinae
+
+showed poor correlation with Phragmites
+
+habitats (mean correlation coefficient with canonical
+
+axis <0.1). This was further confirmed by their
+
+correlation with bare banks in some seasons.
+
+Symphitoneuria sp., Psychodidae, Phreodrilidae
+
+(Antarctodrilus proboscidea Brinkhurst & Fulton),
+
+Tubificidae, Psephenidae (Sclerocyphon sp.),
+
+Lumbriculidae (Lumbriculus variegates Mullar),
+
+Tipulidae and Dixidae showed higher association
+
+(mean correlation coefficient with canonical axis
+
+>0.2) with open bare bank habitats. Dytiscidae
+
+(Rhantus sp., and Necterosoma sp.), Phreodrilidae,
+
+Simuliidae, Notonectidae, Dytiscidae larvae,
+
+Corixidae, Paramelitidae, Scirtidae and Elmidae
+
+were moderately correlated (mean correlation
+
+coefficient with canonical axis >0.1) with bare
+
+bank sites.
+
+Effects of physical variables on macroinvertebrate
+
+species richness
+
+The regression was highly significant for physical
+
+variables in each habitat type (p<0.01). In
+
+Phragmites habitats physical variables explained
+
+42% of the total variance of species richness
+
+(Table 5). However, in bare bank habitats only
+
+11% of the total variance of species richness was
+
+explained by physical variables (Table 6). When
+
+considering all physical variables, in Phragmites
+
+habitats, only average stream flow, pH, dissolved
+
+oxygen, temperature and % CPOM content
+
+accounted for significant proportion of explained
+
+variation of species richness within habitat. In bare
+
+bank habitats only dissolved oxygen concentration
+
+showed a significant proportion of explained variation
+
+and flow within the habitat was marginal.
+
+xdiscussion
+
+The effects of change in Phragmites habitats on
+
+macroinvertebrates have been reported by many
+
+authors but have provided contrasting results.
+
+Dvora¥k & Best (1982), Boulton & Lloyd (1991)
+
+and Fel et al. (1998) reported that Phragmites
+
+dominated sites had more abundant invertebrates
+
+than non-Phragmites sites due to the provision of
+
+suitable physical habitat and usable food resources for semi-aquatic detritus feeders and algae feeders.
+
+However, Warren et al. (2001) reported that
+
+macroinvertebrates were not affected by the
+
+Phragmites expansion. Ailstock et al. (2001) also
+
+supported this view and showed no direct change
+
+in macroinvertebrate abundance and diversity
+
+with the expansion of Phragmites in fresh water
+
+wetlands. However, Chambers et al. (1999) and
+
+Osgood et al. (2002) reported that Phragmites
+
+invasion of tidal freshwater wetlands results in a
+
+reduction in insects. However, no comprehensive
+
+study has been carried out to investigate the effect
+
+of Phragmites habitats on macroinvertebrate
+
+communities in lotic systems. Some of the confusion
+
+over the effect of Phragmites on aquatic
+
+communities in past studies can be explained
+
+through the results of the present study.
+
+In this study, species richness and total abundance
+
+of macroinvertebrates associated with two
+
+habitats responded differently to the seasonal
+
+effects. This was reflected by the relative increase
+
+of species richness and abundance of taxa in
+
+Phragmites habitats during winter and spring in
+
+comparison to summer and autumn seasons. This
+
+may be explained by the highly dependent nature
+
+of macroinvertebrates to temporal changes associated
+
+with rivers such as flow, food availability,
+
+and refuge selection. Flow has a major effect on
+
+refuge selection and habitat selection behaviour of
+
+macroinvertebrates (Sand-Jensen & Mebus, 1996).
+
+Macrophytes provide refuge for macroinvertebrates
+
+from flow and also retain drifting insects
+
+(Greg & Rose, 1982). In the present study,
+
+Regression Analysis indicated that average stream
+
+flow had a significant positive effect on macroinvertebrate
+
+species richness in Phragmites habitat.
+
+For bare bank habitats this effect was non-significant.
+
+Flow within habitat had a marginal negative
+
+effect on species richness, in bare bank habitats.
+
+During winter and spring there was an increase in
+
+the average stream flow in all rivers sampled
+
+except Moorabool sites during winter. This suggests
+
+that increased stream flow has contributed to
+
+the increase in species richness in Phragmites
+
+habitats during winter and spring. It can be
+
+expected that taxa in structurally unstable bare
+
+bank habitats were more affected by the local flow
+
+conditions and hence reduction in species richness
+
+in this habitat during high flows as suggested by
+
+negative correlation of species richness with local
+
+flow conditions in bare bank habitats. Even
+
+though pH, dissolved oxygen concentration, temperature
+
+and % CPOM content had a significant
+
+effect on species richness on Phragmites habitats
+
+these effects were negative.
+
+Total number of taxa showed an inconsistent
+
+pattern between the two habitats. During summer
+
+and autumn, Amphipoda made the greatest contribution to total abundance. In addition to
+
+that, in bare bank habitats, especially during
+
+summer and autumn, Coleoptera and Hemiptera
+
+also contributed most to the total abundance of
+
+taxa and corixids dominated the population of
+
+Hemiptera. They are predators and their presence
+
+may be related to their search for food i.e.,
+
+zooplankton which may be more prevalent in the
+
+backwater/bank habitats than in the macrophytes.
+
+This suggests that localized effects, triggered by
+
+seasonal effects make a major contribution to
+
+particular taxa and hence favour increase of their
+
+population. However, some taxa were more
+
+abundant than others and mask the abundance of
+
+less frequent taxa. This may explain some inconsistent
+
+patterns of total abundance of taxa between
+
+the two habitats during different seasons.
+
+Macroinvertebrate community assemblages
+
+associated with Phragmites and bare bank habitats
+
+showed significant differences in assemblage
+
+structure in all seasons observed. As suggested by
+
+the misclassification rates in CAP procedure this
+
+difference was more prominent during summer,
+
+winter and spring seasons. This suggests that, even
+
+though total abundance of taxa and species richness
+
+showed no differences in some seasons, reed beds have a significant influence on the shape of
+
+macroinvertebrate community composition. A
+
+similar trend has been observed by Meyerson et al.
+
+(2000) who suggested varying use of this habitat by
+
+different taxa. In this study, correlation of taxa
+
+with different habitats showed different levels of
+
+association with different habitats. Taxa having a
+
+high correlation with a particular habitat, can be
+
+considered as habitat selective taxa, those with
+
+poor correlations can be considered habitat generalists.
+
+This study indicated that Gyraulus sp.,
+
+Austrolestes analis Rhumbur, Coenagrionidae,
+
+Isostictidae, Tanypodinae, Sialidae, Physa acuta,
+
+Pisidium sp., Paratya australiensis , Limnophilidae
+
+and Glyptophysa sp. were more consistently associated
+
+with Phragmites habitat and Symphitoneuria
+
+sp., Psychodidae, A. proboscidea, Tubificidae,
+
+Sclerocyphon sp., L. variegates, Tipulidae and
+
+Dixidae with bare bank habitats.
+
+The differences in macroinvertebrate community
+
+assemblages observed in the two habitats can
+
+be related to many factors. Relationship between
+
+detrital food and macroinvertebrate abundance
+
+has been studied by many authors. Flecker (1984)
+
+found a significant positive correlation between
+
+insect abundance and detritus for most invertebrate
+
+taxa. However, this relationship between
+
+benthic macroinvertebrates and detritus often
+
+depends on the nature of the stream and the time
+
+of the year. Studies comparing the benthic fauna
+
+to detritus have also resulted in conflicting conclusions.
+
+Egglishaw (1968) and Fahy (1975) found
+
+significant correlations between insects and detritus
+
+whereas Peterson & Cummins (1974) and
+
+Pennak (1977) failed to detect a significant relationship.
+
+Even though high organic matter content
+
+in the form of CPOM and FPOM was detected in
+
+Phragmites beds compared to bare bank habitats
+
+in this study, species richness only increased during
+
+winter and spring. Regression analysis indicated a
+
+negative correlation between species richness and
+
+% CPOM content in Phragmites habitats and taxa
+
+in bare bank habitats did not show association
+
+between species richness and CPOM content. This
+
+suggests that in addition to the levels of organic
+
+matter, other regulatory factors have a role in
+
+habitat selection.
+
+Some authors suggest that the higher abundance
+
+of macroinvertebrates in macrophyte habitats
+
+are related to the shelter provided from high
+
+currents (Harrod, 1964; Gregg, 1982). This is
+
+supported by the distribution of some taxa in the
+
+two habitats investigated. Pisidium sp., P. acuta,
+
+Gyraulus sp., Ferrissia sp. were known to prefer
+
+low flows and in this study they were found to
+
+associated with Phragmites habitats in most seasons.
+
+Flow is not only associated with habitat selection
+
+but also with food acquiring habits. Simulium
+
+sp., Pisidium sp. and oligochaetes feed on FPOM
+
+but their mechanism of acquiring this is known to
+
+be different. For example Simulium sp. captures
+
+food by filtering FPOM flowing through its cephalic
+
+fans whereas Pisidium sp. create their own
+
+current and filter settling material in slow flowing
+
+backwater (Takeshi & Pinder, 1985). This may
+
+explain correlation of these taxa with open banks
+
+and Phragmites habitats, respectively. Gyraulus sp.
+
+and Ancylidae are periphyton feeders and preference
+
+for slow water may be the reason for their
+
+higher association with Phragmites habitats. In
+
+contrast Oligochaeta such as Tubificidae and
+
+Lumbriculidae (L. variegates) consume the organic
+
+material by ingesting the benthic sediments. Since
+
+Phragmites habitats had higher levels of FPOM
+
+content it was expected that Oligochaeta were
+
+more abundant in Phragmites habitats. The present
+
+study showed oligochaetes were more abundant
+
+in bare bank habitats however, the reason for
+
+such relationship is not clear. Able & Ragan (2000)
+
+reported that decapod crustaceans were not
+
+affected by Phragmites invasion in Mullica River
+
+in Southern New Jersey USA. The present study
+
+indicated that Decapoda (P. australiensis) were
+
+highly associated with reed habitats. This species
+
+has a preference for decaying organic matter and
+
+low flow which may explain its association with
+
+Phragmites habitats (Gooderham & Tsyrlin, 2002).
+
+Some studies show that Chironominae are
+
+highly associated with reed/macrophyte habitats
+
+(Bergey et al., 1992; Sloey et al., 1997). However,
+
+results in this study indicated an inconsistent pattern
+
+of Chironominae distribution in the two
+
+habitats, influenced by a seasonal pattern. They
+
+preferred bare bank habitats during summer and
+
+autumn but reed beds during winter and spring.
+
+The association of Corixidae and Coleoptera
+
+with open bank habitats during summer and
+
+autumn may be attributed to their capacity to
+
+withstand anaerobic conditions during the period of summer low oxygen levels due to their surface
+
+breathing behaviour. Another possible reason
+
+could be the plentiful food availability during
+
+these seasons. They are known to be predators
+
+(Gooderham & Tsyrlin, 2002) and benefit by
+
+capturing prey trapped in low summer flows,
+
+which create stagnant water pools which trap
+
+many other insects.
+
+Macrophytes tend to provide protection for
+
+macroinvertebrates from predation (Benke, 1976).
+
+However, this study showed that predators such as
+
+Odonata, Sialidae, Corydalidae, Tanypodinae
+
+were consistently associated with Phragmites
+
+habitats. Invertebrate predators hunting for the
+
+other representatives of phytophilous microfauna
+
+are also found in macrovegetation (Tokeshi &
+
+Pinder, 1985). Predatory beetles, heteropterans,
+
+dragonflies and megalopterans were associated
+
+with macrophyte beds in a study by Linhart et al.
+
+(1998). These may have important influences over
+
+the structure of macroinvertebrate community
+
+composition and trophic relationships among taxa
+
+in those habitats. However, it is necessary to look
+
+at the functional feeding group composition of
+
+macroinvertebrates to further clarify and predict
+
+such compositional differences.
+
+Conclusion
+
+Most previous studies to understand the role of
+
+Phragmites on aquatic biota were on lentic environments
+
+(Marks et al., 1994; Able & Hagan, 2000,
+
+2003; Angradi et al., 2001; Able et al., 2003).
+
+However, there has been no comprehensive study
+
+of the impact of Phragmites on littoral macroinvertebrate
+
+communities in lotic systems. The
+
+present study suggests that Phragmites invasion in
+
+streams could result in macroinvertebrate community
+
+composition changes. However, the effect
+
+of this habitat on macroinvertebrate species richness
+
+and abundance is governed by many other
+
+factors operating in lotic environment associated
+
+with seasonal effects. This provides reasons for
+
+confusion of views in literature regarding the
+
+effects of Phragmites on aquatic biodiversity
+
+(Roman et al., 1984; Marks et al., 1994; Able &
+
+Hagan, 2000, 2003; Wainright et al., 2000;
+
+Angradi et al., 2001; Able et al., 2003; Raichel
+
+et al., 2003). Many of the previous studies have
+
+not taken in to account the temporal variability
+
+associated with these habitats (Benoit & Askins,
+
+1999; Able & Hagan, 2000, 2003; Able et al., 2003;
+
+Raichel et al., 2003). The present study suggested
+
+that, even though species richness and abundance
+
+were comparable in both habitats during seasons
+
+such as summer and autumn, they supported a
+
+distinct macroinvertebrate community assemblage.
+
+Therefore reed invasion in streams can result in
+
+macroinvertebrate compositional changes in
+
+stream littoral habitats.

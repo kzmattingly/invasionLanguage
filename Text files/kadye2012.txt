@@ -1,0 +1,436 @@
+xabstract
+In aquatic ecosystems, impacts by invasive introduced fish can be likened to
+press disturbances that persistently influence communities. This study examined invasion
+disturbances by determining the relationship between non-native sharptooth catfish Clarias
+gariepinus and aquatic macroinvertebrates in the Eastern Cape, South Africa. A Multiple
+BeforeñAfter ControlñImpact (MBACI) experimental design was used to examine macroinvertebrate
+communities within two rivers: one with catfish and another one without catfish.
+Within the invaded river, macroinvertebrates showed little response to catfish presence,
+whereas predator exclusion appeared to benefit community structure. This suggests that the
+macroinvertebrate community within the invaded river was adapted to predation impact
+because of the dominance of resilient taxa, such as Hirudinea, Oligochaeta and Chironomidae
+that were abundant in the Impact treatment relative to the Control treatment. High
+macroinvertebrate diversity and richness that was observed in the Control treatment, which
+excluded the predator, relative to the Impact treatment suggests predator avoidance
+behaviour within the invaded river. By comparison, within the uninvaded river, catfish
+introduction into the Impact treatment plots indicated negative effects on macroinvertebrate
+community that was reflected by decrease in diversity, richness and biomass. A communitylevel
+impact was also reflected in the multivariate analysis that indicated more variation in
+macroinvertebrate composition within the Impact treatment relative to the Control in the
+uninvaded river. Catfish impact within the uninvaded river suggests the dominance of vulnerable
+taxa, such as odonates that were less abundant in the Impact treatment plots after
+catfish introduction. From a disturbance perspective, this study revealed different macroinvertebrate
+responses to catfish impact, and suggests that within invaded habitats, macroinvertebrates
+were less responsive to catfish presence, whereas catfish introduction within
+uninvaded habitats demonstrated invasion impact that was shown by a decrease in the
+abundance of vulnerable taxa. The occurrence of non-native sharptooth catfish within many
+Eastern Cape rivers is a concern because of its predation impact and potential to influence
+xintroduction
+The response of biological communities to impacts can be categorised as either pulse
+disturbance, which indicates short-term and often unpredictable changes, press disturbance,
+which shows long-term changes that increase initially before reaching constant
+levels, or ramp disturbance that represent accumulation of impacts over time (Underwood
+1991, 1992; Lake 2000; Parkyn and Collier 2004; Harper and Peckarsky 2005). In aquatic
+ecosystems, disturbances from biological invasions are widely recognised as determinants
+of community patterns and threats to biodiversity (Johnson et al. 2009). Detecting these
+invasive impacts can unfortunately be confounded by other forms of environmental change
+that preclude the identification of the invaderís role (Underwood 1994, 1997). In particular,
+stochastic variability in animal abundance over long temporal scales and their lack of
+concordance at different localities often result in interactions in trends of abundance over
+space and time (Grossman et al. 1990; Beugly and Pyron 2010). The underlying principle
+within an impact study is to be able to distinguish between these natural and stochastic
+changes from the perceived impact.
+Benthic aquatic macroinvertebrates are widely used as indicators in environmental
+impact studies. Their ubiquity and differential response to different categories of disturbances
+makes them excellent candidates (Rosenberg and Resh 1993). In predation impact
+studies, especially by non-native invasive fish, aquatic macroinvertebrates are highly
+susceptible and can exhibit responses ranging from simple interactions such as reduction or
+local extinction of populations, to complex interactions such as trophic cascading (Flecker
+and Townsend 1994; Nystro®m and McIntosh 2003; Williams and Taylor 2003). Experimental
+studies indicate that when invasive predators become established, they tend to
+remove the most vulnerable macroinvertebrate taxa, and the resultant community either
+shows little response to predation-related disturbances (Meissner and Moutka 2006), or it
+becomes highly unstable and stochastic (Angeler and Moreno 2007). Community instabilities
+in predator-mediated communities are a consequence of a transition to a new
+alternative stable state during both the disturbance and post-disturbance periods (Suding
+et al. 2004). Such communities are often dominated by macroinvertebrate taxa that can
+either seek alternative refuge and quickly recolonise from adjacent habitats (Miller and
+Crowl 2006), or are not preferred by the predator (Meissner and Moutka 2006; Effenberger
+et al. 2008). Therefore, the presence of invasive non-native predators can be likened to
+press disturbances that persistently influence community structure and function. Press
+disturbances represent environmental perturbations caused by a sustained impact that
+continuously disrupts community structure and composition (Underwood 1992; Lake
+2000; Parkyn and Collier 2004).
+Greenís (1979) BACI (BeforeñAfter ControlñImpact) experimental approach has been
+widely used in impact studies. This experimental design is based on the basic principle of
+collecting samples Before and After the perceived impact at both Control and Impact
+locations, and was designed to draw inference on ecological impacts based on field
+experiments. The BACI rubric has been modified at various levels to address concerns related to experimental design, such as pseudo-replication (Hurlbert 1984) and the confounding
+effects of spatial and temporal variation (Stewart-Oaten et al. 1986; Underwood
+1994; Keough and Mapstone 1997; Stewart-Oaten and Bence 2001). Although BACI
+designs are important in many habitat impact-based studies, they are rarely used in predation
+impact studies. This study used the BACI design to examine the impact of invasive
+non-native African sharptooth catfish Clarias gariepinus on patterns of benthic macroinvertebrate
+communities in the Eastern Cape Province, South Africa. The catfish was first
+introduced in 1976 into the Great Fish River through an 82.8 km tunnel of the Orange
+RiverñFish River inter-basin water transfer (IBWT) scheme from its native range in the
+Orange River (Cambray and Jubb 1977; Laurenson and Hocutt 1986). The catfish has since
+expanded its distribution range and now occurs in many rivers and dams throughout the
+region. Due to its possession of an arborescent organ, the catfish has remarkable capabilities
+to live in a wide range of habitats including rivers, swamps, natural lakes and manmade
+reservoirs (Teugels 1986; De Graaf and Janssen 1996) and adapts easily to new
+environments (Bruton 1988). The catfish is a highly mobile omnivorous predator that feeds
+on a wide range of prey, including fish, macroinvertebrates, plant material, plankton,
+reptiles, and amphibians (Bruton 1979; Merron 1993; Winemiller and Kelso-Winemiller
+1996; Yalc∏in et al. 2001). Several studies indicate that in addition to its aggressive predatory
+behaviour, the catfish is highly competitive and has the ability to alter food webs and
+poses a threat to native biota in areas outside its native range (Lal et al. 2003; Khan and
+Panikkar 2009). In the Eastern Cape, South Africa, there is concern over the dispersion of
+the catfish into rivers with endemic native fish and macroinvertebrates, which have disappeared
+at most localities where the catfish has established (de Moor and Bruton 1988).
+The importance of IBWT schemes for facilitating its invasion have been noted, with
+dietary studies indicating that it poses a potential negative impact on aquatic macroinvertebrates
+(Kadye and Booth 2012).
+This study describes a comparison of benthic macroinvertebrate community response
+using short-term enclosure/exclosure experiments between two rivers: one with a high
+catfish density and another one without catfish. By comparing community responses in
+ecosystems with and without catfish, this study provides insights into detecting impacts
+from an invader. By excluding catfish, macroinvertebrates communities should be subjected
+to minimum predation disturbance and therefore reveal responses to short-term
+temporal change to other environmental factors. Within the enclosure/exclosures, the
+macroinvertebrate communities should reveal more variation when catfish are present.
+xmethods
+The study was conducted in the Koonap River and Brak River, two tributaries of the Great
+Fish River. These tributaries were selected because they were variably impacted by catfish.
+The Koonap River had high ambient densities of the catfish that co-occurred with other fish
+species that include longfin eel (Anguilla mossambica), moggel (Labeo umbratus) and
+smallmouth yellowfish (Labeobarbus aeneus), whereas the Brak River has no catfish. The
+two rivers are in the same ecological region, and the experimental localities were within a
+radius of 20 km. The climate of the region is warm-temperate with mean annual precipitation
+ranging from 350 to 600 mm, falling mostly in late summer (March to May) and
+late winter (August). The stream bed within both rivers predominantly consisted of pebbles (2ñ10 cm) and boulder (10ñ30 cm) substrates interspersed with fine silt. The geology of
+the area comprises of a variety of sedimentary strata including marine shales, sandstones,
+mudstones and a complex of dolerite dykes and sills (OíKeeffe and de Moor 1988). The
+vegetation of the region is characterised by Acacia thornbush and xeric thicket and was
+generally undisturbed around the sampling localities. The major land use is grazing pasture
+for sheep along the Koonap River and game along the Brak River. River flow is intermittent
+and occurs when there are floods, usually in summer. As flow ceases, the aquatic
+habitats become a series of isolated pools that are usually maintained by base flow. The
+Koonap River was sampled near its confluence with the Great Fish River, whereas the Brak
+River was sampled within its headwaters beyond the migration limits of the catfish from
+the Glen Melville Reservoir. The experimental section in the Brak River was a headwater
+stretch that periodically receives highly mineralised water from the Great Fish Riverís
+tertiary IBWT. Mean water temperature within the Koonap and Brak Rivers over the study
+period was 14.5 ± 1.4 C and 16.5 ± 0.8 C, respectively. Conductivity was high in the
+Brak River, with an average of 1290 ± 46 lS cm-1 compared to the Koonap River that
+had an average of 552 ± 30 lS cm-1
+. The pH was less variable and ranged from 7.8 to 8.5
+and 8.2 to 8.4 within the Koonap River and Brak River, respectively. Temperature (C),
+pH, and conductivity (lS cm-1
+) were measured during each sampling occasion with a
+HANNA HI 98129 Combo meter. Both rivers had no flow during the study.A pilot study was initially conducted over a period of 6 weeks between July and August
+2009 to determine the rate of macroinvertebrate colonisation on different type of artificial
+substrates. The substrate types used were gravel, pebbles, shredded (2 mm) polythene
+plastic strips, and a mix of pebbles and polythene plastic strips. Cumulative asymptotes for
+macroinvertebrate diversity and richness were observed between 3 and 4 weeks. The
+pebble and polythene strips mixed substrate, which provided a better measure of diversity
+and richness, was then used in the impact experiment. Each artificial substrate unit consisted
+of a 4 mm polythene netting container measuring 10 cm 9 10 cm 9 3 cm in
+length, width and height, respectively. The artificial substrates were placed within exclusion
+cages that each measured 1 m 9 1 m 9 0.5 m in length, width and height, respectively,
+and were constructed of 4 mm diameter polythene netting. Each cage had 18
+artificial substrates. Access by larger macroinvertebrates was facilitated by punching 30
+additional holes, each measuring between 1 and 2 cm, into each side and bottom of the
+cage.
+In each of the rivers, fish exclosure cages with artificial benthic invertebrate substrates
+were used to test the treatment effects of the introduction of catfish. The cages, which were
+placed in different locations within each of the two rivers, were designed to simulate
+minimum predation disturbances for the macroinvertebrates before the impact was
+assessed. The treatments for the cages were Control (catfish exclusion) and Impact
+(introduction of the catfish) tested Before and After the impact on multiple locations within
+each river (MBACI design).
+Sampling for the impact experiment was conducted between July and October 2010. A
+multifactorial experimental design was used in this study. Eight exclusion cages (four were
+randomly assigned as Controls and four as Impacts) were placed into each of the two rivers
+for a period of 4 weeks prior to the start of the catfish impact experiment to allow for
+macroinvertebrate colonisation. The cages were placed at a depth between 0.5 and 0.75 m
+with homogenous cobble and fine silt substrates. Individual cages were placed in different isolated pools within each river. In one large isolated pool within the Koonap River, cages
+were placed 100 m apart at two sites on either ends of the pool. Treatments (Control and
+Impact) were randomly assigned to the different sites (cages). After the end of the colonisation
+period, each river was sampled weekly for 3 weeks by collecting three artificial
+substrates from each cage to give a total of 24 samples (8 cages 9 3 artificial substrates)
+during each sampling occasion. This was the Before period. After the 3rd week, two catfish
+(each measuring between 20 and 40 cm) were introduced into each of the four Impact
+exclusion cages in each river. Sampling after the introduction of the catfish as an Impact
+was done weekly for another 3 weeks and was the After period. The two catfish per cage
+corresponded to the average catch per unit effort (CPUE), using gill nets and fyke nets, in
+the experimental localities during routine sampling within the Koonap River. There was no
+catfish mortality nor involuntary introduction by other fish species into the exclusion cages
+during the After period.
+At the end of each of the six sampling events, the macroinvertebrates on each of the
+artificial substrates were visually sorted, identified to family level under a dissection
+microscope (magnification 910), counted and weighed for dry mass (overnight at 60C) in
+the laboratory. Each artificial substrate was analysed alive to reduce bias associated with
+moribund macroinvertebrates and took approximately 30 min to complete. The data from
+the three artificial substrates samples per treatment cage per sampling period were averaged
+prior to the analysis. Macroinvertebrate diversity, taxa richness, dry mass and abundance were determined for
+each treatment sample. Diversity was calculated using the ShannonñWienerís index given
+as H0 º Ps
+iº1 pi ln pi, where pi is the proportional abundance of taxa i in the sample
+given s taxa. Taxa richness was presented as number of invertebrate taxa per 10 cm2
+, while
+dry mass and abundance were expressed as mg per 10 cm2 and number per 10 cm2
+,
+respectively.
+Dry mass and abundance (counts) data were ln(x ? 1) transformed to satisfy the
+requirements of normally-distributed residuals and homoscedasticity. The MBACI analyses
+contrasted temporal patterns of taxa mean diversity, mean richness, mean ln(dry
+mass), mean ln(abundance) for both total and selected individual (most abundant) macroinvertebrate
+taxa at both the Control and Impact sites. The main interaction of interest in
+an MBACI experimental design for detecting an environmental impact is the interaction
+between the ControlñImpact treatments and BeforeñAfter times (Downes et al. 2002;
+Quinn and Keough 2002). For each river, a linear mixed-effects model was used and
+expressed as:
+yijkl º CI  BAij ˛ L CI  ﬁk ˛ T BA  ﬁl ˛ eijkl
+where the fixed effects were the ControlñImpact treatments (CIó2 levels) and periods
+BeforeñAfter the introduction of the impact (BAó2 levels). Random effects were Locations
+that were nested within CI (L CI  ﬁó8 levels), and Times nested within BA (T BA  ﬁó6
+levels).
+The null hypothesised contrast, for each river, between ControlñImpact sites and
+BeforeñAfter times (CI  BA), H0 : lCA  lCB  ﬁ lIA  lIB  ﬁº 0, was assumed to be
+approximately standard-normally (z) distributed such that z º  ﬁ 1;1;1;1 b ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+ ﬁ 1;1;1;1 R ﬁ 1;1;1;1
+p 0
+, where
+R is the varianceñcovariance matrix of the parameter vector b º lCA; lCB; lIA; lIB  ﬁ0
+.
+Biodi The analyses were conducted using the library lme4 in R (R Core Development Team
+2011).The macroinvertebrate counts for each family from the data produced a species matrix with
+23 taxa 9 48 averaged samples for each river and were ln(x ? 1) transformed prior to the
+analysis. Patterns of invertebrate abundance were analysed using redundancy analysis
+(RDA). RDA is a direct gradient analysis extension of principal components analysis
+(PCA). Similar to PCA, RDA identifies orthogonal axes that maximally ëëexplainíí variation
+in species composition (Legendre and Legendre 1998) but unlike PCA the axes are
+constrained to be linear combinations of explanatory variables. The eigenvalue associated
+with each axis is a measure of this variation. Thus, RDA can be considered to be a form of
+multivariate regression (Jongman et al. 1995).
+As the data were in the form of repeated measurements, a series of ordinations were
+conducted to test terms analogous to univariate repeated-measures ANOVA. A split-plot
+design, with a permutation scheme adjusted to suit the repeated-measures design of the
+data, was used for the analysis. Whole plots were records of each location repeated in time.
+Explanatory variables were the same as the fixed- and random-effects in the MBACI
+analysis. The interaction of treatment (Control and Impact) and time over sampling period
+were of interest in assessing possible impacts.
+To test hypotheses related to the impact effects, various combinations of variables,
+covariates and their interactions were used with an appropriate Monte Carlo permutation in
+the ordination analyses. In the first ordination, variables coding for sampling time and its
+interaction with treatments were used as explanatory variables, and sampling locations as
+covariates. This ordination explained variation in macroinvertebrate community attributed
+to sampling time and treatments occurring through the experiment. In the second ordination,
+variables coding for interactions between treatments and sampling time were used
+to explain variation attributed to changes due to the experimental treatment effect. In this
+analysis, variables coding for locations and time were used as covariates thereby removing
+the main treatment effects of the experiment. The third ordination was used to explain
+variation attributed to change in the control treatment after removing the impact treatment
+effects. The fourth ordination was used to explain variation attributed change in the impact
+treatment after removing the control treatment effects. The relationship between individual
+macroinvertebrate taxa and the treatment effects was further explored using a Generalised
+Linear Modelling procedure. Ordination analyses were conducted in CANOCO v4.5.
+
+xresults
+Twenty-three macroinvertebrate taxa belonging to 11 taxonomic groups were sampled
+during the experiment (Table 1). Odonata was the most represented group with six families.
+Fourteen taxa were collected in the Koonap River that had high ambient densities of
+catfish compared to 22 taxa that were collected in the Brak River that had no catfish.
+Within the Koonap River, leeches (Hirudinea) were the most abundant taxa with a total
+count of 4205. In comparison, within the Brak River, aquatic Oligochaeta earthworms were
+the most abundant with a total count of 2772.Within the Koonap River, macroinvertebrate mean diversity and richness were high in the
+Control treatment relative to the Impact treatment (Fig. 1). This implied that the exclusion
+of the impact disturbance increased community structure within catfish-invaded localities.
+The linear mixed-effects model showed that the interactions between treatment and
+sampling period were significant for both diversity (P\ 0.05) and taxa richness
+(P = 0.02) in this river (Table 2). In contrast, mean dry mass and abundance did not vary
+between treatments, and there were no significant interactions between treatment and
+sampling period (P[0.05). This indicates that there was no detectable impact on biomass
+and abundance within the invaded river. By comparison, within the uninvaded Brak River,
+the Impact treatment showed a decrease in macroinvertebrate diversity, richness and dry
+mass following the introduction of the catfish (Fig. 1). The linear mixed-effects model
+showed significant interactions for the contrasts of these parameters (P\0.05) (Table 2),
+indicating that catfish had an impact on community structure and biomass of the macroinvertebrate
+assemblage within the uninvaded river. Nonetheless, macroinvertebrate
+abundance did not vary between treatments in the Brak River.impact on these taxa (Table 2). These taxa were more abundant in the Control than in the
+Impact treatments (Fig. 2). By comparison, the Hirudinea, Chironomidae and Oligochaeta
+were more abundant in the Impact than Control treatments, but did not exhibit significant
+interaction contrasts indicating that these taxa were not negatively influenced by the catfish
+impact within the invaded Koonap River. Within the uninvaded Brak River, the odonate
+taxa Coenagrionidae and Libellulidae, which were more abundant within the Control than
+the Impact treatments (Fig. 2), exhibited significant interaction contrasts that inferred
+catfish impacts (Table 2). By comparison, only the Chironomidae midges were more abundant in the Impact than the Control treatments, with a significant interaction contrast
+(P\ 0.01) indicating a positive catfish impact within the uninvaded river. While oligochaete
+earthworms increased in abundance between the sampling periods they did not
+exhibit any significant differences (P = 0.87) between treatments.From a multivariate perspective, the macroinvertebrate communities underwent significant
+(P\ 0.01) directional changes associated with the sampling time and its interaction with
+treatment effects in the Brak River, whereas non-significant changes were noted in the
+Koonap River (Table 3). These effects explained 21% and 32% of the macroinvertebrate
+community variation in the Koonap and Brak Rivers, respectively. In the Koonap River,
+when sampling time was partialled out, the interactive terms of the treatment effects, which
+explained the variance due to treatment effects that occurred during the experiment,
+accounted for 9% of the variation. When considered separately, Control treatment effects
+explained 12% whereas Impact treatments explained 10%, indicating that there was slightly
+more variation in macroinvertebrate composition within the Control than the Impact treatments.
+The taxa biplot for the Koonap River showed that the changes in Belastomatidae and
+Baetidae were most closely associated with the Control treatment (Fig. 3). In contrast, the Impact treatment indicated strong association with the leeches, Hirudinea, whereas the
+Chironomidae and Oligochaeta increased over time but appeared to be uninfluenced by either
+treatment. By comparison, within the Brak River, the interaction terms of the treatment
+effects were highly significant (P\0.001) and explained 13% of the variation, indicating a
+directional change in time and treatment effects for macroinvertebrate composition. When
+considered separately, both treatment interactions were highly significant (P\0.001), with
+Control treatment effects explaining 11%, whereas Impact treatments effects explained 23%
+(Table 3). This indicated that the macroinvertebrate communities were more variable in the
+Impact than the Control treatments in this river. The biplot for the Brak River indicated that
+changes in most taxa, which include the odonate taxa, Coenagrionidae, Lestidae and
+Libellulidae, were closely associated with the Control treatment (Fig. 3). The Impact
+treatment, by contrast, was strongly associated with the Chironomidae, whereas the Oligochaeta
+appeared uninfluenced by either treatment.
+Generalised Linear Modelling illustrated that, within the Koonap River, Baetidae,
+Belostomatidae, Chironomidae, Hirudinea and Hydridae underwent significant (P\0.05)
+directional changes associated with the treatment effects (Fig. 4). Baetidae, Belostomatidae
+and Hydridae increased in abundance in the Control compared to the Impact treatment
+whereas Chironomidae and Hirudinae appeared unaffected as they increased in both
+treatments. By comparison, within the Brak River, eight taxa (Ancylidae, Belostomatidae,
+Caenidae, Chironomidae, Coenagrionidae, Libellulidae, Oligochaeta and Planaria)
+underwent significant (P\0.05) directional change associated with the treatment effects
+(Fig. 4). All taxa, except the Chironomidae and Oligochaeta, increased in abundance
+within the Control compared to the Impact treatment. The Chironomidae increased in the
+Impact treatment while the Oligochaeta were unaffected and increased in both treatments.
+xdiscussion
+Comparisons of macroinvertebrate communities between catfish invaded and uninvaded
+streams revealed contrasting temporal patterns. Within the invaded Koonap River, high macroinvertebrate diversity and richness were observed in the Control treatment that
+excluded catfish relative to the Impact treatment that had catfish where macroinvertebrate
+community structure varied less between sampling periods. This demonstrated that, within
+invaded habitats, excluding the non-native catfish increased community structure, whereas
+catfish presence was associated with less temporal variation in macroinvertebrate composition.
+In contrast, biomass and abundance were uninfluenced by either treatment,
+indicating that the macroinvertebrate community within the invaded river was dominated
+by taxa that were less responsive or adapted to the impact. By comparison, within the uninvaded Brak River, catfish introduction demonstrated an impact on macroinvertebrate
+composition, a pattern that was consistent with observations from other studies on effects
+of introduced fish on macroinvertebrates in previously uninvaded habitats (Carlisle and
+Hawkins 1998; Knapp et al. 2001; Simon and Townsend 2003). This study, therefore,
+revealed different macroinvertebrate responses to the presence of non-native catfish within
+invaded and uninvaded streams, and suggests that the invasive catfish plays a role as a
+disturbance in influencing macroinvertebrate communities.Although some studies indicate that macroinvertebrate communities can resist change to
+disturbances through rapid colonisation and use of alternative refugia (Collier and Quinn
+2003), this study suggests that adaptive responses to invasive predators may differ in
+habitats with and without fish. Macroinvertebrates in fish-containing habitats tend to
+develop anti-predator responses to fish (Schilling et al. 2009). In addition, within habitats
+where invasive predators have establishment, macroinvertebrates may evolve to become
+less vulnerable through behavioural and morphological adaptations in response to predation
+(Simon and Townsend 2003; Abjornsson et al. 2004; Meissner and Moutka 2006;
+Kitano et al. 2009). In contrast, within fishless or recently invaded habitats, macroinvertebrates
+often lack such adaptations and may not recognise or respond appropriately to the
+invader (Nystro®m et al. 2001). These contrasts may therefore explain the macroinvertebrate
+composition and their different responses within the catfish-invaded Koonap River that had
+other fish species, which include longfin eel (Anguilla mossambica), moggel (Labeo
+umbratus) and smallmouth yellowfish (Labeobarbus aeneus), compared to the Brak River
+that was fishless.
+Several studies have shown that introduced predatory fish exert a pronounced negative
+effect on macroinvertebrates in recently invaded habitats. This is because of the inability of
+native macroinvertebrate prey to respond to predators that they do not naturally co-exist
+with (Knapp et al. 2001; Stoks et al. 2003; Schilling et al. 2009), due to lack of co-evolved
+adaptive mechanisms (Simon and Townsend 2003). Within the uninvaded Brak River,
+catfish impact was reflected by a decrease in taxa diversity, richness and biomass. Catfish
+impact was further supported by multivariate analysis that showed high variation in
+macroinvertebrate composition in the Impact treatment plots, which suggests disruption of
+the community by the invader. Macroinvertebrate abundance was, nonetheless, uninfluenced
+by catfish presence. Although some studies have demonstrated impacts on macroinvertebrate
+abundance (Englund and Polhemus 2001; Maezono et al. 2005), others
+indicate that loss of certain taxa is mediated by an increase in abundance of those taxa that
+are not negatively affected by the predators, suggesting that impacts may be related to the
+response of individual macroinvertebrate taxa (Meissner and Moutka 2006). Assessment of
+macroinvertebrate composition within the uninvaded Brak River reflected different
+responses by individual taxa to catfish impact. In particular, the results indicated low
+abundance of Coenagrionidae and Libellulidae odonates in the Impact treatment plots,
+whereas the Chironomidae midges and Oligochaeta appeared uninfluenced by the presence
+of the predator. The most common response of macroinvertebrates to predation by nonnative
+fish is a decline in the densities of vulnerable taxa (Kadye and Magadza 2008;
+Johnson et al. 2009; Duxbury et al. 2010). Large-bodied prey, such as odonates, are usually
+the most vulnerable group in recently invaded habitats (Englund and Polhemus 2001;
+Maezono and Miyashita 2003; Maezono et al. 2005) because invasive predators are
+opportunistic feeders that tend to target the most conspicuous and accessible prey (Miller
+and Crowl 2006; Johnson et al. 2009; Weyl et al. 2010). Odonates are usually dominant
+macroinvertebrate predators that play a crucial role as keystone predators, especially in
+fishless and uninvaded habitats (Donald and Anderson 2003), and their elimination by
+invasive predators has been observed to correspond to an increase in the abundance of their
+potential prey, which reflects trophic cascades (Maezono and Miyashita 2003; Phillips
+et al. 2009). Within the Brak River, the high abundance of Chironomidae midges in the
+Impact treatment relative to the Control treatment may suggest a positive response to low
+abundance of odonate predators. Other studies have also reported invasion paradoxes
+whereby the elimination of keystone predators by invasive predators facilitates invasions
+by other species (Shurin 2001). Such facilitative invasions can have detrimental effect as the multiple invaders can interact at the expense of the native biota causing invasion
+ëëmeltdowníí (Simberloff and Von Holle 1999).
+In contrast to the uninvaded stream, within the invaded Koonap River, macroinvertebrates
+showed little response to catfish impact. Some studies indicate that when non-native
+predators become established, macroinvertebrates assemblages become less responsive as
+they become dominated by taxa that are either uninfluenced by the presence of predators
+(Meissner and Moutka 2006) or those that show local adaptation to predator presence
+(Simon and Townsend 2003; Abjornsson et al. 2004). Local adaptations include predator
+avoidance behaviour, such as altered drift patterns, use of interstitial spaces for refuge and
+rapid dispersal by mobile taxa into habitat patches without predators (Douglas et al. 1994;
+Englund et al. 2001; Schilling et al. 2009), and morphological adaptations, such as change
+in size-structure of prey (Huryn 1998). Within the invaded Koonap River, the lack of a
+macroinvertebrate response was particularly reflected by patterns in both abundance and
+biomass that did not differ between treatments, and little variation in diversity and richness
+within the Impact treatment, which suggest dominance of resilient taxa. Predator avoidance
+behaviour was likely explained by high taxa diversity and richness observed within the
+Control treatment plots relative to the Impact treatment plots in the invaded Koonap River.
+This avoidance behaviour was also inferred from multivariate analyses that indicated
+strong association of some taxa, such as Baetidae, Belostomatidae and Hydridae with the
+Control treatment. In particular, the small-bodied baetid mayflies, Baetis spp., have been
+observed to quickly recover under experimentally-induced predation disturbances, and
+they actively searched for patches that provided more refuge (Meissner and Moutka 2006).
+Mayflies are also known to disperse over a large area and to quickly adapt within disturbed
+environments (Gibbs et al. 1998; Knapp et al. 2001; Effenberger et al. 2008). This suggests
+that persistent disturbances induce changes to macroinvertebrate communities
+(Muehlbauer et al. 2011), which result in assemblages dominated, in addition to the
+resistant taxa, by those that can either quickly recolonise or find alternative refuge if the
+disturbance does not impair the habitat (Niemi et al. 1990).
+Resilient taxa were reflected by the Impact treatment within both the invaded and
+uninvaded rivers. This was particularly reflected by the abundance of taxa such as leeches
+(Hirudinea), earthworms (Oligochaeta) and midges (Chironomidae). Assessment of community
+attributes based on multivariate analysis further indicated the association of the
+leeches, midges and earthworms with Impact treatment in both rivers. These taxa usually
+show little negative response to disturbances (Miller and Crowl 2006), including predation
+(Knapp et al. 2001). Some studies have attributed the resilience of these macroinvertebrate
+taxa to both their lifestyle because they are less active benthic-dwelling deposit-feeders
+that are usually not preyed upon by the invasive predators (Carlisle and Hawkins 1998),
+and indirect positive effects through elimination of their competitors (Knapp et al. 2001;
+Johnson et al. 2009). Maezono et al. (2005) found no evidence of predation pressure on
+these predation-resilient taxa in experimental treatments with non-native largemouth bass
+(Micropterus salmoides) and bluegill sunfish (Lepomis macrochirus) that eliminated largebodied
+taxa in Saitama Prefecture, eastern Japan. In the present study, leeches and midges
+appeared to benefit from predation impact as they were more abundant in the presence of
+catfish relative to its absence, whereas earthworms appeared to be unaffected by either
+treatment. Leeches were unlikely to be negatively affected by the impact because they are
+generally less mobile and tend to cling firmly to substrates by means of posterior sucker.
+Some leeches are generally known to feed on a wide range of prey, whereas other leeches
+are strictly parasitic (Graf et al. 2006; Sket and Trontelj 2008), although there was no
+evidence of the latter in this study. Their high abundance during this study suggests that they were probably detritovorous. Similarly earthworms and midges are detritivores that
+are known to be abundant within impacted habitats because they tend to burrow into or live
+within soft substrata, and benefit from both the elimination of their competitors and
+increased exposure to resources when a detritus-based food web dominates within disturbed
+environments (Knapp et al. 2001; Ruetz et al. 2002; Miller and Crowl 2006; Weyl
+et al. 2010).
+From a disturbance perspective, this study reflected different levels of responses to
+catfish impact within invaded and uninvaded streams. The overall impact patterns within
+the two rivers supports Parkyn and Collierís (2004) observations on press disturbances
+whose initial impact result in immediate changes in communities, as observed in the Brak
+River, before they reach a new level comprising of a less responsive community, or a
+community that is dominated by taxa that adapt quickly to the disturbance, and possible
+maintained following a shift in species composition, as suggested by the patterns observed
+in the Koonap River. Within the Eastern Cape region, the catfish has established in many
+rivers and dams, and the main concern is on both its predation impact and potential to
+influence trophic interrelationships (Kadye and Booth 2012). Macroinvertebrate recolonisation
+and within stream-refugia may be compromised because the catfish can utilise a
+wide range of habitats. This study revealed that the invasive catfish can influence macroinvertebrate
+communities, which may have an effect on trophic dynamics. Efforts should
+be made to protect uninvaded tributaries and, where possible, eradicate the invasive catfish.

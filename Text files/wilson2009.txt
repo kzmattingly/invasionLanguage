@@ -1,0 +1,559 @@
+﻿xabstract
+Aquatic macrophytes play an important role in the survival and proliferation of invertebrates in freshwater ecosystems.
+Epiphytic invertebrate communities may be altered through the replacement of native macrophytes by exotic macrophytes,
+even when the macrophytes are close relatives and have similar morphology. We sampled an invasive exotic
+macrophyte, Eurasian watermilfoil (Myriophyllum spicatum), and native milfoils Myriophyllum sibericum and Myriophyllum
+alterniflorum in four bodies of water in southern Quebec and upstate New York during the summer of 2005. Within
+each waterbody, we compared the abundance, diversity, and community composition of epiphytic macroinvertebrates on
+exotic and native Myriophyllum. In general, both M. sibericum and M. alterniflorum had higher invertebrate diversity and
+higher invertebrate biomass and supported more gastropods than the exotic M. spicatum. In late summer, invertebrate density
+tended to be higher on M. sibericum than on M. spicatum, but lower on M. alterniflorum than on M. spicatum. Our results
+demonstrate that M. spicatum supports macroinvertebrate communities that may differ from those on structurally
+similar native macrophytes, although these differences vary across sites and sampling dates. Thus, the replacement of native
+milfoils by M. spicatum may have indirect effects on aquatic food webs.
+
+xintroduction
+Aquatic macrophytes play key ecological roles in lakes
+and rivers, primarily as a source of primary productivity
+and as a habitat for abundant and diverse faunal communities
+(Kershner and Lodge 1990; Killgore et al. 1991; Toft
+et al. 2003). In particular, submersed macrophyte beds support
+dense communities of invertebrates and thus serve as
+important feeding areas for fish (Rozas and Odum 1988;
+Strayer and Malcom 2007). Such communities are being
+transformed by introductions of invasive exotic macrophytes
+that dominate or replace native macrophytes (Boylen et al.
+1999; Myers and Bazely 2003). Exotic macrophytes can alter
+the physical and chemical environment, particularly
+when their growth form and life history traits differ from
+those of the native species they replace (Carpenter and
+Lodge 1986; Cattaneo et al. 1998; Caraco and Cole 2002).
+However, the effects of macrophyte species replacements
+on aquatic communities remain relatively unexplored (but
+see Keast 1984; Strayer et al. 2003; Toft et al. 2003). It is
+of interest to know if morphologically similar exotic and native
+macrophytes will support similar epiphytic macroinvertebrate
+communities.
+Within a given ecosystem, native macrophytes and their
+associated invertebrates may have interacted over the course
+of their evolution. If shared evolutionary history matters,
+then we would expect native macrophytes to support more
+diverse invertebrate communities than exotic macrophytes
+in North American inland waters because the vast majority
+of freshwater invertebrate species in North America are native
+(Pennak 1989; Merritt and Cummins 1996). Furthermore,
+exotic macrophytes might facilitate the establishment
+and population growth of exotic invertebrates, particularly if
+these species have shared an evolutionary history — a prediction
+of the ‘‘invasional meltdown’’ hypothesis (Simberloff
+and Von Holle 1999). Exotic macrophytes might also act as
+a vector for the introduction of exotic invertebrates (Johnson
+et al. 2001; Toft et al. 2003). For these reasons, we would
+expect to find more exotic invertebrates living on exotic
+macrophytes.
+Physical and chemical properties of aquatic macrophytes
+may influence the abundance, diversity, and community
+composition of epiphytic invertebrates, potentially resulting
+in different invertebrate communities associated with different
+macrophyte species (Cyr and Downing 1988; Chilton
+1990; Cheruvelil et al. 2002). Structurally complex macrophytes
+with finely divided leaves tend to support higher densities
+of epiphytic invertebrates compared with those with
+simple leaves (Krull 1970; Cheruvelil et al. 2000, 2002).
+The chemicals exuded by aquatic macrophytes may also directly
+affect the abundance of certain invertebrates (Marko
+et al. 2005), whereas other exudates may influence the
+growth of epiphytic algae — an important invertebrate food
+source (Wium-Andersen et al. 1982; Cattaneo 1983; Gross
+et al. 1996). Therefore, it follows that even macrophytes
+with similar structure may support contrasting invertebrate
+communities.
+Our objective was to determine if the invasive exotic
+macrophyte Eurasian watermilfoil (Myriophyllum spicatum)
+supports invertebrate communities equivalent in composition,
+diversity, and abundance to those on structurally similar
+native Myriophyllum species. Myriophyllum spicatum
+was introduced into North America in the early 1900s,
+reaching the St. Lawrence River by 1957 (Aiken et al.
+1979; Smith and Barko 1990). It is now distributed across
+North America, where it often outcompetes native milfoils
+and other aquatic macrophytes through crowding and shading
+(Boylen et al. 1999). Milfoils are submersed, canopyforming
+macrophytes that occur either in mixed or monospecific
+beds in ponds, lakes, and lentic areas of large rivers
+(Aiken et al. 1979). Milfoils generally have finely divided,
+feathery leaves arranged in whorls of four around the stem.
+Native milfoils Myriophyllum sibiricum and Myriophyllum
+alterniflorum and the exotic Myriophyllum spicatum are
+very similar in their growth form and leaf morphology
+(Gerber and Les 1994; Crow and Hellquist 2000); M. sibiricum
+and M. spicatum have similar-sized leaves, whereas M.
+alterniflorum has slightly smaller leaves. If leaf structure
+(i.e., complex versus simple leaves) largely determines epiphytic
+invertebrate abundance and diversity, milfoils should
+support similar invertebrate communities. However, assuming
+that biochemical or subtle physical differences between
+these species may provoke adaptations in epiphytic invertebrates
+(Gross et al. 1996; Marko et al. 2005), we hypothesized
+that native species of Myriophyllum support more
+abundant and diverse invertebrate communities than M. spicatum
+because of their shared evolutionary history with native
+invertebrates. Particular attention was given to
+gastropods because of their important contribution to epiphytic
+invertebrate biomass. We also hypothesized that M.
+spicatum supports more abundant and diverse exotic invertebrates
+than native species of Myriophyllum. We tested these
+hypotheses in a multisite field study in which the density,
+biomass, diversity, and community composition of epiphytic
+invertebrates on the exotic M. spicatum were compared with
+native M. sibiricum and M. alterniflorum.
+
+xmethods
+Macrophytes and their associated epiphytic invertebrates
+were sampled on multiple occasions at four sites in eastern
+North America: the Richelieu River and Lac St-Louis (a fluvial
+lake on the St. Lawrence River) in southern Quebec and
+Upper Saranac Lake and Upper Chateaugay Lake in the
+Adirondack State Park in upstate New York (Fig. 1). These
+lakes and rivers represent a range of freshwater habitats in
+which native and exotic Myriophyllum co-occur (Table 1).
+Prior to sampling, we visually surveyed plants in each
+waterbody in June or July and selected a site within each
+where the relative abundance (percent cover) of both native
+and exotic Myriophyllum species was approximately equal.
+All subsequent samples were then taken from the same site.
+In Lac St-Louis and the Richelieu River, we sampled M.
+spicatum and the native M. sibericum, whereas in Saranac
+Lake and Chateaugay Lake, we sampled M. spicatum and
+the native M. alterniflorum. Two weeks prior to sampling,
+Saranac Lake was undergoing a milfoil control program
+wherein M. spicatum was manually harvested at discrete periods
+by divers who took care to leave native macrophytes
+intact and minimize disturbance in the lake. As a result, the
+relative abundance of the two species varied throughout the
+season at this site. At all four waterbodies, we sampled two
+to three times at monthly intervals in the summer of 2005.
+
+At each site, a snorkeler or SCUBA diver collected macrophytes
+and epiphytic invertebrates using a modified
+Downing box sampler, a plexiglas box that encloses plant
+material and associated invertebrates in 6 L of water
+(Downing 1986; Rasmussen 1988). On one side of this box
+is a screen (0.5 mm) to drain water while keeping macroinvertebrates
+and macrophytes inside. Within each site, we
+limited the depth variation at which samples were taken to
+within 1 m. Macrophytes were identified in the field prior
+to sampling. Because M. spicatum and M. sibericum are
+sometimes difficult to distinguish (Crow and Hellquist
+2000), we only sampled at sites where morphological differences
+between the two species were sufficiently pronounced
+to ensure correct identification. At each site, we collected 6–
+10 replicate samples of each macrophyte species, except at
+Saranac Lake where additional samples were taken because
+there were relatively few invertebrates on the macrophytes.
+The number of samples taken at each site depended on the
+density of invertebrates and the availability of macrophytes,
+but sampling effort was equal for both native and exotic
+macrophytes. Samples were taken from the interior of a
+mixed bed of macrophytes at sites within 20 m of the shoreline.
+We made an effort to collect native and exotic macrophytes
+from similar locations within each site. At each site
+on each sampling date, we measured water temperature and
+depth, identified the other macrophyte species present, and
+took water samples that were transported in a cooler to the
+lab within 3 h and kept refrigerated (for <48 h) until their
+pH was measured using a digital meter (AP63 pH meter,
+Accumet Portable Laboratory, Fisher Scientific, Ottawa, Ontario).
+
+In the field, we placed macrophytes from each sample
+into plastic trays and removed loose invertebrates from both
+the tray and sampler using forceps. Invertebrates were immediately
+preserved in 70% ethanol. The macrophytes from
+each sample were then stored in separate plastic bags and
+transported to the lab in a cooler, where they were refrigerated
+and processed within 48 h of collection. Working under
+a dissection microscope, we removed all of the remaining
+invertebrates from the macrophytes using forceps and preserved
+them in 70% ethanol. Macrophytes were subsequently
+rinsed of debris (e.g., silt and marl), blotted to
+remove excess water, dried in an oven at 65 8C for 16 h until
+a stable weight was reached, and then weighed on an
+electronic balance (±0.01 g).
+We identified preserved invertebrates to the lowest taxonomic
+level possible under a dissection microscope. Because
+the mass of individual species and genera was often insignificantly
+small, we measured the wet weight (±0.001 g) of invertebrates
+grouped according to their taxonomic order in
+each sample. The range of biomass was too small to be
+measured with any more accuracy using dry weights.
+Although preservation alters the wet weight of invertebrates,
+all samples were stored in the same conditions (i.e., temperature
+and light) and weighed within the same week to minimize
+error due to desiccation. Invertebrate grouped wet
+weights were measured within <10 s of their removal from
+ethanol after gentle blotting with tissue paper.
+
+Invertebrate density (number of invertebrates per gram of
+plant dry weight) and biomass (wet weight of invertebrates
+per gram of plant dry weight) were calculated for each sample
+and ln-transformed prior to statistical analysis to meet
+assumptions of normality. Homogeneity of variance across
+sampling groups at each site was verified using Levene’s
+test. A repeated-measures analysis of variance (ANOVA)
+was used to compare the mean invertebrate density on native
+and exotic Myriophyllum at each site, with date as the
+within-subjects factor and plant type (native or exotic) as
+the between-subjects factor; the same was done for invertebrate
+biomass. At one site (Richelieu River), a significant
+interaction effect between sampling date and macrophyte
+species was found, which prompted us to run post hoc comparisons
+in each date using Bonferroni-corrected t tests.
+Densities of exotic invertebrate species on native and exotic
+Myriophyllum were compared using repeated-measures ANOVA
+when the abundance of an exotic invertebrate species
+was normally distributed across a site. Otherwise, we used
+two-tailed t tests to compare the density of an exotic invertebrate
+species on each sampling date that density was normally
+distributed — which occurred for all dates except
+when no exotic invertebrates were found on either native or
+exotic macrophytes. All statistical tests were preformed using
+SPSS version 14.0 for Windows (SPSS Inc., Chicago, Illinois).
+To measure invertebrate diversity, we calculated taxa
+richness, the Shannon–Wiener index, and the inverted Simpson
+index. The latter indices are calculated based on both
+taxa richness and evenness, but the Shannon–Wiener index
+is influenced more by taxa richness than by the Simpson index
+(Magurran 2004). For each site, we created individualbased
+Coleman rarefaction curves for taxa richness and accumulation
+curves for Shannon–Wiener and inverse Simpson
+diversity on native and exotic Myriophyllum (Colwell
+2005). The curves were generated separately for native and
+exotic macrophytes at each site and were used to compare
+invertebrate diversity on two species of macrophytes while
+controlling for differences in the total abundance of invertebrates
+on the different macrophyte species. Shannon–Wiener
+diversity and inverse Simpson diversity were calculated
+based on 50 randomizations sampled with replacement to
+generate error bars (Colwell 2005). We also ran a detrended
+correspondence analysis (DCA) to reveal trends in inverte-
+brate community composition at each site, using CANOCO
+version 4.5 (Biometris, Wageningen). Before running a
+DCA, we excluded rare taxa, which were defined as those
+species present in less than three replicate samples at a site
+throughout the season.
+
+xresults
+At three of the four sites, invertebrate biomass was significantly
+higher on native Myriophyllum species than on
+M. spicatum during at least one sampling period in the
+summer (ANOVA, p < 0.05; Fig. 2). In early to midsummer,
+invertebrate biomass was higher on native
+M. sibericum than on M. spicatum in Lac St-Louis by a factor
+of 2.2, whereas from June to August, total invertebrate
+biomass declined on both macrophyte species. In the Richelieu
+River, the invertebrate biomass on M. sibiricum was
+slightly lower than on M. spicatum in early summer but by
+late summer was 2.3 times greater than on M. spicatum. In
+Chateaugay Lake, M. alterniflorum had twice as much invertebrate
+biomass than M. spicatum during August, whereas
+at Saranac Lake, both species had similar invertebrate biomass
+throughout the season. Gastropod biomass, which constituted
+a substantial portion (>60% at three sites) of the
+total invertebrate biomass, was also significantly higher on
+native macrophytes at Lac St-Louis, Chateaugay Lake, and
+Richelieu River sites (ANOVA, p < 0.05). In Saranac Lake,
+M. spicatum and M. alterniflorum supported similar gastropod
+biomass (Fig. 3).
+Within each site, invertebrate density tended to differ on
+native and exotic Myriophyllum, especially in mid- to late
+summer (Fig. 4). Invertebrate density was higher on M. sibericum
+than on M. spicatum (ANOVA, p < 0.05). Mean invertebrate
+density on M. sibericum was higher than on
+M. spicatum by a factor of 1.5 in Lac St-Louis (August)
+and by a factor of 2.2 in the Richelieu River (September).
+Invertebrate density tended to be higher on M. spicatum
+than on M. alterniflorum, although only significantly so at
+Chateaugay Lake (ANOVA, p < 0.05). In August, average
+invertebrate density on M. alterniflorum was lower than on
+M. spicatum by a factor of 2.2 in Chateaugay Lake and by
+a factor of 1.8 in Saranac Lake. The mean body size (estimated
+from the ratio of biomass to density) of invertebrates
+on M. spicatum was generally lower than on
+M. alterniflorum (Figs. 2 and 4).
+
+In general, the two native species of Myriophyllum supported
+either equivalent or greater invertebrate diversity
+than M. spicatum. Invertebrate taxa richness was consistently
+higher on M. alterniflorum than on M. spicatum (p <
+0.05; Fig. 5; Table 2). Invertebrate taxa richness was also
+higher on M. sibericum than on M. spicatum in the Richelieu
+River (p < 0.05), whereas in Lac St-Louis, both macrophytes
+species supported similar taxa richness. Shannon–
+Wiener diversity followed the same pattern as taxa richness
+(Fig. 6; Table 2). The inverse Simpson index showed a similar
+pattern, with the exception of Saranac Lake; at this site,
+M. alterniflorum tended to have higher inverse Simpson diversity
+of invertebrates than M. spicatum, but the difference
+was not significant (Table 2). Thus, across all sites, taxa
+richness, Shannon–Wiener diversity, and the inverse Simpson
+diversity index of invertebrates on native milfoils were
+equal to or significantly higher than on M. spicatum
+(Table 2).
+Although native and exotic Myriophyllum supported many
+of the same invertebrate species, the abundance of certain
+invertebrate groups (e.g., gastropods) was often different on
+each milfoil species. At three of our four sites, both species
+of native Myriophyllum had higher gastropod biomass per
+gram of plant dry weight than M. spicatum (ANOVA, p <
+0.05). The differences between invertebrate community
+composition on M. alterniflorum and M. spicatum were particularly
+distinct in Chateaugay Lake. At this site, detrended
+correspondence analysis showed that samples divided along
+two axes: the first representing plant type, and the second
+representing sampling date (Figs. 7a, 7b). Generally, M. spicatum
+supported many chironomids and oligochaetes,
+whereas M. alterniflorum supported many amphipods and
+gastropods. Invertebrate communities associated with M.
+spicatum were characterized by an abundance of naidid oligochaetes
+(Ni), chironomids (Ch), caddisflies of the hydroptilid
+genus Oxyethira (Hx), and the Eurasian pyralid moth,
+Acentria ephemerella ( = Acentria nivea) (Ac) (Fig. 7b). Invertebrates
+characteristic of M. alterniflorum were the gastropods
+Valvata sincera (Vs) and Amnicola limosa (Am),
+the amphipod Hyallela azteca (Hy), damselflies in the fam-
+ily Coenagrionidae (Co), and caddisflies of the genus Orthotricha
+(Ho). Invertebrate communities were also different in
+early and late summer, with more planarians on both macrophyte
+species in July and more caddisflies in August
+(Fig. 7b). In Saranac Lake, differences in invertebrate communities
+were not clearly defined by either date or macrophyte
+species.
+Invertebrate community composition also differed between
+M. spicatum and M. sibericum in the Richelieu River
+(Figs. 7c, 7d), while such differences were less apparent in
+Lac St-Louis. In the Richelieu River, as in Chateaugay
+Lake, M. spicatum supported many chironomids and oligochaetes,
+whereas M. sibericum supported many amphipods
+and snails. Invertebrate communities characteristic of
+M. spicatum were dominated by chironomids (Ch), oligochaetes
+(Ni, St), and the caddisfly Brachycentrus sp. (Br)
+throughout the sampling period. Invertebrate communities
+on M. sibericum were characterized by the amphipod Hyalella
+azteca (Hy), the gastropods Physa gyrina gyrina (Ph),
+Gyraulus circumstriatus (Gy), and Amnicola limosa (Am),
+the planarian Dugesia tigrina (Du), ostracods (Os), and in
+September, the Eurasian zebra mussel, Dreissena polymorpha
+(Dr). Generally, the invertebrate composition on M. spicatum
+did not vary throughout the season, whereas those on
+M. sibericum changed in each sampling period: in July, M.
+sibericum had many gastropods and amphipods; in August,
+invertebrates were similar to those on M. spicatum, with
+many naidid oligochaetes (Ni), chironomids (Ch), and Brachycentrus
+sp. (Br); in September, M. sibericum supported
+many zebra mussels (Figs. 7c, 7d). In Lac St-Louis, gastropods
+were significantly higher on M. sibericum than on M.
+spicatum (ANOVA, p < 0.05), but otherwise invertebrate
+communities were not clearly differentiated by either date
+or macrophyte species.
+
+Three species of exotic invertebrates were found. The
+Eurasian moth Acentria ephemerella was present at all four
+sites and was higher on M. spicatum than on the native
+Myriophyllum species at every site. In Saranac Lake, we
+found only two specimens of A. ephemerella in one sample
+of M. spicatum and none on M. alterniflorum. In Chateaugay
+Lake, A. ephemerella again was not found on M. alterniflorum
+but was present in 38% of the samples of M.
+spicatum and thus was grouped with M. spicatum in the
+DCA analysis (Figs. 7a, 7b). In the Richelieu River and
+Lac St-Louis, A. ephemerella occurred on both M. sibericum
+and M. spicatum but was more likely to group with
+the Eurasian milfoil in the Richelieu River (Figs. 7c, 7d).
+In the Richelieu River, A. ephemerella was present in 38%
+of the M. spicatum samples and 27% of the M. sibericum
+samples, and in Lac St-Louis, these frequencies were 16%
+and 10%, respectively.
+In Lac St-Louis, the abundance of the Eurasian snail Bithynia
+tentaculata did not differ significantly between M. sibericum
+and M. spicatum on any of the sampling dates
+(Fig. 8a). In the Richelieu River, the density of Dreissena
+polymorpha was significantly higher on M. sibericum than
+on M. spicatum in September after the peak period of zebra
+mussel settlement (t test, p < 0.01; Fig. 8b).
+
+xdiscussion
+Our results show that invertebrate community structure
+can differ substantially on exotic and native milfoils of similar
+morphology. However, the relationship between invertebrate
+abundance on these macrophytes varies throughout the
+summer, with differences in invertebrate density becoming
+more pronounced later in the season. Given that M. spicatum
+grows rapidly in the spring (Grace and Wetzel 1978), it may
+be the first macrophyte species to provide substrate and resources
+to colonizing invertebrates. Indeed, at our sampling
+sites, M. spicatum grew earlier than both species of native
+Myriophyllum, but contrary to the expectation that M. spicatum
+would support more invertebrates early in the summer,
+there was generally no difference in invertebrate density at
+that time. Invertebrates may require a few months to differentially
+colonize macrophyte species, and it may be that
+subtle differences among macrophytes (e.g., involving
+chemical exudates or epiphytic algal communities; Balci
+and Kennedy 2003; Marko et al. 2005) have significant effects
+on invertebrate abundance only by late summer.
+Different species of aquatic macrophytes support epiphytic
+algal communities that may differ greatly in abundance
+and taxonomic composition (Blindow 1987; Cattaneo
+et al. 1998; Laugaste and Reunanen 2005). Algae growing
+on macrophytes in the St. Lawrence River and surrounding
+areas reach peak biomass by mid-June or July (Cattaneo
+1983; Gosselain et al. 2005), and so we would expect differences
+in the epiphytic algal communities of native and
+exotic Myriophyllum to be more apparent in midsummer.
+Contrasting abundances or composition of epiphytic algae
+on macrophyte species could drive dissimilarities in epiphytic
+invertebrate communities that are structured around
+algae as a food source; for example, Cattaneo (1983) found
+that the abundance of invertebrate grazers increased substantially
+a short time after peak epiphyte biomass.
+Our study examined gastropod biomass in particular, because
+gastropods graze on epiphytic algae and consume
+macrophytes directly (Lodge 1986; Sheldon 1987; Bro¨nmark
+1989) and also they comprised a substantial proportion of
+invertebrate biomass in our samples. They had significantly
+higher biomass on native Myriophyllum species at three of
+the four sites. Myriophyllum sibericum and M. spicatum
+have very similar structure and approximately equal plant
+surface area per gram of dry plant weight (Gerber and Les
+1994), so differences in gastropod biomass between the two
+species cannot be attributed to the area available for colonization
+by gastropods or epiphytic algae. Given that gastropod
+abundance may vary with epiphytic algal biomass and
+composition (Lodge 1986; Bro¨nmark 1989), differences in
+the epiphytes themselves on native and exotic milfoils may
+be driving this result. Whatever the mechanism, gastropods
+have been found to preferentially inhabit certain macrophyte
+species over others, even when these macrophytes are
+closely related (Pip and Stewart 1976; Sheldon 1987).
+The mean body size of invertebrates was also lower on
+M. spicatum than on M. alterniflorum, as indicated by an
+equal or higher invertebrate biomass combined with a lower
+invertebrate density on M. alterniflorum. This result may reflect
+differences in invertebrate community composition, as
+M. alterniflorum supported larger snails and amphipods,
+whereas M. spicatum was dominated by smaller annelids
+and chironomids.
+
+Submersed aquatic macrophytes are often grouped into
+two main structural categories based on leaf morphology:
+dissected (complex) leaves or entire (simple) leaves
+(Krecker 1939; Cheruvelil et al. 2002). By these standards,
+the three species of Myriophyllum in our study are similar
+in structure as all have dissected leaves arranged in whorls
+of four around the stem. On a finer scale, however, there
+are structural differences among species. Myriophyllum alterniflorum
+tends to branch more frequently and has slightly
+smaller leaves than either M. spicatum or M. sibericum.
+Myriophyllum alterniflorum also has significantly higher
+specific leaf area (surface area of leaf per dry weight of
+leaf) and surface area to volume ratios than the other species,
+whereas M. spicatum and M. sibericum have very similar
+specific leaf area and leaf surface area to volume ratios
+(Gerber and Les 1994). In addition, dry leaf mass comprises
+~55% of the total dry weight of leaves and shoots of M. alterniflorum
+and ~65% for both M. spicatum and M. sibericum
+(Gerber and Les 1994). Hence, subtle differences in
+leaf morphology exist between M. alterniflorum and M. spicatum,
+but M. spicatum and M. sibericum have quite similar
+leaf morphology. The range of whole plant surface area –
+biomass ratios on M. spicatum and M. sibericum also overlap,
+varying between 320 and 1205 cm2g–1 on M. spicatum
+(Kowalczewski 1975; Sher-Kaul et al. 1995) and between
+534 and 761 cm2g–1 on M. sibericum (Gerrish and Bristow
+1979; Armstrong et al. 2003). Thus, although subtle structural
+differences may account for the dissimilarity in invertebrate
+communities on M. alterniflorum and M. spicatum,
+they are less likely to be responsible for differences in invertebrates
+on M. sibericum and M. spicatum.
+It seems probable that characteristics other than plant
+structure influence invertebrate abundance and diversity on
+these macrophytes. Chemical exudates may affect the relative
+palatability of exotic and native milfoils to herbivores
+and the growth of epiphytic algae. Marko et al. (2005) found
+that the milfoil weevil, a specialist herbivore native to North
+America, prefers M. spicatum to its native host M. sibericum
+because of differences in the amount of glycerol and uracil
+exuded by the two species. Previous studies have also found
+that M. spicatum releases chemicals that deter the growth of
+certain types of epiphytes and that these chemicals may dif-
+fer in either the type or the amount exuded relative to other
+species of Myriophyllum (Gross et al. 1996).
+
+The invasional meltdown hypothesis postulates that previously
+established exotic species facilitate the invasion or
+proliferation of other exotic species (Simberloff and Von
+Holle 1999) and thus predicts that M. spicatum would support
+more exotic invertebrates than either M. sibericum or
+M. alterniflorum. However, this prediction is not supported
+by the results of our study. The abundance of the Eurasian
+snail Bithynia tentaculata was not significantly different on
+native and exotic macrophytes. Bithynia tentaculata established
+in the Great Lakes and St. Lawrence River basin
+more than a century ago, several decades prior to the invasion
+of M. spicatum (Aiken et al. 1979; Mills et al. 1993),
+and therefore may have had sufficient time to adapt to native
+macrophytes. In the Richelieu River, the native M. sibericum
+supported more zebra mussels than M. spicatum. It
+seems unlikely that differences in plant exudates or epiphytic
+algae would have caused this result, as zebra mussels
+are filter feeders with larvae that are planktonic and eventually
+settle on solid surfaces, including submersed macrophytes.
+Given that larval dispersal is largely determined by
+vagaries of water currents (Lewandowski 1982), it is likely
+that small-scale variation in hydrology within a site determines
+the degree to which the mussels colonize macrophytes.
+The Eurasian moth A. ephemerella was the only exotic invertebrate
+that appeared to preferentially colonize M. spicatum.
+The density of A. ephemerella was slightly higher on
+M. spicatum than on either native species of Myriophyllum
+at all four sites, and DCA analysis showed that this moth
+tended to group with M. spicatum in the Richelieu River
+and Chateaugay Lake. Not a single A. ephemerella was collected
+from samples of M. alterniflorum in either Chateaugay
+Lake or Saranac Lake, whereas at both of these sites,
+A. ephemerella was found on M. spicatum, perhaps indicating
+that A. ephemerella prefers to colonize the exotic milfoil.
+This moth was introduced from Europe and was first
+discovered in the St. Lawrence River in 1927 (Berg 1942;
+Sheppard 1945). It is a generalist herbivore that feeds on
+many species of macrophytes (Buckingham and Ross 1981)
+but has been considered as a possible biological control
+agent for M. spicatum as it may cause less damage to native
+macrophytes (Johnson et al. 1997).
+
+To our knowledge, this is the first study to compare multispecies
+invertebrate assemblages on native and exotic species
+of Myriophyllum. Previous studies that examined differences
+between epiphytic invertebrates on M. spicatum and native
+macrophytes found conflicting results (Table 3), perhaps because
+each compared M. spicatum with macrophytes of differing
+phylogeny, structure, and life history traits.
+The establishment of M. spicatum can reduce the density
+of many other species of macrophytes, including native milfoils
+(Grace and Wetzel 1978; Smith and Barko 1990; Boylen
+et al. 1999). In situations where M. spicatum supports
+lower invertebrate diversity and biomass than its congeners,
+the displacement of native macrophytes by M. spicatum
+could conceivably cause habitat-wide alterations in epiphytic
+invertebrate communities that have consequences for higher
+trophic levels. Reductions in the diversity, biomass, and
+mean body size of epiphytic invertebrates may impact fish
+and other vertebrate predators by lowering the quality and
+accessibility of prey (Werner and Hall 1974; Eggers 1977;
+Kovecses et al. 2005). Overall, these results suggest that the
+impacts of M. spicatum invasion on epiphytic invertebrates
+may have multiple indirect effects at local and habitat-wide
+scales. Structurally similar, even congeneric, macrophytes
+do not necessarily provide equivalent habitat for invertebrate
+communities, which appear to be sensitive to subtle differences
+between macrophyte species.

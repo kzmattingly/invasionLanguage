@@ -1,0 +1,648 @@
+﻿xabstract The predacious invertebrate Bythotrephes longimanus has now invaded >90 freshwater lakes in North America.
+There is some evidence that B. longimanus has a negative effect on summer zooplankton species richness; however,
+no study has examined the effect of B. longimanus throughout the ice-free season in more than one lake. We
+visited 10 invaded and 4 reference lakes every 2 weeks from May to September, collecting B. longimanus, crustacean
+zooplankton, and water chemistry samples. Composite samples were pooled across the study season for each lake.
+Bythotrephes longimanus significantly reduced cladoceran species richness, diversity, and abundance, and the total zooplankton
+community also exhibited decreased richness, diversity, and abundance. Seasonal sampling was better than
+synoptic surveys at detecting changes in abundance, but richness estimates were similar. As B. longimanus continues to
+spread across lake landscapes, we expect it will have profound impacts on local and regional richness and species distribution
+patterns.
+xintroduction Bythotrephes longimanus Leydig (Crustacea, Onychopoda)
+is a predatory zooplankton species that has invaded numerous
+lakes in North America. First detected in Lake Ontario
+in 1982 (Mills et al. 2003), B. longimanus has spread to all
+of the Laurentian Great Lakes and >90 inland lakes in Ontario
+(C. Gamble, Ontario Federation of Anglers and
+Hunters, 4601 Guthrie Dr., Peterborough, ON K9J 8L5,
+Canada, unpublished data), Minnesota (M. Brown, Department
+of Biology, University of Minnesota–Duluth, Duluth,
+MN 55812, USA, unpublished data), and Michigan
+(Jarnagin et al. 2000) and reservoirs in Ohio (Ferry and
+Wright 2002). Bythotrephes longimanus occupies lakes that
+span a gradient of temperature, salinity, pH, and depth
+within its native range in Eurasia (Grigorovich et al. 1998).
+Humans are an important dispersal vector for B. longimanus,
+and with its broad tolerance of environmental conditions, it
+appears to have the potential to invade a large number of
+lakes in North America (MacIsaac et al. 2000, 2004).
+Our understanding of the impacts of B. longimanus on inland
+aquatic communities in North America is incomplete.
+Invasion events are unpredictable, thus little empirical data
+documenting the effects of invasion on recipient communities
+exists. However, a single case study of long-term biweekly
+records of both pre- and post-invasion planktonic
+communities from Harp Lake, Ontario, has revealed evidence
+of negative effects of B. longimanus on crustacean 
+zooplankton species richness and cladoceran zooplankton
+abundance since its invasion in 1993 (Yan et al. 2001,
+2002).
+Although trends seen in Harp Lake suggest that the invasion
+of B. longimanus will have important consequences for
+zooplankton communities, effects of predation can be sitespecific
+(Posey and Hines 1991). Broader spatial surveys are
+necessary to determine how universal the impacts of
+B. longimanus are in temperate lakes. A study comparing 17
+invaded boreal shield lakes to 13 uninvaded reference lakes
+provided strong evidence that the patterns of invasion observed
+in Harp Lake were also expressed in other lakes of
+differing water chemistry, morphometry, and species assemblages
+(Boudreau and Yan 2003). However, sampling for
+this study was limited to a single midsummer vertical zooplankton
+haul, which can underestimate the annual species
+pool by 50% (Arnott et al. 1998). As well, B. longimanus
+abundances generally peak in midsummer in boreal lakes
+(J. Young and E. Parrott, Department of Biology, York University,
+Toronto, ON M3J 1P3, Canada, unpublished data);
+however, they tend to be absent from the pelagic zone in the
+early and latter months of the ice-free season. If some zooplankton
+species are able to take advantage of vernal and autumnal
+temporal refuges that exist when B. longimanus are
+rare or absent from the water column, then Boudreau and
+Yan (2003) may have overestimated the effect of
+B. longimanus on annual zooplankton species pools. For example,
+some copepods may change the timing of reproduction
+in order to reduce overlap with predators that peak later
+in the summer (Hairston, Jr., and Walton 1986), and Daphnia
+clones have exhibited earlier age at maturation in the
+presence of fish kairomones (Sakwiska 2002).
+The primary objective of this study was to examine the
+effects of B. longimanus on ice-free season averages of
+species richness, diversity, evenness, and abundance of
+crustacean zooplankton in boreal shield lakes. We expected
+that B. longimanus would cause declines in all these indices
+of community structure. However, because of the inclusion
+of time periods when B. longimanus was absent from
+the water column, there may be temporal refuges available
+for some species, during which time they might prosper.
+We used the persistence of B. longimanus in the water column
+of our study lakes as a way to assess the availability of
+a temporal refuge for zooplankton. Therefore, high persistence
+would suggest that there is a short time available for
+zooplankton to avoid B. longimanus and we would expect
+to see greater negative effects compared with times of low
+persistence of the invader, when zooplankton would have
+an opportunity to survive in the absence of predation by
+this invertebrate. Hence, our seasonal purview might actually
+detect reduced effects in comparison with those observed
+during peak B. longimanus abundance (Boudreau
+and Yan 2003; Barbiero and Tuchman 2004), or indeed no
+effects at all.
+A secondary objective of this study was to assess the relationship
+between species richness and several environmental
+factors that are typically related to the number of crustacean
+zooplankton species in a lake. In general, species richness is
+positively related to lake area (Dodson 1992) and has a
+hump-shaped relationship with lake productivity (Dodson et
+al. 2000). In addition, invertebrate predators have been
+shown to be important in structuring zooplankton communities.
+In a survey of 60 lakes on the Precambrian Shield,
+Keller and Conlon (1994) found that a number of zooplankton
+species common to the region, such as Daphnia galeata
+mendotae and Diaphanosoma birgei, were completely absent
+from fishless lakes containing the phantom midge larvae,
+Chaoborus americanus, a factor attributed to
+invertebrate predation. Although our lakes were not chosen
+to span large gradients of area or productivity, we believe
+that B. longimanus may alter these conventional relationships
+and will be an important driver of ecosystem change
+
+
+
+xmethods
+Twenty lakes in the districts of Muskoka, Haliburton, and
+Parry Sound in southcentral Ontario, Canada, were chosen
+for the survey. The lakes are oligo- to meso-trophic and
+circumneutral in pH, as is typical of many boreal shield
+lakes (Table 1). All of the study lakes have forested catchments
+(mixed deciduous and coniferous) and small littoral
+zones and are used primarily for recreation. Cisco
+(Coregonus artedi), rainbow smelt (Osmerus mordax), lake
+whitefish (Coregonus clupeaformis), and yellow perch
+(Perca flavescens) are the primary planktivorous fish in
+these lakes (Ontario Ministry of Natural Resources: S.
+Scholten and E. McIntyre, District of Parry Sound, Parry
+Sound, ON P2A 1S4, Canada, and S. Sandstrom, District of
+Muskoka, Bracebridge, ON P1L 1W9, Canada, unpublished
+data). All the study lakes were chosen to have a similar glacial
+history, and therefore, there were equal probabilities of
+including zooplankton species dispersed by glacial retreat.
+Although our intention was to have equal numbers of invaded
+and reference lakes, B. longimanus was detected in
+six of our planned reference lakes, reducing their number to
+four. Hence, we reported results from 14 study lakes, 10 invaded
+and 4 reference.
+Crustacean zooplankton were sampled every 2 weeks
+from May to September 2003 (n = 9) at a deep hole in each
+lake, located each time using GPS (global positioning system).
+Sample volume varied slightly among dates because of
+small differences in station depth (Table 1). A single zooplankton
+sample was taken by pulling a conical net (mesh
+size 110 μm, 0.5 m diameter) through the water column,
+starting 5 m off the lake bottom. Samples were preserved in
+5.5% sugared and buffered formalin, and following preservation,
+a seasonal composite sample was obtained by combining
+equal proportions from each of the nine biweekly
+zooplankton samples. Rotifers were sampled from the
+epilimnion in a concurrent study with an integrated tube
+sampler (2.5 cm inner diameter) (Hovius et al. 2006). On
+each sampling date, B. longimanus was sampled at five stations
+in each lake, including the deep hole, with a conical
+net (mesh size 400 μm, 0.5 m diameter). The stations were
+<1 km apart. A single haul was taken at each station from
+5 m off the lake bottom to the water surface. Mean ice-free
+B. longimanus abundance in the 10 invaded lakes was estimated
+by averaging B. longimanus abundance in the five
+replicate hauls in each lake over eight sampling dates from
+June to September 2003. Only eight dates were used, as
+B. longimanus samples were not taken in May. The number
+of sampling dates when B. longimanus was present and its
+persistence in invaded lakes are described (Table 2). Persistence
+was defined as the number of consecutive sampling
+dates that B. longimanus abundance in the lake was
+>5 individuals·m–3. It has been suggested that there may be
+an effect threshold of B. longimanus at abundances of 3–
+5 individuals·m–3, especially with regards to their main prey,
+cladocerans (Boudreau and Yan 2003). The higher threshold
+value (5 individuals·m–3) was chosen, as it is a more conservative 
+estimation of B. longimanus effects on the zooplankton
+community.
+Zooplankton were enumerated using a protocol designed
+to ensure reasonable representation of rare species (Girard
+and Reid 1990). Subsamples were generated with a Folsom
+plankton splitter, and a mean of 336 individuals (standard
+deviation = 109) was enumerated. The remainder of the sample
+was scanned for rare species. Juvenile copepods were excluded
+from all analyses, except total abundance.
+Zooplankton were identified and counted on a Leica MZ
+12.5 dissecting microscope. Because of uncertainty in identification,
+Bosmina (Bosmina) freyi and Bosmina (Bosmina)
+liederi (Taylor et al. 2002) were pooled, as were Chydorus
+sphaericus and C. brevilabris (Frey 1980). Species presence
+or absence and taxonomic revisions are listed in Table S1.2
+Water chemistry samples were taken the week of 14 July
+2003. An integrated tube sampler (2.5 cm inner diameter) was
+used to collect water from the epilimnion, which was filtered
+through 80 μm mesh to remove large particles, especially zooplankton.
+Calcium, dissolved organic carbon (DOC), conductivity,
+pH, and total phosphorus (TP) were analyzed following
+Ontario Ministry of the Environment (1983) protocols (Table
+1). Chlorophyll a (chl a) samples were collected every
+2 weeks by concentrating a known volume of epilimnetic water
+onto a 0.7 μm glass fibre filter, extracting for 24 h in
+methanol, and analyzing with a fluorometer (Table 2) (TD
+700; Turner Designs, Sunnyvale, California) (Welschmeyer
+1994).
+We used two methods to assess the adequacy of our zooplankton
+richness estimates. First, we compared observed
+species richness, the number of species found in the composite
+sample, with Chao’s index (SChao1), a nonparametric
+measure recommended for estimating species richness, because
+it does not require knowledge of the species abundance
+distribution (Magurran 2004). SChao1 was calculated by
+where Sobs is the number of species observed in the sample,
+F1 is the number of species in the sample that are represented
+by a single individual, and F2 is the number of species
+that are represented by two individuals (Chao 1984).
+This estimator will exceed observed species richness as the
+relative frequency of singletons increases, providing an estimate
+of total richness based on the chance that some rare
+species might be missed (Magurran 2004). The second approach
+to assessing our richness estimates was to determine
+if our counting effort was sufficient to sample all species
+present by examining the relationship between number of individuals
+counted and richness. The difference in species
+richness using Chao’s index was negligible (t = –0.05, p =
+0.96), as was the relationship between number of individuals
+counted and richness (r2 = 0.10, p = 0.29), suggesting that
+our observed richness is probably representative of the number
+of crustacean zooplankton species in the pelagic region
+of the lakes. Bythotrephes longimanus was not included in
+richness estimates.
+Species diversity and evenness were assessed using the
+Shannon–Wiener diversity index and Smith and Wilson’s
+(1996) evenness index, Evar, respectively. The values of Evar fall
+between 0 (minimum evenness) and 1 (maximum evenness),
+where ni is the number of individuals of species i, nj is the
+number of individuals of species j, and S is the total number
+of species. Evar is recommended as the best evenness measure
+for general use (Smith and Wilson 1996).
+Multivariate ordination techniques were used to evaluate
+species abundances in relation to environmental variables
+and the presence of B. longimanus. A preliminary examination
+using correspondence analysis suggested that linear ordination
+analysis was appropriate, thus redundancy analysis
+(RDA) was performed using Canoco 4.5 (ter Braak and
+Šmilauer 2002). Bythotrephes longimanus was entered as a
+categorical variable to maximize differences between the
+levels of the treatments. Environmental variables were assessed
+for collinearity if the variance inflation factor was
+>10 (Quinn and Keough 2002). All of the significant predictors
+were independent. All species represented by adults
+were included in the analysis, and abundances were logtransformed
+to reduce the influence of dominant species.
+Forward selection identified the variables that explained the
+most variance in species data, which were then tested for
+significance using a Monte Carlo permutation test (499 permutations).
+Multiple regression analyses were performed to determine
+what proportion of the variation in species richness data
+could be explained by B. longimanus abundance and persistence,
+presence or absence of dominant planktivorous fish
+species, and environmental variables (i.e., TP, pH, maximum
+depth, and lake area), using the best subsets procedure
+(StatSoft Inc. 2001). Planktivorous fish data were provided
+from sampling by the Ontario Ministry of Natural Resources,
+but because of uncertainty in quantifying fish abundance,
+the major planktivores were placed in categories of
+abundance (Table 2). For the multiple regression analysis,
+abundances were converted to categorical numerical values
+(absent = 0, absent but detected in the past = 0, very low =
+1, low = 2, medium = 3, high = 4) and averaged for each
+lake to create an index of fish density. Yellow perch could
+only be classed as present or absent, and as they were present
+in all lakes, they were excluded from analyses. Collinearity of
+environmental predictor variables was detected if the variance
+inflation factor of any predictors was >10 (Quinn and Keough
+2002). Chl a was removed from the analysis because of
+collinearity with TP. Assumptions of normality, heterogeneity
+of variance, and independence were also assessed. The best
+models were chosen by using several criteria: adjusted r2,
+Mallow’s Cp, and Akaike’s information criterion (AIC)
+(Quinn and Keough 2002). When evaluating the models,
+smaller values of Mallow’s Cp and AIC indicate the best fit.
+
+xresults
+Physical and chemical characteristics did not differ between
+invaded and uninvaded lakes, with the exception of total
+phosphorus and chl a, which were, on average,
+3.33 μgL–1 and 0.94 μgL–1 greater in the uninvaded lakes,
+respectively (TP, t = –2.45, p = 0.03; chl a, t = –4.83, p <
+0.01) (Tables 1, 2). There were no significant differences between
+invaded and uninvaded lake calcium (log(x + 1)-
+transformed), DOC, conductivity, and pH (Table 1). There
+was also no difference in general lake morphometry, as
+both maximum depth (Zmax) and surface area (log(x + 1)-
+transformed) were similar between lake categories (Table 1).
+In comparisons of invaded and noninvaded lakes, we
+found that there was a large reduction in observed species
+richness of zooplankton taxa in invaded lakes, from an average
+of 15.0 in uninvaded lakes down to 11.6 species in invaded
+lakes (t = –2.12, p = 0.06) (Fig. 1). This decline was
+largely due to changes in cladoceran zooplankton, which
+decreased on average by four species in invaded lakes (t =
+–3.28, p < 0.01) (Fig. 1). Copepod richness was similar in
+invaded and reference lakes (t = 0.76, p = 0.46) (Fig. 1).
+There was no difference in Shannon–Wiener diversity in total
+zooplankton (t = –1.31, p = 0.22) and copepods (t =
+–0.40, p = 0.70) in invaded lakes compared with uninvaded
+lakes, but there was a significant reduction in the diversity of
+cladoceran zooplankton (t = –2.17, p = 0.05) (Fig. 1). Evenness
+of the total zooplankton community (t = 0.40, p = 0.70)
+was unaffected by B. longimanus invasion, whereas
+cladocerans experienced a slight increase with invasion (t =
+1.89, p = 0.08), and copepods showed a slight decrease in
+the B. longimanus lakes (t = –1.89, p = 0.08) (Fig. 1). Invasion
+had a negative effect on overall zooplankton (t = –1.91,
+p = 0.08) and copepod abundance (t = –1.91, p = 0.08), resulting
+in a twofold difference for both groups. In addition,
+there was a decline in cladoceran abundance in invaded
+lakes (t = –2.86, p = 0.01), where an almost fourfold difference
+was observed (Fig. 1).
+The relationship between B. longimanus abundance and
+zooplankton species richness and abundance was inconsistent
+across the invaded study lakes (Fig. 2). The deviations
+in species richness and abundance from the reference lake
+condition generally increased with higher abundance of
+B. longimanus, but some invaded lakes actually had greater
+richness and abundance than uninvaded lakes. When we explicitly
+considered changes in zooplankton communities relative
+to the abundance of B. longimanus in the lakes using
+linear regression, we found that crustacean zooplankton species
+richness (r2 = 0.04, p = 0.52), diversity (r2 < 0.01, p =
+0.93), and abundance (r2 = 0.06, p = 0.42) were not related
+to the mean abundance of B. longimanus. Likewise,
+cladoceran species richness (r2 = 0.13, p = 0.20), diversity
+(r2 = 0.11, p = 0.26), and abundance (r2 = 0.15, p = 0.14)
+were not related to mean B. longimanus abundance.
+RDA captured a significant amount of variance (p < 0.01)
+in zooplankton species abundances, with B. longimanus
+presence or absence explaining 43% of total species variation,
+and Zmax (22%), chl a (20%), and TP (15%) contributing
+to the remainder of species abundance variation (Fig. 3).
+The first axis (λ1 = 0.22, p = 0.03) contrasts the presence
+with the absence of B. longimanus, as most of the invaded
+lakes fall on the same side as the B. longimanus vector, and
+all of the reference lakes are on the opposite side of the gradient.
+A number of species were negatively associated with
+the invader (e.g., D. birgei, Mesocyclops edax, Holopedium
+gibberum), and only one species, the glacial relict Senecella
+calanoides, was positively correlated with B. longimanus
+presence. The second axis (λ2 = 0.10) seems to be related to
+lake productivity, as some cladoceran taxa (Bosmina
+(Bosmina) spp., Daphnia retrocurva, and D. birgei) and omnivorous
+cyclopoids (M. edax and Orthocyclops modestus)
+were positively associated with the TP and chl a vectors.
+The majority of zooplankton taxa were, on average, in
+lower abundance in invaded lakes than in reference lakes
+(Fig. 4). The cladoceran taxa tended to fall further below the
+1:1 line than did the copepods, especially smaller-bodied
+taxa such as Chydorus spp. and Eubosmina coregoni. A few
+larger taxa, such as S. calanoides, Cyclops scutifer, and
+Daphnia dubia, were more abundant in invaded lakes than
+reference lakes, on average, but for the most part, both largeand
+small-bodied zooplankton were less abundant in
+B. longimanus invaded lakes.
+Species richness tended to increase with longer persistence
+times of B. longimanus populations throughout the
+summer (r2 = 0.31, p = 0.09), suggesting that there is no
+temporal refuge available to zooplankton. Using multiple regression
+analysis, we found that all of the most parsimonious
+models to explain species richness had negative
+associations of species richness with mean B. longimanus
+abundance, but that zooplankton richness was positively re-
+lated to B. longimanus persistence in high abundances in the
+lake (Table 3). In both models, species richness was positively
+related to duration of B. longimanus persistence and
+TP and negatively related to mean B. longimanus
+abundance. In addition, the best model selected by AIC had
+positive associations of zooplankton richness with area and
+pH. The presence of fish planktivore species had no effect
+on zooplankton species richness.
+
+xdiscussion
+Our study has demonstrated that B. longimanus can have
+negative effects on zooplankton communities through parts
+of the ice-free season, reducing species richness, diversity,
+and abundance throughout the ice-free season. This negative
+effect was exacerbated in the cladocerans, which showed
+significant declines in richness (on average, four less species
+in invaded lakes), abundance (a fourfold decline), and diversity.
+These results are in agreement with the declines in zooplankton
+richness observed in Harp Lake (Yan et al. 2002),
+Muskoka lakes (Boudreau and Yan 2003), and Lakes Michigan,
+Erie, and Huron (Barbiero and Tuchman 2004)
+(Table 4). Reductions in the abundance of zooplankton have
+been shown experimentally (Strecker and Arnott 2005) and
+in Harp Lake (Yan et al. 2001); however, some recent studies
+have failed to detect changes in total zooplankton community
+abundance (Boudreau and Yan 2003; Barbiero and
+Tuchman 2004) (Table 4). The samples in Boudreau and
+Yan’s (2003) study were taken on a single sampling date,
+and this snapshot approach does not take into account seasonal
+dynamics, as was done in our study and Yan et al.
+(2001). Barbiero and Tuchman’s (2004) samples were only
+taken for 1 month starting 1 August and, thus, do not reflect
+zooplankton abundance in late spring, early summer, and
+fall. A comparison of our study with others over a shorter
+period of time suggests that short-term synoptic surveys may
+adequately document changes in some measures of zooplankton
+community structure associated with B. longimanus invasion.
+For example, the effect of B. longimanus on species
+richness seems to be consistent between different sampling
+routines, but longer studies, especially in smaller inland lakes,
+that encompass the entire season seem to capture changes in
+total abundance better than single sampling dates (Table 4).
+Several zooplankton taxa showed steep declines in
+B. longimanus invaded lakes. As past studies have documented
+the general negative effect that B. longimanus has on
+many cladoceran taxa (Boudreau and Yan 2003), we expected
+to observe this in our study as well. As expected, the
+abundances of a number of common cladoceran species,
+such as Bosmina (Bosmina) spp., and D. birgei, were severely
+reduced: on average, a decrease of greater than four
+times in invaded lakes. The larger species Daphnia
+longiremis, Daphnia mendotae, and H. gibberum also had
+lower abundances in invaded lakes, suggesting that body size
+alone does not provide refuge from predation. As well, it appears
+as though some hypolimnetic species, such as
+D. longiremis (Keller and Conlon 1994), do not escape predation.
+These patterns are generally in agreement with Boudreau
+and Yan (2003), Yan et al. (2001), and Barbiero and
+Tuchman (2004), although there seem to be some systemspecific
+differences. For example, D. mendotae has remained
+unaffected by B. longimanus in Harp Lake (Yan et al. 2001;
+Boudreau and Yan 2003; this study) but has declined in
+other lakes (Barbiero and Tuchman 2004). Unexpectedly,
+several common copepod taxa (Leptodiaptomus minutus,
+Diacyclops bicuspidatus thomasi, and M. edax) in our study
+were also negatively affected by B. longimanus. Previously,
+only M. edax was thought to be affected by invasion
+(Boudreau and Yan 2003; Barbiero and Tuchman 2004).
+Given that copepods are in high abundance in the late spring
+in these lakes, before B. longimanus emerges from resting
+eggs and rapidly builds up populations through parthenogenic
+reproduction (A. Strecker, unpublished data), it is especially
+surprising that they declined, as their earlier
+dominance in lakes would suggest that they should be able
+to use a temporal refuge from B. longimanus predation.
+However, longer-lived slow-reproducing copepods may actually
+be more susceptible to predation by B. longimanus because
+they are unable to reproduce as quickly as
+cladocerans. Thus, the copepods are less able to respond to
+low predator abundances, as B. longimanus is known to have
+extremely patchy spatial and temporal dynamics (J. Young
+and E. Parrott, Department of Biology, York University, Toronto,
+ON M3J 1P3, Canada, unpublished data) and, therefore,
+cannot take advantage of this window of opportunity.
+This further supports the notion that to adequately assess
+changes in total and individual zooplankton abundances resulting
+from B. longimanus invasion, longer-term surveys
+are necessary.
+Our study suggests that most species are not able to take
+advantage of a temporal refuge from B. longimanus predation.
+We found that longer persistence times of B. longimanus
+resulted in higher species richness, the opposite of what we
+would expect to see if a temporal refuge was indeed available.
+Bythotrephes longimanus was detected in invaded lakes
+on an average of seven sampling dates, or about 14 weeks
+during the summer. This is likely a conservative estimate, as
+B. longimanus was present in 90% of invaded lakes on the
+final sampling date in September and has shown the ability
+to persist into late fall in some lakes (J. Young, Department
+of Biology, York University, Toronto, ON M3J 1P3, Canada,
+personal communication). Thus, in most lakes, the only op-
+portunity for a temporal refuge is in the spring, and our evidence
+suggests that this window of opportunity is not being
+used by zooplankton, perhaps because water temperatures
+are cool and food availability is low in these oligomesotrophic
+lakes. If zooplankton were indeed using this
+temporal refuge, we would expect to see no effect of
+B. longimanus on zooplankton richness and abundance, especially
+on copepods, which are typically in high numbers in
+these lakes in late spring, thus having reduced temporal
+overlap with the invader. However, this was not the case:
+overall zooplankton abundance and richness were reduced,
+and several copepod taxa were also negatively affected by
+B. longimanus. Another potential explanation is that there
+are competitive interactions occurring between B. longimanus
+and its predators. Mysis relicta and other zooplanktivores
+may benefit from longer B. longimanus persistence times by
+switching from smaller zooplankton to the larger invader,
+thus freeing the zooplankton from intense predation. Gut
+content analysis of M. relicta collected from several of our
+study lakes has revealed the presence of B. longimanus body
+parts, thus it seems that the invader can also be a prey item
+for other invertebrate predators (Nordin 2005).
+There was a substantial amount of among-lake variation
+in the responses of the zooplankton communities to
+B. longimanus invasion. This variability appears to be unrelated
+to the actual abundance of B. longimanus, which was
+not a strong predictor of zooplankton richness or abundance
+in invaded lakes. There is some evidence that zooplankton
+can adapt their morphologies in the presence of B. longimanus
+(Bungartz and Branstrator 2003), suggesting that the
+abundance of the invader may play a role in eliciting behavioural
+and morphological responses in the zooplankton community
+and thus increasing species survival. Two of the
+invaded lakes, Peninsula and Vernon, had zooplankton communities
+that more closely resembled communities in noninvaded
+reference lakes. Both lakes had relatively high mean
+B. longimanus abundance (7.8 and 4.3 individuals·m–3, respectively)
+and had richness values that fell more into the
+range of uninvaded lakes. When these lakes were excluded
+from regression analyses, mean B. longimanus abundance
+had a significant negative effect on species richness (r2 =
+0.53, p < 0.01). The redundancy analysis also suggests that
+Peninsula and Vernon lakes have species compositions that
+are more similar to those of reference lakes than invaded
+lakes. We are unsure why the zooplankton community composition
+of these two lakes is seemingly unaffected by invasion.
+One possibility is that B. longimanus is feeding in a
+density-dependent manner, reducing the abundances of certain
+preferred species to low densities, and then switching to
+higher-density prey items that can be caught more easily.
+Thus, B. longimanus is not reducing any species to the point
+where it can no longer be detected. Consistent with this hypothesis,
+the evenness of Peninsula and Vernon lakes was
+higher than the average of the invaded lakes, and the diversity
+was greater than the average diversity of the uninvaded
+lakes. The abundances of the zooplankton communities of
+both of these lakes are below the average of other invaded
+lakes, so although it seems that B. longimanus is reducing
+zooplankton abundance, species richness remains unaffected.
+However, if B. longimanus feeding is indeed densitydependent
+in these lakes, then why is this not occurring in
+all of the invaded lakes? It is possible that zooplankton reproduction
+in these lakes was high enough to fend off the
+loss of species richness. Yan et al. (1991) showed that for
+the rotifer Keratella taurocephala, high rates of production
+could be maintained, even under intense predation by species
+of the invertebrate Chaoborus. Vernon Lake had high
+secondary production relative to B. longimanus consumption
+(A. Strecker, unpublished data), so this may, in part, explain
+the lack of effect on species richness.
+Other potential explanations for the high levels of species
+richness observed in Peninsula and Vernon lakes are that
+they had different morphological, biotic, and chemical conditions
+than the rest of the invaded lakes, and thus, there existed
+some advantage that allowed coexistence. For instance,
+a deep-water spatial refuge in the lake can afford some species
+a certain amount of protection from predation. However,
+Peninsula and Vernon lakes were the two shallowest invaded
+lakes, suggesting that they, in fact, had a smaller spatial refuge
+than other invaded lakes. Another possibility is that Peninsula
+and Vernon lakes were less clear than other invaded
+lakes, thus offering zooplankton a dark-water refuge. This
+may be the case for Vernon Lake, which had higher DOC
+and lower Secchi disc values than did other invaded lakes,
+but not for Peninsula Lake, which had values that were
+within the range of the other invaded lakes. Thus, this variability
+that we observed between study lakes in response to
+an invasion of B. longimanus may be due to a combination
+of factors related to characteristics of the invader, i.e., feeding
+strategy, and to characteristics of the lakes, such as productivity
+and lake clarity.
+The importance of lake area and productivity in determining
+crustacean zooplankton species richness in temperate
+freshwater lakes has been well established (Dodson 1992;
+Dodson et al. 2000). Surface area had little predictive power
+in our analysis of factors influencing species richness in
+lakes invaded by B. longimanus, but other variables related
+to the invader were much better predictors of zooplankton
+richness. Although we did not measure primary productivity,
+TP can be used as a surrogate for productivity (see Leibold
+1999). A caveat of our study is that uninvaded lakes had
+slightly higher levels of TP and chl a than did the invaded
+lakes, but in our oligo-mesotrophic systems, these differences
+are small and are unlikely to lead to the observed differences
+in species richness. In addition, our multiple
+regression analyses suggest that although TP is an important
+predictor, B. longimanus explains far more variation in species
+richness. Although B. longimanus abundance by itself
+was a poor predictor of species richness, when combined
+with persistence of the invader in multiple regression analysis,
+the explanatory power of the two variables was much
+greater. It is possible that the result from the linear regression
+was being influenced by the two outlier values, Vernon
+and Peninsula lakes, while these values became less important
+with more predictive variables. In fact, neither of these
+values had an exceptionally large influence on the final multiple
+regression models, as measured by Cook’s distance statistic
+(Quinn and Keough 2002).
+The composition of the fish community can also have substantial
+effects on the structure of the zooplankton community
+(Brooks and Dodson 1965). Although there appear to be
+some differences in the abundance of planktivores present in
+invaded versus reference lakes, our data suggest that
+B. longimanus is still having a substantial negative effect. If
+fish were in fact responsible for the effects that we observed,
+then we would expect larger zooplankton species to be more
+negatively affected than small taxa. However, reductions in
+species richness were proportionately greater for small species
+(28%) than for large-bodied zooplankton (14%), which
+supports our assertion that B. longimanus is largely responsible
+for the observed reduction in zooplankton species richness.
+Other variables, such as pH (Keller and Pitblado 1984),
+calcium (Schell et al. 2001; Wærvågen et al. 2002), and
+postglacial history of the lake (Dadswell 1974; Carter et al.
+1980), can be important predictors of zooplankton richness.
+However, neither pH nor calcium were significantly different
+in B. longimanus lakes compared with reference lakes,
+and all of our study lakes have a similar postglacial history
+because of the presence of M. relicta. Thus, these factors did
+not influence our results.
+There is now a significant body of evidence to suggest
+that B. longimanus invasions cause changes to the zooplankton
+communities of freshwater lakes. This is especially true
+of cladoceran taxa, which seem to take the brunt of B. longimanus
+predation, as our study has exhibited striking declines
+in their richness, abundance, and diversity in invaded lakes.
+A concurrent study of the rotifer composition and abundance
+of the same 14 lakes showed a positive relationship between
+rotifer and B. longimanus abundance, perhaps as a result of
+reduced competition with herbivorous cladocerans for phytoplankton
+prey (Hovius et al. 2006). These results are somewhat
+surprising, as B. longimanus is an invertebrate predator
+that has several native functional analogues in these boreal
+lakes, including M. relicta, Leptodora kindtii, Chaoborus
+spp., and water mites (Arachnida, Hydrachnidia). It could be
+argued that B. longimanus occupies a unique feeding niche;
+however, this seems unlikely as its dietary overlap with other
+invertebrate predators is high (McNaught et al. 2004; Young
+and Riessen 2005). Bythotrephes longimanus employs several
+effective strategies to maintain high feeding rates in
+these boreal lakes: (i) although it is consumed by some fish
+species, presumably the long tail spine of B. longimanus decreases
+predation impact; (ii) it lacks large amplitude migrations
+(Yan and Pawson 1997), unlike many other invertebrate
+predators (Chaoborus, Mysis, Leptodora), so it is continuously
+in regions of high prey density; (iii) it reproduces
+parthenogenically, unlike mites, which are sexual and have
+slower reproductive times, so it can quickly respond to increases
+in food resources; and (iv) its neonates are larger, allowing
+them to exploit a larger range of prey sizes, unlike
+the small-bodied clutches of Leptodora (Branstrator 2005).
+What is clear is that not all lakes respond to B. longimanus
+invasion in the same way. Our study has highlighted that
+there are substantial among-lake differences in the effect of
+the invader on richness, abundance, and diversity of zooplankton
+communities.
+As B. longimanus continues to spread across the landscape
+of North America, it seems likely that it will be an important
+new factor in determining the zooplankton
+composition of freshwater lakes. This is certain to have implications
+for regional species richness, as our results suggest
+that certain species, such as the ubiquitous taxa
+D. birgei and M. edax, have reduced abundances in invaded
+lakes across the landscape, leaving few populations that may
+act as sources to disperse to new locales.

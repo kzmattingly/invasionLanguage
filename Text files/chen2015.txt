@@ -1,0 +1,561 @@
+xabstract
+Soil properties and soil–atmosphere fluxes of CO2, CH4 and N2O from four coastal wetlands were studied
+throughout the year, namely, native Kandelia obovata mangrove forest vs. exotic Sonneratia apetala mangrove
+forest, and native Cyperus malaccensis salt marsh vs. exotic Spartina alterniflora salt marsh. Soils of the four wetlands
+were all net sources of greenhouse gases while Sonneratia forest contributed the most with a total soil–atmosphere
+CO2-equivalent flux of 137.27 mg CO2 m−2 h−1, which is 69.23%, 99.75% and 44.56% higher than that
+of Kandelia, Cyperus and Spartina, respectively. The high underground biomass and distinctive root structure of
+Sonneratia might be responsible for its high greenhouse gas emission fromthe soil. Soils in Spartina marsh emitted
+the second largest amount of total greenhouse gases but it ranked first in emitting trace greenhouse gases.
+Annual average CH4 and N2O fluxes from Spartina soil were 13.77 and 1.14 μmol m−2 h−1, respectively, which
+are 2.08 and 1.46 times that of Kandelia, 1.03 and 1.15 times of Sonneratia, and 1.74 and 1.02 times of Cyperus,
+respectively. Spartina has longer growing season and higher productivity than native marshes which might increase
+greenhouse gas emission in cold seasons. Exotic wetland soils had higher carbon stock as compared to
+their respective native counterparts but their carbon stocks were offset by a larger proportion because of their
+higher greenhouse gas emissions. Annual total soil–atmosphere fluxes of greenhouse gases reduced soil carbon
+burial benefits by 8.1%, 9.5%, 6.4% and 7.2% for Kandelia, Sonneratia, Cyperus and Spartina, respectively, which
+narrowed down the gaps in net soil carbon stock between native and exotic wetlands. The results indicated
+that the invasion of exoticwetland plants might convert local coastal soils into a considerable atmospheric source
+of greenhouse gases although they at the same time increase soil carbon accumulation.
+
+xintroduction
+Spartina alterniflora (smooth cordgrass, hereafter referred as Spartina),
+a perennial grass native to North America, was introduced to China in
+1979 to stabilize sediments in coastal areas (Qin and Zhong, 1992). In
+the past few decades, this species is widely reported to have invaded
+into mangrove forests (e.g., Zhang et al., 2012; Li et al., 2014) and suppressed
+native saltmarshes (e.g., Tong et al., 2012, 2014) and it is now becoming
+a dominant vegetation type over most of the Chinese coast
+covering a latitude range of more than 19°. A further transition of coastal
+wetlands from mangrove forests to saltmarshes is forecasted in Southeast
+China under the combined effects of global climatic changes and anthropogenic
+disturbances which increasingly fragment mangrove habitats
+and create hospitable environment for salt marshes (Zhang et al., 2012;
+Li et al., 2014). In spite of extensive studies documenting the spatial and
+temporal dynamics of coastal landscape between native mangrove forests
+and Spartina marshes (e.g., McKee et al., 2007; McKee and Rooth, 2008;
+Perry and Mendelssohn, 2009), only a few have ever discussed the invasive
+mechanisms of Spartina into local wetlands (e.g., Zhang et al., 2012;
+Li et al., 2014), and even less is known about its ecological implications,
+especially on carbon cycling in these regions.
+Carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O) are
+three primary greenhouse gases exchanged between wetland soil and
+the atmosphere. The soil–atmosphere fluxes of greenhouse gases CO2
+and CH4 are integral components of carbon cycling. Coastal wetlands
+are among the most productive and carbon rich ecosystems (Kirwan
+and Megonigal, 2013), but the anoxic and reduced environments in
+wetlands favor denitrification and methanogenesis in which large
+quantity of trace greenhouse gases (CH4 and N2O) as well as CO2 is generated,
+which renders coastal wetland soils a major source to atmospheric
+greenhouse gases (e.g., Allen et al., 2007; Chen et al., 2012).
+The fluxes of greenhouse gases can offset part or all of any carbon burial
+benefit of coastal environments (Andrews et al., 2006; Luisetti et al.,
+2011), given the strong Global Warming Potential (GWP) of trace
+greenhouse gases CH4 and N2O, which is 23 and 296 times that of CO2
+on a molecular basis over 100 year time scale, respectively (IPCC,
+2007; Shindell et al., 2009). In Blackwater estuary of the UK, the fluxes
+of CH4 and N2O reduce the carbon burial benefit of intertidal wetlands
+by up to 49% (Adams et al., 2012). With global warming continuing, it
+is forecasted that more carbon will be released from tropical ecosystems
+including mangrove forests and salt marshes to the atmosphere in the
+form of greenhouse gases (IPCC, 2013).
+Cyperus malaccensis (shichito matgrass, hereafter referred as
+Cyperus) is a dominant native species of salt marshes in Southeast
+China. The aggressive invasion of Spartina into Cyperus communities in
+Min River Estuary has greatly increased the emission of CH4 and CO2
+from this region by facilitating both the production and the transport
+of these gases through Spartina plants (Tong et al., 2012, 2014). However,
+to the best of our knowledge, no research has ever compared the
+emission of all three primary greenhouse gases simultaneously from invasive
+saltmarshes with native marshes or with mangrove forests. With
+the ever-growing expansion of Spartina marshes and the continuous decline
+of mangrove forests in China, it is therefore urgent to evaluate the
+impacts of such large-scale vegetation shifts on greenhouse gas emission
+from coastal regions.
+On the other hand, in order to compensate mangrove loss and restore
+degraded mangrove forests, several exotic mangrove species
+have been introduced to China over the past three decades, the most
+widely used of which is Sonneratia apetala (hereafter referred as
+Sonneratia), a fast-growing mangrove species native to Bangladesh. It
+is reported that the total area of Sonneratia forests in China has reached
+3800 ha accounting formore than 50% of replanted mangroves in China
+(Chen et al., 2009). Mature Sonneratia trees could be as tall as 15 m,
+much taller than most native mangrove species, and the dense canopy
+poses great shading effects on adjacent native forests (Lu et al., 2014).
+Moreover, it is reported that this exotic mangrove species is now
+spreading out steadily from their original sites into native mangrove forests
+(Ren et al., 2009; Lu et al., 2014). Due to its fast-growing nature,
+Sonneratia trees demonstrate greater carbon accumulation potential
+than many native mangrove species by sequestering larger amounts of
+carbon in biomass and sediments (Liao et al., 1990; Ren et al., 2008,
+2010), and for this reason, Sonneratia is favored for projects aiming at
+promoting coastal carbon accumulation (Chen et al., 2009). On the
+other hand, the litterfall from Sonneratia was reported to have lower
+carbon to nitrogen ratio than native mangroves which speeds up carbon
+cycling in these regions (Lu et al., 2014). However, there is no published
+research which has ever attempted to quantify the emission of three
+greenhouse gases from these replanted Sonneratia forests. Without
+counting to what extent the carbon accumulation capacity is offset by
+greenhouse gas fluxes, it could not be decided whether the introduction
+of this species would bring significant carbon burial benefits to coastal
+environments.
+Kandelia obovata (hereafter referred as Kandelia) is one of the most
+dominant mangrove species in Southeast China and is vastly planted
+in coastal areas for mangrove restoration. In Jiulong River Estuary,
+replanted Sonneratia forests and native Kandelia forests locate next to
+each other. On the seaward side of the mangrove margin, naturally
+occurring Cyperus marshes and Spartina marshes mosaically colonize
+the intertidal areas and extend their cover toward nearest the sea. Vegetation
+composition and thermal and hydrological conditions are two
+key factors regulating the exchanges of greenhouse gases between wetland
+soil and the atmosphere (e.g., Berglund and Berglund, 2011; Chen
+et al., 2012). In Jiulong River Estuary, the four different vegetation
+types, native Kandelia forest vs. alien Sonneratia forest and native
+Cyperus marsh vs. invasive Spartina marsh, experience similar tidal influence
+and weather conditions which gives us natural advantages to
+study the influences of vegetation types on soil–atmosphere fluxes of
+greenhouse gases. In this research,we simultaneously studied the fluxes
+of three greenhouse gases (CO2, CH4 and N2O) and soil properties
+throughout the year from the four adjacent wetlands dominated by
+Kandelia forest, Sonneratia forest, Cyperus marsh and Spartina marsh, respectively.
+This study is aimed to test the following two hypotheses,
+(1) the invasion and introduction of exotic species into local ecosystems
+will greatly promote the soil–atmosphere fluxes of greenhouse gases in
+coastal regions and (2) soil carbon stock will increase with the invasion
+of more productive exotic vegetations.
+
+xmethods
+2.1. Site description
+The study area is located in the Jiulong River Estuary Mangrove Reserve
+(117°54′E, 24°23′N) in the monsoonal subtropics of Southeast
+China (Fig. 1). The climate of this region is warm and wet,with an average
+annual temperature of 21 °C and average annual precipitation of
+1371 mm, most of which falls between April and September. Tide pattern
+in this region is typically semi-diurnal tides with an average tide
+range of 2.98 m and seawater salinity of 17.12 ppt. The four vegetation
+types, namely, native Kandelia forest, exotic Sonneratia forest, native
+Cyperus marsh and exotic Spartina marsh are adjacent under the same
+intertidal elevation and thus experience similar tidal influence (Fig. 1).
+Native Kandelia forest and Cyperus marsh have long existed in this region
+while exotic Sonneratia forest was introduced in 1997. The
+Sonneratia forest is now mature with closed canopy and many seedlings
+were found established near and under the canopy of adjacent Kandelia
+forest. Spartina invaded into this intertidal area after 2000 and has replaced
+part of native Cyperus marsh since then and is now expanding
+its distribution aggressively toward the mangrove margin. Soils in this
+region were rather muddy consisting of more than 80% silt particles
+and soil water content varied within a narrow range between 42% and
+52%. Soil porosity ranged from 45% to 59% with many benthic borrows
+distributed on soil surface resulting from the activities of benthic
+fauna. Because of seawater inundation, soils in these wetlands were anoxic
+(redox potential Eh ranging from −158.5 to 11.2 mv) and slightly
+acidic (pH ranging from6.13 to 6.85)with an average porewater salinity
+fluctuating between 16.78 ppt in summer and 17.47 ppt in winter. The
+four study sites, each representing one of the four vegetation types,
+were set at least 10m apart from each other so as to avoid edge effects,
+and vegetation in each site was monoculture. Each site was then divided
+into three transects perpendicular to the coast with a distance about
+10m away from each other. Pilot experiments were taken on December
+2nd, 2012 in each transect for every vegetation type to test the homogeneity
+of soil properties from seawards to landwards. Eight soil cores
+with the depth and diameter of 10 cm were collected at intervals of
+1.5 to 2.0 m from seawards to landwards within each transect, and the
+results indicated that soil properties including soil texture, salinity, porosity,
+pH, Eh, nutrient contents (total carbon content, total nitrogen
+content and total phosphorus content), temperature and water content
+were homogenous with no significant differences detected across intertidal
+area or along coastal line within each site.
+Stand structure of Kandelia forest and Sonneratia forest were studied
+by randomly setting three 5m× 5m quadrats within each site. Density
+(individualsm−2), diameter at breast height (DBH, cm) and tree height
+(m) of every individual tree within each quadrat were recorded
+(Table 1). As to the community structure of Cyperus and Spartina
+marshes, three 0.5 m × 0.5 m permanent quadrats were set randomly
+within each site by marking the quadrat boundary with thin red cloth.
+The height (m) of 10 randomly selected shoots and the total number
+of stems within each quadrat were measured and recorded in January
+15 (winter), April 13 (spring), July 11 (summer) and October 8 (autumn),
+respectively (Table 1).
+2.2. Gas sampling and flux measurement
+Gas samplings were carried out on the fourth day after the largest
+spring tide in January, April, July and October of 2013, respectively,
+each of which corresponds to local climate of winter, spring, summer
+and autumn. Gas samples were collected simultaneously from the four
+sites following the enclosed chamber technique described by Chen
+et al. (2010) and all samplings were done 2 h before the lowest ebb
+tide (Chen et al., 2010). To minimize the disturbance by human activity
+while sampling, a wooden plank was deployed within each site one day
+before sampling. A total of three vented static chambers were deployed
+within each site with one in each transect. The static chambers were
+made of clear Perspex with a sharpened base to aid insertion into coastal
+sediments. The chambers were cylindrical with a bottom radius of 5 cm
+and a height of 17 cm. A metal vent tube with a diameter of 1 mm was
+fitted on the side surface of the cylinder (about 8 cm above the ground)
+to allow equalization of pressure perturbations between the chamber and
+ambient atmospheres, and silicone putty was used to ensure a gas tight
+seal around the vent tube. The gas sampling hole was on top of the chamber
+with a diameter of 3 cm. After the chamber was inserted into the soil,
+the hole was gently plugged with a rubber stopper and sealed by silicone
+putty. Gas samples were collected via 10 ml glass syringe by penetrating
+the rubber with the attached hypodermic needle into the chamber. In
+Cyperus marsh, Spartina marsh and Kandelia forest, the soil surface covered
+by chambers was free of vegetation or benthic burrows, while in
+Sonneratia forest, short slim aboveground pneumatophores of mature
+Sonneratia trees occupied the soil surface at a density of 235.2 ± 3.2 per
+square meter. Therefore, two or three pneumatophores were covered
+under each chamber in Sonneratia forest. Before sampling, the open end
+of the chamber was gently inserted 2 cm into the soil, and a thermometer
+was inserted next to the chamber 5 cm into the soil to record soil temperature
+(Liu et al., 2006). The devices were stabilized for 30 s before sealing
+the sampling hole with a rubber and silicone putty. Pilot experiments indicated
+that the concentration of greenhouse gases in the static chamber
+increased linearly within about the first 50 min. Therefore, 5ml gas samples
+were collected from each chamber at intervals of 15 min. The gas
+samples were then transported immediately to dark airtight containers
+and analyzed within 12 h by a gas chromatography (GC) technique to determine
+the soil–atmosphere fluxes of three greenhouse gases.
+The concentration of N2O was measured by the GC system (Agilent
+7890A) equipped with a 63Ni electron capture detector (ECD) and a
+RT-Q Plot column, and the carrier gas was helium at a flow rate of
+6.5 ml min−1. Temperatures of the injector, column and detector were
+100 °C, 70 °C and 320 °C, respectively, according to the standards set
+by Li et al. (2004) which were proved sensitive to low concentrations
+of N2O. The concentrations of CH4 and CO2 were analyzed by the same
+GC system equipped with a thermal conductivity detector (TCD) and a
+Poropak-Q column. Nitrogen was used as carrier gas at a flow rate of
+20 mlmin−1 and the temperatures for the injector, column and detector
+were 80 °C, 50 °C and 80 °C, respectively (Chen et al., 2011). The concentration
+of greenhouse gases was then determined by comparing the
+peak area of gas samples with that of standard curves. The relative standard
+deviations of replicate standard measurements were 2.8%, 2.7%
+and 2.4% for CO2, CH4 and N2O, respectively (Chen et al., 2011).
+The soil–atmosphere flux (F, molm−2 h−1) of each greenhouse gas
+was finalized by following the formula:
+F ¼ VΔM=Aρ ð1Þ
+where V (m3) is the air volume left within the closed chamber after the
+open end of the chamber was inserted into the sediment; ΔM (h−1) is
+the difference in gas concentration within the chamber; A (m2) is the
+surface area of sediment covered by the chamber and ρ (m3 mol−1) is
+the volume of gas per mol under the atmospheric pressure then.
+CO2-equivalent greenhouse gas fluxes (Fe, mg CO2m−2 h−1) ofN2O
+and CH4 were determined following the formula:
+Fe ¼ F M  GMP ð2Þ
+where F is the flux of greenhouse gas, M is the molecular weight of the
+greenhouse gas andGMP represents the global warming potential of the
+greenhouse gas when compared to CO2 over a 100 year time scale,
+which is 296 for N2O (IPCC, 2007) and 23 for CH4 (Shindell et al.,
+2009), respectively.
+2.3. Soil sampling and soil property measurement
+Soil sampling followed immediately after gas sampling was completed.
+Two soil cores (0–10 cm) under each chamber were collected
+by hand-operated soil samplers (5 cm in diameter), one for the measurement
+of root biomass while the other for soil properties. Live
+roots of plants were carefully washed, separated from dead ones and
+dried at 60 °C until reaching constant weight. Analyses of soil properties
+all followed the standard methods described by Page et al. (1982). One
+third of fresh soil samples were used for measurements of water content,
+NO3
+−-N and NH4
++-N contents while the remaining was air dried
+and sieved through a 2 mm sieve. Soil pH was determined by the soil
+pH meter (Hanna HI 9025) and total organic carbon (TOC)was calculated
+according to the loss on ignition at 550 °C. Contents of NO3
+−-N, NH4
++-
+N, total Kjeldahl nitrogen (TKN) and total phosphorus (TP) were analyzed
+by a flow injection analyzer (Futura II, Alliance Instruments).
+The manuscript presented four occasions of soil–atmosphere greenhouse
+gas flux measurements in four adjacent coastal ecosystems. This
+study is pseudo-replicated because of the difficulty of finding three or
+more comparable sites in this kind of environment.We felt it necessary
+for us to remind readers to view this study critically.
+2.4. Statistical analysis
+All data were expressed as means±standard deviation of three replicates.
+The data for each variable was tested for normality and homogeneous
+variances, and logarithmic transformation of data was taken if
+necessary before testing with analysis of variance (ANOVA). Soil properties
+and fluxes of greenhouse gases of each season were compared
+among four vegetation types using one-way ANOVA. Soil properties
+and flux of each greenhouse gas was analyzed by two-way ANOVA
+with vegetation type and season as fixed factors. If any difference was
+significant at p b 0.05, Tukey's HSD comparisons were used to locate
+where the difference lies. Pearson correlation coefficients were calculated
+to indicate the relationship between soil properties and greenhouse
+gas fluxes. All statistic analyses were processed by MATLAB 7.0 (The
+MathWorks, Inc.).
+
+xresults
+3.1. Soil properties
+Soil temperature in salt marshes was generally higher than that in
+mangrove forests, but no statistic difference was detected between wetland
+types in all seasons except in summer when soil temperature
+showed the highest of the year (Fig. 2). Soil water content was highest
+in Sonneratia forest while no differences were found among the other
+three vegetation types. Similarly, root biomass in Sonneratia forest was
+more than twice as high as those in other vegetations. Soil pH did not
+show constant trend with vegetation or season. Soil pH differed significantly
+in summer and autumn between mangrove forests and salt
+marshes while no significant differences were detected in the other
+two seasons.
+Soil total organic carbon (TOC) content was generally higher in wetlands
+occupied by exotic Sonneratia and Spartina than those dominated
+by native Kandelia or Cyperus (Fig. 3). As to soil total nitrogen (TKN)
+content, no significant differences were found among vegetations
+while significant seasonal trends were detected with the highest value
+occurring either in summer or autumn for all vegetation types
+(Table 2). Soil NO3
+−-N content and NH4
++-N content were both higher
+in mangrove forests than marshes while they differed in the seasonal
+tendency. The highest value of NO3
+−-N generally occurred in autumn
+and winter while the highest value of NH4
++-N showed in summer and
+autumn. Similarly, the total phosphorus (TP) content was higher in
+summer and autumn than the other two seasons with greater value occurring
+in exotic wetlands than native ones.
+3.2. Greenhouse gas fluxes
+Both vegetation types and seasons had significant impacts on soil–
+atmosphere flux of greenhouse gases (Table 3). When compared between
+two different vegetation types of the same wetland type, the
+soil of exotic forest emitted much greater amount of N2O than native
+forest all year round, while the atmospheric flux of N2O from two
+marsh types did not follow constant tendency (Fig. 4). Total emission
+of N2O from all wetlands peaked in spring and summer. Similarly,
+when it comes to atmospheric flux of CH4, soils of invasive wetlands
+showed significantly higher emission than native ones. Sonneratia forest
+had the highest soil–atmosphere flux of CO2, followed by Spartina
+marsh, Kandelia forest and Cyperus marsh with the highest value occurring
+either in spring or summer. Atmospheric flux of N2O was positively
+correlated to soil temperature, water content, TOC and TP while
+negatively affected by soil pH and NO3ˉ-N content (Table 4). Similarly,
+soil water content, TOC, NH4
++-N and TP contents were positively related
+with fluxes of CH4 and CO2.
+When all greenhouse gas fluxes were converted to CO2-equivalent
+value, the greatest contributor to greenhouse effects was CO2, followed
+by N2O and CH4 (Table 5). When compared among vegetation types,
+Sonneratia forest had the highest annual accumulative CO2-equivalent
+fluxes of three gases, which is 69.2%, 99.8% and 44.6% higher than that
+in Kandelia forest, Cyperus marsh and Spartina marsh, respectively. The
+highest accumulative value of CO2-equivalent fluxes of three greenhouse
+gases occurred in summer for Sonneratia, Cyperus, and Spartina
+but in spring for Kandelia forest.
+
+xdiscussion
+Tropical and subtropical coastal wetlands, represented by mangrove
+forests and salt marshes, are among the most productive ecosystems on
+earth (Lunstrum and Chen, 2014). Since these ecosystems are frequently
+inundated by sea water, soils of coastal wetlands are anoxic, acidic
+and of high salinity which effectively slows down nutrient turnover
+leading to considerable accumulation of organic matter within the ecosystems
+(e.g., Sánchez-Andrés et al., 2010; Nordhaus et al., 2011). It is
+estimated that 12–20% of total terrestrial carbon is stored in wetland
+soils, taking into account the fact that wetlands only represent less
+than 5% of the total land area of earth (IPCC, 2007). On the other hand,
+the organic-matter rich and anoxic environment in coastal soils favors
+various microbial processes including nitrification, denitrification and
+methanogenesis,which produce and emit large quantity of trace greenhouse
+gases as well as CO2 to the atmosphere (Chen et al., 2010, 2011,
+2012). For these reasons, coastal wetland soils are traditionally regarded
+as major contributors to atmospheric greenhouse gases (e.g., Allen et al.,
+2007; Chen et al., 2012). In recent years, however, with the accelerating
+of sea level rise and land use changes, uncertainties emerge around the
+question of whether coastal wetland soils function as an atmospheric
+source or sink of greenhouse gases. The evaluation of coastal soil's
+potential to uptake or emit greenhouse gases is further complicated
+by rapid vegetation shifts due to species invasion in these areas,
+where 24% of the world's most invasive plants are colonizing their
+new habitat and reshaping landscape formation (Zedler and Kercher,
+2004).
+Vegetation acts as a key control on the spatial and temporal variation
+of soil–atmosphere fluxes of greenhouse gases by influencing the production,
+oxidation and transport of gases from deep in the soil (Hirota
+et al., 2004; Koelbener et al., 2010; Tong et al., 2012).While a large proportion
+of greenhouse gases emitted from wetland soils is due to underground
+microbiological processes, the growth of vegetation modifies
+soil properties which strongly affects microbial activities (Chen et al.,
+2012). In this study, soil properties including soil water content, temperature,
+root biomass, TOC, NO3ˉ-N, NH4
++-N and TP differed significantly
+with vegetation types (Figs. 2 and 3; Table 2) and accordingly, fluxes
+of greenhouse gases showed significant variations among the four vegetation
+types.
+The soils under these four vegetations types were all a net source of
+greenhouse gases throughout the year,while alien Sonneratia forest and
+Spartina marsh had significantly higher greenhouse gas emission than
+their respective native counterparts Kandelia and Cyperus (Fig. 4),
+which supports our first hypothesis. Besides, soil organic carbon stock
+was also found significantly higher in the two alien vegetations although
+they were relatively young as opposed to native vegetations
+which accords well with our second hypothesis.
+CO2 is the main form of greenhouse gas exchanged between local
+soils and the atmosphere with its annual average flux several magnitudes
+higher than that of CH4 and N2O, which is in well accordance
+with the results by Tong et al. (2012, 2014) in Cyperus and Spartina codominated
+marshes in Min River Estuary and by Chen et al. (2010,
+2011, 2012) in Kandelia-dominated mangrove forests in Hong Kong.
+Since trace greenhouse gases of CH4 and N2O have higher Global
+Warming Potential (GWP) than CO2, the fluxes of all three greenhouse
+gases were converted to CO2-equivalent fluxes on a 100 year time scale
+to compare their respective contribution to GWP of this region. On an
+annual average basis, the contribution of CO2, N2O and CH4 to GWP was
+74.7–-81.1%, 9.3–21.1% and 3.0–5.3%, respectively (Table 5),which differs
+from some agro-ecosystems where N2O dominated the GWP contribution
+(Mosier et al., 2005) but accords well with the observations in many mangrove
+forests in South China (Chen et al., 2010), indicating that CO2 is the
+primary contributor of local wetland soils to global warming.
+Soil–atmosphere flux of CO2 ranged from 0.85 to 3.20 mmolm−2 h−1
+in this area, in broad agreement with other static chamber measurements
+in mangrove forests of China (0.56–20.56 mmol CO2m−2 h−1, Chen et al.,
+2010) but significantly higher than that from the secondary mangrove
+forests of eastern Thailand (0.027–0.052 mmol CO2 m−2 h−1,
+Poungparn et al., 2009). The flux of CO2 showed significant spatial variations with
+the highest annual average value occurring in Sonneratia forest
+and the lowest in Cyperus marsh. It is widely accepted that the production
+and emission of CO2 from wetland soils is closely controlled by plants
+(e.g., Christensen et al., 2003; Tong et al., 2014). Apart from directly
+adding to CO2 emission by root respiration, plants provide substrate for
+heterotrophic respiration by excreting labile carbohydrates as exudates
+and root debris which is related to above and underground biomass
+(Jones et al., 2004). In the present study, CO2 flux was found to be positively
+correlated with root biomass (r=0.733, p b 0.01) and soil TOC content
+(r = 0.500, p b 0.05). Among the four vegetation types, Sonneratia
+forest had the highest root biomass and TOC content although the density
+of plants was the lowest, which partly explained the significantly higher
+CO2 flux from Sonneratia forest than the others. Additionally, different
+from salt marshes or Kandelia forest whose roots are mostly under the
+soil surface, Sonneratia had distinctive pneumatophores which project
+out from the soil surface with high density and spread out as far as 5 m
+away from the nearest tree. These pencil-like pneumatophores connect
+the underground roots directly with the atmosphere allowing rapid diffusion
+of gases from e.g., CO2 and CH4 and into e.g., O2 deep soil through the
+air-filled aerenchyma tissue (Purvaja et al., 2004; Purnobasuki and
+Suzuki, 2005; Penha-Lopes et al., 2010). Previous studies indicate that
+pneumatophores are more efficient in exchanging gases than other
+forms of mangrove roots (Kreuzwieser et al., 2003) and the presence of
+pneumatophores could increase the emission of greenhouse gases several
+fold in some tropical mangrove wetlands (Kitaya et al., 2002; Kristensen
+et al., 2008; Penha-Lopes et al., 2010). The extensive pneumatophores
+in Sonneratia forest might act as an efficient pathway for CO2 to escape
+from local micro-environment and reduce the consumption of CO2 by
+soil bacteria (Chen et al., 2010)which collectively lead to a high CO2 emission
+from Sonneratia soils.
+The second largest source of greenhouse gases is the soil of Spartina
+marsh which has an annual average CO2-equivalent flux 17% higher
+than Kandelia soil and 38% higher than native Cyperus marsh soil
+(Table 5). Similarly, higher soil–atmosphere fluxes of greenhouse
+gases frominvasive Spartina marsheswas also reported inMin River Estuary
+than native Phragmites australis and Cyperus marshes (Tong et al.,
+2012, 2014) and in Yangtze River Estuary than native Suaeda salsa,
+Scirpus mariqueter and Cyperus marshes (Chung et al., 2004; Cheng
+et al., 2007; Zhang et al., 2010). Tong et al. (2012) summarized two
+properties of Spartina responsible for its high emission potential of
+greenhouse gases. One is due to its high net primary productivity and
+the other is its superior capacity of transporting O2 through its well developed
+aerenchyma tissue to underground roots and rhizosphere
+for aerobic respiration. In the present study, similar higher soil TOC
+and TKN contents were also found in Spartina marshes than native mangrove
+forests or salt marshes, which suggested the contribution of high
+productivity of Spartina to greenhouse gas production.
+Cyperus marsh had the lowest fluxes of annual average greenhouse
+gases among the four vegetations while showing the most significant
+seasonality (p b 0.001). Spartina and Cyperus are both herbaceous, but
+Spartina is from the perennial grass family which has a longer growing
+season than native Cyperus. It is widely recognized that the soil–atmosphere
+fluxes of greenhouse gases were strongly influenced by plant
+size and live aboveground biomass (e.g., Chanton et al., 1997; Greenup
+et al., 2000; Kutzbach et al., 2004). Spartina is a C4 plant and has much
+taller stems and more leaves than Cyperus in the study area (Table 1).
+Although the fluxes of greenhouse gases were always higher in Spartina
+than Cyperus marsh throughout the year, the greatest difference in
+greenhouse gas emission occurred in winter when aboveground parts
+of Cyperus began to wither. If more Cyperus marshes are to be replaced
+by perennial Spartina, winter fluxes of greenhouse gases might increase
+significantly in this region.
+Trace greenhouse gases CH4 and N2O contribute about 20% and 6% to
+the greenhouse effects on a global scale, respectively (IPCC, 2001). In the
+present study, however, N2O flux made the second largest contribution
+to GWP while CH4 was the least contributor, which agrees well with
+several previous reports of negligible or negative CH4 emissions from
+pristine mangrove forests (Alongi et al., 2000; Kreuzwieser et al.,
+2003; Barnes et al., 2006; Allen et al., 2007) but differs from brackish
+marshes in Yangtze River estuary (Cheng et al., 2007, 2010) or
+Australian mangrove wetlands (Kreuzwieser et al., 2003) where CH4
+flux is several orders higher than N2O. On an annual average basis,
+soil–atmosphere fluxes of both trace greenhouse gases were showed
+highest in the invasive Spartina marsh, and similar results were also
+found inMin River Estuary where Spartina marshes far exceeded native
+Cyperus (Tong et al., 2012) and Phragmites australis marshes (Cheng
+et al., 2007) in trace greenhouse gas emission. However, few, if any, previous works
+have ever directly compared the fluxes of greenhouse gases
+between invasive marshes and mangrove forests. In this study, highly
+invasive Spartina had much higher emission of both CH4 and N2O than
+native Kandelia forest and even higher than exotic Sonneratia forest,
+suggesting that the further shifts of coastal vegetation from mangrove
+forests to invasive marshes might convert local wetland soils to a significant
+atmospheric source of trace greenhouse gases.
+Temperature is generally recognized as a key driver for variations of
+N2O flux from wetland soil (e.g., Bauza et al., 2002; Allen et al., 2007),
+and similarly, N2O flux was found most positively correlated with temperature
+among all environmental factors (r = 0.617, p b 0.01) in this
+study. However, an intriguing finding was that although the four vegetation
+types experience similar tidal influence and weather conditions,
+soil temperatures were higher in salt marshes than adjacent mangrove
+forests throughout the year. Accordingly, N2O fluxes were higher from
+the former than the latter. One possible explanation is that mangrove
+forests are composed of mature trees with closed canopy which efficiently
+cut down on the sun's radiative force reaching the soil surface
+and hence lead to the differences in temperature as well as N2O flux between
+vegetation types in this study.
+The flux of CH4 ranged from 2.00 to 21.70 μmol m−2 h−1 in this region,
+which is in broad agreement with records from other mangrove
+forests (e.g., 11.9–5168.6 μmol m−2 h−1 in Hong Kong, Chen et al.,
+2010; 5.73–201.88 μmol m−2 h−1 in East India, Chauhan et al., 2008)
+and salt marshes (e.g., 4.8–70.5 μmol m−2 h−1 in Min River Estuary,
+Tong et al., 2012; 97.5–313.75 μmol m−2 h−1 in the Inner Mongolia
+marshes, Wang and Han, 2005) but generally toward the lower-end of
+the observed range which indicates that soils of Jiulong River Estuary
+act as a negligible source of atmospheric CH4. CH4 is produced by methanogenic
+bacteria under anoxic environments (Chen et al., 2011;
+Livesley and Andrusiak, 2012; Tong et al., 2012). In this study, CH4
+flux was positively correlated with temperature and water content,
+which explained the significant spatial-temporal variations in CH4
+flux. Although CH4 flux in this area was relatively low as compared to
+some other coastal soils (Wang and Han, 2005; Chauhan et al., 2008;
+Chen et al., 2010; Tong et al., 2012), the value is generally higher in invasive
+Sonneratia and Spartina wetlands than native ones. Vegetation
+can influence CH4 emission from the soil in three ways (e.g., Van der
+Nat and Middelburg, 2000). It acts as a source of methanogenic substrate
+by releasing exudates and providing plant litterfall (Tong et al.,
+2012). Exotic Sonneratia forest and Spartina marsh both had much
+higher contents of TOC, TKN and TP than native wetlands, which could
+accelerate the production of CH4 in these systems. Secondly, plants
+with well-developed aerenchyma system provide a direct conduit for
+CH4 to escape into the atmosphere without passing through the aerobic
+layer of surface soil and hence reduce the consumption of CH4 by
+methanotrophic bacteria (Biswas et al., 2007). The unique root structures
+of Sonneratia forest could be described as numerous chimneys
+emerging from the soil surface emitting CH4 produced by benthic microorganisms.
+Similarly, Tong et al. (2012) found that although more
+CH4 was oxidized in rhizospheres of Spartina than Cyperus marsh,
+soil–atmosphere flux of CH4 was significantly higher in Spartina marsh
+because of its higher production and more efficient transport of CH4
+by Spartina than Cyperus marsh.
+5. Conclusions
+Spartina was introduced to China because of its high productivity
+which promotes sediment accretion, and Sonneratia was favored for
+mangrove restoration due to its fast-growing nature which contributes
+to carbon accumulation in coastal soils (Lu et al., 2014). In this study,
+high organic carbon stock is also recorded in the exotic wetlands of
+Sonneratia and Spartina, but this soil carbon burial benefit is offset by
+their high annual soil–atmosphere fluxes of greenhouse gases by 9.5%
+and 7.2%, respectively. The soil of Sonneratia forest has the greatest
+emission of total greenhouse gases and the soil of Spartina marsh is
+the most efficient in promoting trace greenhouse gases,which indicated
+that the large-scale invasion and introduction of alien plants might convert
+local coastal soils into a significant atmospheric source of greenhouse
+gases. Future projects aimed at promoting carbon accumulation
+by introducing exotic plants should at first evaluate its potential of producing
+greenhouse gases,which can offset part or all of any carbon burial
+benefit of coastal environments.

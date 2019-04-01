@@ -1,0 +1,647 @@
+xabstract Invasive crayfish are spreading rapidly
+across Europe, where they are replacing the native
+crayfish species and impacting negatively on some
+other biota. Freshwater crayfish and many benthic
+fishes share similar habitat and food requirements and
+hence potentially compete for resources. In this study,
+we investigated impacts of the introduced signal
+crayfish (Pacifastacus leniusculus) on fish in stony
+littoral habitats of two large boreal lakes. We
+compared the littoral fish community composition
+and the densities of two common benthic fish species
+between sites with and without crayfish. To evaluate
+whether signal crayfish share the same food resources
+as benthic littoral fish or change their feeding habits,
+we used mixing models and trophic niche estimates
+based on analyses of stable isotopes of carbon and
+nitrogen. Both the community composition of littoral
+fish and the densities of benthic fish species were
+similar at sites with and without signal crayfish. Even
+though stable isotope signatures indicated strong
+dietary overlap between crayfish and benthic fish,
+the use of food sources and trophic niche widths of fish
+were not noticeably different between crayfish sites
+and non-crayfish sites. Our results suggest that, at
+current densities, the non-native signal crayfish does
+not have significant impacts on benthic fish in the
+stony littoral habitats of large boreal lakes. 
+
+
+xintroduction Invasive species are globally a serious threat to native
+species richness and the function of ecosystems (Mack
+et al. 2000). Freshwaters are particularly susceptible to
+the negative impacts of invaders (Strayer 2010). For
+instance, many freshwater crayfish have been spread
+anthropogenically beyond their natural distribution
+range (Lodge et al. 2000; Holdich et al. 2009) and
+recent studies suggest that they can strongly affect
+native biota and ecosystem function (Nystro®m et al.
+1999; Lodge et al. 2000; McCarthy et al. 2006;
+Rosenthal et al. 2006).
+Non-indigenous crayfish have the potential to
+interact with and hence affect native fish species in
+several ways. Many freshwater crayfish and benthic
+fish species prefer similar shallow water stony habitats
+(Blake and Hart 1993; Guan and Wiles 1997; Fischer 2000) and use the same food resources such as benthic
+macroinvertebrates (Welton et al. 1983; Guan and
+Wiles 1998; Stenroth et al. 2006). The appearance of a
+novel species with an overlapping fundamental niche
+potentially exposes indigenous species to direct competition
+for resources (e.g. Bergstrom and Mensinger
+2009). Crayfish are also effective ecosystem engineers
+(Crooks 2002) and might affect the native fish
+indirectly by habitat alteration. Crayfish can also
+decrease fish survival via direct predation on eggs,
+larvae and juveniles (Dorn and Mittelbach 2004;
+Mueller et al. 2006).
+Reduced fish population densities and growth rates
+are often assumed to be related to interspecific
+competition for habitat and food resources (Griffiths
+et al. 2004; Carpenter 2005; Light 2005; Hirsch and
+Fischer 2008). Field surveys in rivers revealed negative
+relationships between the abundance of crayfish
+and the abundance of benthic fishes (Guan and Wiles
+1997; Bubb et al. 2009; Peay et al. 2009). From a long
+term survey, Wilson et al. (2004) found that the
+invasion of rusty crayfish (Orconectes rusticus Girard)
+also decreased the density of non-predatory fish in a
+northern lake. However, the generality of any negative
+impacts of crayfish on fish remains in dispute, as
+Degerman et al. (2007) did not find any relationships
+between native or introduced crayfish and stream fish
+communities in an extensive survey in Sweden. Nor
+did Stenroth and Nystro®m (2003) find signal crayfish
+to affect survival of brown trout (Salmo trutta L.) in a
+stream enclosure experiment.
+The North American signal crayfish (Pacifastacus
+leniusculus Dana) is spreading rapidly across Europe
+(Holdich et al. 2009) and is threatening the native
+crayfish species (Westman et al. 2002; Bohman et al.
+2006). Major impacts on other biota are also evident
+(Stenroth and Nystro®m 2003; Bjustro®m et al. 2010). In
+this study, we investigated whether the introduced
+signal crayfish has impacts on fish populations in the
+stony littoral shores of large boreal lakes not originally
+inhabited by native crayfish. We compare the littoral
+fish community composition and the densities of the
+two most common benthic fish, bullhead (Cottus gobio
+L.) and stone loach (Barbatula barbatula L.), between
+sites with and without crayfish in two large lakes. To
+investigate if the non-native crayfish share the same
+food resources or change the feeding habits of fish, we
+used stable isotope analysis of carbon and nitrogen.
+We compare the two categories of habitats with
+respect to the trophic structure of the littoral food web,
+use of different food sources by littoral benthic fish
+and crayfish and the widths of their feeding niches. We
+predicted that if crayfish have significant negative
+impacts on benthic fish, fish densities should be lower
+in the presence of crayfish and the community
+composition more dominated by pelagic fish. We also
+predicted that the presence of crayfish should increase
+inter- and intraspecific competition for food among the
+benthic fish, manifested by altered feeding niches. In
+particular, we predicted that, in the presence of
+crayfish, fish could compensate for increased competition
+for littoral benthic prey by increasing their use of
+pelagic food sources, as shown previously by Vander
+Zanden et al. (1999). 
+
+
+xmethods 
+
+The study was conducted in 2008 in Lake Pa®ija®nne
+(61310N, 25 240E) and in 2009 in Lake Saimaa
+(61150N, 25 130E) which are the largest lakes in
+Finland (Table 1; Fig. 1). Signal crayfish introductions
+to these lakes started in the 1990s (Finnish Game
+and Fisheries Research Institute, crayfish introduction
+register). The natural distribution of the only native
+crayfish species, noble crayfish (Astacus astacus L.),
+was mainly confined to southern rivers and small lakes
+(Ja®rvi 1910), and the open water parts of these large
+lakes were not previously inhabited by crayfish.
+Finnish inland waters are mostly privately owned
+and lakes are usually divided into several management
+areas administered by their own shareholder associations
+(Sipponen 2001). Different shareholder associations
+have discrete fisheries management policies and strategies on which the introduction of signal crayfish
+mainly depends. Even though signal crayfish also
+disperse naturally within the lakes, all shores are not
+yet colonised due to the complex shore structure and
+the large size of the lakes (Ruokonen T unpublished).
+Hence, the distribution of signal crayfish in our study
+lakes is still patchy, providing an excellent opportunity
+to study the impacts of this non-indigenous species in
+large-scale natural settings. In each lake, we selected
+for study five stony littoral sites with signal crayfish
+population and five otherwise similar sites without
+crayfish (Fig. 1). Crayfish populations in the selected
+crayfish sites are well established, reproduce naturally
+and support commercial and recreational fisheries. To
+avoid spatial bias we tried to ensure that the crayfish
+and non-crayfish sites were both distributed equally
+around the lakes in longitudinal and latitudinal
+directions (Fig. 1).
+All sites were trapped at the end of July to estimate the
+abundance of crayfish (catch per unit effort, CPUE)
+and to ensure the absence of crayfish at control sites. At
+each site, 25 cylindrical traps baited with fresh roach
+(Rutilus rutilus L.) were set in the 1ñ3 m depth zone
+along the shore at 5 metre intervals during the evening
+and collected the following morning. Since the crayfish
+traps are size-selective (Abrahamsson and Goldman
+1970), the method provides an estimate of adult
+crayfish density ([30 mm in carapace length). At the
+control sites, the absence of crayfish was additionally
+confirmed with visual observations by a scuba diver.
+The stony littoral sites were electrofished in August
+with batteryñpowered backpack electrofishing gear
+(GeOmega FA4, Geomega AS, Sjetnemarka, Norway)
+to estimate the fish density and species composition of
+the communities. A pulsed (50 Hz) 350 V direct
+current was used at all sites. A three pass-removal
+method without enclosure nets was used to collect the
+fish. Electrofishing was conducted along the shore line
+so that the maximum sampled depth was ca 80 cm.
+The sampled area varied from 100 to 250 m2. Each
+captured fish individual was identified to species,
+measured for total length and weighed. The total
+amount of fish caught with the three pass-removal
+method was used as the minimum population density
+estimate (individuals per 100 m2 for each species) in
+the analysis of community composition. To ensure
+accuracy, population density estimates using the Junge
+and Libovarsky equation (Bohlin et al. 1989) were
+calculated only for the two most abundant benthic fish species, bullhead and stone loach, which are known to
+be local in littoral areas throughout most of their life
+cycles (Wanzenbock et al. 2000; Hofmann and Fischer
+2001).
+Habitat type and environmental variables are important
+in structuring lake littoral communities (Fischer
+2000; Tolonen et al. 2001; Nystro®m et al. 2006).
+Therefore, we attempted to select study sites as similar
+as possible in habitat structure. The factors which are
+known to shape the structure of littoral communities
+were measured to control for the environmental
+variation among sites. However, there were no differences
+in the measured environmental factors between
+crayfish and non-crayfish sites within each lake
+(Table 2).
+All selected sites were open stony shores without
+macrophytes. Substrate particle size at 0.5 m depth
+was estimated from three replicate plots enclosed with
+a metallic frame (surface area 0.25 m2) using a
+modified Wentworthís scale (Allan 1995). The percentage
+cover of each size category was estimated
+visually and a percentage-weighted average of the
+midpoints of the category ranges was calculated for
+each replicate plot, and then averaged for the site.
+Shore slope was determined by measuring the distance
+from the shore line to 0.5 m depth from three adjacent
+lines perpendicular to the shore line. Slope for each
+measure was expressed as the angle between bottom
+and water surface. An average of three measurements
+was used as the shore slope. The wind-induced
+disturbance (relative exposure) at each shore was
+calculated from wind and fetch measurements
+according to Brodersen (1995). Relative exposure
+combines the wind fetch, the mean wind velocity,
+wind direction and sampling depth (0.5 m) into a
+single index. Mean wind values for 2006ñ2008 from
+the nearest observation stations of the Finnish Meteorological
+Institute were used for the calculations.
+Periphyton chlorophyll-a (mg m2) was used as a
+measure of site productivity. Periphyton samples were
+taken from three depth zones (0.5, 1.0 and 2.0 m) at
+each site. From each depth, one pooled sample (total
+area of 48.1 cm2) consisting of five random subsamples
+were taken from flat stone surfaces using a brush
+sampler. Each sample was filtered onto a glass fibre
+filter and frozen. In the laboratory, chlorophyll-a
+concentrations were analyzed according to Finnish
+standard SFS 5772.
+Fish and crayfish samples for stable isotope analysis
+(SIA) were collected from Saimaa in August 2009 at
+three sites with a dense crayfish population and three
+sites without crayfish (Fig. 1). From each site 10
+bullheads and 10 stone loaches were collected while
+electrofishing. In the laboratory, weight and total
+length were measured and a piece of white muscle
+tissue was dissected from posterior to the dorsal fin.
+Adult crayfish (carapace length[30 mm) for SIA
+were sampled by crayfish traps. Smaller crayfish were
+collected by a scuba diver or by using a pump sampler.
+From each site, 24ñ29 signal crayfish (size range
+6ñ81 mm in carapace length) were collected.
+Untreated abdominal muscle tissue was used to
+measure the stable isotope ratios of each signal
+crayfish as recommended by Stenroth et al. (2006). Other components of the littoral food web were also
+collected to illustrate the trophic structure and reveal
+the position of benthic fish and crayfish in the littoral
+food web. Larvae of six common macroinvertebrate
+taxa (an omnivore Asellus aquaticus, grazing mayflies
+Heptagenia fuscogrisea Retzius and Baetidae spp., a
+collector/shredder stonefly Leuctra fusca L., a filter
+feeding caddisfly Polycentropus flavomaculatus Pictet
+and predatory non-biting midges Tanypodinae spp.)
+were collected to represent the littoral consumers
+assumed to be preyed upon by crayfish and benthic
+fish. For each taxon and site, carbon and nitrogen
+isotope ratios were analyzed from a bulk sample
+containing 4ñ8 animal specimens. Filter-feeding mussels
+(Sphaerium corneum L.) and bulk zooplankton
+samples were collected to represent food sources
+originating from the pelagic food web. The zooplankton
+samples were gathered using a 100-lm mesh net
+pulled vertically through the water column in the
+pelagic area corresponding to each littoral sampling
+site. Samples were frozen and later in the laboratory,
+any predatory cladocerans and other items were
+removed manually under a microscope to leave only
+phytophagous cladocerans, cyclopoids and calanoid
+copepods in the samples. Periphyton was used to
+represent the littoral primary production. At each site
+samples were brushed from flat surfaces of five stones
+from three depths (0.5, 1.0 and 2.0 m) and analysed as
+bulk samples for each depth. Fallen leaves of birch
+(Betula pendula L.) and alder (Alnus glutinosa L.)
+were collected from the shoreline to represent terrestrial
+detritus. All samples for SIA were freeze-dried to
+constant weight and powdered for analysis.
+Carbon and nitrogen stable isotopes were analysed
+using a Carlo Erba Flash EA 1112 elemental analyser
+connected to a Thermo Finnigan DELTAplusAdvantage
+continuous-flow isotope ratio mass spectrometer
+(CF-IRMS). The reference materials used were internal
+standards of known relation to the international
+standards of Vienna Pee Dee belemnite (for carbon)
+and atmospheric N2 (for nitrogen). White muscle
+tissue of pike (Esox lucius L.) and potato leaves
+(Solanum tuberosum L.) with known isotopic compositions
+were used as internal working standards to
+ensure the precision of analyses. Two replicate
+standards were run after every six samples in each
+sequence. Internal precision of analyses was better
+than 0.12%for carbon and 0.13% for nitrogen, based
+on the standard deviation of replicates of the standards.
+The SIAR-package in R (Parnell et al. 2010) was used
+to create a two source mixing model to estimate the
+proportions of littoral and pelagic food sources used
+by bullhead and stone loach at crayfish and noncrayfish
+sites. This Bayesian approach allows consideration
+of the variation and uncertainty in isotopic
+values of consumers and food sources, and it also takes
+into account the trophic enrichment factors and
+different assimilation of food sources (Parnell et al.
+2010). Individual models were created for both species
+and for all sites.
+The mean values and standard deviations of
+isotopic values of four benthic invertebrate taxa
+(Asellus aquaticus L., Heptagenia fuscogrisea Retzius,
+Baetidae spp. and Leuctra fusca L.) which use
+periphyton and detrital material as main food sources
+were used as a littoral baseline for each site. Lake
+littorals are open systems and therefore, some part of
+the energy consumed there can be supposed to
+originate from the pelagic food web (Post 2002). As
+recommended by Post (2002), long living filterfeeding
+mussels were used as the pelagic baseline.
+As no species-specific trophic enrichment factors were
+available for bullhead and stone loach, values presented
+in the literature were used in the models:
+3.23 ± 0.41 for d15N and 0.47 ± 1.23 for d13C
+(Vander Zanden and Rasmussen 2001). Carbon and
+nitrogen percentages measured in SIA (mean and
+standard deviation calculated for each source) were
+incorporated into the models to account for the
+different assimilation of carbon and nitrogen originating
+from different food sources (Parnell et al. 2010).
+Results of mixing models are presented as proportions
+of littoral and pelagic food sources with 50, 75 and
+95% Bayesian credibility intervals.
+The variation in stable isotope values is commonly
+used to measure the width of trophic (feeding) niches
+and to assess changes or differences in food web
+structures (e.g. Layman et al. 2007b; Olsson et al.
+2009). The population level trophic niche width (total
+area, TA) of stone loach, bullhead and crayfish were
+determined from d15N and d13C values by calculating
+the convex hull encompassed by the smallest convex
+polygon containing the individuals from each site in d15N and d13C niche space (Layman et al. 2007a).
+Convex hull areas were calculated and visualised
+using the adehabitat- package in R (Calenge 2006).
+Differences in signal crayfish mean catch and size
+(carapace length) were compared between the lakes
+with Studentís t tests. The patterns of variation in the
+fish community composition among crayfish study
+sites were explored and illustrated by non-metric
+multidimensional scaling (NMS) ordination, using
+data on mean densities of fish species and Bray-Curtis
+distance measure. Differences in fish community
+composition between crayfish and non-crayfish sites
+were tested with analysis of similarities (ANOSIM).
+NMS and ANOSIM were performed with the
+VEGAN-package in R (Oksanen et al. 2010). The
+mean density, length and weight of the two most
+common benthic littoral fish (stone loach and bullhead)
+were compared between crayfish and noncrayfish
+sites using two-factor ANOVAs (crayfish
+status as the fixed factor of interest and lake as another
+factor to control for difference between lakes). All
+statistical analyses were performed with R 2.10.1 (R
+Development Core Team 2009).
+xresults The mean crayfish CPUE in Pa®ija®nne at selected
+crayfish sites was 3.71 with range from 1.5 to 8.6
+crayfish per trap per night among sites. In Saimaa the
+mean CPUE was slightly lower (mean 2.88 with range
+from 0.8 to 6.4) but there was no statistically significant
+difference in CPUE between the lakes (t = 0.5,
+df = 8, P = 0.630). The mean carapace length of crayfish
+in Pa®ija®nne was 49.4 mm and in Saimaa 47.4 mm,
+showing no difference (t = 0.817, df = 8, P = 0.444)
+between the lakes. No crayfish were observed at the
+non-crayfish sites of either of the study lakes. In both lakes the most common fish species in stony
+littoral areas were stone loach, bullhead and Eurasian
+minnow (Phoxinus phoxinus L.). Some burbot (Lota
+lota L.), ruffe (Gymnocephalus cernuus L.), Eurasian
+perch (Perca fluviatilis L.), ninespine stickleback
+(Pungitius pungitius L.) and roach (Rutilus rutilus
+L.) were also caught. In the NMS analyses (Pa®ija®nne:
+final stress = 8.78; Saimaa: final stress = 5.99), study
+sites were placed in the ordination space without
+evident aggregation of sites according to crayfish
+status (Fig. 2). ANOSIM did not show significant
+differences in fish community composition between
+crayfish and non-crayfish sites (Pa®ija®nne: R = -0.1,
+P = 0.764; Saimaa: R = -0.092, P = 0.83). The analysis of variance did not reveal significant
+differences in the mean density of stone loach
+(F = 0.801, df = 1, P = 0.376) or bullhead (F =
+3.595, df = 1, P = 0.076) between crayfish and noncrayfish
+sites (Fig. 3a). In Saimaa, the mean densities
+of both species were significantly higher than in
+Pa®ija®nne (stone loach: F = 42.856, df = 1, P\
+0.001; bullhead: F = 55.290, df = 1, P\0.001).
+The results did not indicate significant interactions
+between lake and crayfish status (stone loach:
+F = 2.023, df = 1, P = 0.174; bullhead: F = 1.992,
+df = 1, P = 0.177).
+The mean length of stone loach (F = 0.607, df = 1,
+P = 0.448) and bullhead (F = 0.607, df = 1,
+P = 0.448) did not differ between the crayfish and
+non-crayfish sites (Fig. 3b). No significant differences
+were found in mean weights of stone loaches
+(F = 0.001, df = 1, P = 0.992) or bullheads (F =
+0.059, df = 1, P = 0.812) between the crayfish and
+non-crayfish sites (Fig. 3c). However, both species
+were longer (stone loach: F = 16.098, df = 1, P =
+0.001; bullhead: F = 47.736, df = 1, P\0.001) and
+heavier (stone loach: F = 12.744, df = 1, P = 0.003;
+bullhead: F = 18.171, df = 1, P\0.001) in lake
+Pa®ija®nne (Fig. 3b, c). Results did not indicate interactions
+between lake and crayfish status in length or
+weight of stone loach and bullhead (P[0.06 for all
+tests).
+
+
+ Overall, the mean trophic structure of the littoral food
+web was rather uniform in the presence and absence
+of signal crayfish (Fig. 4). Mean d15N-values of periphyton were low (1.2%) in both groups, and
+relatively wide variation in d13C-values reveals
+differences in basal carbon resources among the study
+sites. A wide range in macroinvertebrate d15N and
+d13C-values reflects the different diets among taxa and
+differences in basal resources among the sites. Nevertheless,
+mussels and zooplankton had clearly lower
+d13C-values reflecting the different carbon sources of
+the phytoplankton-driven pelagic food web (Fig. 4).
+Benthic fish had the highest d15N-values ranging from
+7.4 to 10.8%in bullhead and from 6.3 to 8.3%in stone
+loach, indicating that they are the top-predators among
+the sampled groups. Bullheads had slightly higher
+d15N and d13C than stone loaches (Fig. 4). Signal
+crayfish d15N-values ranged from 5.6 to 9.6%, and
+were situated between the bullheads and stone loaches
+in mean trophic level (Fig. 4). Crayfish had a wide
+range in d13C-values (from -14.0 to -24.3%) which
+overlapped with both fish species. The diet of stone loach consisted mainly of littoral
+food sources at all sites (Fig. 5a). The estimated
+contribution of littoral food sources to the diet of stone
+loach varied between 79 and 100% (95% CI) at
+crayfish sites and between 65 and 100% (95% CI) at
+non-crayfish sites The contribution of pelagic food to
+diet was slightly higher in bullhead than in stone loach
+(Fig. 5b). However, bullheads at crayfish sites utilized
+mostly littoral food sources (59ñ99%)(95% CI),
+whereas there was more variation in diet among the
+non-crayfish sites. At sites four and six, bullheads
+utilized littoral and pelagic food sources almost
+equally (Fig. 5b), while at site five, the littoral food
+sources represented the main part of bullhead diet
+(74ñ100%) (95% CI). The trophic niches of stone loach and bullhead
+measured in d15N and d13C space were clearly
+separated from each other at all sites independent of
+the presence or absence of crayfish (Fig. 6). The
+population level trophic niche width (TA) of bullhead
+varied from 2.80 to 4.36 at crayfish sites, whereas
+variation at non-crayfish sites was slightly wider
+(2.33ñ6.04). For stone loach, there was less variation
+in d15N values within the populations and total areas of
+feeding niches were smaller than for bullhead (Fig. 6).
+The TAs for stone loach populations were 2.66ñ3.38 at
+crayfish sites and 1.52ñ2.91 at sites without crayfish.
+The niche widths of signal crayfish populations were
+much larger (6.33ñ14.74) and overlapped with both
+fish species (Fig. 6) at all sites. Also the variation in
+crayfish d15N and d13C values within populations was
+wider than for both fish species. xdiscussion
+ Overall, the results of our study suggest that the
+presence of non-native signal crayfish does not have
+significant impacts on benthic littoral fish in our study
+lakes, in sharp contrast to our a priori expectations.
+The littoral fish community composition was similar at
+sites with and without signal crayfish, and the local
+densities of benthic fish species were not reduced in the presence of crayfish. Although our stable isotope
+results suggested that signal crayfish utilized the same
+basal resources as benthic fish, the basal food sources
+utilised and the trophic niche widths of stone loach and
+bullhead were comparable at crayfish sites and noncrayfish
+sites.
+The few previous investigations of the impacts of
+non-native crayfish on lentic fish are from smaller
+lakes with abundant vegetation, whereas less is known
+from exposed and stony littoral areas, especially of
+larger lakes. Wilson et al. (2004) found that invasion
+of rusty crayfish had long-term negative impacts on
+several non-predatory fish species. They proposed that
+reduction of habitats (loss of macrophytes), competition
+for prey and direct predation on eggs were the
+main reasons for negative impacts. Roth et al. (2007)
+also found negative impacts of crayfish on fish to be
+related mainly to loss of macrophytes. Hirsch and
+Fischer (2008) speculated on the basis of a laboratory
+experiment, that invasive crayfish might negatively
+affect lake littoral benthic fish communities by shelter
+competition. Benthic fish and crayfish are both mainly active nocturnally and during daytime seek shelter
+(e.g. under stones) to avoid fish and avian predators
+(Welton et al. 1991; Hill and Lodge 1994). Several
+river studies (Griffiths et al. 2004; Light 2005; Bubb
+et al. 2009) have also pointed to the importance of
+shelter competition as a reason behind decreased fish
+densities with crayfish occupancy.
+Our study sites were stony shores without vegetation,
+and the shallow water areas (\3 m) were
+continuously covered with small to medium size
+stones providing an apparently ample supply of
+suitable habitat for benthic fish and crayfish along
+the lake shores. Therefore, we assume that in such
+lakes, with the observed crayfish densities, the availability
+of shelter is not limited and this might explain
+why the presence of crayfish did not alter the fish
+densities in these lakes. Instead our results did reveal
+significant differences in fish densities between the
+two study lakes. Mean densities of stone loach and
+bullhead in both groups were consistently higher in
+Saimaa than in Pa®ija®nne. This difference might be
+explained by higher productivity at Saimaa, as indicated
+by higher periphyton chlorophyll-a concentrations
+(Table 2). In a previous study of Pa®ija®nne, Bagge
+and Hakkari (1992) found that bullheads and stone
+loach were most abundant at gently sloping shores
+with small stones. In our study, shore slopes were
+significantly steeper in Lake Pa®ija®nne which might
+also explain the general difference between the lakes
+in mean fish densities.
+Invasive crayfish are known to alter the macroinvertebrate
+community composition and reduce the
+biomass and taxonomic richness directly by feeding,
+or indirectly by, for example, habitat destruction
+(Nystro®m et al. 1999; Stenroth and Nystro®m 2003;
+McCarthy et al. 2006). Increased competition for food
+resources between invading crayfish and native fish is
+reported to be one potential cause of decline in fish
+populations and growth (Carpenter 2005; Wilson et al.
+2004). Decreased food can even lead to changes in
+usage of basal food sources, from littoral to more
+pelagic prey (Vander Zanden et al. 1999). The results
+of our stable isotope analysis suggest that signal
+crayfish utilize the same basal resources as benthic fish
+and justify our expectations about potential food
+competition at the crayfish sites. The observed high
+d15N values of signal crayfish and their position
+between the two fish species in a littoral trophic
+structure agrees with recent studies (Stenroth et al.
+2006; Olsson et al. 2008) indicating that crayfish
+do mainly consume animals such as benthic
+macroinvertebrates.
+Previous investigations of the feeding habits and
+activity of stone loach and bullhead in rivers or in
+experimental studies have indicated that macroinvertebrates
+comprise the main part of the diet of both
+species (e.g. Hyslop 1982; Welton et al. 1991). The
+feeding habits of these fish in lakes and the importance
+of pelagic food sources (e.g. zooplankton) in their
+diets are less well known, even though some studies
+have indicated that zooplankton might comprise at
+least some part of the diet (Sauvonsaari 1971). Our
+results indicate that the overall contribution of pelagic
+food sources to bullhead diet was higher than for stone
+loach. Bullheads are visual predators and therefore,
+better suited to capturing zooplankton than non-visual
+stone loaches (Hyslop 1982; Welton et al. 1983).
+The outputs from the two-source mixing models
+indicate that stone loaches mostly used food originating
+from littoral sources in both habitat categories.
+This suggests that the presence of signal crayfish does
+not cause appreciable changes in the diet of stone
+loach. In the case of bullhead, however, there was
+some tendency towards an apparently higher littoral
+diet contribution in the presence of crayfish. This
+response is opposite to our original expectations, but is
+relatively weak and inconsistent and we cannot
+confidently attribute it to the presence of crayfish. At
+crayfish sites, the variation in contribution of littoral
+and pelagic sources was rather low, whereas among
+non-crayfish sites the model outputs showed more
+variation. At two of these sites, the bullheads used
+littoral and pelagic food sources almost equally, while
+at one site the contribution of littoral sources was
+strongly dominant.
+Disturbances or changes in ecosystem structures
+can alter an organismís resource use which can be seen
+as changes in the trophic niche width (Layman et al.
+2007b). For example, increased intraspecific competition
+for food resources has been shown to increase
+niche width (Svanba®ck and Boldnick 2007). Our
+results support previous findings that the feeding
+habits of stone loach and bullhead differ from each
+other and that resource partitioning might be the key
+factor, which enables coexistence of these two species
+with apparently similar ecology (Hyslop 1982; Welton
+et al. 1983, 1991). The well-defined separation of
+stone loach and bullhead populations and their similar location in the trophic niche space at both site
+categories suggests that the presence of crayfish does
+not markedly change the use of basal food sources.
+Our results also suggest that the population-level
+trophic niche widths of littoral fish were not different
+between the crayfish and non-crayfish sites.
+Lake littorals are open systems without strict
+physical boundaries (Strayer and Findlay 2010), and
+therefore, invasion and supply of new fish from noncrayfish
+areas might occur. In general, littoral fish are
+poor colonizers, and are not able to disperse across
+open water areas (Markert et al. 1999). Barluenga and
+Meyer (2005) argued that dispersal of stone loach is
+restricted by open water areas and colonization occurs
+mainly along the shorelines, whereas Wanzenbock
+et al. (2000) found that bullheads may have a pelagic
+early life phase, which could facilitate colonization of
+new areas. In our study, the shortest distance between
+crayfish and non-crayfish sites was 4 km separated by
+large open water areas (Fig. 1), and to our knowledge
+there is no evidence for a pelagic early life phase in
+bullhead in our study lakes. Therefore, we presume
+that movements of the studied fish species between
+non-crayfish and crayfish areas are minor and would
+not affect our results. Our findings that the fish mean
+densities and weights did not differ between the
+crayfish and non-crayfish sites suggest that the size
+structure of fish populations within these groups was
+similar. If colonization by bullhead was occurring at a
+large scale, the population structure should be biased
+towards small specimens at crayfish sites.
+Negative impacts of invasive species are not
+necessarily seen immediately after successful establishment
+and native species also react to disturbances
+with different time lags (Williamson 1996). For
+example, long-lived organisms like fish need longer
+exposure to increasing crayfish abundance, while
+densities of benthic macroinvertebrates can be influenced
+soon after crayfish appearance (Wilson et al.
+2004). Signal crayfish have been present in our study
+areas for 10ñ15 years (Finnish Game and Fisheries
+Research Institute crayfish introduction register) and
+both stone loach and bullhead have a short life span
+and mature early (Sauvonsaari 1971; Wanzenbock
+et al. 2000), so by now several fish generations have
+been exposed to the presence of crayfish. Hence the
+time elapsed since the establishment of crayfish
+populations in the study lakes should be long enough
+to reveal any important impacts on fish.
+Our results suggest that introduced signal crayfish
+does not currently have major impacts on benthic fish
+in stony littoral shores of our study lakes. However,
+rising commercial catches indicate that the signal
+crayfish populations are still in a growth phase in these
+lakes (Finnish Game and Fisheries Research Institute
+unpublished) and therefore, we cannot exclude the
+possibility of negative impacts in future. For example,
+Bjustro®m et al. (2010) found that littoral macroinvertebrate
+communities in Pa®ija®nne were altered at sites
+with high crayfish density, which indicates the
+potential of signal crayfish to change ecosystem
+functions in lake littorals. Our results support the
+view of Degerman et al. (2007) that effects of nonnative
+crayfish should be investigated case-specifically
+in different habitats and between different
+species.

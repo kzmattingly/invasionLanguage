@@ -1,0 +1,589 @@
+xabstract
+Phragmites australis (common reed) has been increasing in brackish tidal wetlands of the eastern United
+States coast over the last century. Whereas several researchers have documented changes in community strueture~ dlls
+research explores the effect~ of Phragmltea expansion on aboveground biomass and soll properties. We used historical
+aerial photography and a global positioning system (GPS) to identify and age Phragmites patches within a high marsh
+dominated by shortgrasses (Spartltta patella and Diachl plcata). Plots along transects were estaMished widiln the vegetation
+types to represent a gradient of species dominance and a variety of ages of the Phragmites plots. In comparison
+to neighboring shortgrass ~ communities, Phragmites communities were found to have nearly 10 times the live aboveground
+biomass. They also had lower soil salinity at the surface, a lower water level, less pronounced microtopographie relief~
+and higher redox potentials. These soil factors were correlated with the age and biomass of Phragmites communitie%
+were increasingly different with increasing Phragmites dominance along the transects, and were increasingly Mrered by
+the ages of Phragmites communities ~ntil the factors stabilized in plots of S yr to 15 yr of age. We propose that Phragmites
+expansion plays an important ~ole in Mterlng dlese soll properties and suggest a variety- of mechanisms to explain these
+aberations.
+
+xintroduction
+Phragmites australis (Car) Trin ex Steud (common
+reed) is currently expanding its cover within
+many tid01 marshes of the eastern United States
+(Marks et al. 1993) Though it is recognized as a
+cosmopolitan species and may be the most widely
+distributed flowering plant in the world, individual
+occurrences in tidal marshes have historically been
+locally restricted to a narrow belt at the marsh-upland
+interidce (Niering et a l 1077; Niering and
+VCamen 1980). The dramatic spread of Phragmites
+into lower marsh areas appears to be unprecedealed
+in the vegetation history of coastal marshes
+( orson et al. 1987).
+'The vegetation structure of brackish tidal marsh
+is altered severely when tall, dense, monotypic
+stands of Phragmites reeds replace ielatively diverse
+shortgrass communities. Waterfowl usage is reduced
+substantially (Roman et at. 1984), and several
+rare and endangered plant populations are
+threatened (see Marks et al. 199,3). Few studies
+have addressed how the invasion of Phragvnites may
+affect soil properties It is well known that wetland
+macrophytes can strongly influence marsh soil
+properties through their physiology and morphology.
+Dacey and Howes (1984) demonstrated an increase
+m the rates of plant transpiration and soil
+oxidation under the higher biomass of tall form
+.spartina alterniflora relative to the short form Berthess
+and Hacker (1994) demonstrated an increase
+in shading and a decrease in salmDy when Juncus
+gerard~i is present in an Iue [ructecens community.
+Plants can alter soil structure through litter buildup
+and through hummock formation, which can
+alter the flooding regime and the rates of nutrient
+renewal and soil storage (Bowden 1987) Differences
+in gas transport ~ystems can also alte~ soil
+reduction-oxidation potentials (redox potentials;
+Jaynes and Carpenter 1986; Wigand et ah 1997),
+and plant osmoregulatory mechanisms can have
+feedbacks on the soil saliniw (D'Antonio and Mshall
+1991; Ungar 1991)
+Considering size and physiological differences
+between Phfagmites and common high marsh shortgrasses
+( spartina patens, Distichtis @icata, and juncus
+gerardii), we hypothesized that the invasive Phragmites community would alter sea~eral marsh soil
+properties relative to the extant shortgrass communib-.
+We examined the extent to which the replacement
+of a shortgrass community (dominated
+by S. patens and D. spicata) with a Phragrmtes-dominant
+communi,ty is associated with soil salinity,
+marsh water levels, redox potentials, soil microtopography,
+and peak aboveground biomass in a
+brackish tidal marsh of the Mullica River, New Jersey.
+We first determined the extent to which these
+f,~ctors vary between Phm~te~ communities and
+neighboring, uninvaded shortgr~s communities
+Second, we analyzed the extent to which the relative
+dominance, age, and aboveground biomass of
+Ph~-agraites communities are correlated with the
+measured variables. We used the test of association
+with age to infer causality
+
+xmethods
+This study was conducted within the brackish tidal
+marshes of Hog Island in the Jacques Cousteau
+Nationai Estuarine Research Reserve at Mullica
+River-Great Bay in southern New jersey (Fig. 1 )
+The brackish region (0.5-18%o) of the Mullica River
+centers on Hog Island, approximately 17 km upstream
+i}om the mouth of the river at Great Bay-.
+Sites were chosen only- on the larger portion of the
+island, which is nearly 600 m s in area and approximately
+~00 m fiom the shore on either side
+Hog Island is a site of minimal human impact.
+Historical human uses include muskrat trapping
+and duck hunting. The watershed of the Mullica
+River is contained within the Pinelands National
+Reserve (commissioned in 1980); the Reserve sets
+strict landuse and development restrictions, leading
+to high water quali~ y and minimal hydrologic
+manipu[ations. In the mid 1970s, Ferren et al.
+(1981) mapped the distribution of vegetation communities
+on Hog Island (Fig. 2) At that time, Hog
+Island contained plant species representative of
+three salinity classes, with freshwater species at the
+upriver end, brackish species in the middle, and
+saltwater species at the downriver end. "While the
+entire island was considered brackish marsh, following
+Cowardin et aL (1979), Fel~en et a l (1981)
+demonstrated a range of substrate salmities of 2-
+B%o at the oligohalme uprivei end and 4-7%0 at
+the downriver end. By 1993, Phragmites had completely
+replaced the mixed vascular and Pdtc~zdra
+virg.irdcc~dominated communities, located in the
+middle and upriver sections of the island, respectively.
+Today, distinct Phragmites patches, of vat ying
+ages and rates of expansion, are found only within
+in the matrix of the shortgrass 3'. pc~tens-I). @~catc~
+commumty- in the downriver portion of Hog Island
+(Fig. S inset) The scattered pattern of Ph,rag~ites
+invasion within the shortgra~ss community- on Hog
+Island is not explicitly related to tidal creek distribution
+or flooding rates according to spatial analysis
+of aerial photography and a detailed site map
+(Ferren et al. 1981) Because the sites of the t;h~ag
+r~{tes communities are known to have been shortgrass
+sites less than 25 yr prior (Ferren et al. 1981),
+these Pt~,-r~gmites patches give an opportuni/f to assess
+associations between  plant and soil properties
+across a gradient of ages and relative Phragmites
+dominance
+The historical sequence of vegetation patteIns
+on the island was determined using a series of high
+resolution (1:12,000-1:$5,000) aerial photographs
+(19S2-1991). A fine-scale map of the vegetation
+communities c. 1977 (Ferren et al, 1981; Fig. 2)
+provided, a field-tested base map of habitat and
+dominance types with which to compare current
+observations and interpretations of aerial photography.
+Phragmites was first documented on Elog Island
+in the 1971 photographs To establish the ages of
+Phfagm~tes communities on Hog Island, color inhared
+photographs horn the growing season--dated
+1971, 1977, :[979, 1986, and 1991--were interpre/-
+ed with a stereoscope These vegetation distributions
+were mapped and digitized into a GRASS 60
+(Geographic Resources Analysis Support System)
+geographic information ~ystem (G[S) and then imported
+into an Arc/Into GIS. A multi-year overlay
+of these Phf-agm~tes patches was used to determine
+concentric bands of increasing age. \ ~ used these
+spatial age bands to classify plots within Ph~agfmtes
+patches
+The southeHl portion of the island, dominated
+by shortgrasses, contains many discreet Phfag'vdtes
+patches of varying age, orientation, and area. Nine
+transects across the two vegetation ~-pes were located
+on our age-based maps, according to the species
+compositions and age of Phragmites populations
+(Fig. g). After the suitabilib~ of these nine
+transects were field-verified, the transects were
+staked for futme data collection A hand-held global
+positioning ~ystem (GPS) was used to assure the
+accuracy of the transect locations to within 5 m
+Each transect was roughly 12 m long and comprised
+six 0.25-m ~ samplmg plots Using a nested
+box plot design in early- summer 1993, we had
+found that the variance between plots peaked at
+this sample plot size fbi all of the soil variables
+measured in this stu@ The transects were laid
+across the boundary of a Phrag~ites community
+and a shortgrass communib~, with each of the six
+plots positioned relative to the community- intersection
+(Fig. g). The most outward of the flowering
+shoots of Phrc*g~ites was used as the border of the
+Phfc~gmit~s patch, and thus, the center of the plant
+community intersection Plots C and D, those representing
+the community intersection, or ecotone,
+were staked along the transect approximately 0.5
+m apart on either side of the ~arthest flowering
+shoot The Phragmites plots, E and F, were positioned
+within predetermined age classes, spatially
+represented as concentric bands fiom the digitized
+communilT/ maps. The shortgrass plots, A and B,
+were positioned at intervals of 2-g m fiom plot C.
+Therefore, at one end of each transect, two of the
+six plots, A arid B, were within a shortgrass community.
+At the other end, two plots, E and F, lepresented
+the Phra~it*t~ community The iemaining
+two plots, C and D, lay in the middle of each transect,
+within the mixed zone of both communities
+Data were collected in August 199.g and 1994,
+the biomass peak for both shoitgrass and Phragmites communities. To minimize the effects of tidal
+conditions, measurements of aboveground live biomass,
+soil salinib~, marsh water levels, and microtopoglaphy
+were made at low tide within a 1-h interval
+in each of the six plots along the transect
+Redox potentials were measured at both low and
+high tide
+To reduce destructive harvesting, aboveground
+live biomass was calculated with allometric relationships
+we had constructed previously for the two
+plant communities (Wind.ham 1995). The ratio of
+live : dead stems in Phrc~gmites plots was negatively
+correlated with dry weight aboveg~ound biomass
+(r ~ 085; p < 0 001). The percent of plot area
+flee of' hummocks (hereafter, hollow) was negatively
+correlated with dry weight alooveground biomass
+for shortgrass communities (r ~ 086; p <
+0.001). Aboveground biomass in the mixed vegetation
+plots was calculated as the shortgrass biomass
+(using the percent hummock regression
+equation) plus the Phragmites biomass (using a
+height regression equation for each individual
+culm, W[ndham 1995).
+Porewater from a fi-esh soil sample (approximately
+50 g wet) was used to determine soil salinity.
+The water was expressed from the soil through filter
+paper into a vial and the expelled water tested
+with a Reichert:Jung T/C mete~ refiactometer-salinometer
+within 4 h of' collection (F~asco 1980).
+The water level of the marsh was measured (to the
+nearest centimeter) at low tide A S-cm diam core
+was taken at the lowest point of the plot's soil surface
+and a metric ruler inserted in the resulting
+hole down to the level surface of water.
+Microtopography was classified by measurement
+of the maximum soil relief within a plot, We used
+a metric ruler and a straight edge to calculate the
+mmximum vertical distance fiom the highest surface
+point to the lowest surface point within a p l o t
+Bulk oxidation-reduction potentials were measured
+in each plot at both high and low tide using
+a field-portable waterproof pH/Eh meter (Hanna
+instruments 9g05C) connected to a platinum
+probe (Hanna Instruments ~g2~q0) t ~ removed
+soil cores (25 cm diam) of 5 cm and 10 cm depth
+near the center of each plot and inserted the platinum
+probe rata each hole to measure the redox
+potential at each depth In the shortgrass plots, 5-
+cm depth measurements were made in both hummock
+and hollow areas to account for the rnicrotopographic
+differences. To reduce the effects of
+temporal (tidal) variation, all redox measuremeLlts
+were taken within a g0-min span at each tidal extreme
+We analyzed data for five variables (sa[iniVy, biomass,
+water level, microtopography, and redox potential
+at two depths at high and low tide). To account
+for site-specific differences between the iep-
+[icate tiansects, the soil variables (salini/y, water level,
+microtopography, and redox potential) were
+analyzed as measures of relative difference (the values
+were standardized to center around a mean of
+0 for each transect) Relative difference was calculated
+toy subtracting the mean value for the enti~
+e transect fiom each value along the transect.
+Differences between the two communities wete
+determined by taking an average value for each
+variable in the Heragmites-dominated plots (E and
+F) arid comparing it to an average calculated for
+the shortgrass plots (A and B ) The use of a mean
+value for communities was validated by- a 2 X 2
+comparison of A to B and E to K using pairwise ttests.
+For each variable, the shortgrass plots, A and
+B, and the Phragmites plots, E and F, were neve*
+found to be significantly different within communities.
+Having normal distributions (G-test, Abacus
+Concepts 1996), both the raw and the standardized
+(relative difference) values were cornpa*ed using a
+MANO\!& (multivariate analysis of variance; Statistical
+Analysis System 1995) to test for differences
+between the two communities 'The data are summarized
+in Table 1
+We used analyses of variance (Abacus Concepts
+1996) to determine the relationship between each
+edaphic factor and plot or species covet (shortglass,
+mixed, or Phragmites) and age of Phragr~ites
+plots We use a Bonfer~oni-Dunn technique to
+specify differences between the treatments. We also
+used coi*elation analyses (Abacus Concepts 1996)
+to examine the association of Phragmites age and
+biomass with soil factors We propose that soil factors
+correlated with the age or with the biomass of
+Phragmites communities are likely to have been influenced
+by Phrag'mites We propose that differences
+in biornass and soil properties with age (0-22
+yr) and levels of Phragr~ites dominance (0-100%)
+designate categories at which soil pioperties aie
+significantly altered. We assume that the longe* a
+species has beea present and the larger its proportion of' the biomass, the moie of' an effect that
+species has had on soil properties (Osgood and
+Zieman 1993)
+
+
+xresults
+Biomass and soil characteristics of Phragmites
+plots were found to be significantly different than
+in shortgrass plots, based on the five variables measured
+(MANOVA, p < 0.0001; Wilks' lambda
+0.00889). By accounting for all the measured variables,
+this test demonstrates that Phragmites and
+shortgrass communities occupy highly dissimilar
+soils. One-way ANOVAs on both the raw and standardized
+data (relative difference) show that each
+of the measured characteristics differ between
+Phragmites plots and the shortgrass plots (Table 1).
+Aboveground biomass of" Phragmites was nearly
+10 times the biomass of shortgrass plots (1,868 -
+189.34 g m ~ versus 199.02 ~ 37.97 g m ~). Interstitial
+water salinity was c. 2%o less in Phrrl~itea
+plots than in the shortgrass plots (6%o versus
+8%o). Marsh water levels at low tide averaged 4 cm
+below the soil m the Phragmites plots and 4 cm
+above m the shortgrass plots. Shortgrass plots had
+over 8 cm rnicrotopographic relief', whereas the
+soil surface was relatively flat in Phragmites plots,
+averaging less than 1 cm relief'.
+At high tide, reduction-oxidation potentials in
+Phrctg'mitea plots were 175-200 mV higher than in
+neighboring shortgrass plots. At low tide, Phragrvi
+te.s redox potentials were still higher than shortgrass
+redox potentials, but the difference between
+the communities was narrower (75-100 mV). This
+narroudng of" the difference between the communities
+came mostly fiorn a significant increase within
+the shortgrass community, whose average redox
+potential increased nearly 100 mV from high to
+low tide (p < 0.0014) I'hese tidally-influenced
+temporal differences in redox potential accompanied
+strong spatial differences between the hummock
+and hollow topography of' the shortgrass
+community (7667 versus 166.9 at high tide,
+hummock versus hollow). Within plot differences
+in redox potential were not significant for Phrc~g
+mites communities, although there were significant
+differences in shoi tgrass communities at high tide
+between hummock and hollow sites (p = 0 0156),
+demonstrating the potential importance of microtopography
+Despite known differences in root
+structure, no significant differences were found
+with depth ( 5 cm and 10 cm) either within or
+between the communities.
+Soil properties were highly intercorrelated withm
+the Phragmites communities (Table 2 ) Notably,
+soil properties were correlated with biomass in
+plots with Phragmites present (C, D, E, arid F), and
+both biomass and soil properties were correlated
+with the ages of Phragmites plots. Salinily, water level,
+and maximum micro topographic relief weie all
+negatively correlated with plot age and biomass.
+Whereas redox potential measured at low tide was
+too variable to show a correlation with age or biomass,
+at high tide redox potential was positively
+correlated with both factors
+The five variables also showed distinct patterns
+of change along the transect gradient of' species
+cover (tiansect plots) and along an age g r a d i e n t
+Figure 4 depicts how the five variables along the
+transect gradient vary as Phrag~ites cover increases.
+Figure 5 shows how biomass and soil properties
+vary with age classes of Phr~ites expansion
+Whereas d e a r differences were found between
+the ends of the transect (pure shortgrass plots and
+pure Phragmites plots ) , we found different patterns of change along
+the transect with the increasing
+presence of Phragmites. biomass increased with the presence of mature, 
+flowering culms (D plots) but did not peak until the plots were dominated 
+by Phragmites (100%% cover plots e and f, fig 4). water levels and microtop relief
+followed the same pattern across the transect; a small decrewase with the presence 
+of mature culms adn a further decrease with 100% Phragmites cover.
+salinity also dereased witht he presence of mature culms of Phragmites. in contrast, redox 
+potentials did not show increases until the plots were dominated by Phragmites (100% cover, plots f and r).
+edaphic differences between the two communities developed over a relatively short 
+period. Aboveground biomass significant rose and peaked at 8 ye of age, showing no rise with increasing 
+age of the plots. The decrease in salinity and increase
+in redox potentials of Phrag~ites plots also
+diverged ~}oin the shortgrass plots and stabilized
+at 8 vr of a g e %*r level and microtopographic
+relief both showed small decreases in g=yr-old plots,
+but the lowest levels were reached at older ages
+Water le:eels hit their lowest levels in 15-yr-old plots
+and stabilized at this level as age increased, whereas
+microtopographic relief stabilized at low levels
+by the 8th year of Phrag'mites presence
+
+xdiscussion
+Soil under Ph*agmites cover is strikingly different
+fi-om addacent soil unde~ shortgrass communities
+Further, the age and bioma~ss of Ph~-agmites communities
+are significantly correlated v~dth redox potentials
+at high tide, salinity,, water levels, and maximum
+ielief. These data indicate that an invasion
+of Phragmites into shortgrass communities alters the
+physical conditions of brackish tidal marshes.
+The differences in soil and biomass between
+Phmgmitea and shortgrass communities may be influenced
+by- morphologica[ and physiological differences
+between the species The most apparent
+difference is that Ph,-agmites stands of the Mullica
+River have nearly 10 times the aboveground live
+bioma~ss than do shortgrass stands The rapid and
+dense growth of Phrccgrnites is supported by- large
+carbohydrate stores in underground rhizomes or
+rhizomatous connections to established stands of
+Phragmites.
+The strong correlations between aboveground
+biomass and several of the soil properties may result
+from several %edbacks on soil properties.
+Greater amounts of abovegro und biomass in Phragmites
+ may influence the rise in redox potentials and
+lowering of wate~ levels (Howes et al. 1981) Increased
+leaf area and litter build-up may shade
+soils, reducing evaporation and ieducing salinities
+(Bertness and Hacker 1994) Increased litter production
+may also fill hollows in the soil surface,
+thereby raising the soil le~eel above the water table
+and also smoothing the surface microtopography.
+Differences in gas transport systems in each corr~-
+munily may- explain the differences in redox potential
+and bioma~ss. Phmgmites is the only salt
+marsh grass that has been demonstrated to use a
+Venturi-enhanced convective throughflow of gases
+to provide oxygen to its roots and to remove accumulated
+toxic gases (e.g., H2S, Armstrong and
+Armstrong 1991). Compared with such shortgrasses
+as @aftincc patens and DisticMis @icata, which depend
+on radial diffusion of oxygen fiom their
+roots, Phfagmites may be more efficient at aerating
+its rhizosphere, both in magnitude and in depth
+of aeration.
+The difference m interstitial saiini  between the
+two communities may be influenced toy different
+methods of osmoregulation @c~rtina patens uses
+glands to expel excess salts, while Phragrnites incorporates
+sahs through ion accumulation and builds
+osmotic regulatory pressure in its thizomes (UnBar
+1991) By sequestering sahs in its belowground tissues,
+Phragmites may be able to reduce the surface
+soil salinities of brackish tidal marshes, thereby
+maintaining a higher capacib" for ammonium adsorption
+in the soil (Rysgaard et al. 1999) le~,~ereas
+all of the salinities measured (range 2-11%o) weie
+within the range of Phragmites tolerance, the higher
+salinities of the shortgrass communities probably
+do not prohibit Phrccgrnites expansion, which appears
+to be continuing.
+Suong differences between Ph*agmites-dominant
+and S. patens-dominant communities in soil microtopography
+and redox potentials may be a resuh
+of the highly dissimilar root morphologies. Phrccg
+mites communities may9 show low soil mic~otopography
+and low spatial variation in redox potentials
+due to their sod-building root structure of regularly
+distributed, large, deep roots of low density
+(Haslam 1970). The clumped, high density, shallow
+roots of S. patens, a caespitose grass, are probably
+responsible for the se~eere microtopographic
+relief (e.g., hummocks and hollows) and the higher
+spatial and temporal variation in redox potentials
+The relationship of age to biomass and soil propeities
+can indicate the number of' years necessary
+to generate significant changes in edaphic characteristics
+Perhaps the most notable aspect of this
+study is the speed of both the invasion and the
+subsequent soil changes From its first documented
+appearance on the island in 1971 until 1991, Phmg:
+mitas had completely- replaced 8.g.1% of the vegetated
+surf.ice of the island, an average annual rate
+of spread of 20% Over these ~C yr, Phragmites coverage
+in the sho~tgrass community alone had incieased
+fiom 084% to 44%, mostly through clonal
+expansion (L. Windham unpublished data ) this
+rapid replacement of the extant plant communities
+is among the moie rapid rates reported for a Ph~ag
+mites invasion Further, Hog [sland is a relatively
+undisturbed marsh Relative sea-level iise (approximately
+1 mm yr 1) hats been occuiiing at the site
+(Durand 1998), but the increased water level and
+salinil 7 would be expected to favor the more salttolerant
+and flood-tolerant shortgrass species over
+Phmgmites (Warren and Niering 1993)
+Regardless of why Phragmite~ is expanding on
+Hog Island, changes in soil properties occur quickly
+when Ph,-agraites is plesent. Both microtopographic
+relief and water levels are decreased sig
+nificantly afler Phragmites has been present in a
+community fo* only 3 yn These properties continue
+to decrease with age, stabilizing at their lowest
+levels after 8 yr and 15 yr, respectively. Interestingly,
+the changes occur independently of aboveground
+biomass, which would appem to be the driving fuctor
+for soil alteration
+Aboveground biomass of Pl~ragr~ites communities
+increases beyond shortgrass communities at 8
+yr of age when Phragr~ites stands reach and stabilize
+at approximately 2,000 g m ~ Increases in redox
+potential mirror this relationship, peaking and stabilizing
+when biomass peaks and stabilizes, at approximately
+8 yr of age. In less than 15 yr, a[1 of
+the measmed biomass and soil variables in Phrag
+mites communities ~each their peak differences
+fi-om shortgrass communities These rapid changes
+likely create a positive feedback loop promoting
+Phrag,mites dominance over time and increasing
+rates of clonal expansion
+As nitrogen is commonly a limiting nutrient in
+brackish tidal marshes, alterations of biogeochemical
+nitrogen wcling may be one method by which
+differences m environmental characteristics promote
+PI~ragmites dominance A substantial increase
+in aboveground biomass should ieflect an associated
+increase in dissoNed inorganic nitrogen uptake
+(Mendelssohn 1979). Given known limitations
+on nitrogen uptake by- plants under low redox potentials
+(DeLaune et ab 1984; Bmdick et a l 1989),
+Phragmites may- become a better competitor for this
+limiting nutrient by altering the rhizosphere Buried
+organic nitrogen may- be mineralized foster in
+a more oxic envilonment, thereby increasing ammonium
+supply rates Further, small increases in
+salinity- levels on the high marsh have been stiovwt
+to inhibit nitrogen uptake (Bandyopadhyay et ab
+199S), reduce the soil capacity for ammonium adsorption
+(Rysgaard et al. 1999), and limit prmiary
+productivity- (Deschenes and Serodes 1985), often
+due to the high energy investments necessary to
+exclude salts (Cavalieri and Huang 1981). In accordance
+with the resource ratio hypothesis (Tilman
+1982), an increase in nitrogen availability-may
+be an additional mechanism to account for the
+continually successful invasion of Phragmites into
+undisturbed shortgiass communities
+Uptake of dissolved nitrogen into microbial biomass
+may increase due to the larger surf:ace asJd
+belowground litter pools of Phragw~ites comniunities
+(Bowden 1987) Other effects, such as a reduced
+salinity and higher redox potentials, may
+serve a role in increasing rates of niuification
+Some of the highest observed wetland nitrification
+rates were measured in freshwater Phrccg~ites beds
+(gowden kqS ~") . Additionally, accumulated hydrogen
+sulfide (Hs8) has been found to inhibit nitrifying
+bacteria for at least 24 h after Hz8 formation
+(Joye and i-{ollibaugh 1995). This suggests that
+shortgrass communities, through their fluctuating
+and depressed redox potentials, may have a lowei
+capacity- for generating nitrate, even when periodically
+aerobic If the replacement of shortgrass
+comnmnities with Phragmites Leduces the build-up
+of HsS and other reduced sulfides m the soil, this
+change in species composition may increase the
+rate of nitrification
+The vertical accumulation rates of organic and
+mineral matter are likely to be higher in Ph~agw~ites
+stands than ixl neighboring 5pc~tirtc~ stands, A high
+rate of peat build-up may- decrease the duration
+and depth os and possibly reduce the loss
+os nutrients, gy raising the soil surf:ace, nitrate produced
+within Phra~mite~ marsh may be less susceptible
+to tidal flushing, and instead may be increasingly
+used in denitrification, since denitrification
+[n cm~bon-rich sediments has been found to be nitrate-
+limited (Sei~zinger et ab f991), Coupling of
+high rates os nitrification and denitrification can
+play a strong role in reducing eutiophic pressures
+in a marsh f~oni nitrogen [oading ( ~ i t n e y e[ al,
+1981), As can be seen by- the inherent differences
+between the plant communities, the long standing
+question of the relative importance of tidal marshes
+as sources or sinks f~Jr nitrogen (Nixon 1980)
+may best be asked on a community-by-community
+level.
+While the causes of Phra~ites invasions into undisturbed
+brackish tidal marshes of New_Jersey remain
+unknown, we have demonstrated physical
+consequences of Phragmite,s invasions to the high
+marsh environment. The associations of" edaphic
+features with age suggest that Phrag~ites expansion
+into shortgrass communities g~eatly increases
+aboveground biomass arid redox potentials, and
+decreases soil surf~Jce salinity-, marsh water levels,
+asJd microtopographic relief. These edaphic differences
+suggest that ecos3~stem processes will be altered
+when Phr~gf~ites invades a tidal brackish
+marsh. We predict that in comparison with shortgrass
+communities, nitrogen cycling will be llloYe
+loosely coupled with tidal fluxes in a Phxagmites
+conimunity, due to greater internal cycling of
+stored nitrogen and losses through denitrification.
+These demonstrated differences suggest the species
+composition of marsh vegetation may be important
+to defining the role of salt marshes as a
+source or a sink os nutrients for coastal waters.

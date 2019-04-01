@@ -1,0 +1,767 @@
+xabstract
+
+1. Many species are expanding their distribution towards higher latitudes and altitudes in response
+to climate change. These range shifts are expected to change fish community structure and alter
+food-web dynamics in subarctic lakes. However, the impacts of invading species on native fish and
+invertebrate prey communities remain understudied.
+2. The trophic ecology of invasive species determines the likelihood of direct resource competition
+with native taxa. In Northern Europe, perch (Perca fluviatilis), a trophic generalist, and ruffe (Gymnocephalus
+cernuus), a benthic specialist, are expanding their distribution ranges northwards, colonising
+lakes inhabited by a native generalist, whitefish (Coregonus lavaretus). We predicted that increased
+fish diversity and density would deplete the invertebrate community and increase resource competition
+between native and invasive species.
+3. To assess the degree of resource competition between native and invasive species, we compared
+(i) fish and invertebrate community structure; (ii) diet and stable carbon and nitrogen ratios of white-
+fish, ruffe and perch and (iii) growth, condition and relative population size of whitefish in two noninvaded
+lakes with two lakes containing one and two lakes containing both invasive species. Each
+lake was sampled on a single occasion between August and September.
+4. Benthic macroinvertebrate density and community structure were unaffected by increased consumer
+diversity, while top-down control of pelagic zooplankton density and size was evident in
+lakes with increased fish diversity.
+5. Differences in diet and stable isotope ratios were evident between all whitefish populations,
+although these were not directly related to the presence of invasive species. Specialised adaptations
+of invasive species may confer a competitive advantage in invaded lakes; ruffe dominated the profundal
+niche, while perch displayed an ontogenetic shift to piscivory, reducing niche overlap with
+native whitefish.
+6. Growth rate and population density of whitefish were largely independent of fish community
+structure and were governed by local variations in lake productivity. However, there was a sign of
+lowered condition of whitefish in invaded systems. Shallow and more productive lakes with higher
+food availability supported populations of native and invasive species.
+7. Our findings indicate that trophic specialisations of invasive species play a key role in determining
+their impacts on the systems they invade. This study focussed on early stages of invasion, and the
+outcome of species interactions may change following the establishment of new species. In addition,
+these impacts will not be uniform across the invaded landscape as lake-specific variations in
+
+ morphometry and resource availability will alter the competitive balance between native and invasive
+species.
+
+xintroduction
+
+
+
+Shifts in distribution driven by climate change have
+been recorded in numerous terrestrial, marine and freshwater
+species (Mack et al., 2000; Graham & Harrod,
+2009; Jeppesen et al., 2012). Such range shifts may lead
+to novel species assemblages (Pereira et al., 2010; Comte
+et al., 2013) and altered food-web structures (Vander
+Zanden, Casselman & Rasmussen, 1999; Simon & Townsend,
+2003), which can have detrimental effects on
+native species and ecosystem functioning (Parmesan,
+2006). Investigations of trophic interactions between
+native and invasive species at their current distribution
+range boundaries can provide an insight into the likely
+repercussions of range expansion.
+Bioclimate envelope models (i.e. direct extrapolation
+of species range with changing temperature) are helpful
+to detail how species distributions may change in accordance
+with increasing ambient temperature (Pearson &
+Dawson, 2003). As fish can be classified into ëwarmí,
+ëcoolí and ëcold waterí thermal guilds, depending on
+their preferred temperature range (Fry, 1971; Magnuson,
+Crowder & Medvick, 1979), they make ideal candidates
+for bioclimatic modelling. However, such models
+exclude the interspecific ecological interactions that
+determine species distributions at a local level (Hampe,
+2004). Here, ecological interactions (i.e. predation and
+resource competition) with native species determine not
+only the degree to which invading species will succeed
+in novel environments, but also the impacts of invasions
+upon the receiving ecosystem (BystromÄ et al., 2007;
+Vitule, Freire & Simberloff, 2009). The ecological strategies
+of native and invasive species are important in this
+regard (Marchetti, Moyle & Levine, 2004; Sax et al.,
+2007). For example, an introduced specialist may be able
+to dominate its preferred resource and exclude native
+competitors (B¯hn & Amundsen, 2001; B¯hn, Amundsen
+& Sparrow, 2008). Conversely, an invasive generalist
+may be able to utilise a variety of resources in the novel
+habitat to alleviate direct competition with native taxa.
+In addition to competitive interactions, the carrying
+capacity of the system is crucial in determining whether
+additional species will be able to establish and have a
+deleterious effect upon the receiving ecosystem (Lockwood,
+Hoopes & Marchetti, 2007). When the system
+approaches carrying capacity, consumers will exhibit a
+controlling effect on the abundance of prey items, and
+consequently, instances of resource competition between
+native and invasive species will increase (B¯hn &
+Amundsen, 2001). In addition, climate-driven range
+shifts are not limited to one species, as multiple species
+will be likely to migrate into new habitats during a similar
+timeframe (Graham & Harrod, 2009). This poses
+questions regarding the impacts, not only of increased
+consumer numbers, but also novel assemblages of species
+and foraging strategies which affect both resident
+prey and fish communities.
+Subarctic lakes provide ideal ecosystems to study these
+questions as they maintain relatively simple food webs.
+The dominant native fish species in subarctic Fennoscandian
+lakes is the monomorphic large sparsely rakered
+(LSR) whitefish (Coregonus lavaretus), which is an ecological
+generalist utilising both pelagic and benthic prey
+(Kahilainen et al., 2007; Harrod, Mallela & Kahilainen,
+2010). In some large and deep lakes, whitefish have
+undergone adaptive radiations into specialist pelagic and
+benthic morphs, but most lakes are inhabited by monomorphic
+LSR whitefish (ÿstbye et al., 2006; Siwertsson
+et al., 2010; Kahilainen et al., 2011). This region represents
+the northern range limit for percid species; perch
+(Perca fluviatilis) and ruffe (Gymnocephalus cernuus)
+(Tammi et al., 2003), both of which have potential to
+expand their range northwards in parallel with increasing
+ambient water temperatures. Perch is an ecological
+generalist utilising ontogenetic dietary shifts from zooplankton
+to benthic macroinvertebrates before finally
+becoming piscivorous (Persson, 1983; Amundsen et al.,
+2003). Ruffe is a benthic specialist with a diet dominated
+by chironomid larvae and a special preference for egg
+predation (Ogle, 1998). Invasive populations of ruffe have
+been recorded outside the native range of the species
+(Winfield, Dodge & Rosch, 1998). As an efficient benthi- Ä
+vore, ruffe is able to dominate benthic resources and
+potentially to cause detrimental trophic shifts in native
+species, particularly generalists such as perch and white-
+fish (Bergman & Greenberg, 1994; Adams & Maitland,
+1998). Range expansion by ruffe and perch into lakes
+containing resident whitefish provides an opportunity to
+examine the ecological processes of early stage invasion
+in fish communities (Lockwood et al., 2007).We investigated the trophic ecology of native white-
+fish in non-invaded (NI) lakes and in lakes containing
+one or both invasive percids, highlighting the effects of
+increased consumer diversity on invertebrate community
+structure and in turn on growth, condition, length and
+population size of native whitefish. We tested three principal
+hypotheses: first, that increased fish diversity and
+density would alter the community structure of benthic
+macroinvertebrates and zooplankton towards smaller
+species and body sizes via selective predation (Brooks &
+Dodson, 1965; Blumenshine, Lodge & Hodgson, 2000;
+Amundsen et al., 2009); second, that perch and ruffe, as
+more efficient benthivores (Ogle, 1998; Amundsen et al.,
+2003), would dominate the benthic prey resources resulting
+in a dietary shift towards pelagic feeding by generalist
+whitefish; third, that whitefish would exhibit reduced
+levels of somatic growth and condition in invaded systems
+due to resource competition with the invasive species
+(B¯hn & Amundsen, 2004).
+xmethods
+The study was conducted on six lakes in north-western
+Fennoscandia (Fig. 1), comprising two replicates of (i)
+whitefish-dominated NI lakes; (ii) lakes containing
+whitefish and ruffe (WR) and (iii) lakes containing
+whitefish, ruffe and perch (WRP). Numbers of fish species
+in each lake varied from 4 to 12, of which the coregonids
+[LSR whitefish, densely rakered (DR) whitefish
+and vendace Coregonus albula] and invasive percids
+(ruffe and perch) were the most abundant (Table 1).
+Additional fish species, most notably brown trout (Salmo
+trutta), grayling (Thymallus thymallus), pike (Esox lucius)
+and burbot (Lota lota), were present in some lakes
+(Table 1). Sampling was conducted on one occasion
+between August and September 2011, except in Lake
+Palo, which was sampled in August 2009. With the
+exception of Lake Palo, which is classed as mesotrophic,
+all lakes were oligotrophic as is typical of this region
+(Table 1).Bathymetric maps were created for each lake using
+hydroacoustics. Vertical light profiles were measured
+so that compensation depths (depth at which
+light = 1% of surface light) could be calculated (Lampert
+& Sommer, 2007). Littoral (benthic areas situated
+in waters shallower than the compensation depth),
+profundal (benthic areas deeper than compensation
+depth) and pelagic (open water above the profundal)
+zones were subsequently identified and quantified in
+each lake prior to sampling.
+Benthic macroinvertebrates were collected from a transect
+using an Ekman grab (sampling area of 234 cm2
+)
+following a previously established methodology (Kahilainen,
+Lehtonen & KonÄ onen, 2003). Lake Palo was sampled Ä
+using a larger Ekman grab (sampling area of 272 cm2
+).
+Three replicates at each depth were taken along a depth
+contour transect at depths of 1, 2, 3, 5, 10, 15 and 20 m
+(when lake depth permitted) to represent a continuum
+from littoral to profundal habitats. Samples were sieved
+through a 0.5-mm mesh, and individuals were subsequently
+identified to family level and macroinvertebrate
+density (individuals m2
+) calculated for each depth. Blotted
+mass (g) of each group was weighed (accuracy
+0.0001 g), and biomass values (g m2
+) were calculated for
+littoral and profundal macroinvertebrate communities in
+each lake. Mean individual mass was obtained by dividing
+total invertebrate biomass by the number of individuals.
+Biomass data were not available for Lake Palo due to a
+restricted sampling procedure in place at that time (2009).
+Pelagic zooplankton were sampled using a zooplankton
+net (25 cm diameter, 50-lm mesh size) hauled vertically
+through the entire water column. Individuals were
+identified to family level, and zooplankton density (individuals
+L1
+) was determined for each lake. Body length
+(accuracy of 0.01 mm) of a random subsample (n = 30,
+when available) of individuals of each family was measured
+using an Olympus CK30-F200 microscope (Olympus
+Optical Co., Postfach Hamburg, Germany). Body
+length of all small benthic crustaceans (i.e. Ostracoda,
+Eurycercus spp. and Megacyclops spp.) sampled was
+recorded in each lake except Lake Palo.
+Fish were sampled using gill nets. Selection bias associated
+with gill netting is well established (Carol & GarciaBerthou,
+2007); however, the methodology remains the
+most effective and widely employed way of sampling fish
+in lakes (CEN, 2005). To overcome the inherent bias, a
+wide selection of mesh sizes were used and sampling
+effort was standardised between systems. Gill net series
+consisting of eight nets, each 30 9 1.8 m with knot-toknot
+mesh sizes of 12, 15, 20, 25, 30, 35, 45 and 60 mm
+(Kahilainen et al., 2004), and a 30 9 1.5 m Nordic multimesh
+net, which was comprised of 12 equidistant 2.5 m
+panels with mesh sizes ranging from 5 to 55 mm (Appelberg,
+2000). Nets were set overnight in littoral, profundal
+and pelagic zones of each lake. The number of nets set
+was determined by the size of the lake, but at least three
+replicates were conducted in each habitat type (littoral,
+profundal and pelagic). The shallow littoral nature of
+Lakes Kolta and Palo precluded pelagic/profundal sampling. Consequently, fish density analysis was limited to
+data collected from benthic (combined littoral and profundal)
+gill nets, which were comparable across all systems.
+Density and biomass catch per unit effort (CPUE)
+values were calculated as number of fish and grams of
+fish per gill net series per hour.
+All fish captured were identified to species level in
+the field and whitefish were identified to morph according
+to head and gill raker morphology (Kahilainen et al.,
+2011). Total length (1 mm) and blotted mass (0.1 g)
+were recorded for each individual, and representative
+subsamples of fish were frozen (20 ∞C) for subsequent analysis of diet, growth and carbon (d13C) and nitrogen
+(d15N) stable isotope ratios.Piscivory by perch is common in the study area (Amundsen
+et al., 2003). However, the focus of this study was
+ecological interactions among whitefish, ruffe and perch,
+which may use similar invertebrate prey resources. As
+piscivory is rare in whitefish and ruffe, perch whose
+stomachs contained fish were considered piscivorous
+and analysed independently of the rest of the sample.
+Individual stomach fullness was visually estimated
+using the points method (Hynes, 1950) on a scale of
+0ñ10 (0 = empty, 10 = extended full stomach). Relative
+volumetric proportions of different prey categories were
+estimated. Stomach contents were divided into eight
+categories: chironomid larvae, trichoptera larvae, small
+benthic crustaceans, large benthic crustaceans (Asellus
+aquaticus and Gammarus lacustris), Mollusca (Valvata sp.,
+Lymnaea sp. and Pisidium sp.), pelagic zooplankton
+(Bosmina sp., Daphnia sp., Calanoida, Cyclopoida), surface
+insects (insect pupae & adults) and other rare prey
+items (macrophytes, Hydracarina, Polyphemus pediculus,
+Hirudinea, biofilm and decomposed material). The relative
+volume of each category was calculated for each fish
+population. Body size of zooplankton and diameter of
+molluscs (10 random individuals per fish, when available)
+were subsequently measured to identify variations
+in prey size selectivity between native and invasive fish
+species (Kahilainen et al., 2007).
+A small piece of muscle tissue was excised from the dorsal
+flank of a subsample of each species for stable isotope
+analysis. Sample sizes of whitefish, ruffe and perch varied
+between 44 and 75 individuals per species. In addition, all
+pike captured (n = 15ñ28 per lake) were analysed. All isotope
+samples were freeze-dried, ground to a fine powder
+and weighed (0.5ñ0.6 mg) in aluminium foil cups. d13C
+and d15N values were recorded using FlashEA 1112 elemental
+analyser coupled to Thermo Finnigan DELTAPLUS
+Advantage mass spectrometer (for details see Fry & Sherr,
+1984). Fish d13C values were arithmetically lipid normalised
+to remove the influence of variable lipid concentrations
+prior to data analysis (Kiljunen et al., 2006). d13C and
+d15N values were obtained for each macroinvertebrate
+family recorded at each depth along the transect. In
+instances where too few individuals were obtained to
+provide an effective sample size (0.5ñ0.6 mg), samples
+from neighbouring depths were pooled. Mean littoral and
+profundal values, based on the light compensation point
+in each lake, were subsequently calculated from the
+macroinvertebrate family values at the relevant depths.
+Zooplankton samples from multiple vertical tows were
+pooled to obtain sufficient sample weight (0.5ñ0.6 mg).Growth rates of whitefish were calculated from lengthat-age
+data determined from burnt and cracked otoliths
+(Bagenal & Tesch, 1978). As the data were not normally
+distributed, mean length-at-age values between systems
+were compared using pairwise Welchís t-test, an analogue
+of the Studentís t-test without the requirements
+for similarities of variance. Welchís t-tests were performed
+in R (R Development Core Team, 2012). Fulton
+condition factor (k) of each whitefish was determined
+according to Bagenal & Tesch (1978):
+k º M
+TL3
+   100
+where M is the blotted fish mass (g) and TL is the total
+fish length (cm). Variation in condition factors between
+lakes and fish communities was assessed using Welchís
+t-test.
+Variation in fish and invertebrate community structure
+and in the stomach content of fish was examined
+using PERMANOVA (PRIMER 6.1.13; PRIMER-E, Plymouth,
+U.K.), a nonparametric permutation-based analogue
+of analysis of variance between two or more
+groups based on a distance measure (Anderson, 2001;
+McArdle & Anderson, 2001). In each case, a Brayñ
+Curtis similarity matrix (Bray & Curtis, 1957) was created
+from non-transformed abundance data. Two factor
+PERMANOVAS were performed on the fish, macroinvertebrate
+and zooplankton community structure similarity
+matrices to test the effect of ëlakeí (six levels, random)
+and ëfish communityí (three levels, fixed), with ëlakeí
+nested within ëfish communityí, on variation within the
+data set. A third factor, ëspeciesí (three levels, fixed), was
+included in the analysis of stomach content. In invaded
+lakes, levels of dietary overlap were explored using pairwise
+PERMANOVA analysis. When significant variation
+(P < 0.05) was observed between groups, percentage similarity
+analysis (SIMPER) was used to determine which
+prey items contributed most to the difference (Clarke,
+1993). Comparisons of mean length of zooplankton and
+small benthic crustaceans, and mean mass of macroinvertebrates
+between fish communities were performed using
+Welchís t-test.
+The dietary niche of each species was calculated using a
+standardised Levinsí index (Levins, 1968). As the value of
+Levinsí index increases with sample size, niche width was calculated based on the diet of a randomly selected subsample
+of individuals (n = 30). Ontogenetic shift in perch
+diet was examined using a Spearmanís rank correlation of
+the proportion of fish in the stomach against total length
+of perch. In addition, stomach content of the top consumer,
+pike (n = 15ñ28 per lake), was examined to test the
+degree to which they fed on native and invasive species.
+Isotope values of consumers are largely defined by the
+isotopic values of their prey, which may vary both spatially
+and temporally (SyvÄaranta, HÄamÄalÄainen & Jones,
+2006). As such, between-lake analyses may be biased by
+underlying variation and were not conducted in this
+case. Levels of overlap between species stable isotope
+ratios were determined using pairwise PERMANOVA analysis
+of d13C-d15N centroids, based on a Euclidean distance
+matrix created from the d13C and d15N values of white-
+fish, ruffe and perch in each lake. Resource use of fish
+was subsequently determined using stable isotope mixing
+models (Boecklen et al., 2011). The relative importance
+of littoral, pelagic and profundal sources to each
+species was calculated using the Bayesian mixing model
+ëStable Isotope Analysis in Rí (SIAR; Parnell et al., 2010).
+Standard trophic fractionation values for muscle tissue
+(D13C = 1.3  0.3, D15N = 2.9  0.3) were used in all
+cases (McCutchan et al., 2003). Comparison of resource
+use between species and systems was conducted by comparing
+the 95% credibility limits of each prey source, if
+credibility limits did not overlap species were deemed to
+be utilising the resource at significantly different levels.
+The isotopic niche breadth of each species was calculated
+based on the standard ellipse of d13C-d15N space
+(Jackson et al., 2011). To overcome the disparity in sample
+sizes, the area of a small-sample-size-corrected
+ellipse (SEAc), calculated using ëStable Isotope Bayesian
+Ellipses in Rí (SIBER; Jackson et al., 2011), was used to
+determine isotopic niche size. Variation in niche size
+between species was subsequently calculated using the
+likelihood test in SIBER (Jackson et al., 2011). SIAR and
+SIBER analyses were performed using the ëSIAR package,
+version 4.1.3í, in R (R Development Core Team,
+2012). Ontogenetic shifts in isotopic position of fish were
+tested using a Spearmanís rank correlation of d13C and
+d15N against total length of fish.
+
+xresults
+
+
+
+Benthic macroinvertebrate abundance (n m2
+) varied
+between lakes (pseudo F3,45 = 5.8, P < 0.01), but variation
+was not associated with fish community structure (pseudo F2,45 = 0.7, P = 0.8; Table 2). Overall macroinvertebrate
+density was greater in WRP lakes than in WR
+lakes (t = 3.9, d.f. = 34, P < 0.01). High variation
+between both NI lakes (L. Kolta contained the highest
+density recorded in the study and L. Kuohkima contained
+the lowest density; Fig. 2a) obscured any difference
+between these and WR (t = 1.6, d.f. = 27.2,
+P = 0.11) or WRP lakes (t = 0.77, d.f. = 34.7, P = 0.45).
+Within-lake variation was evident as littoral macroinvertebrate
+density was higher than its profundal counterpart
+in all lakes (pseudo F1,45 = 6.5, P < 0.01).
+Zooplankton community structure (ind L1
+) varied
+between lakes (pseudo F3,17 = 6.2, P < 0.01; Table 2), but
+this was unrelated to fish community structure (pseudo
+F2,17 = 1.6, P = 0.24). Mean density of pelagic zooplankton
+(Fig. 2a) was higher in NI lakes than in with WR
+lakes (t = 3.1, d.f. = 6.8, P = 0.02) or WRP lakes (t = 3,
+d.f. = 6.5, P = 0.02), although no variation was evident
+between invaded lakes (t = 0.2, d.f. = 9.9, P = 0.85).
+Mean zooplankton size decreased relative to fish diversity
+(Fig. 2b). Zooplankton were smaller in WR lakes
+than in NI lakes (t = 10.7, d.f. = 525.3, P < 0.01). Similarly,
+zooplankton in WRP were smaller than in WR
+lakes (t = 8.6, d.f. = 450.1, P < 0.01). Measurements were
+not available for small benthic crustaceans in Lake Palo
+but the populations in Lake Kivi contained smaller individuals
+than those in NI (t = 2.6, d.f. = 0.01, P < 0.01)
+and WR lakes (t = 3.4, d.f. = 164.5, P < 0.01). No
+variation in mean size was evident between small benthic
+crustaceans in NI and WR lakes (t = 3.4, d.f. =
+149.6, P = 0.28; Fig. 2b). Mean macroinvertebrate mass
+did not vary between fish communities (P > 0.05 in all
+cases; Fig. 2b).Two perch were recorded from Lake Ropi, indicating that
+the species may be beginning to establish in this lake;
+however, this was not deemed sufficient to reclassify the
+lake. Significant variation in fish community structure
+(CPUE) was evident between lake types (pseudo
+F3,37 = 2.7, P < 0.04), principally due to variation between
+NI and WRP lakes (Table 1; t = 2.3, d.f. = 2, P = 0.02).
+Proportional composition of whitefish decreased from c.
+90% in NI lakes (mean  SD: L. Kolta: 88  9%; L. Kuohkima:
+89  8%) to a lower proportion in WR lakes (L.
+Oiko: 74  14%; L. Ropi: 16  20%) and WRP lakes (L.
+Kivi: 42  15%; L. Palo: 10  7%). Whitefish density varied
+between lakes but this variation was not associated
+with fish community structure (Fig. 3a). Whitefish
+2000
+ biomass (g net series1 h1
+) was indistinguishable
+between NI and WRP lakes (t = 1.2, d.f. = 12.3, P = 0.27),
+but reduced biomass was observed in WR lakes relative
+to both NI (t = 2.8, d.f. = 10.7, P = 0.01) and WRP
+(t = 2.6, d.f. = 26.9, P = 0.01) lakes (Table 1; Fig. 3b).
+Mean total length of whitefish also varied between fish
+communities; whitefish in NI lakes (mean  SD:
+25.3  7.4 cm) were larger (t = 10.7, d.f. = 362.2,
+P < 0.01) than those in WR (14.8  4.7 cm) lakes and WRP
+(17.3  7.8 cm) lakes (t = 10.5, d.f. = 287.9, P < 0.01). Mean
+size of whitefish in WRP lakes was larger than in WR
+lakes (t = 6.7, d.f. = 675.5, P < 0.01).
+A decrease in mean condition factor (k) of whitefish was
+observed between NI and WR lakes (Fig. 3c; t = 3.2,
+d.f. = 239.8, P < 0.01). Condition of whitefish was lower in
+WRP lakes than in WR lakes (t = 8.8, d.f. = 187, P < 0.01).
+However, significant variation was evident between the
+two study lakes in the latter category (t = 23.5,
+d.f. = 129.6, P < 0.01); whitefish in Lake Kivi exhibited the
+lowest condition (mean  SD: 0.7  0.1), while the highest
+condition factor was observed in Lake Palo (1.2  0.15).
+The highest growth rates of whitefish were observed
+in Lakes Palo and Kolta (Table S2; Fig. 3d). Growth of
+whitefish was unrelated to fish community structure.
+Significant variation was observed between pairwise
+length-at-age values of whitefish in the replicate lakes in
+NI (t = 3.5, d.f. = 5, P = 0.02), WR (t = 2.9, d.f. = 7,
+P = 0.02) and WRP (t = 7.7, d.f. = 6, P < 0.01) systems.
+L. K Whitefish and percids utilised distinct prey resources
+across all systems (pseudo F1,2 = 6.2, P < 0.01). In each
+lake, the diet of ruffe was distinguished from that of
+whitefish and perch by a higher proportion of chironomid
+larvae and large crustaceans (Table 3; Fig. 4). Variation
+between whitefish and perch was largely due to an
+increased abundance of small benthic crustaceans in
+whitefish diet relative to perch.
+The diet of whitefish did not differ between fish communities
+(pseudo F2,486 = 0.99, P = 0.53), but variation in
+diet between lakes within each community type was
+observed (pseudo F3,486 = 15.9, P < 0.01). Similarly, the
+diet of ruffe was unaffected by the presence of perch
+(pseudo F1,420 = 2.1, P = 0.19), although lake-specific variations
+were evident (pseudo F2,420 = 24.8, P < 0.01).
+Mean prey size of whitefish (1.95 mm) was larger than
+that of ruffe (1.74 mm), at a close to significant level
+(t = 2.04, d.f. = 13, P = 0.06). Prey size did not vary significantly
+between whitefish and perch (t = 0.84, d.f. = 3,
+P = 0.46) or between perch and ruffe (t = 0.17, d.f. = 4,
+P = 0.87). No variation in niche width was evident
+between whitefish and ruffe (t = 0.65, d.f. = 3,
+P = 0.56). Where present, perch utilised a broader niche
+than whitefish (t = 28, d.f. = 1, P = 0.02) and had a similar
+niche width to ruffe (t = 1.91, d.f. = 1, P = 0.31).
+An ontogenetic shift to piscivory was evident in the
+diet of perch. The proportion of fish in the stomach was
+correlated with total length in Lake Kivi (rs = 0.53,
+n = 99, P < 0.01) and Lake Palo (rs = 0.65, n = 40,
+P < 0.01). The minimum size of piscivorous perch (i.e.
+perch with fish prey in their stomach) was 162 mm in
+Lake Kivi and 150 mm in Lake Palo. In perch over
+150 mm, fish prey comprised 70  44% of stomach content
+in Lake Kivi and 77  42% in Lake Palo. Whitefish
+was the most common prey (43  48%) in the stomach
+content of piscivorous perch, considerably outnumbering
+ruffe (6  23%). Whitefish was the most common prey
+source of pike in Lakes Oiko (61  49%; n pike = 27),
+Ropi (54  55%; n = 22), Kivi (45  49%; n = 18) and
+Palo (48  50%; n = 14). Ruffe were recorded in pike
+stomachs in Lakes Oiko (6  17%) and Kivi (12  35%),
+while perch were not found in any pike stomachs. No
+fish prey was found from ruffe or whitefish stomachs.
+Stable Pairwise PERMANOVA revealed trophic segregation
+between species in most cases (Table 4; Fig. 5). In both
+WR lakes, ruffe displayed a higher d15N value than whitefish (Table 4). This segregation in d15N was also
+evident in Lake Kivi, whereas in Lake Palo, the difference
+was marginally significant (Table 4). Ruffe also displayed
+elevated d15N relative to perch in Lake Kivi, but
+not in Lake Palo (Fig. 5). Variation observed in Lake
+Palo was primarily due to differences in d13C (Table 4).
+The isotopic values of perch and whitefish were statistically
+indistinguishable in Lake Kivi, while in Lake Palo
+perch were depleted in d13C relative to whitefish
+(Table 4). SIBER ellipses revealed increased levels of
+overlap between the isotopic niches of native and invasive
+species in lakes with increased species diversity,
+especially in Lake Kivi (Fig. 5). Isotopic niche size varied
+considerably between species, although no species
+employed a characteristically smaller or larger niche
+than any other across all lakes (Table 4). Stable isotope
+values revealed pike to be the apex predator in all systems;
+mean d13C values of pike were intermediate
+between perch, ruffe and whitefish, while d15N was elevated
+relative to all other species except in Lake Ropi,
+where ruffe had the highest d15N values.
+The isotope mixing model identified overlapping
+resource use between species in most invaded lakes
+(Table 4, Fig. 6). Resource segregation was most evident
+in WR lakes. In Lake Oiko, levels of littoral resource use
+differed between whitefish and ruffe, however profundal
+and pelagic resource use of either species were
+within the 95% credibility limits of the other (Table 4,
+Fig. 6). In Lake Ropi, whitefish predominantly utilised
+littoral resources, while ruffe were more closely aligned
+with the profundal (Table 4, Fig. 6). Resource segregation
+was less evident in WRP lakes as resource use of all
+species was within the 95% credibility limits (Fig. 6).
+Ontogenetic variation in isotopic position was not evident
+in the majority of cases (Table 4). In whitefish, d13C
+values increased over ontogeny in Lake Kolta, while an
+increase in d15N was evident in Lake Palo, both probably
+associated with the diet shift from zooplankton to benthic
+macroinvertebrates. d15N values were strongly correlated
+with total length in both perch populations,
+indicating a diet shift from invertebrates to fish.
+xdiscussion
+
+The invasion of percids did not alter the benthic macroinvertebrate
+community structure or density directly, but
+indirectly lowered zooplankton density and size. This
+apparently was not due to a direct niche shift of whitefish
+into the pelagic habitat. There was some evidence of lowered
+condition, mean length and population size of white-
+fish in invaded lakes, suggesting that whitefish may face
+increased levels of resource competition following invasion.
+In general however, the invading percids showed
+niche segregation with native whitefish. Thus, in an early phase of the percid invasion, there seems to be surprisingly
+low impacts on the native ecosystem.
+Resource competition between species depends on
+prey being a limiting factor and is notoriously difficult
+to prove. However, effects of competing consumers may
+be evident in the prey community as a shift in community
+structure towards smaller species and a size structuring
+of the prey population towards smaller
+individuals (B¯hn et al., 2008). Our results indicate that
+neither effect was evident within the benthic macroinvertebrate
+communities in the studied lakes. Macroinvertebrate
+density was higher in WRP lakes than in WR lakes, while densities in the replicate NI lakes included
+the highest (Lake Kolta) and the lowest (Lake Kuohkima)
+values observed in the study. The density of small
+benthic crustaceans was similarly unrelated to fish community
+structure, with the highest recorded density
+found in Lake Palo. Invertebrate community structure
+reflects a complex interaction between lake-specific productivity
+and predator communities (Diehl, 1992; Townsend,
+2003), and the reported scenario, where resident
+and invasive fish populations are maintained by the
+same resource, suggests that benthic prey were not a
+limiting resource (Hayden et al., 2011). In contrast, it is
+apparent that the pelagic zooplankton community is
+under top-down control, suggesting increased predation
+intensity in the invaded systems. The highest zooplankton
+densities were recorded in NI lakes, and there was
+clear size structuring between zooplankton communities,
+with a smaller mean size recorded in invaded systems.
+These trends concur with previously evidence of predation
+by efficient zooplanktivorous coregonid fishes (B¯hn
+& Amundsen, 1998).
+We predicted that perch and ruffe would dominate
+benthic food resources in each system, leading to a shift
+towards pelagic feeding in whitefish. While both percid
+species were strongly associated with benthic feeding in
+each lake, their presence did not result in increased pelagic
+foraging by whitefish. Results of the stable isotope
+mixing model indicate that in invaded systems, all three
+fishes fed in the same food-web compartment. Dietary
+segregation between the species was evident in the
+stomach contents, although this was typically related to
+a division of benthic prey items and rarely involved a
+shift towards pelagic feeding by whitefish. In WR lakes,
+the species were distinguished by enriched d15N values
+of ruffe. These results are consistent with utilisation of a
+greater proportion of profundal prey, which typically
+have enriched d15N values (Harrod & Grey, 2006). Such
+a division of resources allows both species to feed primarily
+on the benthos, as evident in the stomach content
+data, while maintaining an element of resource segregation.
+Whitefish are principally a visual predator, whereas
+ruffe have adaptations enabling them to feed efficiently
+in dark conditions (Disler & Smirnov, 1977; Schleuter &
+Eckmann, 2006), facilitating more efficient use of the
+profundal zone. There is further evidence of resource
+segregation in lakes containing all three species. In Lake
+Kivi, ruffe were distinguished from both whitefish and
+perch by enriched d15N values, again indicative of
+increased use of profundal resources, although this was
+not evident in the results from the SIAR mixing model.
+In Lake Palo, the opportunity for resource segregation
+was restricted due to the absence of a distinct profundal
+zone. However, perch exhibited depleted d13C values
+relative to both whitefish and ruffe, while dietary segregation
+in stomach contents was also evident between the
+species.Lake-specific factors influenced resource availability in
+the invaded systems, potentially dictating the opportunities
+for resource segregation. Two of the invaded lakes
+contained a pelagic specialist, the DR morph of white-
+fish in Lake Ropi and vendace in Lake Palo. Both DR
+whitefish and vendace are more efficient zooplanktivores
+than LSR whitefish and may exclude them from
+pelagic feeding (B¯hn & Amundsen, 2001; Harrod et al.,
+2010). As such, pelagic resources were not available to
+LSR whitefish in these lakes and could not be used to
+avoid resource competition with percids. The bathymetric
+differences between lakes also influenced niche availability
+for the entire fish fauna. The lack of pelagic zone
+in Lakes Kolta, Kuohkima and Palo forced all the fish
+species to forage in the littoral, while the low amount of
+pelagic habitat in Lakes Oiko and Kivi limited LSR
+whitefishís ability to shift to planktivory.
+We predicted that effects of resource competition
+would be evident in the life-history characteristics of
+native whitefish in invaded lakes. However, lake-specific
+factors such as bathymetry and productivity appear to
+govern the effect of increased competitor diversity on
+the population size, growth and condition of native
+whitefish. Whitefish density was unrelated to fish community
+structure. While the proportion of whitefish steadily
+declined in parallel with invader densities, invaded
+lakes exhibited both the highest and the lowest whitefish
+densities recorded in the study. Biomass of whitefish
+also displayed evidence of site-specific variation. While
+reduced biomass was evident in WR lakes, the biomass
+of whitefish in WRP lakes was similar to that found in
+NI systems. Whitefish growth was fastest in Lakes Kolta
+and Palo, which are both shallow and contained high
+benthic macroinvertebrate densities. Condition factor of
+whitefish showed clear variation according to fish community
+structure. Increased competitor diversity corresponded
+with a decrease in the relative condition of
+whitefish, although the highest condition factor was
+observed in mesotrophic Lake Palo.
+The effect of this lake-specific variation is difficult to
+thoroughly determine due to differences between replicate
+lakes. Lake Palo is an outlier in some respects as it
+is considerably more productive than the other lakes.
+Increased nutrient load facilitates a greater density of
+invertebrate prey items, probably accounting for the elevated
+growth and condition of whitefish in the presence
+of numerous competitors. In addition, Lake Palo was
+sampled in 2009, two years earlier than the other lakes.
+While this scenario is not ideal, previous studies of
+whitefish in this region revealed a high comparability of
+dietary results from different years (Kahilainen et al.,
+2004; Harrod et al., 2010; Hayden, Harrod & Kahilainen,
+2013). In addition, our samples were obtained from each
+lake during late summer; consequently, we cannot
+account for potential seasonal variation in diet and associated
+dietary overlap. Lakes in this region are ice covered
+for six months per year, limiting primary
+production and the density of zooplankton (ForsstromÄ
+et al., 2005). Under these conditions, the diet of whitefish
+switches from a broad generalist during the open-water
+season to one dominated by benthic prey in winter
+(Hayden et al., 2013). This may increase the likelihood of
+dietary overlap with benthivorous percids during the
+winter period. Further research is currently underway to
+address this issue; however, based on the data presented
+here, it is evident that dietary overlap between native
+and invasive species is not the case in invaded lakes
+during the summer growing season.
+Length-at-age data indicates that percid species have
+been present in these lakes throughout the lifespan of the
+current population of whitefish. However, the current situation
+is likely to present the early phase of invasion. The
+invasion time of percids to these lakes is unknown, but
+reports from fishermen in Lake Kivi suggest that percid
+species are recent arrivals to this previously whitefishdominated
+system. As such, both species can be considered
+as still establishing in the region, and competition
+for resources will probably increase as they become more
+numerous (Colautti & Macisaac, 2004). The high overlap
+in resource use between perch and whitefish, in conjunction
+with the highest density of perch observed in Lake
+Kivi, indicates that increased percid density may result in
+increased competition between native and invasive
+fishes. Additionally, higher ruffe densities may have an
+impact on native whitefish via egg predation (Winfield
+et al., 1998), while increased predation on juvenile white-
+fish by perch may have an impact on whitefish population
+densities. Stable isotope and stomach content data of
+pike indicate a greater reliance on whitefish than percids
+as a prey source. Previous studies of selective predation
+by pike in this region indicated strong preference for
+whitefish (Amundsen et al., 2003; Kahilainen & Lehtonen,
+2003), suggesting that densities of invasive percids in the
+study lakes are not enough to change pike prey selection
+from native whitefish, although this may change as the
+invasion progresses. Ruffe is known to reach very high
+population densities after establishment (Adams &
+Maitland, 1998), and further investigations in the lower
+reaches of the TornioñMuoniojoki catchment, which contains
+higher densities of both percid species (K. K. Kahilainen
+unpublished data), would give better
+understanding of the likely future scenario.Data presented here suggest that specialist adaptations
+allow moderate densities of invading species to be
+subsumed into novel ecosystems before direct resource
+competition with native taxa occurs. Determining the
+point at which ecosystems become saturated, resulting
+in resource competition deleterious to the native populations,
+is of key importance to understanding the ecological
+impact of invasions. Future monitoring of these
+populations may reveal how potentially changing invader
+densities affect the interactions between native and
+invasive taxa and any associated impacts upon the
+native species (Simon & Townsend, 2003). Furthermore,
+sampling of lower-latitude lakes in this catchment may
+help explain how different densities of invasive species
+influence the interactions with native species. Our findings
+are particularly pertinent to the role of climate
+change in determining future species range boundaries.
+The carrying capacity of the lake ecosystem appears to
+play a key role in regulating the impact of range expansion
+on resident taxa. Moderate warming will probably
+increase productivity levels in subarctic latitudes (Elliott,
+Jones & Thackeray, 2006), and in addition, a longer
+growing season and increased terrestrial vegetation will
+indirectly increase the nutrient load in subarctic lakes
+(Karlsson, Jonsson & Jansson, 2005). As such, a trade-off
+may ensue whereby increased consumer density is mediated
+by increased resource availability. In effect, lakes
+in this region represent a large biological experiment,
+testing the interactions between resident and native species
+in a habitat which is increasingly novel to both. This
+provides a unique opportunity to examine the role
+played by trophic ecology and resource competition as
+the ecosystem reaches a new equilibrium.
+In the systems, we assessed site-specific variations in
+resource availability determine the outcomes of invasions,
+defining the point where overlap in resource use
+becomes resource competition. An assumption that
+invading populations will de facto limit the resources
+available to native species appears naive and should be
+treated with caution. Rather the species interactions will
+more likely be governed by variations in lake morphology,
+productivity and community structure, leading to
+an increasingly complex scenario of potential outcomes.

@@ -1,0 +1,655 @@
+xabstract
+We analyzed a data series on nutrients, phytoplankton, zooplankton, and young-of-the-year fish from Oneida
+Lake, New York, to test several hypotheses relating the response of the pelagic food web to grazing by zebra mussels
+(Dreissena polymorpha). System-wide grazing rates increased by one to two orders of magnitude after zebra mussel introduction.
+The most dramatic change associated with dreissenid grazing was increased water clarity and overall decrease
+in algal biovolume and Chl a. Contrary to predictions, primary production did not decline. We attribute the lack
+of whole water column decline in primary productivity to the compensating effect of increased water clarity resulting
+in deeper penetration of photosynthetically active radiation. We observed no change in total or dissolved phosphorus
+concentrations. Although algal standing crop declined, Daphnia spp. biomass and production did not, but dominance
+shifted from Daphnia galeata mendotae to Daphnia pulicaria. Consistent with our findings in the lower food web, we
+found no evidence that zebra mussels had a negative impact on young yellow perch (Perca flavescens) growth, biomass,
+or production. Thus, despite the order of magnitude increase in grazing rates and associated decrease in algal
+biomass, pelagic production at primary, secondary, and tertiary levels did not decline in association with zebra mussels.
+
+
+
+xintroduction
+
+
+The most prevalent perturbation to aquatic ecosystems that
+is mediated through anthropogenic vectors is the introduction
+of exotic species (e.g., Mills et al. 1994). To date,
+146 nonindigenous species have been recorded as established
+in the Laurentian Great Lakes alone (Mills et al.
+1994), and many studies have focused on the impact of these
+exotics on associated ecosystems (e.g., Strayer et al. 1999). In
+particular, the recent invasion of the zebra mussel (Dreissena
+polymorpha) in North American freshwater lakes and rivers
+has caused concern because of their high filtration capacity
+and their ability to alter food web structure (e.g., Padilla et
+al. 1996; Caraco et al. 1997).In this study, we analyzed a data series on nutrients,
+phytoplankton, zooplankton, and young-of-the-year (YOY)
+yellow perch (Perca flavescens) from Oneida Lake, New
+York, to test several hypotheses relating the response of a
+food web to grazing by zebra mussels. The importance of
+these processes will vary seasonally. Specifically, we hypothesized
+that (i) total phosphorus (TP) will not decrease
+but will be partitioned into more soluble reactive phosphorus
+(SRP) and less total particulate phosphorus (TPP) due to the
+lower algal biomass in the water column (Heath et al. 1995;
+Mellina et al. 1995; Caraco et al. 1997); other dissolved
+nutrients (nitrate, silica) will be less affected because phosphorus
+is the limiting nutrient (Johengen et al. 1995);
+(ii) phytoplankton biomass (as chlorophyll a (Chl a)) will
+decrease, leading to a decrease in primary productivity and
+an increase in water clarity (Holland 1993; Fahnenstiel et al.
+1995; Caraco et al. 1997), and phytoplankton community
+composition will shift to grazer-resistant forms, such as
+large cyanobacteria or large diatoms (Smith et al. 1998);
+(iii) daphnid biomass and production will decline due to reduction
+in algal biomass and production, and the shift to
+larger inedible forms of phytoplankton will further inhibit
+daphnid production (Karatayev et al. 1997; Pace et al. 1998);
+and (iv) decreased daphnid biomass and production will lead
+to declines in YOY fish biomass and individual specific
+growth (Rutherford et al. 1999).
+While we hypothesized that changes in the pelagic lower
+trophic levels were zebra mussel induced, two alternative hypotheses
+explaining a decrease in phytoplankton and associated
+changes in other trophic levels are also possible:
+(i) reduced phosphorus loading causes a decrease in phytoplankton
+biomass [as Chl a], daphnid biomass and production,
+and YOY fish biomass and an increase in water clarity
+(nutrient limitation: bottom-up effect) or (ii) decreased
+planktivory by fish (unrelated to zebra mussels) increase
+zooplankton biomass leading to a decrease in both Chl a and
+primary productivity with TP remaining stable (trophic cascade:
+top-down effect).
+
+xmethods
+
+
+
+Oneida Lake is a 20 700-ha, shallow, productive lake (mean
+depth 6.8 m, maximum depth 16 m) located on the Lake Ontario
+Plain of central New York State (Mills et al. 1978). The lake is
+well mixed and generally isothermal during the ice-free months.
+The lake has been described as naturally eutrophic, with TP concentrations
+typically ranging between 30 and 60 mg∑Lñ1 during the
+1970s (Mills et al. 1987). Centric diatom blooms (Cyclotella spp.)
+typically have dominated early-spring phytoplankton communities,
+whereas cyanobacteria blooms (mainly Aphanizomenon flos-aquae)
+persist for 1 or 2 months in late summer (Greeson 1971). The zooplankton
+community has been dominated by two daphnid species,
+Daphnia pulicaria and Daphnia galeata mendotae, with smaller
+populations of Daphnia retrocurva (Mills et al. 1987). The dominant
+zooplanktivores are YOY fish; at high densities, YOY yellow
+perch are able to collapse the daphnid population (Mills and Forney
+1983). Populations of gizzard shad (Dorosoma cepedianum) expanded
+in 1984 and impacted daphnid populations from the mid-
+1980s to the early 1990s (Roseman et al. 1996; Shepherd and Mills
+1996). Zebra mussels were first observed in Oneida Lake in 1991,
+and by autumn 1992, the population reached densities as high as
+44 000 individuals∑mñ2 (Mellina et al. 1995)Limnological data were collected weekly at five sites (1975ñ
+1997) from April to November (Fig. 1). Sampling was conducted
+monthly during the winter ice-cover period (at the reference site,
+Shackelton Pt.; see Fig. 1). A tygon tube (2.5-cm inner diameter)
+was used to collect integrated water samples (surface to 0.5 m
+above lake bottom) for phytoplankton and nutrients. Within 2ñ4 h
+after collection, samples were filtered for Chl a, SRP, total soluble
+phosphorus (TSP), nitrate-nitrogen (NO3), and soluble reactive silica
+as SiO4 (SRS) (Strickland and Parsons 1972; American Public
+Health Association et al. 1976). Filtered samples were stored at a
+temperature of approximately ñ20∞C prior to analysis. Unfiltered
+water was used to estimate TP. Dissolved organic phosphorus
+(DOP) was estimated as the difference between SRP and TSP and
+TPP as the difference between TSP and TP. Total alkalinity and
+phenolphthalein alkalinity of water with known pH were used to
+determine dissolved inorganic carbon (DIC) (Wetzel and Likens
+1991).
+Number of clear-water days was defined as the period between
+the spring and summer algae blooms when Chl a was less than
+3 mg∑Lñ1 for at least 2 consecutive weeks. In situ water column
+irradiance was measured with a LI-COR 4p sensor and LI-COR
+1000 data logger at 0.25-m intervals from the surface to the bottom;
+above-surface irradiance was measured with a LI-COR 2p
+sensor attached to the same data logger.
+Subsamples of integrated lake water from each site for
+phytoplankton analysis were immediately fixed in Lugolís solution
+upon collection and later identified and enumerated using a Wild
+inverted microscope. Identification was to species when possible;
+otherwise, phytoplankton cells were identified to genus. Biovolume
+estimates were determined with the use of a BASIC program (N.
+Idrisi, unpublished data) using average shapes and sizes for individual
+algal species (Reynolds 1984). All limnological, phytoplankton,
+and zooplankton samples were integrated over depth;
+thus, estimates represent water column mean values.Integrated water samples were collected for 14C photosynthesis
+incubations using the Fee incubator technique (Shearer et al. 1985;
+Fee 1990). Irradiance was measured with a LI-COR 4p sensor
+from the surface to the bottom to determine extinction coefficients
+used in calculating primary productivity. Photosyntheticñirradiance
+(PI) experimental procedures were modified following Lewis and
+Smith (1983) and Fahnenstiel et al. (1995). Modifications included
+the incubation of a smaller sample volume (3 mL) and a 40-min incubation
+period. Differences in 14C uptake between the two procedures
+were minor (Lang and Fahnenstiel 1995). Water samples
+were kept cool in opaque 10-L containers and transferred to the
+laboratory for subsequent processing; time from collection of the
+first sample to the return to the laboratory was typically 2 h. Prior
+to initial experimentation, a spectral distribution analysis was carried
+out at the three sampling sites with a LI-COR 1800 underwater
+spectroradiometer on May 18, 1993, to determine the spectral
+quality of the euphotic zone. A colored gel, matching the spectral
+distribution data, was placed at the bottom of the Fee incubator
+(also called a photosynthetron) between the light source and the
+samples to act as a filter, allowing the penetration of light wavelengths
+similar to those in the field.
+The PI curves were fitted from photosynthetic rates at specific
+irradiances using the simplex nonlinear curve fitting routine in
+Systat 5.03 (SystatÆ). Two PI parameters were determined, Pm and
+a, from the equation (Gallegos and Platt 1981)where P(I) is photosynthetic rate (milligrams carbon per hour) at
+irradiance I (einsteins per square metre per hour), Pm is maximum
+photosynthetic rate (milligrams carbon per hour), and a is the initial
+linear slope at irradiance I (milligrams carbon per einstein per
+square metre).
+Primary productivity was estimated with the computer programs
+developed by Fee (1990) using the PI parameters per unit chlorophyll
+(PB
+m (milligrams carbon per milligram Chl a per hour) and aB
+(milligrams carbon per milligram Chl a per einstein per square
+metre)), extinction coefficients, and latitude and Julian day as input
+parameters. Primary productivity for years other than 1993 and
+1994 was estimated using the empirical models developed in Idrisi
+(1997). These models, based on primary productivity measurements
+in 1993ñ1994, explained 73 and 47% of the variation for Pm
+and a, respectively (Idrisi 1997). The models were verified against
+independent data from 1988, where errors between observed and
+predicted PI parameters were less than 5% (Idrisi 1997).Zooplankton samples were collected (at the same time and locations
+as the limnological and phytoplankton collections) with a
+153-mm-mesh Nylon net (0.5-m mouth diameter, 2 m in length) using
+vertical tows from approximately 0.5 m off the sediment surface
+to the water surface. Daphnia pulicaria and D. galeata
+mendotae were enumerated and body length recorded with the use
+of a computer-assisted plankton analysis system (Hambright and
+Fridman 1994). Individual weights were calculated from length ñ
+dry weight regressions (E.L. Mills, unpublished data). Numbers of
+eggs per female were counted for D. pulicaria and D. galeata
+mendotae to estimate secondary production from 1988 to 1996 according
+to the method of Borgmann et al. (1984). Annual average
+clearance rates of daphnid populations (D. pulicaria and
+D. galeata mendotae) were predicted for the whole data set (1975ñ
+1997) from multivariate regressions from Peters and Downing
+(1984). Annual averages were calculated for the period Aprilñ
+October for each year using eq. 4 from Peters and Downing
+(1984). Input data included daphnid dry weights, food concentration
+(wet weight converted from Chl a), nanoplankton biovolumes,
+nanoplankton biovolumes per individual daphnid for 1975ñ1995,
+median biovolume, and biovolume per individual daphnid from Peters
+and Downing (1984) were used for 1996ñ1997.Dreissenids were collected by SCUBA using 0.5- to 1-m2 quadrats
+placed randomly at each of 10 sites in triplicate (see fig. 1 in
+Mellina et al. 1995). Samples were collected in October of each
+year from 1992 to 1997; only nine sites were sampled in 1995. All
+individuals collected throughout this sampling period were
+D. polymorpha. Lake-wide wet weight biomass (including shell)
+means ± 95% confidence intervals were calculated by stratifying
+samples by substrate type (soft, sand, and hard substrates; Greeson
+1971). Abundances and size frequency distributions were estimated
+for each substrate type and lake-wide estimates made by weighting
+abundances based on the total area of each substrate type (Cochran
+1977). Because zebra mussels were not observed on any substrates
+deeper than 10 m, lake-wide values were corrected by assigning
+zero abundance for total lake bottom at depths exceeding 10 m.
+Annual zebra mussel clearance rates of the Oneida Lake zebra
+mussel population were estimated using the equations of Horgan
+and Mills (1997). Clearance rates were estimated as weightspecific
+rates based on zebra mussel dry weights (soft tissue only).
+We assumed that Oneida Lake was generally isothermal and well
+mixed during the ice-free season, and therefore, zebra mussels
+would have access to the entire water column. Daily clearance
+rates for zebra mussels were corrected for differential filtering activity
+between day and night (Horgan and Mills 1997).Abundance of a primary zooplanktivore (yellow perch) was estimated
+using high-speed Miller samplers (540-mm-mesh net) in
+June and a 5.5-m otter bottom trawl from the end of July through
+October each year (1975ñ1997). Miller sampling was conducted
+when YOY yellow perch attained approximately 18 mm total
+length (VanDeValk et al. 1999). By the end of July, YOY yellow
+perch typically become demersal and vulnerable to bottom trawls
+(Forney 1971). Weekly estimates of YOY yellow perch from the
+end of July through October were obtained from trawls fished at 10
+sites each week. Average daily biomass was calculated from the
+decline in abundance in trawl samples and observed growth rates.
+For the pelagic period, abundance was calculated assuming a constant
+instantaneous mortality rate between the date of the Miller
+sampling survey and the end of July (Mills et al. 1987). Average
+weight of YOY yellow perch in October trawls was considered to To determine the effect of zebra mussels on the lower food web,
+we used data from June to October of each year. This time period
+is when water temperature was above 10∞C, and zebra mussels
+would most likely have the greatest impact on the system. Laboratory
+experiments have determined that feeding activity by
+D. polymorpha occurs at a temperature range of 8ñ25∞C
+(Stanczykowska 1977); summer temperatures in Oneida Lake did
+not exceed 25∞C during the period when zebra mussels were present.
+We divided the data set into pre-zebra mussel phase (1988ñ
+1991) and post-zebra mussel phase (1992ñ1997; we use 1992ñ
+1995 for phytoplankton biovolumes and primary productivity and
+1992ñ1996 for daphnid production); we also grouped data for each
+year by season (spring, summer, and autumn). In our analysis, we
+did not want to confound nutrient effects with zebra mussel impacts.
+Consequently, we chose to begin our data analysis with
+1988, since TP concentrations from 1988 to 1997 were stable;
+interannual differences in TP were 10ñ30 mg∑Lñ1 for 1975ñ1987
+compared with a maximum difference of 10 mg∑Lñ1 since 1988
+(Fig. 2). We used a two-way analysis of variance (ANOVA) to test
+for significant differences between pre- and post-zebra mussel periods
+followed by a comparison of means for zebra mussel phases
+within each season (SAS Institute Inc. 1989). When the criterion
+for normality was not met, we log transformed the data prior to
+analysis. Comparisons were considered significant at P < 0.05.
+xresults
+
+
+
+We estimated mean areal densities and wet weight of zebra
+mussels for each year based on numbers and weights of
+individuals in shell size categories ranging from <2 to
+30 mm (Fig. 3). Our results indicate that mean shell length
+increased over the period from 2.75 (1992) to 8.72 mm
+(1997), maximum mean shell length was in 1995 (9.75 mm),
+and shell length frequencies shifted from bimodal (1992ñ
+1994) to a single mode (1995ñ1997). In 1992, a high abundance
+of small mussels (<2 mm) contributed to the highest
+lake-wide mean density (>40 000∑mñ2) observed in this
+study. In contrast, the highest mean wet weight (including
+shell) of mussels was observed in 1997 (1560 g∑mñ2) compared
+with average weights ranging from 343 to 1012 g∑mñ2
+from 1992 to 1996. As might be expected, site-to-site variance
+was high; coefficient of variation among sites ranged
+from 84% in 1993 to 206% in 1997. Mussel densities at individual
+sites ranged from zero to a high of 114 300∑mñ2and, likewise, site-to-site differences in mussel biomass (as
+wet weight including shell) ranged from zero to 11 276 g∑mñ2.
+Highest mussel densities were generally observed at 3 m
+depth, decreasing in density to depths of 7 m. No mussels
+were found beyond depths of 10 m.We hypothesized that TP would not decline in the presence
+of zebra mussels but that its constituents would shift to
+more SRP and less TPP. Other major nutrients such as NO3
+and SRS would exhibit minimal, if any, change. Consistent
+with our hypothesis, we found (using a two-way ANOVA)
+that there was no significant difference in mean TP concentrations
+in pre- and post-zebra mussel years (Table 1). While
+SRP concentrations did not increase in the presence of zebra
+mussels, there was a significant decline in TPP (two-way
+ANOVA, P < 0.05). Annual averages of NO3 and SRS concentrations
+exhibited no significant change in the presence
+of zebra mussels (Table 1).
+Distributions of phosphorus and other nutrients varied significantly
+by season from spring to summer to autumn; TP,
+SRP, TPP, DOP, and SRS increased from spring to autumn,
+whereas NO3 declined over the same period (Fig. 4). Comparison
+of phosphorus concentrations by zebra mussel phase
+and by season indicated that TPP was consistently lower in
+post-zebra mussel years for all seasons, whereas SRP and
+TP concentrations were lower only in summer and autumn.
+NO3 was significantly lower in autumn, while SRS was
+lower in summer during zebra mussel years (Fig. 4).We hypothesized that grazing by zebra mussels would
+lead to increased water clarity, decreased phytoplankton biomass
+and primary productivity, and a shift in algal composition
+to grazer-resistant forms. As expected, Secchi depth
+increased significantly (two-way ANOVA, P < 0.05) and Chl
+a decreased significantly (two-way ANOVA, P < 0.05) in the
+presence of zebra mussels (Table 1; Figs. 4g and 4h). The
+lowest annual average Chl a concentration was recorded in
+1993 and 1997 (4.9 and 4.7 mg∑Lñ1, respectively); Chl a was
+46% lower in post-zebra mussel years. For the years 1993ñ
+1997, the annual average Secchi depth was consistently
+greater than that for previous years (Fig. 5a). Although the
+number of clear water days (defined as the period when
+mean water column Chl a was <3 mg∑Lñ1) increased from 60 ±
+16 to 86 ± 4 days, the difference was not significant (t test,
+P > 0.05). This statistical outcome was likely due to the prolonged
+clear-water period in 1989 that extended beyond any
+post-zebra mussel year (Fig. 5b).
+We found significant (two-way ANOVA, P < 0.05) zebra
+mussel effects by season for Secchi depth and Chl a but not
+for primary production (Table 1; Fig. 4). Secchi depth was
+greater and Chl a lower during post-zebra mussel years for
+all seasons (Figs. 4g and 4h). Primary productivity did not
+differ significantly (two-way ANOVA, P > 0.05) by season
+or zebra mussel presenceñabsence; however, higher mean
+primary production estimates were observed in the autumn
+and lower estimates in the summer in years when zebra mussels
+were present (Fig. 4i).
+Primary productivity did not decline significantly during
+the post-zebra mussel period in spite of the significant reduction
+in Chl a (34% reduction from pre-zebra mussel Chl
+a concentrations) (Table 1; Fig. 4i). Primary productivity can
+be maintained with declining algal biomass if there is a compensatory
+increase in photosynthetic rate per unit chlorophyll
+(no observed differences in primary productivity
+between the two periods; t test, P = 0.383). This can occur
+through shifts in the PI curves or increase in light penetration.
+Extinction coefficient (kD) values were significantly
+higher during the pre-zebra mussel period compared with
+post-zebra mussel years (0.742 ± 0.03 mñ1, and 0.564 ±
+0.046 mñ1, respectively; t test, P < 0.05). Both aB and PB
+m increased
+from pre- to post-zebra mussel years (aB = 14.08 ±
+1.68 and 20.28 ± 6.15 mg C∑mg Chl añ1∑einsteinñ1∑mñ2,
+respectively; PB
+m = 6.53 ± 1.24 and 7.49 ± 1.2 mg C∑mg
+Chl añ1∑hñ1, respectively); however, these differences were
+insignificant.
+Consistent with trends in Chl a, total phytoplankton biovolume
+in all seasons declined significantly after the zebra mussel invasion (Table 1). Associated with this decline was
+a shift in algal composition; the phytoplankton community
+structure shifted from a pre-zebra mussel community dominated
+by diatoms (1988ñ1990) to a community dominated
+by cyanobacteria (1992 and 1994), chlorophytes (1993), and
+diatoms (1995) (Fig. 6a). The phytoplankton community in
+1991 was codominated by diatoms, cyanobacteria, and
+chlorophytes (Fig. 6a). The transitional year, 1992, was
+dominated by cyanobacteria but also had a higher proportion
+of nanoplankton than any pre-zebra mussel year (Fig. 6b).
+The nanoplankton (chlorophytes and cryptophytes) dominated
+the phytoplankton community in 1993, but this was
+followed by a dramatic decline in 1994.
+Netplankton biovolume followed a trend similar to that of
+total phytoplankton and varied significantly with zebra mussel
+phase (Table 1; Fig. 7b). In contrast, nanoplankton did not
+vary significantly by zebra mussel phase in summer and autumn
+but did so in spring; the major difference in the spring
+was the dominance of the diatom Cyclotella spp. during the
+pre-zebra mussel period (Fig. 7c). Cyanobacteria biovolumes
+were not significantly different in the presence or absence of
+zebra mussels (Table 1; Fig. 7d). Diatom and chrysophyte
+biovolumes both declined significantly in the presence of zebra
+mussels, being most pronounced in the spring and autumn
+(Table 1; Figs. 7e and 7g). Diatoms recovered to pre-zebra
+mussel state in 1995 (Fig. 6a). Chrysophytes were extremely
+rare during the post-zebra mussel period in all seasons
+(Figs. 6a and 7g). Chlorophytes and cryptomonads were
+most abundant in summer during the clear-water phase;
+however, neither taxon varied significantly by zebra mussel
+phase or season (Table 1; Figs. 7f and 7h).We hypothesized that daphnid biomass would decline in
+response to a decline in algal biomass and production. Daphnia
+pulicaria and D. galeata mendotae were the two dominant
+zooplankton species throughout the study period, accounting
+for more than 50% of the total zooplankton community biomass
+(Fig. 8b). Daphnia pulicaria, the larger of the two species, dominated the post-zebra mussel period, while
+D. galeata mendotae dominated the pre-zebra mussel period.
+Consistent with the dominance of the large-bodied
+D. pulicaria in post-zebra mussel years was a shift to a
+higher mean length of crustacean zooplankton (Fig. 8a).
+Mean zooplankton length was significantly (two-way
+ANOVA, P = 0.001) higher (39%) in years when zebra mussels
+were present (Fig. 9a). In spite of a shift to the larger
+D. pulicaria in post-zebra mussel years, total zooplankton
+biomass did not change significantly pre- and post-zebra
+mussels (Table 1). However, total zooplankton biomass was
+significantly greater (two-way ANOVA, P < 0.01) postzebra
+mussels in the summer and significantly greater (twoway
+ANOVA, P < 0.005) pre-zebra mussels in the spring
+(Fig. 9b).
+Mean annual D. pulicaria biomass and production were
+significantly higher in years when zebra mussels were present
+(Table 1; highest production estimates were in summer).
+Egg production may be a good indicator of feeding condition
+(e.g., see Pace et al. 1998 and references therein). We
+observed no effect of zebra mussels on combined
+D. pulicaria and D. galeata mendotae egg ratios (0.49 ±
+0.165 and 0.502 ± 0.077 egg∑individualñ1 for pre- and postzebra
+mussel years, respectively). This suggests similar
+feeding conditions for daphnids in pre- and post-zebra mussel
+periods.
+Daphnia galeata mendotae exhibited no significant seasonal
+variation in either biomass or production but did exhibit
+a significant difference by zebra mussel presenceñ
+absence (Table 1). Biomass and production of this daphnid
+were higher in years when zebra mussels were absent; the
+lowest biomass and production were in the autumn during
+these same years (Figs. 9e and 9f). In post-zebra mussel
+years, biomass and production of D. galeata mendotae
+peaked in summer (Figs. 9e and 9f)The most dramatic change in Oneida Lake post-zebra
+mussels was the temporal duration and depth of water clarity,
+reflected in Secchi depth and the number of clear-water
+days and the overall decrease in algal biovolume and Chl a
+(Figs. 4, 5, and 7). We attempted to determine if these
+changes were associated with clearance rates of zebra mussels
+and (or) daphnids. Estimated weight-specific zebra mussel
+clearance rates were highest in 1995 and corresponded to
+the highest mean shell length (9.75 mm) (Table 2; Fig. 3).
+Zebra mussel population clearance (as percentage of lake
+cleared per day) increased to its highest level (2.5 times total
+lake volume cleared per day) in 1997 when the population
+reached its highest biomass (Table 2; Fig. 3). In spite of a
+generally higher weight-specific clearance rate of daphnids
+compared with zebra mussels, daphnid population clearance
+rates never exceeded 8% of lake cleared per day (Table 2).We hypothesized that YOY yellow perch biomass, growth,
+and production would decline in response to negative zebra
+mussel impacts on Daphnia spp. (also see Mayer et al.
+2000). However, consistent with our findings at lower
+trophic levels, we observed no significant effects of zebra
+mussels on biomass, growth, and production of YOY yellow
+perch (comparisons of the years 1988ñ1991 and 1992ñ1997:
+two-way ANOVA, P > 0.3) (Tables 1 and 3). Growth rates
+indexed as weight in October ranged from 4.2 to 5.8 g in
+1988ñ1991 (mean 5.2 ± 0.36 g) and from 4.5 to 8.7 g in
+1992ñ1997 (mean 6.0 ± 0.59 g). Biomass of YOY yellow
+perch typically peak in JulyñAugust in Oneida Lake (Mills
+et al. 1987), and this was also observed for both the pre- and
+post-zebra mussel periods analyzed here. Production is
+usually greater in MayñJuly, although neither biomass nor
+production was significantly different between pre- and postzebra
+mussel years (Tables 1 and 3).
+xdiscussion
+
+We hypothesized that TP would not decline but would be
+partitioned into more SRP than TPP because of reductions in
+algal biomass. We did not observe a decline in TP after the
+establishment of zebra mussels, consistent with findings in
+western Lake Erie (Holland et al. 1995). Contrary to our hypothesis,
+however, we did not detect a significant increase in SRP or any change in DOP, although the DOP to TP ratio
+increased significantly (0.218 ± 0.026 and 0.302 ± 0.02 preand
+post-invasion, respectively; t test, P = 0.033) during
+post-zebra mussel years. While these results are consistent
+with those observed in Saginaw Bay (Johengen et al. 1995),
+they differ from those of recent studies in the Hudson River
+where SRP exhibited a significant increase (150%) and in
+western Lake Erie where SRP increased by 17% (Holland et
+al. 1995). In contrast with SRP, DOP concentrations were
+higher in the autumn in years when zebra mussels were present
+(but not in spring and summer). Heath et al. (1995)
+found higher DOP concentrations in enclosures with high
+densities of zebra mussels, although the results were confounded
+due to unusually high concentrations in one of the
+control enclosures. Short-term increases in phosphorus concentrations
+have been shown in laboratory and mesocosm
+experiments to be attributed to excretion by zebra mussels
+(Heath et al. 1995; Mellina et al. 1995; Arnott and Vanni
+1996). The influence of zebra mussel excretion on phosphorus
+cycling, however, depends on zebra mussel population
+size, size of individual mussels, and the relative concentration
+of phosphorus in the water column (e.g., Heath et al.
+1995; Mellina et al. 1995; Arnott and Vanni 1996); these
+conditions may account for the different responses in phosphorus
+dynamics among freshwater ecosystems. In any case,
+the lack of change in TP in Oneida Lake suggests that potential
+productivity has remained unchanged, and this finding
+may help explain why production at other trophic levels exhibited
+little or no change in response to zebra mussels.SRP or any change in DOP, although the DOP to TP ratio
+increased significantly (0.218 ± 0.026 and 0.302 ± 0.02 preand
+post-invasion, respectively; t test, P = 0.033) during
+post-zebra mussel years. While these results are consistent
+with those observed in Saginaw Bay (Johengen et al. 1995),
+they differ from those of recent studies in the Hudson River
+where SRP exhibited a significant increase (150%) and in
+western Lake Erie where SRP increased by 17% (Holland et
+al. 1995). In contrast with SRP, DOP concentrations were
+higher in the autumn in years when zebra mussels were present
+(but not in spring and summer). Heath et al. (1995)
+found higher DOP concentrations in enclosures with high
+densities of zebra mussels, although the results were confounded
+due to unusually high concentrations in one of the
+control enclosures. Short-term increases in phosphorus concentrations
+have been shown in laboratory and mesocosm
+experiments to be attributed to excretion by zebra mussels
+(Heath et al. 1995; Mellina et al. 1995; Arnott and Vanni
+1996). The influence of zebra mussel excretion on phosphorus
+cycling, however, depends on zebra mussel population
+size, size of individual mussels, and the relative concentration
+of phosphorus in the water column (e.g., Heath et al.
+1995; Mellina et al. 1995; Arnott and Vanni 1996); these
+conditions may account for the different responses in phosphorus
+dynamics among freshwater ecosystems. In any case,
+the lack of change in TP in Oneida Lake suggests that potential
+productivity has remained unchanged, and this finding
+may help explain why production at other trophic levels exhibited
+little or no change in response to zebra mussels.Observed changes in Secchi depth, Chl a, and phytoplankton
+biovolume were consistent with our hypothesis that
+phytoplankton biomass (and Chl a) would decline as water
+clarity increased in response to grazing by zebra mussels, as
+observed elsewhere (e.g., Holland 1993; Karatayev et al.
+1997; Strayer et al. 1999). However, primary productivity
+did not decline as predicted. Higher PI parameter values and
+lower extinction coefficients may have compensated for low
+chlorophyll concentrations.
+Primary productivity cannot be maintained if algal biomass
+declines unless there is a compensatory increase in
+production per unit biomass (Fahnenstiel et al. 1995). This
+in turn can be caused by an enhanced light environment or
+by changes in the phytoplankton community to species with higher growth rates. In Oneida Lake, changes in PI parameters
+between pre- and post-zebra mussel periods were in the
+direction of higher efficiency per unit chlorophyll; also, increased
+water clarity accounted for higher photosynthetic
+rates below 5 m depth. For example, areal primary production
+at Station B-125 on May 24, 1993, was 183 mg C∑mñ2;
+using the proportional changes in PB
+m, aB, kD, and Chl a that
+occurred between pre- and post-zebra mussel years and assuming
+20% variation to determine significant differences,
+we find no change in areal primary production (184 mg
+C∑mñ2) if Chl a is reduced to 65% of the original concentration.
+The observed changes in parameters that affect primary
+production require a reduction of Chl a by at least 50% in
+order to produce a significant decline in primary production
+(141 mg C∑mñ2). In other systems, the compensatory effects
+of increased water clarity and photosynthesis were not sufficient
+to compensate for the dramatic declines in Chl a concentration,
+which were greater than those observed in
+Oneida Lake (e.g., Fahnenstiel et al. 1995; Caraco et al.
+1997). The degree of compensation will likely vary among
+systems depending on the combination of factors, including
+PI parameter values, light environment, phytoplankton species
+composition, and Chl a concentration.
+The response of algal communities to dreissenid grazing
+varies among freshwater ecosystems (Smith et al. 1998;
+Makarewicz et al. 1999). In Oneida Lake, a short-term shift
+was observed in the phytoplankton community to more nanoplankton
+(Chlorophyta, Cryptophyta, and Cyclotella spp.) and
+less netplankton (Bacillariophyceae, Chrysophyceae, and Cyanobacteria).
+However, annual variability was high, thus precluding
+the observation of any clear trends in phytoplankton
+dynamics over the long term. A clear shift, however, occurred
+in the Hudson River where there was a marked decline
+in cyanobacteria and a relative increase in diatoms
+postinvasion (Smith et al. 1998). It is argued that the likely
+cause for the relative increase of diatoms over cyanobacteria
+(dominated by Microcystis spp. in the Hudson River) was
+the differential growth rates of phytoplankton in response to
+zebra mussel grazing (Smith et al. 1998).
+On the other hand, Arnott and Vanni (1996) hypothesized
+that low nitrogen to phosphorus ratios (a result of zebra
+mussel excretion) could cause a shift in the phytoplankton
+community to cyanobacteria due to nitrogen limitation. Although
+we do not have nutrient data comparable with those
+of Arnott and Vanni (1996), NO3 and SRP concentrations
+indicate possible nitrogen limitation in Oneida Lake since
+1985 during the summer and autumn. Consequently, latesummer
+nitrogen limitation leading to cyanobacteria blooms
+in Oneida Lake likely preceded the invasion by zebra mussels.
+Makarewicz et al. (1999) found a significant increase in
+cyanobacteria in the western basin of Lake Erie in the
+spring, but this was followed by a significant decline in the
+summer. There were no significant differences in cyanobacteria
+biovolumes in all seasons analyzed in Oneida Lake.We predicted that zebra mussels would negatively impact
+Daphnia spp. biomass and production in response to lower
+algal food resources. Our findings do not support this hypothesis.
+Although algal food resources declined, Daphnia
+spp. biomass and production did not decline significantly.
+We attribute the persistence of the daphnid community to
+our observation that primary production did not change significantly
+(probably due to increased water clarity; see
+above) and that there was no shift to less edible algal species;
+this result was also predicted in a simulation model
+(Padilla et al. 1996). Pace et al. (1998) similarly found that
+macrozooplankton did not significantly decline after the zebra
+mussel invasion in the Hudson River. Microzooplankton
+were significantly reduced in the Hudson River (Pace et al.
+1998) but were not sampled efficiently with the 153-mmmesh
+net used in Oneida Lake.
+The daphnid species shift observed in Oneida Lake was
+not studied in the Hudson River, although Pace et al. (1998)
+speculated that a shift in species composition might have occurred.
+Daphnia galeata mendotae tend to dominate in years
+of high planktivory by fish in Oneida Lake (Mills and
+Forney 1983). Large year-classes of gizzard shad occurred in
+1990 and 1991, leading to high planktivory rates and a dominance
+of D. galeata mendotae over D. pulicaria (Roseman et al. 1996; Shepherd and Mills 1996), but large numbers of
+these fish were not observed post-1992 (VanDeValk et al.
+1999). Larger daphnids may be better competitors at low
+food levels (Gliwicz 1990), and this has been used to explain
+the dominance of D. pulicaria in years when
+planktivory rates are low (Rudstam et al. 1993). Zebra mussels
+could induce low food levels, leading to the dominance
+of D. pulicaria. However, in 1998 and 1999, D. galeata
+mendotae was again the dominant species, even though algal
+biomass did not increase (E.L. Mills, unpublished data).
+In those years, a resurgence of emerald shiner (Notropis
+atherinoides) and an associated increase in pelagic
+planktivore biomass likely caused the shift back to the
+smaller daphnid (VanDeValk et al. 1999). Thus, we believe
+that the observed shift in Daphnia spp. composition associated
+with zebra mussels was due to the concomitant decline
+in open-water planktivory by gizzard shad rather than a zebra
+mussel effect of reduced resources.Consistent with our observations in the daphnid community,
+we did not detect a decrease in YOY yellow perch
+growth, biomass, and production following the establishment
+of zebra mussels. Mayer et al. (2000) reported an increase
+in YOY yellow perch growth post-zebra mussels in
+their study of Oneida Lake (1964ñ1997). Although we also
+observed an increase in YOY yellow perch growth postzebra
+mussels, this increase was not significant, probably because
+the power of our analysis was lower (4 versus 27 prezebra
+mussel years). Mayer et al. (2000) found increased
+YOY yellow perch growth after accounting for densitydependent
+effects and attributed such growth to increased
+feeding efficiency on zooplankton (mainly daphnids) associated
+with zebra mussel induced elevated water clarity. Increased
+YOY yellow perch growth could not be attributed to
+the presence of zebra mussel veligers. These veligers are
+smaller (90ñ200 mm; Sprung 1993) than prey generally consumed
+by larval yellow perch (Schael et al. 1991), and diet
+analysis from two post-zebra mussel years showed no veligers
+in YOY yellow perch diets (Mayer et al. 2000).
+In conclusion, our findings suggest that compensatory factors
+have lessened the impact of D. polymorpha on the pelagic lower food web of Oneida Lake. Light appears to be a
+crucial factor, allowing phytoplankton production deeper in
+the water column. It appears that low food resources did not
+impact the daphnid community and that this community is
+more sensitive to top-down pressure from planktivores
+(Mills and Forney 1983). Consistent with these findings, we
+found no evidence that zebra mussels had a negative impact
+on young yellow perch production. While our analysis has
+focused on the short-term impacts of zebra mussels on the
+pelagic food web of Oneida Lake, the long-term effects of
+zebra mussels is yet to be determined. In a long-term European
+study (40+ years; Karatayev et al. 1997), the zebra
+mussel invasion caused an increase in water clarity and
+macrophyte and zoobenthos biomass and a decrease in
+phytoplankton and zooplankton biomass. However, after
+approximately 10 years, zebra mussel impacts were less pronounced
+but the lake ecosystem did not revert to pre-zebra
+mussel conditions. Whether Oneida Lake follows a pattern
+similar to that of Lake Lukomske will only be ascertained
+through continued and rigorous study of the pelagic food
+web in the coming decades.

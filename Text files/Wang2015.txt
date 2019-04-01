@@ -1,0 +1,559 @@
+xabstract
+Tidal estuarine wetlands of China are rich
+in plant diversity, but several global change drivers,
+such as species invasion, are currently affecting the
+biogeochemical cycles of these ecosystems. We
+seasonally analyzed the carbon (C), nitrogen (N),
+and phosphorus (P) concentrations in litters and soils
+and in leaves, stems, and roots of the C3 invasive
+species Phragmites australis (Cav.) Trin. ex Steud.
+and of the C4 native species Cyperus malaccensis var.
+brevifolius Boeckeler to investigate the effect of C3
+plant invasion on C, N, and P stoichiometry in the C4
+plant-dominated tidal wetlands of the Minjiang River.
+When averaged across seasons, the invasive species P.
+australis had higher N concentrations and lower P
+concentrations in leaves than the native species C.
+malaccensis. N and P concentrations were lower in
+litter (stem and leaf), whereas C concentrations in leaf
+litter were higher in P. australis than in C. malaccensis.
+The C, N, and P concentrations of the soil also did
+not differ, but plants had a lower C:N and much higher
+N:P ratios than soils. Root C:P and N:P ratios were
+lower in the growing season both in the invasive and
+the native species. The leaf C:N, C:P and N:P ratios
+peaked in summer. The invasive species had lower
+C:N ratio in leaves and roots, and higher N:P ratios in
+all biomass organs and litter than the native species, an
+effect related with the higher N-resorption capacity of
+the invasive species. Interspecific differences in C:N,
+C:P, and N:P ratios may likely reflect the differences
+in plant morphology, nutrient-use efficiency, and
+photosynthetic capacity between the C3 (P. australis)
+and C4 (C. malaccensis) plants. Our results generally
+suggested that the success of P. australis in these
+wetlands was related to its slow growth and higher
+resorption capacity of N and P. This implies a more
+conservative use of limited nutrients, particularly N,
+by P. australis, and to higher N concentration in its
+biomass thus potentially contributing to its invasiveness
+in these estuarine wetlands
+
+
+
+xintroduction
+
+
+
+Tidal estuarine wetlands cover an estimated
+12,000 km2 of Chinaís 18,000-km coastline (Shen
+and Zhu 1999; Huang et al. 2006). These tidal
+wetlands are generally rich in animal and plant
+biodiversity (Zhou et al. 2006) and are reported to
+have important biogeochemical roles within the entire
+estuarine ecosystem (Zeng et al. 2009a, b; Wang et al.
+2010a, b; Tong et al. 2010). The Minjiang River
+estuary in southeastern China is an important tidal
+wetland ecosystem due to its unique location at the
+transition between central and southern subtropical
+climatic zones (Zheng et al. 2006).
+Phragmites australis (Cav.) Trin. ex Steud. and
+Cyperus malaccensis var. brevifolius Boeckeler (syn.
+Cyperus malaccensis subsp. monophyllus (Vahl) T.
+Koyama) comprise much of the emergent macrophytic
+biomass in the Minjiang River estuary (Liu et al.
+2006). Some stands of C. malaccensis have been
+invaded over the past 30 years by P. australis, which
+is now the single most prevalent plant species in the
+wetland. This change in dominance may be affecting
+the biogeochemical cycles of the estuarine wetland,
+because the soil properties and rates of litter decomposition
+in the stands of P. australis and C. malaccensis
+are known to differ (Zhang et al. 2008; Jia et al.
+2008; Zeng et al. 2009a, b; Tong and Liu 2009). Here
+we examine the nutrient stoichiometry of P. australis
+and C. malaccensis as a potential source of the
+differences between the litters and soils associated
+with these species and with the success invasive
+plants.
+The elemental composition of plant tissues is
+tightly associated with the nutrient concentration of
+litter, which in turn can feed back into the soils
+(McClaugherty et al. 1985; Bridgham et al. 1995;
+Ehrenfeld et al. 2005; Townsend et al. 2007). Higher
+ratios of carbon (C) to other nutrients in litter can
+increase C storage and reduce the mobilities and rates
+of mineralization of key nutrients (Wang et al. 2010b;
+Wang and Yu 2008). Such effects appear to be caused
+by the increasing nutrient limitation of soil microbial
+communities when provided with nutrient-poor
+organic material. Plant-litter-soil interactions have
+been extensively modeled (Vitousek and Peter 1984;
+Northup et al. 1998; Meier and Bowman 2008),
+observed in numerous ecosystems (Cebrian 1999;
+Cebrian and Lartigue 2004; Gu®sewell and Verhoeven
+2006; Wurzburger and Hendrick 2009), and experimentally
+examined (Jobba¥gy and Jackson 2001;
+Hawlena and Schmitz 2010) in terrestrial ecosystems,
+but little is known about the effect of the relative flux
+of nutrients through estuarine plants into the litter on
+the soils of tidal estuarine ecosystems.
+Variable leaf ratios of C to nitrogen (N) (C:N) and
+to phosphorus (P) (C:P) are assumed to be caused by
+the physiological adjustment of plant species to the
+local supplies of nutrients (Broadley et al. 2004;
+Kerkhoff et al. 2006; Demars and Edwards 2007;
+Townsend et al. 2007; Elser et al. 2010; Penòuelas et al.
+2010; Sardans and Penòuelas 2014). Evidence, however,
+is accumulating that intraspecific differences in
+terrestrial plants can match or exceed interspecific
+variability (Wright et al. 2004; Elser et al. 2010;
+Penòuelas et al. 2010; Sardans and Penòuelas 2013).
+These species-specific patterns of elemental composition
+likely reflect important differences in plant
+functional traits that have unique biochemical, and
+hence elemental, requirements. The elemental composition
+of C. malaccensis may thus differ from that of
+P. australis, even for individuals growing under very
+similar environmental conditions, and thereby may
+affect the dynamics of soil nutrients by affecting the
+elemental composition of litter and/or the capacity to
+take up nutrients. Shifts in nutrient stoichiometry have
+frequently been associated with the success of invasive
+plants (Sardans and Penòuelas 2012). Successful
+invasive species in nutrient-rich environments usually
+have low C:nutrient ratios (Penòuelas et al. 2010) and
+high N:P ratios (Neves et al. 2010) in their tissues, but
+the effect of N:P ratios on the success of invasive
+plants is still unclear. Moreover, positive relationship
+between N:P ratio and invasive success has not often
+been reported for nutrient-poor environments.
+In drier environments, plants with C4 metabolism
+traits, such as C. malaccensis, frequently have an
+advantage over C3 metabolism plants, such as P.
+australis (Wilson 2007; Zand et al. 2006; Kocacinar
+and Sage 2003). However, less is known with respect
+to the competitive advantage between these two
+strategies in wetland areas with other limiting resources
+than water. In wetland environments where water is not the limiting factor, nutrient-use strategy
+can be crucial in the competitive relationships among
+plant species and also in invasive success. To test this
+hypothesis, we have examined the link between the
+invasion of a C3 monocot with the seasonal variation
+of the C, N, and P stoichiometry of a C4 monocot that
+dominates the subtropical tidal wetlands of the Minjiang
+River in China. Our aims were (1) to study the
+C:N, C:P, and N:P ratios of the leaves, stems, and roots
+and their relationships in the invasive C3 plant, P.
+australis, and of the native C4 plant, C. malaccensis,
+over the year and specially during the growing season,
+and (2) to examine the relationships between the
+success of plant invasion and the nutrient concentrations
+and stoichiometries of the plants, litters, and
+soils.
+
+xmethods
+
+Study area
+This study was conducted in the Shanyutan wetland
+(260104600N; 1193703100E, Fig. 1), the largest tidal
+estuarine wetland (approximately 3120 ha) in the
+estuary of the Minjiang River. The climate in this
+region is relatively warm and wet, with a mean annual
+temperature of 19.6 C and a mean annual
+precipitation of 1346 mm (Zheng et al. 2006). The
+soil surface is submerged across the study site beneath
+10ñ120 cm of water for 3ñ3.5 h during each tidal
+inundation. Soil surfaces of the entire wetland are
+exposed at low tide, and the average annual weight
+percentages of water in soil and soil redox potential are
+116.39 % and 12.57 mV, respectively, and soil remains
+flooded at some depths. The average salinity of
+the tidal water between May and December 2007 was
+4.2 ± 2.5 %.
+Phragmites australis and C. malaccensis are the
+two dominant species of plants in this estuarine
+wetland. They are typically found in the upper (mid
+to high) portions of mudflats. P. australis is an
+invasive plant that has invaded this area over the past
+30 years, to now become the single most prevalent
+plant species in the wetland. It mainly invaded the
+native C. malaccensis wetland, typically found in the
+upper (mid to high) portions of mudflats. P. australis
+grows between April and October, the highest population
+height is about 2 m, and the density is about
+250 m-2. C. malaccensis is a native plant, typically
+found in the upper (mid to high) portions of mudflats
+that grows between April and October, the highest
+population height is about 1.5 m, and the density is
+about 1000 m-2. Belowground rhizomes are mainly
+distributed in the top soil layers. The primary mode of
+reproduction is vegetative growth via belowground
+ rhizomes which spread via creeping growth in the
+topsoil layers. The decomposition rates of the litter of
+P. australis are slower than those of C. malaccensis
+(Tong et al. 2010). Both species are located in sites
+with similar flooding intensity, but despite this,
+wetland soils in areas dominated by P. australis
+generally have a lower pH and bulk density and a
+higher salinity than do areas dominated by C. malaccensis
+(Jia et al. 2008).
+Sample collection and measurements
+Plant, litter, and soil samples were collected in May,
+July, September, and December 2007 to capture
+potential seasonal differences in chemical composition.
+Most plant growth occurs between April and
+October, and litter is produced largely toward the end
+of the growing season into early winter. Plant samples
+always were collected at the same height above the
+ground. We selected stands of the two plant communities
+for the collection of aboveground biomass,
+randomly established one large quadrat (10 9 10 m)
+in each stand and sampled the aboveground biomass
+from three randomly selected sub-quadrats
+(1 9 1 m). The harvested aboveground biomass was
+sorted into living and dead (litter) material. The plant
+organs and litter fraction were then sorted into stems
+and leaf tissues. Litter was sampled each week during
+the studied seasons, and only fresh litter was used to
+conduct the analyses. Root biomass was also harvested
+from these sample sub-quadrats. All plant material
+was gently washed with water and then oven dried to a
+constant mass (80 C for 24ñ36 h) and weighed. Soil
+samples from the top layer (0ñ30 cm) were concurrently
+collected from the three replicate sub-quadrats
+and air dried, and any other roots or visible plant
+remains were removed. These dried and cleaned soil
+samples were then finely ground in a ball mill. The
+total numbers of analyzed samples of plants, litters,
+and soils were 30, 24, and 12, respectively, for the P.
+australis wetland and 33, 15, and 12, respectively, for
+the C. malaccensis wetland. We also determined
+biomasses by ha to calculate mineralomasses in
+above- and belowground biomass, especially in
+summer after at the end growing season, and those
+mineralomasses produced by litter during entire year.
+Concentrations of C and N in plants and litters were
+determined using a Vario EL III Elemental Analyzer
+(Elementar Scientific Instruments, Germany). Total
+soil organic C was determined by the K2Cr2O7ñH2SO4
+digestion method (Sorrell et al. 1997; Bai et al. 2005).
+Total soil N was analyzed with the Kjeldahl method
+(K-370, Buchi Scientific Instruments, Switzerland). P
+concentrations of plants, litters, and soils were measured
+using molybdate-blue reaction (Lu 1999) with a
+UV-2450 spectrophotometer (Shimadzu Scientific
+Instruments, Japan).
+Data analysis
+We used analysis of variance (ANOVA) to compare
+C, N, and P concentrations and C:N, C:P, and N:P
+ratios of the plants, litters, and soils of the two plant
+communities using species and seasonality as independent
+categorical factors. We also used ANOVA
+to analyze the community species differences of
+mineralomasses (C, N and P) in above- and belowground
+biomasses in summer, after the growing
+season. We calculated average C, N, and P concentrations
+and mineralomasses, and mass ratios (C:N,
+C:P, and N:P ratios) of different plant organs
+(leaves, stems, and roots), litters, and soils and
+performed all these statistical analyses using SPSS
+13.0 (SPSS Inc., Chicago, USA). Pearson correlation
+analyses identified the relationships among the C:N,
+C:P, and N:P ratios of the plants, litters, and soils of
+the estuarine system. We used major axis (MA) and
+standardized major axis (SMA) (SMATR package;
+http://www.bio.mq.edu.au/ ecology/SMATR) regression
+to compare the slopes of the regressions of
+the relationships among the C:N, C:P, and N:P ratios
+of the plants, litters, and soils. Due to the large
+number of repeated statistical analyses performed to
+test the same model hypotheses on ëëníí dependent
+variables, we have applied Bonferroni correction to
+test each individual hypothesis at a significance level
+of a/n (0.05/n).
+The rate of nutrient resorption (NRE) was estimated
+as the percentage of nutrient withdrawn from green
+leaves before leaf abscission:
+NRE º 100%  ΩNbiomass  Nlitterﬁ=Nbiomass
+where Nbiomass and Nlitter are the concentrations of
+nutrient in the biomass and litter in winter because it is
+in this season that there is the largest litter production
+(Huang et al. 2008).
+
+
+xresults
+
+
+
+Seasonal variation of C, N, and P concentrations and
+ratios in plant organs, litters, and soils C, N, and P
+concentrations varied seasonally in P. australis and
+C. malaccensis and in the litters and soils of the
+stands dominated by these species (Tables 1, 2). In
+general, in aboveground plant organs (leaf and
+stems), N and P concentrations were higher in
+spring and C:N, C:P, and N:P ratios in summer,
+whereas C concentrations were higher in summer
+(leaves) and in autumn (stems) (Table 1). In the
+most cases, stem litter, leaf litter, roots, and soils,
+the C, N, and P concentrations and C:N, C:P, and
+N:P ratios frequently changed among seasons but
+without any clear patterns (Table 1). P. australis
+had higher N concentrations in leaves than C.
+malaccensis (Tables 1, 2). P. australis had lower P
+concentrations and higher C:P ratio in stems and
+stems litter and greater N:P ratio in leaves and stem
+litter than C. malaccensis (Tables 1, 2).
+There was a significant interaction effect of species
+x season on the N concentration in leaf and soil, C:N
+ratios in stem litter and soil, C:P in stem and N:P ratios
+in stem and roots, and P concentration in stems
+(P\0.05, Table 1, Fig. S1ñS6).
+Relationships among C:N, C:P, and N:P ratios
+The correlations of C:N, C:P, and N:P ratios among
+plant organs (leaf, stems, and roots), litters, and soils
+are shown in Figs. 2, 3, and 4. Litter C:N ratios were
+positively correlated with plant organs C:N ratios for
+C. malaccensis (P\0.01), and litter C:P ratios were
+positively correlated with plant organs C:P ratios for
+both P. australis and C. malaccensis (P\0.01). Litter
+N:P ratios were positively correlated with those of
+plant organs for P. australis (P\0.05); however,
+these relationships were not observed in C. malaccensis.
+Plant organs N:P ratios were negatively
+correlated with those of the soil for both P. australis
+and C. malaccensis (P\0.05). Soil C:N, C:P, and
+N:P ratios were not significantly correlated with those
+of litter for either species (P[0.05). Furthermore,
+none of the slopes of the regression lines of the C:N,
+C:P, and N:P ratios differed significantly between P.
+australis and C. malaccensis (P[0.05, SMA test of
+common slopes, Figs. 2, 3, 4).
+N and P resorption
+The average seasonal rates of N resorption for P.
+australis and C. malaccensis were 35.4 ± 9.0 and
+9.0 ± 6.6 %, respectively, and the rates of P resorption
+for P. australis and C. malaccensis were
+41.2 ± 10.9 and 26.5 ± 8.1 %, respectively. The
+rates of both N and P resorption for P. australis were
+significantly higher than those for C. malaccensis,
+particularly for N (P\0.05, Fig. 5).
+Mineralomasses production
+At the end of the growing season, total C content in
+aboveground biomass was higher in P. australis than
+in C. malaccensis, and the C content in belowground
+biomass was higher in C. malaccensis than in P.
+australis. The total C content in total biomass was not
+different between the two species (Fig. 6). The total N
+content in aboveground and total biomass was higher
+in P. australis than in C. malaccensis, whereas total P
+contents were not statistically different between the
+two species biomasses (Fig. 6).
+xdiscussion 
+Seasonal variation in C:N, C:P, and N:P ratios
+C:N, C:P, and N:P ratios of the plant matter from P.
+australis and C. malaccensis changed considerably over
+the seasons. Leaf C:N, C:P, and N:P ratios peaked in
+summer coinciding with the main growth phase for P.
+australis and C. malaccensis. The invasive species
+generally had lower C:N ratios and higher C:P and N:P
+ratios than did the native species, an effect associated
+with the higher capacity of the invasive species to resorb
+N and P. This also reflects the generally higher concentrations
+of N and lower of P in different tissues of the
+invasive P. australis than in the native C. malaccensis.
+Interspecific differences in C:N, C:P and N:P ratios may
+likely reflect differences in plant morphology, nutrientuse
+efficiency and photosynthetic capacity between the
+C3 (P. australis) and C4 (C. malaccensis) monocots.
+C:N, C:P and N:P ratios also changed seasonally in
+the soils. Both C:N and C:P ratios peaked in the
+autumn, but N:P ratios were lowest in autumn for both
+the P. australis and C. malaccensis wetlands. Soil properties such as pH, salinity, and water content can
+influence the seasonal variation in C, N, P concentrations
+and therefore in C:N, C:P, and N:P ratios, as
+reported by Wang et al. (2010a, b). Seasonal variation
+in the total soil C:N, C:P, and N:P ratios in both
+wetlands may also have been affected by the absorption
+of nutrients by the plants and the release of
+nutrients from the litter.
+Relationships of changes in C:N, C:P and N:P
+ratios with ecosystem functioning
+C:N ratios of litter are generally strongly correlated
+with the rates of litter decomposition in wetlands, with
+lower C:N ratios usually associated with higher rates
+of decomposition (Windham 2001). Litter accumulates
+in the winter, which is consistent with the low rates of litter decomposition in the Minjiang River
+estuary (Tong and Liu 2009) and with the negative
+correlation between rate of decomposition of soil C
+and litter C:N ratio in this estuary (Wang et al. 2010b).
+Our results also support the C:N ratio as an indicator of
+litter and organic-matter decomposition (Elser et al.
+2003; Mulder et al. 2013) and further suggest that rates
+of litter decomposition can be lower in invaded than in
+native stands since litter C:N ratios of P. australis
+were higher than those of C. malaccensis.
+C:P and N:P ratios were lower in the native plants
+than in the invasive plants during the growing season,
+consistently with a higher growth rate for C. malaccensis
+than for the invasive P. australis. The average
+rates of growth of C. malaccensis and P. australis
+were 2.1 and 1.4 % weekly, respectively (Zhang et al.
+2008; Zeng et al. 2009a,b). Furthermore, net primary
+productivity of the roots was higher for C. malaccensis
+(724.25 gC m-2 year-1) than for P. australis
+(443.04 gC m-2 year-1, Zhang et al. 2008, 2009a,
+b), which is thus associated with the lower C:P and N:P
+ratios in C. malaccensis. Lower C:P and N:P ratios are
+usually associated with higher growth rates (Elser
+et al. 2003; Penòuelas et al. 2013).
+The invasive plant species in our study is a
+slower growing species than the native species
+(Zhang et al. 2008, 2009a, b), suggesting that
+invasive success in the Minjiang River estuarine
+tidal wetland depends on a lower growth rate and a
+more conservative use of nutrients. Most studies in
+environments with no limitation of any resource
+such as water, light, or nutrients generally find that
+plant invasion is frequently dependent on higher
+rates of nutrient uptake and cycling (Funk and
+Vitousek 2007; Gonza¥lez et al. 2010; Matzek 2011;
+Sardans and Penòuelas 2012), whereas invasive
+success in environments with a serious limitation
+of resources is instead frequently dependent on a
+more conservative use of the limiting resource,
+despite the low number of studies and the frequently
+contradictory results (Gonza¥lez et al. 2010; Neves
+et al. 2010; Sardans and Penòuelas 2012). In this
+study, P. australis had a high capacity to allocate N
+to photosynthesis. Interestingly, this ability enhances
+invasive success in both nutrient-rich and nutrientpoor
+sites (Feng 2008; Matzek 2011).
+Subtropical zones have high precipitation and
+temperatures that favor the erosion and loss of N and
+P, so nutrients are limited (Olde Venterink et al. 2003;
+Tian et al. 2010). Nutrient limitation is especially
+significant in tidal wetlands, likely because of the
+periodic inundation of the soil that limits the access of
+the plants to the soil nutrients by the anoxic effects on
+root growth (Amlin and Rood 2001; Kirwan and
+Guntenspergen 2012), by slowing mineralization
+(Adame et al. 2010) and by high levels of leaching
+of P and particularly of N (Noe and Hupp 2007;
+Kobayashi et al. 2009). The higher N:P and lower C:N
+ratios together with the higher capacity of P. australis
+to resorb N and P indicate a more conservative use of
+nutrients in this invasive species than in the native
+species. The average N:P ratios (on a mass basis) were
+14.0 ± 2.6 and 8.1 ± 1.0 for P. australis and C.
+malaccensis, respectively, which are from similar to
+lower than the average N:P ratios (14ñ16) of terrestrial
+plants and aquatic macrophytes and algae in their
+natural environments (Elser et al. 2000; Gu®sewell and
+Koerselman 2002; Geider and La Roche 2002; Knecht
+and Go®ransson 2004; Sardans et al. 2012). Leaf N:P
+ratio is often used to represent nutrient limitation
+during plant growth (Tessier and Raynal 2003; Wang
+and Yu 2008). Thus, the foliar N:P ratios of this study
+suggest that N can be limiting. The wetland soils of our
+study had particularly low N:P ratios, 2.5ñ2.7 on a
+mass basis, compared to the soils from other ecosystems,
+on average 5.9 on a mass basis, at global scale
+(Cleveland and Liptzin 2007; Tian et al. 2010),
+indicating that N probably should be more limiting
+in the soil of this wetland area. The higher N:P ratios in
+plants than in soils and the negative relationships
+between plant N:P ratio and soil N:P ratio (Fig. 3)
+suggested again N limitation since plants made a
+greater effort to conserve N than P, especially when
+soil N:P ratios were lower, whereas the opposite
+occurred with P. Both plant species had much higher
+N:P ratio than soil, and the negative relationship
+between plant N:P ratio and soil N:P ratio further
+suggests that when N is more limiting, plants tend to
+accumulate even more N. Moreover, the slopes between plant C:N ratio and soil C:N ratio are below 1
+whereas the corresponding slopes of C:P ratio are
+above 1 suggesting again that plants retain more
+strongly N than P. Despite this general trend toward a
+high retention capacity of N in biomass observed in
+these wetlands, this capacity to retain and efficiently
+use N was greater in the invasive P. australis than in
+the native C. malaccensis. P. australis had higher
+resorption capacity for P, and specially for N, higher
+foliar N concentration and C:N ratio in stem litter, and
+lower C:N ratio in leaves and roots than C. malaccensis.
+All this was also related with the observed
+higher N content in total biomass in P. australis than in
+C. malaccensis despite the total biomass was lower
+(but not significantly) in the invasive species. Altogether,
+these findings suggest greater N use efficiency
+in the community dominated by the invasive plant.
+To summarize, we found low N and P soil
+availabilities and low soil N:P ratios in the Minjiang
+River tidal estuarine wetlands. We observed lower
+C:N ratios and much higher N:P ratios in the plants
+than in the soils indicating that plants retain nutrients,
+especially N. P. australis was more efficient than the
+native C. malaccensis in the use of N to fix C. This
+likely contributes to P. australisí invasive success in
+these estuarine wetlands. As frequently observed in
+previous studies a more conservative use of resources,
+when limiting, is related with the invasive capacity
+(Funk and Vitousek 2007; Matzek 2011; Sardans and
+Penòuelas 2012). These results were consistent with
+previous studies indicating that the success of invasive
+plants in nutrient-poor soils depended on conservative
+strategies, such as a higher nutrient-use efficiency
+(Funk and Vitousek 2007; Gonza¥lez et al. 2010;
+Matzek 2011), especially on short-time scales (Funk
+and Vitousek 2007) and long nutrient residence times
+(Laungani and Knops 2009). The results of our study
+thus suggest that a conservative use of nutrients (in
+particular N, that the results suggested as limiting)
+could contribute to the invasive success of P. australis
+in the Minjiang River tidal estuarine wetlands in China
+and determines the N-cycle in this wetland area.
+As a group, C4 plants are generally considered
+more conservative in their use of limited resources and
+consequently more stress tolerant than C3 plants.
+Plants with C4 metabolism, such as C. malaccensis,
+have frequently been shown to have a competitive
+advantage over plants with C3 metabolism plants,
+such as P. australis, in drier environments (Zand et al.
+2006; Kocacinar and Sage 2003). In general, reductions
+in water availability have greater negative effects
+on C3 than C4 plants (Wilson 2007; Luo et al. 2013),
+and during dry periods in wetlands C4 plants tend to
+displace C3 plants (Malone et al. 2013). However, less
+is known with respect to the competitive advantage
+between these two strategies in wetland areas where
+resources other than water are limiting plant growth
+and survival. Our results show that the invasive C3
+species has more conservative traits such as slow
+growth rates, higher foliar N:P ratios and higher N
+nutrient resorption efficiency. We assessed the two
+dominant plant species in these estuarine wetlands and
+found that our data are contrary to the typical
+expectations of competitive outcomes between C3
+and C4 plants in resource limiting conditions. For the
+plant traits examined in our study, the invasive C3 plant showed values consistent with conservative
+resource use strategy compared to the native C4 plant.
+P. australis has invaded these wetlands during the past
+30 years and is now the single most prevalent plant
+species, thus suggesting that other traits, such as the
+use of nutrients and the growth strategy can be
+underlying its invasive success.
+Conclusions
+The nutrient composition and stoichiometry in plants,
+litters, and soils showing low concentration of soil N
+and very low soil N:P ratio strongly suggested that N
+would be a limiting factor in these tidal estuarine
+wetlands. Plant strategies under these environmental
+conditions are based on slow plant growth and a high
+capacity to retain nutrients in the biomass associated
+with a high capacity to resorb nutrients. Our results
+also suggested that the success of plant invasion was
+related to a more conservative use of nutrients, in this
+case P and mainly N, in the invasive relative to the
+native species.

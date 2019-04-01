@@ -1,0 +1,672 @@
+xabstract
+
+
+ This study aimed to understand how the introduction of Cichla kelberi in Rosana Reservoir (Paranapanema River)
+
+affected the native ichthyofauna. Data on the structure of the small fish fauna assemblage were obtained before and
+
+after the introduction of this carnivorous species. Samplings were carried out in February and September of 2004,
+
+previously to the register of Cichla kelberi in the reservoir, and after its introduction, November of 2004, January,
+
+March, May and August of 2005, February and June of 2006, February and July of 2007, February and October of 2008
+
+and February of 2009. A total of 4,693 fish, belonging to 43 different species was sampled between 2004 and 2009.
+
+The order Characiformes was the most abundant, followed by Perciformes and Siluriformes. Comparative analyses,
+
+before and after the introduction, could not demonstrate significant changes in composition, richness, abundance,
+
+biomass, mean length and diversity of fish. Aquatic insects were the main feeding item of C. kelberi, followed by
+
+tetragonopterinae fish. Cannibalism was recorded during the whole study period. The results showed that Cichla
+
+cannot deeply affect the ichthyofauna assemblages of a large Neotropical reservoir, at least in a short or medium term
+
+period after its introduction. The results also allowed concluding that the introduction of C. kelberi in the reservoir is
+
+in the phase 3. In this phase, the specie can survive and reproduce in the new environment; however it is not totally
+
+established and disseminated. The reasons for the fact that Cichla is still not dominant in Rosana Reservoir could
+
+be related to feeding competition, high rate of cannibalism and the presence of large amount of aquatic macrophytes
+
+(refuge zones). In spite of the results, the continuous monitoring of the role of non-native species on the local fish fauna
+
+is absolutely necessary because the impacts caused by colonization of this undesirable species can be magnified by
+
+complex processes, usually correlated with other environmental disturb, especially the negative effects of damming. xintroduction River regulation represents one of the major impacts on
+
+fish fauna and can drastically change the species composition
+
+and abundance. Some species cannot survive to the newly
+
+created environment while others can become excessively
+
+abundant (Ahearn et al., 2005; Agostinho et al., 2008).
+
+Another serious damage for the ichthyofauna is the
+
+introduction of non-native species. The introduction of
+
+non-native fish species can cause the decline or even the
+
+extinction of native fish populations, the biotic homogenization
+
+- the replacement of endemic native species by widespread
+
+distributed exotic species (Gido and Brown, 1999; Olden
+
+and Poff, 2004; Marchetti et al., 2006; McKinney, 2006;
+
+Smith, 2006; Light and Marchetti, 2007).
+
+Biotic invasion, as a consequence of human activities,
+
+is an over century phenomenon (Simberloff, 2003).
+
+Since the Roman Empire, introduction of fish into alien
+
+environments have been mediated by boat displacement,
+
+importation of aquarium fish, aquaculture activities
+
+based on exotic species, releases for biological control,
+
+releases for fisheries improvement, construction of
+
+inter-catchment canals for water transportation, pipes and
+
+tunnels (Ruesink, 2005; Brasher et al., 2006; Jeschke and
+
+Strayer, 2006; Stohlgren et al., 2006). Exotic fishes are
+
+positively associated with man-made reservoirs, generally
+
+due to stocking for sport fishing and inundation of natural
+
+barriers, such large waterfalls (Pringle et al., 2000;
+
+Leprieur et al., 2006). Above dam populations of exotics
+
+usually have higher abundance than the ones living below
+
+dam (Holmquist et al., 1998).
+
+In the last years the introduction of the Amazonian
+
+peacock-bass species (Cichla spp.) in Neotropical reservoirs
+
+has been considered as a major problem (Kullander and
+
+Ferreira, 2006). Cichla is an exceptionally voracious predator
+
+and studies showed that its introduction may seriously threat
+
+the native fish, compromising the assemblage diversity or
+
+even causing the complete regional extinction of several
+
+species (Zaret and Paine, 1973; Godinho et al., 1994;
+
+Santos et al., 1994; Latini and Petrere Junior, 2004; Pelicice
+
+and Agostinho, 2009).
+
+Nevertheless, quantitative analysis of the dispersion
+
+and establishment of non-native fish in a wide spatial and
+
+temporal scale is still rare. The complete understanding
+
+of the process is crucial for prediction, and maybe the
+
+avoidance, of further expansion of invasive species and biotic
+
+homogenization in aquatic ecosystems (Han et al., 2008).
+
+The proposal of the present study is to evaluate the
+
+potential negative impact of the introduction of Cichla kelberi
+
+Spix and Agassiz, 1831 in Rosana Reservoir, Paranapanema
+
+River. The aim is to understand how Cichla affects the small
+
+size ichthyofauna, comparing the assemblage structure
+
+before and after (in a relatively long term) the introduction.
+
+Additional information on the small size fish assemblage
+
+distribution and ecological attributes and limnological
+
+characteristic of the study environment is provided by
+
+Ferrareze and Nogueira (2011) and Ferrareze et al. (2014),
+
+respectively. 
+
+
+xmethods The study area is located in the upstream (tail) zone
+
+of Rosana Reservoir, approximately 80 km above dam
+
+(Figure 1), which is located at 22∞ 36í S and 52∞ 52í W.
+
+The reservoir is the last one, from a series of eleven
+
+along the Paranapanema River (SP/PR, Brazil), with a
+
+surface area of 276 km2 (watershed of 11,000 km2), water
+
+retention time of 21 days (annual mean values), shallow
+
+(maximum of 26 m close to the dam) and oligo-mesotrophic
+
+(Nogueira et al., 2006).
+
+The climate is subtropical humid (average temperature
+
+of 21 ∞C) with two pronounced seasons, a dry weather
+
+predominates from April to August (autumn/winter),
+
+and the rains are concentrated in late spring and summer
+
+(from November to March) (Ferrareze et al., 2014). The samplings were carried out in February and September
+
+of 2004, previously to the register of Cichla kelberi in the
+
+Rosana Reservoir (Casatti et al., 2003; Pelicice et al., 2005),
+
+and in November of 2004 (register of the first occurrence
+
+of this species) (Pelicice and Agostinho, 2009), January,
+
+March, May and August of 2005, February and June of
+
+2006, February and July of 2007, February and October
+
+of 2008 and February of 2009.
+
+The study was carried out in 4 lagoons and one sampling
+
+station in Paranapanema River (PR), close to the river bank
+
+(Figure 1; Table 1). Two kinds of lagoons were assessed:
+
+3 natural lagoons and one originated by the flood of mining
+
+digging (FPA). The natural lagoons (FPB and FPD) are
+
+located inside the State Park of Morro do Diabo, while the
+
+last one (FPC) is located in an area influenced by human
+
+activities (agriculture and cattle breeding). The dominant
+
+macrophytes of each lagoon, in terms of stand area, were
+
+registered (Table 1). Identification of these plants was
+
+performed at the genus level, with help of taxonomists
+
+of Botany Department from Biosciences Institute of State
+
+University of S„o Paulo, UNESP, Campus of Botucatu. Small fish were sampled with a net of 7.5m2
+
+(1.5◊5m; 0.3 cm of mesh size). In each point/period five
+
+manual throws were performed towards to the aquatic
+
+macrophyte stands and in the limnetic zone.
+
+In the laboratory, the organisms were transferred to
+
+ethanol 70% for permanent storage. Voucher specimens
+
+are deposited in the Freshwater Fish Collection of the
+
+Department of Zoology, UNESP/Botucatu.
+
+The biometry of the collected organisms was
+
+obtained through measurements of weigh (biomass in g;
+
+0.01g accuracy) and length (caliper, 0.1 mm) ñ standard
+
+(except for Gymnotiformes and Synbranchiformes) and total.
+
+For taxonomical identification of the fish species it was
+
+used specialized literature (Britsk, 1972; Britsk et al., 1986,
+
+1999; Reis et al., 2003; Nelson, 2006; GraÁa and Pavanelli,
+
+2007) and the scientific collections of the UNESP/S„o
+
+JosÈ do Rio Preto) and University of S„o Paulo Museum
+
+of Zoology (MZUSP) were also consulted.
+
+Numerical richness, abundance and biomass were
+
+calculated for the communities, while the Index of
+
+Importance (Nataragam and Jhingian, 1961, apud Beaumord
+
+and Petrere Junior, 1994) was calculated for each species.
+
+The Shannon index was calculated to estimate the fish
+
+assemblage diversity of each lagoon for the distinct
+
+sampling periods. This index is widely used in analyses
+
+of communities structure (Magurran, 2004).
+
+In order to describe the feeding preference of C. kelberi,
+
+its diet was determined through stomach content analysis. The items were identified under a stereoscopic microscope
+
+and microscope, trying to attain the most detailed taxonomic
+
+level.
+
+The mean values of the community variables were
+
+calculated to synthesize the information and facilitate the
+
+identification of patterns. The data were grouped by sampling
+
+year. The representativeness of the means was assumed
+
+based on the normal data distribution (Shapiro-Wilkís
+
+W test) (Underwood, 1997; Statsoft, 2001), after previously
+
+standardization (Logx+1).
+
+Finally, a one-way ANOVA test was performed to
+
+detect differences among periods. When differences were
+
+detected, the Tukey test was applied to determine the level
+
+of significance (Underwood, 1997). It was considered
+
+significant difference values of p < 0.05 (Underwood, 1997),
+
+which were mentioned in the results. The analyses were
+
+performed using StatisticaTM 6.0 software (Statsoft, 2001). 
+
+
+xresults A total of 4,693 fish, belonging to 43 species was
+
+sampled between 2004 and 2009 (Table 2). The assemblages
+
+were primarily composed by small-size species, due to
+
+the chosen methodology. The order Characiformes was
+
+the most abundant, totalizing 95.4% of the individuals,
+
+followed by Perciformes, 2.5%, and Siluriformes, 1.2%.
+
+Other orders represented only 0.9% of the individuals.
+
+In terms of Species Importance, the main species was
+
+Hemigrammus marginatus Ellis, 1911, which represented
+
+about 37% of the total captures. Other abundant species were
+
+Hyphessobrycon eques (Steindachner, 1882), Bryconamericus
+
+stramineus Eigenmann, 1908 and Serrapinnus notomelas
+
+(Eigenmann, 1915) for Characiformes; Crenicichla britskii
+
+Kullander, 1982 for Perciformes; Hypostomus ancistroides
+
+(Ihering, 1911) for Siluriformes and Gymnotus sylvius
+
+Albert & Fernandes-Matioli, 1999 for Gymnotiformes.
+
+A total of 899 individuals (21 species) were captured
+
+in the period that preceded the introduction of C. kelberi
+
+(before), while 3,994 individuals (43 species) were caught
+
+in all subsequent periods. Thirty-seven individuals of
+
+C. kelberi were captured along the study.
+
+There were no differences between the fish richness
+
+if compared the periods before and after the introduction
+
+(p=0.86; Figure 2). The fish richness during the year of
+
+2008 showed a remarkable decreasing (p=0.03). However,
+
+this fact is probably not related to the Cichla introduction,
+
+because the number of caught individuals of this species
+
+during the mentioned period was low.
+
+There were no difference between the fish abundance
+
+before and after the introduction (p=0.55; Figure 3). It was
+
+verified a decrease in the fish abundance when there was an
+
+increase in the Cichla abundance. Posterior to the reduction
+
+of Cichla, the assemblage abundance was reestablished.
+
+The species H. marginatus, H. eques and C. britskii exhibited
+
+higher decrease in abundance when the number of Cichla
+
+specimens was elevated. Other observed particularity is
+
+that most Cichla individuals were sampled in the lateral
+
+lagoon with higher fish abundance (FPA).
+
+The same pattern was observed in terms of fish biomass.
+
+During the increase of Cichla population, the fish biomass
+
+decreased; but the weight just reestablished when Cichla
+
+abundance reduced. There was no significantly difference
+
+between the fish biomass before and after the introduction
+
+(p=0.677; Figure 4).
+
+The introduction of Cichla did not interfere in the
+
+mean length of fish (p=0.83; Table 2). The sampled species showed similar size before and after the introduction,
+
+even during the period when Cichla abundance was high.
+
+The fish assemblage composition did not change
+
+after Cichla introduction. There was the predominance of
+
+Characiformes, followed by Perciformes and Siluriformes in
+
+all periods. Characiformes is more abundant in the lagoons,
+
+while Perciformes, Siluriformes and Gymnotiformes
+
+are more important in the river channel. The unique
+
+difference was seen when the Cichla abundance raised,
+
+the predominance of Characiformes was lower, due to
+
+the decrease of H. marginatus. The Siluriformes was
+
+the order that increased most after the introduction,
+
+but this is probably associated with the higher number
+
+samplings, as no species of this order was predominant
+
+after the introduction. The relative abundance among the
+
+taxonomic orders is presented in Figure 5, for the whole
+
+sampling period.
+
+The fish diversity was higher before the introduction of
+
+Cichla (p=0.04; Figure 6). The number of the predominant
+
+species (H. marginatus, H. eques and C. britskii) decreased,
+
+what allowed other species of minor importance to
+
+increase in abundance, such as Cyphocharax modestus
+
+(Fern·ndez-YÈpez, 1948), Roeboides descalvadensis
+
+Fowler, 1932 and Aphyocharax anisitisi Eigenmann and
+
+Kennedy, 1903.
+
+Finally, aquatic insects were the main feeding
+
+item of C. kelberi, followed by fish of the sub-family
+
+Tetragonopterinae. Cannibalism was recorded during the
+
+whole study period. Detailed analyses of the assemblages
+
+fish diet is provided by Ferrareze et al. (2015). 
+
+
+xdiscussion
+ The probability of a given species to become a well
+
+succeeded invader is generally low, even rare. When the
+
+event is rare, the prediction of the facts becomes hard,
+
+because it depends not only on the prediction accuracy,
+
+but also on the frequency that the event occurs (Colautti
+
+and MacIsaac, 2004; Brasher et al., 2006).
+
+When a species is introduced in a region, only a certain
+
+number of individuals will survive and most of them will
+
+fail to succeed. Thus, the damage of non native species
+
+can just be evaluated after the real introduction, because
+
+no one can be completely sure if the establishment of it
+
+will occur (Colautti and MacIsaac, 2004; Jeschke and
+
+Strayer, 2006).
+
+In the Rosana Reservoir case, the results showed that
+
+C. kelberi seems not to have had a significant effect on the
+
+ichthyofauna, as predicted by Pelicice and Agostinho et al.
+
+(2008).
+
+Our results did not show statistically differences in the
+
+ichthyofauna structure after the introduction of C. kelberi
+
+in the reservoir. The diversity values even improved,
+
+after the introduction. This fact happened due to the
+
+decrease of the number of the most abundant species,
+
+diminishing the competition and allowing the increase of
+
+the abundance of some species with minor importance as
+
+C. modestus, R. descalvadensis and A. anisitisi. However,
+
+some tendencies of disturb could be observed, indicating
+
+that this species can interfere in the local ichthyofauna.
+
+According to McKinney (2006), when a high number of
+
+predators found an opportunity to spread, they can produce
+
+pronounced changes on the local fish community, and this
+
+possibility cannot be neglected.
+
+Firstly, it is interesting to note that a high number of
+
+Cichla was found in the lagoon with the higher abundance
+
+of small size fish. Second, when the Cichla abundance
+
+was high, the abundance of the main species and the fish
+
+biomass decreased, corroborating with the initial study of
+
+the species impact in the Rosana Reservoir (Pelicice and
+
+Agostinho, 2009).
+
+The results allowed to conclude that the introduction
+
+of Cichla kelberi in the reservoir is in the phase 3 (sensu
+
+Colautti and MacIsaac, 2004). In this phase, the specie can
+
+survive and reproduce in the new environment; however it is not established, disseminated and dominant. So, probably
+
+Cichla is still not well established in the reservoir, and the
+
+initial introduction effects were buffered by the plasticity
+
+of the fish along the time (Ruesink, 2005).
+
+It is difficult to point out the reasons to explain why
+
+Cichla is not properly established, but it could be related
+
+with the feeding competition, high rate of cannibalism
+
+and the extensive presence of aquatic macrophytes in
+
+the reservoir.
+
+Juveniles of Cichla kelberi, as several other Neotropical
+
+fish species, uses the aquatic insects as the main feeding
+
+item and some of this species are highly specialized to
+
+capture their prey, such as Gymnotus and Crenicichla.
+
+Another fact is that the Tetragonipterinae, used by Cichla,
+
+are also an important feeding item of Serrasalmus maculatus
+
+Kner, 1858 and Hoplias malabaricus (Bloch, 1794)
+
+(Ferrareze et al., 2015).
+
+The feeding competition can reduce the prey
+
+availability and raise the cannibalism (Novaes et al., 2004).
+
+The cannibalism also can reduce the chances of surviving
+
+of a non native fish in a new environment. The drastic
+
+reduction of the introduced population, reduce the genetic
+
+and morphologic variability, as well as the reproduction
+
+success (Wootton, 1990; Santos et al., 2001).
+
+Other important fact preventing Cichla to become
+
+dominant in the reservoir is the presence of macrophytes,
+
+as previously mentioned. The plant structures offer an
+
+ideal environment for refuge and shelter for prey, mainly
+
+for small sized fish, what makes harder their capture by
+
+predators (Rozas and Odum, 1988; Schriver et al., 1995;
+
+Ferrareze and Nogueira, 2011).
+
+Therefore, the results showed that Cichla didnít impair
+
+the whole ichthyofauna assemblages of a Neotropical
+
+reservoir and changed the fish assemblage structure
+
+immediately after its introduction (Ferrareze and Nogueira,
+
+2011). But, the real problems about the introduction only
+
+will be determined, when the process reaches the next steps
+
+(4 and 5). When the species will reach these steps cannot
+
+be determined (Colautti and MacIsaac, 2004).
+
+The decrease in the ichthyofauna attributes verified
+
+during the year of 2008, such as low richness, abundance,
+
+biomass and diversity is probably resulted of the irregular
+
+climate verified in that year. There were strong rains in
+
+the wet period (from January to March) and a long dry
+
+season in the winter/spring of 2008 (no published data).
+
+These changes reflected on the ichthyofauna, promoting
+
+the decrease of the ecological attributes, as verified in
+
+other studies (Gafny et al., 2000; Barrella and Petrere
+
+Junior 2003).
+
+Despite of the inconclusive results to support the
+
+hypothesis that Cichla kelberi has caused a significant
+
+negative impact on the ichthyofauna of Rosana Reservoir,
+
+the role of non native species in the local fish fauna should
+
+be a major concern of aquatic ecology scientists and
+
+environmental managers. The continuous monitoring of
+
+non-native species is imperative, because in several cases,
+
+the introduction reach the final phase, promoting drastic
+
+changes in the local ichthyofauna (Zaret and Paine, 1973;
+
+Kaufman, 1992; Macchi et al., 1999). Additionally, it must
+
+be considered that the impacts caused by colonization of
+
+this undesirable species can be magnified by complex
+
+processes, usually correlated with other environmental
+
+disturb (Byers, 2002; Shea and Chesson, 2002), especially
+
+the negative effects of damming (Agostinho et al., 2007).
+
+Nevertheless, the assumptions cannot be totally pessimist,
+
+as the system has a natural resiliency that can minimize
+
+disturbances (Odum, 2004).

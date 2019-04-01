@@ -1,0 +1,1211 @@
+xabstract
+
+
+
+
+Largemouth bass Micropterus salmoides and smallmouth bass M. dolomieu are two
+
+widely introduced species of fish prized for their angling potential. The introductions of
+
+these species, although commonly done by management agencies and the public, typically
+
+involve little or no consideration of the impacts these species may have on other species of
+
+fish and the aquatic ecosystems. Field studies and review of literature are used to document
+
+various direct and indirect effects of bass occurrence in reducing diversity of small-bodied
+
+fish species, creating more homogeneous fish communities, increasing competition among
+
+small-bodied fish, reducing energy flow to other game fishes, alterating planktonic and
+
+benthic communities, and potentially changing habitat complexity. Discussed within is also
+
+the fact that, although there is public concern regarding introduction of predatory species
+
+that may affect terrestrial systems, there appears limited interest regarding the negative
+
+impacts that bass may have on aquatic ecosystems.
+
+xintroduction
+
+
+
+
+Recreational fishing represents both a major activity
+
+and business, particularly in North America.
+
+Within warm and cool freshwater environments,
+
+angling for bass, in particular largemouth bass
+
+Micropterus salmoides and smallmouth bass M.
+
+dolomieu, is a major focus. To facilitate angling,
+
+management agencies often use stocking programs
+
+to enhance existing populations and stock
+
+lakes, reservoirs, and river systems where these
+
+two species of bass may not occur naturally. In
+
+addition to stocking by official agencies, many
+
+authorized (e.g., farm ponds) and unauthorized
+
+introductions occur with fish being moved between
+
+waterbodies by the public. Distributions of
+
+these two species have expanded from approximating
+
+the Mississippi River basin, Gulf of Mexico
+
+region, and portions of the Great Lakes basins to
+
+include virtually all of the United States, southern
+
+regions of Canada warm enough to support
+
+the species, most of Mexico and central America,
+
+large areas of Europe, southern Africa, South
+
+America, parts of Asia and many oceanic islands
+
+(e.g., Robbins and MacCrimmon 1974; Azuma and
+
+Motomura 1999; Gratwicke and Marshall 2001).
+
+These species have become some of the most
+
+widely distributed aquatic species in the world in
+
+order to provide angling opportunities. The management
+
+of these species and the enhanced fishing
+
+opportunities are generally considered a success,
+
+but such evaluations of ìsuccessî are limited
+
+in the breadth of their considerations. These
+
+introductions typically have been made with limited
+
+or no consideration about the ecological consequences
+
+of such actions. Ironically, this symposium
+
+represented the 25th anniversary of the publication
+
+the first Black Bass Symposium proceedings,
+
+the same year at which John Magnusonís
+
+presidential address warned of the consequences
+
+due to fish introductions (Magnuson 1976). Although
+
+the introduction of exotics from other continents
+
+generates considerable concern among
+
+most resource managers and the public, there appears
+
+to be no comparable response to moving
+
+Micropterus spp. around in North America or elsewhere
+
+despite their strong ecological impacts.
+
+This paper examines several of these ecological
+
+consequences through results from two studies,
+
+plus published studies are draw upon extensively
+
+in an extended discussion. Despite the species
+
+being introduced to systems worldwide, almost
+
+all of the studies examining the ecological
+
+aspects of these introductions are derived from
+
+comparative or experimental studies in North
+
+America. This paper focuses on the direct and indirect
+
+ecological effects attributable to black bass
+
+and similar predators such as Northern pike Esox
+
+lucius. Fish communities and species richness from
+
+two sets of Ontario lakes that contain bass are contrasted
+
+to those lakes that do not have bass present.
+
+The findings from this bass comparison are contrasted
+
+with the results of a trout Salvelinus presence-absence comparison from the same lakes. The
+
+goal of this paper is not to advocate the elimination
+
+of stocking programs entirely, but rather to
+
+emphasize that we must consider the broader and
+
+permanent environmental impacts due to black bass
+
+introductions
+
+xmethods
+
+
+
+
+Drainage-basin survey: Species were sampled from
+
+52 lakes in the Black and Hollow River drainage
+
+basins of south-central Ontario, Canada (Figure 1).
+
+Selected lakes had surface areas of 5 ha or greater,
+
+and a minimum depth of 3 m or more to reduce
+
+the probability of complete winterkill. Each lake
+
+was sampled using baited minnow traps, plastic
+
+traps, fine- and coarse-mesh trapnets, and multipanel
+
+monofilament gillnets having 15 ◊ 8 m panels
+
+ranging in size from 3.75 to 7.5 cm stretched
+
+mesh. Lakes were sampled between three and
+
+seven nights in duration with all gears being used
+
+in each suitable habitat. Several lakes were
+
+resampled during a different time of the sampling
+
+season to assess the reliability of initial surveys due
+
+to seasonal effects. No additional species were detected
+
+during the resampling periods (for additional
+
+details see Jackson 1988).
+
+Size-restricted survey: To limit effects due to lake
+
+size and habitat heterogeneity, a set of lakes from
+
+the Black and Hollow River drainage (six lakes) and
+
+adjacent Algonquin Provincial Park (eight lakes)
+
+were chosen. These two regions are physically adjacent
+
+and therefore share similar environmental
+
+conditions. These lakes were restricted to those with
+
+a maximum of 50 ha in surface area and were classified
+
+into those known to contain or lack smallmouth
+
+bass (MacRae 1999; MacRae and Jackson
+
+2001). Lakes were chosen such that aside from the
+
+presence or absence of smallmouth bass, the environmental
+
+conditions of the two sets of lakes were
+
+comparable in terms of surface area, depth, and
+
+water chemistry. Areas with the most complex habitats
+
+(i.e., submerged woody material and aquatic
+
+vegetation) and the simplest within each lake were
+
+located. Within these two habitat types, fishes were
+
+first enumerated using a visual sampling technique
+
+in which a snorkeling observer swam transects
+
+identifying the species and counting individuals (MacRae and Jackson 2001). Following the visual
+
+survey, baited minnow traps were placed in each
+
+habitat type and retrieved the following day to provide
+
+estimates of catch per unit effort. Whole-lake
+
+estimates of species presence-absence are used here.Fish species composition was reduced to species
+
+presence-absence because of sampling bias imposed
+
+by each sampling gear and lake characteristics.
+
+As a result of the bias, interlake comparisons
+
+across gears and species are not based on reliable
+
+estimates of relative abundance (Jackson and
+
+Harvey 1997). In addition, multi-lake comparisons
+
+based on presence-absence data have been found
+
+to capture the dominant community patterns (Jackson
+
+et al. 1992; Jackson et al. 2001). Total species
+
+richness within each lake was compared between
+
+lakes containing or lacking bass (both M. dolomieu
+
+and M. salmoides). Because richness is positively
+
+correlated to lake surface area, an analysis of covariance
+
+(ANCOVA) was used to contrast the richness
+
+of lakes with bass, from those lacking bass,
+
+while controlling for the area effect. Due to the
+
+vulnerability of cyprinids to predation, a parallel
+
+ANCOVA was carried out contrasting the cyprinid
+
+species richness in the two classes of lakes, relative
+
+to surface area. To compare whether similar relationships
+
+exist for salmonids as for bass, ANCOVAs
+
+examining total species richness and cyprinid species
+
+richness were done using the presence or absence
+
+of brook trout Salvelinus fontinalis and/or lake
+
+trout S. namaycush in the lakes.
+
+Patterns of species composition were summarized
+
+using multivariate ordination methods. Species
+
+occurring in less than five percent of the lakes
+
+were deleted as they contribute little to general
+
+community patterns and often lead to an ìoutlierî
+
+condition. The similarity of species from the 52
+
+lakes in the Black and Hollow Rivers system were
+
+quantified using the Phi similarity coefficient (denoted
+
+as S; Jackson et al. 1989). These species have
+
+been shown to exhibit nonrandom patterns in community
+
+composition based on this measure (Jackson
+
+et al. 1992) and the measure is not influenced
+
+by species richness or by species frequency of cooccurrence
+
+(Jackson et al. 1989) unlike more commonly
+
+applied measures, such as Jaccardís coefficient.
+
+The similarity measure was converted into a
+
+distance measure by taking the square root of its
+
+complement (i.e., the multivariate distance between
+
+two lakes ). A principal coordinates analysis
+
+(PCoA) was then applied to this matrix of between-species distances to graphically summarize
+
+the similarities of the species. A similar Phi-based
+
+distance matrix and PCoA was applied to summarize
+
+relationships among the lakes. The species
+
+presence-absence data from the restricted lake size
+
+survey was summarized using a correspondence
+
+analysis (Jackson and Harvey 1997; Legendre and
+
+Legendre 1998). This technique has an advantage
+
+in that positions of species and lakes can be interpreted
+
+jointly to relate species composition directly
+
+to the similarity of lakes.
+
+xresults
+
+
+
+
+Lake surface area was a significant factor associated
+
+with total species richness per lake (P < 0.0001).
+
+The increase in the number of species relative to
+
+lake area (i.e., the regression slope) was not significantly
+
+different in lakes with bass from lakes without
+
+bass (P = 0.323). The lakes containing either
+
+bass species had an average of 1.4 fewer species
+
+(including bass) than lakes without bass, but were
+
+not significantly different (P = 0.101) after controlling
+
+for lake area (Figure 2a). There was no difference
+
+(P = 0.361) in the slopes of regression lines
+
+comparing cyprinid richness relative to lake area
+
+for lakes with bass relative to lakes without bass.
+
+Cyprinid richness was associated strongly with
+
+lake area (P = 0.011), and lakes with bass averaged
+
+2.9 fewer species of cyprinids than lakes without
+
+bass (P < 0.0001) after controlling for lake area (Figure
+
+2c). Tests comparing the presence or absence
+
+of trout within these lakes showed total species
+
+richness to be strongly related to lake area (P <
+
+0.0001) but again had similar regression slopes (P
+
+= 0.361). Lakes containing trout differed significantly
+
+in the number of species present (P = 0.0001),
+
+but lakes with trout averaged 3.2 more species (including
+
+trout) than lakes without trout (Figure 2b).
+
+There was no difference in the slopes (P = 0.541) of
+
+cyprinid richness relative to lake area for lakes with
+
+trout versus lakes without trout. Cyprinid richness
+
+was related to lake surface area (P = 0.02) and lakes
+
+containing trout averaged 2.3 more species of cyprinid
+
+(P = 0.001) than lakes without trout after controlling
+
+for lake area (Figure 2d).
+
+The principal coordinates results of the fish
+
+species (Figure 3) shows most of the cyprinid species
+
+are positioned towards the left-end of Axis 1
+
+with species such fathead minnow, northern redbelly
+
+dace, and pearl dace being the most extreme
+
+in their location. Species located at the opposite end of Axis 1 include both bass species and yellow
+
+perch. Most species to the right of the center are
+
+large-bodied and/or cold-water species, whereas
+
+almost all species to the left are small-bodied species.
+
+A notable exception to this trend is brook trout
+
+that is positioned close to blacknose dace, pearl
+
+dace, and fathead minnow. In general, the pattern
+
+along Axis 1 is one progressing from small-bodied
+
+species at the left end towards species of increasing
+
+body size and piscivorous diets at the right end.
+
+The PCoA of the lakes (Figure 4) shows a strong
+
+contrast between lakes containing bass and those
+
+that do not. Lakes in which bass were present (coded
+
+as ìbassî) are positioned on the right end of Axis 1,
+
+whereas lakes lacking bass are positioned towards
+
+the left end. Given the results found in the fish ordination
+
+and in results published previously (Harvey
+
+1981; Jackson et al. 1992), a set of species has been
+
+coded as being highly vulnerable to predation. This
+
+set of species includes fathead minnow, pearl dace,
+
+northern redbelly dace, and finescale dace. Lakes
+
+containing two or more of these species are designated
+
+as having the vulnerable ìminnowî assemblage,
+
+whereas lakes having one or fewer of these
+
+species and lacking bass are coded as ìother.î The
+
+ìotherî lakes show an intermediate position between
+
+those lakes containing the ìminnowî assemblage
+
+and the ìbassî lakes. Four lakes contained both
+
+the ìbassî and ìminnowî assemblages and three of
+
+these are among the four largest lakes.The correspondence analysis shows smallmouth
+
+bass, largemouth bass, and rock bass all positioned at the far right-end of Axis 1 (Figure 5). The establishment
+
+of largemouth bass in one of these lakes is
+
+a recent event and was not found in these lakes during
+
+previous surveys (Jackson 1988). Because they
+
+were only found in lakes classified as ìbassî in the
+
+design, this did not compromise the ìbassî versus
+
+ìno bassî contrast. This positioning of these species
+
+contrasts with the positions of species such as
+
+fathead minnow, brook stickleback, and Phoxinus
+
+(both Phoxinus species, northern redbelly dace, P. eos,
+
+and finescale dace, P. neogeaus, were pooled because
+
+distinguishing between these species was impossible
+
+during underwater surveys). The angle between
+
+vectors joining species provides a measure of their
+
+association. Angles close to zero indicate a positive
+
+association between the species in the ordination
+
+space. These species tend to co-occur and represent
+
+assemblages found across lakes. In contrast, angles
+
+approaching 180 degrees indicate species having
+
+negative associations and more mutually exclusive
+
+distributions. Iowa darter, pearl dace and brown
+
+bullhead also show negative associations with respect
+
+to bass occurrence, but are largely uncorrelated
+
+with the distribution of Phoxinus, fathead minnow
+
+and brook stickleback as shown by the vector angles
+
+approximating 90 degrees.
+
+The ordination plot showing the lakes (Figure
+
+6) clearly indicates the difference between the
+
+ìbassî and ìno bassî lakes. As with the drainage
+
+basin survey, there is a separation between lakes
+
+containing bass and those where bass were absent,
+
+but the separation in the size-restricted survey is
+
+more distinct. Positions of lakes without bass range
+
+from the extreme left-end of Axis 1 to the middle
+
+of Axis 1, and lower end of Axis 2. In contrast the
+
+lakes containing bass show a compact grouping
+
+positioned towards the right end of Axis 1. The
+
+group of lakes containing bass shows much less
+
+variability in their ordination position than lakes
+
+without bass
+
+xdiscussion
+
+Both of the case studies presented here show strong
+
+negative associations between small-bodied fishes,
+
+primarily cyprinids, and smallmouth bass and
+
+largemouth bass. Lakes containing either of the bass
+
+species have significantly fewer species of cyprinids
+
+than lakes lacking bass. Although bass and other
+
+predatory species may not have viable populations
+
+in very small north-temperate lakes due to winterkill
+
+(Harvey 1981; Tonn and Magnuson 1983;Jackson and Harvey 1989), this pattern of reduced
+
+species richness holds consistently across the size
+
+range of lakes considered. Therefore, simple variation
+
+attributable to habitat differences as a function
+
+of lake size cannot explain the differences in
+
+cyprinid richness. The contrast related to salmonid
+
+presence, the other large predators in the lakes,
+
+does not show comparable effects. In fact, lakes
+
+with trout contain significantly more species of cyprinids,
+
+whereas lakes with bass show fewer species,
+
+relative to the lakes lacking either set of predators.
+
+During summer, bass and trout occupy different
+
+regions of these lakes due to their thermal
+
+preferences and lake stratification. Bass occupy littoral
+
+areas as do most of the cyprinids, whereas
+
+trout and cyprinids have limited overlap in their
+
+summer habitats. However, small littoral fishes
+
+may represent significant components of the annual
+
+lake trout diet in some lakes (Vander Zanden
+
+et al. 1999a). Differences in habitat use and predator
+
+thermal ecology partially explain the differences
+
+in why trout do not show as strong a negative effect
+
+with cyprinids as do the bass. Differences in
+
+foraging efficiency (i.e., gape size) between these
+
+groups of predators likely are major contributing
+
+factors also.
+
+However, the fact that the lakes with trout have
+
+greater cyprinid richness than lakes without trout
+
+raises additional questions. A possible explanation
+
+for the enhanced richness in lakes containing salmonids
+
+relates to fishing practices of anglers. Live
+
+baitfish, typically cyprinids, are used by anglers fishing
+
+for both trout and bass. It is not uncommon for
+
+anglers to release live baitfish at the end of their
+
+fishing, and many of these species may not be indigenous
+
+to the lakes. These individuals may establish
+
+breeding populations in these lakes, thereby
+
+increasing the species richness (Litvak and Mandrak
+
+1993). Because both trout and bass lakes would
+
+undergo this effect (Chapleau et al. 1997), the resulting
+
+differences in richness require that the introduced
+
+species establish and become viable in the
+
+trout lakes, whereas they do not in the bass lakes,
+
+or at least not to a similar extent. Again this emphasizes
+
+the potential differences in predatory impact.
+
+Differences in the patterns of trout and bass
+
+occurrence with cyprinid species are also evident
+
+in the species composition of lakes. There is a strong
+
+negative association between smallmouth bass and
+
+largemouth bass with the dace species and fathead
+
+minnow, whereas brook trout shows a strong positive
+
+association with these cyprinids. Lakes con-taining either or both bass species tend to have very
+
+different species composition than lakes lacking the
+
+bass. Direct predatory effects due to bass have been
+
+identified for lakes (Tonn and Magnuson 1983; Jackson
+
+et al. 1992, 2001) and streams (Power et al. 1985;
+
+Harvey et al. 1988). It has been found in stream systems
+
+that the effects due to largemouth bass are
+
+greater than those from smallmouth bass (Harvey
+
+et al. 1988), but no discernible difference was found
+
+here. The result of bass presence, via introduction
+
+or colonization, is a change in the species composition,
+
+often with a reduction in the diversity of species
+
+within the lakes (i.e., alpha diversity) (Chapleau
+
+et al. 1997; Whittier et al. 1997). Lakes where bass
+
+have been stocked or colonized from stocked populations
+
+also show less variation in their community
+
+composition than lakes without bass (Figure
+
+6). This indicates that lakes containing bass have
+
+more homogeneous communities than lakes where
+
+bass have not established. Radomski and Goeman
+
+(1995) showed a reduction in among-lake diversity
+
+(beta diversity) or increased homogenization of fish
+
+communities as a result of the stocking of walleye,
+
+and Rahel (2000) found a general homogenization
+
+of fish faunas across the United States, largely as a
+
+result of fish introductions.
+
+Although the direct effects of bass are most
+
+readily detected, there are many indirect effects that
+
+impact on other fish species and additional components
+
+of aquatic ecosystems. Most of these indirect
+
+effects are detected through experimental comparisons
+
+as they are not as readily detected in largescale
+
+comparative approaches. The risk associated
+
+with predation and foraging requirements are conflicting
+
+demands on small fish (Fraser and Cerri
+
+1982; He and Kitchell 1990). In lakes with large littoral
+
+predators, small-bodied fishes are often found
+
+to alter their choice of habitat and foraging behavior.
+
+Prey fish remain in more complex habitat because
+
+it provides greater protection from predation
+
+by bass (MacRae and Jackson 2001). Fish restricted
+
+to areas with greater amounts of macrophyte
+
+or woody material reduces the range of resources
+
+available for foraging, thereby increasing
+
+intra- and interspecific competition between smallbodied
+
+fishes (Savino and Stein 1989; He and
+
+Kitchell 1990; He and Wright 1992; MacRae and
+
+Jackson 2001). Nocturnal foraging in other habitats
+
+may offset this negative effect somewhat, but
+
+will not eliminate it. In turn, this habitat restriction
+
+contributes to reduced growth and fecundity
+
+of these species, and potentially reduced population
+
+size (MacRae 1999). Reductions in population
+
+size of small-bodied species can arise to direct predation
+
+effects and due to reduced foraging success.
+
+The importance of these complex habitats for
+
+smaller species increases when bass are present
+
+(Weaver et al. 1997), however, the lakes that are
+
+popular for recreational fishing are also the same
+
+ones that tend to have residential developments.
+
+People tend to remove many of these complexhabitat
+
+areas to enhance their use of the shoreline
+
+(Christensen et al. 1996). Therefore, while the importance
+
+of these habitats increases with bass presence,
+
+these habitats are frequently reduced in number
+
+and size. This reduction of habitat complexity,
+
+or habitat homogenization, enhances the effects
+
+due to bass predation. Fewer patches, with increased
+
+distances among patches, reduces the probability
+
+of individuals dispersing successfully between
+
+patches. In larger lakes these patch habitats
+
+may function in a metapopulation context, but the
+
+combination of increased predation and habitat
+
+modification reduces the probability of small fish
+
+metapopulations (and meta-assemblages) being
+
+maintained (Jackson et al. 2001). Increased emigration
+
+of small-bodied species has been shown to
+
+occur when pike (He and Kitchell 1990) or largemouth
+
+bass (Power et al. 1985) are introduced. Prey
+
+species may move from lakes into adjoining
+
+streams or nearby lakes if predators are absent from
+
+these systems. In general, it can be expected that a
+
+reduction in the numbers of small-bodied species,
+
+reductions in the numbers of individuals, reductions
+
+in growth and production due to predation
+
+and restriction to limited habitats will occur.
+
+Indirect effects extend to large-bodied species
+
+whose adults are not susceptible to predation by
+
+bass. The reduction in the abundance and production
+
+of small-bodied fishes, and their restriction to
+
+complex habitats may alter the availability of these
+
+fishes as food for other predatory species. During
+
+spring and fall, lake trout and cyprinids often overlap
+
+in their habitat providing the potential for trout
+
+to feed on these species. The presence of bass has
+
+been found to alter the diet of lake trout (Vander
+
+Zanden et al. 1999a; 1999b). Because bass may
+
+eliminate some cyprinid species or reduce their
+
+abundance via various direct and indirect effects,
+
+there may be reduced availability of small fish as
+
+food for trout. Lake trout either experience reduced
+
+resource availability or must switch to feeding on
+
+less optimal prey (Figure 7). Depending on the
+
+availability of pelagic forage fishes, such as cisco,
+
+lake trout may use zooplankton as their primary
+
+source of food. This switch to energetically less
+
+profitable resources has major implications for their
+
+growth and reproduction. Such effects by bass on littoral cyprinid assemblages, as well as direct predation
+
+due to smaller body size, may explain the
+
+negative association between bass and brook trout
+
+occurrence because of increased biotic interactions
+
+(Brown et al. 2000). Brook trout have been shown
+
+to be less successful when present with various littoral
+
+species with whom they must compete for
+
+food (Bourke et al. 1999).
+
+Indirect effects also occur in other ecosystem
+
+components, particularly on lower trophic levels
+
+involving pelagic and benthic invertebrate communities
+
+(see Matthews 1998 pages 604ñ611 for a review
+
+of associated trophic changes). The trophic
+
+cascade is perhaps the best-known phenomenom
+
+of top-down impacts stemming from introductions
+
+of top predators (Power et al. 1985; Carpenter et al.
+
+1987; Findlay et al. 1994; Mittlebach et al.1985;
+
+Schindler et al. 1997). The changes in abundance
+
+of small fishes and changes in their foraging behavior
+
+can contribute to differences in zooplankton
+
+structure. Fish typically select large-bodied
+
+zooplankton such as Daphnia. When planktivorous
+
+fish are abundant, large-bodied zooplankton are
+
+eaten preferentially and, therefore, are rare in abundance
+
+relative to small-bodied zooplankton. Larger
+
+cladocerans are generally considered to be more
+
+effective grazers on phytoplankton, so changes in
+
+the zooplankton size-structure result in changes in
+
+the phytoplankton communities. Such changes in
+
+trophic structure can lead to increased water clarity
+
+as a result of predators such as bass being introduced.
+
+This increased clarity could provide a positive
+
+feedback for the bass and enhance their ability
+
+to locate prey, thereby providing further pressure
+
+on the small-bodied fishes.
+
+Differences in fish communities associated
+
+with bass and other littoral piscivores may contribute
+
+to differences in benthic invertebrate communities
+
+also (Jackson and Harvey 1993). Various studies
+
+have suggested changes in the zoobenthic communities
+
+ranging from changes in chironomid
+
+abundance to large-bodied invertebrates such as
+
+odonates (Morin 1984a, 1984b). Crayfish abundance,
+
+or their trapability, is reduced when bass
+
+are present (Stein and Magnuson 1976; Mather and
+
+Stein 1993; Somers and Green 1993). Changes in
+
+crayfish abundance or foraging behavior can be
+
+important given they are major invertivores and
+
+grazers of periphyton and macrophytes (Hill and
+
+Lodge 1995; Nystrom et al. 1996; Dorn and
+
+Mittlebach 1999). Modifications of this grazing behavior
+
+may contribute to differences in macrophyte
+
+abundance and density and therefore, changes in
+
+habitat complexity. Effects on invertebrate communities
+
+can be quite complicated as reduced abundances
+
+and modified behavior of predatory invertebrates
+
+due to bass presence can also reduce invertebrate
+
+predation on smaller invertebrate species
+
+(Jackson and Harvey 1993). Therefore, positive
+
+impacts on some groups of invertebrates may arise
+
+indirectly. Similar negative interactions between
+
+bass and small fish species (e.g., Campostoma) lead
+
+to changes in the grazing behavior with the result
+
+being increased accumulation of large algae,
+
+thereby providing more complex habitat for many
+
+small species (Power et al. 1985; Gelwick and
+
+Matthews 1992). Effects are not limited to purely
+
+aquatic groups either, because predators can affect
+
+the success of amphibian species (Semlitsch 2000
+
+and references therein).
+
+Are aquatic systems different from terrestrial
+
+ones ñor simply considered differently? The extent
+
+to which largemouth and smallmouth bass are
+
+introduced to aquatic systems in North American and elsewhere is considerable and matched only
+
+by their apparent impact on these systems. Their
+
+impact ranges from loss of biodiversity to alterations
+
+of energy flow to changes in habitat structure.
+
+A species having a comparable impact in the
+
+terrestrial system would be the wild boar Sus scrofa,
+
+given that it is a species of interest due to the associated
+
+recreational hunting possibilities. Boar alter
+
+the habitat in which they live, cause local extinctions,
+
+and change trophic dynamics and energy
+
+flow of the ecosystem. However, there are many
+
+efforts to eliminate introduced populations of this
+
+species because of the recognized adverse impact
+
+on the environment. Certainly there is not support
+
+for widespread introduction of the species throughout
+
+North America as its adverse impacts are clear
+
+and the ìcostsî associated with the introduction
+
+of this species outweigh the benefits, both at the
+
+ecosystem level and the societal level (see Sweitzer
+
+et al. 2000 and references therein). The negative ecological
+
+effects on the terrestrial system are clearly
+
+visible and recognized. In contrast, the effects of
+
+black bass introductions may be comparable within
+
+aquatic systems, but they continue to be widely
+
+stocked and introduced, both legally and illegally.
+
+Part of this difference may be due to the misconception
+
+that fish do not move between lakes (see
+
+He and Kitchell 1990; Jackson et al. 2001 for discussions)
+
+or the fact that the impacts by black bass
+
+are less visible to the public. There is clear recognition
+
+that introducing nonindigenous predators into
+
+aquatic systems may have major ecological consequences
+
+(Moyle 1986; Crossman 1991; Stiassny
+
+1996), but there appears to be little public awareness
+
+about the ecological impact that these commonly
+
+stocked species are having. Effects below
+
+the waterís surface are less noticeable to the public
+
+and actions occur within aquatic systems that
+
+would not be tolerated in terrestrial systems (e.g.,
+
+trawlers impacts on the ocean floor habitat and
+
+biota). This case of ìout of sight ñout of mindî may
+
+explain the dichotomy in how terrestrial and
+
+aquatic systems are considered with respect to introducing
+
+major predators.
+
+=#."$1,&#.,
+
+The presence of bass has been shown to have adverse
+
+impacts for many natural components of
+
+aquatic ecosystems. These effects have been noted
+
+through various comparative studies examining
+
+fish communities (or other aquatic groups) in lakes
+
+with or without bass, as well as through experimental
+
+manipulations. Although many bass introductions
+
+have been made by management agencies,
+
+currently the rapid expansion in many areas
+
+is due to unauthorized introductions. The loss of
+
+biodiversity and homogenization of our ecosystems
+
+can be linked to these introductions. As well as
+
+these impacts on small-bodied species, there is evidence
+
+indicating major effects on other sport fishes,
+
+e.g., lake trout, brook trout, walleye. These species
+
+tend to be more common at the northern range of
+
+the bass distributions. However, given the current
+
+northerly expansion of bass and their potential for
+
+much wider distribution under climate change scenarios,
+
+there may be considerable risk to northern
+
+ecosystems. In order to limit the expansion of bass
+
+populations into new systems, it is critical that more
+
+stringent management be applied. In particular, we
+
+need to increase the awareness of anglers and the
+
+general public regarding the adverse effects of bass
+
+introductions (including ecological and recreational),
+
+rather than simply relying on the perceived
+
+benefits from angling.

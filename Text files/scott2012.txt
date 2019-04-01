@@ -1,0 +1,1771 @@
+xabstract
+
+
+Native consumers play a vital role in maintaining
+
+ecosystem functioning, but species invasion may
+
+alter these processes. We hypothesized that the individual
+
+effects of large-bodied native and invasive consumers on
+
+ecosystem functioning and invertebrate community
+
+assemblages differ from the interactive effects. In the San
+
+Marcos River (Texas, USA), big claw river shrimp (Macrobrachium
+
+carcinus, Decapoda: Palemoides) is a largebodied
+
+native freshwater shrimp species with low abundance,
+
+and armored catfish (Hypostomus plecostomus,
+
+Loricariidae) is an abundant, large-bodied invasive species.
+
+To examine natural distribution of these consumers, we
+
+conducted repeated field surveys of the river. Catfish had a
+
+wide range of distribution with high densities in the river,
+
+while shrimp with low densities had a patchy distribution
+
+in the open areas adjacent to openings and crevices. To
+
+investigate their individual and interactive effects, we
+
+performed a 2 9 2 factorial mesocosm stream channel
+
+experiment cross-classifying the presence and absence of
+
+catfish and shrimp for assessing their effects on ecosystem
+
+engineering and ecosystem functioning. Presence of invasive
+
+catfishes in mesocosms showed a significant influence
+
+on ecosystem functioning by decreasing periphyton biomass,
+
+altering periphyton nutrient ratios, and facilitating
+
+detrital decomposition. Catfish presence altered invertebrate
+
+community composition in leaf packs and produced
+
+ecosystem engineering effects by altering benthic habitat.
+
+The native big claw river shrimp had little effect on ecosystem
+
+functioning in mesocosms, but its presence
+
+appeared to mitigate the effects of catfish on periphyton
+
+and sediments. Our results suggest that native consumers
+
+can have the ability to mitigate the effects of invasive taxa,
+
+thus conservation of native species is critical to the preservation
+
+of ecosystem functioning in stream ecosystems. xintroduction
+
+
+Ecosystem functioning is linked to community composition
+
+and the functional roles of taxa (Covich et al. 2004;
+
+Zhang et al. 2004). Organisms which modify habitat
+
+structure and affect resource availability through mechanical
+
+and physiochemical alteration of resource materials
+
+and/or habitats are referred to as allogenic ecosystem
+
+engineers (Jones et al. 1994; Gutierrez and Jones 2006). In
+
+many ecosystems, native taxa often function as ecosystem
+
+engineers, playing critical roles influencing ecosystem
+
+functioning such as production, decomposition, and nutrient
+
+cycling (Webster and Benfield 1986; Vanni et al. 1997;
+
+McIntyre et al. 2007). Invasive species, often in competition
+
+with native species (Olsson et al. 2009), also alter
+
+ecosystem properties and habitat characteristics (Vitousek
+
+1990; Parker et al. 1999; Crooks 2002; Atkinson et al.
+
+2010). The individual effects of native and non-native
+
+ecosystem engineers on resource availability and ecosystem
+
+functioning have been widely investigated (Moore
+
+2006), but relatively few studies have investigated interactions
+
+between native and invasive ecosystem engineers coexisting in the same ecosystems (but see Berkenbusch
+
+et al. 2007; Gribben et al. 2009). Thus, it is unclear how
+
+effects of native and invasive ecosystem engineers may be
+
+altered by each other.
+
+Riverine ecosystems often support diverse assemblages
+
+of native organisms (Malmqvist 2002). However, populations
+
+of native taxa are declining from multiple anthropogenic
+
+disturbances (Dudgeon et al. 2006), including the
+
+establishment of invasive species (Lodge et al. 1998;
+
+Mooney and Hobbs 2000). Spring-fed river ecosystems
+
+are particularly relevant systems to examine the individual
+
+and interactive effects of native and invasive species on
+
+ecosystem functioning because hydrological and physiochemical
+
+constancy of these systems has led to the
+
+evolution of endemic spring-adapted taxa with limited
+
+geographic ranges (Hubbs 1995). This constancy in physiochemical
+
+conditions also makes spring-fed ecosystems
+
+highly susceptible to invasion by non-native taxa (Moyle
+
+and Light 1996).
+
+Here, we present a study examining a native and an
+
+invasive species in the spring-fed San Marcos River
+
+(Texas, USA): the native big claw river shrimp (Macrobrachium
+
+carcinus, Decapoda: Palemoides; hereafter
+
+referred to as shrimp) and the invasive suckermouth catfish
+
+(Hypostomus plecostomus, Loricariidae; hereafter referred
+
+to as catfish or armored catfish). Big claw river shrimp are
+
+amphidromous and widely distributed throughout the
+
+Caribbean and the Gulf of Mexico, in which the northern
+
+end of their geographic range is in the San Marcos River
+
+(Bowles et al. 2000). Shrimp populations in the upper San
+
+Marcos River currently exhibit low densities, but these
+
+arthropods historically exhibited high abundances in the
+
+river (Bowles et al. 2000). Shrimp migrate over 320 km
+
+and cross multiple low-head dams ranging from approximately
+
+1ñ4 m in height to reach the headwaters of the San
+
+Marcos River. Armored catfish, native to South America,
+
+have been introduced via the aquarium trade into subtropical
+
+and spring-fed ecosystems across North America
+
+(Nico and Martin 2001) and have been in the San Marcos
+
+River since the late 1990s (Perkin et al. 2010). Previous
+
+studies have compared the impacts of stream grazing fishes
+
+and macroarthropods relating to consumer biomass or
+
+identity (Bengston et al. 2008; Ludlam and Magoulick
+
+2010), but this study examined the individual and combined
+
+effects of these consumers on stream ecosystem
+
+processes.
+
+Macroarthropods play important roles in nutrient
+
+cycling, sediment transport, and organic matter processing
+
+in streams (Covich et al. 2004). Big claw river shrimp are
+
+large-bodied (up to 1 kg wet weight) omnivores (Bowles
+
+et al. 2000), which eat small fish, leaf litter, mollusks, and
+
+invertebrates (Crowl et al. 2001), and can be top predators
+
+in some streams (Covich et al. 1996). Loricariid catfishes
+
+are efficient algivores and can increase sediment transport
+
+and turbidity through foraging and burrowing activities
+
+(Power 1984). Catfishes have relatively high body P content
+
+(high %P by mass) due to their bony armor plates
+
+containing CañPO4, and their growth can be P-limited
+
+when P is low in algae (Hood et al. 2005). Catfishes consuming
+
+algae with C:P ratios higher than their body C:P
+
+(e.g., a stoichiometrically imbalanced diet)can affect
+
+nutrient cycling, resource availability and quality (Sterner
+
+and Elser 2002; Knoll et al. 2009). Although catfish and
+
+shrimp have the potential to affect community and ecosystem
+
+functioning, the degree of diet overlap between big
+
+claw shrimp and armored catfish is likely to be limited.
+
+We had two goals in this study: (1) examine the distribution
+
+of invasive armored catfish and native big claw river
+
+shrimp in the upper San Marcos River, and (2) examine the
+
+effects of catfish and shrimp on ecosystem functioning and
+
+benthic communities in stream mesocosms. We predicted
+
+that catfish are abundant and widespread distributed
+
+throughout the upper San Marcos River and that shrimp are
+
+relatively rare and exhibit a more patchy distribution. We
+
+tested the hypothesis that native and non-native consumers
+
+differently influence ecosystem functioning and invertebrate
+
+community composition and that the effect of each
+
+consumer will be modified by the other consumer species.
+
+We predicted that herbivorous catfish will reduce periphyton
+
+biomass, increase sediment transport and alter
+
+periphyton nutrient ratios (i.e., algal C:P and N:P). Specifically,
+
+we predicted that (1) catfish presence will lead to
+
+a depletion of P in periphyton (e.g., higher algal C:P and
+
+N:P) due to their low mass-specific P excretion rates; (2)
+
+shrimp presence will increase leaf litter decomposition,
+
+sediment transport, and alter invertebrate community
+
+composition; and (3) shrimp presence will mitigate the
+
+effects of catfish on ecosystem function and nutrient
+
+dynamics through antagonistic interactions and interference
+
+associated with its predatory tendencies. xmethods
+
+The San Marcos River is located along the Balcones
+
+Escarpment in central Texas, USA and is characterized by
+
+clear water, abundant macrophytes, and little temporal
+
+variation in temperature (*22 C), flow, and water quality
+
+(Groeger et al. 1997). Like many spring-fed river systems
+
+in the western US, the San Marcos River is habitat for
+
+multiple endemic and endangered species (USFWS 1996;
+
+Bowles et al. 2000). Water from the Edwards Aquifer
+
+emerges in a small wetland area (Spring Lake) and subsequently
+
+creates the upper San Marcos River. Water in the upper portion of the river is relatively elevated in N, almost
+
+exclusively in the form of NO3
+
+2-, with concentrations
+
+*1,600 lg/L. In contrast, total P concentrations are much
+
+lower with PO4
+
+3- being the dominant form; PO4
+
+3- ranges
+
+from 10 to 30 lg/L. TN:TP ratios (*220:1 by moles) and
+
+bioassays suggest that river algal communities are P-limited
+
+(Groeger et al. 1997). Monthly nighttime snorkel surveys were performed to
+
+determine and quantify longitudinal patterns of shrimp and
+
+catfish populations at two sites in the upper spring-influenced
+
+portion of the river. Preliminary observations
+
+indicated that both species were most active at night and
+
+that densities and behavioral differences between the two
+
+species necessitated different survey methods. Catfish
+
+surveys were determined with snorkel survey counts using
+
+dive lights, by swimming five cross-river transects at two
+
+sites in the upper San Marcos River. The upstream site was
+
+located just below the river headwaters and the downstream
+
+site was located approximately 1.2 km downsteam.
+
+On each count occasion, five divers swam along each
+
+transect at a reach and counted catfish within a 1 m area
+
+along each transect line. Catfish were grouped into three
+
+size classes:\10 cm total length (TL), 10ñ40 cm TL, and
+
+[40 cm TL. Catfish surveys were conducted monthly from
+
+May to October 2008, and from April to May 2009.
+
+Shrimp are rare in the river and often observed in rocky
+
+crevices, but occasionally observed in the main channel. In
+
+addition, shrimp were frequently observed under the full
+
+moon, which is consistent to the movement pattern of other
+
+freshwater migratory macroarthropods (Kikkert et al.
+
+2009). Due to low densities of shrimp, we did not limit our
+
+searches to 50-m reaches within each site, but instead
+
+performed counts of all shrimp observed in each larger
+
+section of the river. Searches were performed on a monthly
+
+basis from April to November 2008 and from April to July
+
+2009, typically on nights of or within 1ñ2 days of the full
+
+moon. Snorkelers divided the search area into approximately
+
+equal sections and searched the open channel, all
+
+openings and crevices, and macrophyte stands with dive
+
+lights for shrimp. Counts at a site typically lasted for 1ñ2 h.
+
+Shrimp were enumerated and categorized as adult
+
+([13 cm) or juvenile (\13 cm). We investigated the effects of shrimp and catfish in a
+
+replicated stream-channel experiment, which consisted of a
+
+2 9 2 factorial design in which the presence and absence
+
+of shrimp was cross-classified with the presence and
+
+absence of armored catfish. The design consisted of the
+
+following treatment combinations: a control (catfish absent
+
+and shrimp absent; -C, -S), catfish present (catfish present
+
+and shrimp absent; ?C, -S), shrimp present (catfish
+
+absent and shrimp present; -C, ?S), and catfish and
+
+shrimp present (?C, ?S). Shrimp presence treatments
+
+consisted of one shrimp and catfish presence treatments
+
+consisted of two catfish. Due to the low densities of shrimp
+
+and its conservation status (e.g., high priority status by the
+
+Texas Parks and Wildlife Comprehensive Wildlife Conservation
+
+Strategy), we limited the number of replicates of
+
+each treatment to four. Experimental mesocosms, such as
+
+artificial stream channels are frequently used and appropriate
+
+model systems for the examination of ecological
+
+interactions, but some community diversity and environmental
+
+heterogeneity are sacrificed with their use (Drenner
+
+and Mazumder 1999).
+
+Sixteen stream channels were created by modifying eight
+
+existing concrete raceways located in a covered outdoor
+
+facility, which were divided in half with a PVC-plastic mesh
+
+frame which was fully lined with 6-mil black polyethylene.
+
+Each original raceway had a single valve that discharged
+
+water into it; in order to ensure equal flow from the single
+
+valve to each of the two stream channels within each raceway,
+
+we created a single PVC and plastic reservoir that
+
+discharged equal amounts of water over a small spillway into
+
+each stream channel. Water feeding stream channels came
+
+from an outdoor artesian well from the Edwards Aquifer,
+
+providing stream channels the same water as the San Marcos
+
+River. Water inflow rates to channels were sufficient to
+
+create a residence time of *10 min. Channel dimensions
+
+were 4.0 9 0.3 9 0.3 m (l 9 w 9 d). The ends and tops of
+
+all channels were fenced off with 3-cm aperture mesh to
+
+prevent escape of shrimp or catfish. Forty-watt full-spectrum
+
+florescent lights were hung *70 cm above each channel in
+
+an orientation parallel to flow. Lights were kept on a 16/8 h
+
+light/dark cycle, with mean light intensity of *100 lmol/
+
+m2/s immediately above the water surface (using a Li-Cor 2p
+
+quantum sensor; Li-Cor Environmental, Lincoln, Nebraska,
+
+USA). Light intensity in stream channels were within the
+
+range of intensities observed in closed-canopy sections of the
+
+San Marcos River (W. H. Nowlin, unpublished data). Stream
+
+channel bottoms were covered with sand, gravel, and cobble
+
+(cover = 50 % cobble, 50 % sand and gravel); proportions
+
+are comparable to the upper San Marcos River. One cinderblock
+
+was added to each channel as a refuge site for
+
+shrimp and catfish; cinderblocks were typically occupied
+
+during daytime. Channels were checked daily to note location
+
+and status of catfish and/or shrimp.
+
+Prior to the start of the experiment, periphyton from the
+
+San Marcos River was collected by scrubbing rocks with a
+
+nylon bristle brush into a bucket of river water. Equal
+
+aliquots of this periphyton slurry were added to each
+
+stream channel four times over a 3-week period. The brushed rocks were also added to channels in equal densities
+
+to promote periphyton growth. Macroinvertebrates
+
+collected with a kick net from the upper San Marcos River
+
+were placed into a bucket of river water. One of equal
+
+aliquots from the bucket was added to each channel; three
+
+aliquots were kept to determine baseline densities of
+
+invertebrates added to channels. A multivariate analysis of
+
+variance (MANOVA) was run to determine differences
+
+between subsamples for all weeks and all invertebrate
+
+functional feeding groups (both abundance and richness;
+
+based on Merritt and Cummings 2007), total taxon richness,
+
+total taxon abundance and abundance for each taxon
+
+present. Differences between subsamples were found to be
+
+non-significant (Wilks k = 0.065, F2,24 = 14.72). Because
+
+mesocosm source water was from the underground aquifer
+
+(containing few invertebrates) and macroinvertebrates were
+
+allowed to ëdriftí downstream out of stream channels,
+
+addition of river macroinvertebrates was repeated every
+
+7 days to simulate incoming macroinvertebrate drift. Each
+
+week we added 438 ± 69 invertebrates to each channel.
+
+Invertebrate taxa added to stream channels were reflective
+
+of the community in the river, which was mostly composed
+
+of amphipods, ephemeropterans, dipterans, trichopterans,
+
+and gastropods.
+
+After a 3 week equilibration period, the start of the
+
+experiment was initiated by addition of shrimp and catfish.
+
+Shrimp and catfish were collected from the upper San
+
+Marcos River by hand or dip nets. Shrimp lengths (rostrum
+
+tip to tail) ranged from 19.5 to 25.0 cm (mean ± 1 SE;
+
+20.9 ± 1.9 cm), with wet mass ranging from 126.0 to
+
+299.0 g (184.9 ± 57.8 g). Catfish total lengths (TL) ranged
+
+from 23.0 to 33.0 cm (28.2 ± 3.6 cm), and individual wet
+
+mass ranged from 130.0 to 382.0 g (250.1 ± 90.9 g).
+
+Observations of shrimp and catfish indicated that they had
+
+adequate room to move about stream channels. After the
+
+experiment, all shrimp were released back into the San
+
+Marcos River, with the exception of one shrimp (from one
+
+of the shrimp only treatments) which died on day 15 of the
+
+experiment. We chose not to replace this individual
+
+because of the shrimpís conservation status and instead
+
+removed that stream channel data from analyses. The
+
+experiment began on August 24, 2007 and ran for 28 days.
+
+Previous work in tropical systems indicated that big
+
+claw river shrimp are omnivorous (Crowl et al. 2001).
+
+However, shrimp in the San Marcos River occupy a fairly
+
+high trophic position (trophic level *4, with algae occupying
+
+trophic level 1; Pound et al. 2011) and have been
+
+observed eating live and dead fish. Thus, to ensure that the
+
+shrimp in our stream channels occupied a similar trophic
+
+role as in the San Marcos River, we added one small dead
+
+fish (Lepomis spp. 70ñ120 mm TL) to each stream channel
+
+once per week, as a potential food source. Fish were added
+
+to all channels each week to prevent differences associated
+
+with addition of fish. Fish were collected from the San
+
+Marcos River with nets, pithed, submerged, and weighted
+
+down within the stream channel to allow shrimp access.
+
+Remaining fish material was removed from each stream
+
+channel after a 24-h period and weighed (wet mass) and
+
+measured to determine the amount consumed. Fish in
+
+channels containing shrimp were entirely consumed in all
+
+but four instances; each instance involved a different
+
+shrimp.
+
+To assess ecosystem responses to shrimp and catfish, we
+
+measured periphyton biomass, sediment and organic matter
+
+transport and accumulation, periphyton nutrient ratios, and
+
+organic matter decomposition. All ecosystem response
+
+variables were measured on days 14 and 28. To estimate
+
+periphyton biomass and the amount of organic and inorganic
+
+matter on surfaces, four ceramic tiles (16.2 9 16.2 cm)
+
+were placed in the downstream section of each stream
+
+channel. Two tiles were enclosed within a 2-cm aperture
+
+wire cage and two were open to direct activities of shrimp
+
+and catfish. All tiles were placed in channels 3 weeks before
+
+the experiment was started. One ëcagedí and one ëuncagedí
+
+tile was removed from each stream channel on each sampling
+
+date. Upon being pulled from a stream channel, the
+
+upper surfaces of tiles were cleaned with a soft bristled nylon
+
+brush and rinsed into an acid-washed HDPE beaker with
+
+Milli-Q water. Chlorophyll a, organic matter (OM), inorganic
+
+matter (IM), and C, N and P content of materials on
+
+tiles were determined from this slurry.Aportion of the slurry
+
+was filtered onto a Pall A/E filter and filters were frozen at -
+
+4 C. Chla was extracted using 99 % HPLC grade acetone
+
+for 4 h in the dark and measured on a Turner TrilogyTM Lab
+
+Fluorometer (Turner Designs Inc., Sunnyvale California).
+
+OM and IM mass on tiles (mg OM or IM/cm2) were determined
+
+by filtration onto pre-weighed Pall A/E filters and
+
+determination of dry mass before and after ignition at
+
+450 C for 4 h. To estimate C and N content of periphyton
+
+(mg nutrient/cm2), tile material was filtered onto pre-ashed
+
+Whatman GF/F filters (nominal pore size 0.7 lm), dried at
+
+60 C for 48 h, and analyzed on a CE Elantech Carbonñ
+
+Nitrogen analyzer. We did not remove or correct for inorganic
+
+C on filters used in analyses; thus, values of C content
+
+of filters include some inorganic C. In order to measure P
+
+content of periphyton (mg P/cm2), materials on tiles were
+
+filtered onto Whatman GF/F filters, digested with HCl at
+
+100 C, and measured as PO4
+
+3- using the molybdenum blue
+
+method (Wetzel and Likens 2000).
+
+To assess sediment downstream movement and accumulation,
+
+sediment traps were placed mid-channel and
+
+allowed to collect sediments (Statzner and Peltret 2006).
+
+Sediment traps consisted of shallow plastic trays
+
+(12.7 9 12.7 cm); two sediment traps were placed mid
+
+channel 2.3 m from the downstream end of the channel.
+
+One sediment trap was pulled from each stream channel on each sampling date. Each sediment trap was washed with
+
+DI water into an aluminum weigh boat and contents were
+
+allowed to dry at 60 C for 48 h. Dry mass (g) was measured.
+
+Samples were homogenized, ashed at 500 C for
+
+4 h, and IM was determined by difference. Accumulation
+
+of IM was expressed as mg in trays on each sampling date
+
+(days 14 and 28).
+
+We quantified organic matter decomposition by measuring
+
+leaf litter mass loss. Four pre-weighed dry leaf
+
+packs, each containing 10 leaves of Texas Oak (Querqus
+
+texana), a common riparian tree species, were placed in
+
+each stream channel. Two leaf packs were enclosed within
+
+bags consisting of 3-cm aperture plastic mesh, and two
+
+were left open. Leaves were enclosed in mesh bags of this
+
+aperture size in order to substantially reduce the direct
+
+access of shrimp and catfish to leaves while still allowing
+
+other macroinvertebrates and microbes access to them.
+
+Leaves were tied together with monofilament fishing line
+
+around the petioles and weighted with metal washers to
+
+ensure submersion. One ëbaggedí and one ëunbaggedí leaf
+
+pack were removed on each sampling date. Leaf packs
+
+were subsequently washed with DI water to remove
+
+organic matter and organisms and were dried for 48 h at
+
+60 C. Leaf litter dry mass (g) was determined for calculating
+
+decomposition rate as percent change in mass over
+
+the period each pack was in a channel.
+
+At the end of the experiment, we examined nutrient
+
+recycling by catfish and shrimp by estimating nutrient
+
+excretion. Each shrimp or catfish from channels was
+
+quantified for excretion rates of NñNH4
+
+? and PñPO4
+
+3-.
+
+Live organisms were placed in filtered (Pall A/E) stream
+
+water in acid-washed plastic tubs and allowed to excrete
+
+for *1 h (Mather et al. 1995; Schaus et al. 1997; Higgins
+
+et al. 2006). Organismís N and P excretion were measured
+
+as NH4
+
+? and PO4
+
+3- accumulation over the time interval.
+
+Ammonium was analyzed with the phenate method (Solorzano
+
+1969) and PO4
+
+3- with the molybdenum blue
+
+method (Wetzel and Likens 2000).
+
+To investigate effects of shrimp and catfish on benthic
+
+community, we examined invertebrates in unbagged leaf
+
+packs and in the benthos of stream channels. We chose to
+
+analyze only invertebrate communities with which catfish
+
+and shrimp had direct contact. When leaf packs were
+
+removed on each sampling date (days 14 and 28), invertebrates
+
+were removed by rinsing with DI water and
+
+picking with forceps and preserved in 95 % EtOH. To
+
+assess the influence of shrimp and catfish on benthic
+
+invertebrate communities, two basket samplers were placed
+
+within the substrate at the end of each stream channel prior
+
+to the start of the experiment. Basket samplers were constructed
+
+with 15.2 cm diameter, 3.8 cm depth plastic
+
+baskets filled with cleaned river cobble and gravel. Basket
+
+samplers were buried in stream channel substrate with the
+
+upper lip of the basket flush with the benthic surface. On
+
+days 14 and 28, one basket sampler was collected from
+
+each stream channel. Invertebrates from leaf packs and
+
+basket samplers were identified to the lowest necessary
+
+taxonomic group (Thorp and Covich 2001; Merritt and
+
+Cummings 2007). For the field survey portion of the study, difference in the
+
+abundance of catfish between upstream and downstream
+
+sites was assessed with repeated-measures ANOVA. The
+
+mean of densities of transect counts at each site on each
+
+sampling date (8 dates total) were compared between the
+
+upstream and downstream site, with site serving as the
+
+independent (categorical) variable, total catfish density
+
+(number/m2) as the dependent variable, and sampling date
+
+as the repeated measure. The GreenhouseñGeisser correction
+
+was applied if the assumption of sphericity was not
+
+met. Due to low shrimp densities and the count method we
+
+used, we did not compare shrimp numbers between sites
+
+using statistics. To calculate density of shrimp at the two
+
+sites, we utilized ArcGIS 10 (ESRI, Inc., Redlands, California)
+
+to calculate the surface area (m2) of the surveyed
+
+upstream and downstream sites.
+
+In the stream channel experiment, we examined the
+
+main and interactive effects of shrimp and catfish on
+
+periphyton biomass, OM and IM on tiles, and periphyton
+
+nutrient ratios (molar C:N, C:P, and N:P) by calculating the
+
+mean of each response variable across both sampling dates
+
+and analyzing with two-way analysis of variance
+
+(ANOVA) for cross-classified factors. We utilized the
+
+mean of the two sampling dates of these response variables
+
+in analyses because the experimental period was relatively
+
+short (28 days), treatment effects were apparent by the first
+
+sampling date (14 days after start of the experiment), and
+
+we were more interested in examining the overall effect of
+
+treatments on this set of response variables rather than how
+
+effects might vary in a relatively short time period. For this
+
+set of analyses, the main effects are the independent effect
+
+of each factor (catfish or shrimp) and the interaction effect
+
+is the amount of measured variation in the response variable
+
+due to the interdependence of catfish and shrimp. All
+
+invertebrate community response variables (invertebrates
+
+in unbagged leaf packs and in basket samplers) were analyzed
+
+for total invertebrate abundance, taxon abundance,
+
+taxon richness, abundance of the various functional feeding
+
+groups, and taxonomic richness of the various functional
+
+feeding groups. Again, means were taken across both dates
+
+for each response variable and analyzed with two-way
+
+ANOVA. In the case of response variables where time is
+
+clearly a factor (sediment and organic matter accumulation
+
+in sediment traps and mass loss of leaf litter), we performed a two-way analysis of covariance (ANCOVA)
+
+using sampling date as the covariate. This approach
+
+allowed us to account for the variance in sediment accumulation
+
+and leaf litter mass loss associated with time and
+
+to examine the main and interaction effects of shrimp and
+
+catfish. Due to the uneven number of replicates in each
+
+treatment combination, Type III sums of squares were used
+
+in all ANOVAs. Data not meeting assumptions of normality
+
+and homoscedasticity were log10 transformed. If a
+
+significant catfish 9 shrimp interaction was detected, we
+
+performed an analysis of simple effects with Tukey HSD
+
+tests to determine how the effects of each treatment may
+
+differ in the presence and absence of the other treatment.
+
+Although the experiment initially had four replicates of
+
+each treatment, we were forced to omit two stream channels
+
+from analyses. One replicate of the ëonly shrimp presentí
+
+(-C, ?S) treatment was omitted because the shrimp died
+
+(see above) and we omitted one replicate of the control
+
+treatment (-C,-S) because a shrimp in an adjacent channel
+
+crawled over the dividing fence and was in the control
+
+channel for*24 h before it was removed and placed back in
+
+its original channel. The shrimp in the control stream channel
+
+produced a noticeable effect in this short amount of time;
+
+thus, we elected to omit this channel from analyses. For all
+
+analyses, we set a at 0.05, and all data were analyzed with
+
+SPSS 15.0 for Windows (SPSS Inc.).
+
+xresults
+
+
+Catfish densities in the San Marcos River exhibited substantial
+
+spatial variation. The upstream site had significantly
+
+higher (0.49 individuals/m2) catfish densities than the
+
+downstream site (0.22 individuals/m2), and catfish densities
+
+at both sites were lower in early summer and increased as
+
+summer progressed, but this seasonal variation was not significant
+
+(two-way repeated measures ANOVA, site:
+
+F1,4 = 10.59, P\0.05; time: F7,4 = 3.37, P[0.05; site 9
+
+time: F7,4 = 2.19, P[0.05) (Fig. 1a, b). The upstream site
+
+had more even proportions of the three catfish size classes in
+
+the population, with small (\10 cm), medium (10ñ40 cm)
+
+and large ([40 cm) individuals composing approximately
+
+28, 49 and 23 % of the individuals throughout the period of
+
+observation (Fig. 1a). In contrast, the downstream site had
+
+fewer large individuals in the population (approximately
+
+6 % of the population) (Fig. 1b).
+
+Shrimp were less abundant than catfish in the San
+
+Marcos River (Fig. 1c, d) and were virtually non-existent
+
+in the upstream site (0.0001 individuals/m2; Fig. 1c). In the
+
+downstream site, both large ([13 cm length) and small
+
+(\13 cm) individuals were observed, resulting in 5ñ12
+
+total individuals being observed at the downstream site on
+
+each count night (0.0031 individuals/m2 in 2009; Fig. 1d).
+
+Shrimp distribution was patchy within each site and the
+
+shrimp were often observed in the open but in areas adjacent
+
+to openings and crevices.
+
+Catfish caused a significant reduction in periphyton
+
+biomass (Chla) on uncaged tiles, whereas shrimp had
+
+little effect on periphyton biomass on uncaged tiles
+
+(Fig. 2a; Table 1). There was a marginally non-significant
+
+(P = 0.052) catfish 9 shrimp interaction indicating interdependence
+
+between the effects of catfish and shrimp on
+
+periphyton Chla on uncaged tiles. Analysis of simple
+
+effects indicated that catfish led to a significant reduction in
+
+Chla when shrimp absent (comparison of -C, -S and ?C,
+
+-S treatments: P\0.001), but the effect of catfish on
+
+Chla was not detected when shrimp were present (comparison
+
+of -C, ?S to ?C, ?S: P = 0.148). In contrast,
+
+catfish did not modify the effects of shrimp on periphyton
+
+(comparison of -C, -S and -C, ?S: P = 0.188; comparison
+
+of ?C, -S and ?C, ?S: P = 0.188). Neither
+
+catfish or shrimp had a significant effect on periphyton of
+
+caged tiles (Table 1; Fig. 2b).
+
+The presence of both catfish and shrimp reduced the
+
+amount of organic matter and inorganic matter on uncaged
+
+tiles (Table 1; Fig. 2c, e). There was a significant catfish
+
+and shrimp interaction for these two response variables
+
+(Table 1). Analyses of simple effects indicated that catfish
+
+led to a significant reduction in IM and OM on uncaged
+
+tiles when shrimp were not present (-C, -S vs. ?C, -S:
+
+P\0.001 for both response variables), but these effects
+
+were not detected when shrimp were present (-C, ?S vs.
+
+?C, ?S: P C 0.940 for both variables) (Fig. 2c, e). In turn,
+
+catfish modified the effects of shrimp on IM (-C, -S vs.
+
+-C, ?S: P = 0.006; -C, -S vs. -C, ?S: P = 0.318), but
+
+catfish did not alter the effects of shrimp on uncaged tile
+
+OM (-C, -S vs. -C, ?S: P = 0.199; -C, -S vs. ?C,
+
+?S: P = 0.310). Catfish or shrimp did not affect OM and
+
+IM on caged tiles (Fig. 2d, f).
+
+Catfish significantly reduced periphyton C:N, C:P, and
+
+N:P on uncaged tiles, whereas shrimp had no effect on
+
+those nutrient ratios on uncaged tiles (Fig. 3a, c, e;
+
+Table 1). A significant catfish 9 shrimp interaction effect
+
+was detected for uncaged tile periphyton C:P and N:P.
+
+Catfish led to a significant reduction in C:P and N:P when
+
+shrimp were absent (-C, -S vs. ?C, -S: P B 0.002 for
+
+both ratios), but these effects were not apparent when
+
+shrimp were present (-C, ?S vs. ?C, ?S: P C 0.869 for
+
+both ratios). Similarly, catfish modified the effects of
+
+shrimp on C:P and N:P of open tiles (-C, -S vs. -C, ?S: P\0.020 for both ratios; -C, -S vs. ?C, ?S: P C 0.343
+
+for both ratios). Catfish and shrimp had no effect on
+
+periphyton C:N, C:P, and N:P on caged tiles (Fig. 3b, d, f;
+
+Table 1).
+
+Over the experimental period, there was a downstream
+
+accumulation of total and inorganic sediments in stream
+
+channels and catfish significantly increased this downstream
+
+accumulation (ANCOVA; total sediment: time:
+
+Ptime = 0.0001, catfish: Pcatfish = 0.005; inorganic sediment:
+
+Ptime = 0.004, Pcatfish = 0.013) (Table 2). By the
+
+end of the experiment, treatments containing catfish accumulated
+
+at least two times more sediment as treatments
+
+without catfish (Fig. 4a, b; Table 2). Shrimp did not have a
+
+significant effect on downstream transport of sediments
+
+(P[0.05 for total sediment and inorganic sediments).
+
+Leaf litter lost mass in both bagged and unbagged leaf
+
+packs over the experimental period (Ptime\0.001 for
+
+bagged and unbagged leaf packs) (Table 2; Fig. 4c). Catfish
+
+led to faster mass loss of open leaf packs (P = 0.016),
+
+but had no effect on decomposition of bagged leaf packs
+
+(P = 0.616, Table 2; Fig. 4d). In contrast to predictions,
+
+shrimp did not have a significant effect on leaf litter mass
+
+loss of both bagged and unbagged leaf packs (Table 2).
+
+Dominant taxonomic groups found in unbagged leaf
+
+packs consisted of amphipods, gastropods, ostracods,
+
+ephemeropterans, and trichopterans. Catfish elicited a significant
+
+reduction in collector-gatherer abundance in
+
+unbagged leaf packs (Table 3). Although catfish and
+
+shrimp did not exhibit significant main effects on scraper
+
+taxon richness in leaf packs, a significant catfish 9 shrimp
+
+interaction was detected for this response variable. However,
+
+analysis of simple effects indicated that the effects of
+
+catfish and shrimp did not differ in the presence of each
+
+other (P C 0.054). There was no significant effect of catfish
+
+or shrimp on the abundance or richness of all other
+
+taxonomic or functional feeding groups (Fig. 5a; Table 3).
+
+Basket samplers contained relatively low densities of
+
+invertebrates (Fig. 5b) and dominant taxa were chironomids,
+
+amphipods, and ostracods. Across treatments, the
+
+mean number of invertebrates per basket was 4.8 ± 0.8
+
+individuals. We did not detect a significant treatment effect
+
+on abundance and richness of total invertebrates and virtually
+
+all functional feeding groups and taxonomic
+
+groupings; however, catfish led to a significant reduction in
+
+the abundance of ostracods (Table 3). However, ostracod
+
+densities were low in all treatments (0ñ2 individuals per basket sampler), thus we view this significant result with
+
+caution.
+
+At the end of the experiment, we determined nutrient
+
+excretion rates of catfish and shrimp to examine differences in
+
+nutrient recycling by these two consumers.We first examined
+
+whether P andN excretion by both catfish and shrimp differed
+
+among treatments. We found no significant difference (onewayANOVA)
+
+inmass-specificNand P excretion rates and the
+
+N:P of excreted nutrients of catfish when by themselves or in
+
+the presence of shrimp (N: F1,7 = 0.675, P = 0.443; P:
+
+F1,7 = 0.477, P = 0.516; N:P: F1,7 = 0.060, P = 0.815),
+
+nor did we detect a significant difference in N and P excretion
+
+of shrimp when catfish were present and absent (N:
+
+F1,4 = 0.499, P = 0.513; P: F1,4 = 0.196, P = 0.688; N:P:
+
+F1,4 = 1.07, P = 0.377). Thus, we compared N and P
+
+excretion of catfish and shrimp by pooling data from catfish
+
+from across treatments and pooling data from shrimp across
+
+all treatments. Shrimp exhibited significantly higher massspecificNexcretion
+
+rates (F1,10 = 17.5,P\0.001) (Fig. 6a);
+
+however, due to high variability in P excretion, we did not
+
+detect a significant difference between catfish and shrimp in
+
+mass-specific P excretion rates or the N:P of nutrients excreted
+
+(P: F1,10 = 0.22, P = 0.65; N:P: F1,10 = 2.3, P = 0.15)
+
+(Fig. 6b, c). xdiscussion
+Invasive armored catfish were abundant in the San Marcos
+
+River and affected ecosystem functioning in mesocosm
+
+stream channels. In the experiment, catfish significantly
+
+reduced periphyton biomass, OM and IM on uncaged tiles,
+
+and increased the downstream transport of sediments. In
+
+the absence of catfish, OM, IM, and Chla on uncaged tiles
+
+was on average 4ñ5 times higher than when catfish were
+
+present. In addition, catfish increased leaf litter decomposition
+
+rates and altered periphyton nutrient ratios, but had
+
+relatively minor effects on invertebrate community structure.
+
+In contrast, the presence of native shrimp had little
+
+effect on ecosystem functioning and invertebrate community
+
+structure. Our results indicate that armored catfish can
+
+act as allogenic ecosystem engineers in the San Marcos
+
+River through mechanical modification of benthic habitat
+
+(i.e., redistribution and transport of sediments) and alteration
+
+of resource availability (i.e., periphyton biomass,
+
+periphyton nutrient content, OM availability) (Jones et al.
+
+1994). Results also indicate that native shrimp can mitigate
+
+effects of invasive catfishes, potentially lessening their
+
+impacts on ecosystem functioning.
+
+It is likely that catfish removed periphyton and sediments
+
+from uncaged tiles through movement and foraging.
+
+Grazing by herbivorous fishes can affect multiple structural
+
+and functional properties of stream ecosystems, including
+
+periphyton biomass, periphyton height and composition,
+
+primary productivity, and nutrient dynamics (Flecker 1996;
+
+Flecker et al. 2002; Evans-White et al. 2003; Taylor et al.
+
+2006). Our study found that catfish substantially reduced
+
+periphyton biomass on uncaged tiles. In addition, catfish
+
+increased leaf litter decomposition in unbagged leaf packs,
+
+presumably through increasing litter fragmentation and
+
+mass loss. Bertrand and Gido (2007) similarly found that
+
+herbivorous Phoxinus minnows decreased the size of
+
+benthic particulate organic matter (POM) in stream ecosystems.
+
+In the current study, the observed increase in leaf
+
+litter decomposition in the presence of catfish may be due
+
+to several possible, but not mutually exclusive mechanisms.
+
+First, increased rates of decomposition may be due
+
+to catfish directly grazing biofilms on leaf litter. Biofilms
+
+grow on leaf litter during decomposition (Webster and
+
+Benfield 1986) and grazing of these biofilms can facilitate
+
+fragmentation. Second, armored catfish graze benthic surfaces
+
+and swim close to the benthos (Power 1984; Power
+
+et al. 1989). Thus, incidental contact and fragmentation of
+
+leaf litter through their movements may have also
+
+increased decomposition. In contrast to their impact on
+
+ecosystem functioning, catfish had little effect on invertebrates.
+
+However, catfish led to a decrease in the abundance
+
+of collector-gatherers in unbagged leaf packs. Few studies
+
+have investigated the effects of grazing fish on stream
+
+invertebrate community composition. Bertrand and Gido
+
+(2007) found that herbivorous redbelly dace (Phoxinus
+
+erythrogaster) had no impact on invertebrate community
+
+structure. However, Flecker (1992) found that grazing
+
+tropical fishes reduced abundances of ephemeropterans,
+
+invertebrate collector-gatherers, and chironomids. Rosemond
+
+et al. (1998) observed that presence of consumers
+
+(including fish and shrimp) in a tropical stream decreased
+
+collector-gatherer abundance on leaf packs, but they were unable to determine the individual impacts of each consumer
+
+on invertebrate community structure. In this study,
+
+we observed a decrease in density and diversity of invertebrates
+
+in the presence of catfish, which may be due to
+
+increased disturbance of leaf litter through catfish feeding
+
+and movement.
+
+Catfish affected nutrient dynamics of periphyton by
+
+decreasing C:P and C:N on uncaged tiles. Catfish reduced
+
+C:P three-fold (from *18,000:1 to *3,500:1) and reduced
+
+C:N from nearly 34:1 to approximately 21:1. These
+
+C:nutrient ratios are relatively high (especially in the ëboth
+
+catfish and shrimp absentí treatment) but fall within the
+
+range of C:nutrient ratios reported in the literature (Cross
+
+et al. 2005). A decrease in algal C:nutrient ratios in grazed
+
+periphyton is consistent with meta-analyses which have
+
+indicated that grazing on periphyton tends to decrease
+
+C:nutrient ratios through an increase periphyton N- and
+
+P-content (Hillebrand et al. 2008). Periphyton biofilms
+
+often contain a large detritus component (Frost et al. 2005)
+
+and decreases in grazed periphyton C:nutrient ratios may
+
+be due to non-selective removal of detritus and algae and
+
+subsequent re-growth of relatively more P- and N-rich algae (Hillebrand et al. 2008). Indeed, armored catfish
+
+within the San Marcos River were largely non-selective
+
+grazers whose diets are composed of detritus of algal origin
+
+(Pound et al. 2011). Significantly lower C:P and C:N of
+
+periphyton biofilms in the presence of catfish may also be
+
+due to removal of carbonates and/or inorganic sediments;
+
+water from the San Marcos River comes from a limestone
+
+aquifer and river waters are high in calcium carbonate. As
+
+previously stated, we did not correct periphyton C:nutrient
+
+ratios for inorganic C within periphyton, thus removal of
+
+IM from surfaces may remove a substantial amount of C,
+
+causing a decrease in C:nutrient ratios. In addition, the
+
+relative enrichment of periphyton in N and P in the presence
+
+of catfish grazing may be due to the alteration of
+
+periphyton architecture and composition leading to faster
+
+nutrient uptake rates and enrichment (Burkholder et al.
+
+1990; Hillebrand and Kahlert 2001; Hillebrand et al. 2002).
+
+Finally, excretion of nutrients on surfaces by catfish as they
+
+graze may increase nutrient supply, thereby lowering
+
+periphyton C:nutrient ratios (Hillebrand et al. 2008). All of
+
+these mechanisms may simultaneously act to alter periphyton
+
+C:nutrient ratios in the presence of catfish and we
+
+cannot determine which mechanism(s) were most
+
+important. In addition to the effects of catfish on C:nutrient ratios,
+
+we found that catfish decreased periphyton N:P on uncaged
+
+tiles. Although catfish increased periphyton N and P content
+
+(as indicated by decreased periphyton C:N and C:P),
+
+the observed decrease of periphyton N:P in the presence of
+
+catfish indicates that catfish increased P content of
+
+periphyton more than N content. These findings are in
+
+disagreement with stoichiometric theory, which predicts
+
+that grazers with low body C:P (like loricariid catfishes;
+
+Vanni et al. 2002) would retain P from food, thereby
+
+decreasing availability of P in the environment and causing
+
+depletion of P in primary producers (Sterner 1990; Sterner
+
+and Elser 2002). However, meta-analysis of grazerperiphyton
+
+interactions found that grazers with low body
+
+C:P tended to increase periphyton P content, in apparent
+
+contradiction to stoichiometric predictions (Hillebrand
+
+et al. 2008). This trend may be a consequence of complex
+
+relationships between plasticity in grazer P content, grazer
+
+growth rates, and the relationship between grazer elemental
+
+ratios and physiological demands (Hillebrand et al. 2008).
+
+Periphyton in the San Marcos River are P-limited and
+
+grazing by catfishes may cause changes in periphyton
+
+architecture, turnover, and composition (e.g., Flecker et al.
+
+2002; Hillebrand et al. 2002), leading to increased P uptake
+
+and enrichment. However, we did not assess these aspects
+
+of the periphyton and do not know if this led to the
+
+observed responses.
+
+Grazers in lotic systems often have strong effects on
+
+nutrient cycling (Flecker et al. 2002; Hillebrand et al. 2008;
+
+Knoll et al. 2009). We found that catfish had larger effects
+
+on ecosystem functioning and nutrient cycling at sites
+
+where they had foraging access (i.e., uncaged tiles). Catfish
+
+did not affect periphyton biomass, organic matter, inorganic
+
+matter, or nutrient ratios on caged tiles, as well as
+
+bagged leaf litter decomposition. These results indicate
+
+catfish effects on periphyton had a substantial spatial component and did not propagate outside of locations
+
+where they had direct foraging access. The lack of
+
+observed indirect effects may be due to the short experimental
+
+duration (28 days); indirect nutrient-mediated
+
+effects may require longer transmittance through food
+
+webs and ecosystems (e.g., Arango et al. 2009). In addition,
+
+a lack of wide-spread indirect effects may be because
+
+water residence times in experimental stream channels
+
+were relatively brief. Other studies which have observed
+
+significant, indirect nutrient-mediated effects of fishes were
+
+conducted in systems with longer effective water residence
+
+times, such as pool mesocosms (Knoll et al. 2009) or
+
+experimental streams with recirculating water (Hargrave
+
+2006). Indirect effects of the invasive catfishes on ecosystem
+
+functioning in the San Marcos River may be
+
+evident downstream from the headwater reach where
+
+catfishes are abundant and maintain a high biomass.
+
+In contrast to the effects of catfish, shrimp had little
+
+effect on ecosystem function and invertebrate community
+
+structure. Although there was little direct effect of shrimp
+
+on periphyton biomass, organic and inorganic matter on
+
+uncaged tiles were 1ñ2 times higher than those in the
+
+absence of shrimp. Contrary to our predictions, shrimp did
+
+not affect rates of leaf litter decomposition or invertebrate
+
+communities. These large-bodied shrimp are thought to be
+
+omnivorous and can consume leaf litter (Covich and
+
+McDowell 1996). However, big claw river shrimp in the
+
+San Marcos River exhibit a tendency to be predacious;
+
+stable isotopes indicate that its trophic position is *4 in
+
+this river (Pound et al. 2011). In addition, use of dead fish
+
+to supplement shrimp diets may have dampened their
+
+consumptive effects on leaf litter and invertebrates because
+
+fish resource subsidy throughout the experiment may have
+
+been sufficient to alleviate the need for shrimp to use
+
+detritus or small-bodied invertebrates as food sources.
+
+Dead fish are likely to be less abundant in the San Marcos
+
+River than in the stream channel experiment due to competition with other scavengers (i.e., crayfish) for this
+
+resource. It is possible that when given a choice, fish are a
+
+preferred food source because of its higher quality.
+
+As predicted, a significant catfish 9 shrimp interaction
+
+was detected for a number of response variables, including
+
+periphyton biomass, organic matter and inorganic matter,
+
+and the C:P and N:P of periphyton on uncaged tiles. Shrimp
+
+mitigated or lessened the effects of catfish on all of these
+
+response variables. Similarly, the presence of M. carcinus in
+
+tropical streams slowed litter decomposition rates through
+
+lowering detritivory by other decapods (March et al. 2001).
+
+We hypothesize that the responses observed in our experiment
+
+are due to non-fatal but aggressive behavior by shrimp
+
+limiting catfish foraging time in a particular location. It is
+
+important to note that the sizes of catfish used in this
+
+experiment are commonly found in the upper San Marcos
+
+River and were too large to be consumed by shrimp. Interference
+
+of foraging activities of invasive catfish by shrimp
+
+may be present in the San Marcos River as both consumers
+
+compete for habitat space. However, whether this interaction
+
+occurred and to what extent remains unknown. We additionally
+
+hypothesize that if we had used smaller-sized catfish
+
+in the experiment, shrimp might have caused substantial
+
+catfish mortality and subsequently had a stronger role in
+
+mediating catfish impacts. Inversely, if we had used smallersized
+
+shrimp in the experiment, then shrimp may have little
+
+effect in mediating catfish effects. Our results indicate that the current ecosystem engineering
+
+role of big claw river shrimp in the San Marcos River is
+
+likely minimal. However, big claw river shrimp are largebodied
+
+consumers, can reach relatively high densities, and
+
+can play structuring roles in stream communities (Covich
+
+et al. 1991; Crowl and Covich 1994). Thus, the ecosystem
+
+engineering role of shrimp in the river is likely to be
+
+density dependent. Our field survey data show that shrimp
+
+are currently rare in the San Marcos River; however,
+
+shrimp densities were much higher in the past, to the extent
+
+that populations were commercially harvested (Bowles
+
+et al. 2000). Density of shrimp in our stream channels was
+
+much higher than densities in the San Marcos River and it
+
+is likely we observed the maximum potential effect of
+
+shrimp on ecosystem functioning at relatively small spatial
+
+scales (i.e., at the scale of a few meters). If we were to
+
+calculate shrimp density based upon the local habitat areas
+
+they consistently utilize or occupy, then densities per m2
+
+within the river would be higher than our reach-based
+
+estimates. Although shrimp had little direct effect on lower
+
+trophic levels and ecosystem functioning in this study, their
+
+effects may be most intense at the top of the food web
+
+because they are large-bodied predators (Polis and Strong
+
+1996). Thus, their extirpation from the San Marcos River
+
+might have effects not observed at the scale of this study.
+
+Armored catfish were first reported in the San Marcos
+
+River in the late 1990s (Perkin et al. 2010). Our results
+
+indicate that catfish densities in the upper portion of the
+
+river are on average 0.22ñ0.50 individuals/m2, which were
+
+comparable to the densities used in our experiment
+
+(0.59 individuals/m2). Catfishes currently represent
+
+20ñ50 % of the upper San Marcos River ichthyomass
+
+(Pound et al. 2011). The effects we detected of catfish on
+
+sediment redistribution and transport are consistent with
+
+observations in other systems (Hoover et al. 2006). We
+
+predict that armored catfish with high densities and larger
+
+body size ([40 cm TL) are likely to have strong allogenic
+
+ecosystem engineering impacts in the upper San Marcos
+
+River by affecting habitat structure through sediment
+
+redistribution and resource availability and quality through
+
+alteration of periphyton biomass and stoichiometry.
+
+Invasive species are a major concern for freshwater
+
+conservation and management (Mooney and Hobbs 2000),
+
+causing biodiversity loss, alteration of ecosystem functioning,
+
+and extinction of native taxa (Clavero and Garcia-
+
+Berthou 2005). Riverine ecosystems are facing widespread
+
+extinctions and extirpations of native species (Revenga
+
+et al. 2005; Dudgeon et al. 2006). This study observed that
+
+a native shrimp species facing substantial conservation
+
+concerns had the ability through non-trophic effects to
+
+mitigate some of the impacts of an invasive species on
+
+ecosystems. We also show that a non-native consumer,
+
+which can obtain high densities and biomass and has the
+
+ability to utilize a wide range of habitats, can have strong
+
+impacts on ecosystem functioning.

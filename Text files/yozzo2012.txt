@@ -1,0 +1,456 @@
+﻿xabstract
+Benthic macroinvertebrate abundance, taxonomic
+composition, and surface flooding dynamics were compared
+among high and low elevation stands of narrow-leaved
+cattail (Typha angustifolia) and invasive common reed
+(Phragmites australis) at Iona Island Marsh, an oligohaline
+wetland, and Piermont Marsh, a mesohaline wetland, within
+the Hudson River National Estuarine Research Reserve
+during 1999 and 2000. Overall, the benthic macroinvertebrate
+community at both sites was similar in composition
+and abundance to those documented from other low-salinity
+systems. Macroinvertebrate taxa richness was lowest in
+mesohaline common reed, but similar among common reed
+and cattail habitats in oligohaline wetlands. Total macroinvertebrate
+densities were greater at high-elevation compared
+to low-elevation reed stands at the mesohaline site
+during summer 1999 and spring 2000. Total macroinvertebrate
+densities were similar among both oligohaline vegetation
+types during all seasons, except for spring 2000, when
+lower densities were observed in low-elevation common
+reed. A weak positive relationship between macroinvertebrate
+density and depth of flooding suggests that surface
+hydrology may be influencing the observed patterns of
+macroinvertebrate density among the vegetation stands.
+These results suggest that benthic macroinvertebrate abundance
+and diversity may not necessarily be impaired in lowsalinity
+wetlands experiencing invasion by common reed
+unless the change in vegetation is accompanied by a
+measurable alteration to physical conditions on the marsh
+surface (i.e., elevation and flooding dynamics).
+
+xintroduction
+Invertebrate communities of tidal freshwater and lowsalinity
+wetlands have received little attention from estuarine
+ecologists. Odum (1988) observed that “Historically,
+tidal freshwater environments have been ignored by limnologists
+because of the presence of oceanic tidal influence,
+and neglected by marine ecologists because they are bathed
+in freshwater and inhabited primarily by freshwater organisms.”
+The majority of previous studies of invertebrate
+communities in low-salinity tidal ecosystems have focused
+primarily on benthic communities of tidal rivers. In the tidal
+freshwater James River Estuary, Virginia, Diaz (1978, 1989,
+1994) found no single species specifically adapted for existence
+in low-salinity estuarine conditions. Tidal freshwater
+macroinvertebrate communities are comprised of species
+that are broadly adaptable to changing conditions and remarkably
+resilient to environmental perturbations and pollutants.
+In comparison to nontidal freshwater portions of the
+estuary, low-salinity marshes are low in benthic species
+richness (Swarth and Kiviat 2009; Yozzo and Diaz 1999).
+Ettinger (1982) reported on tidal freshwater benthic communities
+of the Schuylkill River, Philadelphia, PA, USA. He
+supported the general contention of Diaz (1978) and attributed
+an observed lack of faunal diversity in the Schuylkill to
+a lack of habitat diversity.
+Tidal freshwater and oligohaline wetlands represent a
+gradual transition from the salt marshes of the lower estuary
+to the nontidal freshwater conditions upstream. Organisms
+that are unable to adapt to varying tidal conditions are
+excluded. Many freshwater invertebrate taxa common in
+low-gradient rivers and streams, however, are likely to be
+encountered in tidal freshwater wetlands, and many euryhaline
+estuarine invertebrate taxa make their way up into tidal
+fresh and oligohaline waters (Odum 1988). A welldocumented
+shift from a benthic community dominated by
+polychaetes and marine crustaceans to one dominated by
+oligochaetes and insect larvae occurs when moving from
+euhaline to low-salinity estuarine habitats (Barendregt et al.
+2009). Many of the important invertebrate taxa present in
+low-salinity wetlands are cosmopolitan in their distribution;
+for example, the oligochate genus Limnodrilus, the amphipod
+genus Gammarus, the bivalve genus Pisidium, hydrobiid
+snails, and many ostracod genera are abundant within
+low-salinity estuarine habitats along the USA. Atlantic coast
+and in western Europe (Barendregt et al. 2009; Diaz 1978;
+Yozzo and Steineck 1994). Environmental factors regulating
+the abundance and distribution of benthic macroinvertebrates
+in low-salinity wetlands include density of emergent
+vegetation, litter quality, flooding frequency and duration,
+sediment texture, and foraging activity by natant macrofauna
+(Odum and Heywood 1978; Wenner and Beatty
+1988; Yozzo and Smith 1995).
+Common reed (Phragmites australis), an invasive clonal
+wetland plant becoming increasingly prevalent within tidal
+marshes of the Northeast USA over the last century, can
+displace a variety of salt and brackish marsh plant species
+(Orson et al. 1987; Chambers et al. 1999, 2002). The change
+in vegetation community structure associated with expansion
+of common reed has both positive and negative effects
+on habitat use by avian and mammalian fauna (Marks et al.
+1994; Benoit and Askins 1999; Chambers et al. 1999).
+Changes in hydrogeomorphology (intertidal elevation and
+creek density) following common reed invasion have led to
+speculation that access by marsh resident nekton [e.g. mummichog
+(Fundulus heteroclitus) and dagger-blade grass
+shrimp (Palaemonetes pugio)] within common reed may
+be diminished (Weinstein and Balletto 1999; Meyer et al.
+2001). Fell et al. (1998) found that the composition of
+mummichog diets differed between common reed and salt
+marsh cordgrass (Spartina alterniflora) marsh surfaces in
+Connecticut, but the amount of consumed biomass was
+similar. Raichel et al. (2003) documented a greater frequency
+of large mummichog prey (amphipods and gastropods) in
+common reed marshes in comparison to cordgrass marshes
+in southern New Jersey. Angradi et al. (2001) reported
+greater macroinvertebrate density in cordgrass stands compared
+to adjacent reed stands in a southern New Jersey
+brackish marsh.
+Benthic macroinvertebrate density and species composition
+on the marsh surface could undergo changes as the area
+of high intertidal habitat increases and the frequency of
+flooding decreases in response to common reed expansion.
+It is unclear, however, if benthic macroinvertebrate densities
+change in proportion to a reduction in both flooding depth
+and duration within common reed stands. Furthermore, variable
+common reed expansion rates across the estuarine
+salinity gradient (Chambers et al. 1999; Warren et al.
+2001) translate into vegetation stands of varying size
+(Winogrond and Kiviat 1997; Warren et al. 2001; Lathrop
+et al. 2003) and flooding regimes (Windham and Lathrop
+1999). The elucidation of changes in flooding, as well as the
+spatial distribution and densities of individual macroinvertebrate
+species within common reed stands, is required to
+accurately predict changes in habitat quality when common
+reed expansion alters the intertidal marsh landscape within
+low-salinity systems.
+The objective of this study was to quantify benthic macroinvertebrate
+density and species composition within common
+reed and narrow-leaved cattail (Typha angustifolia)
+stands of two low-salinity systems and determine the influence
+of vegetation type and marsh surface flooding on
+benthic macroinvertebrate community characteristics. We
+hypothesized that, in comparison to native vegetation
+stands, common reed would exhibit a reduction in benthic
+macroinvertebrate density and diversity and community
+structure would also deviate from that normally observed
+in other low-salinity tidal systems for both our study sites.
+These investigations were a subset of a larger study to
+determine the role of common reed invasion on tidal
+marsh—open water trophic linkages in the Hudson River
+Estuary, which included estimation of habitat use by resident
+and transient nekton, and characterization of hydrogeomorphic
+variables (Osgood et al. 2006).
+
+xmethods
+This study was conducted at the Iona Island and Piermont
+Marsh components of the Hudson River National Estuarine
+Research Reserve. Iona Island Marsh, located on the western
+shore of the Hudson River 63 km north of the Battery
+(the southern tip of Manhattan Island), encompasses a
+225 ha area of oligohaline intertidal marsh and upland
+habitat. Vegetation cover within the marsh portion of the
+Iona Island complex includes a mix of ∼70 % common reed
+and ∼30 % cattail. Broadleaf emergent plants [e.g., pickerelweed
+(Pontedaria cordata) and arrow-arum (Peltandra
+virginica)] are also present, but comprise a minor component
+of the vegetation community. Common reed has been
+expanding in Iona Island Marsh since the mid-1960s
+(Winogrond and Kiviat 1997). Piermont Marsh is a 400 ha
+tidal mesohaline marsh (5–10 psu) located along the west
+shoreline of the Hudson River, 37 km north of the Battery,
+and 26 km south of Iona Island. Piermont Marsh was invaded
+by common reed between 1790 and 1858. Common
+reed stands increased to cover almost 65 % of the total
+marsh area by 1991, converting many mixed cattail and reed
+communities to mono-specific reed stands (Winogrond and
+Kiviat 1997). Native, noninvasive vegetation at Piermont
+marsh is restricted to the interior sections of the marsh and
+does not flood except during extreme spring tides.
+At Iona Island Marsh, a total of 12 sampling locations were
+established within cattail and common reed stands as follows:
+Within both vegetation types, three sampling locations each
+were situated at high and low elevations as predetermined
+through a topographic survey. Average difference between
+high and low elevation sites was 11.5 cm. All sampling
+locations were situated within 20 m of a tidal creek (Fig. 1).
+At Piermont Marsh, six sampling locations were established
+within common reed. Three sampling locations each
+were positioned at high and low elevations as predetermined
+through a topographic survey. All locations were situated at
+random distances along one side of a 100-m long section of
+tidal creek (Fig. 1). Average elevation difference between
+high and low stations was ∼4 cm. All sampling locations
+were within 20 m of the creek.
+Benthic macroinvertebrate densities were measured from a
+total of 864 benthic cores collected in June, August, and
+October of 1999 and 2000. Eight replicate 7.62-cm diameter
+cores were collected to a depth of 10 cm at each sampling
+location during each of the three months. Cores were sieved
+in the field onto a 0.5-mm mesh sieve and preserved in 5 %
+neutral formalin with Rose Bengal stain. In the laboratory,
+samples were rinsed gently onto a 0.5-mm mesh sieve and
+sorted. Macroinvertebrates sorted from samples were identified
+to the lowest possible identification level, a regional
+voucher collection was prepared, and representative specimens
+were stored in 70 % ethyl alcohol solution.
+
+To verify flooding differences as a function of elevation,
+marsh surface inundation (depth, duration, and frequency)
+was continuously measured from June to October 1999 and
+May to October 2000 using wells instrumented with data
+loggers and pressure transducer units. Three wells were
+located at each sampling location for a total of six wells at
+Piermont Marsh and 12 wells at Iona Island Marsh. Wells
+were constructed of 7.6 cm PVC pipe and slotted (commercial
+well screen with 0.325 mm slots) over the entire subsurface
+length (50 cm). Readings, recorded every 24 min,
+were converted to water table position by calibrating with
+measurements of actual water table level in the wells
+(Osgood 2000). Resolution of water level measurements,
+after adjusting for surveyed heights of the wells, was within
+1.3 cm. Flooding depth was reported as the average maximum
+depth/tidal cycle each month. Flooding duration was
+reported as the average number of hours the marsh was
+inundated per tidal cycle each month, and flooding frequency
+was reported as the percentage of total tidal cycles that
+flooded the marsh surface monthly.
+Macroinvertebrate taxa richness and density were compared
+among high and low elevations and vegetation type. All
+macroinvertebrate data were log(y+1) transformed to meet
+normality assumptions and analyzed using a one-way analysis
+of variance (ANOVA); post-hoc comparison of means
+was conducted using the Student–Newman–Keuls test.
+Shannon’s diversity index (H′) was calculated and compared
+among sampling locations and collection dates (Shannon
+and Weaver 1949).
+The Kruskal–Wallis Z test using a Bonferroni correction
+was necessary to analyze for differences in flooding depth and
+duration, as these variables did not meet the assumptions of
+normal distribution. Differences in mean flooding frequency
+were analyzed using ANOVA. Hydrologic data were pooled
+over the entire sampling period in any given year for the
+purpose of analyzing for spatial differences in flooding.
+Mean flooding depth and duration were compared with benthos
+density and species richness using the average value of
+the three wells adjacent to any given sampling location. The
+average flooding depth for the 2-week period bracketing each
+benthic collection was regressed against the average benthos
+density and species richness for any given date.
+
+xresults
+A total of 6,665 individuals representing 70 macroinvertebrate
+taxawas collected among the six sampling locations at the two
+marsh sites. The most abundant taxa at Iona Island during
+1999 were dipteran larvae (primarily Ceratopogonidae and
+Chironomidae) and naidid oligochaetes, followed by gastropods
+(primarily Hydrobiidae), fingernail clams (Pisidium sp.),
+potworms (Enchytraeidae), and lumbriculid oligochaetes.
+During 2000, the most abundant taxa at Iona Island Marsh
+were naidid oligochaetes, dipteran larvae (primarily
+Ceratopogonidae, Chironomidae, Dolichopodidae,
+Limoniidae, and Tipulidae), fingernail clams, lumbriculid oligochaetes,
+and gastropods (primarily Hydrobiidae) (Table 1).
+The most abundant taxa at Piermont Marsh during 1999
+were naidid oligochaetes, followed by potworms, dipteran
+larvae (primarily Chironomidae and Dolichopodidae), the
+polychaete Manyunkia speciosa, springtails (Collembola),
+isopods (primarily Ligidium sp.), gastropods (primarily
+Hydrobiidae), and flatworms (Nemertea). During 2000, the
+most abundant taxa at Piermont Marsh were naidid
+oligochaetes, followed by potworms, dipteran larvae (primarily
+Chironomidae, Dolichopodidae, and Tipulidae), M.
+speciosa, gastropods (primarily Hydrobiidae), and springtails
+(Table 1).
+Taxa richness among individual sampling stations at Iona
+Island Marsh (high- and low-elevation cattail; high- and
+low-elevation common reed) ranged from 10 to 21 taxa
+(mean of 17) in 1999 and from 5 to 23 (mean of 15) in
+2000 (Table 2). Taxa richness among high- and lowelevation
+common reed stations at Piermont Marsh ranged
+from 8 to 17 in 1999 (mean of 11) and from 10 to 22 (mean
+of 16) in 2000. Overall, average taxa richness was greater at
+Iona Island Marsh in comparison to Piermont Marsh.
+Taxonomic composition/richness was similar among vegetation
+treatments and seasons at Iona Island Marsh in 1999.
+However, in 2000, significantly lower taxa richness was
+observed in high-elevation cattail in June and in highelevation
+common reed in August. Taxa richness was similar
+among vegetation types at Iona Island Marsh in October
+2000. Significantly greater taxa richness was observed in
+high-elevation common reed (in comparison to lowelevation
+common reed) at Piermont Marsh in June 1999,
+August 1999, August 2000, and October 2000 (Fig. 2).
+Values for Shannon’s diversity index (H′) were similar
+between the two study years at Iona Island Marsh (Table 2).
+Although average values were similar between the two
+marshes and between both study years, there was considerable
+variation among individual vegetation/elevation plots
+and among month (June, August, and October) within the
+individual plots. The most and least diverse vegetation
+elevation assemblages at Iona Island Marsh were October
+1999 high common reed and October 1999 low cattail,
+respectively. The most and least diverse vegetation/elevation
+assemblages at Piermont Marsh were October 2000
+high common reed and August 2000 low common reed,
+respectively (Table 2).
+Total macroinvertebrate density did not vary significantly
+among vegetation types at Iona Island Marsh in 1999. In
+June 2000, total macroinvertebrate density was significantly
+lower in low-elevation common reed stands. No significant
+differences in total macroinvertebrate densities were observed
+at Iona Island Marsh in August or October 2000.
+Total macroinvertebrate density was significantly greater at
+high-elevation common reed in comparison to low-elevation
+reed at Piermont Marsh in August 1999 and June 2000
+(Fig. 3). This observed seasonal variation may be related
+to microtopography (seasonal ponding of rain and tidal
+floodwaters) in high marsh areas.
+Average flooding depth and duration over the entire study
+period (both years combined) revealed a significantly higher
+flooding depth at the low elevation station in bothmarshes and
+both vegetation types (Fig. 4). Flooding duration and frequency
+were also significantly different between elevations at Iona
+Island Marsh, but did not differ with elevation at Piermont
+Marsh. Flooding depth, duration, and frequency were similar
+between common reed and cattail stands for the same elevations
+at Iona Island Marsh. There was a positive relationship
+between macroinvertebrate density and flooding depth when
+all vegetation and elevation plots were combined across both
+sites (Fig. 5). A single outlier point on this regression plot is
+noted and represents an observation of particularly high average
+macroinvertebrate density in the low-elevation cattail
+community at Iona Island Marsh in October 1999. All other
+regression analyses were insignificant (P>0.05).
+
+xdiscussion
+Benthic macroinvertebrate communities were characterized
+by moderate to high abundance, with a variety of taxonomic
+groups represented in the assemblage. General patterns of
+community dominance and diversity were consistent across
+the two salinity regimes and between years. Previous studies
+of benthic macroinvertebrate communities in low-salinity
+estuarine habitats document similar composition and
+abundance as those observed at the Iona Island and
+Piermont marshes (Barendregt et al. 2009; Diaz et al.
+1978). For example, dipterans and naidid oligochaetes are
+numerically dominant within both salinity regimes, while
+mollusks (along with dipterans and naidid oliochaetes) dominate
+in low salinity. However, most previous studies have
+focused on the shallow subtidal or nonvegetated lower intertidal
+zones; few (e.g., Diaz et al. 1978) provide insight to
+the composition of benthic macroinvertebrate communities
+in densely vegetated intertidal wetlands.
+Density of benthic macroinvertebrates (mostly oligochaetes
+and gastropod mollusks) was twice as high in
+common reed stands at Iona Island Marsh in comparison
+to adjacent cattail stands and reed stands at Piermont Marsh.
+Common reed stands at Iona Island Marsh may support
+higher invertebrate density because of a more favorable
+habitat (e.g., flooding regime or food availability).
+Alternatively, nekton, foraging within common reed habitat,
+may not exert the same control over invertebrate density as
+in other stands. Flooding depth was positively correlated
+with invertebrate density and low elevation common reed
+stands showed a trend toward greater flooding than all other
+stands. This result suggests that invertebrate density may be
+controlled more directly by flooding than by the indirect
+result of predation which should be greater in association
+with greater flooding depth (i.e., more access to the marsh
+for foraging by fish).
+The intertidal marsh surface is used as spawning and
+nursery habitat for a variety of estuarine and marshresident
+nekton (Rozas and Odum 1987; Yozzo and
+Smith 1998). Benthic invertebrate prey resources on
+the intertidal marsh surface and the shallow subtidal
+benthos of marsh creeks may contribute substantially
+to maintaining the nursery function of low-salinity estuarine
+wetlands (McIvor and Odum 1988). Resident fish
+and macrocrustaceans were distributed evenly across
+common reed and cattail marsh surfaces at Iona Island
+and Piermont marshes when they experienced comparable
+flooding regimes (Osgood et al. 2006). Throughout
+the 2-year study period, the resident nekton communities
+at both sites were dominated by mummichogs and
+grass shrimp (Table 3). Other information from these
+sites supports the idea that nekton foraging activity may
+be lower within the common reed stands (Osgood et al.
+2006); mean nekton densities were not significantly
+different between common reed and cattail stands at
+Iona Island Marsh; however, mean nekton density within
+common reed stands at Piermont was significantly
+lower in comparison to either reed or cattail stands at
+Iona Island. Significantly more juvenile mummichogs
+(18–35 mm TL) were collected within cattail in comparison
+to common reed at Iona Island Marsh, suggesting
+that spawning success of this species, and therefore
+foraging pressure from this size class, may be lower in
+common reed (Osgood et al. 2006).
+The difference in flooding regime among vegetation
+stands in these low-salinity marshes could account for
+some of the observed patterns within the benthic invertebrate
+community. The observed patterns of tidal flooding
+at Iona Island Marsh and Piermont Marsh may
+result from the comparative age of the reed stands.
+The stands at Piermont Marsh have less topographic
+relief (and flood less frequently) than the stands at
+Iona Island (Osgood et al. 2006). Frequency of flooding
+within common reed stands at Iona Island is similar to
+that reported for reed stands in other oligohaline systems
+(Warren et al. 2001), suggesting that flooding
+differences between common reed and noninvasive, native
+vegetation stands may be less extreme in lowsalinity
+marshes where common reed can withstand a
+longer duration of flooding in comparison to highsalinity
+marshes (Chambers et al. 2002).
+In previous studies, benthic macroinvertebrate densities
+in common reed stands and noninvasive, native tidal marsh
+vegetation have been shown to be similar (Fell et al. 1998,
+2003) and not related to hydroperiod (Warren et al. 2001).
+Angradi et al. (2001) documented lower macroinvertebrate
+density in common reed than in salt marsh cordgrass during
+the months of August and October in a Southern New Jersey
+salt marsh. Both vegetation communities studied were characterized
+by similar tidal flooding regimes. Lower density in
+common reed was attributed to increased predation resulting
+from lower stem density. Lower taxa richness among common
+reed was attributed to lack of microhabitats (pools and
+hummocks) in this euhaline system that otherwise may
+increase diversity among benthic macroinvertebrates. In
+contrast, Robert and Matta (1984) attributed seasonal fluctuations
+in the benthic macroinvertebrate community of an
+irregularly flooded salt marsh in Virginia to variation in life
+cycles of the numerically dominant taxa and the drying and
+flooding of the high marsh surface.
+Low-salinity estuarine wetlands are highly productive,
+transitional ecosystems, which combine functional,
+structural, and faunal characteristics of salt marshes
+and nontidal, freshwater wetlands. They occur on all
+three coasts of the USA; however, the vast majority of
+information about invertebrates in tidal freshwater or
+low-salinity wetlands is derived from study sites in the
+northeast and Mid-Atlantic region. The invertebrate fauna
+of tidal freshwater wetlands is comprised of mostly
+freshwater species, although a few euryhaline estuarine
+species are apparently able to colonize these transitional
+wetland environments.
+The Hudson River studies described herein revealed that
+regularly flooded common reed stands in oligohaline and
+mesohaline tidal wetlands of the Hudson River Estuary
+support abundant and diverse macroinvertebrate communities
+and that taxa richness/diversity and density are similar
+between invasive and native vegetation stands. Greater
+flooding depth, in both cattail and common reed stands,
+may support increased benthic macroinvertebrate density.
+The influence of foraging access and/or vegetation type
+may not be as important as the direct influence of flooding
+depth on invertebrate density. Invertebrate communities in
+low-salinity estuarine wetlands are resilient and able to
+withstand both natural and anthropogenic environmental
+perturbations. Understanding the composition and functional
+role of these communities will benefit estuarine conservation
+and restoration efforts and may contribute to the
+development of ecologically sound performance indicators
+and success criteria for tidal freshwater and low-salinity
+wetland restoration projects.

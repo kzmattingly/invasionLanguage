@@ -1,0 +1,1049 @@
+xabstract
+
+
+Widespread fish introductions have led to a worldwide decline in the number of fishless lakes and their
+
+associated communities. Studies assessing effects of fish stocking on native communities in historically
+
+fishless lakes have been limited to high-elevation headwater lakes stocked with non-native trout. Little
+
+is known about the effect of fish stocking in historically fishless and hydrologically isolated lowland kettle
+
+lakes. We compared the effects of introduced fish on macroinvertebrate communities in kettle lakes
+
+stocked with centrarchids, salmonids, and cyprinids, and headwater lakes stocked with brook trout
+
+(Salvelinus fontinalis) in Maine, USA. Fish had significant effects on macroinvertebrate community structure
+
+in both lake types, with reduced species richness and abundances of taxa characteristic of fishless
+
+lakes. The effects of introduced fish were more pronounced in headwater lakes despite a less diverse fish
+
+assemblage than in kettle lakes. We attribute this to abundant submerged vegetation providing refuge
+
+from fish predation and reduced stocking frequency in kettle lakes. We assessed effects of stocking duration
+
+on macroinvertebrates in a subset of headwater lakes with known dates of trout introduction.
+
+Species richness and abundance of most taxa declined within 3 years following trout introduction; however,
+
+richness and abundance were least in lakes with long stocking histories (P40 years). Macroinvertebrates
+
+previously identified as fishless bioindicators were absent from all stocked lakes, indicating
+
+that trout rapidly eliminate these sensitive taxa. Conservation of this historically undervalued ecosystem
+
+requires protecting remaining fishless lakes and recovering those that have been stocked. xintroduction Widespread fish introductions have led to a worldwide decline
+
+in the number of fishless lake communities (Donald, 1987; Bahls,
+
+1992; Pister, 2001; Schilling et al., 2008). This study assesses the
+
+need for urgent management strategies ensuring their conservation
+
+in eastern North America, a region where little is known about
+
+fishless lake communities. Naturally fishless lakes represent a unique
+
+freshwater ecosystem. Such lakes enhance regional aquatic
+
+species diversity by providing unique freshwater habitat conditions
+
+along a gradient of waterbody permanence and predator
+
+presence, ranging from temporary vernal pools lacking large dragonfly
+
+and fish predators to permanent lakes where fish are top predators
+
+(Wellborn et al., 1996; Stoks and McPeek, 2003). The
+
+potential conservation value of fishless lakes extends beyond the
+
+boundaries of the waterbody; fishless lakes provide important prey
+
+items for migrating and breeding waterfowl (Bouffard and Hanson,
+
+1997), passerines (Epanchin, 2009) and reptiles (Matthews and
+
+Knapp, 2002).
+
+Historically, humans have undervalued the ecological importance
+
+of naturally fishless lakes, viewing them primarily as potential
+
+sport fish habitat or sites for rearing bait fish. Rarefaction of
+
+this unique habitat type due to the introduction of predatory fish
+
+has led to landscape-scale losses of native prey species, such as
+
+zooplankton (Stoddard, 1987; Bradford et al., 1998; Knapp et al.,
+
+2001), amphibians (Fisher and Shaffer, 1996; Bradford et al.,
+
+1998; Knapp et al., 2001; Pilliod and Peterson, 2001; Denoel
+
+et al., 2005; Orizaola and Brana, 2006) and macroinvertebrates
+
+(Bradford et al., 1998; Carlisle and Hawkins, 1998; Knapp et al.,
+
+2001). In addition to direct predatory effects, introduced fish disrupt
+
+in lake ecosystem processes (e.g., nutrient cycling and primary
+
+productivity; Schindler et al., 2001) and sever trophic connections
+
+between aquatic and terrestrial food webs with cascading effects
+
+on riparian plants (Knight et al., 2005) and vertebrates (Matthews
+
+and Knapp, 2002; Finlay and Vredenburg, 2007; Knapp et al.,
+
+2007).
+
+
+ Studies documenting the detrimental effects of fish stocking in
+
+historically fishless lakes have focused on high-elevation headwater
+
+lakes stocked with non-native trout, primarily in western North
+
+America where fishless lakes historically were common (Donald,
+
+1987; Bahls, 1992). This research is part of a larger body of work that
+
+questions traditional fish management practices (Stanley, 1995; Rahel,
+
+1997, 2000). Recent research, also in western North America,
+
+demonstrates the potential for native headwater lake fauna to recover
+
+following fish removal (Donald et al., 2001; Hoffman et al.,
+
+2004; Knapp et al., 2005, 2007). Recognizing the ecological value
+
+of fishless lakes and their potential for recovery has spurred state
+
+and federal agencies to take a more holistic management approach.
+
+Stocking has been halted in many high-elevation fishless lakes in national
+
+parks and wilderness areas in western North America, and
+
+some lakes are being restored to their natural fishless condition
+
+(Milliron, 1999; Yosemite National Park, 2006; Bunn et al., 2007).
+
+There have been no similar attempts to evaluate or mitigate the
+
+effects of stocking historically fishless lakes in eastern North America,
+
+a region where fish faunas are greatly altered due to widespread
+
+introductions. While the predominant geographical trend
+
+of fish introductions in North America has been westward invasions
+
+of species native to the East, northeastern states contain
+
+some of the most altered fish faunas in the USA due to the few species
+
+considered desirable as game fish in northeastern waters
+
+(Whittier and Kincaid, 1999; Rahel, 2000; Whittier, 2002). Fish
+
+have been moved liberally within their native ranges among eastern
+
+lakes, with many instances of translocations of ëënativeî fish to
+
+waterbodies that have not previously contained these species
+
+(Whittier and Kincaid, 1999; Whittier, 2002). Many naturally
+
+fishless lakes in northeastern North America now contain fish
+
+(Schilling et al., 2008). These include headwater lakes stocked primarily
+
+with brook trout (Salvelinus fontinalis) and kettle lakes
+
+(lakes formed in depressions left by glacial ice blocks) stocked with
+
+a more diverse fish assemblage, including centrarchids, salmonids,
+
+and cyprinids (Schilling et al., 2008). The ecological effects of stocking
+
+have never been studied in fishless kettle lakes, a physiographic
+
+lake type that occurs throughout formerly glaciated regions of
+
+North America.
+
+Despite differences in lake physical characteristics, fishless kettle
+
+and headwater lakes in Maine, USA support similar macroinvertebrate
+
+communities (Schilling et al., 2009). Fishless lake
+
+macroinvertebrate communities in Maine are distinct from those
+
+in similar lakes containing fish, with several unique species occurring
+
+in fishless lakes (Schilling et al., 2009). It is estimated that
+
+50% of the naturally fishless lakes in Maine have been stocked
+
+with game or baitfish (Schilling, 2008). This study was developed
+
+with the goal of informing conservation planning for this resource.
+
+Our primary objective was to assess differences in macroinvertebrate
+
+communities between currently and historically (but now
+
+stocked) fishless kettle and headwater lakes in Maine to aid understanding
+
+of how these unique communities are affected by introduced
+
+fish. We hypothesized that effects of introduced fish on
+
+macroinvertebrate communities would differ between the two
+
+physiographic lake types, headwater and kettle, due to differences
+
+in lake habitat structure, stocking regime, and fish species composition.
+
+Our second objective was to assess whether the effect of
+
+introduced fish on native macroinvertebrate communities in
+
+repeatedly stocked lakes varies with the amount of time since
+
+the original fish introduction. We hypothesized that the effect of
+
+introduced fish on native macroinvertebrate communities would
+
+be more pronounced in lakes with long histories of repeated stocking
+
+than in recently stocked lakes. Understanding the reduction in
+
+natural fishless lake macroinvertebrate biodiversity that occurs
+
+with repeated stocking will help managers establish conservation
+
+goals for these lakes. xmethods
+
+ We identified two physiographic types of naturally fishless
+
+lakes in two biophysical regions in Maine, USA: headwater lakes
+
+in the central and western mountains and kettle lakes in the eastern
+
+lowlands and foothills (Schilling et al., 2008). Prior to being
+
+stocked, fish were naturally absent from these lakes since the last
+
+glaciation (10,000 years BP) created natural physical barriers to
+
+fish colonization. Fishless lakes in western Maine are high-elevation
+
+headwater cirques isolated from fish colonization by steep
+
+outlets impassable to fish. Fishless lakes in eastern Maine are kettle
+
+lakes formed in depressions left by glacial ice blocks. Many kettles
+
+have no surface water connections to other waterbodies and thus
+
+lack routes for fish movement. Additionally, many kettles are bog
+
+lakes with naturally low pH, which limits fish species richness
+
+(Rahel, 1984).
+
+We identified 16 currently fishless (eight headwater, eight
+
+kettle) and 14 historically fishless but now stocked (eight headwater,
+
+six kettle) lakes for study (Fig. 1) by consulting fish survey
+
+records (Maine Department of Inland Fisheries and Wildlife
+
+(MDIFW), unpublished data) and a geographic information
+
+systems (GIS) analysis identifying lakes inaccessible to fish
+
+(Schilling et al., 2008). These represent approximately half of
+
+the known fishless lakes in the state of Maine (Schilling et al.,
+
+2008; MDIFW, unpublished data) and were selected primarily
+
+based on their accessibility and availability of landowner permits
+
+for overnight sampling. Historical fish survey records indicated
+
+that five of the stocked headwater lakes were fishless prior to
+
+state-authorized brook trout stocking (MDIFW, unpublished).
+
+The remaining three stocked headwater lakes and all six stocked
+
+kettle lakes were selected based on GIS analyses that demonstrated
+
+that physical characteristics of these lakes were similar
+
+to other known fishless lakes in the region (Schilling et al.,
+
+2008). Historical fishless status of these lakes was verified with
+
+paleolimnological analyses of Chaoborus remains in lake sediment
+
+cores (DeGoosh, 2007). The original dates of fish introductions
+
+in these lakes were unknown, but sediment cores indicated
+
+fish absence 14ñ61 years before present (Davis et al., 1994;
+
+DeGoosh, 2007).
+
+Field surveys to verify fish absence (fishless lakes) and fish
+
+species composition (stocked lakes) and describe habitat characteristics
+
+were conducted during single site visits during the summers
+
+of 2002ñ2005. We surveyed the lakes for fish with gillnets
+
+and minnow traps following MDIFW fish survey protocols (Tim
+
+Obrey, MDIFW, personal communication). One four-panel
+
+(19 mm, 25 mm, 33 mm, 38 mm mesh) monofilament gillnet
+
+(40 m  1.5 m) was bottom-set perpendicular to shore for two,
+
+15 min sets and checked for fish between sets. If no fish were
+
+caught after two sets, the net was deployed overnight and
+
+checked the following morning. Three minnow traps baited with
+
+dog biscuits were placed at equal distances around the lake
+
+perimeter and checked for fish after 12 h. If no fish were captured
+
+during this survey, we considered the lake to be fishless. We
+
+qualitatively assessed habitat structure (visual assessment of the
+
+approximate proportion of lake perimeter rimmed with littoral
+
+vegetation and distance it extended from shore), measured maximum
+
+lake depth with a depth finder, and collected one water
+
+sample for closed cell pH analysis. Lake surface area and elevation
+
+were estimated with GIS (Schilling et al., 2008). We assessed differences
+
+in measured physical variables between fishless and
+
+stocked lakes within each physiographic lake type, as well as between
+
+stocked headwater lakes and stocked kettle lakes, with
+
+Studentís t-tests (a = 0.1). Field surveys to describe macroinvertebrate fauna were conducted
+
+during single site visits during the summers of 2002ñ
+
+2005. Analysis of multi-year and within season samples indicated
+
+one sample date per year was sufficient to accurately represent
+
+the macroinvertebrate assemblages (Schilling et al., 2009). Macroinvertebrates
+
+were sampled overnight with submerged light traps
+
+(n = 10/lake) placed in the littoral zone and containing glow sticks
+
+to attract free swimming invertebrates (Schilling et al., 2009). A
+
+subset of lakes was sampled with littoral sweeps and light traps;
+
+comparisons of these methods indicated that light trapping alone
+
+adequately represented community structure (Schilling et al.,
+
+2009). Our results reflect shallow pelagic and littoral habitats,
+
+and do not represent benthic sediments. All samples were sieved
+
+(1 mm mesh) and preserved (70% ethanol). Macroinvertebrates
+
+were counted and identified in the laboratory with a dissecting
+
+microscope. Depending on the life-stage and specimen condition,
+
+Hemiptera and Ephemeroptera were identified to genus, and Coleoptera,
+
+Odonata, Notonectidae, and Chaoborus spp. were identified
+
+to species. We conducted separate statistical analyses for headwater and
+
+kettle lakes, testing for differences in macroinvertebrate communities
+
+between stocked and fishless lakes, and then compared the results
+
+to assess whether the effect of introduced fish differed by
+
+physiographic lake type. All abundance data were log10 (x + 1)
+
+transformed prior to analysis, and all data were summed across
+
+10 light traps per lake.
+
+We tested for differences in macroinvertebrate assemblage
+
+structure between fishless lakes and stocked lakes with multiresponse
+
+permutation procedure (MRPP) and non-metric multidimensional
+
+scaling (NMS; PC-ORD version 5.0, MjM Software,
+
+Gleneden Beach, OR) performed on absolute abundances of common
+
+genera (occurring in >10% of all study lakes). MRPP is a
+
+non-parametric method that tests for differences in species composition
+
+between two or more a priori defined groups (McCune
+
+and Grace, 2002). We report MRPPís chance-corrected within
+
+group agreement value (A), which describes the effect size or degree
+
+of within group homogeneity compared to the random expectation
+
+(i.e., A attains its maximum value of one when all items are
+
+identical within groups), and test statistic T (and its associated
+
+P-value), which describes separation between groups (i.e., the
+
+more negative the stronger the separation). We ran MRPP on a rank
+
+transformed distance matrix with the Sorensen distance measure
+
+and the n/sum(n) weighting factor (where n is the number of items
+
+in the group).
+
+NMS is an ordination technique that uses rank order information
+
+in a dissimilarity matrix and is well-suited for community
+
+data, because it avoids the assumptions of normality and linearity
+
+(McCune and Grace, 2002). We ran NMS in autopilot mode (ëëslow
+
+and thoroughî setting and Sorensen distance measure), finding the
+
+optimal dimensionality with 250 runs performed on real data followed
+
+by 250 runs with randomized data, with each run stepping
+
+down in dimensionality from six axes to one axis. The final ordination
+
+was obtained with the optimal dimensionality and the best
+
+starting configuration determined from previous runs. We performed
+
+five ordinations, evaluated each for consistency of interpretation,
+
+and chose the ordination with the least final stress value as
+
+the optimum solution. Differences in NMS scores between fishless
+
+lakes and stocked lakes were analyzed with Studentís t-tests
+
+(a = 0.1) to test whether macroinvertebrate community structure
+
+differed between the two lake types. To simplify the graphical display,
+
+we plotted the average position in ordination space of fishless
+
+and stocked lakes on the two axes that showed the strongest associations
+
+with fish presence.
+
+We compared total and taxon-specific abundances (Studentís
+
+t-tests; a = 0.1) and the frequency of occurrence (Fisherís exact
+
+tests; a = 0.1) of common macroinvertebrate taxa between fishless
+
+and stocked lakes (SYSTAT Software, version 11, Richmond, CA).
+
+We also compared richness of families identified to species and
+
+genus richness for Corixidae (Students t-tests; a = 0.1).
+
+To test whether the effect of introduced fish on native macroinvertebrate
+
+communities was more pronounced in lakes with long
+
+histories of repeated stocking than in recently stocked lakes, we
+
+analyzed data from a subset of headwater study lakes: three randomly
+
+selected fishless lakes and five lakes with documented dates
+
+of original fish introduction (two stocked for 3 years prior (3 year
+
+duration) and three stocked for 40 years prior (40 year duration)
+
+to our macroinvertebrate collections). We compared macroinvertebrate
+
+abundance (total and taxon-specific) and total species richness
+
+in fishless, 3 year duration, and 40 year duration lakes with
+
+one-way analysis of variance and Leveneís test for equality of variances.
+
+Pairwise comparisons were made with Fisherís protected
+
+LSD when variances were equal and GamesñHowell when variances
+
+were not equal (a = 0.1). In each of our study lakes we assessed
+
+frequency of occurrence of six taxa identified as
+
+bioindicators of fish absence in naturally fishless lakes (Schilling
+
+et al., 2009): Graphoderus liberus, Dineutus spp., Hesperocorixa
+
+spp., Callicorixa spp., Chaoborus americanus, and Notonecta insulata.
+
+These taxa demonstrate extremes of characteristics (e.g., largebodied,
+
+conspicuous, diurnally active in the water column) that increase
+
+invertebrate vulnerability to fish predation (Schilling et al.,
+
+2009).
+
+xresults Fishless and stocked lakes in both physiographic lake types supported
+
+distinct macroinvertebrate communities. MRPP indicated that homogeneity within fishless and stocked lakes was greater than
+
+the random expectation (Aheadwater = 0.156; Akettle = 0.255). The difference
+
+between fishless and stocked lakes was significant for both
+
+headwater and kettle lakes (Theadwater = 4.753, P < 0.001;
+
+Tkettle = 6.042, P < 0.001). Assemblages among fishless lakes were
+
+moresimilar thanamongstocked lakes, indicatedby smaller average
+
+within group distances for fishless (lheadwater = 0.234;lkettle = 0.247)
+
+than stocked lakes (lheadwater = 0.610; lkettle = 0.540).
+
+In both the headwater and kettle lake datasets, NMS identified
+
+three major gradients capturing most of the variability, with
+
+87.2% (r2
+
+headwateraxis 1 º 0:476, axis 2 = 0.235, axis 3 = 0.162) and
+
+93.1% (r2
+
+kettleaxis 1 º 0:115, axis 2 = 0.152, axis 3 = 0.663) of the total
+
+variance in each lake type explained by these three axes. The final
+
+stress values (stressheadwater = 8.560; stresskettle = 6.386) were
+
+small for ecological community analyses (typical range = 10ñ20);
+
+however, small stress values were expected, because stress is
+
+dependent on sample size (McCune and Grace, 2002), and we sampled
+
+a relatively small number of lakes. NMS plots of similarity in
+
+community composition showed strong clustering of lakes by fish
+
+presence or absence (Fig. 2A and B). NMS scores on axes 1
+
+(t[8] = 3.296, P = 0.011) and 2 (t[14] = 2.621, P = 0.020) differed between
+
+fishless and stocked headwater lakes (Fig. 2A). NMS scores
+
+on all three axes differed between fishless and stocked kettle lakes
+
+(axis 1: t[12] = 3.356, P = 0.006, axis 2: t[12] = 2.614, P = 0.023, axis 3:
+
+t[12] = 3.085, P = 0.009; Fig. 2B). NMS scores were more variable
+
+among stocked lakes than fishless lakes, consistent with MRPP results,
+
+indicating greater variability in assemblage structure in
+
+stocked lakes than fishless lakes. Effects of introduced fish were more pronounced on macroinvertebrate
+
+communities in headwater lakes than in kettle lakes.
+
+The total number of macroinvertebrates captured was 13.9 times
+
+(ratio of the geometric means (Mg)) greater in fishless headwater
+
+lakes (Mg = 407.79) than stocked headwater lakes (Mg = 29.36;
+
+t[14] = 3.692, P = 0.002). Average total abundance did not differ
+
+significantly between fishless (Mg = 385.36) and stocked kettle
+
+lakes (Mg = 151.64, t[12] = 0.977, P = 0.348). Taxon specific differences
+
+between the two lake types mirrored the differences in total
+
+abundance in fishless and stocked lakes; more taxa differed in
+
+abundance or percent occurrence between fishless and stocked
+
+headwater lakes than fishless and stocked kettle lakes (Table 2).
+
+Eight families (Fig. 3) and 15 genera and species (Table 2) were
+
+more abundant in fishless headwater lakes than stocked headwater
+
+lakes. Two families (Fig. 3) and 10 genera and species (Table 2) were
+
+more abundant in fishless kettle lakes than stocked kettle lakes. No
+
+taxa were more abundant in stocked than fishless headwater lakes,
+
+whereas Cenocorixa spp. and C. punctipennis were more abundant
+
+in stocked than fishless kettle lakes. Dytiscid beetles were strongly
+
+associated with fish absence in both headwater and kettle lakes,
+
+with G. liberus abundant in the majority of fishless lakes but absent
+
+in stocked lakes. Dytiscus spp. were more abundant in fishless than
+
+stocked headwater lakes, and Ilybius spp. were more abundant in
+
+fishless than stocked kettle lakes. Gyrinid and haliplid beetles were
+
+strongly associated with fishless headwater lakes, with Dineutus
+
+spp. and Gyrinus spp. more abundant in fishless lakes. Notonectids
+
+were strongly associated with fish absence in both headwater and
+
+kettle lakes, with N. insulata abundant in the majority of fishless
+
+lakes but absent in stocked lakes. Buenoa spp. were more abundant
+
+and occurred more frequently in fishless than stocked kettle lakes.
+
+Corixids were strongly associated with fish absence in headwater
+
+lakes, with Callicorixa spp, Hesperocorixa spp., Neocorixa spp., and
+
+Sigara spp. more abundant and occurring more frequently in fishless
+
+lakes. Hesperocorixa spp. was the only corixid genus more abundant
+
+in fishless than stocked kettle lakes. The chaoborid C. americanus was
+
+strongly associated with fish absence in both headwater and kettle
+
+lakes and was abundant in the majority of fishless lakes but absent
+
+in stocked lakes. The odonates Aeshna eremita and Leucorrhinia
+
+spp. were more abundant in fishless than stocked headwater lakes.
+
+No odonates differed in abundance or percent occurrence between
+
+stocked and fishless kettle lakes.
+
+Average species richness of all identified species was more than
+
+three times greater in fishless headwater lakes than stocked headwater
+
+lakes (lfishless = 8.4, lstocked = 2.6; t[14] = 3.157, P = 0.007).
+
+Average species richness was greater in fishless kettle lakes than
+
+stocked kettle lakes (lfishless = 9.4, lstocked = 5.2; t[12] = 2.520,
+
+P = 0.026), although the magnitude of difference was less in kettle
+
+lakes than in headwater lakes. In particular, Dytiscidae richness
+
+was markedly greater in both fishless headwater (lfishless = 2.4,
+
+lstocked = 0.0; t[7] = 3.800, P = 0.007) and fishless kettle (l =
+
+2.5fishless, lstocked = 0.3; t[9]=3.800, P = 0.004) lakes. Corixidae demonstrated
+
+the greatest richness (8) at the genus level in our
+
+collections (Arctocorixa, Callicorixa, Cenocorixa, Graptocorixa,
+
+Hesperocorixa, Neocorixa, Palmacorixa, Sigara), and fishless headwater
+
+lakes contained >4 times more genera than stocked headwater
+
+lakes (lfishless = 3.3, lstocked = 0.5; t[14]=4.075, P = 0.001). Corixidae
+
+genus richness did not differ in stocked and fishless kettle lakes
+
+(lfishless = 2.6, lstocked = 2.5; t[12]=0.139, P = 0.892). Stocking duration had a significant effect on total macroinvertebrate
+
+abundance: all pairwise comparisons of total macroinverte-brate abundance were significantly different between fishless,
+
+3 year duration, and 40 year duration lakes (Fig. 4; Table 3). Fewer
+
+macroinvertebrate families were collected in 40 year duration than
+
+3 year duration lakes, with nine of 15 families present in fishless
+
+lakes absent from 40 year duration lakes, compared to three families
+
+absent from 3 year duration lakes. Dytiscidae, Notonectidae,
+
+and Haliplidae abundances were less in 3 year duration than fishless
+
+lakes. Dytiscidae and Haliplidae abundances were similar in
+
+3 year and 40 year duration lakes; whereas, Notonectidae abundance
+
+was less in 40 year duration than 3 year duration lakes. Corixidae
+
+abundance was similar in fishless and 3 year duration lakes
+
+but was less in 40 year duration lakes than both fishless and 3 year
+
+duration lakes. Average species richness became reduced within
+
+3 years after fish introduction (i.e., significant difference between
+
+fishless and 3 year duration lakes) and remained low in 40 year
+
+duration lakes (Table 3). Five of six fishless bioindicator taxa
+
+(G. liberus, Dineutus spp., Callicorixa spp., C. americanus, N. insulata)
+
+were present in at least two fishless lakes and were absent from
+
+3 year duration and 40 year duration lakes. 
+
+
+xdiscussion
+ Macroinvertebrate communities in historically fishless headwater
+
+and kettle lakes were altered dramatically by introduced fish,
+
+with rarefaction and elimination of several taxa. Our results agree
+
+with previous studies of effects of introduced fish on macroinvertebrates
+
+in historically fishless headwater lakes stocked with trout
+
+(Luecke, 1990; Liss et al., 1995; Bradford et al., 1998; Carlisle and
+
+Hawkins, 1998; Knapp et al., 2001, 2005). We also demonstrate
+
+negative effects of introduced fish on macroinvertebrate diversity
+
+and abundance in kettle lakes stocked with a variety of fish species.
+
+Kettle lakes are distributed throughout formerly glaciated regions
+
+of North America, and many of these are affected by anthropogenic
+
+activities. It is likely that the most hydrologically isolated kettle
+
+lakes, such as those that completely lack surface water connections
+
+even at high water, formerly were fishless. Anthropogenic methods
+
+for introducing fish may vary regionally (angler and/or state initiated
+
+stocking in northeastern lakes; anthropogenic-induced connectivity
+
+via surface ditching in Midwestern lakes (Hanson et al.,
+
+2005)), however, the negative effects of introduced fish on native
+
+communities likely are similar.
+
+Fishless kettle and headwater lakes support similar macroinvertebrate
+
+communities, despite differences in lake physical characteristics
+
+(i.e., elevation, pH, habitat structure; Schilling et al.,
+
+2009). Both lake types support taxonomically-rich macroinvertebrate
+
+communities, with abundant populations of large-bodied, active,
+
+conspicuous invertebrates (Schilling et al., 2009). Although
+
+the pre-stocking faunal composition of kettle and headwater lakes
+
+is similar, our results showed that macroinvertebrate communities
+
+in stocked headwater lakes deviated more from the original fishless
+
+condition than in stocked kettle lakes, with long term repetitive
+
+stocking exacerbating predatory effects. Stocked headwater
+
+lakes had greatly reduced abundances of taxa that characterize
+
+fishless lake macroinvertebrate communities (e.g., Notonectidae,
+
+Corixidae, Dytiscidae, Aeshnidae, Libellulidae, Chaoboridae), with
+
+some taxa eliminated completely (e.g., fishless bioindicator taxa)
+
+soon after stocking occurs. Fewer of these taxa were affected by
+
+introduced fish in kettle lakes (Table 2). It should be noted that our sampling methods targeted free-swimming macroinvertebrates,
+
+thus under-representing other subsets of the community
+
+(e.g., organisms associated with benthic sediments) that may or
+
+may not be preyed upon by fish. It is possible that some taxa were
+
+unaffected or possibly benefitted from fish introductions (via release
+
+in predation by predatory invertebrates). Future studies
+
+would benefit from incorporating multiple sampling techniques
+
+to accurately represent the full suite of taxa inhabiting the lakes.
+
+Below we discuss three non-mutually exclusive hypotheses that
+
+may explain the strong effect of introduced trout in our headwater
+
+study lakes. First, the insularity of headwater lakes may limit macroinvertebrate
+
+dispersal, resulting in local adaptation and inability
+
+to respond when fish are introduced. Second, headwater fishless
+
+lakes are structurally simple systems compared with kettle lakes
+
+and thus lack refugia that might reduce invertebrate vulnerability
+
+to fish predation. Finally, repeatedly stocking trout in headwater
+
+lakes may exacerbate their effects on native fauna. Although this
+
+study was not designed to test these hypotheses future research
+
+will benefit from the questions raised by discussing them. Strong effects of trout in headwater lakes may be due to the
+
+inability of macroinvertebrate prey to respond appropriately to
+
+predators with which they do not naturally coexist (McPeek,
+
+1990; Stoks et al., 2003). While studies have found avoidance responses
+
+to fish by invertebrate prey in fishless streams (Tikkanen
+
+et al., 1996; McIntosh and Peckarsky, 1999), invertebrates may
+
+be less responsive to changes in predator regimes in headwater
+
+lakes. Aerial dispersal of adults between fishless and fish-containing
+
+streams may be key to maintaining flexible predator avoidance
+
+behavior (Tikkanen et al., 1996). When invertebrate dispersal is
+
+limited, however, flexible avoidance behaviors may be lost as consecutive
+
+generations of potential prey experience the same predation
+
+regime (Abjornsson et al., 2004). Although many of the taxa
+
+affected by fish introductions in headwater lakes have winged
+
+adult stages, headwater lakes occupy cirques in constrained basins
+
+where topographic barriers and disjunction from wetlands (Schilling
+
+et al., 2008) may impede dispersal to habitats containing fish.
+
+Limited dispersal would result in local adaptation and the inability
+
+to respond when fish are introduced. Structural complexity created by submergent vegetation can
+
+weaken the topñdown effects of fish on macroinvertebrates (Crowder
+
+and Cooper, 1982; Gilinsky, 1984; Diehl, 1992; Carlisle and
+
+Hawkins, 1998; Wissinger et al., 2006). Therefore, stronger effects
+
+of fish on prey communities in headwater lakes with simple habitat
+
+structure, and weaker effects in kettle lakes with complex habitat
+
+structure should be anticipated. Extensive littoral and benthic
+
+sphagnum mats typical of kettle lakes likely provide macroinvertebrates
+
+refuge from fish predation (Henrikson, 1993). Our results
+
+are consistent with studies in western North America that document
+
+the effectiveness of introduced trout as littoral predators in
+
+historically fishless high-elevation lakes with simple habitat structure
+
+compared to lower elevation sites with more complex habitat
+
+structure (Knapp et al., 2005). Repeated stocking is more common in headwater than kettle
+
+lakes. Most introduced fish populations in kettle lakes are naturalized
+
+and not supplemented by additional stocking. The majority of
+
+headwater lakes are stocked annually with brook trout, based on
+
+the assumption that winterkills and lack of suitable spawning habitat
+
+prevent fish from persisting in these lakes. These lakes are not
+
+re-surveyed before annual stocking, so over-winter survival and
+
+spawning of stocked fish is unknown. Similar assumptions commonly
+
+are made by fisheries managers throughout the western
+
+USA and often result in frequent stocking of self-sustaining trout
+
+populations (Armstrong and Knapp, 2004). Because predation pressure
+
+increases with fish density (Pierce and Hinrichs, 1997), regularly
+
+stocking lakes that also may have reproducing trout
+
+populations likely intensifies the effects on native fauna. Continual
+
+stocking of trout in high-elevation lakes exacerbates their effect on
+
+ecosystem processes (Schindler et al., 2001), and historically fishless
+
+lakes with greater densities of introduced trout exhibit stronger
+
+negative effects of fish predation on native macroinvertebrates
+
+than lakes with lower fish densities (Knapp et al., 2005). Thus,
+
+greater fish densities in regularly stocked lakes may explain the
+
+stronger effect of introduced fish in headwater lakes than kettle
+
+lakes, despite greater fish species richness in kettle lakes.
+
+The longer a headwater fishless lake in Maine is repeatedly
+
+stocked, the more dramatic the effects on native fauna. Fishless
+
+bioindicators were not present in headwater lakes after only
+
+3 years of stocking. The most pronounced effects of stocked fish
+
+on native macroinvertebrates, in terms of reductions in abundance
+
+and elimination of taxa, however, were observed in lakes with long
+
+stocking histories. The largest, most conspicuous macroinvertebrates
+
+are affected quickly by fish, whereas others are affected
+
+more gradually as fish become more food-limited. Thus, macroinvertebrate
+
+communities are perturbed soon after fishless lakes
+
+are stocked for the first time, and continued stocking exacerbates
+
+the original effects (see also Schindler et al., 2001). Fishless lakes support unique macroinvertebrate communities
+
+and play a critical role in maintaining aquatic biodiversity across
+
+the landscape (Knapp et al., 2001; Stoks and McPeek, 2003; Schilling
+
+et al., 2009). Our study demonstrates the deleterious effects of
+
+introduced fish on these increasingly rare freshwater ecosystems
+
+and shows that communities in headwater lakes with long stocking
+
+histories are particularly vulnerable. The potential for recovery
+
+of native faunal assemblages likely declines the longer fish are
+
+present and the more widespread the spatial extent of stocking
+
+due to loss of proximate recolonization opportunities (Bradford
+
+et al., 1993). Given the declining number of these aquatic ecosystems
+
+throughout northeastern North America (Schilling et al.,
+
+2008) and elsewhere (Donald, 1987; Bahls, 1992; Pister, 2001; Denoel
+
+et al., 2005) and their role in maintaining biodiversity, we suggest
+
+that historically fishless lakes be prioritized for conservation
+
+and restoration. Knowing that introduced fish rapidly (within
+
+3 years) affect headwater lake communities and recognizing that
+
+the geographic isolation of headwater lakes could limit community
+
+recovery once fish are introduced, currently fishless headwater
+
+lakes might be proactively protected from future fish introductions.
+
+These lakes may be more easily protected than fishless kettle
+
+lakes which are found at lower elevations and are more accessible
+
+to humans. Conservation planning for naturally fishless lakes in
+
+eastern North America lags behind that in western North America
+
+where restoring stocked fishless lakes serves as a model for recovery
+
+of these systems (Milliron, 1999; Hoffman et al., 2004; Yosemite
+
+National Park, 2006; Bunn et al., 2007; Knapp et al., 2007). A key
+
+obstacle in protecting these habitats is that agencies responsible
+
+for their conservation often also are charged with providing public
+
+angling opportunities by maintaining and expanding fish stocking.
+
+We suggest that agencies resolve these conflicting management
+
+goals and adopt strategies that protect these unique and increasingly
+
+rare ecosystems.

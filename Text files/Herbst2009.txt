@@ -1,0 +1,913 @@
+xabstract
+
+
+1. Non-native trout have been stocked in streams and lakes worldwide largely without
+knowledge of the consequences for native ecosystems. Although trout have been
+introduced widely throughout the Sierra Nevada of California, U.S.A., fishless streams and
+their communities of native invertebrates persist in some high elevation areas, providing
+an opportunity to study the effects of trout introductions on natural fishless stream
+communities.
+2. We compared algal biomass and cover, organic matter levels and invertebrate
+assemblages in 21 natural fishless headwater streams with 21 paired nearby streams
+containing stocked trout in Yosemite National Park.
+3. Although environmental conditions and particulate organic matter levels did not differ
+between the fishless and trout streams, algal biomass (as chlorophyll a concentration) and
+macroalgal cover were, on average, approximately two times and five times higher,
+respectively, in streams containing trout.
+4. There were no differences in the overall densities of invertebrates in fishless versus
+paired trout streams; however, invertebrate richness (after rarefaction), evenness, and
+Simpson and Shannon diversities were 10ñ20% higher in fishless than in trout streams.
+5. The densities of invertebrates belonging to the scraper-algivore and predator functional
+feeding guilds were higher, and those for the collector-gatherer guild lower, in fishless
+than trout streams, but there was considerable variation in the effects of trout on specific
+taxa within functional feeding groups.
+6. We found that the densities of 10 of 50 common native invertebrate taxa (found in
+more than half of the stream pairs) were reduced in trout compared to fishless streams.
+A similar number of rarer taxa also were absent or less abundant in the presence of trout.
+Many of the taxa that declined with trout were conspicuous forms (by size and behaviour)
+whose native habitats are primarily high elevation montane streams above the original
+range of trout.
+7. Only a few taxa increased in the presence of trout, possibly benefiting from reductions in
+their competitors and predators by trout predation.
+8. These field studies provide catchment-scale evidence showing the selective influence of
+introduced trout on stream invertebrate and algal communities. Removal of trout from
+
+ targeted headwater streams may promote the recovery of native taxa, community
+structure and trophic organisation.
+
+xintroduction
+
+Although predators are known to have profound
+effects on the densities, distributions and behaviours
+of many prey species, others appear to be unaffected.
+Questions about how and why the influence of
+predation varies in regulating the population dynamics
+and community structure of prey have led to an
+increasing research focus on the factors and circumstances
+which determine predator impacts (PI) on
+different prey taxa, and on the trophic organisation of
+different ecosystems (Sih et al., 1985; Shurin et al.,
+2002; Englund & Cooper, 2003).
+Among the most widespread predators in coldwater
+streams are salmonid fishes, particularly trout in
+the genera Salmo, Salvelinus and Oncorhynchus, which
+have been introduced to streams and rivers around the
+world (MacCrimmon, 1971; Crowl, Townsend &
+McIntosh, 1992; Moyle & Cech, 1996; McDowall,
+2006). The ecological roles of native and exotic trout
+have been studied in a variety of settings at differing
+spatial scales in streams, and study results have
+ranged from no effects to large impacts on invertebrate
+and algal abundances (Allan, 1982; Harvey, 1993;
+Wootton & Power, 1993; Diehl et al., 2000; Nystro®m,
+McIntosh & Winterbourn, 2003; McIntosh, Peckarsky
+& Taylor, 2004). Because of these mixed results,
+scientists have continued to examine how trout affect
+lower trophic levels in streams in different regions, to
+determine if any generalities about the factors influencing
+trout impacts on prey, and their preyís food,
+can be derived (Meissner & Muotka, 2006).
+Historically, river drainages above waterfall barriers
+(typically above 1800 m elevation) in the Sierra
+Nevada of California lacked fish; with extensive fish
+stocking, however, 90% of Sierra Nevada streams
+outside of the National Parks, and 60% inside the
+Parks, currently contain introduced trout populations
+(Moyle, Yoshiyama & Knapp, 1996a). Although recent
+studies have shown substantial impacts of introduced
+trout on zooplankton, benthic invertebrate and
+amphibian communities in Sierran lakes (Stoddard,
+1987; Bradford et al., 1998; Knapp et al., 2005), the
+effects of trout on Sierran stream communities are
+unknown. Most high elevation streams in the Sierra
+lack native vertebrate species, so stream communities
+are dominated by benthic invertebrates which play
+central roles in food webs, show high levels of
+endemism (e.g. 25% of stonefly and 19% of caddisfly
+species; Erman, 1996), and act as sensitive indicators
+of environmental change (Herbst, 2004). The objectives
+of our research, then, were to compare algal
+biomass and cover, particulate organic matter levels,
+and the structure and diversity of benthic invertebrate
+communities in fishless headwater streams to those in
+paired, nearby, historically fishless streams now
+containing introduced trout. Because we did not
+manipulate trout directly, we matched environmental
+conditions between trout and fishless stream pairs as
+closely as possible to minimise the effects of confounding
+variables that could alter or obscure relationships
+between response variables and trout
+presence. We hypothesised that trout streams would
+have a lower diversity of native invertebrates, altered
+community and trophic structure, and elevated algal
+biomass compared to fishless streams. By generating
+data on introduced trout impacts, our results also
+provide recommendations for the management of
+native biodiversity and stream ecosystems in the
+Sierra Nevada.
+
+xmethods
+
+Because trout have been stocked extensively in high
+altitude lakes and streams throughout the Sierra
+Nevada, few streams exist in their original, fishless
+state. To select study sites we first surveyed more than
+100 headwater streams that we thought lacked trout
+based, in part, on information on trout distributions in
+Yosemite National Park (L. Marnell, unpubl. data).
+From these surveys, we found 68 fishless streams and
+selected 21 for detailed study. From topographic
+ maps, we then identified nearby candidate trout
+streams for pairing with these 21 fishless streams
+based on stream elevation, catchment aspect and area,
+location within the catchment, and proximity to the
+paired fishless streams (Table 1). These small headwater
+streams (first and second order) were shallow,
+open and very clear, permitting unobstructed views
+for confirming the presence or absence of fish.
+Further, most of these streams were not exposed to
+fishing or other human disturbances, so trout usually
+continued normal behaviour during observations. We
+located possible physical barriers (waterfalls and
+steep cascades) to trout migration on each fishless
+stream, then verified through visual observations that
+trout were found below but not above these barriers
+(i.e. habitat was appropriate but trout entry was
+blocked) Surveys were conducted in early July through late
+September of the summers of 2000 and 2001, and all
+our paired sites were exposed to the same antecedent
+weather because they were always sampled within 1ñ
+2 days of each other. Stream sites ranged in elevation
+from 1348 to 3165 m, and were dispersed throughout
+the upper catchments of both the Merced and Tuolumne
+Rivers, the major drainages of Yosemite National
+Park.
+At the upstream end of each 150-m study reach, we
+measured stream pH, temperature and conductivity
+using an Oakton model pH /Con10 meter (Oakton
+Instruments, Vernon Hills, IL, U.S.A.), and alkalinity
+with a LaMotte titration kit (LaMotte Company,
+Chestertown, MD, U.S.A.). Water samples were taken
+for analysis of turbidity and, after filtration through
+GF /F filters and filtrate acidification, nutrient chemistry.
+Physical and biological habitat features, including
+water depth, substrata particle sizes and the presence
+or absence of macroalgae, were measured at three
+equally spaced points across the wetted width of each
+stream at each of 10 transects spaced at 15-m intervals
+along the reach, beginning at the lowest end and
+continuing upstream (for a total of 30 point-intercept
+observations per reach, encompassing both riffle and
+pool habitats). Riparian canopy cover was measured at
+the left bank, at the channel center upstream and
+downstream, and at the right bank using a concave
+densiometer (Platts et al., 1987). Maximum stream
+depth was the deepest point recorded among all deep
+pools in a study reach. Stream gradient was measured
+with a clinometer over six 25-m intervals in each 150-m
+reach, latitude and longitude were recorded using a
+GPS unit, and the elevation of each reach was
+determined from USGS topographic maps.
+Invertebrate samples were taken with a D-frame
+kick net (250 lm mesh, 30 cm opening, 0.093 m2
+sample area) from five riffles and five pools in each
+reach. We combined three samples from each riffle
+into a composite sample, giving 15 total riffle samples
+from each reach, whereas one sample was taken from
+each pool, for a total of 20 samples per study reach
+(c. 1.9 m2). At each riffle sampling point, the bottom of
+the net frame was placed against the stream bottom
+and surface substrata within a 30 cm square area
+above the net were lifted, turned, and rubbed by
+hand, with dislodged invertebrates and organic material
+being swept into the net by currents. The length of
+the net bag (50 cm), and the typically narrow, shallow
+and swift stream conditions insured efficient collection
+with little loss of dislodged materials around the
+sides of the net or from back-wash. In pools, this
+process was aided by hand sweeping stirred materials
+into the net, as well as by sweeping the net through
+dislodged matter in the water column. Sample materials
+were placed in a small bucket, then repeatedly
+elutriated and filtered through a 100 lm mesh net,
+until all light material was removed, and preserved
+and stored in 95% ethanol. Remaining gravel and
+sand in elutriated samples was inspected for heavy
+taxa, such as cased caddisflies and molluscs, which
+were removed and added to storage bottles.
+Each coarse particulate organic matter (CPOM) and
+fine particulate organic matter (FPOM) sample
+consisted of three combined D-frame net collections,
+as for invertebrate samples, and were taken from each
+of three riffles in the lower, middle and upper 50 m of
+each sampling reach (total area per reach sampled = c.
+0.85 m2). All material collected in the 250 lm mesh
+net was washed into a small bucket, repeatedly
+elutriated to separate gravel and sand from organic
+material, then filtered through a 1 mm mesh net. After
+removal of large invertebrates from the 1 mm mesh
+collection, the CPOM (á1 mm) material remaining in
+the net was blotted to remove excess water then
+weighed on a small Pesola scale (wet mass). The
+FPOM passing through the 1 mm mesh into a bucket
+was filtered through a 100 lm net after removal of
+conspicuous invertebrates, transferred to a storage
+vial, and preserved with 4% buffered formalin to
+prevent microbial degradation.
+Epilithic algae samples were taken from three
+cobbles in each stream, with one cobble collected in
+the center of each of three, separate riffles, avoiding
+locations already sampled for POM or invertebrates.
+Each cobble was removed to a pan containing water,
+brushed with a nylon brush, and rinsed, then suspended
+material was stirred and passed through a
+fine net (100 lm) into a graduated cylinder with any
+macroalgae retained in the net being added to the
+cylinder. The total volume of the filtered suspension
+was recorded, then homogenised by repeated suction
+and expulsion using a 60 mL syringe, and a subsample
+filtered through a pre-weighed glass fibre
+filter (GF /F). The filtered material was protected from
+microbial degradation with a drop of buffered formalin
+and the filter then folded into aluminium foil to
+prevent exposure to light, and stored in an ice chest
+(usually not more than 1 day) before storage in a
+freezer. The length, width, height and circumference
+of each sampled cobble were recorded to obtain a
+measure of the upper cobble surface area so that areal
+chlorophyll concentration could be calculated.
+All field survey and sample processing methods
+were identical across all of the stream sites surveyed,
+insuring that the values of all response variables could
+be rigorously compared between paired streams. The ash-free dry mass (AFDM) of FPOM was determined
+by drying FPOM samples overnight at 75 C,
+then measuring the weight lost from these samples after 3 h at 550 C in a muffle furnace. Chlorophyll
+a concentration was measured on a Turner Model No.
+110 Fluorometer using a 90% ethanol extraction
+method (Sartory & Grobbelaar, 1984). We measured
+soluble reactive phosphorus (SRP) using the ammonium
+molybdate method, nitrateñnitrite (NO3 + NO2)
+using the cadmium reduction column method, and
+ammonia (NH3) using the phenol-hypochlorite method
+for each of the duplicate samples from each stream
+(American Public Health Association (APHA), American
+Water Works Association and Water Environment
+Federation, 1992). Turbidity was measured on
+an Orbeco-Hellige Model 966 Turbidimeter (OrbecoHellige
+Inc., Sarasota, FL, U.S.A.).
+Random subsamples of macroinvertebrates were
+obtained using a Folsom plankton splitter so that 300ñ
+1000 organisms were identified and counted in each
+subsample. Invertebrates were identified to the lowest
+practical taxonomic level, usually genus or species,
+although some taxa represented coarser levels of
+taxonomic resolution. We also searched the unprocessed
+remnant of each entire sample for large and /or
+rare taxa that did not occur in the processed
+subsample and single specimens of these taxa were
+included in the count.
+The length and gradient of the upstream catchment
+were estimated for each stream site based on USGS
+topographic maps (1 : 24 000 scale). The cumulative
+length of perennial streams above each site (upstream
+length) was measured as the sum of the lengths of the
+main stem and all perennial tributaries upstream of
+the sampled reach. The average gradient of perennial
+streams in the catchment (upstream gradient) above
+each study site was measured as the summed elevation
+gains of the main stem and all tributaries
+upstream to the headwater origins divided by total
+upstream length.
+Mean values of environmental variables (e.g. nutrient
+concentrations, physical characteristics, canopy cover)
+were used to characterise conditions in each stream
+reach. We calculated invertebrate densities based on
+the fraction of each sample that was sorted and the
+bottom area sampled, and used mean densities for
+each invertebrate taxon from each stream reach as the
+replicates in statistical analyses. The final mean
+densities for each study reach were obtained by
+averaging density estimates for the five composite
+riffle samples and five pool samples, equalising the
+representation of riffle and pool habitats so that there
+was no geomorphic bias when comparing paired sites.
+Although they usually did not affect conclusions,
+some pool-riffle differences are presented in more
+detail later in this paper. We used paired t-tests to
+compare values for most environmental variables in
+fishless versus paired trout streams and paired
+Wilcoxon signed-rank tests for comparing biological
+response variables across paired streams (community
+metrics, algae and detrital resources, and densities of
+50 ëcommoní invertebrate taxa). We used the
+Wilcoxon signed-rank test for biological data because
+transformation did not meet parametric assumptions
+and could not be applied to the positive and negative
+values found for paired differences in taxa densities
+between trout and fishless streams. Although sacrificing
+quantitative information, this test could be
+applied uniformly across all common taxa and was
+statistically appropriate for the paired study design.
+We defined ëcommoní as invertebrate taxa having a
+mean relative abundance across all streams greater
+than 0.1% and/or which were present in at least half
+of the stream pairs sampled (11 or more of the 21
+pairs). Community and resource metrics included the
+biomass of benthic algae (measured as chlorophyll a
+concentration), macroalgal cover, levels of CPOM and
+FPOM, the total densities (with and without Chironomidae),
+richness [standardised via rarefaction using
+Hurlbertís (1971) formulae], evenness (Pielou, 1966),
+and Simpson and Shannon diversities of invertebrates,
+and densities of invertebrate functional
+feeding groups. We assigned invertebrate taxa to
+grazer-scraper, predator (not including water mites
+and ceratopogonids which were classified as micropredators),
+filterer, shredder and collector-gatherer
+functional feeding groups based on the designations
+in Merritt, Cummins & Berg (2008), but excluding
+undifferentiated Chironomidae because of their possible
+assignment to multiple functional groups.
+We used both absolute and/or relative differences in
+invertebrate and functional feeding group (FFG)
+densities, and algal biomass, between fishless and trout
+streams as indicators of trout impacts. Absolute differences
+provide a measure of changes in invertebrate taxa
+or functional feeding group densities in response to
+trout presence, whereas the log ratio of invertebrate or
+functional feeding group density in trout versus fishless streams (i.e. ln[(x + 1)trout /(x + 1)no trout])
+provides a standardised index of proportionate trout
+effects on response variables, has a variety of desirable
+statistical properties, and can be related to an extensive
+theoretical and empirical literature on predator
+effects on prey populations (Hedges, Gurevitch &
+Curtis, 1999; Osenberg et al., 1999). These measures
+of cascade strength (for resources) and PI (for
+invertebrate taxa) were calculated for each stream
+pair where the resource or taxon was found, and
+means (±2 SEs, c. confidence interval) were calculated
+from these families of values from paired streams.
+Differences in the structure (i.e. taxonomic composition
+and relative abundances of component taxa) of
+invertebrate assemblages between trout and troutless
+streams also were examined using Non-metric multidimensional
+scaling (NMDS, Sammonís algorithm
+implemented in S-Plus; Insightful Corp, 2001), which
+displayed relationships among streams in two-dimensional
+space based on stream-to-stream similarities in
+invertebrate assemblages. We calculated BrayñCurtis
+distances between all pairs of streams using relative
+abundance data for all taxa collected at each site. The
+BrayñCurtis metric provides linear increases in
+weighting as the relative abundances of component
+species increase and performs as well or better than
+comparable similarity measures in capturing simulated
+ecological patterns when used with proportional
+data (Faith, Minchin & Belbin, 1987).
+
+xresults
+
+
+
+All physical, chemical and geomorphic variables were
+similar in fishless and trout streams (Table 2). The close
+matching of environmental conditions in fishless and
+trout streams was apparent both when comparing the
+range and mean values of habitat variables over all trout
+to all fishless streams as well as when examining the
+differences between paired trout and fishless streams.
+Algal biomass (measured as chlorophyll a concentration)
+and macroalgal cover were significantly greater in streams with introduced trout than in paired
+fishless streams (Fig. 1). Algal biomass was typically
+57% (median) to 98% (mean) higher in trout than
+fishless streams, and macroalgae cover increased from
+an average of 4% in fishless streams to 22% in trout
+streams, primarily owing to five stream pairs where
+macroalgal cover was 0% in the fishless streams and
+40ñ80% in the paired trout streams. There were no
+significant differences in FPOM or CPOM levels
+between fishless and paired trout streams (Fig. 1).
+We collected 171 invertebrate taxa across all streams
+in this study, and have amalgamated those into 109
+taxa because an individual taxon dominated a group
+or because some taxa within a group could not be
+easily distinguished (Tables 3 & 4). Of these 109 taxa,
+50 were designated as ëcommoní and another 32 were
+designated as ëuncommoní (occurring in 3ñ10 stream
+pairs and at a relative abundance of <0.1%). The
+results for the remaining 27 rare taxa, with the
+exception of one taxon of special interest (i.e.
+Edmundsius agilis), are not treated in this paper.
+The total abundance of invertebrates (excluding and
+including the numerically dominant but small Chironomidae)
+was similar in trout and troutless streams
+(Fig. 2a). Community evenness, taxa richness (standardised
+via rarefaction), and Simpson and Shannon
+diversities, however, were significantly lower in
+streams with than without introduced trout.
+Although other analyses indicated that portions of
+the invertebrate community were altered by trout (see
+below), multivariate ordination of the full invertebrate
+assemblage data (excluding Chironomidae, which
+were identified to family) revealed no clear patterns
+in the distribution of fishless and trout streams in twodimensional
+ordination space (Fig. 3, stress = 0.09;
+ordination similar with Chironomidae included).
+Paired Wilcoxon signed-rank tests on NMDS axis
+scores for trout versus paired fishless streams provided
+little evidence that this pattern was nonrandom
+(P = 0.22 for axis 1, P = 0.16 for axis 2). In
+general, fishlessñtrout stream pairs were neither closer
+together (more similar) or further apart from one
+another than they were to other streams.
+In contrast to the multivariate results, the abundances
+of some functional feeding groups appeared to
+be affected by trout presence (Fig. 2b). The abundances
+of invertebrate grazer/ scrapers and predators
+were reduced, the densities of filterers and shredders
+were relatively unaffected, and the abundances of
+collector-gatherers were elevated in the presence
+versus absence of trout (Fig. 2b).
+Although the densities of several functional feeding
+groups were different in trout versus fishless streams,
+we also found substantial variation in the responses of
+individual taxa to trout presence, even within a
+functional feeding group. Densities of seven common
+invertebrate taxa consistently declined from fishless to
+trout streams across all but one or two stream pairs
+(Table 3). These seven common taxa included one mayfly (Ameletus), two Perlidae stoneflies (Doroneuria
+baumanni and Hesperoperla), three cased caddisflies
+(Anagapetus, Yphria californica and Neothremma) and
+one non-insect taxon (Tricladida flatworms). For three
+of these invertebrate taxa (Ameletus, Doroneuria baumanni
+and Tricladida flatworms), declines in abundance
+from fishless to fish streams were highly
+significant (P < 0.001), falling below Bonferroni correction
+thresholds for statistical significance (i.e.
+0.05 /50 = 0.001 for the 50 ëcommoní taxa evaluated
+statistically). For the remaining four of these seven
+taxa, P-values for statistical tests fell between 0.05 and
+0.001, providing strong evidence that patterns were
+non-random. Large declines from fishless to trout
+streams (and P-values <0.05) also were observed for
+the mayfly Paraleptophlebia, the net-spinning caddisfly
+family Hydropsychidae (mostly Parapsyche), and the
+dipteran Dixa, whereas nymphs of the mayfly Centroptilum
+were one of the few taxa found to be more
+abundant in trout streams compared to paired fishless
+streams. There were suggestive differences in densities
+for a number of other taxa between trout and
+paired fishless streams, including the Chironomidae
+being higher (P = 0.10, Table 3) and the caddisfly
+Cryptochia being lower (P = 0.08, Table 3), in trout
+compared to paired troutless streams.
+We note, however, that statistical power was insuf-
+ficient to detect potential trout effects in a number of
+these tests because of high variability in the difference
+estimates among stream pairs. Even relatively large
+differences between fishless and paired trout streams
+did not always provide strong (P < 0.05) statistical
+evidence that patterns were non-random, and test
+power was drastically reduced by the application of
+Bonferroni corrections (Gotelli & Ellison, 2004). For
+example, the median difference between trout and
+troutless streams for Chironomidae abundance translates
+to a 45% increase in this group in trout streams,
+but the results of the Wilcoxon signed-rank test did not
+meet either a simple (a = 0.05) or comparison-wise
+adjusted error rate (a = 0.001, Bonferroni correction)
+for rejecting the null hypothesis of no effect. Although
+post hoc power analyses have critical limitations for
+evaluating the statistical power of such tests (Hoenig
+and Heisey 2001), confidence intervals around the PI
+index (Table 3) not only corroborated results obtained
+from the Wilcoxon signed rank test, but also suggested
+additional cases (where the confidence limits for PI
+values barely overlap zero) of trout effects where the
+tests were equivocal (e.g. increased Chironomidae and
+Simuliidae, and depleted Heptageniidae). Our data,
+therefore, cannot conclusively identify the full suite of
+taxa affected by trout introductions, but instead
+highlight the largest and most consistent differences
+associated with trout presence versus absence.
+Consistent increases or decreases in the densities of
+10 uncommon invertebrate taxa also were observed
+(Table 4). Because we collected limited numbers of
+individuals of these taxa (range of 7ñ139 total individuals
+for each of these taxa) in less than half of the
+stream pairs, the reliability of density estimates was
+poor and the power of statistical tests was very low, so
+we did not conduct statistical tests on these taxa. The
+dobsonfly Dysmicohermes ingens, the cranefly Hesperoconopa,
+the two Dytiscidae beetle genera with the
+largest body sizes, Agabus and Agabinus, and the water
+boatman Graptocorixa californica were all found only in
+fishless streams (4ñ6 streams), and the mayfly Attenella
+delantala, the stonefly Moselia infuscata, and the
+cased caddisfly Neophylax were found almost entirely
+in fishless streams, with these results being generally
+corroborated by the analyses of PI values and their
+associated confidence intervals (Table 4). We note,
+too, that two other species in the water boatman
+family Corixidae, Cenocorixa wileyae and Hesperocorixa
+sp., were found in only one fishless stream each. In
+contrast, the caddisfly Glossosoma was found almost
+exclusively in trout streams. Finally, we collected the
+large siphlonurid mayfly, Edmundsius agilis, from only
+two fishless streams. A detailed study of the distribution
+of this mayfly showed that this endemic
+species is currently confined to a limited number of
+fishless headwater streams in the Sierra Nevada and is
+almost never found with trout (Silldorff, 2003). Hence,
+the distribution and abundance patterns of these other
+uncommon invertebrates may also indicate relationships
+with trout distributions.
+Although we found relationships between trout
+presence and the densities of the taxa noted above,
+most of the common taxa showed no density differences
+between fishless and trout streams (Table 3).
+Among other abundant invertebrates, the Baetis-group
+mayflies, the mayflies Serratella and Caudatella, the
+predatory stonefly Calineuria californica (family Perlidae),
+the predatory stonefly family Perlodidae (mostly
+Isoperla and Cultus), the shredder stonefly families
+Nemouridae (mostly Zapada) and Capniidae, the
+predatory caddisfly genus Rhyacophila (pooled species
+groups), the grazing caddisfly Micrasema, the dipterans
+Bezzia, Hexatoma, Chelifera, and Dicranota, oligochaetes,
+and water mites (Acari) all showed no
+differences in density or frequency of occurrence
+between fishless and trout streams.
+In summary, densities of the grazer and predator
+guilds, and of 20% of the common taxa (10 of 50),
+were reduced in the presence of trout, whereas the collector guild and one taxon increased in the presence
+of trout (Table 3). Two other common taxa
+showed suggestive differences in density between
+trout and fishless streams (P £ 0.10) but interpretation
+of statistical results for many common taxa was
+compromised by the low power of statistical tests. In
+addition, nine uncommon taxa were absent or much
+less abundant in the presence of fish and one
+uncommon taxon was found predominately in trout
+streams (Table 4).
+xdiscussion
+
+We used a paired trout versus fishless stream
+sampling design to examine relationships between
+non-native trout introductions and the distributions
+and abundances of invertebrates and algae in historically
+fishless Sierra Nevada streams. We used this
+design because we wanted to focus on the large
+stream-to-stream scales where introduced species
+have impacts on recipient communities and populations,
+which encompass the range of environmental
+variation (e.g. pools and riffles) found within natural
+stream reaches, and which represent the scales of
+interest to managers and policy makers. Although
+direct inference at these large scales is difficult
+because of high stream-to-stream variation and the
+difficulty or impossibility of directly manipulating
+introduced species, these problems are mitigated by
+the matched pair design of this study which greatly
+reduced or eliminated the influence of potentially
+confounding variables. While there were no differences
+in the values of measured physicochemical
+variables in trout versus paired fishless streams, it is
+possible that an unmeasured variable may have
+differed between these stream types; however, we
+measured most factors known to influence invertebrate
+and algal assemblages, including nutrients,
+organic matter, substrata, habitat refuges, riparian
+cover, stream size, depth, temperature, water chemistry,
+elevation and stream gradient (Allan, 1995;
+Giller & Malmqvist, 1998), and found no consistent
+differences in the values of these variables between
+trout and fishless stream pairs. The results therefore
+indicate that non-native trout alter invertebrate community
+structure in historically fishless mountain
+streams by: (i) reducing the abundances of certain
+large and /or epibenthic taxa, (ii) producing an
+increase in periphyton standing stock and cover, and
+(iii) changing trophic relations by reducing grazers
+and large invertebrate predators and increasing
+collector-gatherers.Even though we observed large changes in the
+distributions and abundances of some stream invertebrate
+taxa associated with trout introductions in
+Sierra Nevada streams, the densities of total invertebrates
+and many common stream invertebrate taxa
+were not different between fishless and trout streams,
+generally corroborating results reported by other
+studies (Allan, 1982; Reice & Edwards, 1986; Reice,
+1991; but see Flecker & Townsend, 1994). Although
+invertebrate community evenness and diversity indices
+were greater in fishless than trout streams, these
+results were primarily attributable to the increased
+relative abundance of the dominant Chironomidae in
+trout streams, with little change in the relative
+abundances of the majority of remaining invertebrate
+taxa. Though the decrease in richness was small
+(<10%), trout streams did contain significantly fewer
+taxa than fishless streams (Fig. 2). Across all streams,
+154 taxa were collected from fishless sites and 142
+from trout sites, with taxa missing from trout streams
+largely being conspicuous forms (e.g. Edmundsius,
+Dysmicohermes, Agabus, Agabinus, Chyranda, Graptocorixa).
+Multivariate analyses showed little difference in
+invertebrate community structure between fishless
+and trout streams, despite our observation that the
+densities of a substantial fraction of common taxa
+(20%) showed significant declines in the presence of
+trout. Exclusion of the Chironomidae in multivariate
+analyses and weighting of these analyses towards taxa
+with high relative abundances may explain the lack of
+clear multivariate responses to trout because we
+found that trout effects were concentrated on large
+or epibenthic taxa with low to moderate relative
+abundances (see Tables 3 & 4).
+Our results, however, did show relationships
+between the abundances of different functional feeding
+groups and the presence versus absence of trout.
+Densities of invertebrate predators were reduced and
+collector-gatherers increased in the presence of trout,
+similar to results reported by Nystro®m et al. (2003)
+and Meissner & Muotka (2006). In addition, we found
+1336 D. B. Herbst et al.
+ 2009 Blackwell Publishing Ltd, Freshwater Biology, 54, 1324ñ1342
+that grazers were more abundant in fishless than trout
+streams, but that shredders were relatively unaffected
+by trout presence (but see Nystro®m et al., 2003). The
+invertebrate taxa in the grazer functional feeding
+guild which were reduced by trout were primarily
+large mayfly and active caddisfly grazers, consistent
+with the results of other studies (McIntosh, 2002;
+Nystro®m et al., 2003).
+Although trout can have complex direct and indirect
+effects on stream invertebrate assemblages, comparisons
+of our results with literature data indicate that
+some generalities may emerge. As expected with
+visual, size-selective predators, trout reduced or
+eliminated many large, active and exposed (i.e.
+conspicuous) stream invertebrates, including large,
+predatory dytiscid beetles, water boatmen, dobson-
+flies, predatory stoneflies, large swimming mayfly
+nymphs, large, active caddisflies (e.g. Yphria) and
+surface-dwelling dixid larvae (Rosenfeld, 2000; McIntosh,
+2002; Meissner & Muotka, 2006). As emphasised
+by Meissner & Muotka (2006), the vulnerability of
+predatory macroinvertebrates to trout is largely a
+function of their exposure, large size, and/or active
+habits, rather than their functional feeding group
+designation, per se. Nevertheless, an invertebrateís
+size, mobility and microdistribution provided only
+partial insight into how it responded to trout introductions
+because, in this study, some organisms with
+similar sizes, microdistributions, mobilities, morphologies
+and (presumably) conspicuousness showed
+different responses to trout. Although we and others
+have found reductions in total invertebrate predators
+by trout (Feltmate & Williams, 1991; Harvey, 1993;
+Meissner & Muotka, 2006), we found that two abundant
+stonefly predators in our study streams (Doroneuria
+baumanni, Hesperoperla) declined with trout
+introductions, but that the densities of a third, similar,
+abundant stonefly predator, Calineuria californica, were
+unrelated to trout presence, indicating that large
+predatory stoneflies can show individualistic responses
+to trout presence. We also found that similar
+predaceous dobsonfly species (family Corydalidae)
+showed different responses to trout presence, with
+Dysmicohermes being found only in fishless streams
+and Orohermes being found at similar frequencies and
+densities in trout versus fishless streams. Grazers as a
+group were significantly less abundant in trout than
+fishless streams but we found that pairs of similar
+grazers, e.g. small turtle-cased caddisflies (Glossosomatidae:
+Anagapetus and Glossosoma), rheophilic caddisflies
+with silk-sand cases (Neothremma and
+Micrasema) and large pool-dwelling mayflies (families
+Ameletidae and Siphlonuridae: Ameletus, Edmundsius
+and Siphlonurus), often showed very different responses
+to trout presence, with densities of Anagapetus,
+Neothremma, Ameletus and Edmundsius decreasing,
+Glossosoma increasing, and Micrasema and Siphlonurus
+being similar from fishless to trout streams. Because
+Siphlonurus can shift its distribution to stream areas
+inaccessible to fish (e.g. detached pools with lower
+oxygen and higher temperature levels than in the
+main channel) whereas Edmundsius agilis is always
+found only in well-aerated, cool pools in the main
+channel, these behavioural differences may account
+for their different associations with trout (Day, 1956;
+E. Silldorff, unpubl. data).
+Although we found strong declines in Tricladida
+flatworm densities from fishless to trout streams, the
+mechanisms for this result are unclear. Because
+flatworms are large (5ñ20 mm), glide along rock
+surfaces, and are found in the drift, with a poor
+ability to return to the bottom, they may be vulnerable
+to visual predators such as trout (Brittain & Eikeland,
+1988; Kolasa, 2001). Alternatively, trout may indirectly
+affect flatworms because increased macroalgal abundance
+on the upper surfaces of stones in trout streams
+may interfere with flatworm locomotion, which is
+effected via ciliary gliding on mucus trails, and inhibit
+their ability to capture prey (Kolasa, 2001). We also
+found that the densities of some caddisfly larvae
+(Neothremma, Anagapetus, Yphria californica) were
+much lower in trout than fishless streams, but literature
+results on trout effects on caddisfly larvae have
+been inconsistent (Harvey, 1993; Wootton, Parker &
+Power, 1996; Meissner & Muotka, 2006). Speciesspecific
+behavioural differences may account for the
+different responses of similar taxa to trout as suggested
+by Yphriaís tendency to eject from its case when
+disturbed, presumably rendering the unprotected
+larvae vulnerable to trout predation (Wiggins, 1996).
+Many of the taxa that were most reduced by trout
+appeared to be taxa that are found primarily in small
+high elevation streams in western North America that
+originally lacked trout [e.g. Edmundsius agilis, high elevation triclads (Polycelis spp.), Neothremma, Anagapetus,
+Cryptochia, Dysmicohermes ingens, others], suggesting
+that the absence of an evolutionary history
+with trout might render such taxa vulnerable to trout
+predation (Evans, 1972, 1984; Stark & Gaufin, 1974;
+Baumann & Stark, 1980; Wiggins, Weaver & Unzicker,
+1985; Stewart & Stark, 2002; Meyer, 2001). There were
+ambiguities in unequivocally assigning taxa to distributional
+categories that represented allopatry or
+sympatry with original trout distributions, because
+of uncertainties in the identity of immature forms,
+incomplete taxonomic treatments, the high probability
+of undescribed species (e.g. Ameletus spp., J. Zloty,
+pers. comm), and inadequate information on the
+elevational and geographical ranges of many taxa. As
+a consequence, we felt it was premature to quantitatively
+compare trout impacts on taxa with different
+distributional patterns and that such an analysis must
+await more comprehensive information on the larval
+and adult taxonomy, phylogenies and distributions of
+the collected taxa. However, we surmise that there is a
+higher relative risk of extinction for rare taxa which
+are apparently eliminated by trout, such as Edmundsius,
+Dysmicohermes, Agabus, Agabinus and Chyranda.
+Consistent with previous studies, we found apparent
+indirect, positive effects of trout on components of the
+stream biota. First, algal biomass and macroalgal
+cover were greater in the presence versus absence of
+trout, consistent with most studies where algal
+responses have been examined (e.g. Dahl, 1998; Diehl
+et al., 2000; Rosenfeld, 2000; Nystro®m & McIntosh,
+2003; Nystro®m et al., 2003). Because densities of the
+grazer functional feeding group and component large,
+active, or exposed grazer species (Ameletus, Paraleptophlebia,
+Neothremma, Anagapetus) were much lower in
+trout than in troutless streams, we presume that
+increased algal levels in trout compared to fishless
+streams were the result of a trophic cascade, whereby
+trout reduced the densities and foraging activities of
+grazing insects, resulting in increases in algae, the
+grazersí food, consistent with the evidence used to
+infer trophic cascades in other studies (Shurin et al.,
+2002). Although higher algal biomass in arenas or
+streams containing versus lacking trout has been
+commonly observed, there are cases where trout
+appear to have negative indirect effects on algal
+biomass (Power, 1990; Wootton & Power, 1993;
+McIntosh et al., 2004; Meissner & Muotka, 2006),
+presumably because these latter studies deal with
+four-level trophic cascades, where trout reduce invertebrate
+and small vertebrate predators, and so permit
+increases in their grazer prey resulting, ultimately, in
+reduced algal biomass. Most studies, however, have
+shown increased algal biomass in the presence of
+trout even though invertebrate predators were present,
+indicating that trout effects on grazer densities
+and behaviour which result in algal biomass increases
+usually override the effects of four-level cascades in
+determining algal biomass (Shurin et al., 2002). In
+contrast to algal responses to trout, we found no
+relationships between the presence or absence of trout
+and shredder abundance or the levels of particulate
+organic matter and literature results on trout effects
+on shredder and detritus levels are mixed and
+inconsistent (Reice, 1991; Konishi, Nakano & Iwata,
+2001; Ruetz, Newman & Vondracek, 2002; Nystro®m
+et al., 2003, Greig & McIntosh, 2006).
+A second type of indirect trout effect involved
+increases in the densities of other grazing or collectorgatherer
+invertebrate taxa in trout streams, such as the
+mayfly Centroptilum, perhaps the Chironomidae midges,
+and the caddisfly Glossosoma, which probably
+benefited from increases in protective algal cover and
+food resource availability. Increases in less vulnerable
+grazing taxa with trout additions, particularly increases
+in the density of chironomids, also have been
+reported from experimental studies (reviewed in
+Englund, Sarnelle & Cooper, 1999; survey and metaanalysis
+in Meissner & Muotka, 2006). Although troutinduced
+reductions in large grazers (e.g. some
+caddisflies and mayflies) may have resulted in
+increases in algal, and ultimately, small grazer levels,
+some of these small grazers may have benefited from
+habitat-specific reductions in dominant grazers
+induced by trout. For example, densities of the
+abundant Baetis-group mayflies (containing Baetis
+bicaudatus, Baetis tricaudatus and Diphetor hageni) were
+similar in the riffles of fishless versus trout streams
+(mean densities in fishless versus trout riffles =
+1805 m)2 versus 1678 m)2
+; Wilcoxon paired (signed
+rank) test, P = 0.37), but their densities in the pools of
+trout streams were lower than those in the pools of
+fishless streams (mean densities in fishless versus trout
+pools = 188 m)2 versus 107 m)2
+; P = 0.08, Wilcoxon
+paired test). This decrease in the abundance of a confamilial (and likely competitive) mayfly in pools
+may have benefited the pool-dwelling mayfly, Centroptilum
+[mean densities in fishless versus trout stream
+riffles = 0.9 m)2 versus 0.1 m)2 (P = 0.09, Wilcoxon
+paired test); mean densities in fishless versus trout
+stream pools = 34 m)2 versus 305 m)2 (P = 0.03
+Wilcoxon paired test)]. An alternative explanation for
+increases in some of these taxa (e.g. Centroptilium,
+chironomids) where trout are present is large reductions
+in the abundances of dominant invertebrate
+predators (the Perlid stoneflies Doroneuria baumanni
+and Hesperoperla spp., Tricladida flatworms), resulting
+in a release from invertebrate predation pressure on
+these prey taxa (Peckarsky, 1985; Lancaster, 1990).
+Our results suggest that conservation efforts for native
+invertebrates that are vulnerable to loss or reductions
+associated with trout stocking should focus on protecting
+mid-to-high elevation locations where there
+are still fishless streams. After verifying the identities
+of taxa that are rare endemic forms or keystone
+species for ecological function, managers should also
+target streams where trout removals would provide
+the greatest benefit for promoting the recovery of
+populations of these species. Operationally, these
+would be streams where trout removal is possible
+and practical, where trout re-invasion can be prevented
+by natural trout migration barriers (waterfalls
+and steep cascades), and where target invertebrate
+populations are present nearby to provide colonisation
+sources. In addition, the expansion of fishless
+habitat through trout extirpations could benefit nontarget
+native taxa and restore the structure and
+function of stream communities to their original state.
+The effects of trout on ecosystem processes in
+headwater Sierra streams were evidenced here by (i)
+increased algal biomass and cover, (ii) reduction of
+the grazer functional feeding group, (iii) the reduced
+density of the large predator guild, especially the most
+common perlid stonefly predator (Doroneuria baumanni),
+(iv) increased density of collector-gatherers other
+than chironomids, and (v) apparent increases in
+midges in many stream pairs (chironomids play
+dominant roles in the consumption of organic matter
+and algae and as prey for invertebrate predators) in
+the presence of trout. These alterations suggest that
+trout have changed the trophic organisation, and
+consequent resource production and transformation
+dynamics, of many historically fishless high elevation
+Sierra streams (see also Feltmate & Williams, 1991;
+Huryn, 1998; McIntosh, 2002).
+A major government report, the Sierra Nevada
+Ecosystem Project report, recommended that Aquatic
+Diversity Management Areas (ADMAs) be established
+to conserve aquatic resources in the Sierra
+Nevada, based primarily on the presence of rare or
+endangered fish and amphibian species and on the
+proportions of native fish and amphibian species
+making up the vertebrate community (Moyle, Randall
+& Yoshiyama, 1996b). This approach does not use
+native aquatic invertebrate taxa in identifying ADMA
+catchments and so ignores the major contributor to
+native aquatic biodiversity in the Sierra Nevada.
+Because most of the High Sierra was historically
+devoid of fish, and because many amphibian species
+are patchily distributed and largely absent from
+streams, criteria based only on fish and amphibians
+are inappropriate for delineating natural headwater
+habitats which maintain a high level of native biodiversity.
+We suggest, instead, that invertebrate biodiversity
+surveys be used as ADMA criteria, and waters
+devoid of fish in the high Sierra be designated for
+preservation efforts because they contain a native and,
+at least partly, vulnerable endemic fauna. Because
+fishless habitat is rare and supports an unaltered
+native community, primary criteria for delineating
+ADMAs in the High Sierra might include: (i) any
+fishless stream reaches and especially those with
+contiguous areas of fishless habitat, (ii) fishless locations
+with known endemic invertebrate populations,
+and (iii) streams with, or near sources with, a high
+diversity of native invertebrate species where trout
+can be removed effectively because of natural barriers
+to trout migration. Because headwater streams,
+including intermittent channels, may provide important
+refuges for native invertebrates from trout
+predation and may harbour rare and/or endemic
+species, these small drainages should be the focus of
+survey and inventory studies that can be used to
+delineate ADMAs.

@@ -1,0 +1,492 @@
+xabstract
+
+Although numerous studies have investigated
+the impacts of common carp (Cyprinus carpio)
+on aquatic ecosystems, the effects of this species on
+nutrient cycling, water clarity, and vegetation density
+have rarely been addressed in whole lakes, especially
+in those that stratify. In this study, we documented
+changes in total phosphorus, water clarity, and aquatic
+vegetation density in a stratified eutrophic lake while
+we reduced carp biomass from 300 to 40 kg/ha. Carp
+removal was associated with an increase in vegetation
+density, an increase in springtime water clarity, a
+decline in early season chlorophyll a, and a decline in
+total suspended solids. However, neither clarity nor
+chlorophyll a improved during the summer months.
+Carp removal also had no apparent effect on total
+phosphorus, which increased rapidly in the summer
+both before and after carp removal, and was seemingly
+driven by abiotic internal loading. The lack of a
+decline in phosphorus following carp removal
+suggests that despite their high biomass, carp may
+sometimes play a relatively minor role in nutrient
+transport from benthic sediments in stratified eutrophic
+lakes. Their removal is nonetheless beneficial for
+improving water clarity and restoring macrophyte
+communities in such systems.
+
+xintroduction
+
+The common carp (Cyprinus carpio or ‘‘carp’’) is one
+of the world’s most invasive fish (Kulhanek et al.,
+2011). It is often called an ‘‘ecological engineer’’
+because of its ability to modify the habitat and biotic
+communities of the lakes it invades (Matsuzaki et al.,
+2009). Carp root in the bottom while searching for
+food and have been shown to drive rapid declines in
+aquatic vegetation and increases in water turbidity
+(Lougheed et al., 1998; Zambrano et al., 2001; Bajer
+et al., 2009; Matsuzaki et al., 2009). The carp has also
+been hypothesized to play an important role in nutrient
+transport from the sediments into the water column
+due to bioturbation and excretion (Lamarra Jr., 1975;
+Breukelaar et al., 1994; Parkos III et al., 2003; Morgan
+& Hicks, 2013). For all of these reasons, carp removal
+is often recommended as an important element of lake
+restoration (Meijer et al., 1990). However, although
+the effects of carp on lakes have been investigated in
+over 50 studies, some aspects of carp in lake ecology
+remain unclear. In particular, it is not clear what the
+precise effects of carp are on nutrient cycling and
+water clarity in whole lakes as most studies have used
+relatively small experimental arenas or theoretical
+calculations (Weber & Brown, 2009; Morgan &
+Hicks, 2013). The effects of carp on nutrients and
+water clarity are particularly poorly documented in
+thermally stratified lakes.
+Although small-scale experiments have shown that
+carp usually cause an overall increase in nutrient
+concentrations in ponds or enclosures (Lamarra, 1975;
+Breukelaar et al., 1994; Parkos et al., 2003; Chumchal
+& Drenner, 2004; Morgan & Hicks, 2013), whole-lake
+experiments have shown mixed results. For example,
+some carp exclusion efforts in shallow lakes have
+shown only subtle or nonexistent effects on total
+phosphorus (Meijer et al., 1990; Thomasen & Chow-
+Fraser, 2011). Further, while declines in phosphorous
+have been documented in other lakes from which carp
+have been removed (Schrage&Downing, 2004), these
+studies used piscicides so the observed declines might
+have been attributable to a loss of fish in general, not
+just carp. Several small-scale experiments have also
+shown inconsistent relationships between carp biomass
+and nutrient concentrations (Lougheed et al.,
+1998; Matsuzaki et al., 2007, 2009). Together, these
+inconsistencies suggest that the effects of carp on
+whole-lake nutrient cycling might be more complex
+than presently realized.
+Almost all studies that have investigated the effects
+of carp have focused on shallow lakes (reviewed in
+Weber & Brown, 2009); i.e., lakes that rarely stratify
+and can be largely colonized by aquatic vegetation
+(Scheffer, 2005). However, carp can also be abundant
+in deeper, thermally stratified systems in which their
+presence is often associated with poor water clarity
+and high nutrient concentrations (O’Donnell, 1943;
+Ten Winkel & Meulemans, 1984; Jackson et al., 2010;
+Weber & Brown, 2011). To what extent carp drive
+water clarity and nutrient concentrations in such
+systems is poorly documented. Nutrient cycling in
+stratified lakes often is strongly affected by abiotic
+‘‘internal loading’’ in which large quantities of phosphorus
+are released from sediments during hypolimnetic
+hypoxia in the summer (Liboriussen et al., 2009;
+Nu¨rnberg, 2009), leading to epilimnetic phosphorus
+spikes as a consequence of thermocline erosion. While
+internal loading might play an important role in
+nutrient cycling in stratified lakes, carp may substantially
+accelerate phosphorus transport from benthic
+sediments into the water column of such systems via
+excretion (Morgan & Hicks, 2013) and bioturbation
+(Zambrano et al., 2001). One might, therefore, expect
+elevated phosphorus concentrations and more severe
+algal blooms in stratified lakes with large carp
+populations as compared to lakes that lack carp.
+Stratified lakes with abundant carp are also likely to
+suffer from poor aquatic vegetation communities and
+increased loads of suspended sediments.
+In this study, we selectively removed common carp
+from a stratified (polymictic), eutrophic lake in the
+North American Midwest to address the role of carp in
+water clarity, nutrient cycling, and vegetation density
+in such lakes. We reduced the biomass of carp from
+approximately 300 kg/ha to approximately 40 kg/ha
+using winter seining, while measuring changes in
+percent cover of aquatic vegetation, water clarity
+(Secchi depth), total phosphorus (TP), chlorophyll
+a (ChlA), and total suspended solids (TSS). We also
+collected information on thermocline stability and
+internal phosphorus loading to better explain the
+concentrations and seasonal TP patterns before and
+after carp removal. Additionally, changes in the native
+fish community were monitored. This study is relevant
+to the restoration of stratified lakes as well as to our
+understanding of the role of carp in nutrient cycling.
+
+xmethods
+
+Study site
+This study was conducted in Lake Susan, a small
+(35.1 ha), hyper-eutrophic (summer TP[100 lg/L)
+lake in central Minnesota, USA, which appears to be
+representative of many lakes in this region. In spite of
+its shallow depth (max. depth 5.1 m), Lake Susan
+stratifies in early summer and hypolimnetic waters
+with dissolved oxygen concentrations of less than
+0.1 mg/L cover approximately 50% of its bottom
+during July and August. Partial thermocline erosion
+occurs on windy days, but the lake does not mix to the
+bottom until autumn. At the beginning of this study,
+the lake contained a large population of common
+carp whose biomass exceeded 300 kg/ha (Bajer &
+Sorensen, 2010). Radio telemetry showed that carp in
+this lake tend to occupy the littoral zone during the
+summer (Bajer et al., 2010; Bajer & Sorensen, 2010).
+The native fish community was dominated by several
+species of centrarchids including bluegill (Lepomis
+macrochirus), black crappie (Pomoxis nigromaculatus),
+and largemouth bass (Micropterus salmoides).
+Lake Susan is located in an urban setting and has
+historically suffered from high phosphorus concentrations,
+poor water clarity, and a poor aquatic plant
+community. Sediment cores showed high rates of
+internal phosphorous release, and alum was applied in
+1998 to remediate these conditions, but it was underdosed
+and failed to reduce internal phosphorus loading
+or improve water clarity (Huser, 2012).
+Experimental design
+The abundance and biomass of carp in Lake Susan
+were estimated in 2008 (Bajer & Sorensen, 2010) at
+which time we also collected baseline (pre-removal)
+data on aquatic vegetation, Secchi, TP, ChlA, TSS, and
+native fish abundance. In addition, we retrieved two
+additional years of historical data (2004, 2005) on
+Secchi depth, TP, and ChlA collected by the local
+watershed district to better portray conditions in the
+lake prior to carp removal. Most carp were removed
+from the lake in March 2009 (see below), while our
+measurements of aquatic vegetation density, water
+quality, nutrients, and native fish continued for three
+additional years (2009–2011).
+Carp biomass estimates and removal
+Carp abundance and biomass were estimated in the
+summer of 2008 using mark-and-recapture analyses
+(Bajer & Sorensen, 2010) (Table 1). A large number
+of adult carp (approximately 80% of the population)
+were removed from the lake in March of 2009 using
+telemetry-guided seining under the ice that targeted
+carp aggregations (Table 1; Bajer et al., 2011). No
+other fishes were removed at that time. Approximately,
+300 carp were also removed in the spring of
+2010. Carp removed from the lake were subtracted
+from the initial population to generate post-removal
+estimates. We adjusted these post-removal estimates
+for natural mortality that we estimated to be 10% using
+the survival of radio-tagged carp in the lake. The lake
+inlet and outlet were blocked during the study to
+eliminate emigration and immigration. Finally, the
+lake was sampled annually to account for possible carp
+recruitment (no recruitment occurred throughout the
+study; Bajer et al., 2012).
+Aquatic vegetation
+Aquatic vegetation (both submersed and floating-leaf)
+was sampled annually during 2008–2011 in June (time
+of peak abundance) following procedures similar to
+those of Schrage & Downing (2004). Twenty transects
+distributed approximately equidistantly from each
+other were mapped in the lake using ArcGIS. These
+transects were perpendicular to the shoreline, and
+vegetation was sampled at locations with water depths
+of 0.5, 1, 1.5, and 2 m along each transect (the
+vegetation was generally not visible at depths[2 m).
+At each sampling location, visual estimates of percent
+vegetative cover (nearest 10%) were recorded within a
+2 9 2 m area using the front of the boat (2 m long) as
+a reference. To confirm that our visual estimates were
+unbiased, a sampling rake was lowered to the bottom
+at every other transect, twisted three times, and the
+vegetation was pulled on the boat and weighed
+(nearest 10 g); we observed a linear relationship
+between visual estimates and rake biomass
+(P\0.001). The rake was also used to confirm that
+little vegetation occurred at depths exceeding 2 m.
+Secchi depth, TP, TSS, and ChlA
+Secchi depth, TP, TSS, and ChlA were sampled at two
+offshore locations every 2 weeks between May and
+September of 2008–2011. Selecting only two locations
+was deemed sufficient due to the small size of the
+lake, and the fact that both locations had nearly
+identical water quality parameters. Visual assessments
+also suggested that water quality was similar in
+inshore and offshore areas of the lake. Secchi depth
+was measured from a boat using a 20-cm disc. To
+determine TP, TSS, and ChlA, we collected integrated
+epilimnetic samples following standard methods
+(APHA, 1998). Specifically, at each of the sampling
+locations, we first measured the temperature and
+dissolved oxygen profile (1 m increments; YSI 55,
+Yellow Springs, Ohio, USA) to determine the depth of
+the epilimnion. Then, we used a stainless steel 2 L Van
+Dorn sampler to collect water samples from the
+surface of the lake to the bottom of the epilimnion at
+1 m increments. Samples were poured into a clean
+plastic container and mixed. From this aggregate, we
+collected 200 ml samples for TP analysis, 500 ml for
+TSS analysis, and 500 ml for ChlA analysis. All
+samples were stored in a cooler and delivered to an
+analytical laboratory within 24 h. The TP samples
+were analyzed using the persulfate digestion method
+(SM 4500-P E-97). The TSS samples were dried to a
+constant weight at 103–105C (SM 2540 D). ChlA was
+analyzed using 10200 H method (APHA, 1998).
+Because our sampling protocol included only one
+year of data prior to carp removal (2008), we used
+two additional years of data (2004 and 2005) of
+Secchi, TP, and ChlA collected by a local watershed
+district (http://www.rileywd.org) to better portray preremoval
+conditions in the lake. These data were collected
+using similar methods but usually only once a
+month.
+In 2009, we began measuring hypolimnetic TP by
+collecting samples of water approximately 1 m
+below the thermocline during mid to late summer
+when the lake was stratified. These measurements
+continued during 2010 and 2011 and were used to
+develop a better understanding of the role of abiotic
+internal loading in summertime increases in epilimnetic
+TP that we observed during each year of the
+study. In July 2010, we also installed a vertical array
+of temperature data loggers (HOBO Pendant, Onset,
+Bourne, MA, USA) spaced every 0.5 m from 1 m
+below the surface to the bottom of the lake to
+collect continuous data on the stability of summer
+stratification and determine if the summertime
+increases in epilimnetic TP were associated with
+erosion of thermocline and mixing with the phosphorus-
+rich hypolimnetic waters.
+Native fish
+The fish community was assessed in late summer of
+each year (2008–2011) using trapnets (single 12 m
+lead, single rectangular 0.6 9 1.2 m wire frame
+followed by four 0.6 m diameter hoops enclosed with
+15 mm bar mesh; Bajer et al., 2012). Five nets were
+set along the entire perimeter of the lake for one 24-h
+period, all collected fish were counted, and the first 30
+of each species were measured for length (nearest
+mm).
+Data analysis
+We conducted separate analyses to assess if carp
+removal had an effect on vegetation density and water
+quality parameters. Because vegetation density was
+measured only once each year, we conducted a t-test
+using mean values of vegetation density within each
+sampling transect before and after carp removal.
+However, because water quality parameters were
+measured repeatedly throughout the season (i.e., data
+were dependent), we began the water quality analysis
+by fitting ordinal day (days 121–273; May 1 to
+September 30) models for Secchi, TSS, ChlA, and
+TP. While fitting these models, we considered exponential,
+quadratic, and 4th degree polynomial models
+and used ANOVA and AICc scores to test which ones
+provided the best fit for each variable. Once the ordinal
+day models were fitted, we tested if adding carp
+removal as a categorical variable significantly
+increased model fit (i.e., whether reduction in the
+residual sum of squares was statistically significant by
+ANOVA). Carp removal was evaluated both as an
+additive effect and as an interaction term with the
+ordinal day. A significant improvement in model fit
+would suggest that the seasonal patterns of Secchi,
+ChlA, TSS, and TP were different before versus after
+carp removal. Because water quality measurements
+collected on the same day tend to be similar in small
+lakes, we averaged them to represent daily means
+before we fitted the models to avoid pseudo-replication.
+Data collected during individual years were
+lumped into either before removal or after removal
+category as among year variation was low. All models
+were examined for linearity and homogeneity of
+residuals. All statistical analyses were conducted using
+R (R Development Core Team, 2012).
+
+xresults
+
+Following carp removal, vegetation density increased
+from approximately 5% cover to over 45% cover
+(t test; t = 10.13; df = 38; P\0.01) (Fig. 1). Most
+of this increase occurred during the first spring
+following carp removal but increases continued
+throughout the study; percent cover in 2009, 2010,
+and 2011 was 37, 54, and 63%, respectively. The
+number of aquatic plant species increased from four in
+2008 to ten in 2011 (Online Resource 1).
+Carp removal had a positive effect on water clarity,
+especially in the spring, and TSS but the effects on
+ChlA and TP were more subtle. Changes in Secchi
+depth in relation to ordinal day were best described by
+a quadratic model whose fit increased significantly
+after the addition of carp removal and the carp removal
+x ordinal day interaction term (F = 19.5, df = 3,
+P = 2.33 9 10-7; Fig. 2). The model showed that the
+removal of carp caused an increase in water clarity
+during May and June (days 120–180) but not during
+July through September (days 180–280; Fig. 2).
+Changes in TSS in relation to ordinal day were also
+best described by a quadratic model whose fit
+improved after adding carp removal as both an
+additive and interaction term (F = 11.84, df = 3,
+P = 1.62 9 10-4; Fig. 2). This model suggested that
+carp removal caused a decrease in TSS throughout the
+entire season, but particularly in the summer (Fig. 2).
+Changes in ChlA relative to ordinal day were best
+depicted by a 4th degree polynomial model in which
+ChlA was low in the spring and increased rapidly in the
+summer. Adding carp removal as an additive term or
+an interaction term did not improve model fit
+(F = 0.48, df = 5, P = 0.78; Fig. 2) suggesting that
+ChlA followed the same seasonal pattern before and
+after carp removal. However, visual examination
+suggested that ChlA was consistently lower during
+May and early June (days 120–160) following carp
+removal (Fig. 2). Changes in TP relative to ordinal day
+were best described by a quadratic model whose fit
+improved only marginally after the inclusion of carp
+removal and carp removal 9 day interaction (F =
+2.85, df = 3, P = 0.050; Fig. 2). TP increased each
+summer both before and after carp removal (Fig. 2).
+Mean TP concentrations before and after carp removal
+were 69.4 and 75.3 lg/L, respectively. Measurements
+of thermal stratification and hypolimnetic TP concentrations
+showed that stratification typically occurred
+by mid-June and that hypolimnetic TP concentrations
+increased rapidly in July and remained high through
+August and September. Vertical array of temperature
+loggers deployed in the summer of 2010 showed that
+although the lake remained stratified during July,
+mixing with hypoxic waters occurred in mid-
+August (Fig. 3), when hypolimnetic TP concentrations
+exceeded 1,000 lg/L. This partial thermocline
+erosion was associated with a near doubling of the
+epilimnetic TP (Fig. 3). Annual trapnet surveys suggested
+that no major changes in the native fish
+community occurred after carp removal (Online
+Resource 2).
+
+xdiscussion
+
+This study selectively removed carp from a small
+stratified eutrophic lake to better understand this
+species’ effects on phosphorus, water clarity, and
+vegetation density in such systems. We found that
+while carp removal had a positive effect on the density
+of aquatic vegetation and early season water clarity, it
+seemingly had little or no effect on phosphorus
+concentration. Our results suggest that in thermally
+stratified eutrophic lakes, the role of carp in structuring
+phosphorus budgets may be relatively minor as
+compared to that of abiotic internal loading. Nonetheless,
+carp removal should be viewed as an important
+element of efforts aiming to improve water clarity and
+restore aquatic macrophytes in stratified lakes.
+It has been suggested that common carp and
+benthivorous fishes in general can cause a significant
+transfer of nutrients from benthic sediments into the
+water column due to sediment bioturbation and
+excretion (Lamarra Jr., 1975; Breukelaar et al., 1994;
+Morgan & Hicks, 2013). However, the lack of a
+decrease in phosphorus concentrations following carp
+removal in Lake Susan suggests that neither bioturbation
+nor excretion played a significant role in phosphorus
+budget in this stratified lake. Theoretical
+calculations support this conclusion. Using available
+phosphorus budgets for benthivorous fishes (Schindler
+& Eby, 1997; Vanni et al., 2013), a reasonable daily
+food consumption rate by carp (3% body mass) and the
+known density of carp in Lake Susan (*100 3-kg carp
+per hectare), we estimated a daily carp excretion rate
+of approximately 0.4 mg P/m2/d or 0.2 lg P/L/d
+assuming a 2-m average depth. Such an excretion rate
+could account for only a relatively small fraction of the
+observed mid-summer increases of *1.5 lg TP/L/d.
+Similarly, although the effect of carp bioturbation on
+phosphorus cycling is difficult to quantify because it is
+influenced by sediment properties, fish size, and food
+availability (Zambrano et al., 2001; Driver et al.,
+2005), our results suggest that it was also relatively
+insignificant. This conclusion supports findings from
+enclosure experiments where the effects of carp
+bioturbation were similar in magnitude to those of
+excretion (Driver et al., 2005; Matsuzaki et al., 2007).
+Several factors, including a larger volume of water,
+might explain why the role of carp in phosphorus
+cycling appeared lower in Lake Susan than in shallow
+lakes (Schrage & Downing, 2004) but we suggest that
+more whole-lake experiments be conducted to better
+understand this process using ecologically-relevant
+scales.
+Although carp removal did not seemingly have a
+strong effect on phosphorus, a significant improvement
+in springtime clarity occurred in Lake Susan
+following the removal of carp. In fact, springtime
+water clarity in 2009, 2010, and 2011 extended to the
+bottom of the lake, an unprecedented event in over
+40 years of measurements from this lake. This
+increase was associated with a decline in TSS and a
+decline in ChlA in the early spring. The decline in TSS
+following carp removal was most likely caused by
+reduced sediment re-suspension due to benthic feeding
+and is consistent with other studies (Lougheed et al.,
+1998; Zambrano et al., 2001). The decline in
+ChlA despite no change in TP suggests an increase
+in filtering zooplankton following the removal of carp
+in Lake Susan. Such an increase might have occurred
+for two reasons: carp might have exerted predatory
+pressure on large zooplankton prior to their removal,
+and/or the increase in aquatic vegetation after carp
+removal might have created refugia for zooplankton.
+Unfortunately, these hypotheses cannot be addressed
+as we did not collect zooplankton data in Lake Susan
+prior to the removal of carp.
+The vegetated littoral zone provides key habitats for
+fish, amphibians, and invertebrates, and considerable
+effort is currently being spent in North America to
+restore aquatic vegetation in lakes by transplantation
+and establishing littoral buffering zones (Radomski
+et al., 2010). Similarly, freshwater protected areas are
+being established in Europe to restore aquatic vegetation
+for migratory waterfowl and increase biodiversity
+(Williams et al., 2002). This study demonstrates
+that these efforts may not always succeed, unless carp
+biomass is reduced. The relationship between carp
+biomass and vegetation density reported in this study
+supports our previous findings from a shallow
+Midwestern lake which showed that carp biomass in
+excess of 300 kg/ha is damaging to aquatic vegetation,
+but relatively little damage occurs in lakes with carp
+biomass of less than 100 kg/ha (Bajer et al., 2009).
+Because carp biomass often exceeds 300 kg/ha in
+aquatic ecosystems across large regions of North
+America, Australia, and Europe (Crivelli, 1983;
+Koehn, 2004; Bajer & Sorensen, 2012), this species
+is expected to have broad and negative impacts on
+aquatic vegetation.
+Although limited in scope, this study advances our
+understanding of the carp’s impacts on lake ecosystems
+in several ways. In addition to signaling that the
+effects of carp on nutrient cycling may be more subtle
+and complex than previously suggested, it appears to
+be the first study to employ whole-lake carp biomass
+manipulation in a thermally stratified lake. It is also
+one of few whole-lake manipulations that selectively
+removed carp without impacting the native fish
+community, thereby isolating the effects of carp. This
+study is also one of few for which mark-and-recapture
+estimates of carp biomass are available, advancing
+robust management thresholds. The recently developed
+ability to determine whether carp are approaching
+such thresholds using boat electrofishing (Bajer &
+Sorensen, 2012) should allow for more proactive and
+targeted carp management schemes in lakes to restore
+aquatic vegetation and improve water clarity.

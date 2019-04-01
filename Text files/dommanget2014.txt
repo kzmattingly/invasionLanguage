@@ -1,0 +1,567 @@
+xabstract Using bioengineering techniques to restore areas invaded by Fallopia japonica shows promising results.
+Planting tree cuttings could allow both rapidly re-establishing a competitive native plant community and
+reducing F. japonica performance. However, F. japonica has been shown to affect native plant species
+through different mechanisms such as allelopathy. This article investigates the phytotoxic effect of
+F. japonica on the resprouting capacity and the growth of three Salicaceae species with potential value for
+restoration. An experimental design which physically separates donor pots containing either an individual
+from F. japonica or bare soil from target pots containing cuttings of Populus nigra, Salix atrocinerea
+or Salix viminali was used. Leachates from donor pots were used to water target pots. The effects of
+leachates were evaluated by measuring the final biomass of the cuttings. F. japonica leachates inhibited
+the growth of cuttings, and this effect is linked to the emission of polyphenol compounds by F. japonica.
+Leachates also induced changes in soil nitrogen composition. These results suggest the existence of
+allelopathic effects, direct and/or indirect, of F. japonica on the growth of Salicaceae species cuttings.
+However, the three species were not equally affected, suggesting that the choice of resistant species
+could be crucial for restoration success. 
+
+
+xintroduction
+
+
+ Biological invasions are considered as one of the global changes
+threatening biodiversity worldwide (Thuiller, 2007). Nevertheless,
+only a small portion of introduced plants spread extensively and
+become invasive in their new range (Hayes and Barry, 2008;
+Williamson, 1993). The search for the mechanisms explaining the
+success of invasive species raises a great deal of interest among the
+scientific and management communities as better identification of
+these processes is crucially needed to design appropriate management
+actions to limit their impacts and their spread.
+Several hypotheses have been proposed to explain the success of
+invasive plants. Some successful exotic plants have intrinsic characteristics
+such as a high resource uptake and use efficiency associated
+with a high growth rate, allowing them to take advantage in
+resource-rich environments (Blossey and Notzold, 1995; Davis
+et al., 2000; Elton, 1958). Moreover, in the invaded environment
+competition for resources could be influenced by additive mechanisms
+favouring the introduced species. For example, the absence
+of their natural enemies releases alien plants from trophic pressure
+and gives them the opportunity to express their full competitive
+potential (Elton, 1958; Keane and Crawley, 2002). Evidence is also
+growing supporting the novel weapon hypothesis, which assumes
+that some invasive plants produce allelochemicals to which native
+species are naÔve and therefore particularly sensitive (Callaway and
+Aschehoug, 2000; Hierro and Callaway, 2003). Allelopathy is the
+mechanism of the novel weapon hypothesis which has also been
+designated as the allelopathic advantage against resident species
+(Callaway and Ridenour, 2004). Allelopathy is here considered as
+only the negative effects, either direct or indirect, of one plant on
+another through production of a compound or a group of compounds,
+as Inderjit and Duke (2003) suggested and because it is a
+commonly accepted definition in plant ecology (Abhilasha et al.,
+2008; Callaway et al., 2008; Hierro and Callaway, 2003; Murrell
+et al., 2011; Viard-CrÈtat et al., 2009).The role of allelopathy in invader superiority has been tested
+successfully on different plant genera (Grove et al., 2013; Jarchow
+and Cook, 2009; Sharma et al., 2005; Thorpe et al., 2009). Some
+exotic species can affect the recruitment of native species through
+the reduction of seed germination (Sharma et al., 2005) or affect
+adult performance by reducing plant growth. For example, Thorpe
+et al. (2009) showed that adding ()-catechins, which are produced
+by the invasive Centaurea maculosa in the rhizosphere of target
+plants, reduces the growth of species from the invaded range (USA)
+but not of species from the native range (Romania). Interestingly,
+reducing the allelopathic effect of the invasive Typha angustifolia in
+the soil reverses the competitive outcome between T. angustifolia
+and the native Bolboschoenus fluviatilis, demonstrating the importance
+of allelopathy in the success of this exotic species (Jarchow
+and Cook, 2009). Fallopia japonica [Houtt.] Ronse Decraene, or
+Japanese knotweed, is considered as one of the worst invasive
+plants in the world (Lowe et al., 2000). F. japonica has often been
+observed to form dense and almost mono-specific stands (Aguilera
+et al., 2010), leading to the conclusion that allelopathy may be an
+explanation for its remarkable success. Some studies already suggest
+a phytotoxic effect of F. japonica and its congeners (Fallopia
+sachalinensis and Fallopia X bohemica) on native plants (Murrell
+et al., 2011; Siemens and Blossey, 2007; Vrchotov· and Ser·,
+2008) because of phytotoxic compounds (including anthraquinones
+and other polyphenols) in their root leachates (Fan et al.,
+2010; Meiffren et al., 2010; Vastano et al., 2000). This process
+could play a major role in the invasion of Fallopia ssp. combined
+with other factors such as resource pre-emption (Siemens and
+Blossey, 2007) and modification of nutrient cycles (Dassonville
+et al., 2011). This paper aims to investigate the allelopathic properties
+of F. japonica and its effects on tree cuttings used in
+restoration.
+Initially imported from Asia during the 19th century for ornamentation,
+F. japonica is now invasive in many ecosystems in
+Europe and North America (Bailey, 2005). It affects ecosystems by
+forming a dense canopy, reduces the floral (BÌmov· et al., 2004;
+Maurel et al., 2010) and faunal (Gerber et al., 2008; Maerz et al.,
+2005) biodiversity and modifies nutrient cycles (Dassonville et al.,
+2011). This species is mostly found along riparian habitats, which
+assume important ecological functions (Naiman et al., 1993), and
+spreads mainly by a rapid clonal growth (BÌmov· et al., 2003; Pysek
+et al., 2003; TiÈbrÈ et al., 2007). Regeneration from rhizome fragments
+is very efficient as a few grams of rhizome are sufficient for
+rapid production of a new stand (Brock and Wade, 1992; S·sik and
+Eli·s, 2006). The high cost of eradicating F. japonica (e.g. estimated
+costs linked with Asian knotweed management and impacts exceed
+260 Million $US/year in the UK, Williams et al., 2010) compels
+practitioners to find economical and efficient ways to restore ecosystems
+(Crowhurst, 2006).
+Various methods have been tested to control F. japonica. Herbicides
+have shown their limitation (Bashtanova et al., 2009) and
+are forbidden or not recommended along rivers where the herbicide
+could leach into the water. Cutting and mowing are solutions
+commonly used to eradicate or at least to reduce F. japonica vigour
+in conservation areas, but they are labour-intensive and therefore
+expensive (Delbart et al., 2012; Gerber et al., 2010; Seiger and
+Merchant, 1997). Restoring invaded habitats by stimulating successional
+processes through seeding and/or transplanting native
+species can be a solution for both the conservation of native communities
+and the control of invasive species (Sheley and Smith,
+2012). Such alternative strategies have already been successfully
+tested against various herbaceous invasive plants (Ammondt et al.,
+2013; Cutting and Hough-Goldstein, 2012; Larson et al., 2013). For
+F. japonica, planting Salicaceae cuttings is a promising solution.
+Already tested sporadically by managers, restoration projects of
+F. japonica invaded habitat using tree cuttings have had variable
+success (Bart·k et al., 2010; Delbart et al., 2012; Deschamps, 2010;
+Masson, 2002; Toews, 2012). Despite the promising outcomes of
+such techniques (restoration associated with resistance to invasion),
+no underlying mechanisms have been tested that could
+explain the fluctuating outcome.
+Allelopathy could be one mechanism involved in failures of
+restoration experiments, by limiting growth of competing species.
+Previous studies of allelopathy by the Fallopia complex have all
+used controversial designs (Inderjit and Callaway, 2003). Laboratory
+studies on seed germination with identified allelochemicals
+extracted from the rhizome or the stem of F. japonica (Fan et al.,
+2010; Vrchotov· and Ser·, 2008) do not replicate the natural concentration
+of these molecules, whereas other studies which apply
+activated charcoal (Murrell et al., 2011; Siemens and Blossey, 2007)
+are controversial because this substance can also alter soil pH and
+nutrient availability (Lau et al., 2008). In this study, we chose to test
+the allelopathic potential of F. japonica on Salicaceae species in
+greenhouse conditions by means of an original semi-controlled
+experiment where donor and target pots are separated physically
+to discriminate resource competition from allelopathy. This design
+is built on previously cited studies in an effort to simulate conditions
+closer to the natural situation and to explicitly address
+chemically mediated interactions (Viard-CrÈtat et al., 2009). In
+addition, to our knowledge, no experiment directly addresses the
+role of allelopathy in cutting e development success.
+We chose to assess the impact of F. japonica leachate on the
+resprouting capacity and growth of three species from the two
+genera represented in the Salicaceae family: Salix viminalis L., Salix
+atrocinerea Brot. and Populus nigra L. We address the following
+questions: (1) does F. japonica leachate limit the growth of Salicaceae
+cuttings? (2) are target species equally affected? and (3) can
+these effects be directly linked to polyphenol emission or are they
+mediated by changes in soil properties? xmethods
+
+
+ The experimental design adapted from Newman and Rovira
+(1975) and Viard-CrÈtat (2009) involved ìdonor potsî and ìtarget
+potsî to discriminate resource competition effects from allelochemical
+effects (Fig. 1) in a factorial balanced design. In donor
+pots, either a F. japonica individual was planted or bare ground was
+left; in the target pots, one cutting of the three different target
+species was planted. Pots were organised so that target pots were
+irrigated with donor pot leachate by gravity.
+The experiment included 58 pairs of one donor pot connected to
+one target pot, i.e. 116 pots, and was conducted in greenhouse
+conditions near Grenoble (France). Mean daily temperatures
+recorded during the experiment ranged from 8 to 31 C. Donor pots
+and target pots (volume 6 L) were filled with a soil mixture (4/6 of
+sand, 1/6 of vermiculite-perlite and 1/6 of potting soil) to guarantee
+homogeneity between pots and to combine a high ability to drain
+and evacuate the leachate (sand properties) and a water and
+nutrient (vermiculite, perlite and potting soil properties) retention
+potential. All pots were watered several times before the experiment
+started in order to wash out polyphenols contained naturally
+in initial potting soil.
+Donor pots had a 14-cm-wide opening on the bottom in which a
+plastic funnel (B 15 cm) was put. On the top of the funnel, two
+meshes with different sizes (5 mm and 2 mm) were superposed to
+retain the soil. The funnel was connected to a polyethylene (PE)
+tube through which the leachate flowed to the target pot. Each
+donor pot was linked to a single fixed target pot. The place of each donor pot and target pot pair was randomised every two weeks to
+limit potential bias from differences in microclimatic conditions
+(temperature, air moisture or light). Temperature and air moisture
+were continuously recorded with eight i-buttons (MAXIM) placed
+above donor pots and at the target pot level. Rhizomes of F. japonica were collected on the 23rd of February
+2012 in the region of Saint-Etienne (Chambon-Feugerolles,
+455103200 N, 41803300 E) where the population had been genetically
+identified as F. japonica (Dassonville et al., 2011). All the rhizomes
+collected belong to the unique clone representing this species in
+Western Europe (Bzdega et al., 2012; Hollingsworth and Bailey,
+2000) and were considered as genetically uniform. Rhizomes
+were washed and cut into 105 pieces from 30 to 50 g with two to
+seven buds. The 105 rhizomes were planted in a greenhouse on the
+29th February 2012, three weeks before the target pots were
+installed. A sample of soil solution collected during the washings of
+the collected rhizomeswas added to each of the donor pots (around
+3 g/pot in each donor pot with and without F. japonica) at the
+beginning of the experiment in order to reconstitute a microbial
+community naturally associated with F. japonica in the pots. We
+inoculated all donor pots with this solution of soil as Kov·rov· et al.(2011) have shown that Fallopia species can host mycorrhizal fungi,
+leading to change in stilbene content of its below-ground biomass.
+Two weeks after planting, the 29 most morphologically homogenous
+young F. japonicas were selected and transferred into donor
+pots with the 29 control donor pots filled with inoculated soil
+medium only.
+Among the 58 donor pots, five pots with F. japonica and five pots
+with bare soil were randomly chosen and associated with target
+pots without cuttings. These pots were named hereafter ìcontrol
+potsî and were used for final chemical soil analyses in order to
+check for any modification in mineral nitrogen content. Leachates
+from these control donor pots were collected in PE flasks six times
+during the experiment (three times in April and three times in May)
+and analysed for polyphenol concentrations (see below for the
+details of the analysis). All donor pots werewatered daily from Monday to Friday. Target
+pots were only watered with leachate from donor pots. All donor
+pots received the same amount of water, which was adjusted so as
+to reach water saturation in all target pots. In order to avoid a potential
+effect from nutritive stress, we watered donor pots twice a
+month with NPK-enriched water concentrated at 0.2 mL/L. We
+simultaneously irrigated target pots with a 0.4 mL/L NPK-enriched
+water to complement pots for nutrients and reduce eventual
+nutritive differences between the two donor treatments. Salicaceae species are already used in the implementation of
+restoration techniques for their high resprouting capabilities and
+rapid growth rates (Kuzovkina and Quigley, 2005). They are pioneer
+species naturally growing along riverbanks in Europe and can
+therefore form a close plant cover (Radtke et al., 2012) and rapidly
+compete with F. japonica for light and nutrients. These characteristics
+make them good candidates for the restoration of F. japonica
+invaded areas.
+Cuttings of S. viminalis L., S. atrocinerea Brot. and P. nigra L. were
+provided by the PÙle National des Ressources GÈnÈtiques ForestiËres
+plant nursery (GuÈmenÈ-Penfao, Loire-Atlantique, France).
+We weighed and measured each cutting before the experiment and
+chose the 16 most homogeneous individuals from each species,
+excluding the largest and the smallest cuttings. Each of the treatments
+(bare soil and F. japonica) were replicated eight times for
+each target species, totaling 48 target pots with cuttings. Cuttings
+measured 30 cm and were half-buried in target pots before bud
+burst and before root establishment. Total polyphenol concentrations were measured regularly
+throughout the experiment in the solutions leached from the 10
+control pots. After measuring the water volume collected, each
+solution was filtered (0.53 mm) and analysed for the concentration
+of total phenol using Folin-Ciocalteu reactant (with gallic acid as a
+standard) that detects polyphenols including flavonols, flavonoids,
+anthraquinones and stilbenes through spectrophotometry at
+760 nm, with all these compounds already identified in Fallopia
+root extracts (Fan et al., 2010; Meiffren et al., 2010).
+In mid-May 2012, approximately 50 g of target soilwas collected
+for mineral N quantification in the first 5 cm depth from the 10
+control target pots. At the same time, leachates were collected and
+analysed for pH and mineral N content. Extraction was done with
+50 mL K2SO4 0.5 M and 10 g of soil. NO3
+ and NH4
+˛ concentrations were obtained with an OI analytical Flow solution IV analyzer
+colorimetric chain. Total N refers to the total mineral nitrogen
+concentration calculated with NeNO3 and NeNH4.
+At the end of July, above-ground and below-ground biomasses
+of each cutting were collected, oven-dried at 70 C for 48 h and
+weighed. We tested the effects of donor treatment (fixed factor with two
+levels e bare soil and F. japonica) and target species identity (fixed
+factor with three levels e S. viminalis, S. atrocinerea, P. nigra) on final
+biomasses with two-factor ANOVAs. As interaction between donor
+treatment and species identity was not significant and as we were
+interested in the effect of F. japonica leachate at the species level, we
+completed this global analysis by one-way ANOVAs performed for
+each species one by one in order to test significance levels of the
+donor treatment. We ran mixed-effects ANOVA with the date as a
+random effect (each individual cutting was considered as the
+grouping factor; six levels for the factor ìdateî e 4th April, 11th
+April, 16th April, 2nd May, 9th May, 16th May) and donor treatment
+as a fixed effect for polyphenol comparisons followed by Tukey
+post-hoc tests.We tested for mineral N content and pH differences
+between the two donor treatments (bare soil and F. japonica) with
+one-way ANOVAs.
+The ratio of above-ground to below-ground biomass was logtransformed
+to respect normality and homoscedasticity.
+All statistical analyses were carried out with the R software (R
+Development Core Team, 2009). xresults All the cuttings resprouted whatever the species and the
+treatment, showing no direct effect of F. japonica on cutting survival
+and resprouting capacity.
+F. japonica leachate modified the above-ground, below-ground
+and total biomasses, as well as the ratio of above to below-ground
+biomasses of the species compared to bare soil (for donor treatment:
+all F1, 42 > 4.8; p < 0.034). Ratios of above-ground biomass to
+below-ground biomass were significantly higher under F. japonica
+than under bare soil, as a consequence of a higher susceptibility of
+below-ground biomass to F. japonica leachate. Species differed in
+biomass production (for species effect: all F2, 42 > 14.1; p < 0.001):
+P. nigra was the species producing the most above-ground biomass
+and the two Salix species produced more below-ground biomass
+than the Populus species.
+Interaction between species identity and donor treatment was
+not significant for any of the biomass components (for
+donor  species interaction: all F2, 42 <1.4; p > 0.264), showing that
+the effect of F. japonica leachate was of similar direction for all
+species but with different intensities (Fig. 2). Indeed, at species
+levels, one-way ANOVAs showed that F. japonica leachate significantly
+reduced the total biomass of two target species out of three
+(Fig. 2). S. viminalis was the most sensitive species with both above and
+below-ground biomasses affected by F. japonica (F1, 14 º 4.8;
+p º 0.046 and F1, 14 º 11.1; p º 0.005 respectively). P. nigra cutting
+above-ground biomass was reduced (F1, 14 º 7.0; p º 0.019) but
+P. nigra below-ground biomass was not significantly affected by
+F. japonica leachate (F1, 14 º 3.8; p º 0.071). S. atrocinerea cuttings
+were much less sensitive to F. japonica leachate given that no significant
+differences could be shown for any of the biomass components
+(F1, 14 º 0.1; p º 0.776 and F1, 14 º 3.3; p º 0.090 for aboveground
+biomass and below-ground biomass, respectively). None of
+the above-ground to below-ground biomass ratios was significantly
+affected by F. japonica when the species were studied one by one (F1,
+14 º 2.1; p º 0.168 for S. viminalis, F1, 14 º 1.6; p º 0.224 for P. nigra
+and F1, 14 º 1.8; p º 0.206 for S. atrocinerea). ANOVA revealed that F. japonica leachates contained significantly
+more phenols than bare soil leachates (p º 0.011; F1,
+8 º 10.91 for donor treatment).
+Polyphenol concentration in leachate varied depending on the
+date of the measurement (p < 0.001; F5, 40 º 46.18 for date factor)
+and differences of polyphenol concentration between the two
+donor treatments varied with time (p º 0.007; F5, 40 º 3.75 for the
+interaction between date and donor treatment). Tukey post-hoc
+tests revealed that polyphenol concentrations measured on the
+2nd, 9th and 16th May were significantly higher than those
+measured the previous weeks (Fig. 3). Indeed, leachates under
+F. japonica contained between 3.08 and 4.93 mg L1 of polyphenol
+on average and leachates collected under bare soil contained between
+2.94 and 4.03 mg L1 on average.
+There was a mean 14% more polyphenol in leachates under
+F. japonica than under bare soil, with higher differences (˛15%
+and ˛21%) during the warmest days, 2nd and 9th of May,
+respectively). Fig. 4 gives the mean concentrations in nitrogen content
+measured in leachates and soil medium of the 10 pairs of donor/
+target control pots. The pH was around 7.5 in both the leachates
+collected under F. japonica and the leachates collected under bare
+soil. Nitrate and ammonium concentrations were globally high in
+the soil medium. Nitrate concentrations ranged from 1.53 to
+2.41 mg L1 in soil under F. japonica and from 1.09 to 1.5 mg L1 in
+soil under bare soil (min and max raw values). Ammonium ranged
+from 2.01 to 4.32 mg L1 in soil under F. japonica and from 2.17 to
+3.88 mg L1 in soil under bare soil (min and max raw values). In
+leachates (Fig. 4a), nitrate and ammonium concentrations were
+lower than in soil (Fig. 4b) and highly variable.
+No difference in nitrogen content appeared in leachates
+collected under F. japonica and under bare soil (p º 0.37; F1, 8 º 0.92
+for NH4
+˛, p º 0.28; F1, 8 º 1.34 for NO3
+ and p º 0.56; F1, 8 º 0.36 for
+total N). No significant difference was detected for pH in leachates
+under bare soil compared to leachates under F. japonica (p º 0.37;
+F1, 8 º 0.90). Similarly, none of the differences were significant
+between the two donor treatments for soil ammonium and total
+nitrogen (p º 0.96; F1, 8 º 0.003 for NH4
+˛, p º 0.75; F1, 8 º 0.11 for
+total N). However, there was significantly more nitrate in soil
+collected in target pots watered by F. japonica leachate than in those
+watered by bare soil leachate (p º 0.002; F1, 8 º 21.0). 
+
+
+xdiscussion
+ In this experiment, we submitted the cuttings to F. japonica
+leachate before they started to shoot and root, which corresponds to
+restoration conditions. Management practices recommend planting
+cuttings before budburst and before the beginning of rooting. We
+tested the effect of leachate of young F. japonica, whereas in the field
+F. japonica patches are sometimes several dozen years old and their
+rhizomes are densely developed. It is likely that such well-installed
+F. japonica is more aggressive and has a higher allelopathic potential
+than the young individuals we tested.
+The results showed a differential effect of F. japonica leachate
+on the three target species: S. viminalis cuttings produced significantly less above-ground and below-ground biomass when
+grown under F. japonica than when grown under bare soil.
+P. nigra aerial biomass was not significantly affected by F. japonica
+leachate, unlike its below-ground biomass. However, none of the
+biomass components of S. atrocinerea cuttings were significantly
+impacted by F. japonica leachate. Previous studies already
+demonstrated differences in sensitivity to allelochemicals between
+ligneous species (Orr et al., 2005). Although a mechanistic
+explanation cannot be given, the results suggest that a differential
+effect of F. japonica allelochemicals on tree species could
+lead to shifts in species composition because less sensitive species
+could gain a competitive advantage over more sensitive
+species during colonisation and successional processes on
+invaded areas (Orr et al., 2005). This hypothesis should be
+confirmed through the evaluation of the role of allelopathy
+compared to competition and other processes governing community
+assemblage. Secondly, the present results confirm the
+importance of choosing adapted species in restoration projects.
+Restoring invaded habitats by planting competitive plant species
+is gaining interest (Bakker and Wilson, 2004; Larson et al., 2013),
+but its success depends on the choice of appropriate species
+(Abella et al., 2012; Brown et al., 2008). S. atrocinerea seems to be
+more resistant to F. japonicaís chemically mediated effect, which
+makes this species a good candidate for restoration projects. In
+general, Salix species are already employed to restore riparian
+habitats. They resprout rapidly from cuttings and are particularly
+efficient against erosion by water (Evette et al., 2009). Moreover,
+they support a high faunal diversity (CavaillÈ et al., 2013;
+Kuzovkina and Quigley, 2005). We suggest Salix cuttings be
+tested as a solution to restore areas invaded by F. japonica but
+field tests need to be conducted to compare sensitivity of
+different Salix species to F. japonica toxicity at mid-term level.
+To better understand the mechanisms underlying the success
+of F. japonica over native species and improve restoration projects,
+it would also be advantageous to study the interaction
+between competition, allelopathy and management practices.
+Allelopathic responses of target species depend on their
+competition status (Viard-CrÈtat et al., 2013) and can be
+enhanced by manipulating the donor species by fertilisation or
+mowing (Viard-CrÈtat et al., 2009). As mowing is the most
+common method used to control F. japonica stands, it could be
+useful to control for any interaction between mowing and
+allelopathy.The results reported herein confirm the allelopathic effect of
+F. japonica and support the role played by some polyphenols in
+its negative impact. Previous studies have shown that Fallopia
+spp. could form mono-specific stands (Aguilera et al., 2010) and
+could modify the activity and/or the composition of microbial
+communities involved in the nitrogen cycle (Dassonville et al.,
+2011). Moreover, addition of activated charcoal reduces the
+negative effects of Fallopia spp. on neighbouring species (Murrell
+et al., 2011; Siemens and Blossey, 2007). All these factors suggest
+an effect of Fallopia spp. directly or indirectly mediated through
+the soil, which could explain part of its remarkable success.
+Biochemical studies of F. japonica rhizome identified original
+compounds from the polyphenol family absent in Chinese clones
+and able to inhibit germination and growth on several herbaceous
+species (Fan et al., 2010). These compounds were identified
+as the stilbenes glucoside piceatannol and resveratroloside, and
+as the proanthocyanidins catechin and epicatechin.
+4.2.1. F. japonica leachate did not reduce the resprouting capacity of
+Salicaceae cuttings but decrease their growth
+We show that F. japonica leachates did not reduce the survival
+and resprouting capacity of European Salicaceae cuttings, whereas
+they significantly reduced the growth of two of the three species
+tested. Ratios of above-ground to below-ground biomass were
+significantly higher when cuttings were watered by F. japonica
+leachate than control cuttings, indicating a greater impact on roots
+than on aerial parts. This result shows that growth allocation was
+modified when cuttings received F. japonica leachate, similar to the
+results of previous studies on seedlings (Orr et al., 2005; Turk and
+Tawaha, 2003; Viard-CrÈtat et al., 2009; Vrchotov· and Ser·,
+2008). Roots are particularly sensitive to allelochemicals because
+they are in direct contact with them. Indeed, Centaurea maculosa
+produces phenols such as ()-catechin that can cause cell death in
+the root system of the co-occurring target species Arabidopsis
+thaliana (L.) Heynh. (Callaway et al., 2005). Since F. japonica has also
+been shown to produce catechin (Fan et al., 2010; Vrchotov· et al.,
+2007), we could expect that roots are preferential targets for
+F. japonica allelochemicals. This first result seems to support the
+novel weapon hypothesis for F. japonica. The phytotoxic effect of the
+exotic invasive F. japonica on native Salicaceae gives a new example
+of the role of the novel weapon hypothesis in invader success.
+However, the relative importance of this mechanism in natural
+conditions needs further investigation.
+Allelopathy has been detected in Salix (see Brown, 1967 for the
+allelopathic effect of Salix pellita Anderss. on Pinus banksiana Lamb.)
+and Populus genera (see Jobidon and Thibault, 1981 for the example
+of allelopathic effect of Populus balsamifera L. on Alnus crispa Fern.).
+This property must have given them more resistance to F. japonica
+phytotoxic effects, given that plants producing phytotoxic compounds
+are also susceptible to develop resistance to allelochemicals
+in order to prevent autotoxicity through detoxification mechanisms
+(Inderjit and Duke, 2003). Our design did not allow us to test this
+hypothesis; however, it could be useful to compare the sensitivity
+to F. japonica allelochemicals between different species depending
+on whether or not they produce phytotoxic secondary compounds.This experiment demonstrates a negative effect of F. japonica
+mediated by soil leachate which could not be explained by resource
+competition. Indeed, target pots were watered regularly with a
+nutrient-enriched solution to avoid nutritive stress and total N
+content in target pots was not significantly different between the
+two treatments. F. japonica leachates could act directly through
+physical contact of the roots with allelochemicals or indirectly
+through the modification of microbial activity. F. japonica is known
+to contain polyphenols which once extracted from rhizomes have
+an inhibitory effect on seed germination (Fan et al., 2010). Our results
+add to this study by showing that F. japonica actively produces
+secondary compounds during the growth season. Polyphenol
+concentrations detected in this study were on the same order of
+magnitude (i.e. a few milligrams per litre) as those observed in
+similar experiments with Festuca paniculata (Viard-CrÈtat et al.,
+2009). This study also confirmed that soluble polyphenols are
+good candidates to explain the negative effect of F. japonica on
+cutting growth. However, the Folin-Ciocalteu method used in this
+study can only detect global phenol concentration, and only certain
+specific compounds (e.g. anthraquinones) can be responsible for
+allelopathy (Fan et al., 2010). The Folin-Ciocalteu method did not
+allow us to identify the allelochemicals responsible for the inhibitory
+effects observed. Our results support the hypothesis of the
+toxicity of some of the polyphenols contained in F. japonica leachate
+(Fan et al., 2010; Vrchotov· et al., 2010). Further experiments focussing on isolated chemicals are needed to elucidate the toxicity
+mechanisms (Inderjit and Callaway, 2003).Our experimental design with a physical separation between
+donor and target species allowed us to exclude direct competition
+between species to be a plausible explanation for the F. japonica
+effect. Furthermore, there were no differences in NH4
+˛, NO3
+ or pH in
+leachate content, suggesting that F. japonica did not significantly
+nor directly influence N metabolism. However, in soil target pots
+we detected no effect of F. japonica on total N content, but more
+NO3
+ under F. japonica than under bare soil (˛62% on average). This
+effect could tend to reduce the inhibitory effect of F. japonica
+leachates through soil enrichment and cutting growth stimulation.
+However, results showed that the negative effect of leachates was
+stronger than the positive effect of fertilisation as cuttings produced
+less biomass under F. japonica than under bare soil. Such
+double effect (inhibition and fertilisation) has already been reported
+in Festuca paniculata (L.) Schinz & Thell (Viard-CrÈtat et al.,
+2009) and authors raised the hypothesis of indirect effects
+through microbial equilibriums to be responsible of the soil nitrate
+enrichment. In our study, as there were no differences in NH4
+˛
+concentrations, F. japonica may well influence nitrogen soil
+composition indirectly via a reduction of denitrification.
+Dassonville et al. (2011) already reported the ability of F. japonica to
+change the activity of microbial communities and particularly to
+reduce the potential denitrification enzyme activity. Tharayil et al.
+(2013) also found a reduction of N-mineralisation under
+F. japonica patches and linked it to the concentration of tannins
+contained in F. japonica litter. The present study shows that
+F. japonica was also able to produce polyphenols during the
+growing season that could modify the soilís nitrogen composition.
+The reduction of N-mineralisation in soil could reduce N loss in a
+gaseous form and favour N forms available to the plant (Dassonville
+et al., 2011). F. japonica has been reported to increase soil nitrogen
+in its native range, which can be seen as an adaptation to nitrogenlimited
+volcanic habitat (Hirose and Tateno, 1984; Tateno and
+Hirose, 1987). Allelopathy studies are complex and raise several methodological
+issues. Laboratory experiments can test the effects of isolated
+chemicals on model species but do not reflect field conditions
+because their concentrations can differ from natural ones and their
+effect in the soil may depend on their solubility and stability
+(Inderjit and Callaway, 2003). In field experiments, allelopathic
+effects cannot be easily distinguished from competition interactions,
+and experiments using activated charcoal generate bias
+because this substance modifies plant biomass and microbial activity
+(Lau et al., 2008; Viard-CrÈtat et al., 2009). Here we attempted
+to simulate field conditions as closely as possible, using an original
+design separating competitive interaction from chemical interference
+and used the leachate of a living plant to mediate the chemical
+interaction. Repeated nutritive additions could lead to differences
+from field conditions, especially if in natural situations F. japonica
+has a strong impact on N status. However, we chose to add nutrients
+to donor pots as some species have been shown to produce
+more allelopathic compounds under nutritive stress, which could
+have led to over-estimating the impact of F. japonica leachate on
+target species (Hierro and Callaway, 2003). We also chose to add
+nutrients directly to target pots in order to remove potential bias of
+differential nutritive richness of leachate under F. japonica
+compared to bare soil. The final analyses of nitrogen composition
+confirmed that there was no significant difference in total nitrogen
+content of target pots. Although our experiment was time-limited
+and although polyphenol synthesis and release have been shown
+to depend on the seasons, we studied the leachate effect continuously
+during spring and summer, which are the seasons of high
+catechin production in C. maculosa (Inderjit et al., 2006). Moreover,
+this experiment took place during the growth period of F. japonica,
+which is also the growth period of target species and therefore the
+root system development period and potentially a period of high
+sensitivity to allelochemicals. This study confirms the allelopathic potential of the invasive
+F. japonica and shows its inhibitory effect on cuttings of European
+Salicaceae species. F. japonica produces phytotoxic soluble compounds
+which reduce the growth of native tree species, thus supporting
+the novel weapon hypothesis. This work also highlighted
+differential sensitivities of the target Salicaceae species, which
+makes these results potentially very useful to managers since the
+choice of species to restore invaded areas is crucial (Abella et al.,
+2012; Brown et al., 2008). Using resistant Salicaceae cuttings in
+restoration projects, particularly in invaded areas, could help to
+rapidly install a plant cover able to compete with F. japonica. Such
+technical solutions are appealing for long-term management strategies
+as competitive properties of restored plant communities
+should increase with time.

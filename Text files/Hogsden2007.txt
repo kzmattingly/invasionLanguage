@@ -1,0 +1,344 @@
+xabstract
+An established population of Cabomba caroliniana now covers extensive littoral areas in
+the shallow waters of Kasshabog Lake (Ontario). This is the first known naturalized population of this
+non-native aquatic macrophyte, commonly called fanwort, on the Canadian side of the Great Lakes basin,
+despite the fact that it was first reported in the 1930s. High dispersal potentials combined with the ability
+to adapt and grow in a range of environmental conditions have made C. caroliniana a nuisance species in
+Australia, Japan, and parts of the United States. However, little is known about the broader ecological
+implications of its introduction and establishment. Using a survey approach, we conducted a preliminary
+assessment of water chemistry, macrophyte, epiphytic algae, and macroinvertebrate communities found
+in C. caroliniana beds and compared them with native macrophyte beds in Kasshabog Lake. Light penetration
+was significantly reduced in the C. caroliniana beds and was the only sampled physio-chemical
+parameter that differed between bed types. We also found several notable differences in the structure and
+composition of biological communities within macrophyte beds. While native macrophytes were present
+in dense C. caroliniana beds, abundance was considerably low and unevenly distributed. Significantly
+more epiphytic algae was present on C. caroliniana plants, however community composition was comparable
+with epiphytic algae found on native macrophytes. The taxonomic composition of macroinvertebrates
+was similar between C. caroliniana and native beds, while abundance was substantially higher in
+C. caroliniana beds, owing to high densities of coenagrionids and chironomids. These differences suggest
+that C. caroliniana is changing macrophyte community composition in this lake, having an impact on epiphytic
+algae, and creating a new habitat for some macroinvertebrates. Further studies are required to
+determine the extent of these ecological impacts.
+
+
+
+xintroduction
+
+
+Cabomba caroliniana was first discovered in the
+Great Lakes basin in 1935 in the St. Joseph River
+system in Kalamazoo County, Michigan (Mills et
+al. 1993), and while there have been no confirmed
+sightings, it is possible that it is currently present in the Great Lakes. Native to Brazil, Argentina,
+Paraguay, and Uruguay in South America and the
+south-eastern United States (ÿgaard 1991), this
+species has readily naturalized lakes in northern
+temperate areas (e.g., Noel 2005, Lyon and Eastman
+2006). Recent invasions and infestations of
+this species, considered a noxious weed, have been
+recorded in Australia, Japan, Malaysia, India, and
+the United States (e.g., ÿgaard 1991, Mackey and
+ Swarbrick 1997). Little work has been done on this
+non-native macrophyte in Canada, until a naturalized
+population was discovered in Kasshabog Lake
+(Ontario) in 1991 (MacDonald 2002).
+As a nuisance species, this competitive, submersed
+macrophyte, commonly known as fanwort,
+grows prolifically and forms dense populations,
+which can displace native macrophyte species and
+may alter nutrient cycling (Sheldon 1994, Mackey
+and Swarbrick 1997, Wilson et. al. in press). Typically
+monotypic stands of C. caroliniana are known
+to impede water flow, alter navigation patterns, affect
+water quality, and restrict recreational activities
+(Mackey and Swarbrick 1997, MacDonald 2002).
+C. caroliniana is a submersed, perennial plant of
+the Nymphaeaceae that grows primarily from vegetative
+fragments and rhizomes with shallow, fibrous
+roots in stagnant to slow-flowing water bodies (e.g.,
+ponds, lakes, small rivers) with silty substrates.
+Finely divided submersed leaves are fan-shaped and
+typically found in opposite pairs, although are sometimes
+in whorls of three, while floating leaves are
+long and slender (1ñ3 mm wide/ 20 mm long) and
+alternate on the stem (ÿgaard 1991). The stems and
+leaves range in color from grass to olive green or are
+sometimes reddish brown. Solitary white emergent
+flowers are borne on long stalks. C. caroliniana,
+commonly referred to as fanwort, could be confused
+with native macrophytes, including Myriophyllum,
+Ceratophyllum, Megalodonta beckii, and Ranunculus
+trichophyllus, due to similar growth forms. However,
+C. caroliniana can be distinguished by the
+opposite pairs of palmately divided submersed
+leaves and the alternating floating leaves.
+C. caroliniana is most commonly found in shallow
+waters (1ñ3 m), covering extensive areas of
+lake littoral zones, but can also grow in deeper waters.
+Warm temperatures (13ñ27∞C), humid climates,
+and slightly acidic waters (pH 4ñ6) are
+considered optimal growing conditions. However
+C. caroliniana can withstand temperatures less than
+0∞C and can successfully overwinter under ice in
+northern regions (Riemer and Ilnicki 1968, Noel
+2005). This opportunistic species is adapted to seasonal
+fluctuations in water levels and has shown increased
+adventitious root development in
+moderately turbid, light-limited waters (Mackey
+and Swarbrick 1997). At the end of the growing
+season, stems become brittle and break apart. These
+fragments remain green, persist over winter, and resume
+growth in the spring. Mechanical fragmentation
+is also common during the growing season,
+particularly due to human activities (e.g., motor
+boating). Without contact with substrate, spontaneous
+adventitious rooting occurs at the nodes and
+rhizomes of free floating shoots (ÿgaard 1991), facilitating
+dispersal of the plants. Any fragment,
+with a single pair of expanded leaves, can produce a
+mature individual (Gregory 1974). Seed production
+does not appear to be a viable means of reproduction
+in northern areas (Noel 2005), but is important
+for reproduction in this insect pollinated species in
+southern areas. The morphology and biology of this
+species have been thoroughly described elsewhere
+(see ÿgaard 1991, Wilson et al. in press).
+Few studies have been conducted on biological
+communities found within C. caroliniana beds.
+This information is critical for understanding the
+broader ecological implications of the introduction
+and establishment of this non-native macrophyte.
+For example, reduced dissolved oxygen in the
+lower layers of dense non-native macrophyte beds
+(Unmuth et al. 2000) or exposure to plant-secreted,
+allelopathic compounds (Nakai et al. 1999, Gross
+2003) are known to negatively affect macroinvertebrates
+or algae. Alternatively, these communities
+could be positively affected by increased food
+availability or the creation of refuge from predators
+(Davork and Best 1982).
+The initial introduction of C. caroliniana into
+Kasshabog Lake likely resulted from an inadvertent
+dumping of an aquarium (MacDonald 2002). Alternatively,
+it may have been transferred on a boat propeller
+or trailer from an invaded lake in the United
+States. This established population provided an opportunity
+to study the ecological impact of this nonnative
+species on other aquatic communities.
+Currently, extensive beds of C. caroliniana are only
+found at localized sites which made it possible to
+compare invaded and non-invaded native macrophyte
+beds within the lake. Using a survey approach,
+we conducted a preliminary assessment of
+the macrophyte, epiphytic algae, and macroinvertebrate
+communities found in of C. caroliniana beds
+and compared them with native macrophyte beds in
+Kasshabog Lake. This work will provide the basis
+for future food web studies.
+xmethods
+
+
+
+Kasshabog Lake (77∞55'N, 44∞38'W) is a large
+(809 ha), relatively shallow lake (Zmean = 4.5 m) located
+in Peterborough County, Ontario. Kasshabog
+Lake is part of a watershed that ultimately drains
+into the Trent Severn Waterway and flows into
+Lake Ontario at the Bay of Quinte. The shoreline is extensively developed with cottages and the lake is
+highly used for recreational activities including
+boating and fishing.
+Six small bays, three dominated by native species
+(Potamogeton robbinsi, Najas flexillis, Myriophyllum
+sibiricum, or Elodea canadensis) and three
+dominated by C. caroliniana, were selected within
+the lake (Fig. 1.). Sampling sites (1 m2) were randomly
+selected in the littoral zone (~1 m deep) at
+the end of each bay which provided protection from
+prevailing winds and had similar shoreline profiles
+and organic sediment substrate. C. caroliniana can
+be found growing at depths up to 5 m, but is found
+in greatest abundance in these more protected sites.
+Three replicate samples were taken in each bay (n =
+18). This study was designed to identify changes in
+the biological communities in C. caroliniana beds
+compared to native beds and as a basis for future
+food chain impact studies.Water chemistry, submersed macrophyte, epiphytic
+algae, and macroinvertebrate samples were
+collected in this order at each site in early September
+2005, before macrophyte die-off occurred. Noel
+(2005) found that C. caroliniana in Kasshabog
+Lake continues to accumulate biomass well into
+October. Water samples (1 L) were taken from each
+site and analyzed in the lab for pH, total phosphorus,
+and chlorophyll a. Total phosphorus samples
+were digested using potassium persulfate and analyzed
+on an Ultrospec Biochrom spectrophotometer.
+Chlorophyll a samples were filtered through Whatman
+GF/C microfiber filters and frozen. Later,
+chlorophyll a was extracted using 90% acetone and
+analyzed using a spectrophotometer.
+All macrophytes found in each 1 m2 quadrat were
+physically removed and collected. Species were
+separated and identifications were made to the
+species level, if possible, according to Crow and
+Hellquist (2000). Samples were dried for 48 hr and
+weighed for biomass.
+Epiphytic algae were collected from the upper
+shoots (~15 cm) of the dominant macrophyte
+species at each site by inverting a sampling jar over
+the plant and cutting the stem, to ensure minimal
+disturbance of loosely attached epiphytes. The
+depth at which this sample was taken was dependent
+on the height of the dominant plant and was
+not necessarily at the same depth below the surface.The 100 mL sample jar was vigorously shaken for
+30 seconds to remove epiphyton, after which the
+plant material was removed, dried for 48 hr and
+weighed. In the lab, the macrophyte-free water was
+filtered through a GF/C filter for chlorophyll a
+analysis. Epiphytic biomass was reported as µg chl
+a ∑ g dry weightñ1. Taxonomic analysis was conducted
+on sub-samples fixed in Lugolís solution
+(Wetzel and Likens 2000). These samples were
+scanned for species composition on a compound
+microscope at 100x, until a minimum of 300 viable
+cells were identified and counted per sample. Taxa
+were identified to the genus level according to
+Prescott (1982) and Wehr and Sheath (2003).
+A D-net sweep was done in each 1 m2 quadrat
+for 30 seconds to collect zoobenthos found in the
+macrophyte bed and the sediments below. The collection
+was made by stirring the sediments and
+sweeping throughout the bed. Macroinvertebrates
+were identified to the family level (Merritt and
+Cummings 1984) and the relative abundance and
+biomass were determined for each site.
+Untransformed data were combined into native
+and Cabomba groups for statistical analyses and a
+Studentís T-test was conducted between these
+groups. Species diversity and equitability were calculated
+using the Shannon Wierner Diversity Index
+(Equation 1) and Shannonís equitability (Equation
+2). Equitability ranges from 0 to 1, with 1 representing
+complete evenness within a community.
+
+
+
+xdiscussion
+
+Our findings show that the structure and composition
+of biological communities in dense beds of
+Cabomba caroliniana differ from those found in
+native macrophyte beds in Kasshabog Lake. We
+have documented significant differences between
+C. caroliniana and native beds for underwater light
+conditions, macrophyte equitability, epiphytic algae
+biomass, and macroinvertebrate biomass and abundance.
+Lake water at all sites was slightly alkaline and
+oligotrophic (TP < 10 µg∑Lñ1). Biological productivity
+ranged from low (< 3 µg∑Lñ1 chl a) in water
+collected from native beds to moderate (2.5ñ9
+µg∑Lñ1 chl a) in water collected at C. caroliniana
+sites. Notable differences were observed in both
+measures of light conditions in the macrophyte beds
+(Table 1). Both Io and KPAR were significantly reduced
+in the C. caroliniana beds (P < 0.001). At
+two study sites, Golden Pond and Portage Bay, the
+percentage of surface light reaching the sediments
+(Io) were reduced to zero in C. caroliniana beds.
+The dense beds of C. caroliniana also produced
+steep light extinction curve coefficients (KPAR).
+Otherwise, no significant differences were recorded
+between physical and chemical characteristics of
+the macrophyte beds.
+No differences were detected in macrophyte biomass
+and diversity between plots dominated by native
+plants and Cabomba (p = 0.65 and p = 0.32;
+Table 2, respectively), although biomass was
+slightly higher and diversity lower in C. caroliniana
+beds. Aside from the four native species (Potamogeton
+robbinsi, Najas flexilis, Myriophyllum heterophyllum, and Elodea canadensis) which were selected
+for in native beds, the biomass of species
+found in both bed types (e.g., Vallisneria americana,
+Utricularia gibba) was 50% greater in native
+beds. Equitability was significantly lower in C. caroliniana
+beds (p = 0.001; Table 2). Lower equitability
+in C. caroliniana beds, despite selection of sites
+dominated by one species, suggests that other
+species are less evenly distributed within these
+dense stands and may forecast future losses of
+macrophyte diversity, particularly for low-growing
+native species such as Najas flexilis (Table 3). Ten
+species were found within C. caroliniana beds, but
+in very low proportions, including Potamogeton
+tenuifolius, P. strictafolius, P. zosteriformis, P.
+pusillus, Utricularia gibba, U. vulgaris, Vallisneria
+americana, Elodea canadensis, Najas flexilis, and
+Myriophyllum heterophyllum (Table 3). Noel (2005)
+found low densities of only five species established
+in C. caroliniana beds in Kasshabog Lake.
+The biomass of epiphytic algae (estimated by chl
+a) was significantly greater on the upper shoots of
+C. caroliniana plants when compared to the upper
+shoots of native plants (p = 0.04; Table 2). Mean
+biomass was 44% higher on C. caroliniana plants.
+This difference likely can be attributed to the
+growth morphology (i.e., highly divided leaves;
+growing just below the surface of the water where
+light levels are greatest and competition from other and equitability (p = 0.45; Table 2) were not significantly
+different between the macrophyte bed types.
+The lack of difference in epiphytes found on C. caroliniana
+and native plants may suggest that species
+composition was more related to the lake water
+chemistry than the host macrophyte (Cattaneo et al.
+1998).
+Macroinvertebrate biomass was significantly
+higher in natives beds (p = 0.008; Table 2), while
+species diversity (p = 0.55; Table 2) and equitability
+(p = 0.23; Table 2) did not differ between macrophyte
+beds. Community composition was similar
+between C. caroliniana and native beds. Of the
+eleven families identified, all were found in both
+macrophyte bed types, except Gammarus, which
+was only found on native plants. Total abundance
+was substantially higher in C. caroliniana beds,
+owing to high densities of coenagrionids and chironomids
+(p = 0.023; Table 5). In fact, mean overall
+abundance and the abundance of chironomids, coenagrionids,
+and hepatgeniid mayflies were all significantly
+higher in C. caroliniana beds (p < 0.05).
+The increased abundance of some predators (e.g.,
+odonates, chironomids) in C. caroliniana beds contributed
+to significantly more invertebrates being
+found, despite greater biomass being recorded in
+native beds. This could suggest that C. caroliniana
+beds are providing new habitats for some predacious
+macroinvertebrates. Finely dissected leaves
+and complex architectures are known to provide superior
+habitats for invertebrates (Dvorak and Best
+1982)
+Based on its extensive distribution and rapid
+spread within this central Ontario lake, we expect
+this non-native species will invade other lakes
+linked by the Trent-Severn Waterway, which ultimately
+flows in Lake Ontario. By the summer of
+2005, C. caroliniana was documented in the North
+River and two other lakes connected to Kasshabog
+Lake (H. Smith, pers. comm.). The expansion of
+dense monotypic stands of C. caroliniana will
+likely have implications for littoral zone food web
+interactions in lakes or wetlands within the Great
+Lakes basin. For example, the displacement of
+structurally diverse native macrophyte beds can
+alter resource and habitat availability for macroinvertebrates,
+affecting both primary and secondary
+productivity rates. Or, dense beds of invasive exotic
+macrophytes have been linked with reduced foraging
+efficiency and success of fish (Keast 1984,
+Engle 1995).
+This preliminary survey has identified several
+differences in light conditions, macrophyte, epiphytic algal, and macroinvertebrate communities in
+C. caroliniana beds compared to existing beds of
+native macrophytes. These results merit further
+studies which should include more extensive sampling
+and be designed to determine potential impacts
+of C. caroliniana on food web dynamics.

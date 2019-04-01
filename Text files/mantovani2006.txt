@@ -1,0 +1,334 @@
+xabstract
+The Sacca di Goro is a shallow, brackish, eutrophic coastal lagoon in the southernmost part
+of the Po River Delta (northern Adriatic Sea, Italy). It is heavily exploited for rearing the
+Manila clam (Tapes philippinarum), mean annual production since 1986 being 10 000 t.
+Commercial cultivation of bivalves can exert severe impact on a local environment, especially
+on the invertebrate community, reducing species richness and abundance. An in situ
+experiment was conducted from March 2003 to February 2004 to examine the effect of clam
+cultivation on the macrobenthic community. Replicated sites within an area licensed for
+clam farming were seeded with low (500 m2) and high (1500 m2) clam densities; the
+surrounding unseeded areas were used as a control. There were only weak effects of
+clam presence and density on macrobenthic community abundance and functional group
+composition. The main determinants regulating the macrobenthic community were seasonal
+variations in other biota, particularly proliferation of the invasive mussel, Musculista
+senhousia, in August, which in turn caused a significant increase in the biomass of surface
+deposit-feeders and the subsequent development of Ulva rigida beds in September.
+
+xintroduction
+There has been increasing recent interest in evaluating the
+collateral effects of commercial cultivation of bivalves on
+the local marine environment (Sorokin et al., 1999; Bartoli
+et al., 2001; Jie et al., 2001; Dame et al., 2002), especially
+on macrobenthic communities (Kaiser et al., 1996; Drake
+and Arias, 1997; Spencer et al., 1997; Gaspar et al.,
+2002, 2003). The main effect on non-target species is
+a reduction in species richness and abundance (Commito,
+1987; Dittman, 1990; Guenther, 1996; Ragnarsson and
+Raffaelli, 1999; Beadman et al., 2004; Pranovi et al.,
+2004), although in some cases the opposite effect has
+been recorded. This was caused by the use of plastic nets
+to protect clams from predation by shorebirds and crabs
+(Spencer et al., 1992), which increased sedimentation rates
+and consequently the density of some species of infaunal
+deposit-feeding worms (Spencer et al., 1997).
+This study was carried out in the Sacca di Goro, a shallow,
+brackish, eutrophic coastal lagoon located in the southernmost
+part of the Po River Delta (northern Adriatic Sea, Italy); the
+surface area is some 26 km2 and the average depth 1.5 m.
+The lagoon receives freshwater input rich in organic and mineral
+nutrients, derived from urban effluents and agricultural
+run-off. These factors are responsible for important alterations
+in ecosystem functioning characterized by eutrophic and dystrophic
+conditions in summer, algal blooms, oxygen depletion,
+and hydrogen sulphide production (Giordani et al.,
+1997; Viaroli et al., 2001). Clam farming has been practiced
+continuously in the lagoon since 1986 (Carrieri et al.,
+1992), and the mean annual yield has been 10 000 t. Clams
+are cultivated in licensed areas covering approximately
+9 km2 of the lagoon surface. Approximately 1.5e2 km2
+are intensively cultivated at a density of >500 m2 (Rossi,
+2000).
+The aim of this study was to investigate the effect of rearing
+clams, at low and high stocking densities, on the macrobenthic
+community, and on the taxonomic and functional
+composition of the community throughout an annual cycle,
+from seeding to harvesting.
+
+
+xmethods
+Study area
+The experiment was carried out for 11 months, starting on
+12 March 2003 (the preferred seeding month) and ending
+on 12 February 2004, within an area licensed for clam
+farming (Figure 1) in the Sacca di Goro. The experimental
+area was selected with regard to sandy/silty sediment characteristics,
+linked to a hydrodynamic regime that allows optimal
+clam growth and survival (Rossi, 2000). Before
+seeding, existing clams were removed from the experimental
+site by professional fishers.
+The study area (400 m2) was divided into subunits
+(Figure 2), left (Le) and right (R), seeded with clams of average
+length 19  2 mm and weight 1.65  0.51 g, at low
+(L) 500 m2 and high (H) 1500 m2 densities, for four
+treatments, respectively, labelled LLe, HLe, LR, and HR.
+The experimental area that remained unseeded served as
+a control (CR and CLe).
+Clam sampling and analysis
+Samples were collected monthly in each of the four cultivated
+sites from 12 March 2003 to 12 February 2004. Triplicate
+samples were taken randomly using two square
+frames, 40 cm side for the 500-m2 density seeding, and
+20 cm side for the 1500-m2 density seeding, designed to
+allow collection of adequate sample sizes, based on a pilot
+survey (data not shown). The sediment inside the frame was
+collected to a depth of 25 cm, and the samples were washed
+through a net (5-mm mesh) to remove the clams. These
+were transferred quickly to the laboratory where individual
+lengths and weights were measured.
+Macrobenthic community sampling
+and analysis
+Triplicate samples were collected with a van Veen grab
+(area 0.06 m2) with a penetration depth of 12 cm (approximately
+10 cm at the edge) at each site in March, April,
+June, August, and September, when macroalgal blooms
+and related dystrophic events were likely, and in February,
+after winter. Samples were filtered rapidly through a sieve
+of 0.5-mm mesh, and the material retained was fixed in
+8% buffered formalin and stained with Rose Bengal to
+facilitate sorting and identification. Each item was identified
+to species level when possible, using standard reference
+texts. The numbers of each taxon were recorded. The functional
+group for each taxon was defined, and the biomass
+was determined as ash-free dry weight (dw), after drying
+at 100(C for 24 h and burning at 450(C for 5 h.
+When present in the sample, the macroalga Ulva rigida
+was separated from the sediment, and its biomass determined
+as dry weight, after drying at 100(C for 24 h.
+Data analysis
+Macroinvertebrate community structure was assessed on
+the basis of abundance, biomass, species richness (Margalef’s
+d index), diversity (Shannon’s H index), evenness
+(Pielou’s J index), and functional group composition. Differences
+between L and H density and control sites, i.e.
+the effect of the factors ‘‘site’’ and ‘‘density’’, or between
+the sampling dates (factor ‘‘month’’), considering separately
+macrofauna, and clam length and weight, were tested
+with MANOVA. Normality of data was assumed, and
+homoscedasticity was tested using Cochran’s test. Post-hoc
+comparisons were performed using a Tukey test.
+The overall percentage contribution of each species to
+the average dissimilarity between ‘‘densities’’ and ‘‘times’’
+was ascertained using SIMPER (PRIMER ecological statistical
+software package; Clarke and Warwick, 1994).
+To analyse benthic communities, clams were removed,
+because they were sampled and analysed separately.
+
+xresults
+Manila clams
+The Manila clam seeding densities of 500 and 1500 m2 remained
+constant throughout the study period. Clams grew
+exponentially, reaching commercial size (D.P.R. 1639/68,
+Marine Fisheries Law) in October, at average lengths of
+35.4 and 36.4 mm, corresponding to average weights of
+10.54 and 12.15 g, respectively, at H and L densities.
+Macrozoobenthic community
+The statistical analysis of macrozoobenthic community data
+(abundance, biomass, richness, diversity, evenness, and
+functional groups) revealed no significant effect (F1,5 ¼
+1.421; p > 0.05) of the factor ‘‘site’’, i.e. there were no differences
+between Le and R, L and H density, and control,
+so the data from replicated sites were pooled. Consequently,
+results are presented as the average of six replicates
+for each site (L, H, and C) for density and month,
+for the parameters listed above.
+The macrozoobenthic species list, compiled over all sampling
+periods, consisted of 28 taxa (Table 1). Variations in
+total abundance (Figure 3) were not significantly different
+(F2,90 ¼ 1.626; p > 0.05) in the cultivated sites or control,
+except in August, when the control (25 782 m2) and
+H density (22 804 m2) experienced a reduction (F5,90 ¼
+5.717; p < 0.01) not found at the L-density sites. In September
+all plots contained lower densities than in June
+(F5,90 ¼ 6.012; p < 0.01) and February (F5,90 ¼ 5.199;
+p < 0.01).
+The biomass data followed the same pattern of no significant
+difference between sites (F2,90 ¼ 1.849; p > 0.05), with
+the lowest value in September (F5,90 ¼ 7.187; p < 0.01), but
+complete recovery in February (F5,90 ¼ 9.159; p < 0.01).
+SIMPER showed that the dominant taxa (90% of total
+abundance) in all treatments throughout the study period
+were the polychaetes Polydora ciliata, Capitella capitata,
+Prionospio multibranchiata, and Streblospio shrubsolii, together
+with the amphipods Microdeutopus gryllotalpa and
+Ampelisca sp., showing average dissimilarities never higher
+than 40%. SIMPER also revealed a trend of increasing
+complexity, as four species (S. shrubsolii, P. multibranchiata,
+C. capitata, and N. succinea) contributed 90% of
+the similarity in March. These four species increased to
+five in April, six in June, and seven in August and September,
+in relation to the successive appearance of the amphipods
+Ampelisca sp., M. gryllotalpa, and Gammarus spp.,
+respectively.
+Community indices are reported in Table 2. Shannon’s
+index increased significantly (F5,90 ¼ 23.894; p < 0.01)
+from March to June, decreased in August (F5,90 ¼ 18.544;
+p < 0.01) in H and C, and increased (F5,90 ¼ 9.111;
+p < 0.01) in February 2004, in all treatments. A parallel
+trend was revealed for Pielou’s index, with the lowest
+values in August (F5,90 ¼ 12.170; p < 0.01) in H and C.
+Margalef’s index increased (F5,90 ¼ 23.709; p < 0.01)
+over the sampling period.
+Functional group composition indicated a strong dominance
+of surface deposit-feeders (SDF), mainly S. shrubsolii
+and P. multibranchiata (Figure 4). The density of SDF
+showed a parallel trend in H and L density, and C, in all
+months except August, when L (36 710 m2) was significantly
+higher (F2,90 ¼ 3.299; p > 0.05) than H (16 403 m2)
+and C (19 209 m2). Subsurface deposit-feeders (SSDF)
+remained stable throughout the study period, densities ranging
+from 700 to 2000 m2, but increased significantly
+(F5,90 ¼ 3.614; p < 0.05) in February (4174, 7689, and
+7634 m2). Filter-feeders (FF) were present at densities
+<200 m2. They peaked in August (F5,90 ¼ 40.429;
+p < 0.01), reaching densities of 4865, 4637, and 5260 m2,
+in H, L, and C, respectively, and decreased (F5,90 ¼ 31.981;
+p < 0.01) in September (600e2000 m2) and February
+(900e1500 m2). Further, the mussel Musculista senhousia,
+rarely found from March to June (0e60 m2), built extended
+mats in H- (3688 m2) and L-density (4643 m2) cultivated
+sites, and in C (3928 m2) during August.
+Ulva rigida biomass
+Ulva rigida was observed in the experimental area in
+August (Figure 5), in the sites with H density first, with
+a biomass of 52 and 20 g dw m2, respectively, for HLe
+and HR. In September the macroalgal bed completely covered
+the area, with a biomass varying from 31 (in HR) to
+364 g dw m2 (in LR). In February, the experimental area
+was completely devoid of algae.
+
+
+xdiscussion
+Invertebrate abundance in temperate soft-bottom habitats
+usually varies seasonally, with two peaks typically in spring
+and autumn (Guelorget and Michel, 1979; Castel et al., 1989;
+Arias and Drake, 1994). In the Sacca di Goro lagoon, such
+temporal fluctuation was constantly disturbed by clam rearing,
+because the licensed areas cover >30% of the surface
+and the remaining part is variably exposed to some activity,
+such as harvesting naturally settled adult clams and/or spat.
+In common with other coastal habitats subjected to heavy
+fishing stress (Auster et al., 1996; Frid et al., 1996; Jennings
+and Kaiser, 1998), it is difficult to identify control sites where
+the benthic community is undisturbed. Consequently, in the
+present study, the control site selected was an area not
+recently affected by clam farming, but potentially indirectly
+affected by disturbance in nearby parts of the lagoon. A previous
+study on the effects of manual harvesting on a clamcultivation
+area of the Sacca di Goro lagoon showed recovery
+within a month of harvesting (Castaldelli et al., 2003). Therefore,
+as the control site had not been exposed to direct
+anthropogenic disturbance for a year prior to the experiment
+(March 2003), the resident macrobenthic community was
+considered to be undisturbed.
+Previous studies on the effects of bivalve cultivation on
+non-target species identified significant alteration of community
+structure, in the form of reduced diversity and richness
+(Commito, 1987; Dittman, 1990; Guenther, 1996;
+Ragnarsson and Raffaelli, 1999; Beadman et al., 2004; Pranovi
+et al., 2004), or more specific effects on particular
+taxa, principally on burrow-dwelling invertebrates (Flach,
+1996; Spencer et al., 1996). The main causes of these
+changes are ascribable to the presence of unstable sediments,
+common in bivalve cultivation areas, owing to the
+high rates of deposition of faeces and pseudo-faeces, movement
+of bivalves (Kautsky and Evans, 1987), and the lack
+of space for burrow construction (Jensen and Kirstensen,
+1990).
+In this study, significant differences in density, biomass,
+and functional group composition were found rarely between
+treatments and control. The macrozoobenthic community
+appeared to be dominated by highly tolerant
+opportunistic species of small size, high motility, and short
+life cycle, as reported by Mistri et al. (2001) for locations of
+the Sacca di Goro outside the licensed clam-cultivation
+areas, and in other European lagoons and embayments subjected
+to trawling and mollusc-farming (Drake and Arias,
+1997; Mistri et al., 2000; Thrush et al., 2001). In our experimental
+site, small polychaetes (<3 mm long) dominated,
+in both cultivated and control areas, indicating the absence
+of spatial limitation of clams evident in other environments
+(Jensen and Kirstensen, 1990).
+Clam presence and density seemingly did not affect the
+temporal fluctuation of invertebrate abundance and functional
+group composition, in apparent contrast to studies
+conducted in the United Kingdom (Kaiser et al., 1996;
+Spencer et al., 1996, 1997), where plastic nets, protecting
+clams from crabs and shorebirds, enhanced sedimentation
+rates and deposit-feeder densities (Spencer et al., 1992).
+Other bivalve cultivation techniques, such as American
+hard-shell clams (Mercenaria mercenaria) being placed in
+net bags on intertidal shores (Mojica and Nelson, 1993),
+or mussels (Mytilus galloprovincialis), suspended in largemesh
+plastic sacks (Nizzoli et al., 2005), increase accumulation
+of particulate organic matter in the sediment,
+resulting in reduced diversity of natural macrofaunal assemblages,
+and favouring the dominance of small, hypoxiae
+anoxia tolerant, species (Haven and Morales-Alamo, 1966;
+Dame et al., 1980). Nets are not necessary in the subtidal,
+naturally sheltered, clam-farming areas in the Sacca di
+Goro, and marine vivification was recently increased by
+dredging many channels adjacent to rearing sites, favouring
+the flushing of faeces and pseudo-faeces from the area.
+The potential effect of organic matter accumulation became
+evident during the rapid increase of filter-feeders
+recorded in August (Figure 4), owing to the presence
+of the mussel Musculista senhousia, which did not
+affect our experiment, i.e. clam densities altering clam
+growth and/or mortality (Mistri, 2004). Extended mats
+of M. senhousia retained more organic matter on the
+sediment, and this modified the benthic community
+composition, favouring detritivores such as S. shrubsolii, as
+already reported (Crooks, 2001; Mistri, 2003). One of the
+highest SDF abundances (36 710 m2, mainly S. shrubsolii
+and P. multibranchiata) was recorded in the L-density site,
+concomitant with the highest M. senhousia abundance
+(4643 m2).
+In the same period, there was a significant decrease of
+SDF and an increase of amphipods (M. gryllotalpa and
+Gammarus spp.) in plots H and C, in relation to the appearance
+(August) and development (September), of the macroalga
+U. rigida, reducing also the abundance of M. senhousia
+(F5,90 ¼ 36.429; p < 0.01). Surface deposit-feeders are the
+group that is most sensitive to the presence of macroalgal
+beds, being negatively affected by the reduction of oxygen
+related to algal respiration and enhanced bacterial activity
+(Norkko and Bondsdorff, 1996; Osterling and Pihl, 2001).
+A study conducted in other areas of the Sacca di Goro lagoon
+failed to show significant correlations between Gracilaria
+verrucosa biomass and macroinvertebrate community
+parameters. Dystrophic events were not recorded, and the
+only negative effect was on the dominant bivalve species,
+Cerastoderma glaucum, which suffered from physical interference
+with filter-feeding activity, as hypothesized by
+Mistri et al. (2001). In the licensed clam-farming areas,
+G. verrucosa thalli were rarely found, while Ulva spp.
+accumulation, decomposition, and related dystrophic crises
+took place for many years (Viaroli et al., 1992, 2001,
+2003), leading to mass mortality of clams and non-target
+benthic fauna (Rossi, 2000).
+At the experimental site, rapid development of U. rigida
+and its crash at the end of summer appeared to be the strongest
+disturbance, indicating that August and September
+were the most dominant months for this alga, as confirmed
+by diversity and evenness values which were lower than
+those registered after the cold season (February).
+The benthic community in clam-culture areas of the
+Sacca di Goro lagoon presented a characteristic composition
+and structure, established by a 20-year chronic regime
+of anthropogenic disturbance, owing to both eutrophication-
+related phenomena and clam-rearing practices. In the
+present situation, sudden and unpredictable events, such
+as the rapid development and disappearance of M. senhousia
+and U. rigida at the end of summer, appeared much
+more influential in regulating macrofaunal assemblages
+within clam-cultivation sites, than the clams.

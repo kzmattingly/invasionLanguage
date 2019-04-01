@@ -1,0 +1,1233 @@
+xabstract
+Cascading trophic interactions are important in many freshwater pelagic
+ food webs, but their importance in more complex, omnivore-rich littoral-zone food webs
+ is less well known. We tested the existence of a trophic cascade involving omnivorous
+ crayfish (Orconectes rusticus), macroinvertebrates, periphyton, and macrophytes using 9-M2
+ cages in the littoral zone of Plum Lake, Wisconsin, USA. Treatments in the replicated (N
+ = 4) experiment were crayfish enclosures, crayfish exclosures, and cageless references.
+ During June-September, we measured macrophyte shoot numbers, macroinvertebrate
+ numbers, and periphyton (on plastic strips) chlorophyll a, and dry mass (DM). We expected
+ that crayfish foraging would directly reduce abundance and change species composition of
+ macrophytes and macroinvertebrates and would indirectly enhance periphyton abundance
+ by reducing the abundance of grazing snails.
+ In enclosures, macrophyte and snail (but not nonsnail macroinvertebrate) densities
+ declined significantly throughout the experiment, whereas densities of macrophytes, snails,
+ and nonsnail macroinvertebrates increased in exclosures and cageless references. Some of
+ the reduction in macrophytes resulted from nonconsumptive fragmentation of macrophytes
+ by crayfish. Consistent with the cascading trophic interactions model, periphyton chloro-
+ phyll a per unit surface area increased in enclosures, but declined in exclosures. Periphyton
+ quality (as indexed by chlorophyll a/DM) also increased in enclosures relative to exclosures
+ and cageless references. However, because of large reductions in macrophyte surface area
+ (which periphyton colonizes) in enclosures, total amount of periphyton chlorophyll a in
+ enclosures (relative to exclosures) probably declined while periphyton quantity per unit
+ surface area and periphyton quality increased. Thus, the impacts of crayfish omnivory on
+ periphyton, expressed in two conflicting indirect effects, confirm the possibility that om-
+ nivory can complicate cascading trophic predictions. Overall, results support the existence
+ of strong trophic interactions in the littoral zone, in which omnivorous crayfish control
+ abundance of macrophytes, snails, and periphyton
+
+xintroduction
+ Biological communities respond to multiple ecolog-
+ ical forces, including abiotic factors and food web con-
+ figurations (Diamond and Case 1986, Menge and Suth-
+ erland 1987, Oksanen and Ericson 1987, Bartell et al.
+ 1988). For many communities, however, attention by
+ ecologists to different factors has shifted over time. For
+ example, an older emphasis on the important role
+  played by abiotic factors, especially nutrients, in de-
+ termining freshwater pelagic community structure and
+ productivity (Wetzel 1983) has given way to a synthetic
+ view that includes the important role of cascading tro-
+ phic interactions (Carpenter et al. 1991).
+ A similar, but less conclusive, research trend exists
+ for freshwater littoral communities. An ongoing re-
+ search tradition emphasizes the importance of abiotic
+ factors in determining abundance and species com-
+ position of macrophytes (Spence 1982, Wetzel 1983,
+ Chambers and Kalif 1985, 1987, Anderson and Kalif
+ 1986, Chambers 1987a, b), periphyton (Stevenson et
+ al. 1985, Cattaneo 1987, Fairchild et al. 1989), and
+ invertebrates (Lodge et al. 1987, Rasmussen 1988).
+ However, a large proportion of more recent work has
+ explored the importance of biotic factors (Sih et al.
+ 1985, Lodge et al. 1988), especially predation by fishes
+ on invertebrates (Hall et al. 1970, Crowder and Cooper
+ 1982, Morin 1984, Post and Cucin 1984, Bendell and
+  McNichol 1987, Mittelbach 1988, Collins 1989, Diehl
+ 1992), competition among macrophyte species
+ (McCreary 1991), and herbivory on periphyton (Lam-
+ berti and Moore 1984, Cattaneo and Kalff 1986, Os-
+ enberg 1989) and macrophytes (Lodge 1991, Newman
+ 1991). This recent body of work, including discoveries
+ of cascading, indirect effects (Mazumder et al. 1989,
+ Weber and Lodge 1990, Br6nmark et al. 1992, Martin
+ et al. 1992), suggests that food web configuration, in
+ addition to abiotic factors, may be a major force in
+ structuring freshwater littoral communities.
+ Strong (1992) suggests that trophic cascades exist
+ almost exclusively in aquatic communities, and that
+ this pattern exists because these communities are spe-
+ cies-poor and based on poorly defended plants (algae).
+ Strong (1992) argues that top-down forces are unlikely
+ to affect producers in more speciose communities.
+ However, even if freshwater pelagic food webs are sim-
+ ple (cf. Sprules and Bowerman 1988, see Polis 1991
+ for a cautionary analysis of an apparently simple food
+ web), benthic communities in the same lakes are cer-
+ tainly not (Lodge et al. 1988). Benthic communities
+ are more like terrestrial than pelagic communities
+ (Lodge et al. 1988) with regard to habitat structure,
+ spatial heterogeneity, the prominence of vascular plants
+ (in addition to algae), and the prevalence of omnivory.
+ While the arguments of Strong (1992) have intuitive
+ appeal and some empirical support, increasing evi-
+ dence suggests that even speciose benthic communities
+ may respond strongly to top-down forces (Posey and
+ Hines 1991, Brdnmark et al. 1992, Martin et al. 1992,
+ Power 1992a). As Power (1992b) points out, even tan-
+ gled trophic webs can respond with chain-like dynam-
+ ics. In this paper, we test the strength of top-down
+ effects, including indirect effects, by an omnivorous
+ crayfish, Orconectes rusticus, on a freshwater food web
+ complicated by multiple omnivorous links and com-
+ petitive interactions.
+ Omnivory by 0. rusticus and some aspects of its
+ impact on littoral communities have been described
+ previously. The diet of 0. rusticus includes macro-
+ phytes, invertebrates, and periphyton (Lorman 1975,
+ 1980), but individuals grow best on a diet of inverte-
+ brates or a mixed diet that includes invertebrates (Hill
+ et al. 1993). Preliminary experiments suggest that 0.
+ rusticus reduces macrophyte abundance (Lodge and
+ Lorman 1987, Lodge 1991). In addition, much work
+ suggests that among invertebrates, snails are particu-
+ larly vulnerable to predation by 0. rusticus (Lodge and
+ Lorman 1987, Olsen et al. 1991) and other crayfish
+ (Crowl and Covich 1990, Hanson et al. 1990, Alex-
+ ander and Covich 1991). This is consistent with the
+ model of Lodge et al. (1987) that argues that snail
+ assemblages in permanent lakes are likely to be struc-
+ tured by predation. In preliminary support of these
+ patterns and predictions, a correlative field study in
+ Trout Lake, Wisconsin suggested crayfish reduced
+ abundance of snails (which often control periphyton
+ abundance [Br6nmark 1989]), and indirectly enhanced
+ periphyton abundance (Weber and Lodge 1990). Thus,
+ the potential for strong top-down direct and indirect
+ effects exists, but the extent to which crayfish omnivory
+ could dampen the effects of a trophic cascade in a
+ complex community is unknown.
+ In about the 1960s, Orconectes rusticus, native to
+ the lower midwestern U.S., was introduced into north-
+ ern Wisconsin, where two ecologically similar, con-
+ generic crayfishes (0. vir/is and 0. propinquus) already
+ occurred (Capelli and Magnuson 1983, Lodge et al.
+ 1986, Hill et al. 1993). The impact of 0. rusticus on
+ the benthic community may be greater than that of its
+ congeners, but all congeners (Seroll and Coler 1975,
+ Chambers et al. 1990, Hanson et al. 1990, Olsen et al.
+ 1991, Hazlett et al. 1992, Hill et al. 1993) and some
+ other crayfish genera (Flint and Goldman 1975, Coffey
+ and Clayton 1988, Feminella and Resh 1989, Mat-
+ thews and Reynolds 1992) probably have strong neg-
+ ative effects on macrophytes and macroinvertebrates.
+ Our experiment specifically tests the impact of 0. rus-
+ ticus, but may more generally suggest the role of cray-
+ fishes in benthic communities.
+ The littoral-zone food web in which we established
+ crayfish enclosures, crayfish exclosures, and cageless
+ reference areas is complex (Fig. 1). Possible outcomes
+ of changing crayfish abundance are many, depending
+ on the relative strength of interactions (sensu Paine
+ 1980). With our experiment, we are able to compare
+ the relative strength of competing direct (omnivorous)
+ and indirect links, as explained below. Based on earlier
+ work (citations above), our prediction (bold arrows in
+ Fig. 1) was that increased crayfish abundance would
+ cause a decrease in snails (arrow 1) and an increase in
+ periphyton (arrow 2). Both the direct effects of crayfish
+ herbivory on macrophytes (arrow 3) and increased
+ competition for light (as a result of a thicker periph-
+ yton) would reduce macrophytes (arrow 4; Bronmark
+ 1989, Underwood 1991, Martin et al. 1992). Alter-
+ native outcomes are many and include the following.
+  If the direct, negative effect of crayfish on periphyton
+ (arrow 5, France and Welbourn 1992) exceeds the in-
+ direct, positive effect (arrows 1 and 2), periphyton
+ abundance would decline with increased crayfish, and
+ the indirect effect on macrophytes (arrows 5 and 4)
+ would be positive. Macrophytes would also be posi-
+ tively affected if the herbivorous interaction between
+ snails and macrophytes (arrow 6) is strong, as suggested
+ by Sheldon (1987, 1990, cf. Br6nmark 1990) (indirect
+ linkage 1, 6 outweighing direct linkage 3). If direct and
+ indirect interactions of crayfish with other macroin-
+ vertebrates (arrow 7) and periphyton (arrow 8), re-
+ spectively, are also strong, they would simply accen-
+ tuate the positive response of periphyton produced by
+ interactions 1 and 2. If, however, the competitive in-
+ teraction between snails and other macroinvertebrate
+ algivores (arrow 9; Cuker 1983, Cattaneo and Kalff
+ 1986) is strong, nonsnail algivores would respond pos-
+ itively as crayfish reduce snails, and grazing pressure
+ on periphyton might stay constant. Thus, most of the
+ interactions indicated on Fig. 1 have been demonstrat-
+ ed in experiments, but their relative strength has not
+ been tested and is often a contentious issue among
+ ecologists (e.g., Sheldon 1987, 1990, cf. Br6nmark
+ 1 990).
+ Our field cage experiment does not have the power
+ to discriminate among all possible mechanistic path-
+ ways in this highly connected web, because we do not
+ examine the mechanisms directly. Our experimental
+ design allows us, however, to infer the relative strength
+ of conflicting interactions on the basis of the direction
+ and strength of responses by different trophic levels.
+ For example, if both snails and periphyton declined
+ (and other macroinvertebrates did not respond) with
+ increasing crayfish, we could conclude that the direct
+ link between crayfish and periphyton (arrow 5) is stron-
+ ger than the indirect link (arrows 1 and 2). We would
+ therefore reject the trophic cascade model for this lit-
+ toral zone community.
+
+xmethods
+ Study site
+ In May-September 1987, we studied the effect of a
+ benthic omnivore, Orconectes rusticus (Girard), on the
+ abundance of littoral zone macroinvertebrates, mac-
+ rophytes, and periphyton. Our study site was located
+ along the northwest shore of Plum Lake (Vilas County,
+ Wisconsin, Township 41 N Range 8E), a circumneutral,
+ mesotrophic, drainage lake (methyl orange alkalinity
+ 49.5 mg/L, conductivity 90 AS, surface area 380 ha,
+ maximum depth 15 m) (Black et al. 1963). At the
+ experimental site, the lake bottom was sand with a thin
+ organic covering, with abundant submersed macro-
+ phytes. Three congeneric crayfishes, Orconectes rusti-
+ cus, 0. virilis (Hagen), and 0. propinquus (Girard), oc-
+ cur in the lake, but in low abundance at the experimental
+ site (< 1 adult crayfish/M2; see Results). The fact that
+ crayfish occur in the lake, abundantly at some sites (D.
+ M. Lodge et al., unpublished data), indicates that lake-
+ wide physicochemical conditions are suitable for cray-
+ fish. The duration of our experiment was too short for
+ demographic responses or colonization by most prey.
+ We therefore chose to conduct the experiment at a site
+ where crayfish abundance was low, in the hope that
+ even prey species that are particularly vulnerable to
+ crayfish would be present initially. Thus, our experi-
+ ment mimics responses of the benthic community to
+ changes in crayfish abundance that may result from
+ declines in predatory fish abundance or from invasions
+ by 0. rusticus.
+ Design and installation of the experiment
+ During June, we installed an in situ cage experiment
+ that consisted of four replicates of three treatments:
+ crayfish exclosures, crayfish enclosures, and cageless
+ reference areas. Each cage and cageless reference area
+ encompassed 9 m2 (3 x 3 m) at a water depth of 0.95-
+ 1.30 m. Each cage was 2 m tall.
+ The cageless reference treatment differed from caged
+ treatments both in the absence of a cage and the pres-
+ ence of fishes (which we excluded from cages). Al-
+ though a treatment controlling for cage effects would
+ have been desirable, partial cages would have been
+ unsatisfactory because any such structure in the littoral
+ zone attracts dense concentrations of fish and crayfish.
+ Thus, the comparison of greatest interest is between
+ enclosures and exclosures because it directly tests the
+ effects of crayfish while controlling for any cage arti-
+ facts. Because exclosures and cageless reference treat-
+ ments had similarly low densities of crayfish (both < 1
+ adult crayfish/M2; see Results), a comparison between
+ exclosures and cageless references may provide some
+ insight into both cage and fish effects, but these two
+ factors cannot be rigorously separated. Thus, this com-
+ parison is of secondary interest.
+ Cages consisted of wooden frames, covered on all
+ four sides by aluminum window screening (square mesh
+ size = 1 mm). Screening held directly above a LI-COR
+ light sensor reduced light by 30%, but the reduction in
+ light experienced by plants in the cages would have
+ been much less because the tops of the cages were
+ uncovered. Every 1-2 wk, we scrubbed the mesh walls
+ of the cages to reduce fouling and enhance water move-
+ ment. Cage bottoms and tops were left open, but be-
+ cause tops protruded at least 0.70 m above the water
+ surface, no crayfish escaped. Cage bottoms were buried
+ 1 5 cm in the sediments and anchored with cinder blocks.
+ Metal flashing (sheeting 15 cm wide) on the cage top
+ (parallel to the water surface) and bottom (perpendic-
+ ular to the sediment surface) of all cages prevented
+ crayfish escape or entry. Twice-monthly visual inspec-
+ tions confirmed the absence of crayfish burrowing un-
+ der the cage bottoms.
+ Each experimental block (one enclosure, one exclo-
+ sure, one cageless reference, in random placement
+  within each block) was 15-20 m from other blocks.
+ Within each block, enclosure and enclosure cages were
+ 2-4 m apart. Cageless references were farther (10-12
+ m) from the cages to prevent artifacts in the cageless
+ references resulting from predation by fish and crayfish
+ attracted to the cages. Cageless references were marked
+ with a metal stake at each corner. The entire experi-
+ ment spanned z 140 m of shoreline.
+ Before establishing the treatments, we used baited
+ traps to remove crayfish from each exclosure and en-
+ closure. Visual SCUBA surveys in each cage confirmed
+ that we had removed all crayfish.
+ Crayfish for stocking were collected in nearby Trout
+ Lake (Vilas County, Wisconsin Township 41 N, Range
+ 7E) during 8-15 June and maintained in outdoor tanks.
+ On 20 June, we added adult male 0. rusticus to enclo-
+ sures at the density of 8 animals/M2 (72 crayfish/cage),
+ equivalent to a wet biomass density of 68 g/m2 (as
+ estimated from carapace lengths, CL, in millimetres,
+ using the following regression for male 0. rusticus: log
+ mass = 0.0435CL - 0.3972; N = 25, r = 0.9717, P <
+ 0.001). Each enclosure received the same size distri-
+ bution (<25 mm carapace length [6 crayfish], 25-29
+ mm [37], 30-34 mm [22], and 35-55 mm [7]).
+ Crayfish densities in enclosure cages (8 individuals/
+ m2) accurately simulated predation and grazing pres-
+ sures experienced in many northern Wisconsin benthic
+ communities. The size range of crayfish we used in-
+ cludes some 1-yr-old crayfish (<25 mm), but mostly
+ ages 2 and 3 yr (Lorman 1980). In Upper Sugarbush
+ Lake, the Vilas County lake for which the most detailed
+ information exists, summer densities of 1-3 yr old 0.
+ rusticus were 1-56 individuals/, depending on hab-
+ itat and month (Lorman 1980). In other lakes, mean
+ densities of 0. rusticus and/or congeners (> 20 mm) in
+ sandy to rocky habitats are 1-15 individuals2 (Ca-
+ pelli 1975, Stein 1977, Lodge et al. 1987, Olsen et al.
+ 1991). Thus, the density of crayfish in our enclosure
+ cages is well within the range of natural densities of
+ adult crayfishes.
+ The exclusive use of crayfish > 19 mm carapace length
+ and the exclusive use of male crayfish may have in-
+ troduced countervailing biases into the experiment.
+ Large 0. rusticus are more herbivorous than small
+ crayfish, but males are more carnivorous than females
+ during most of the year (Lorman 1975). (Comparisons
+ of feeding by male and female 0. virilis made by Han-
+ son et al. [1990] apply only to females carrying eggs
+ like those used in their experiments.) While natural
+ crayfish populations have a sex ratio near 50:50 (Mo-
+ mot 1986), our inability to catch small crayfish and
+ female crayfish in early summer (see Lodge et al. 1986)
+ dictated our stocking regime.
+ Monitoring crayfish densities
+ Crayfish densities in enclosures and enclosures were
+ monitored throughout the experiment. Once per month,
+ a snorkeler counted all visible crayfish in each cage.
+ During the first 3 d after introduction, we replaced 13
+ dead crayfish in enclosures with crayfish of equal car-
+ apace lengths, but did not add any crayfish thereafter.
+ Baited traps were kept in the crayfish exclosures for
+ the entire summer to ensure that cages in this treatment
+ remained free of crayfish. We visually censused adult
+ crayfish within the boundaries of each cageless control
+ on 8 August.
+ Sixteen days before the introduction of 0. rusticus
+ and at monthly intervals thereafter, we used SCUBA
+ to sample macrophytes, macroinvertebrates, and pe-
+ riphyton in all cages and cageless controls as described
+ below.
+ Macrophyte sampling
+ We used a 1-iM2 quadrat (3 x 1/3 m) to census the
+ macrophytes present in each cage and cageless refer-
+ ence. For each sampling, the quadrat was placed across
+ the middle of the cage (in the same position each time);
+ we refer to this as the visual census area. Number of
+ rosettes (for Vallisneria americana Michx. and Sagit-
+ taria sp. [submersed form]) or number of shoots (most
+ other species) of each species of macrophyte in the
+ quadrat was recorded by a SCUBA diver (nomencla-
+ ture after Fassett 1957). For Elodea canadensis Michx.,
+ we estimated cover on a scale of 0-5 (where 0 = 0%
+ cover, 1 = 20%, ... 5 = 1 00%) because the highly
+ branched growth form made it impossible to count
+ shoot numbers. Because of the different metric used
+ for Elodea, results on Elodea abundance are presented
+ separately from that for other species, and analysis of
+ relative density of macrophytes excludes Elodea. To
+ relate Elodea density to that of other species, we mea-
+ sured Elodea cover, Elodea biomass, and total mac-
+ rophyte biomass for 10 0.33-iM2 quadrat samples in
+ the experimental area on 18 August 1990.
+ Once per week, we collected all macrophyte frag-
+ ments floating on the water surface within each cage
+ using a dip net (mesh size 2 x 2 mm). Samples were
+ stored at 5-100C until they were dried at 550C and
+ weighed.
+ Macroinvertebrate sampling
+ To estimate macroinvertebrate populations in each
+ cage, we sampled cage walls, sediment, and macro-
+ phytes. Macroinvertebrates on cage walls (in exclosures
+ and enclosures) were sampled with a 14.2 cm wide
+ dustpan, covered (except at the leading edge) with a
+ 0.5-mm mesh. We placed the dustpan at the bottom
+ of a screen in a randomly selected spot on each side of
+ the cage (N = 4), pressed it tightly against the wall, and
+ moved it steadily upwards to the water's surface. Mac-
+ roinvertebrates present within the area sampled were
+ caught by the scoop.
+ We sampled the sediment to a depth of 5 cm with
+ a cylindrical PVC benthic core sampler (height = 29
+ cm, inside diameter = 15.22 cm, sample area = 182
+ cm2). A metal plate was inserted into a slot at the
+  bottom of the corer and the sample, including any
+ macrophytes, was transferred to a plastic bag above
+ the water. Four cores were obtained from each cage on
+ each of four monthly sampling dates. Locations of the
+ cores were determined using a stratified random de-
+ sign. Each cage was considered to be a 4 x 4 grid
+ containing 16 cells of 0.56 m2 area. Because crayfish
+ used the cage edges for shelter, sampling was stratified
+ to account for any center-to-edge effects. Each month,
+ three cores were taken from among the 12 perimeter
+ grid cells and one from one of the four central grid
+ cells. Each cell was sampled only once during the study.
+ Exact location of each core within the grid cell was
+ chosen by tossing a small, orange-painted rock.
+ To determine the number of macroinvertebrates
+ present on macrophytes (exclusive of sediments), we
+ also removed randomly selected (using a toss of the
+ marker rock) individual macrophyte shoots. Based on
+ the visual census data, <20% of the total population
+ in each cage of each macrophyte species was removed
+ over the entire experiment, with 1-3 shoots/species
+ being sampled in each cage on each date. Samples were
+ never taken from the 1-iM2 visual census area. Shoots
+ were removed by carefully placing a polyethylene bag
+ over the shoot and cutting the base of the stem. At the
+ surface, we drained excess water out of the bag through
+ a 0.5-mm mesh screen.
+ Cage-wall, core samples, and macrophyte-removal
+ samples were washed through plastic sieves (mesh size
+ 0.5 mm). All macroinvertebrates retained were pre-
+ served in 95% ethanol. Macroinvertebrates were later
+ identified and counted at the species level for snails
+ (with nomenclature after Burch 1982), order level for
+ insects, and class to suborder level for other taxa. Each
+ macrophyte shoot in the shoot-removal and core sam-
+ ples was identified to species and its leaf number count-
+ ed (rosulate species) or shoot length (the sum of the
+ length of all branches) measured (other species). All
+ floating macrophyte fragments (see Macrophyte sam-
+ pling, above) were examined visually for macroinver-
+ tebrates; because no snails and very few other macroin-
+ vertebrates were ever found, we did not include these
+ in our population estimates for macroinvertebrates.
+ Because macrophyte densities declined quickly in
+ enclosures (see Results), core samples in enclosures
+ rarely contained macrophytes, while those in exclo-
+ sures often contained macrophytes. To estimate mac-
+ roinvertebrate abundances in just the sediments, we
+ therefore corrected (reduced) macroinvertebrate totals
+ from all core samples based on the macrophyte re-
+ moval sampling results for each sampling date, as fol-
+ lows. The mean number of macroinvertebrates per
+ centimetre of shoot (or number of snails per rosette for
+ Vallisneria and Sagittaria) on each species of macro-
+ phyte in the macrophyte-removal samples was deter-
+ mined. Based on the species, number, and size of the
+ macrophytes in each core sample, the appropriate
+ number of macroinvertebrates for each species was
+ subtracted from the number sampled by the corer. The
+ corrected core results therefore allowed us to estimate
+ the number of macroinvertebrates on sediments only,
+ while the macrophyte removal results allowed us to
+ estimate the number of macroinvertebrates on mac-
+ rophytes only. For analysis, we thus generated an es-
+ timate of number of macroinvertebrates per cage by
+ adding numbers of macroinvertebrates on cage walls,
+ sediments, and macrophytes.
+ To estimate changes in grazing pressure on periph-
+ yton, we used Strayer (1985) and Thorp and Covich
+ (1991) to classify as algivorous any invertebrate group
+ that includes species that are algivorous at any stage
+ of their aquatic life.
+ Periphyton sampling
+ Eighteen days before crayfish were stocked, 12 green
+ polyethylene strips (3 cm wide, 65 cm long forestry
+ flagging) were placed in each cage and cageless reference
+ to allow colonization by periphyton. The lower end of
+ each strip was anchored, while the top end was buoyed
+ by a small piece of styrofoam. Strips were destructively
+ sampled three times for periphyton biomass and chlo-
+ rophyll a. In a parallel study, Brbnmark et al. (1992)
+ used exactly the same kinds of cages and flagging in an
+ experiment with pumpkinseed sunfish and compared
+ periphyton biomass on strips to that on natural Pot-
+ amogeton robbinsii. Snails and other macroinverte-
+ brates colonized strips readily, and periphyton biomass
+ on strips was very strongly correlated to biomass on
+ natural macrophyte (slope = 1.01, r = 0.85, P < 0.001)
+ (Br6nmark et al. 1992), supporting our assumption that
+ strips closely mimic macrophytes with respect to pe-
+ riphyton biomass.
+ For each cage on each sampling date, periphyton was
+ scraped with a razor blade from the entire length (both
+ sides) of four randomly selected strips. Periphyton from
+ each strip was homogenized by rapid shaking in 100
+ mL of filtered lake water. One volumetric subsample
+ was filtered (Fisher G4 glass fiber, 1.2 Am nominal pore
+ retention) for chlorophyll a. Chlorophyll a, corrected
+ for pheopigments, was determined fluorometrically af-
+ ter extraction of filters (24 h in dark refrigerator) in
+ 99% methanol (Strickland and Parsons 1968, Holm-
+ Hansen and Riemann 1978). A second subsample for
+ determination of dry mass (DM, 60'C) was filtered
+ onto a preweighed glass fiber filter.
+ Statistical analysis
+ Because we sampled the same experimental units
+ repeatedly over time, the most appropriate analysis
+ was a repeated-measures ANOVA (Hand and Taylor
+ 1987). Within the repeated measures analysis, we used
+ the "contrast" option in SAS (SAS Institute 1990) to
+ make the comparisons of interest on macrophyte and
+ macroinvertebrate responses. The contrast of primary
+ interest tested the crayfish effect with a comparison of
+ enclosures and exclosures (EN vs. EX) and with the
+  interaction of this main effect with time [T (EN vs.
+ EX)]. The contrast of secondary interest tested the sta-
+ tistically inseparable cage and fish effects with a com-
+ parison of exclosures and cageless references (EX vs.
+ CR) and with the interaction of this main effect with
+ time [T (EX vs. CR)]. Because these two contrasts are
+ non-orthogonal, we took the conservative approach of
+ making a Bonferroni adjustment of critical alpha for
+ two nonindependent comparisons, as suggested by
+ Maxwell and Delaney (1990). Thus, we used a critical
+ alpha of 0.025 instead of 0.05, whereas the true critical
+ alpha lies somewhere between 0.05 and 0.025 (Max-
+ well and Delaney 1990). When transformations were
+ necessary to normalize residuals, the rankit method
+ (Sokal and Rohlf 1981:122-124) was used to choose
+ the best transformation. All P values reported are for
+ Pillai's Trace, the most conservative of the available
+ adjustments for the F statistic in repeated measures
+ ANOVA.
+ The repeated measures ANOVA routine in SAS
+ eliminates any replicate from the analysis that is miss-
+ ing a datum for one or more time periods. Because a
+ few periphyton samples were lost, we could not apply
+ repeated measures ANOVA to the periphyton data.
+ Therefore, we used a one-way ANOVA and Tukey's
+ test to compare treatments on the last sampling date.
+
+xresults
+ Crayfish densities
+ Exhaustive trapping at the end of the experiment
+ revealed that mortality reduced crayfish in enclosure
+ cages to a final density of 4.8-6.1 crayfish/M2 from the
+ original 8 individuals/. Observations of dead cray-
+ fish and monthly visual counts suggested that mortality
+ was relatively constant during the experimental period,
+ and was related to molting. Over the summer, only
+ four crayfish were caught in exclosure cages (all male
+ 0. propinquus), to give a mean density of 0.1 adult
+ crayfish/M2 (range 0.0-0.2 individuals/M2). In August,
+ we counted 0.9 adult crayfish/M2 (range 0.1-2.2 indi-
+ viduals/m2) in cageless references. In cageless refer-
+ ences, 70% of crayfish sampled were 0. propinquus and
+ 30% 0. virilis. Although no 0. rusticus were ever sam-
+ pled in cageless references, we did see a few at the
+ experimental site.
+ Because of the low densities of crayfish (< 1 adult/
+ mi2) in both exclosures and cageless references, we ex-
+ pected responses of snails, macrophytes, and periphy-
+ ton in cageless references to be similar to those in ex-
+ closures. Any differences between responses in cageless
+ references and exclosures would have to be attributed
+ to the small differences in crayfish density (possible if
+ responses are strongly nonlinear), cage effects, or fish
+ effects.
+ Macrophytes
+ In May, when cages were installed, few macrophyte
+ shoots from the previous year (predominantly Pota-
+ mogeton robbinsii Oakes) were present. By the first
+ macrophyte census on 3 June, most species had begun
+ new growth from winter resting stages. In exclosures
+ and cageless references, total shoot number increased
+ through August and remained at similar levels through
+ September, when plants were beginning to senesce (Fig.
+ 2A). In significant contrast to exclosures, enclosure
+ shoot number declined throughout the summer (Fig.
+ 2A). In September, total shoot density in enclosures
+ was 10% that in exclosures. Results for Elodea cover
+ were similar to those of all other macrophytes (Fig.
+ 2B). Exclosures and cageless references did not differ,
+ but in enclosures, Elodea was significantly reduced rel-
+ ative to exclosures (Fig. 2B).
+ Whereas we cannot incorporate Elodea density es-
+ timates into total macrophyte density estimates (be-
+ cause of the different units used; Fig. 2A, B), the one-
+ time mid-August cover and biomass sampling allowed
+ us to calibrate the abundance of Elodea relative to
+ other species. Mean total macrophyte dry biomass was
+ 174 g/m2 (range = 108-231 g/m2). The percentage of
+ total macrophyte biomass consisting of Elodea was
+ well predicted by Elodea cover estimates (% biomass
+ = 0.6235[% cover] - 12.78, r2 = 0.8666, P < 0.001).
+ This relationship suggests that Elodea was a small com-
+ ponent of total biomass in all treatments at all times,
+ ranging from < 1 to 8% at the beginning of the exper-
+ iment. Peak percentage Elodea biomass (in exclosures
+ in July) was 1/5%. Thus, -8 5% of total macrophyte
+ biomass is accounted for in the analysis of changes in
+ species relative abundance.
+ Whereas few macrophyte fragments floated in ex-
+ closures, biomass of floating fragments in enclosures
+ was high at the first two sampling dates (Fig. 3). Cu-
+ mulative floating biomass of all species combined was
+ significantly higher in enclosures, but leveled off as
+ fewer and fewer plants remained to be clipped by cray-
+ fish (Fig. 3). For single-stemmed species, most frag-
+ ments were large proportions of shoots, and for rosulate
+ species, fragments were large proportions of leaves.
+ This suggests that these fragments result from crayfish
+ clipping a plant or leaf near the substrate and then
+ releasing or losing grasp of it. We clearly underesti-
+ mated floating biomass, because some species (Elodea)
+ often did not float, and shoots of all species eventually
+ sank, often after a shorter interval than our weekly
+ sampling.
+ Of the 12 macrophyte species occurring in the ex-
+ periment, Potamogeton robbinsii, Sagittaria, Vallis-
+ neria, and Najasflexilis (Willd.) Rostk.&Schmidt were
+ the most common (Fig. 4). Other species were Cera-
+ tophyllum demersum L., Chara (a macroalga referred
+ to as a "macrophyte" in this paper), Elodea, Megalo-
+ donta beckii (Torr.) Greene, Myriophyllum exalbescens
+ Fernald, Potamogeton amplifolius Tuckerm., Pota-
+ mogeton richardsonii (Benn.) Rydb., and Potamogeton
+ zosteriformis Fernald. Visual inspection of plots (not
+ shown) of individual species abundance over time in
+  the three treatments showed that densities of all mac-
+ rophyte species declined in enclosures and increased
+ in enclosures and cageless references. Crayfish also re-
+ duced macrophyte species richness. In September, we
+ sampled 3 species in enclosures, and 12 species in both
+ enclosures and cageless references.
+ Comparison between enclosures and enclosures in
+ macrophyte species composition over time (Fig. 4, Ta-
+ ble 1) suggest that any disproportionate effect of cray-
+ fish on different species was not strong. Fig. 4 suggests
+ crayfish precluded the occurrence of Najas, a late-
+ sprouting species that overwinters exclusively as a seed;
+ but because of high cage-to-cage variation in Najas
+ abundance, ANOVA comparison of enclosures and ex-
+ closures (Table 1) provides only marginal support for
+ this interpretation (EN vs. EX P = 0.0519). The only
+ significant difference between enclosures and cageless
+ references was Vallisneria (Table 1), but that difference
+ may largely reflect the initially high abundance of Val-
+ lisneria in cageless references.
+ Macroinvertebrates
+ Snails. -Response in total snail abundance was sim-
+ ilar to that of macrophyte abundance. Through the
+ summer, snail numbers increased in both enclosures
+ and cageless references, but decreased in the presence
+ of crayfish (Fig. 5). In September, snail density in en-
+ closures was 1% that of enclosures. Thus, crayfish sig-
+ nificantly reduced snail numbers (EN vs. EX P = 0.024).
+ No significant difference existed between exclosures
+ and cageless references (Fig. 5).
+ Of the 11 snail species that occurred in the experi-
+ ment, Amnicola sp., Physella sp., and Helisoma anceps
+  (Menke) were most abundant (Fig. 6). Other species
+ were Gyraulus parvus (Say), Promenetus exacuous (Say),
+ Stagnicola (Lymnaea) emarginata (Say 1821), Cam-
+ peloma decisum (Say 1816), Acella haldemani ('De-
+ shayes' W.G. Binney 1867), Planorbella campanulata
+ (Say 1 82 1), Lym naea stagnalis (Linnaeus), and Valvata
+ tricarinata (Say 1817). Visual inspection of plots (not
+ shown) of individual species over time in the three
+ treatments suggested that densities of all snail species
+ declined throughout summer in enclosures and in-
+ creased in exclosures and cageless references. Patterns
+ of relative species abundance suggest 0. rusticus re-
+ duced species richness, especially by eliminating Phy-
+ se/la and Helisoma anceps (Fig. 6). In September, three
+ species, represented by fewer than six specimens each,
+ were sampled in enclosures (Amnicola, Campeloma
+ decisum, and Promenetus exacuous). In exclosures and
+  cageless references, many more individuals were con-
+ tained in samples, coming from six species in exclo-
+ sures (Amnicola, Physella, Helisoma anceps, Lymnaea
+ stagnalis, Planorbella campanulata, and Stagnicola
+ emarginata) and five in cageless references (Amnicola,
+ Physella, Helisoma anceps, Planorbella campanulata,
+ and Campeloma decisum).
+ Species-specific repeated measures ANOVA on rel-
+ ative abundance supported the apparent patterns (Ta-
+ ble 1). Both Helisoma anceps and Physella differed
+ significantly between enclosures and exclosures, where-
+ as no significant differences existed between exclosures
+ and cageless references (Table 1). Data for Lymnaea
+ stagnalis, Acella haldemani, and Valvata tricarinata
+ were not analyzed because only one specimen of each
+ was sampled during the experiment.
+ Nonsnail macroinvertebrates. -Total numbers of
+ macroinvertebrates other than snails did not respond
+ significantly to 0. rusticus, as indicated by nonsignif-
+ icant contrasts between enclosures and exclosures (Fig.
+  5). In both enclosures and enclosures, numbers re-
+ mained relatively constant through the summer. In
+ cageless references, numbers of nonsnail macroinver-
+ tebrates increased through the summer, producing a
+ marginally significant difference between enclosures and
+ cageless references [T (EX vs. CR) P = 0.0248; Fig.
+ 5].
+ Macroinvertebrate community composition.-The
+ macroinvertebrate community (including snails and all
+ other taxa) was dominated numerically by Diptera lar-
+ vae, snails, isopods, amphipods, and Trichoptera lar-
+ vae (Fig. 7). Other insects consisted primarily of im-
+ mature odonates and Ephemeroptera. Other crustaceans
+ consisted primarily of ostracods, cladocerans, and co-
+ pepods. Remaining macroinvertebrates consisted pri-
+ marily of oligochaetes, leeches, sphaeriid clams, water
+ mites, and triclad turbellarians.
+ Because 0. rusticus reduced snails but affected other
+ macroinvertebrate taxa weakly or not at all, the only
+ significant change in macroinvertebrate community
+ composition in enclosures relative to enclosures was
+ the decline in relative abundance of snails (Fig. 7, Table
+ 1). Relative numbers of Diptera seemed to increase in
+ enclosures as snails declined (Fig. 7), but this inter-
+ pretation was only weakly supported by repeated mea-
+ sures ANOVA (Table 1, EN vs. EX P = 0.0441). Re-
+ peated measures ANOVA also suggested weakly that
+ 0. rusticus affected Trichoptera numbers (Table 1, EN
+ vs. EX P = 0.0397), but given the initially low abun-
+ dance of caddisflies in enclosures (Fig. 7), little meaning
+ can be attached to this apparent difference. Comparing
+ exclosures and cageless reference areas, no significant
+ differences in relative abundance of macroinverte-
+ brates existed (Table 1).
+ Numbers of algivores. -The literature on macroin-
+ vertebrate feeding (Strayer 1985, Thorp and Covich
+ 1991) indicated that all macroinvertebrate taxa other
+ than odonates, leeches, clams, mites, and triclads in-
+ clude species that are algivorous on periphyton during
+ at least part of the aquatic life stage. Accordingly, al-
+ givorous taxa comprised 93% of the total numbers of
+ nonsnail macroinvertebrates (range = 75-99%, de-
+ pending on sampling date). Thus, a plot of all nonsnail
+ algivores (not shown) looks exactly like Fig. SB except
+ with the vertical axis shifted slightly upward. Thus,
+ total nonsnail algivores did not differ between enclo-
+ sures and enclosures, and the only difference in grazer
+ numbers in enclosures relative to exclosures was the
+ reduction in snail numbers. We therefore expected pe-
+ riphyton to be higher in enclosures (relative to exclo-
+ sures) because of reduced snail numbers in enclosures.
+ Because the greatest numbers of grazers (snails plus
+ nonsnail grazers) occurred in cageless references (be-
+ cause of higher numbers of nonsnail grazers), we ex-
+ pected cageless references to have the lowest periph-
+ yton abundance.
+ Relative impact on snails of predation and macro-
+ phyte herbivory. -We expected that crayfish would
+ consume snails selectively over macrophytes. Thus, we
+ expected the ratio of snails: macrophytes to decline in
+  enclosures relative to enclosures and for the ratio in
+ cageless references to be similar to that for exclosures.
+ We tested this prediction separately for snails and all
+ other macroinvertebrates using repeated measures
+ ANOVA contrasts on the number of macroinverte-
+ brates in a cage divided by the number of macrophytes
+ (shoots plus rosettes) in a cage. Natural phenological
+ changes in numbers of both macroinvertebrates and
+ macrophytes would cause this ratio to change over
+ time. Thus, we had no interest in predicting the ab-
+ solute value of this ratio or the specific direction or
+ magnitude of its temporal trends. Rather, the focus of
+ our analysis was how the ratio in enclosures changed
+ over time relative to changes in the ratio in exclosures.
+ For the ratio of snails: macrophytes, the relative
+ trends were consistent with expectations but not strongly
+ supported by the statistical analysis (Fig. 8). That is,
+  the ratio of snails to macrophytes in enclosures de-
+ clined relative to that in enclosures and cageless ref-
+ erences, but the enclosure-exclosure contrast was not
+ significant. As expected, the trends for exclosures and
+ cageless references did not differ significantly (Fig. 8).
+ This analysis suggests that 0. rusticus did not strongly
+ select snails over macrophytes. However, given that a
+ substantial proportion of macrophyte destruction re-
+ sulted from nonconsumptive fragmentation (see Fig.
+ 3), the snail: macrophyte ratio for enclosures (but not
+ for exclosures and cageless references) is an inflated
+ index of relative consumption of snails and macro-
+ phytes, and thus decreases the real difference between
+ enclosures and exclosures. Thus, our analysis under-
+ estimates the crayfish impact.
+ For the ratio of nonsnail macroinvertebrates: mac-
+ rophytes, relative trends for enclosures and exclosures
+ contradicted our initial expectation that crayfish pre-
+ dation would reduce nonsnail invertebrates as well as
+ snails (Fig. 8). While the enclosure ratio increased, the
+  exciosure ratio declined [T (EN vs. EX) P = 0.020].
+ However, as noted above, the enclosure ratio is inflated
+ and the difference between the enclosure and exciosure
+ ratios is therefore exaggerated. Nevertheless, the pat-
+ tern is still consistent with the simultaneous lack of
+ effect of 0. rusticus on nonsnail invertebrates (see Fig.
+ 5) and the strong negative effect on macrophytes (see
+ Fig. 2). Despite the destruction of macrophyte habitat,
+ the nonsnail invertebrates were apparently unaffected.
+ As expected, no significant difference existed between
+ exclosures and cageless references (Fig. 8).
+ Periphyvton
+ Consistent with the predicted top-down effect, pe-
+ riphyton areal chlorophyll a increased in enclosures (as
+ snails were reduced), while it initially increased slightly
+ and later declined in exclosures (Fig. 9A). On the last
+  sampling date, enclosure chlorophyll a was three times
+ higher than enclosure chlorophyll a (Tukey's P < 0.05).
+ However, the pattern of chlorophyll a in cageless ref-
+ erences contradicted the expectation (based on total
+ grazer abundance) that it would be the lowest of all
+ three treatments. Instead, at the conclusion of the ex-
+ periment, chlorophyll in cageless references was high
+ and did not differ significantly from that in enclosures
+ (Fig. 9A).
+ As an index of how 0. rusticus affected the com-
+ position of the periphyton matrix, we also examined
+ the amount of chlorophyll a per unit dry mass of pe-
+ riphyton (Fig. 9B). In enclosures, chlorophyll a/DM
+ increased throughout the experiment and was 4.5 x
+ higher than exclosures at the last sampling date. This
+ suggests that the enclosure periphyton matrix was in-
+ creasingly dominated by live algae (relative to detritus
+ and other components), whereas in the exclosure ma-
+ trix, the proportion of live algae declined slightly over-
+ all. The chlorophyll a/DM ratio in cageless references
+ was similar to that in exclosures throughout the ex-
+  periment and did not differ from that in exclosures at
+ the last sampling date (Fig. 9B).
+ 
+
+xdiscussion
+ Littoral zone trophic cascade confirmed
+ For all responses, the difference between enclosure
+ and exclosure cages confirmed the existence of a three-
+ level trophic cascade in which 0. rusticus indirectly
+ increased periphyton abundance on plastic strips by
+ directly reducing the abundance of algivorous snails.
+ This pattern occurred because snails are both the prey
+ group primarily affected by crayfish, and the function-
+ ally most important grazer group among the many
+ grazer taxa present in the community. Thus, this food
+ web responded as predicted, with chain-like dynamics,
+ despite its interconnectedness and the omnivory of
+ crayfish (Fig. 1).
+ In addition to the direct and indirect effects on snails
+ and periphyton, respectively, 0. rusticus directly re-
+ duced macrophyte abundance. The occurrence of float-
+ ing macrophyte fragments, which is typical of other
+ field and laboratory experiments on crayfish grazing
+ (Lodge and Lorman 1987, Lodge 1991, Olsen et al.
+ 199 1), confirm that macrophyte reduction resulted pri-
+ marily from direct crayfish foraging and not from any
+ indirect links.
+ With regard to Fig. 1, overall experiment results
+ demonstrated that interactions 1, 2, and 3 were strong,
+ as predicted, whereas interactions 5, 6, 7, and 9 were
+ weak. The lack of responses by periphyton and mac-
+ rophytes to increases in nonsnail macroinvertebrates
+ in cageless references further suggests that interactions
+ 8 and 10 were weak.
+ The trophic cascade evoked in our experiment is
+ parallel to those described by Brbnmark et al. (1992)
+ and Martin et al. (1992) for sunfish, snails, and pe-
+ riphyton in two northern Wisconsin lakes and a Ten-
+ nessee lake, respectively. Unlike crayfish, however,
+ sunfish do not consume appreciable quantities of mac-
+ rophytes. Therefore, crayfish have an additional in-
+ direct impact on periphyton that sunfish do not-the
+ reduction of macrophyte surface area available for pe-
+ riphyton colonization. Although algal abundance in the
+ presence of crayfish is higher per unit surface area of
+ strip (and presumably per unit surface area of mac-
+ rophyte and sediment), there is less colonizable surface
+ remaining. In terms of total periphyton per unit area
+ of lake bottom, then, it remains possible that omnivory
+ by crayfish may complicate substantially the chain-like
+ dynamics discussed above, which were illustrated by
+ periphyton per unit of remaining surface area.
+ To estimate the net impact of these counteracting
+ forces on periphyton, we calculated the total amount
+ of periphyton chlorophyll a in cages (on 9 m2 of sed-
+ iment plus macrophyte surfaces), exclusive of the
+ scrubbed screen walls. We calculated macrophyte sur-
+ face area using August macrophyte shoot number (Fig.
+ 2) and an estimate of 0.03 m2 surface area per mac-
+ rophyte shoot (from Brown and Lodge 1993). Mac-
+ rophyte surface area per cage was thereby estimated to
+ be 19 and 75 m2 in enclosures and exclosures, respec-
+ tively. For both sediments and macrophytes, we mul-
+ tiplied by August chlorophyll a densities on strips (Fig.
+ 9). From this, enclosures and exclosures were estimated
+ to have 87 ? 38 mg (mean ? 95% CL) and 113 ? 30
+ mg of chlorophyll a per cage, respectively. Although
+ confidence limits overlap broadly, these estimates sug-
+ gest that in this specific experiment the net effect of
+ crayfish was to reduce total resource abundance for
+ algivores, while at the same time improving the quality
+ of the remaining resource (as indicated by higher chlo-
+ rophyll a densities and higher chlorophyll a: dry mass
+ ratios; see Fig. 9). The lack of any enclosure-exclosure
+ difference in numbers of nonsnail invertebrates (which
+ could arise through changes in survivorship) suggests,
+ however, that there was no strong net effect of these
+ changes on algivores.
+ Extrapolations of the net effect of crayfish on total
+ periphyton abundance in other lakes or streams would
+ depend on crayfish density, density and susceptibility
+ of macrophytes to crayfish grazing, periphyton abun-
+ dance, and the susceptibility of the algivorous benthos
+ to crayfish predation. For communities like that in our
+ Plum Lake experiment, where crayfish abundance was
+ moderate to high, initial macrophyte density was high,
+ and susceptible algivores (snails) were initially abun-
+ dant, the net impact on total periphyton abundance is
+ likely to be negative. In many other communities (par-
+ ticularly where background macrophyte abundance is
+ low), the increase in algal biomass per unit of occupied
+ area may more than offset losses of macrophyte surface
+ area, and net impact of crayfish on periphyton would
+ be positive. In our experiment, a three-level trophic
+ cascade clearly occurred with respect to periphyton
+ abundance per unit of colonized area, but perhaps not
+ with respect to total periphyton abundance (i.e., on
+ macrophytes and sediments) per area of lake bottom.
+ Thus, omnivory by 0. rusticus, feeding on two trophic
+ levels, each of which affects periphyton indirectly (Fig.
+ 1 indirect links 1, 2 and 3, 4), does make generalization
+ of net effects more difficult, as suggested by Strong
+ (1992).
+ Below, we discuss some details of the impact of 0.
+ rusticus on macrophytes, macroinvertebrates, and pe-
+ riphyton, as revealed by comparison of enclosures and
+ exclosures. We then consider what the cageless refer-
+ ence treatment may suggest about how experimental
+ results may be extrapolated to natural lakes.
+ Impact on macrophytes and macroinvertebrates
+ Impact on abundance. -In enclosures, crayfish es-
+ sentially clear-cut macrophytes, almost eliminated
+ snails, and had no impact on nonsnail macroinverte-
+ brates. For macrophytes, this supports the observa-
+ tions of Lodge and Lorman (1987), who found that
+  densities of 0. rusticus as low as 19 g/m2 significantly
+ reduced submersed macrophyte biomass. Other stud-
+ ies also demonstrate the significant, negative impact
+ that several species of crayfish can have on submersed
+ macrophytes (Feminella and Resh 1989, Chambers et
+ al. 1990, Lodge 1991, Hazlett et al. 1992). The floating
+ macrophyte fragments collected from enclosures are
+ consistent with results of laboratory experiments, in
+ which a large proportion (typically >50%) of macro-
+ phyte reduction results from nonconsumptive destruc-
+ tion (Lodge 1991, Olsen et al. 1991). This behavior is
+ not uncommon among consumers of freshwater mac-
+ rophytes (Lodge 1991) and marine macroalgae (e.g.,
+ Elner and Vadas 1990).
+ The negative impact of crayfish on the population
+ of most plant species will be the same whether plant
+ tissue is eaten or fragmented. However, population size
+ and dispersal of species that readily root adventitious-
+ ly, e.g., Elodea, or species that are always rootless, e.g.,
+ Ceratophyllum, could, in fact, be enhanced by crayfish
+ fragmentation. Cut shoots of most species, however,
+ would join the detrital pool, often after being deposited
+ by wave action on shore or in shallow water. For mi-
+ crobes and detritivores, macrophyte fragments result-
+ ing from crayfish feeding could be an important source
+ of high-quality detritus during the growing season when
+ fresh detritus is ordinarily scarce.
+ For snails, the reduction of abundance through direct
+ predation by crayfish in our experiment is consistent
+ with earlier laboratory and pool experiments with 0.
+ rusticus (Lodge and Lorman 1987), 0. propinquus (Ol-
+ sen et al. 1991) and 0. virilis (Hanson et al. 1990). In
+ contrast to these other experiments, we stocked real-
+ istic densities and sizes of crayfish in a natural prey
+ assemblage typical of many mesotrophic northern Wis-
+ consin lakes. For the direct effects of crayfish on both
+ macrophytes and snails, therefore, the current results
+ are more robust than earlier ones.
+ For nonsnail macroinvertebrates, no other investi-
+ gators have tested the impact of 0. rusticus, but the
+ lack of impact is roughly consistent with the impact of
+ 0. virilis on macroinvertebrates in laboratory pools
+ (Hanson et al. 1990). 0. virilis strongly reduced snail
+ numbers, but had only a weak negative effect on some
+ nonsnail macroinvertebrates (Hanson et al. 1990). Most
+ nonsnail macroinvertebrates may move quickly enough
+ to escape tactile-feeding crayfish (e.g., isopods, am-
+ phipods, some Diptera), escape recognition by living
+ in cases (e.g., Trichoptera), or avoid contact by living
+ in the sediments (e.g., some Diptera). In very shallow
+ habitats, some snails crawl out of water on emergent
+ tree branches or other vegetation in response to other
+ snails being eaten by crayfish (Alexander and Covich
+ 1991). However, in Plum Lake, as in most lakes, such
+ escapes are impossible, and we did not observe any
+ snails crawling above the waterline on our cage walls.
+ Impact on species richness. - Orconectes rusticus re-
+ duced species richness of both macrophytes and snails.
+ Mechanisms of species elimination that probably op-
+ erated in the experiment include selective feeding by
+ crayfish and rarefaction. The results of our experiment
+ do not allow us to rigorously distinguish these two
+ mechanisms.
+ For macrophytes, results of laboratory selection ex-
+ periments demonstrate that consumption and frag-
+ mentation of macrophytes by 0. rusticus is species-
+ selective (Lodge 1991). In our field cage experiment,
+ the apparent elimination by crayfish of at least one
+ plant species, Najas, may have resulted from selective
+ grazing by crayfish, but probably also resulted from the
+ inability of Najas to tolerate even small amounts of
+ biomass removal. Najas is the only species in the Plum
+ Lake macrophyte assemblage that is obligately sexual
+ and annual, an unusual reproductive habit among
+ aquatic plants. It overwinters as a small seed, whereas
+ coexisting Potamogeton species have underground rhi-
+ zomes, Vallisneria overwinters as a turion, and most
+ other species overwinter in relatively large vegetative
+ forms (Hutchinson 1975:233 ff., Bartley and Spence
+ 1987). Consequently, Najas seedlings have a relatively
+ small energy reserve to recover from the removal of
+ even a very small amount of biomass by crayfish. Cray-
+ fish might therefore have a disproportionate impact on
+ Najas, regardless of any preference for Najas.
+ Because few snail individuals were sampled in en-
+ closures in September, definitive statements about the
+ impact of crayfish on species composition are impos-
+ sible. Our results are generally consistent with a re-
+ duction in species richness of snails that has occurred
+ in Trout Lake, Wisconsin as 0. rusticus has invaded
+ the lake (Lodge et al. 1986): the only snail species now
+ remaining in areas with high abundance of 0. rusticus
+ is Campeloma, a species with a very thick shell and
+ large adult size (D. M. Lodge and M. W. Kershner,
+ unpublished data). Thus, for snails, some of the impact
+ by 0. rusticus, as for other crayfish (Alexander and
+ Covich 1991), may result from selective feeding by
+ crayfish. The most striking result, however, is that all
+ snail species were very much reduced.
+ In addition, rarefaction probably played an impor-
+ tant role in reducing species richness of both plants
+ and animals in enclosures. Even if crayfish ate prey as
+ encountered, rare species would be eliminated as total
+ abundance declined.
+ Impact on periphyton
+ Our expectation that periphyton biomass would in-
+ crease when snails decreased was informed by earlier
+ experiments and observations (Lamberti et al. 1987,
+ Brdnmark 1989, Osenberg 1989, Weber and Lodge
+ 1990, Br6nmark et al. 1992, Martin et al. 1992). Snails
+ comprised 10-35% of macroinvertebrate numbers in
+ exclosures (Fig. 7). Because individual snails were on
+ average much larger than individuals of all other mac-
+ roinvertebrate taxa (D. M. Lodge and M. W. Kershner,
+ unpublished data), snails constituted a much higher
+  percentage of total macroinvertebrate biomass and an
+ even higher percentage of grazer biomass. Because in
+ comparing enclosures and exclosures, snails were the
+ only group of macroinvertebrates that responded to
+ crayfish, we believe that periphyton increases in en-
+ closures were responses to decreases in snail numbers.
+ On the other hand, our use of a 500-gm mesh sieve
+ means that we did not sample many smaller inverte-
+ brate taxa (Strayer 1985), which probably have higher
+ mass-specific ingestion rates of algae than larger graz-
+ ers. In at least one experiment (Cattaneo and Kalff
+ 1986), numerical increases in small grazing taxa com-
+ pensated for reductions in large grazing taxa. Our re-
+ sults showed no evidence of compensatory numerical
+ increases of nonsnail macroinvertebrates, but we can-
+ not rule out increases in micrograzers that we did not
+ sample. Nevertheless, abundant earlier work on similar
+ mixed-algivore assemblages (Br6nmark 1989, Osen-
+ berg 1989, Brdnmark et al. 1992, Martin et al. 1992)
+ support our interpretation that snails were the domi-
+ nant grazers on periphyton.
+ Orconectes rusticus eats periphyton (Lorman 1975,
+ 1980, Hill et al. 1993), but our results reported here
+ and the Trout Lake patterns of crayfish, snails, and
+ periphyton (Weber and Lodge 1990) suggest strongly
+ that the positive indirect effect that crayfish have on
+ periphyton outweighs the negative direct effect (Fig. 1).
+ In addition to increasing the amount of live algae
+ (as indexed by chlorophyll a), crayfish altered the qual-
+ ity of periphyton, increasing the chlorophyll a: dry mass
+ ratio (Fig. 9B). Based on long experience of watching
+ crayfish in laboratory and field situations, we believe
+ that 0. rusticus directly reduced loosely attached, non-
+ algal components of periphyton (e.g., flocculent detritus)
+ through nonconsumptive foraging behavior. During
+ ordinary locomotion (walking, climbing, tail-flipping,
+ etc.), crayfish often disturb the surface over which they
+ move. In addition, during night dives, one of us (D.
+ M. Lodge) has observed 0. rusticus climbing on mac-
+ rophytes, often temporarily collapsing the macrophyte.
+ In our cages, one of us (J. E. Aloi) saw crayfish crawling
+ on and pulling the plastic strips down to the sediment
+ and observed many small tears in the strips that prob-
+ ably resulted from bites with crayfish mandibles. Dur-
+ ing foraging, 0. rusticus constantly picks at the sub-
+ strate with its walking legs. Our results and ancillary
+ observations thus suggest that 0. rusticus activity in-
+ creases sloughing of loosely attached nonalgal material,
+ but does not significantly reduce abundance of living
+ algae, which are more firmly attached.
+ Cageless references
+ In our experiment, the only two responses that dif-
+ fered from our expectations occurred in cageless ref-
+ erences (relative to exclosures): the marginally signif-
+ icant increase in nonsnail invertebrates (Fig. 5) and the
+ significant increase in periphyton chlorophyll a (Fig.
+ 9). Taken together, these two results are doubly puz-
+ zling because the first (high invertebrates) should pro-
+ duce a response in the second (periphyton chlorophyll
+ a) that is exactly the opposite of that observed. Al-
+ though the occurrence of both of these two apparently
+ anomalous responses in cageless references (relative to
+ exclosures) may suggest they result from cage artifacts,
+ we do not believe these results are a direct effect of
+ cages.
+ The most likely effects of cages (in comparison with
+ the cageless treatment) would be reduced light and re-
+ duced water movement. For invertebrates, we would
+ not expect reduced light to have a perceptible direct
+ effect. Reduced water movement could reduce impor-
+ tation of broadcast insect eggs, but relative abundance
+ of insects did not increase in cageless references relative
+ to caged treatments (Fig. 7). Thus, we do not think the
+ difference in nonsnail invertebrates results from cage
+ artifacts.
+ For periphyton chlorophyll a, both low light and
+ reduced water movement could bias results in the ob-
+ served direction, but should also affect macrophytes.
+ However, there was no apparent cage artifact for mac-
+ rophytes (Fig. 2). Furthermore, periphyton at this depth
+ in Plum Lake were nutrient-limited, not light-limited.
+ In an experiment designed to test factors limiting pe-
+ riphyton growth (and run concurrently with the cray-
+ fish experiment reported here), periphyton biomass in
+ small, screen-covered, snail-free cages increased 30%
+ in response to phosphorus addition (J. E. Aloi, unpub-
+ lished data). Finally, in similar field experiments (in-
+ volving pumpkinseed sunfish instead of crayfish), using
+ cages identical to those in this study in two more pro-
+ ductive lakes, no apparent cage effect occurred for pe-
+ riphyton (Brdnmark et al. 1992). Thus, for both non-
+ snail invertebrates and periphyton chlorophyll a, we
+ reject cage artifacts per se as explanations for unex-
+ pected results.
+ Obvious potential indirect effects of cages were the
+ exclusion of fishes, many of which are benthivorous
+ fishes that include snails and other invertebrates in
+ their diet. Rank abundance (from most to least) of
+ littoral fish from electroshocking in Plum Lake in sum-
+ mer 1987 was: walleye (Stizostedion vitreum), bluegill
+ (Lepomis macrochirus), yellow perch (Perca flaves-
+ cens), rock bass (Ambloplites rupestris), smallmouth
+ bass (Micropterus dolomieui), pumpkinseed (Lepomis
+ gibbosus), and northern pike (Esox lucius) (R. A. Stein
+ et al., unpublished data). We observed many fishes,
+ especially the specialist molluscivore pumpkinseed and
+ the polyphagous molluscivore bluegill in the experi-
+ mental area. However, the similarity of trends in snail
+ abundance in cageless controls and exclosures, and the
+ increase in nonsnail invertebrates in cageless controls
+ relative to exclosures suggest that fish did not strongly
+ affect overall macroinvertebrate numbers in the cage-
+ less controls. However, it is possible that visually feed-
+ ing fish predators (in contrast to tactile-feeding cray-
+ fish) preferentially removed snails from the relatively
+  broad, smooth plastic strips in the cageless references.
+ In our experiment, these strips were more exposed rel-
+ ative to similar strips in Brdnmark et al. (1992), be-
+ cause macrophyte density in cageless references in Plum
+ Lake were low relative to those in the two lakes used
+ by Brdnmark et al. (1992). Thus, with respect to fish
+ predation (but not periphyton colonization [see Ma-
+ terials and methods] or crayfish predation), our strips
+ may have been a poor mimic of natural macrophytes.
+ Unfortunately, we did not census snails or other in-
+ vertebrates on the strips.
+ Thus, for nonsnail invertebrates and periphyton
+ chlorophyll a, results in cageless references remain
+ largely unexplained, although we are confident in ruling
+ out direct effects of cages. Nevertheless, the primary
+ comparisons of interest in our experiment, between
+ enclosures and exclosures, reflect the overwhelming
+ impact of 0. rusticus on snails, periphyton, and mac-
+ rophytes, as discussed under Impact on macrophytes
+ and macroinvertebrates.
+ Duration of experiment
+ If our experiment had included more than one grow-
+ ing season, some results might have been different. The
+ lack of response of nonsnail invertebrates even after
+ macrophytes were almost eliminated by crayfish may
+ suggest that macrophytes are not a unique or critical
+ habitat for most invertebrates (Brown and Lodge 1993,
+ cf. Lodge 1986). These invertebrates apparently simply
+ took up residence elsewhere in the cage with no de-
+ tectable increase in mortality. However, any sublethal
+ effects on these originally epiphytic invertebrates might
+ have been expressed in reduced population growth in
+ the subsequent growing season.
+ Conversely, previous experiments (Cuker 1983, Cat-
+ taneo and Kalff 1986) suggest that as snails decline,
+ smaller macroinvertebrates show compensatory nu-
+ merical increases. For many taxa in our experiment,
+ such responses were largely impossible, except through
+ changes in survivorship, because the experiment in-
+ cluded only one growing season.
+ Effects of crayfish on littoral communities
+ 0. rusticus is the latest invader of three Orconectes
+ congeners common in northern Wisconsin lakes (Lodge
+ et al. 1986, Olsen et al. 1991). Abundant evidence
+ suggests that it may have a more negative impact on
+ macrophytes and fisheries than 0. virilis (the only spe-
+ cies present in northern Wisconsin in a 1932 survey
+ [Creaser 1932]) and 0. propinquus. Recent studies sug-
+ gest that may be true for at least three reasons: (1)
+ higher growth rate and larger adult size of 0. rusticus
+ than 0. propinquus (but not 0. virilis) (Olsen et al.
+ 1991, Hill et al. 1993); (2) higher mass-specific inges-
+ tion rate of snails by 0. rusticus than both congeners
+ (Olsen et al. 1991); (3) lower vulnerability to fish pred-
+ ators by 0. rusticus than congeners (DiDonato and
+ Lodge 1993). Although 0. rusticus may have a quan-
+ titatively greater impact on littoral zone communities,
+ all three congeners probably have a qualitatively sim-
+ ilar impact. For example, 0. virilis reduces macrophyte
+ abundance in laboratory pools (Chambers et al. 1990),
+ and when the reduction in macrophytes was compared
+ to that of 0. rusticus in field cages, it was similar (Haz-
+ lett et al. 1992). In addition, 0. virilis reduces abun-
+ dance of snails and other invertebrates in laboratory
+ pools (Hanson et al. 1990) and apparently competes
+ for food with trout in a Utah reservoir (Hepworth and
+ Duffield 1987). Thus, crayfish of all three species are
+ likely to have important impacts on communities in
+ which they occur. Results of this study and a survey
+ of 21 northern Wisconsin lakes (D. M. Lodge et al.,
+ unpublished data) strongly suggest that lakes with high
+ densities of crayfish have reduced abundance and spe-
+ cies richness of both macrophytes and snails. Such large
+ community impacts probably also have important con-
+ sequences for nutrient cycling in lakes (Carpenter and
+ Lodge 1986).

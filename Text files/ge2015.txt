@@ -1,0 +1,278 @@
+xabstract The effect of saltmarsh cordgrass, Spartina alterniflora (Poales: Poaceae) invasion stage on
+Cerithidea cingulata (Caenogastropoda: Potamididae) distribution was studied in 2007 at the eastern tidal Hat of
+Lingkun Island, Wenzhou Bay, China. The distribution pattern of C. cingulata was aggregated during each season, as
+shown in experiments utilizing Taylor's power regression and Iowaís patchiness regression methods (P < 0.001). Twoway
+ANOVA indicated that densities were significantly affected by S. alterniflora invasion stage (P < 0.001), however,
+no significant season effect was found (P = 0.090) and on the interaction between the seasons (P = 0.939). The density
+distribution during the invasion stage was significantly different in each season as shown in one-way ANOVA.
+Pearsonís correlation coefficient analysis of density data indicated that the highest densities occurred in habitats at the
+initial invasion stage during summer. The peak in C. cingulata density during spring, autumn and winter occurred in
+habitats where invasion was classified as initial, whereas the lowest densities occurred in the stage of invasion
+completed during each season. C. cingulata density distribution varied among different habitats, and such variation
+indicates the response of the species to environmental change, particularly S. alterniflora invasion. 
+
+
+
+xintroduction Gastropods serve an important function in
+the habitat and ecosystem of a tidal flat; gastropods
+are important foragers in the benthic community and
+environment (Anderson and Underwood, 1997).
+Predatory snails can consume competitively
+dominant species to increase diversity in the
+community; such snails create sufficient space for
+colonisation by competitively inferior organisms
+such as Nucella spp. (Menge et ah, 1994).
+Cerithidea cingulata (Gmelin) (Caenogastropoda:
+Potamididae) is a gastropod that is distributed
+worldwide, particularly along the coasts of the
+Western Pacific Ocean, Indian Ocean, and Persian
+Gulf (Al-Kandari et al., 2000; Zheng et al., 2007;
+Reid et al., 2008). People consume C. cingulata as
+food, but this species is also a ìpest snailî
+competing food and space with commercially
+important molluscs such as Bullacta exarata,
+Moerella iridescens, and Tegillarca granosa farmed 
+
+
+in aquaculture in coastal areas (Bagarinao and
+Lantin-Oiaguer., 2000; Zheng et al., 2007). C.
+cingulata is also widely distributed in the tidal flats
+of Jiangsu, Shanghai, Zhejiang, and Fujian, China.
+In recent decades, salt-adapted grasses of the
+genus Spartina (cordgrass) have invaded western
+Pacific coasts, including those of Japan and China
+(Greenberg et al., 2006). Many species of genus
+Spartina (cordgrass) are highly invasive (Daehler
+and Strong, 1996). Cordgrass is a key ecosystem
+engineer in a salt marsh ecosystem (Pennings and
+Bertness, 2001; Brusati and Grosholz, 2006), and its
+occurrence could significantly change the benthic
+community structure (Hedge and Kriwoken, 2000;
+Neira et al., 2006). Spartina alterniflora Loisel.
+(Poales: Poaceae), commonly known as saltmarsh
+cordgrass, is a perennial salt marsh grass that is
+native to the Atlantic and Gulf coasts of North
+America; this species has extensively invaded the
+coasts of the Western Pacific Ocean and has
+affected native ecosystems, particularly in China
+(Wang et al., 2006; Yuan et al., 2013). In coastal
+wetlands, invasive plants are ecosystem engineers
+that can change water flow, light, and sediments and
+can affect benthic communities (Neira et al., 2007). Ecosystem engineers are species that can create,
+maintain, modify, or destroy the habitat of benthos,
+thereby strongly influencing community
+composition and structure (Jones et al., 1994).
+When an invasive plant (an ecosystem engineer)
+colonizes a coastal wetland, the community
+structure and the entire ecosystem are modified
+because nutrient cycling, productivity, hydrology,
+particle flux, and habitat availability are altered
+(Talley and Levin, 2001; Crooks, 2002).
+S. alterniflora may outcompete native plants,
+threaten the native ecosystem and coastal
+aquaculture, and reduce native species richness
+(Neira et al., 2005; Levin et al., 2006). However,
+the decline or increase in biodiversity in a wetland
+ecosystem because of S. alterniflora invasion is a
+highly controversial topic, previous studies have
+shown that depending on conditions, invasion can
+lead to either a decline or increase in biodiversity
+(Wang et al., 2010; Alphin and Posey, 2000). A
+literature search has indicated that information is
+lacking on gastropod distribution in tidal flat
+patches at different stages of S. alterniflora invasion
+(Neira et al., 2007). C. cingulata is widely
+distributed on the tidal flats of Jiangsu, Shanghai,
+Zhejiang, and Fujian, China, a region subject to
+ongoing colonisation by S. alterniflora.
+In the current study, we hypothesized that the
+C. cingulata population showed different
+distribution characteristics in the tidal flat at
+different S. alterniflora invasion stages, such that
+the plant was influencing the distribution of C.
+cingulata. 
+xmethods
+
+
+ Our study was conducted at the eastern tidal
+flat of Lingkun Island (N 27.95∞, E 120.93∞),
+Wenzhou Bay, Zhejiang province, China. This
+island is located in the estuary of Oujiang River,
+which is characterized by a subtropical climate. The
+average salinity of the seawater in the tidal flat is 16
+psu, and the tide type is informal semidiurnal with
+an average tidal range of 4.5 m (Lu et al., 2005; Ge
+et al., 2011). The soft sediment is mainly silt. In
+1989, S. alterniflora was deliberately introduced
+along the eastern tidal flats of Lingkun Island to
+promote sediment deposition (Li et al., 2009) and by
+2007 had become the dominant plant in the upper
+and high tidal zones. Five habitats were selected based on similar
+environmental characteristics (eg., climate and
+salinity) (Fig. 1). In the high tidal zone, four kinds
+of patches of S. alterniflora at different invasion
+stages were categorised based on invasion age of S.
+alternifloranamQ\y, (1) no invasion, (2) initial
+invasion (invasion age 1-2 years), (3) invasion
+underway (invasion age 3-4 years), and (4) invasion
+completed (invasion age 5-6 years) (Table 1). A
+parallel habitat was selected as a negative control
+plot in the middle tidal zone and termed as (0) naked
+mud flat.
+The site was sampled in February (winter),
+May (spring), August (summer), and November
+(autumn) of 2007. The habitats were 200-300 m
+apart, replicated five times with plots (1 m * 1 m)
+randomly sampled within each habitat and at least 2
+m apart. A wooden quadrat was used to delimitate
+the plots and C. cingulata with a body length of
+>0.5 cm collected by hand from within each quadrat.
+Each season, 25 plots were sampled sampled with a total of
+100 samples collected for analysis. For point pattern processes, indices were
+obtained mainly based on counts of individuals per
+unit grid (quadrat). The simplest indices were based
+on variance (S2) and mean density (x) or on mean
+crowding (m) and mean density (x) of population density per quadrat. Taylor's power regression In S2
+~ a + b\nx (Taylor, 1961) and Iowa's patchiness
+regression m = a + fix (Iwao, 1968) facilitated the
+assessment of the level of aggregation by means of
+slope b and p. Taylor's law is an empirical law in
+ecology that relates the between-sample variance in
+density to the overall mean density of a sample of
+organisms in a study area. In Taylorís power
+regression, the slope values (b) significantly > 1
+indicate clumping of the organisms. In Poisson
+distributed data b = 1. If the population follows a
+lognormal or gamma distribution then b = 2. Iowa's
+patchiness regression where a indicates the
+tendency to crowding (positive) or repulsion
+(negative) and p reflects the distribution of
+population on space and is interpreted in the same
+manner as b of Taylorís power. Such assessment
+indicated uniform [6(P) < 1], random [6(P) = 1], or
+aggregated [/i(P) > 1] distributions of the population
+(Arnaldo and Torres, 2005; Vinatier et al., 2011).
+Two-way ANOVA (general linear model,
+GLM) was used to determine the mean differences
+in density by distance, season, and interaction
+between the seasons; Levene's test was used to
+determine equality of variance before using the
+GLM, and all the data sets passed this test in the
+current study (Ge et al. ,2011).
+One-way ANOVA was used to determine the
+significance of differences in density measured in
+plots in each season, and Student-Newman-Keuls
+(SNK) method used if a significant difference
+occurred for multiple comparisons. Levene's test
+was used to determine equality of variance prior to
+the multiple comparison analyses. When a dataset
+failed to pass Leveneís test, the data was
+transformed using ln(x + 1) (Kendrick and Walker,
+1995). The data sets of mean densities in different
+habitats were then checked by Pearsonís correlation
+coefficients among seasons.
+SPSS 16.0 (SPSS Inc.) and Microsoft Office
+Excel 2003 (Microsoft Inc.) were used for statistical
+analysis. xresults
+
+
+ Our results indicated that b and P was slightly
+greater than 1 totally (P < 0.001), and Iowa's model
+fitted the data better than Taylor's power law (Table
+II). In Iowa's model, a < 0 indicates the tendency to
+repulsion and indicates C. cingulata was aggregated
+in each season under the spatial scale of this study.
+Two-way ANOVA revealed a significant
+effect of plant invasion stage (F4I9 = 14.397, P <
+0.001) on the abundance of C. cingulata, but no
+significant effect of season (F3 ]9 = 2.235, P = 0.090)
+and interaction of season x invasion stage ( P ' 1 2 . 1 9 =
+0.447, P = 0. 939) was observed.
+C. cingulata showed a clumped distribution
+in the habitats with no invasion and with initial
+invasion of S. alterniflora in the high tidal zone of
+Lingkun Island. Significant difference in the C.
+cingulata density across seasons were detected
+(SNK test, Fig. 2). The highest density occurred in
+habitats at the initial S. alterniflora invasion stage in
+spring, autumn, and winter and in the habitat with
+no invasion in summer (Fig. 2). Patches with
+completed invasion had the lowest density (Fig. 2).
+The density in naked mud flat in the middle
+tidal zone showed a medium value in each season.
+Significantly positive correlations on abundance
+distribution occurred in spring vs. winter (P = 0.030),
+spring vs. summer (P = 0.028), autumn vs. spring
+(P=0.002), and autumn vs. summer (P = 0.018)
+according to Pearsonís correlation test for density
+distribution among seasons (Table III). The results
+showed that the number composition of density
+distribution at different habitats varied significantly
+in the mentioned comparisons. xdiscussion
+ Previous studies have shown that some
+gastropod species showed an aggregated spatial
+distribution pattern (Ye and Lu, 2001; Ge et al.,
+2013). A similar result was observed in the current
+research. Significant seasonal differences in C.
+cingulata densities were observed; however,
+previous research has indicated that density
+variation can affect the distribution pattern
+(Hanberry et al., 2011), as spatial disposition can be
+density dependent (Taylor et al., 1978). However,
+the variation in C. cingulata densities observed in
+this study did not significantly impact on the
+underlying distribution pattern.
+The comparisons of spatial distribution across
+seasons showed that higher densities of C. cingulata
+occurred at the no invasion and initial invasion
+patches in each season, whereas the lowest densities
+occurred in patches where invasion was completed.
+Different invasion statuses can lead to alterations in
+litter production, belowground biomass, sediment
+organic content, and nutrient cycling (Talley and
+Levin, 2001), and such features are associated with
+food availability for benthic fauna (Neira et al,
+2005). The trophic function of the wetland is also
+affected (Levin et al., 2006). The distribution of
+bethos could be affected by the invasion stages in
+the tidal flat. During the initial invasion, the
+environment can offer a large variety of
+microhabitats for benthos as a result of the low
+density of S. alterniflora, and the environmental
+characteristics were suitable for gastropod survival
+(Neira et al., 2007). However, changes occur in the
+habitat when roots of S. alterniflora harden the
+sediment, and stems and leaves develop above
+ground after the initial invasion stage; when such
+changes occur, the habitat becomes unsuitable for
+Bivalvia and Nemertina species (Wang et al., 2010).
+Therefore, habitat changes caused by different S. alterniflora invasion stages (Wang et al., 2006)
+were a significant influence on C. cingulata spatial
+distribution.
+Although invasion of S. alterniflora changes
+the density of C. cingulata, there was no significant
+change of the distribution pattern (aggregated)
+among habitat with different invasion stages in each
+season (Table II). This phenomenon indicated that
+the distribution pattern should be determined by the
+biological characters of species. While the densities
+changed significantly with the factor of invasion
+stage and season (Table III, Fig. 2). C. cingulata
+density was lowest during winter (Fig. 2),
+temperature stress can be a driving force for the
+seasonal variation of distribution, although the
+effect of migratory birds on C. cingulata density
+during winter should also be considered (Ge et al.,
+2011). The western Pacific coast is an important
+wintering and migration stopover wetland for some
+bird species (Butler et al., 2001); thus, the benthos
+and birds can be affected each other because they
+are both involved in a complex food web (Mian,
+1999). Of particular note is that in winter the
+coverage of S. alterniflora was lowest (Table I), the
+benthos including C. cingulata suffered higher
+predation risk than other seasons (Shepherd and
+Lank, 2004). The effect of temporal and spatial
+organization on interspecific associations should be
+considered when applying to ecosystem
+management practices of coastal wetlands.

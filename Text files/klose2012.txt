@@ -1,0 +1,658 @@
+xabstract
+SUMMARY
+1. The effects of omnivorous exotic species on native communities are often difficult to predict
+because of the broad diets and behavioural flexibility of the omnivore, and the diverse abiotic and
+biotic characteristics of invaded systems. We investigated experimentally the effects of a gradient
+of density of the introduced, omnivorous red swamp crayfish Procambarus clarkii (Decapoda:
+Cambaridae) on two stream communities in southern California, U.S.A.
+2. The Ventura River is a clear, flowing stream with a cobble substratum, with abundant algae but
+low densities of large invertebrates, small herbivores and snails. The Santa Ynez River at the time
+of the study consisted of a series of drying pools underlain by sand, with abundant charophytes,
+large predatory invertebrates and herbivores, including snails.
+3. In the Ventura River, periphyton biomass and inorganic sediment decreased with increasing
+crayfish abundance, but in the Santa Ynez River, periphyton and sediment were unrelated to
+crayfish densities.
+4. In the Ventura River, the biomass and density of all benthic invertebrates combined,
+chironomids, micropredators, the meiofauna (chydorid cladocerans, copepods and ostracods), and
+specific predatory and herbivorous taxa, as well as taxon richness, were negatively related to
+crayfish density. In the Santa Ynez River, the biomass and average body size of benthic
+invertebrates, predatory invertebrates, herbivores and chironomids, but not total invertebrate
+density or taxon richness, were negatively related to crayfish density.
+5. Fewer large predatory invertebrates and snails (Physella gyrina) in both streams, and baetid
+mayflies in the Ventura River, were visible at night in channels where crayfish were abundant.
+Snails responded to crayfish by moving above the water line in the Santa Ynez River, but not in the
+Ventura River.
+6. We suggest that the same omnivore had different effects on these neighbouring streams because
+of crayfish predation on large invertebrates in the Santa Ynez River and the scarcity of such prey in
+the Ventura River, leading to increased crayfish grazing on periphyton, and reductions in
+periphyton-associated invertebrates, in the Ventura River.
+
+xintroduction
+Exotic species have had significant effects on native
+species and ecosystems through predation, competition
+and the alteration of habitat conditions; however, prediction
+of the impacts of exotic species is difficult because of
+wide variation in the characteristics of invaders and
+invaded ecosystems (Levine et al., 2003; Lake & Leishman,
+2004; Moyle & Marchetti, 2006; Gerhardt & Collinge,
+2007). Predictions are particularly difficult when the
+invader is an omnivore, which is able to survive in a
+variety of environments and respond behaviourally and
+demographically to changes in the environment and
+resources (Stenroth & Nystro¨m, 2003; Dorn & Wojdak,
+2004; Vandermeer, 2006; Thompson et al., 2007).
+Large omnivorous decapods, such as crayfish, occur in
+streams, rivers, lakes and ponds in many parts of the
+world and feed on detritus, algae, plants, invertebrates
+(including other decapods) and vertebrates, often dominating
+invertebrate production and acting as keystone
+species in food webs (Parkyn, Collier & Hicks, 2001; Usio
+& Townsend, 2002; Stenroth & Nystro¨m, 2003; Nystro¨m,
+2005; Usio et al., 2009). In Europe and North America,
+non-indigenous crayfishes have eliminated or reduced
+native crayfish, amphibians, invertebrates and aquatic
+vegetation in lakes and streams, sometimes displacing fish
+and invertebrates that use these resources (Feminella &
+Resh, 1989; Gamradt, Kats & Anzalone, 1997; Covich,
+Palmer & Crowl, 1999; Stelzer & Lamberti, 1999; Lodge,
+2000). The net outcome of direct and indirect effects of
+crayfish on other species depends on the strength of
+species interactions. For example, crayfish often reduce
+the abundance of grazing snails, releasing algae from snail
+grazing; however, crayfish also directly consume algae, so
+the net effects of crayfish on algae will depend on the
+relative magnitude of direct and indirect effects (Lodge
+et al., 1994). Similar considerations apply when examining
+the role of crayfish as ecosystem engineers, where crayfish
+indirectly affect invertebrates or algae by altering sedimentation
+and substratum characteristics (Statzner, Peltret
+& Tomanova, 2003; Usio et al., 2009). Further, changes
+in the behaviour and distribution of aquatic consumers
+induced by crayfish may affect the predators, competitors
+or resources of these consumers (Lima & Dill, 1990; Klose,
+2011).
+The red swamp crayfish (Procambarus clarkii Girard)
+was introduced into southern California sometime
+between 1924 and 1954 and is considered a large, prolific,
+aggressive and adaptable species (Holmes, 1924; Huner &
+Barr, 1994). Owing to its broad environmental tolerances,
+P. clarkii has successfully invaded a wide range of habitats
+in California, including commercial rice fields, irrigation
+canals, freshwater marshes, streams, rivers, lakes and
+ponds (Sommer & Goldman, 1983; Feminella & Resh,
+1989; Gamradt et al., 1997). Although recent studies have
+shown that crayfish play an important role in benthic food
+webs (Covich et al., 1999; Usio & Townsend, 2002;
+Nystro¨m, 2005), no attempts have been made to evaluate
+crayfish effects on different stream communities within
+the same geographical area. Many earlier studies of the
+effects of crayfish on lower trophic levels were conducted
+in the laboratory or small cages in a single system, and
+the indirect and direct effects of the same omnivorous
+predator on the complex food webs of disparate systems
+are less well known. Because streams vary greatly
+in their environmental and biological characteristics, it
+is possible to compare the effects of P. clarkii on
+stream communities that differ in a variety of such
+characteristics.
+We used the same methods to compare the effects of the
+same crayfish species on two California streams, the Santa
+Ynez and the Ventura Rivers, which differed in their
+physical and biological characteristics. At the time of our
+study, the Santa Ynez River consisted of stagnant pools
+with high densities of large invertebrates, such as predators
+and snails, whereas the Ventura River consisted
+primarily of flowing riffles and runs with abundant algae,
+but few large invertebrates. We address the following
+questions: (i) Does P. clarkii have different impacts on the
+abundance of algae, invertebrates and sediment in the two
+streams? (ii) What are the relative strengths of direct and
+indirect effects of the red swamp crayfish on the different
+stream food webs and what drives the effect of crayfish on
+different systems? Based on the relative availabilities of
+different food types (e.g. invertebrates versus algae), we
+hypothesised that crayfish would reduce the large, dominant
+herbivores (particularly snails) in the Santa Ynez
+River, resulting in an increase in periphyton, but that
+crayfish would mainly consume periphyton in the Ventura
+River, leading to decreases in algae, sediment and
+other invertebrate grazers (Weber & Lodge, 1990; Hart,
+1992; Lodge et al., 1994; Creed & Reed, 2004). Because
+crayfish are omnivorous, behaviourally flexible and may
+be sensitive to many abiotic and biotic factors which differ
+in these two streams, we tested our hypotheses by
+manipulating the density of P. clarkii experimentally.
+
+xmethods
+Study sites and invasion history
+Studies were conducted in the Santa Ynez and Ventura
+Rivers, in southern California, U.S.A. Historical sources of
+the populations of P. clarkii used here are unknown,
+although it was introduced from its native habitats in
+north-eastern Mexico and the southern U.S.A. into southern
+California streams as early as the 1920s (Holmes,
+1924). It is likely that crayfish were introduced into both
+systems at about the same time, given their proximity and
+early use by anglers. Neither stream has any native
+decapods.
+Field work was conducted in a fifth-order section
+(width 5–6.5 m) of the Santa Ynez River in Santa Barbara
+County, California, U.S.A. (3432.37¢N, 11951.50¢W; altitude,
+231 m), in June 2002. The section, 2 km upstream of
+Cachuma Reservoir, flows westward through a narrow
+channel between mountains. The stream is slightly alkaline
+and oligotrophic (Table 1) and has an open riparian
+canopy and streamside vegetation dominated by willow
+(Salix spp. L), western sycamore (Plantanus racemosa Nutt)
+and coast live oak (Quercus agrifolia Ne´e). At the time of
+the study, average water depth was 0.4 m in riffles and
+0.7 m in pools, current velocity ranged from 0 to
+12 cm s)1, and water temperatures ranged from 17 to
+22 C; however, this section of the river was drying up
+and consisted primarily of a series of discrete, stagnant
+pools. The macroalga Chara (L.), and microalgae (primarily
+diatoms) covered the bed, which consisted of silt, sand
+and gravel with a few small cobbles, and the benthos was
+composed primarily of snails (Physella gyrina Say), worms
+(oligochaetes and nematodes), crustaceans [Hyalella azteca
+(Saussure), ostracods] and predatory invertebrates [hemipterans,
+including the Family Corixidae: Graptocorixa
+(Hungerford) and Family Naucoridae: Ambrysus (Sta°l),
+and damselflies, Family Coenagrionidae: Enallagma (Charpentier)],
+with oligochaetes and H. azteca dominating
+invertebrate biomass. At this site, mean crayfish density
+was 2 m)2 and seven fish species were observed or
+collected (Table 1).
+On the Ventura River, the study site was located in a
+third-order section (width 6–8 m) in Ventura County,
+California, U.S.A. (3434.438¢N, 11929.913¢W; altitude,
+61 m). The Ventura River is alkaline and mesotrophic,
+with a mostly open canopy, and riparian vegetation
+dominated by giant reed (Arundo donax L.), western
+sycamore and willow (Table 1). Current velocity and
+water temperature at the time of the study in July 2003
+ranged from 4 to 25 cm s)1 and 18–22.5 C, respectively,
+and mean depth was 0.3 m in riffles and ranged from 1 to
+4 m in pools. The substratum consisted largely of sand
+and gravel in pools, medium to large cobbles in riffles,
+and the dominant macroalga was Cladophora sp. (Ku¨ tzing),
+and dominant microalgae were diatoms. The
+benthos was dominated by mayflies (Tricorythodes Ulmer),
+dipterans (Chironomidae: Chironominae, Orthocladiinae),
+worms (oligochaetes), crustaceans (H. azteca) and microcrustaceans
+(ostracods, chydorid cladocerans and copepods).
+Mean crayfish density was 4 m)2, and four fish
+species were observed or collected (Table 1). We observed
+crayfish throughout the study reach and in all areas of
+experimental channels where they were introduced.
+Experimental design
+We conducted field experiments using the same channel
+set-up in both streams. Twelve parallel stream channels
+constructed from polyvinyl chloride (PVC) pipe cut in half
+longitudinally were placed in an unshaded stream reach
+with the top edges raised 2–3 cm above the surface of the
+water. Two (2 m L · 0.31 m W · 0.15 m H) stream channels
+were mounted onto each of six 1.2 m · 2.4 m
+plywood sheets coated with Varathane, a non-toxic water
+sealant. The ends of each channel were fitted with coarsemesh
+plastic screens (0.7 cm width), which were cleaned
+daily, allowing continuous water flow and colonisation by
+invertebrates while preventing the escape or entry of
+crayfish. Natural substrata from the streambed were
+elutriated 10 times to remove invertebrates and detritus,
+mixed well and added to each stream channel to a depth
+of 2.5 cm. The substratum in the Santa Ynez River was
+mainly silt and sand with a few cobbles ranging from 2 to
+10 cm in circumference, whereas in the Ventura River, the
+substratum in channels contained little silt and sand and
+was composed of equal numbers of small, medium and
+large cobbles (mean circumferences 21, 36 and 58 cm,
+respectively). We then collected invertebrates and detritus
+from an area of streambed equal to the area of all of the
+experimental channels combined, then thoroughly mixed
+this water sample (20 L) in a large container and distributed
+equal aliquots to each stream channel, ensuring that
+the initial abundance of invertebrates and detritus was
+similar among channels. In addition, colonisation by
+invertebrates and algae into channels was allowed for
+1 week prior to the start of the experiment.
+Square unglazed ceramic tiles (2.3 cm on each
+side · 0.5 cm thick) were leached in distilled water for
+2 weeks, then transferred to the stream bed for 4 weeks
+for periphyton colonisation and growth. Fifty of these
+conditioned tiles were placed on the bottom of each
+stream channel at equally spaced intervals at the beginning
+of the experiment. Because tiles may turn over or
+become covered in sediment, more tiles were placed on
+the bottom of channels than were collected.
+At each site, channels were stocked with crayfish at one
+of six densities (0, 1, 2, 3, 4 and 6 crayfish per channel, two
+replicates per treatment). This density gradient covered
+the range of local P. clarkii densities found within each
+study reach. All individual crayfish were of similar length
+and mass [8.9 ± 0.1 and 9.3 ± 0.2 cm TL and 23.0 ± 0.8
+and 26.2 ± 1.1 g wet mass (mean ± 1 SE)] in the Santa
+Ynez and Ventura Rivers, respectively, and survived for
+the duration of the experiment; however, two individuals
+missing a claw were immediately replaced. Four openended
+PVC cylinders, each 20 cm long · 8 cm in diameter,
+were placed on the bottom of each stream channel at
+equally spaced intervals to provide shelter for crayfish.
+Channel tops were covered with thin, transparent netting
+(0.4 cm mesh) and secured with removable metal clips to
+exclude avian and mammalian predators and to prevent
+crayfish and snails from escaping. Light (PAR) was
+measured below the surface of the water within each
+stream channel using a Li-Cor 250 light meter, both with
+and without the netting in place, to estimate the amount
+of light reduction. The netting reduced irradiance by 4.5%
+within each stream channel.
+Experimental sampling
+Both experiments ran for 14 days. Ten days after the start
+of the experiments, night visual surveys were performed
+within each stream channel to determine the number of
+benthic invertebrates visible [i.e. epibenthic invertebrates
+on the substratum surface and on the walls of stream
+channels and exposed surfaces of crayfish shelters, which
+could be seen and counted with the naked eye, including
+the number of snails (P. gyrina) floating at the water
+surface, and below and above the water line of each
+channel]. One hour after sunset, two individuals independently
+counted all invertebrates visible within the
+entire stream channel using a flashlight or headlamp and
+these individual counts were averaged for each channel.
+Channel substrata and ceramic tiles were sampled prior
+to the addition of crayfish to determine initial invertebrate
+densities and periphyton biomass [estimated from ashfree
+dry mass (AFDM) and chlorophyll a concentrations],
+using a 0.041-m2 Surber sampler (mesh size, 250 lm) for
+invertebrates (one sample per channel) and ceramic tiles
+for periphyton (4 removed per channel). At the end of the
+experiment, four Surber samples were taken from each
+channel, pooled into one composite sample and then
+preserved in the field in 75% ethanol, with rose bengal
+added to aid in the separation of invertebrates from
+particulate matter. Four ceramic tiles were collected from
+each channel for periphyton determinations at the end of
+the experiment, placed in black plastic canisters and put
+on ice and then frozen on return to the laboratory.
+Laboratory methods
+Invertebrates were identified to the lowest practical
+taxonomic level (generally family or genus for insects
+and molluscs) and counted using a dissecting microscope
+at 12· magnification. Average individual dry mass for
+each taxon within each channel was determined by
+averaging the lengths of 10 individuals collected from
+each channel and measured to the nearest 0.01 mm using
+digital callipers, then calculating dry mass using published
+length–mass relationships (Meyer, 1989). Invertebrate
+taxa were assigned to functional feeding group or
+size (i.e. meiofauna) categories, including small herbivores
+⁄ detritivores, predatory invertebrates, micropredators,
+meiofauna and filter-feeders, using designations in
+Merritt & Cummins (1996) and Thorpe & Covich (2001)
+(Supporting Information, Appendix S1 & S2). Owing to
+their broad range of feeding modes and diets, Chironominae
+(here Chironominae and Orthocladiinae combined)
+were excluded from functional feeding group categorisations;
+however, the Tanypodinae were treated separately
+as micropredators. All chironomids (Chironominae,
+Orthocladiinae and Tanypodinae) were included in total
+invertebrate density and biomass calculations, and Chironominae
+⁄ Orthocladiinae and Tanypodinae densities
+and biomasses were examined as separate response
+variables.
+Periphyton samples were obtained by scrubbing ceramic
+tiles with a plastic brush, rinsing with distilled water
+into a graduated cylinder, diluting the resulting slurry to a
+known volume and then mixing thoroughly and splitting
+into two equal aliquots for AFDM and chlorophyll a
+determinations. Each aliquot was filtered onto an A⁄E
+glass fibre filter and then stored at )20 C in the dark until
+later analysis (filters for AFDM were pre-combusted for
+30 min at 450 C and then pre-weighed). For chlorophyll a
+analysis, filters were extracted in the dark at 4 C in 90%
+acetone for 24 h and chlorophyll a concentrations corrected
+for phaeophytin were measured by fluorometry
+(Turner Designs 10-AU) (Sartory & Grobbelaar, 1986). For
+AFDM analysis, filters were dried at 60 C for 24 h and
+weighed to the nearest 0.1 mg, and then filters were
+reweighed following combustion in a muffle furnace
+(Thermolyne 48000) at 500 C for 2 h and drying at 60 C
+for 24 h. AFDM was determined as the difference between
+initial and final dry mass following ignition, and inorganic
+sediment concentrations were measured as the final
+dry mass (Steinman & Lamberti, 1996).
+Data analysis
+We used linear and polynomial least squares regression
+analyses to assess the effects of a gradient of crayfish
+density on periphyton biomass, inorganic sediment and
+the density, biomass, Simpson’s diversity, evenness
+(Pielou, 1966), taxon richness and body size of total
+benthic invertebrates, individual invertebrate taxa and
+invertebrate functional feeding groups. Rarefaction techniques
+were applied to taxon richness data because the
+number of taxa collected will depend on sample size;
+consequently, we examined the number of species
+collected at a standardised number of individuals (300)
+using resampling methods (Gotelli & Entsminger, 2009).
+Prior to all analyses, normality was tested using the
+Kolmogorov–Smirnov test (Zar, 1996) and residuals were
+plotted and examined. If assumptions of normality and
+homogeneity of variances could not be met, then the
+dependent variable was log-transformed. When discrete
+or continuous data included zero values, one or the
+smallest detectable unit for that response variable was
+added to all values for that variable prior to transformation
+(Quinn & Keough, 2002). All statistical analyses were
+performed using JMP Version 6.0.0 for WindowsTM (SAS
+Institute, Inc. Cary, NC, U.S.A.).
+
+
+xresults
+Periphyton (diatoms) and inorganic sediment
+Mean abundance of periphyton (mg m)2) and inorganic
+sediment (mg m)2) was greater in the Ventura River than
+in the Santa Ynez River across all stream channels (chl a ttest:
+t = 20.4, P < 0.0001; AFDM t-test: t = )9.38,
+P < 0.0001, and inorganic sediment t-test: t = )5.58,
+P = 0.0002, respectively, d.f. = 22 in all cases) (Fig. 1).
+There were no significant relationships between periphyton
+biomass or inorganic sediment and crayfish density
+in the Santa Ynez River, although periphyton and inorganic
+sediment declined with increasing crayfish abundance
+in the Ventura River (Fig. 1).
+Night visual surveys
+The numbers of snails and predatory invertebrates (i.e.
+Hemiptera, Corixidae: Graptocorixa and Odonata, Coenagrionidae:
+Enallagma) in the Santa Ynez River, and snails,
+predatory invertebrates (i.e. Graptocorixa) and baetid
+mayflies in the Ventura River, exposed on the substratum
+in channels at night, declined significantly with increasing
+crayfish density (Fig. 2). The proportion of P. gyrina
+populations occurring above the water line increased
+with increasing crayfish abundance in the Santa Ynez
+River, but not in the Ventura River (Fig. 2). Snail density
+was very low in the Ventura River, however, and was two
+orders of magnitude less than that in the Santa Ynez River
+(snail density t-test: t = )3.66, d.f. = 22, P = 0.004) (Fig. 2).
+Invertebrate responses
+Invertebrate biomass and density across treatments in the
+Santa Ynez River were dominated by Oligochaeta (40% of
+biomass, 30% of total density), H. azteca (34, 18%),
+Ostracoda (9, 29%), P. gyrina (6, 1%) and Nematoda (3,
+18%). Small herbivores comprised 85.5%, predatory
+invertebrates 4.2%, micropredators 0.3%, meiofauna
+9.4% and Chironominae ⁄ Orthocladiinae 0.6% of total
+invertebrate biomass and 68.4, 0.2, 0.6, 30.5 and 0.3%,
+respectively, of total invertebrate density in the Santa
+Ynez River (Appendix S1 & S2). In the Ventura River,
+invertebrate biomass and density were dominated by
+H. azteca (33% of total biomass, 8% of total density),
+Chironominae ⁄ Orthocladiinae (32, 14%), Oligochaeta (9,
+5%), Chydoridae (7, 22%), Tricorythodes (5, 2%) and
+Ostracoda (5, 38%). Small herbivores comprised 50%,
+predatory invertebrates 2%, micropredators 2%, meiofauna
+13%, filter-feeders 0.3% and Chironominae ⁄Orthocladiinae
+32% of total invertebrate biomass and 19, 1, 0.8,
+66, 0.02 and 14%, respectively, of total invertebrate
+density in the Ventura River (Appendix S1 & S2).
+Rarefied taxon richness was marginally higher in the
+Ventura River (26 taxa) than in the Santa Ynez River (18),
+and the total number of taxa collected and rarefied taxon
+richness declined, and evenness increased, with crayfish
+density in the Ventura River, but not in the Santa Ynez
+River (Fig. 3). Crayfish reduced 38% (10 of 26) of the taxa
+in the Ventura River (i.e. Helisoma, Graptocorixa,
+Chironominae ⁄ Orthocladiinae, Tanypodinae, Tricorythodes,
+Hydroptila, Nematoda, Caloparyphus, Ostracoda and
+Cyclopoida), most of which were associated with high
+abundance of periphyton or sediment (except for Helisoma
+and Graptocorixa, these taxa were related to AFDM
+[Pearson’s r = +0.37 to +0.44, P < 0.04) and inorganic
+sediment (Pearson’s r = +0.35 to +0.49, P < 0.05)].
+Mean total invertebrate biomass and density across
+treatments were not different between the Santa Ynez and
+Ventura Rivers (3160 ± 521 and 2758 ± 363 mg m)2 and
+29618 ± 3133 and 38564 ± 5515 m)2 mean ± 1 SE; t-test:
+t = 0.75, d.f. = 22, P = 0.47, t-test: t = )1.33, d.f. = 11,
+P = 0.21, respectively), but total benthic invertebrate
+biomass at both sites, and total invertebrate density in
+the Ventura River, declined with increasing crayfish
+density (Figs 4 & 5). The biomass of herbivores ⁄ detritivores,
+particularly snails and amphipods, and the density
+of elmid beetle (Optioservus) larvae declined with increasing
+crayfish density in the Santa Ynez River, but not in the
+Ventura River. Chironominae ⁄Orthocladiinae density in
+the Ventura River, and biomass at both sites, declined
+with increasing crayfish abundance, as did the densities of
+Tricorythodes, Hydroptila and Helisoma in the Ventura
+River. Meiofaunal (primarily ostracods, copepods and
+chydorid cladocerans) biomass and density decreased
+significantly with increasing crayfish density in the Ventura
+River, but not in the Santa Ynez River (Figs 4 & 5).
+Although the biomasses of total invertebrates, herbivores
+and Chironominae ⁄ Orthocladiinae declined with
+increasing crayfish density in the Santa Ynez River, the
+densities of these groups were not significantly related to
+crayfish density. This difference could be attributed to the
+effect of crayfish on the size structure and mean individual
+biomass of invertebrates, because the average body
+size of all invertebrate taxa, including herbivorous,
+micropredatory (Probezzia sp., Tanypodinae) and predatory
+invertebrates (Graptocorixa, Enallagma), decreased
+with increasing crayfish density in the Santa Ynez River
+(Fig. 6). In contrast, total invertebrate density declined
+with increasing crayfish density in the Ventura River, and
+the effect of crayfish on total invertebrate biomass was
+enhanced by reductions in the body size of Chironominae
+⁄ Orthocladiinae (the second most abundant invertebrate
+group in the Ventura River) induced by crayfish
+(Fig. 6). Chironomids were smaller in the Ventura River
+than in the Santa Ynez River (mean length = 7.8 ± 1.3 mm
+in the Santa Ynez River and 6.0 ± 0.1 mm in the Ventura
+River; chironomid length t-test: t = )3.12, d.f. = 12,
+P = 0.005).
+The biomass, density and mean body size of predatory
+invertebrates (i.e. Enallagma, Graptocorixa, Probezzia sp.), as
+well as naucorid beetle (Ambrysus) density, declined with
+increasing crayfish density in the Santa Ynez River. In the
+Ventura River, biomass and densities of two specific
+predatory taxa, Graptocorixa and tanypod midges, decreased
+with increasing P. clarkii density (Fig. 6; Appendix
+S1 & S2). The biomass of caddisflies, snails,
+amphipods and flatworms in the Ventura River, nematodes
+in the Santa Ynez River and mayflies, naucorids,
+sphaerid clams, oligochaetes and mites in both systems
+showed no relationships with crayfish density.
+
+xdiscussion
+The broad geographical distribution and high abundance
+of P. clarkii worldwide, and its complex effects on benthic
+invertebrates, periphyton, macrophytes, detritus and inorganic
+sediment, underscore the potential importance of
+this invasive species in altering the structure and function
+of freshwater communities (Rudnick & Resh, 2005; Gherardi
+& Acquistapace, 2007). We showed that this large
+omnivore had different effects on periphyton biomass,
+amounts of inorganic sediment, invertebrate taxonomic
+richness and evenness, and benthic invertebrate biomass,
+density and community structure in nearby streams
+dominated by pools (Santa Ynez River) or riffles (Ventura
+River). Our results suggest that crayfish effects on stream
+communities will be influenced by environmental and
+biological factors, such as flow regime, habitat complexity,
+the taxonomic composition of the recipient invertebrate
+assemblage and the abundance of individual taxa. Crayfish
+densities were two times lower, Physella abundance an
+order of magnitude higher, and AFDM and chlorophyll a
+between one and two orders of magnitude lower in the
+Santa Ynez River than in the Ventura River, suggesting
+that crayfish impacts on these communities depended on
+the availability of different food types.
+Based on the literature, the known food habits of
+crayfish and the availability of different food types, we
+predicted that crayfish would reduce snails in the Santa
+Ynez River, causing an increase in periphyton biomass,
+whereas crayfish would primarily reduce periphyton in
+the Ventura River, causing associated declines in sediment
+and periphyton-associated invertebrates. The degree
+to which these expectations were met was variable. In the
+Santa Ynez River, the biomass of predatory invertebrates,
+chironomids and herbivores (particularly snails) was
+negatively related to crayfish density, whereas, contrary
+to our prediction, that of periphyton and meiofauna was
+unaffected by crayfish. Crayfish effects on benthic microalgal
+biomass reported in the literature have ranged from
+positive to negative to negligible (Creed, 1994; Nystro¨m,
+Bro¨nmark & Grane´li, 1999; Stelzer & Lamberti, 1999).
+Although predation by crayfish on grazers (i.e. snails)
+often results in indirect positive effects on periphyton
+biomass (Luttenton, Horgan & Lodge, 1998), crayfish may
+also indirectly positively affect microalgal biomass by
+removing senescent cells and detritus allowing the viable
+algal understorey to increase (Charlebois & Lamberti,
+1996). We hypothesise that we did not observe an indirect
+positive effect of crayfish on microalgae in the Santa Ynez
+River because of the combined effects of indirect and
+direct pathways of interaction, with indirect positive
+effects on algae being ameliorated by direct crayfish
+consumption of algae and predatory invertebrates, the
+latter perhaps leading to a trophic cascade (Charlebois &
+Lamberti, 1996; Nystro¨m, Bro¨nmark & Grane´li, 1996;
+Stelzer & Lamberti, 1999). Our results were consistent
+with those of Charlebois & Lamberti (1996), who reported
+that crayfish (Orconectes rusticus Girard) reduced the
+abundance of most common macroinvertebrate taxa but
+had weak effects on periphyton (mostly diatoms). In the
+Ventura River, in contrast, there were negative relationships
+between periphyton, specific predatory invertebrates
+(Graptocorixa, Tanypodinae), chironomids, and
+meiofaunal biomass, and crayfish density, but no discernible
+effects of crayfish on other herbivores or filter-feeders.
+Carbon stable isotope analysis indicated that microalgae
+were a dominant food source for snails (Lymnaea stagnalis
+Linnaeus) but a minor food source of crayfish in a Swedish
+system (Nystro¨m et al., 1999). However, Nystro¨m et al.’s
+(1999) algal community was dominated by adnate, tightly
+attached green microalgae (e.g. Coleochaete sp. Brebisson),
+whereas the periphyton of the Ventura River was comprised
+of many less tightly attached diatoms [e.g. there
+were substantial numbers of Melosira varians C. Agardh.,
+Navicula sp. Bory and Synedra ulna (Nitzsch) Ehrenb.],
+suggesting that direct crayfish grazing could have reduced
+benthic algal biomass at this site (Schofield et al., 2008).
+Further, simultaneous reductions in both sediment and
+algae indicated that crayfish may have been sweeping or
+scraping the substratum surface to obtain food.
+Crayfish reduced total invertebrate density, the number
+of taxa collected and rarefied richness in the Ventura
+River and total invertebrate biomass in both systems. The
+negative effect of P. clarkii on the number of taxa in the
+Ventura River appears to be one of the few documented
+instances of a negative effect of invasive crayfish on the
+diversity of native invertebrates (also see Stenroth &
+Nystro¨m, 2003). Procambarus clarkii reduced 10 of 26 taxa
+in the Ventura River, most of which were associated with
+high levels of periphyton or sediment, suggesting that
+declines in the abundance and diversity of these groups
+were mediated through reductions in periphyton and
+sediment caused by crayfish (Helms & Creed, 2005). In
+contrast, crayfish mainly reduced abundant, large, slowmoving
+prey, such as snails and odonates, in the Santa
+Ynez River and did not eliminate any taxa, resulting in no
+relationship between taxon richness and crayfish density
+in that system. Crayfish reduced invertebrate biomass,
+including the biomass of 44 and 39% of all taxa in the
+Santa Ynez and Ventura Rivers, respectively, agreeing
+with the results of other studies (Stelzer & Lamberti, 1999;
+Nystro¨m et al., 2001; Stenroth & Nystro¨m, 2003; Usio et al.,
+2006). Despite general relationships between invertebrate
+biomass and crayfish density, there were clear differences
+in the responses of specific invertebrate taxa and trophic
+groups to P. clarkii between these systems, indicating the
+difficulties associated with predicting general community
+responses to crayfish introductions.
+As postulated, the different effects of crayfish on these
+two systems could be attributed to the food preferences of
+crayfish and to differences in community composition. In
+general, crayfish prefer relatively large, slow-moving taxa,
+such as snails and odonates, which were abundant in the
+Santa Ynez River but rare in the Ventura River (Usio &
+Townsend, 2002; Stenroth & Nystro¨m, 2003; Dorn &
+Wojdak, 2004; Nystro¨m, 2005; Usio et al., 2006, 2009).
+Crayfish had strong negative effects on the biomass, body
+sizes and ⁄ or density of large predatory invertebrates
+(odonates, naucorids and corixids), herbivores (snails and
+amphipods) and large chironomids (mean length in 0
+crayfish treatment = 9–12 mm) in the Santa Ynez River,
+agreeing with previous studies (Stelzer & Lamberti, 1999;
+Nystro¨m et al., 2001; Helms & Creed, 2005; Dickey &
+McCarthy, 2007). Although the mechanisms causing these
+reductions are uncertain, it is probable that crayfish
+reduced sedentary or slow-moving prey through direct
+consumption; however, it is possible that mobile prey (e.g.
+amphipods, corixids and naucorids) avoided or fled from
+channels with high crayfish activity (Englund, Cooper &
+Sarnelle, 2001; Usio et al., 2009). Although particular predatory
+and herbivorous taxa (e.g. Graptocorixa, Tricorythodes,
+Hydroptila, Chironominae ⁄ Orthocladiinae, Tanypodinae
+and small snails) were negatively affected by crayfish in
+the Ventura River, these taxa were much less abundant or
+smaller than the dominant predators or herbivores in the
+Santa Ynez River. For example, the dominant invertebrate
+predators in the Ventura River, the Tanypodinae midges,
+were rare in the Santa Ynez River and much smaller than
+the dominant invertebrate predators in the Santa Ynez
+system (hemipterans and odonates). Previous studies have
+reported positive, negative or no crayfish effects on the
+abundance of many of these taxa, and it appears that
+responses to crayfish are somewhat species specific,
+depending on the behavioural and size characteristics of
+prey (Hart, 1992; Creed & Reed, 2004; Olsson et al., 2008).
+In both of our systems, crayfish reduced disproportionately
+the densities of the largest individuals of dominant
+taxa. In addition, because the densities of many small
+mayfly, caddisfly, chironomid and meiofaunal taxa are
+positively related to algal abundance, crayfish may have
+reduced these taxa indirectly by reducing algal biomass
+(Dudley, Cooper & Hemphill, 1986; Hart, 1992; Creed &
+Reed, 2004). In summary, we postulate that crayfish had
+the greatest effects on large, epibenthic prey, such as
+snails, amphipods, predatory invertebrates and large
+chironomids in the Santa Ynez River, whereas crayfish
+in the Ventura River fed primarily on abundant periphyton
+and periphyton-associated taxa because of the
+scarcity of large, epibenthic prey in this system, probably
+leading to reductions in both (Fig. 7).
+Crayfish are active nocturnal predators, and there was a
+strong agreement between the results of night-time
+surveys and benthic sampling (Cukerzis, 1988). There
+was also a strong positive relationship between the
+proportion of P. gyrina populations above the water line
+at night and crayfish density in the Santa Ynez River, but
+not in the Ventura River. These results largely agree with
+other studies demonstrating that actively foraging crayfish
+reduce the abundance of conspicuous invertebrates
+and alter prey behaviour, such as inducing snails to leave
+the water (Stelzer & Lamberti, 1999; Turner, Turner &
+Lappi, 2006; Dickey & McCarthy, 2007; Klose, 2011).
+Although such changes in the distribution of snails in
+response to crayfish might influence periphyton abundance,
+no net effects of crayfish on periphyton were
+observed in the Santa Ynez River.
+In conclusion, crayfish primarily reduced large
+consumers in the Santa Ynez River and the abundance
+of periphyton and sediment in the Ventura River (with
+indirect or direct effects on small invertebrates associated
+with periphyton), indicating that crayfish were largely
+secondary or tertiary consumers in the Santa Ynez River
+and primary consumers in the Ventura River. Because
+streams in Mediterranean climates have long periods of
+low or non-existent flows, and because many climate
+change models forecast increased droughts in these
+regions (e.g. Null, Viers & Mount, 2010), our results
+suggest that the effects of this exotic omnivore may vary
+with climate change as indicated by the contrasting effects
+of crayfish on drying (Santa Ynez River) versus freeflowing
+(Ventura River) systems.

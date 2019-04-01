@@ -1,0 +1,795 @@
+xabstract
+An invasive Eurasian fish, the round goby Neogobius melanostomus, has recently spread from the Great Lakes
+into the St. Lawrence River. We quantified prey preferences of this benthivore and determined whether its
+predatory impacts on molluscs in the river are similar to those in the Great Lakes. We measured the size
+structure of gastropods and dreissenid mussels at 13 St. Lawrence River sites where round goby densities ranged
+from 0 to 6 m−2. For four of these sites, data were available for multiple years before and after invasion.
+Contrary to studies in the Great Lakes, there were no consistent effects of round goby density on the size
+structure of dreissenids, although there was an ontogenetic diet shift toward dreissenids. However, the abundance
+and richness of small gastropods (≤14 mm) was negatively correlated with round goby density across
+all sites, and declined over time at three of four sites sampled before and after invasion. Median gastropod
+size also declined across sites with increasing round goby density. Gastropods (as well as chironomid larvae,
+caddisfly larvae, and ostracods) were consistently among the most preferred prey items consumed by gobies,
+whereas dreissenids (as well as leeches and freshwater mites) were consistently avoided. These results indicate
+the major role of the round goby in structuring gastropod populations in the St. Lawrence River, and
+highlight large-scale spatial variation in its predatory impact on dreissenid populations.
+
+xintroduction
+The round goby (Neogobius melanostomus), a benthivorous fish
+native to the Black and Caspian Seas region, was discovered in the
+St. Clair River in 1990 (Jude et al., 1992) and subsequently spread
+throughout the Great Lakes basin within 5 years (Charlebois et al.,
+2001). The species was likely introduced in ballast water released
+by transoceanic vessels (Corkum et al., 2004). Its range extension
+into the upper St. Lawrence River has occurred slowly, as it was not
+detected at Cornwall, Ontario until 2004 (Hickey and Fowlie, 2005).
+A conspicuous impact of round goby invasion in the Great Lakes
+has been a negative effect on macroinvertebrate communities
+(Barton et al., 2005; Ghedotti et al., 1995; Krakowiak and Pennuto,
+2008; Kuhns and Berg, 1999; Lederer et al., 2006, 2008). Round gobies
+consume a broad variety of benthic macroinvertebrates, particularly
+molluscs, but dreissenid mussels (the zebra mussel Dreissena 
+polymorpha and the quagga mussel Dreissena bugensis) frequently
+compose the largest proportion of their diet (Barton et al., 2005;
+Rakauskas et al., 2008; Ray and Corkum, 1997). The relative importance
+of different prey items varies with round goby size, habitat conditions,
+season, and time since invasion (French and Jude, 2001;
+Janssen and Jude, 2001; Jude et al., 1995; Raby et al., 2010). Round
+goby diet appears to vary across the Great Lakes, reflecting their flexible
+and opportunistic feeding habits. Indeed, round gobies exploit a
+wide variety of habitat types within the Great Lakes basin, from
+stream environments where their diet is composed almost entirely
+of aquatic insects (Carman et al., 2006; Pennuto et al., 2010; Phillips
+et al., 2003) to profundal zones of Lakes Ontario and Huron, where
+they primarily consume molluscs and crustaceans (Schaeffer et al.,
+2005; Walsh et al., 2007).
+Several studies have investigated round goby predation on dreissenids
+and some have attempted to relate these prey preferences to
+observed changes in the size structure of dreissenid populations. In
+the Great Lakes, round gobies generally reach maximum lengths of
+~150–180 mm. An ontogenetic shift toward a predominantly
+dreissenid-based diet occurs at lengths of 60–80 mm (Barton et al.,
+2005; French and Jude, 2001; Janssen and Jude, 2001; Jude et al.,
+1995; Ray and Corkum, 1997), although fish as small as 40–50 mm
+may consume dreissenids (Djuricich and Janssen, 2001; Lederer
+et al., 2006; Taraborelli and Schaner, 2002). The maximum size of
+dreissenids consumed is limited by the gape size of the fish and
+ranges from 10 to 20 mm with a mean of 14 mm across field and
+laboratory studies from the Great Lakes region (Clark, 2007; Djuricich
+and Janssen, 2001; Ghedotti et al., 1995; Jude et al., 1995; Ray and
+Corkum, 1997; Taraborelli and Schaner, 2002; Thomas, 1997).
+Studies that have examined the impacts of round gobies on dreissenid
+size distributions generally record larger effects on the smallest
+mussels. In nearshore eastern Lake Erie, the size distribution of quagga
+mussels changed through time as round goby density increased
+from 6 m−2 in 2001 to 14 m−2 in later years; over this time period,
+there was a decline in the abundance of mussels of 3–15 mm length
+(Barton et al., 2005). A subsequent lakewide survey in 2002 found
+very low abundances of dreissenids in the 3–12 mm range, in combination
+with an increase in the average size of mature mussels, likely
+due to round goby predation (Patterson et al., 2005). In nearshore
+Lake Ontario, Wilson et al. (2006) found that the proportion of
+young-of-the-year quagga mussels (≤10 mm) was negatively related
+to round goby abundance. In the Cheboygan River, Michigan, the size
+distribution of dreissenids peaked at 14–17 mm, while that in round
+goby GI tracts peaked at 8–11 mm (Clark, 2007). Similarly, in the
+Bay of Quinte, Lake Ontario, dreissenid size distribution peaked at
+12–16 mm, while that in round goby GI tracts peaked at 8–9mm
+(Taraborelli and Schaner, 2002). These studies suggest a tendency
+for gobies to preferentially remove smaller mussels and thus alter
+mussel size distributions in the field. More recently, Andraso et al.
+(2011) found that round gobies in Presque Isle Bay, Lake Erie, preferentially
+selected 8–11 mm dreissenids for consumption.
+The work reported here complements a field survey conducted in
+the upper St. Lawrence River that aimed to investigate impacts of
+round gobies on the entire macroinvertebrate community (Kipp and
+Ricciardi, in press). Among other impacts, the field survey found significant
+negative relationships between the biomass of gastropods
+and round gobies, and no significant relationships between the biomass
+of dreissenids and round gobies — which is surprising in view
+of impacts reported from the Great Lakes. Based on the premise that
+impacts on dreissenids in the St. Lawrence might be limited to smaller
+molluscs, we examined differential predation by round gobies on the
+size distribution of molluscs in the field. Thus, our study linked spatial
+and temporal patterns of gastropod and dreissenid size structure on
+cobble substrates to the diets of gobies at multiple sites. We hypothesized
+that dreissenids and gastropods would rank among the most
+preferred prey items in round goby diets (i.e. these taxa would comprise
+a larger proportion of the diet relative to their proportional
+availability in the field; Ivlev, 1961). We predicted that 1) the size,
+abundance, and proportion of dreissenids and gastropods consumed
+by gobies would increase with fish total length; and 2) dreissenid
+and gastropod consumption would be more prevalent in gobies
+>70 mm in total length. Moreover, as round goby density increased
+across sites and over time, 3) the density of small (≤14 mm) dreissenids
+and gastropods, as well as the taxa richness of small gastropods,
+would be reduced; 4) gastropod taxa with a maximum size of
+≤14 mm would be absent more frequently than larger taxa; and
+5) dreissenid and gastropod sizes would increase as smaller molluscs
+would be disproportionately removed through round goby predation.
+
+xmethods
+Study area
+Our study made use of the same sampling techniques and sites as
+those in a larger field survey that examined impacts of round gobies
+on the entire macroinvertebrate community in the upper St. Lawrence
+River (Kipp and Ricciardi, in press). In 2008, we sampled 13
+sites across a range of round goby densities in the upper St. Lawrence
+River between Prescott, Ontario and Montreal, Quebec, in order to determine
+mollusc size structure (Table 1; Fig. 1). Given that round
+gobies are frequently associated with rocky substrates (Jude et al.,
+1992; Ray and Corkum, 2001), and mollusc assemblages on cobble
+(diameter ~65–260 mm) are diverse in this area (Ricciardi et al.,
+1997), sites having some cobble were chosen (Table 1). Four of
+these sites were resampled in 2009 (Table 1). Data from cobble at 3
+sites in 2005 (K. Harper and A. Ricciardi, unpublished data) and a
+blank brick colonization experiment in 2006 (Ward and Ricciardi,
+2010) were available for interannual comparisons (Table 1). Calcium
+ion concentration [Ca2+] was sufficiently high at all sites and in all
+years (mean 29.6 mg·L−1; range 20.6–32.0 mg·L−1) such that it
+was not expected to limit mollusc abundance or diversity (Clarke,
+1981; Jones and Ricciardi, 2005; Mellina and Rasmussen, 1994).
+Round goby density quantification and diet analysis
+Round goby density m−2 (Table 1) was quantified visually by a
+SCUBA diver swimming at a constant depth of 1 m above the substrate
+along two 30-m transects while holding a 1-m pole at arms'
+length perpendicular to each transect and parallel to the bottom. All
+round gobies that passed under the pole were counted (cf. Barton
+et al., 2005). Round goby counts were always conducted by the
+same diver at each site on the same day that molluscs were collected,
+and before molluscs were sampled, in order to avoid disturbing the
+fish. We recognize that visual estimates of round goby densities
+using transect counts can be problematic because of the cryptic nature
+of round gobies (Ray and Corkum, 2001) and their attraction to
+SCUBA divers (Johnson et al., 2005a). This method was chosen because
+it is unobtrusive and inexpensive, and allowed density estimates
+to be compared with each other (although not to those made
+using other sampling methods in the Great Lakes). Transects were
+placed in 1–2 m of water parallel to shore, either end-to-end at sites
+with steep slopes, or at the same points along the shore at sites
+with gentle slopes. For one analysis, sites were ranked in terms of
+their degree of invasion. They were classified into two categories
+based on both round goby density and time since invasion, in which
+gobies were: (i) present for 0–2 years at densities ≤1.6 m−2 at
+early-invasion sites, or (ii) present for 2 or more years at densities
+>1.6 m−2 at late-invasion sites (Table 1). Time since invasion
+(Table 1) was estimated using information from Hickey and Fowlie
+(2005) and Fuller et al. (2010), as well as from personal observations.
+In late August 2009, 130 round gobies were sampled for analysis
+of GI tract contents at four sites in Lac Saint-Louis — a fluvial lake
+near Montreal. These sites were chosen because they were those for
+which 2009 macroinvertebrate community and mollusc size structure
+data were available. Round gobies were captured during the day with
+unbaited minnow traps or gill nets (length 14.25 m, height 1.80 m,
+mesh size 5.5 mm) deployed at 1–2 m depth for 1 h (Table 1). We
+measured the total lengths (to 1 mm) of gobies using a fish ruler
+and gape height (to 0.1 mm) using digital calipers. Upon dissection
+in the laboratory, GI tracts were placed in 95% ethanol; within
+13 months, their contents were subsequently analyzed under dissecting
+microscopes (45×). These samples were analyzed randomly so
+that any potential changes in biomass due to preservation would
+not exert consistent effects at specific sites. Each prey item was identified
+to the lowest taxon possible and weighed to the nearest mg
+(preserved wet weight). The longest axes of all dreissenid mussel
+fragments and all whole gastropods found in GI tracts were measured
+to 0.1 mm with digital calipers.
+Mollusc collection
+Along the transects laid out for round goby density counts, a
+SCUBA diver haphazardly tossed a 0.25 m2 quadrat to sample cobbles
+eight times along one transect and seven times along the other. Only
+cobbles found entirely inside the quadrat were chosen for sampling
+and only one cobble per quadrat was retained. Each cobble sample
+was placed in doubled sealable plastic bags underwater and transported
+in coolers back to the laboratory. Percent cobble (Table 1)
+was estimated visually inside the 0.25 m2 quadrat by counting the
+number of 10 cm×10 cm squares containing cobble within in a 5×5
+grid. In 2008 and 2009, sampling was carried out in August and
+early September. Bricks from the site sampled in 2006 (Pointe-du-
+Moulin) by Ward and Ricciardi (2010) were returned to the laboratory
+for analysis in September, after having incubated in shallow water
+in the littoral zone at depths b3 m for 53 days, beginning in July. A
+SCUBA diver placed these bricks in sealable plastic bags underwater,
+and they were then transported in a cooler back to the laboratory
+within 3 h. Cobble samples from the three sites sampled in 2005
+(Châteauguay East, Les Coteaux and Melocheville) by K. Harper and
+A. Ricciardi (unpublished data) were also sampled in the shallow littoral
+zone b3 m deep. They were sampled from July 10 to July 31 by
+snorkelers, who placed the cobble in plastic bags underwater for subsequent
+transport to the laboratory. All samples were thus taken in
+mid- to late-summer. Differences in timing of sampling between
+July and September were not important for many gastropods and
+dreissenids with lifespans greater than 1 year, such as Elimia and
+Dreissena (e.g. see Brown and Lydeard, 2010; Clarke, 1981;
+Cummings and Graf, 2010; Mackie and Schloesser, 1996). For gastropods
+such as Amnicola and Physella, which frequently survive for only
+1 year, studies indicate that ranges in size distributions are relatively
+similar in July, August, and September (e.g. see DeWitt, 1955; Pinel-
+Alloul and Magnin, 1973). Cobble and brick sample sizes varied due
+to time constraints and the loss of some discarded samples
+(Table 1). In the laboratory, all molluscs retained by a 500-μm sieve
+(Nalepa and Robertson, 1981) were removed with forceps from the
+cobble samples and placed immediately in 95% ethanol. In order to
+standardize mollusc abundance data for area, cobble surface area
+was estimated by measuring three orthogonal dimensions of each
+rock: length, width, and height, in cm (Dall, 1979). Mollusc processing
+in the laboratory was similar for the 2006 bricks (Ward and
+Ricciardi, 2010) and the 2005 cobbles (K. Harper and A. Ricciardi,
+unpublished data). Mollusc taxa were identified to the lowest possible
+taxon (Clarke, 1981; May and Marsden, 1992), and the shells' longest
+axes were measured to 0.1 mm with digital calipers.
+Statistical analyses
+Regression analyses (including multiyear data from the same site)
+were used to relate dependent variables to round goby density. In
+order to control pseudoreplication, generalized least squares (GLS)
+auto-regressive models of order 1 were used to model the temporally
+correlated error structure at sites that were sampled repeatedly. Likelihood
+ratio tests were used to ascertain if the temporal correlation in
+the error structure was statistically significant (Zuur et al., 2009). The
+false discovery rate (FDR) was calculated for multiple (≥10) tests on
+the same data, in order to correct the familywise error rate
+(Benjamini and Hochberg, 1995). Dreissenid data from Pointe-du-
+Moulin in 2006 were excluded from analyses, owing to the fact that
+the bricks from the colonization experiment by Ward and Ricciardi
+(2010) were not deployed in the river long enough for dreissenids
+to reach similar size and density to those in the surrounding community.
+Proportional data (e.g. percent gastropod biomass) were transformed
+as sin−1 (x0.5) and absolute abundance and length data
+were log10-transformed, where appropriate.
+Round goby impacts on mollusc size structure and diversity
+At four sites, we determined whether the density of small
+(≤14 mm length) and large (>14 mm) dreissenids and gastropods,
+and the taxa richness of small and large gastropods, were ranked
+higher prior to round goby invasion than in post-invasion years. We
+applied one-tailed, non-parametric Wilcoxon rank sum tests to
+these data because they comprised a large number of zeros. For all
+sites and years, ANCOVAs were used to test if site-level mean dreissenid
+and gastropod density and pooled gastropod taxa richness declined
+more rapidly in the smaller size class compared to the larger
+one as round goby density increased. For these analyses, round goby
+density was the covariate and the single factor tested was size class.
+One-factor ANOVAs with Type II sums of squares for unbalanced
+designs (due to unequal sample sizes; see Table 1) were used to
+test for variation in rock area among years at each resampled site.
+The factor tested was therefore ‘year’. In the case of a significant result,
+Tukey's honest significance difference tests were applied to determine
+between which years rock areas differed at a given site.
+This analysis was performed to assess if species–(rock) area relationships
+— rather than changes in round goby density — could explain
+differences observed in gastropod taxa richness through time, as the
+latter response variable was not area-corrected. At the site level, we
+related pooled rock area per site to round goby density using linear
+regression; thus, we were able to evaluate if the two variables were
+correlated and hence if pooled species–(rock) area relationships confounded
+the relationship between round goby density and gastropod
+taxa richness per site.
+Fisher's exact tests were used to determine if there was an association
+between two invasion stages (early-invasion vs late-invasion)
+and the number of sites with gastropod families present or absent.
+Regressions were used to relate mean and median gastropod and
+dreissenid size for pooled samples to round goby density across sites.
+Round goby gape limitation and ontogenetic diet shift
+We used simple linear regression to relate the maximum length of
+the longest dreissenid fragment recovered from each round goby GI
+tract to round goby gape size. A similar regression on the maximum
+length of the largest whole gastropod from each GI tract was also
+performed.
+Linear regressions were conducted to relate the biomass, volume,
+and numerical abundance of both dreissenids and gastropods recovered
+from GI tracts to round goby total length, using proportions
+and absolute values. In all cases, we excluded round goby GI tracts
+that did not contain the mollusc taxon being assessed. Finally, we
+used Fisher's exact tests to assess whether there was an association
+between round goby size class (≤70 mm and >70 mm) and the occurrence
+of dreissenids and gastropods in GI tracts.
+Round goby prey preference
+Variation in round goby total length among the four sites was tested
+by using a one-factor ANOVA (with ‘site’ as the factor) with
+Tukey's post-hoc comparisons. In order to ascertain whether mollusc
+taxa were preferred prey items in round goby diets, we calculated
+prey selectivity using Ivlev's index: Eabundance=(px−rx)/(px+rx),
+where rx = percent numerical abundance of a prey category in all
+GI tracts at a site, and px = percent numerical abundance of the resource
+found at a site (Ivlev, 1961). Positive values of the index indicate
+prey preference, while negative values indicate avoidance. The
+index was also calculated for biomass (Ebiomass) to account for the influence
+of differential sizes between prey items on prey choice (Ivlev,
+1961). Percent contributions of the prey resource were obtained at
+each of the four sites using mean area-corrected macroinvertebrate
+density or biomass data from 2009 cobble samples (Kipp and
+Ricciardi, in press). The four sites used in these analyses were generally
+dominated by cobble, which comprised 50–100% of the substrate
+in 2008 and 2009 (Table 1).
+We tested whether the rank importance of mollusc prey categories
+was higher in comparison to categories of other macroinvertebrates
+available, and were not interested in the absolute values of
+the prey preference index chosen. Lechowicz (1982) showed that
+the rank orders, but not the absolute values, of prey categories were
+similar for various prey preference indices, including Ivlev's E. We
+emphasize, therefore, that the values of Eabundance and Ebiomass in our
+study should be analyzed only in terms of their relative rank. As
+such, we applied Friedman's non-parametric test (the equivalent of
+an unreplicated two-way ANOVA) to the selectivity indices to determine
+if their ranked values varied between prey categories across
+sites. In this case, the two factors considered were prey category
+and site. Note that for the Friedman test, using the FDR was not possible
+due to constraints of the statistics package (R version 2.6.2),
+and we therefore applied standard Bonferroni correction. Statistical
+significance at the 0.05 level was also reported, as standard Bonferroni
+correction is overly conservative (Gotelli and Ellison, 2004; Moran,
+2003; Rice, 1989). All statistical analyses were conducted in R version
+2.6.2.
+
+xresults
+Round goby impacts on mollusc size structure and diversity
+Genera and families of gastropods recovered across sites and years
+included: Ferrissia, Ancylidae; Bithynia, Bithyniidae; Amnicola and
+Marstonia, Hydrobiidae; Stagnicola, Lymnaeidae; Physella, Physidae;
+Gyraulus, Promenetus, and Helisoma, Planorbidae; Elimia, Pleuroceridae;
+and Cipangopaludina, Viviparidae. The latter four genera can attain
+>14 mm size. However, the only large gastropods recovered
+from cobble samples across sites were a few individuals of Elimia
+and Cipangopaludina. The occurrence of gastropods in all families, except
+for the two largest (Pleuroceridae and Viviparidae) and the
+smallest (Hydrobiidae), was correlated with invasion stage (Table 2).
+There were no statistically detectable declines observed for either
+dreissenid size class at Châteauguay East in 2008 or 2009, in comparison
+to the pre-invasion year (one-tailed Wilcoxon rank sum tests
+corrected for the FDR on 12 tests; Table 3; Fig. 2a). Statistically detectable
+declines were more consistent at Les Coteaux (Fig. 2b) and Melocheville
+(Fig. 2c) for the larger dreissenid size class (Table 3).
+In contrast, after round goby invasion, densities (Fig. 2) and taxa
+richness (Fig. 3) of small gastropods were ranked lower more frequently
+than densities and taxa richness of large gastropods (onetailed
+Wilcoxon rank sum tests corrected for the FDR on 16 tests for
+each of gastropod density and gastropod taxa richness; Table 3). Châteauguay
+East was an exception, where no declines in gastropod density
+or taxa richness were detected (Figs. 2a, 3a).
+Likelihood ratio tests indicated that, in general, the temporal correlation
+in the error structure for ANCOVAs and regressions was not
+statistically significant, with the exception of two cases: the ANCOVA
+with dreissenid density as a response variable and regressions between
+mean and median dreissenid length. Nevertheless, in these
+cases, GLS tests yielded the same statistical conclusions with regard
+to accepting or rejecting null hypotheses as linear regressions and
+ANCOVAs; therefore, for clarity, we present only the results from
+the latter. GLS outputs are available upon request from the senior
+author.
+For the ANCOVA with dreissenid density as a response variable,
+the round goby density×mussel size interaction was not significant
+(F1,36=0.5, n=40, p=0.5; slope=−0.16 and −0.07 for large and
+small dreissenids, respectively; Fig. 4a). Upon removing the interaction
+term, dreissenid size class was significant (F1,37=10.4, n=40,
+p=0.003), and round goby density was not significant (F1,37=3.3,
+n=40, p=0.08).
+For the ANCOVA with gastropod density as a response variable,
+the round goby density×mussel size interaction was significant
+(slope=−0.21 and −0.41 for large and small gastropods, respectively;
+F1,38=4.6, n=42, p=0.04), but only with the inclusion of
+the Loyalist Park site (Fig. 4b). When this site was removed, the
+slopes were statistically indistinguishable across sites (F1,36=1.9,
+n=40, p=0.2). In the latter case, both gastropod size class
+(F1,37=64.6, n=40, pb0.0001) and the covariate (round goby density:
+F1,37=31.3, n=40, pb0.0001) were significant.
+For the ANCOVA with gastropod taxa richness as a response variable,
+the round goby density×gastropod size interaction was significant
+(slope=−0.18 and −1.46 for the large and small size classes,
+respectively; F1,38=17.7, n=42, p=0.0002), and this remained
+true even when Loyalist Park was excluded (F1,36=13.5, n=40,
+p=0.0008; Fig. 4c). Therefore, the group effect (gastropod size) was
+difficult to interpret.
+For resampled sites, rock area did not vary across years at Pointedu-
+Moulin (mean rock area=364 cm2±18 S.E.; ANOVA, F2,37=1.0,
+p=0.4); Châteauguay East (mean rock area=345 cm2±26 S.E.;
+ANOVA, F2,35=1.0, p=0.4); or Melocheville (mean rock
+area=330 cm2±26 S.E.; ANOVA, F2,37=1.7, p=0.2). For Les
+Coteaux, there was variation in rock area across years (ANOVA,
+F2,36=13.7, pb0.0001); post-hoc comparisons indicated that cobble
+from 2008 (mean rock area=215 cm2±28 S.E., n=15) was smaller
+than that from 2005 (mean rock area=424 cm2±52 S.E., n=9,
+p=0.0005) and 2009 (mean rock area=413 cm2±26 S.E., n=15,
+p=0.0001). There was no relationship between round goby density
+and total pooled rock area at the site level (linear regression,
+F1,19=0.9, n=21, p=0.4).
+There was no relationship between round goby density and dreissenid
+shell length (linear regressions, mean length vs goby density:
+F1,18=0.9, n=20, p=0.4; median length vs goby density:
+F1,18=0.1, n=20, p=0.8). In contrast, median gastropod size declined
+with increasing round goby density across sites (Fig. 4d).
+Mean gastropod size also tended to decline with round goby density,
+but not significantly so (y=3.73−0.31 x, R2=0.13, F1,19=2.9,
+n=21, p=0.1).
+Round goby gape limitation and ontogenetic diet shift
+The mean gape height for 130 gobies sampled across the four sites
+was 7.4 mm (range: 4.5–13.0 mm). A total of 62 individual dreissenids
+were recovered from the GI tracts. There was a strong positive
+relationship between round goby gape height and dreissenid fragment
+size (Fig. 5). Upon examining GI tracts, no whole gastropods
+>7 mm were found, and gastropod fragments were few and small.
+There was no relationship between gape height and maximum gastropod
+size (Fig. 5). A total of 425 recognizable gastropods were recovered
+from the GI tracts. The most abundant gastropod was the
+snail Amnicola, accounting for 80% of all individuals. The next most
+abundant was Gyraulus (5%), followed by Physella (3%) and Stagnicola
+(3%). Ferrissia and Elimia each accounted for b1% of the total. Unidentified
+snails accounted for 8% of the total. In no instance did the maximum
+size of a gastropod found in a GI tract exceed gape height,
+whereas this occurred in three instances with dreissenid fragments.
+There were no significant relationships between round goby total
+length and log-transformed absolute values of gastropod abundance
+(linear regression, F1,75=1.4, n=77, p=0.2), biomass (F1,63=1.4,
+n=65, p=0.2), and volume (F1,48=0.0, n=50, p~1.0), or arcsinetransformed
+proportional values of gastropod abundance
+(F1,75=0.0, n=77, p~1.0) and volume (F1,52=1.8, n=54, p=0.2).
+There was a tendency for percent gastropod biomass to decline with
+round goby total length (sin−1(y0.5)=0.95−0.01 x, R2=0.06,
+F1,63=4.3, n=65, p=0.04), although the relationship was not significant
+upon FDR correction. In contrast, dreissenid biomass (preserved
+wet weight) and volume increased with round goby total length, as
+did percent dreissenid biomass (Fig. 6). The majority of individual
+fish (46 of 53 in which mussels were present) contained only one
+mussel, while five fish contained two mussels, and two fish contained
+three mussels. Given the small range in the number of dreissenids
+consumed, relationships between round goby total length and the
+proportional and absolute values of dreissenid abundance in round
+goby GI tracts were not evaluated.
+There were 60 fish ≤70 mm and 17 fish >70 mm that contained
+no dreissenids, while 20 fish ≤70 mm and 33 fish >70 mm contained
+dreissenids. There were 37 fish ≤70 mm and 16 fish >70 mm that
+contained no gastropods, whereas 43 fish ≤70 mm and 34 fish
+>70 mm had consumed gastropods. The occurrence of dreissenids in
+fish stomachs differed with round goby length class (≤70 mm and
+>70 mm; Fisher's exact test, pb0.0001), but no such difference was
+observed for gastropods (p=0.1).
+Round goby diet and prey preference
+Mean total length for the 130 round gobies collected at the four sites
+sampled in 2009 was 69mm (range 47–104 mm). At individual sites,
+mean total lengths were as follows: Châteauguay East, 66±1.54 mm
+(S.E.), n=36 (range 48–98 mm); Les Coteaux, 77±2.23mm, n=30
+(range 54–104 mm); Melocheville, 73±1.94 mm, n=28 (range
+53–95mm); and Pointe-du-Moulin, 63±1.08 mm, n=36 (range
+47–80mm). There was significant variation among sites (ANOVA,
+F3,126=14.4, pb0.0001), and Les Coteaux and Melocheville round
+gobies were larger than those from Châteauguay East (Tukey's posthoc
+comparisons, pb0.0001 and p=0.03, respectively) and Pointe-du-
+Moulin (pb0.0001 and p=0.0003, respectively).
+Only two of the 130 round goby GI tracts were empty. Friedman
+tests indicated that prey categories varied significantly in their rank
+importance across the four sites, according to Ivlev's prey selectivity
+index calculated as both Eabundance (Q18=4.39, n=19, p=0.0002)
+and Ebiomass (Q11=3.15, n=12, p=0.008) (Table 4). For both indices,
+there was a tendency for Gastropoda, Chironomidae, Ostracoda, and
+Trichoptera to rank as the most preferred prey, while Dreissenidae,
+Hirudinea, and Acari tended to rank as the most avoided prey.
+
+xdiscussion
+Round goby impacts on dreissenid size structure
+Surprisingly, there were no consistent trends in dreissenid size
+structure with increasing round goby density across sites or years.
+We predicted that declines would be most pronounced for the small
+size class, as the average maximum size of mussels reported consumed
+by round gobies in the Great Lakes is 14 mm (Clark, 2007;
+Djuricich and Janssen, 2001; Ghedotti et al., 1995; Jude et al., 1995;
+Ray and Corkum, 1997; Taraborelli and Schaner, 2002; Thomas,
+1997). Contrary to expectations, significant declines occurred more
+frequently at Melocheville and at Les Coteaux in 2008 and 2009 for
+the large dreissenid size class. It is of note that Melocheville and Les
+Coteaux round gobies were larger than those at the other two sites
+tested over time. It seems possible that larger round gobies consumed
+more of the larger mussels, contributing to impacts in the larger size
+class more frequently. The larger mussel size class also tended to decline
+across all sites. Our results therefore seemed to suggest only occasional
+correlation between mussels >14 mm and round goby
+density.
+Some of these results might not have been caused by round goby
+predation, but rather by other ongoing changes in dreissenid populations
+in the Great Lakes–St. Lawrence basin. For example, the replacement
+of D. polymorpha by D. bugensis in the Great Lakes has occurred
+in conjunction with general declines in total dreissenid densities in
+some regions (Haynes et al., 2005). Indeed, evidence suggests that
+D. polymorpha is being replaced gradually by D. bugensis across our
+sites, with increasing round goby density and time since invasion
+(Kipp and Ricciardi, in press). However, this replacement began
+years before round gobies became abundant (Ricciardi and
+Whoriskey, 2004).
+The lack of consistent effects of round goby predation on dreissenids
+could conceivably result from several factors, including: (i) insufficient
+predation on dreissenids owing to relatively small sizes of
+fish; (ii) stronger preferences for alternative prey; (iii) insufficient
+time for impacts to accrue; (iv) relatively low round goby densities;
+(v) low dreissenid densities in comparison to the Great Lakes, leading
+to lower encounter rates with optimally sized mussels; and (vi) insufficient
+statistical power to detect effects. It may have been too early in
+the invasion for effects to be detected at some sites, as discussed
+below with respect to gastropods at Châteauguay East. However,
+round gobies were estimated to have been present at some sites for
+up to 5 years, which exceeds time frames in studies in which a significant
+reduction in dreissenids has been attributed to round goby predation
+(e.g. ~3 years; Lederer et al., 2008). It is possible that round
+goby densities in the upper St. Lawrence River are still too low to produce
+strong impacts on dreissenid populations. In two studies where
+round goby densities were estimated at 14–15 m−2, gobies were the
+implicated cause of changes in dreissenid densities (Barton et al.,
+2005; Kuhns and Berg, 1999) and size structure (Barton et al.,
+2005). In both studies, round goby densities were 2.3–2.5 times
+higher than that at our highest density site (Loyalist Park). However,
+we note that because our round goby density estimates were made by
+visual counts along transects, they were likely imprecise and would
+need to be verified by other means (e.g. videotaped counts).
+Significant impacts might occur only where both dreissenids and
+round gobies are present at high densities. Dreissenid densities tend
+to be higher in lentic systems (Mellina and Rasmussen, 1994;
+Ricciardi et al., 1995), and dreissenid populations in the upper St.
+Lawrence River might be substantially reduced in density compared
+to those in the Great Lakes such that round goby predatory impacts
+in the river are muted by comparison. Prior to round goby invasion
+at the four resampled sites in this study, dreissenid densities in the
+small size class varied from b10 to 2000 m−2 rock surface area,
+while densities in the large size class varied between ~100 and
+2500 m−2 rock surface area. These numbers are several times smaller
+than those in Lake Erie (Barton et al., 2005). In the experiment by
+Kuhns and Berg (1999), changes in dreissenid density occurred only
+for tiles colonized by 100,000 individuals m−2, whereas tiles with
+10,000 m−2 showed no changes in the presence of round gobies. On
+the other hand, significant impacts were observed in nearshore
+areas of Green Bay, Lake Michigan where dreissenid densities were
+~50–350 m−2 immediately prior to round goby invasion (Lederer
+et al., 2008).
+Although it is possible that low statistical power combined with
+temporal variability in sampling hindered detection of the effects of
+round goby predation, such factors did not prevent detection of impacts
+on gastropods. Moreover, bioenergetic models calculate round
+gobies consume b0.2% of available dreissenid biomass in the Great
+Lakes (Bunnell et al., 2005; Johnson et al., 2005b). The negative impacts
+of round gobies on dreissenid densities and size structure
+might occur only where round goby densities are locally high.
+Round goby impacts on gastropod size structure and taxa richness
+The data supported our predictions regarding round goby impacts
+on the structure and diversity of the two gastropod size classes studied
+in the upper St. Lawrence River. Across sites and time at three of
+four resampled sites, the small size class generally experienced the
+strongest declines in density and taxa richness. For tests on taxa richness,
+because total pooled rock area was not correlated with round
+goby density, it is unlikely that species–(rock) area relationships
+could have confounded changes to gastropod taxa richness across
+sites. Species–area relationships were also unlikely to have affected
+the results at three of the four resampled sites. Only at Les Coteaux
+did rock area differ between years; rock area in 2008 was smaller
+than in 2005 and 2009, which could have biased the observed
+changes in taxa richness in small gastropods from 2005 to 2008, but
+does not explain reduced taxa richness in 2009.
+One of the resampled sites, Châteauguay East, clearly stood out as
+an exception to the dominant trends seen for sites sampled before
+and after round goby invasion. Of the four resampled sites,
+Châteauguay East exhibited the lowest round goby density and time
+since invasion in 2009. Thus, round gobies were probably not present
+at sufficiently high densities long enough to exert strong impacts.
+Moreover, the pre-invasion samples in 2005 may have been collected
+too close to the wave swept zone and for this reason comprised an already
+depauperate macroinvertebrate community (there is no record
+of the exact depth at which they were taken).
+One important environmental factor that potentially affects gastropod
+distributions is current flow. For example, lymnaeids, planorbids
+and physids are associated most with low velocity (e.g. Nelson
+and Lieberman, 2002), while pleurocerids are typically considered
+more characteristic of lotic habitats (Brown et al., 2008). Nevertheless,
+gastropods often exhibit great phenotypic plasticity. Pleurocerid
+snails, for example, can colonize low-flow habitats and sometimes
+prefer them over high-flow habitats (Brown et al., 2008). We did
+not measure current velocity at our sites, but observed that it was
+generally low in mid to late summer. Indeed, all of our sites were situated
+in littoral zones with some macrophyte cover, often in small
+embayments or low flow areas. The exception was Pointe-du-
+Moulin, an exposed site where velocity was relatively high (Ward
+and Ricciardi, 2010). Nevertheless, prior to round goby invasion, a variety
+of gastropods — including lymnaeids, physids, and planorbids —
+were abundant at this site (Ward and Ricciardi, 2010). As at Les
+Coteaux and Melocheville, two other sites with lower current velocities,
+smaller gastropods underwent similar changes over time in conjunction
+with round goby invasion. We recognize that current
+velocity structures gastropod communities in lotic environments
+and could have affected relationships between round gobies and gastropods.
+However, given that gastropod communities across our sites
+in the upper St. Lawrence River were similarly diverse and abundant
+prior to round goby invasion (Masson et al., 2009; Pinel-Alloul et al.,
+1996; Ricciardi et al., 1997; Ward and Ricciardi, 2010), it seems likely
+that the effects we observed in this study were related primarily to
+round gobies, rather than current flow.
+Overall, the weight of evidence suggests stronger impacts on the
+small gastropod size class. Indeed, snail families that actually attained
+a size of >14 mm in the field (Viviparidae and Pleuroceridae) were
+not correlated with the stages of round goby invasion, while smaller
+families (with the exception of the Hydrobiidae) did exhibit such a
+correlation. Surprisingly, the median (but not the mean) size of
+gastropods was negatively correlated with round goby density across
+sites, which apparently contradicts the hypothesis that round gobies
+reduce the abundance of small gastropods. However, the most frequently
+remaining families at late-invasion sites were large Pleuroceridae
+and small Hydrobiidae. Despite heavy round goby predation
+on hydrobiids, this gastropod family remained the most abundant
+and comprised the smallest individuals. Small individuals may have
+been relatively difficult for a visual predator to remove from interstitial
+substrate (cf. Stewart et al., 1999). The median size of the entire
+gastropod distribution at such sites was thus quite small. For sites in
+earlier stages of invasion, a larger number of families intermediate
+in size between hydrobiids and pleurocerids were present (Ancylidae,
+Bithyniidae, Lymnaeidae, Physidae, and Valvatidae), causing the median
+to increase.
+The most abundant gastropod taxon occurring both at field sites
+and in round goby GI tracts was the hydrobiid Amnicola, which can attain
+a maximum size of 4.5 mm in the upper St. Lawrence River
+(Pinel-Alloul and Magnin, 1973; personal observations). Not one of
+the Amnicola collected from round goby GI tracts or cobble samples
+in 2009 exceeded 3 mm. Given that Amnicola occurred at various
+mid- and late-invasion sites, where it was always considerably smaller
+than 4.5 mm, it is possible that this species has been able to reproduce
+successfully at very small sizes. Phenotypic changes have been
+observed in other gastropods in response to predators. For example,
+a documented decline in the size of intertidal gastropods has been attributed
+to predation pressure that made it more advantageous to reproduce
+at smaller sizes (Rochette et al., 2003). This possible
+phenotypic change in response to predation highlights the potentially
+broad range of subtle impacts the round goby could exert in a novel
+environment.
+Although dreissenid mussels themselves can alter the composition
+and size structure of gastropods (Ricciardi et al., 1997; Ward and
+Ricciardi, 2007), it is unlikely that changes to the median gastropod
+size occurred indirectly through declines in dreissenids because
+there were no major changes to dreissenid density at our sites. Even
+if larger dreissenids declined with round goby density, we would expect
+the size of all gastropods to be positively affected, given that
+large snails tend to be scarce in the presence of high dreissenid densities
+(Ward and Ricciardi, 2007).
+Round goby gape limitation and ontogenetic diet shift
+Round goby consumption of dreissenids was gape limited, as suggested
+by the fact that no whole dreissenids were consumed and that
+dreissenid fragment size increased with round goby gape size. This
+result complements a recent study from Presque Isle Bay, Lake Erie,
+where the size of whole and crushed dreissenids consumed by
+round gobies increased with the total length of the fish (Andraso
+et al., 2011). In contrast to dreissenids, the size of consumed gastropods
+was not related to round goby gape height in our study. Round
+gobies may prefer gastropods over dreissenids, as suggested by their
+prey selectivity. An abundance of gastropods that lack the size, crushing
+resistance, and byssal attachment of dreissenids might be a more
+energetically profitable prey, particularly for round gobies that are
+not fully mature. Indeed, other studies have found that various molluscivores
+prefer smaller snails over larger molluscs including dreissenids,
+likely because of reduced handling time and shell thickness
+(Nyström and Pérez, 1998; Stein et al., 1975). In our study, Physella
+and Ferrissia are thin-shelled species (Clarke, 1981) that occurred
+much less frequently at late-invasion sites. Indeed, Physella exhibits
+particularly low crushing resistance with respect to molluscivorous
+fishes (Huckins, 1997). Although other snails such as Amnicola are
+more compact and may therefore be more resistant to crushing
+(Huckins, 1997; Lewis and Magnuson, 1999), they lack byssal threads
+and are considerably smaller than the majority of available dreissenids.
+Thicker-shelled genera such as Bithynia, Valvata, Helisoma and
+Stagnicola are locally abundant in benthic habitats throughout the
+St. Lawrence River (Masson et al., 2009; Pinel-Alloul et al., 1996;
+Ricciardi et al., 1997; Ward and Ricciardi, 2010), but were all reduced
+in frequency of occurrence at late-invasion sites in our
+study. These species could have been preferred by round gobies
+over dreissenids, particularly because of their lack of byssal threads.
+The small size of gastropods recovered from GI tracts in this study
+might simply indicate that larger individuals in the appropriate size
+range, from ~7–14 mm, were no longer available. In 2009, almost all
+gastropods available were b5 mm at the four sites sampled, with
+the exception of the occasional Elimia and one Stagnicola. Without
+conducting size-selection experiments, it is not possible to determine
+whether the observed dietary composition was due to prey preference
+or prey availability. Only very minimal predation on Elimia was
+observed (one snail b2 mm in length found in a single fish GI tract
+at each of Châteauguay East and Melocheville), possibly because of
+their thicker, more compact shells in comparison to other taxa available.
+Nevertheless, large gastropods — which were almost exclusively
+Elimia — responded negatively to round goby density across sites,
+suggesting a predation effect.
+There was evidence for an ontogenetic diet shift: the biomass proportion
+of the diet composed of dreissenids increased with round
+goby length and dreissenid presence in the diet was associated with
+round goby size class. Round gobies sampled in Lac Saint-Louis
+were 47–104 mm in total length and showed a substantial shift toward
+molluscivory at lengths of ~70 mm. The observed ontogenetic
+diet shift for mid-sized round gobies and the observed range in
+round goby sizes are comparable to those for populations in the
+Great Lakes (e.g. French and Jude, 2001; Janssen and Jude, 2001;
+Jude et al., 1995). This round goby size range is also comparable to
+those associated with substantial consumption of dreissenids in the
+laboratory (e.g. 47 mussels day−1 per individual round goby;
+Ghedotti et al., 1995) and significant impacts on dreissenid populations
+in the field (Lederer et al., 2006, 2008). Altogether, these considerations
+indicate that the size of round gobies alone probably does
+not explain the variable effects on dreissenids found in this study, although
+the combination of relatively small round goby sizes and densities
+could play a role.
+The differences in mean round goby size observed among sites
+likely resulted from differences in time since invasion rather than
+gear capture bias. Only minnow traps were used at Les Coteaux to
+capture round gobies, whereas only gill nets were used at Châteauguay
+East, Pointe-du-Moulin and Melocheville. Owing to the small
+mesh size of our gill nets, we employed a modified capture method
+in which we waited behind the net until a round goby swam into it,
+and then quickly pulled up the leadline to capture it within the net,
+before removing it by hand into a bucket. Therefore, the gill nets did
+not contribute to selective bias in the size of fish captured. Our minnow
+traps were large enough to capture the largest round gobies present
+at our sites, but we do recognize that smaller round gobies tend
+not to enter traps with larger fish (J. Janssen, University of Wisconsin–
+Milwaukee, 2011, pers. comm.). Nevertheless, times since invasion
+roughly matched differences in round goby size across sites:
+Les Coteaux and Melocheville fish were larger than Châteauguay
+East and Pointe-du-Moulin fish. By 2009, round gobies had been present
+for 4 years at Les Coteaux, 3 years at Melocheville and Pointe-du-
+Moulin, and 2 years at Châteauguay East. It seems most likely that differences
+in round goby size across sites were due more to time since
+invasion than the size selective bias of the minnow traps at Les
+Coteaux only.
+Round goby diet and prey preference
+Gastropods, chironomids, trichopterans and ostracods were the
+only prey categories consistently ranked the highest prior to Bonferroni
+correction for all values of Ivlev's E. After Bonferroni correction
+there were few prey categories ranked significantly differently from
+one another; in this case, the Bonferroni correction applied to rank
+tests was so conservative as to obscure differences in prey selection.
+The ranking of these metrics for gastropods was consistent with our
+expectations based on studies recording impacts on these taxa in
+the Great Lakes (e.g. Kipp and Ricciardi, in press; Lederer et al.,
+2006, 2008), and with our results.
+Values of E for dreissenids were negative at all sites. The positive
+preference for gastropods and chironomids, combined with apparent
+avoidance of dreissenids, mirrors values of E reported from the Baltic
+Sea, where round gobies preferred gastropods, chironomids, and annelids,
+and avoided bivalves and crustaceans (Wandzel, 2003). Similar
+results were found for a congeneric species, the monkey goby
+Neogobius fluviatilis; in the Vistula River (Poland), where it is introduced,
+the monkey goby exhibited positive values of E solely for dipteran
+taxa, even though it is molluscivorous in a number of other
+habitats (Grabowska et al., 2009). The preference for chironomids
+was also similar to that recorded for the round goby in a recent
+study in Great Lakes' tributary streams (Pennuto et al., 2010). However,
+the lack of preference for dreissenids in our study contradicts laboratory
+studies that show that round gobies from the Great Lakes
+prefer dreissenids over native molluscs (Ghedotti et al., 1995). The
+Ebiomass values in this study were more consistent with other laboratory
+experiments in which round gobies preferred amphipods over
+dreissenids (Diggins et al., 2002; Polačik et al., 2009), although the
+Eabundance values in this study suggest that round gobies tended to
+avoid dreissenids and amphipods at most sites. Also contrary to
+this study, Barton et al. (2005) and Raby et al. (2010) found that
+round gobies increased the non-dreissenid component of their diet
+only after mussels became rare, indicating a preference for dreissenids
+over other macroinvertebrates.
+Factors that affect rates at which round gobies encounter prey include:
+(i) substrate type and visibility (Diggins et al., 2002); (ii) availability
+of appropriately sized mussels and their occurrence in refugia
+on the undersides of rocks or in patches (Djuricich and Janssen,
+2001); and (iii) the availability of mussel patches or macrophytes as
+refugia for mobile macroinvertebrates (González and Burkart, 2004;
+Kestrup and Ricciardi, 2009; Reed et al., 2004). Through their mediation
+of encounter rates, these factors influence indices that attempt to
+describe round goby preference or avoidance of prey. As these factors
+may vary spatially and temporally, round goby prey preferences are
+highly context dependent.
+Implications of the study
+Impacts of the round goby on non-dreissenid mollusc taxa have
+rarely been explored in detail, although Poos et al. (2009) recently
+reviewed the potential for round gobies to negatively affect freshwater
+mussels via impacts on their obligate fish hosts in Great Lakes'
+tributary streams. Research on potential impacts on non-dreissenid
+molluscs in the St. Lawrence River has also been limited to date.
+This was the first field study to investigate round goby prey selection
+in relation to alterations to mollusc size structure in a large river. The
+consistent effects on smaller gastropods and preference for such prey,
+combined with the inconsistent effects on dreissenids, demonstrate
+the heterogeneous impacts of this benthic predator. Our study supports
+the view that local impacts on dreissenids may occur only
+where round goby abundances are highly concentrated (Johnson
+et al., 2005b; Patterson et al., 2005). Furthermore, variation in impacts
+might be explained by the age structure of local round goby
+populations. Smaller round gobies likely exert more direct predatory
+effects on dreissenid-associated macroinvertebrates such as gastropods,
+whereas larger round gobies consume a greater proportion of
+dreissenids and exert more indirect effects (Lederer et al., 2006).
+Therefore, benthic communities in the St. Lawrence River can be
+expected to undergo further transformations as round goby population
+structure changes over time.

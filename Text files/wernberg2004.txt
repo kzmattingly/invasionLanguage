@@ -1,0 +1,418 @@
+﻿xabstract
+Sargassum muticum (Phaeophyceae, Fucales)
+has recently been introduced to Limfjorden (Denmark)
+where its closest relative is the indigenous Halidrys
+siliquosa. Previous studies have demonstrated large quantitative
+(canopy biomass) and qualitative (canopy persistence)
+differences in the habitat available to epibiota
+within the canopies of these two macroalgae. We therefore
+hypothesised that these algae would support different
+epibiota communities and tested this by sampling the
+epibiota of S. muticum and H. siliquosa on seven occasions
+throughout 1997 by enclosing entire thalli in mesh
+bags. We found 53 epibiota taxa and, with only one exception,
+they were all recorded on both host species.
+Species richness and abundance of epibiota exhibited
+clear seasonal variation on both host species, although
+epibiota biomass was seasonally constant on H. siliquosa
+but not on S. muticum. These patterns were consistent
+with the different life histories of the host species. There
+was a weakly negative correlation between thallus size
+and epibiota biomass for both host species. When taking
+species-specific seasonal variation in thallus size into
+consideration, S. muticum and H. siliquosa were found to
+support significantly different epibiota biomasses. Multivariate
+analyses showed that epibiota community structure
+was different, although highly overlapping, between
+the two species, whereas there was an almost parallel
+temporal development in epibiota community structure.
+We conclude that it is unlikely that the introduction of S.
+muticum to Limfjorden has caused major changes in local
+epibiota community structure. However, the standing
+stock of epibiota is likely to have increased.
+
+xintroduction
+The introduction and subsequent expansion of Sargassum
+muticum (Yendo) Fensholt as a permanent member of the
+European algal flora has caused general concern about the
+effects on indigenous biota (Critchley et al. 1987; Rueness
+1989; Thelin 1989; Den Hartog 1997; Karlsson and Loo
+1999). Several studies have indicated negative impacts by
+S. muticum on indigenous algal assemblages (Fletcher
+and Fletcher 1975; Ambrose and Nelson 1982; Viejo
+1997; Cosson 1999; Staehr et al. 2000) but only a limited
+number of studies have addressed the possible consequences
+for macroalgal epibiota. Those that have, have
+suggested few adverse effects, apparently due to a low
+degree of habitat specificity among the epibiota (Withers
+et al. 1975; Jephson and Gray 1977; Viejo 1999). Nevertheless,
+following the introduction of S. muticum to Limfjorden,
+a shallow Danish sound, biologists noted conspicuously
+more epibiota associated with S. muticum relative
+to other algae (M. Lauersen, County of Ringkøbing,
+personal communication).
+S. muticum was first recorded in Limfjorden in 1984
+(Christensen 1984). Over a period of less than 15 years
+the population grew from a few isolated individuals to
+become the dominant component of the macroalgal flora
+(Staehr et al. 2000). Such invasive behaviour is the
+normal pattern where S. muticum has been introduced
+(Knoepffler-Peguy et al. 1985; Nfflnez-Lpez and Casas
+Valdez 1998; Cosson 1999; Fernandez 1999; Karlsson
+and Loo 1999).
+Halidrys siliquosa (L.) Lyngb. is a close relative of S.
+muticum (Jensen 1974; Rousseau et al. 1997) and one
+of only a few large (>15 cm) erect indigenous macroalgae
+in Limfjorden. S. muticum and H. siliquosa both have
+coarsely branched thalli that create a relatively large canopy
+which may be a suitable habitat for a wide variety of
+fauna and flora (Mukai 1971; Withers et al. 1975; Haage
+1976; Norton and Benson 1983; Aguilar-Rosas and
+Galindo 1990; Taylor and Cole 1994). During the course
+of a year, however, the habit of S. muticum is characterised
+by dramatic variation whereas the habit of H.
+siliquosa is much more constant (Wernberg et al. 2001):
+in spring, S. muticum grows from a small (10–15 cm)
+perennial basal structure into a large (100–120 cm) erect
+canopy before it senesces back in autumn, whereas H.
+siliquosa retains an erect canopy of intermediate size
+(~35 cm) throughout the year. We proposed that these
+quantitative (host size) and qualitative (host phenology)
+differences in resource (canopy habitat) availability were
+important to the epibiota community, and therefore tested
+the hypothesis that S. muticum and H. siliquosa support
+different epibiota biomass and species composition.
+
+
+xmethods
+The study was conducted in Drby Vig (564909200N 085007000E),
+western Limfjorden (Denmark). The study site was located on an
+eastern shore protected from the predominantly westerly winds.
+The surface temperature and salinity range annually from 1 to
+25C and 25 to 28‰, respectively (Groos et al. 1996). S. muticum
+has been present at the study site since the late 1980’s (Wernberg-
+Møller et al. 1998a) and now forms dense beds from 2 to 4 m depth
+(Wernberg-Møller et al. 1998b). H. siliquosa is present as scattered
+individuals among the S. muticum (Wernberg-Møller et al. 1998b).
+All samples were taken from within the main Sargassum bed.
+Epibiota were sampled once a month from May 1997 to January
+1998, except October and December. Scuba divers haphazardly
+collected four to six individuals of each of S. muticum and H.
+siliquosa by carefully, but swiftly, placing a 1 mm mesh bag over
+the thallus of each alga (Norton and Benson 1983; Connolly 1995).
+The thallus was then detached from the substratum and brought
+ashore to be preserved in 70% ethanol.
+In the laboratory, individually collected thalli were placed in
+white plastic trays and cleaned for epibiota by gentle flushing and
+brushing. Water from the trays was filtered through a 1 mm sieve to
+retain the epibiota. Fresh weight (FW) of the preserved S. muticum
+and H. siliquosa was measured after spinning the algal material in a
+mesh bag to remove excess water (Norton and Benson 1983). The
+epibiota was identified to lowest possible taxonomical level (usually
+species or genus). Faunal and algal taxonomy follow Hayward
+and Ryland (1996) and Nielsen et al. (1995), respectively. Individuals
+were counted for all taxa except colonial taxa (e.g. Obelia
+spp.) and taxa otherwise without distinct individuals (e.g. filamentous
+algae). These taxa were registered as one individual. The
+wet weight (WW) of the preserved epibiota was determined after
+blotting with paper towels. For taxa with large individuals (e.g.
+Styela clava), WW was determined for each sample; whereas in
+taxa with small individuals (e.g. Phtisica marina), WW was estimated
+from mean values per individual obtained from measurements
+of large batches. Taxa with extremely small (often <1 mm)
+and inconspicuous individuals (e.g. Nematoda spp.) were registered
+as having a biomass of 0.001 g WW regardless of abundance. To
+alleviate the large differences in skeletal and shell components
+among taxa, epibiota WW was converted to ash free dry weight
+(AFDW) by applying conversion factors from Lappalainen and
+Kangas (1975), Ricciardi and Bourget (1998) and our own unpublished
+data.
+A total of 70 samples, 35 from each species of macroalga, covering
+seven sampling times, were examined. Algal FW was used as a
+proxy for canopy habitat. This was justified by tight correlations
+between algal height and biomass (Wernberg et al. 2001) as well as
+height and canopy volume (sensu Hacker and Steneck 1990) for
+both macroalgal species (T. Wernberg, M.S. Thomsen and P.A.
+Staehr, unpublished data). Because of the relative importance of
+epibiota taxa with a few large or an obscure definition of individuals,
+biomass (mg AFDW/100 g FW alga) was the preferred unit
+for analysis and presentation, although primary data are also presented
+in other units commonly encountered in the literature (see
+Fig. 1).
+First, using a mixed-model two-way ANOVA, we tested whether
+the canopy habitat offered by the collected specimens of S.
+muticum and H. siliquosa conformed to the general pattern hypothesised
+to influence epibiota (H0: S. muticum and H. siliquosa
+offer equal amounts of canopy habitat, and there are no temporal
+differences in the amount of canopy habitat offered by either of
+these species). Then, using a mixed-model two-way ANCOVA, we
+tested whether S. muticum and H. siliquosa had different amounts
+of associated epibiota (H0: S. muticum and H. siliquosa have equal
+amounts of associated epibiota at all sampling times when adjusting
+for differences in canopy habitat). In both analyses, algal species
+(‘Species’) was considered a fixed factor and sampling time
+(‘Time’) a random factor. Canopy habitat (thallus size, g FW) was
+the covariate. These analyses were performed on a slightly modified
+data set where, to balance the design, the mean of the four
+samples was added to each of the May data sets, and one sample
+was randomly removed from each of S. muticum/November and H.
+siliquosa/July data sets (see Table 2). Prior to analysis, data were
+log transformed to meet parametric assumptions of normality (c2
+test, P<0.05) and homoscedasticity (Cochran’s C-test, P<0.05).
+To test if there were temporal differences and if epibiota
+communities were different between S. muticum and H. siliquosa, a
+two-way crossed ANOSIM was performed in PRIMER (Clarke and
+Gorley 2001) (H0: there are no temporal differences and there are
+no differences in the epibiota communities of S. muticum and H.
+siliquosa). Bray-Curtis similarity matrices were constructed from
+both square root-transformed biomass data and presence/absence
+(p/a)-transformed data. The first transformation was chosen to reduce
+the influence of large variability among replicates, while retaining
+the quantitative information on the dominance of abundant
+taxa (Clarke and Warwick 1996), whereas the latter transformation
+was chosen to emphasise effects purely due to species distributions.
+The similarity data were plotted in nMDS plots. We used principal
+axis correlation (Belbin 1995) to correlate individual taxa to the
+pattern produced by the nMDS. This procedure yields a principal
+axis correlation coefficient (PCC) for each taxon, which can be
+interpreted as the weight of that taxon in driving the observed
+patterns (Belbin 1995).
+
+xresults
+Overall, there were no statistically significant differences
+in the biomass of the sampled S. muticum and H. siliquosa
+thalli (Table 1). The effect of sampling time and the interaction
+between host species and sampling time was,
+however, highly significant. There was also a highly
+significant difference in thallus biomass among species at
+different sampling times. These results agree closely with
+the observations of Wernberg et al. (2001), and suggest
+that the canopy habitat of the sampled specimens conformed
+to the quantitative and qualitative patterns hypothesised
+to influence the epibiota communities.
+A total of 53 epibiota taxa, representing nine animal
+phyla (46 taxa) and three algal divisions (seven taxa),
+were found on the 70 individuals of S. muticum and H.
+siliquosa sampled (Table 2). With the exception of ‘Malacostraca
+(other)’, a quantitatively insignificant group that
+was found only on S. muticum, all taxa were found on
+both species of macroalgae. Arthropoda (Crustacea) was
+the most abundant phylum in terms of number of taxa,
+and Chordata (Urochordata) in terms of biomass.
+The absolute species richness of epibiota per individual
+(Fig. 1A) followed the same temporal pattern on both
+macroalgae, with an increasing number of associated taxa
+from spring towards a summer peak in July. There was a
+tendency for S. muticum to have more species early in the
+year and H. siliquosa late in the year. The relative species
+richness per biomass (Fig. 1B) showed a markedly different
+pattern, where S. muticum had a distinct peak in
+September and retained higher relative species numbers
+late in the year, while H. siliquosa did not appear to have
+any systematic temporal variation. The epibiota on both
+macroalgae showed a distinct summer peak in absolute
+(Fig. 1C) and relative (Fig. 1D) abundance. There was,
+however, a time lag between maximum abundance on H.
+siliquosa (July) and S. muticum (August). Biomass of
+epibiota (Fig. 1E, F) had a peak in early and late summer
+for S. muticum but was constant for H. siliquosa. H.
+siliquosa generally supported lower epibiota biomass than
+S. muticum.
+The ANCOVA revealed homogeneity of slopes in regressions
+between algal size (g FW) and epibiota load (g
+WW/100 g FW alga) both between host species (P=0.66)
+and among sampling times (P=0.99), i.e. irrespective of
+host species and sampling time, the ratio of algal size to
+epibiota load remained the same. Correlation analysis on
+pooled data showed this common relationship between
+thallus size and epibiota load to be weakly negative but
+highly significant (Pearson Product Moment Correlation;
+r=0.32, P=0.006, n=70). Analyses on the means adjusted
+for differences in thallus size (Table 3) showed that the
+two macroalgae supported significantly different epibiota
+biomasses. There was no statistically significant effect of
+sampling time on epibiota biomass, suggesting a temporally
+constant epibiota load on both macroalgae when
+adjusted for temporal variation in thallus size. This result,
+however, must be interpreted cautiously as the P value
+is relatively low. The interaction between species and
+sampling time was highly significant, showing that time
+of year exaggerated differences in epibiota loading between
+the two host species.
+A three-dimensional ordination of community data
+(Fig. 2A–D) was necessary to obtain satisfactory stress
+values. Only dimension 2 versus dimension 3 is presented
+here, as this was the most informative plot in terms of
+apparent groupings. With both the p/a and the square roottransformed
+data, the ordination separated the samples
+into broad groups corresponding to samples from the two
+host species (Fig. 2A, C) and the different sampling times
+(Fig. 2B, D). These groupings were highly significant
+(Table 4). Global R values revealed that the species-wise
+groupings were generally weaker than the time-wise
+groupings, and that this pattern was most pronounced for
+the p/a-transformed data. This suggests that host species
+was important to epibiota biomass, whereas sampling
+time was important to epibiota community composition.
+The strong influence of sampling time on epibiota community
+structure can be seen in Fig. 2D as a clear unidirectional
+counter-clockwise succession of pair-wise
+monthly samples.
+It was primarily the epibiota taxa with large, abundant
+individuals (Table 1), such as tunicates and crabs, that
+were responsible for the pattern (Table 5) seen in Fig. 2A,
+B whereas the patterns seen in Fig. 2C, D were mainly
+driven by the taxa with smaller, less abundant individuals.
+The differences in what taxa were driving these two ordinations
+suggest that differences between host species
+(more predominant with the square root-transformed data)
+are caused by differences in epibiota biomass of a constant
+subset of taxa rather than by differences in the kinds
+of associated taxa. The importance of small, infrequent
+taxa to the seasonal pattern (strongly dominant from the
+p/a-transformed data) suggests that the differences among
+(sampling) times are caused by differences in community
+structure (i.e. species present) rather than by differences
+in epibiota biomass. In other words, the main difference
+between S. muticum and H. siliquous is the abundance of
+epibiota, whereas the total epibiota community exhibits a
+clear parallel seasonal succession on both algae.
+
+xdiscussion
+Our results show that the invasive S. muticum and the
+indigenous H. siliquosa support different amounts of
+epibiota, and that time of year exaggerates these differences.
+Further, our results suggest that the quantitative
+differences in epibiota load between S. muticum and H.
+siliquosa are matched only by relatively weak differences
+in epibiota community structure. Epibiota community
+structure on both host species showed a clear, almost
+parallel, temporal development.
+Habitat architecture or complexity is important to epibiota,
+particularly to small crustaceans (Hacker and Steneck
+1990; Duffy and Hay 1991; Hacker and Madin 1991;
+Taylor and Cole 1994). Jephson and Gray (1977) noted
+that H. siliquosa generally has few epibiota species compared
+to S. muticum. Although they have the same basic
+morphology (Jensen 1974), the thallus of H. siliquosa
+clearly has fewer and coarser branches than the annual
+thallus of S. muticum. Both Hacker and Steneck (1990)
+and Taylor and Cole (1994) found epifaunal densities to
+be significantly higher on algae with more complex thalli,
+suggesting that a similar mechanism could explain the
+quantitative differences between S. muticum and H.
+siliquosa in Limfjorden.
+We found a negative correlation between thallus size
+and the relative amount of epibiota biomass supported.
+This may seem counter-intuitive, but could be interpreted
+as an ‘escape by growth’ mechanism where the algae
+avoid detrimental grazing by satiating herbivores (Lobban
+and Harrison 1994). This is unlikely, however, as the
+ANCOVA showed no differences in slopes between the
+seasonally variable S. muticum and the seasonally constant
+(i.e. no ‘escape growth’) H. siliquosa. We consider it
+more likely that this negative correlation is an artefact of
+epibiota behaviour, rather than an algal growth strategy,
+as the primary site of attachment for some of the abundant
+(by biomass) sessile animals (e.g. Styela clava) was
+clearly around the main axis and holdfast on both host
+species, as it has also been observed on other macroalgae
+(Arrontes 1990). As the size of these parts of the thallus is
+relatively constant across a range of algal sizes and seasons
+(Wernberg-Møller et al. 1998b), the amount of
+epibiota which can be supported by them is independent
+of algal size. Smaller thalli will thus have a higher relative
+epibiota load than larger thalli. In S. muticum, this intraindividual
+epibiota distribution may be due to, or enhanced
+by, high levels of phenolic compounds produced
+by the rapidly growing thallus (Gorham and Lewey 1984).
+Jephson and Gray (1977) made similar speculations after
+observing extreme fouling of S. muticum around the time
+of senescence, when the concentration of these compounds
+drops (Gorham and Lewey 1984), something we
+also observed in Limfjorden around August/September. In
+contrast, Norton and Benson (1983) generally found more
+epifauna (mainly amphipods and gastropods) on the distal
+parts of the S. muticum thallus. H. siliquosa has been
+observed to slough off epidermal cells, a mechanism
+thought to control its epiphytes (Moss 1982).
+Habitat quality (i.e. temporal stability) did not appear
+to be an important factor for epibiota community structure
+in Limfjorden, as S. muticum (highly variable habit) and
+H. siliquosa (constant habit) had almost identical species
+associated with them. Similar results were obtained by
+Viejo (1999) in northern Spain and Jephson and Gray
+(1977) in southern England. In New Zealand, Taylor and
+Cole (1994) studied ten different brown algae and found
+that most had distinct epifaunal assemblages, while individual
+epifaunal taxa showed little host specificity and
+were found on several host species. This general pattern
+of a lack of host specificity may be an epibiota adaptation
+to the fluctuating environment of temperate regions: host
+phenology may not matter to many epibiota species because
+they follow the same seasonality as the algae. This
+is perhaps accentuated by the clear temporal change in
+epibiota observed in this and many other studies from
+temperate regions (Mukai 1971; Withers et al. 1975;
+Jephson and Gray 1977; Arrontes 1990; Kendrick and
+Burt 1997).
+Crustacea comprised almost 30% of all epifaunal taxa
+found in this study. Norton and Benson (1983) and Pavia
+et al. (1999) found that this group of epifauna (mainly
+amphipods) were highly mobile and actively selected
+favourable host macroalgae. Gunnill (1982), however,
+found that no amphipods were able to colonize the intertidal
+fucoid Pelvetia fastigiata (J. Agardh) De Toni
+over a 30 m distance, indicating that the range over which
+this selective mobility occurs is limited. Dispersal barriers
+may be a real problem in the establishment and development
+of an H. siliquosa epibiota community in Limfjorden
+because the individual plants are scattered several
+metres apart among the S. muticum individuals (Wernberg-
+Møller et al. 1998b).
+Using a similar approach to us, Viejo (1999) estimated
+the impact of S. muticum invasion on mobile epifauna
+by comparing contemporary patterns of abundance and
+species distributions among S. muticum and indigenous
+equivalents (Cystoseira nodicaulis and Fucus vesiculosus).
+As she found no major differences in mobile epibiota
+associated with any of these algae, she concluded
+that local epibiota colonised S. muticum equally well as
+they colonised either of the indigenous host species, and
+thus that there was no effect of its invasion. Since no preinvasion
+data were available, such an argument assumes
+that the total epibiota community had not already been
+changed, and this in turn probably depends on a combination
+of the relative abundance of the invader and the
+time it had been present or dominant in the system. This
+seriously reduces the power of any conclusion derived
+from a retained null hypothesis (i.e. no differences among
+invader and indigenous species). S. muticum has been a
+dominant component of the macroalgal flora at our study
+site for more than 10 years (Wernberg-Møller et al.
+1998a), and because of large differences in abundance of
+the two macroalgae (Wernberg et al. 2001) it cannot be
+ruled out that the epibiota community structure radically
+changed with the invasion of S. muticum and that the
+contemporary epibiota community structure of H. siliquosa
+is, to a large degree, the result of a ‘spill-over’ effect.
+The observed quantitative differences in epibiota between
+S. muticum and H. siliquosa are, however, independent of
+this, and thus a real consequence of the introduction of S.
+muticum.
+Based on the findings of this study, we find it unlikely
+that the introduction of S. muticum to Limfjorden has
+caused any major changes in local macroalgal epibiota
+community structure. It does, however, appear that the
+system now supports a much higher standing stock of
+epibiota than was previously the case. This appears to be a
+general pattern in the systems invaded by S. muticum, as
+similar conclusions were reached by Wither et al. (1975)
+in southern England and by Viejo (1999) in northern
+Spain. The consequences of these quantitative changes
+are unknown at the system level, but they could include
+altered food webs because of increased availability of
+food items or increased grazing on algal propagules and
+recruits, perhaps reinforcing the position of S. muticum as
+a dominant due to the regenerative abilities of the genus
+(Kendrick and Walker 1994).

@@ -1,0 +1,475 @@
+﻿xabstract
+Fish exclosures were deployed within
+shallow, eutrophic Lake Rotoroa, Hamilton, New
+Zealand to assess the influence of an alien-dominated
+fish population on establishment by charophytes.
+Replicated mesh exclosures were placed at sites
+differing in wave exposure and received transplanted
+charophyte oospores and plants, with identical
+material placed outside. Charophyte establishment
+from oospores and plant biomass were greater inside
+exclosures compared with outside. Wave exposure
+did not depress germling response and the effect of
+fish exclosures on charophyte establishment was
+least apparent at the most exposed site. Exclosures
+did not have a statistically significant influence on
+the light climate, and epiphytic algal development
+was similar or higher inside the exclosures.
+However, sediment mobilisation was lower inside
+the exclosures. Results suggest that fish were
+primarily responsible for the poor performance of
+unprotected charophytes in Lake Rotoroa, with fish
+effects on plants operating via direct disturbance or
+grazing.
+
+xintroduction
+The "alternative stable states" hypothesis recognises
+that shallow, eutrophic lakes can exist in one of two
+conditions; either with abundant submerged plants
+and relatively high water clarity or without conspicuous
+vegetation and with highly turbid waters
+(Scheffer 1989; Scheffer et al. 1993). Plant presence
+and clear water is viewed as desirable by water-body
+managers, but this condition has proven difficult to
+achieve for turbid, shallow lakes. In particular,
+certain feedback mechanisms that act to maintain the
+turbid state need to be minimised or overcome
+(Scheffer et al. 1993).
+In recent years a role for fish populations in maintaining
+turbid conditions in shallow lakes has been
+identified. Excessive densities of benthivorous and
+planktivorous fish in European lakes have been
+implicated in the resuspension of lake sediments and
+the promotion of phytoplankton (Meijer et al. 1990),
+whereas associated substrate disturbance is suggested
+to prevent colonisation by submerged
+vegetation (Ten Winkel & Meulemans 1984).
+Herbivorous fish have also contributed directly to the
+loss of vegetation elements (van Donk & Otte 1996).
+The deliberate reduction of fish stocks in lakes,
+termed "biomanipulation", is now a recognised
+management tool to increase water clarity and
+facilitate plant recovery (Scheffer et al. 1993).
+Much of the evidence for direct fish effects on
+lake vegetation has been derived from enclosure or
+exclosure experiments which concentrate on the fate
+of transplanted or extant plants (e.g., Crivelli 1983;
+Vermaat et al. 1990; Wright & Phillips 1992; van
+Donk et al. 1994). Investigations of fish effects on
+plant establishment from seed banks are more
+limited, despite the likely importance of these
+processes for restoration of submerged vegetation
+(de Winton & Clayton 1996; de Winton et al. 2000a).
+Ten Winkel & Meulemans (1984) observed that
+cages placed to exclude fish enabled charophytes to
+establish from oospores in the sediment of a Dutch
+lake. In contrast, Sager et al. (1998) concluded that
+wave exposure in shallow North American marshes
+was more important than fish activity in reducing
+plant establishment from a transplanted propagule
+bank. In the latter study it was found that high wave
+exposure eroded the transplanted propagule bank
+material, while high levels of suspended solids
+provided a poor light environment for propagule
+establishment and led to propagule burial at sheltered
+sites.
+Sudden declines in submerged vegetation abundance
+have occurred in a number of shallow New
+Zealand lakes, in association with deteriorating water
+quality and ecological value (de Winton &
+Champion 1993). In most cases lakes have remained
+de-vegetated and where plant expansion has taken
+place, this has proceeded slowly over a number of
+years (Champion et al. 1996; de Winton et al. 2000b;
+Champion & Burns 2001). Obstacles to plant
+recovery have been identified, including insufficient
+light availability (Tanner et al. 1993) or low numbers
+of viable propagules in lake sediments (de Winton
+& Clayton 1996; de Winton et al. 2000). However,
+the role of fish in influencing vegetation establishment
+has not been investigated, despite evidence of
+its importance overseas. As management agencies
+in this country show increasing interest in restoring
+aquatic habitats, it has become more important to
+identify the barriers preventing submerged vegetation
+recovery.
+New Zealand waters lack bream (Abramis brama)
+and roach (Rutilis rutilis), the fish species most often
+implicated in plant loss from European waters,
+however, other alien benthivorous and herbivorous
+fish species have been introduced to many shallow
+lakes. These species frequently occupy a dietary
+niche that is underrepresented within the native fish
+fauna. Alien fish were originally introduced to
+establish "coarse" angling in habitats that were
+unsuitable for trout, or for ornamental ponds, and
+have become widespread. With the exception of
+grass carp (Ctenopharyngodon idella) used for
+aquatic weed control (Clayton et al. 1995) and
+aspects of herbivory by rudd (Scardinius erythropthalmus)
+on aquatic plants (Lake et al. 2002), the
+effects of alien fish on submerged vegetation in this
+country are little known.
+In this paper we examine the effect of fish
+occurrence on the establishment from oospores and
+survival of charophytes in Lake Rotoroa, a shallow,
+eutrophic New Zealand lake with a fishery dominated
+by alien species. The managers of Lake
+Rotoroa identified a water clarity goal of 2.5 m
+Secchi disc depth and sought to establish extensive
+beds of charophytes to improve and protect lake
+water quality (Hamilton City Council 1994).
+Although biomanipulation was raised as a possible
+means of achieving these goals, there was little
+evidence to support this course of action. This study
+was initiated to detect whether the fish species
+present in this lake influenced establishment of
+charophytes. As wave exposure has also been identified
+as an important factor for the establishment of
+propagules (Sager et al. 1998), we investigate the
+importance for charophyte establishment of relative
+wave exposure within the lake.
+
+
+xmethods
+Lake Rotoroa (37°48'S; 175°16'E) is a small (54 ha)
+water-body located within the city of Hamilton, New
+Zealand and is managed by the local city council as
+a park reserve. The lake is shallow with >54% of lake
+area being <2 m deep (Fig. 1) and has a catchment
+area of 138 ha, comprised of 25% residential housing
+and 35% recreational reserve (Tanner et al. 1990).
+The lake is described as eutrophic (de Winton et al.
+2000b) based on mean water quality parameters of
+chlorophyll a (15.5 mg m–3), Secchi disc depth
+(1.57 m), total phosphorus (P) (24.7 mg m–3), and
+total nitrogen (N) (713 mg m–3) for the period mid
+1999-mid 2000.
+European perch (Perca fluviatilis) were introduced
+to Lake Rotoroa in 1907 to establish a sport
+fishery. Brown bullhead catfish (Ameiurus nebulosus)
+probably entered the lake from the hydrologically
+linked Waikato River in 1976/77 and rudd
+(S. erythropthalmus) were illegally released in c.
+1979. Tench (Tinca tinca) were legally released in
+1990 to provide a new sport fishery (Kane 1995).
+Fish species within Lake Rotoroa (Table 1) and their
+diets are described by Kane (1995) from surveys
+carried out in 1993/94. Fish included benthic feeders
+(catfish, tench, juvenile perch, and rudd) herbivores
+(adult rudd), and piscivores (adult perch and native
+eels). Alien species listed above numbered >90% of
+the large fish (>100 mm FL) that were caught at that
+time (Kane 1995).
+The lake vegetation and its management before
+1987 is documented by Tanner et al. (1990) who
+describe an extensive submerged vegetation covering
+80% of the lake area comprising native
+charophytes, but invaded by a succession of alien,
+hydrocharitacean weeds. Alien species Lagarosiphon
+major and Elodea canadensis dominated the
+vegetation in 1977, but were then largely replaced
+by Egeria densa by 1986. In the 1970s and 1980s,
+the herbicide diquat was applied to reduce nuisance
+weed beds, with the effect of enhancing charophyte
+abundance. In mid 1986 charophytes comprised 52%
+of the vegetation (Tanner et al. 1990).
+During the late 1980s, the lake vegetation underwent
+a dramatic decline, concomitant with decreasing
+water clarity (Clayton & de Winton 1994).
+Between 1994 and 1998, submerged plants were
+estimated to occupy <1% of the lakebed, but an
+expansion of charophyte vegetation took place from
+late 1998 onwards (de Winton et al. 2000b). This
+vegetation development mirrored changes in water
+clarity with Secchi disc depths showing a mean
+increase of 0.05 m per year over 1992-97, and a
+larger mean increase of 0.11 m per year from 1997
+to 2000 (de Winton et al. 2000b). At the time of this
+investigation charophytes occupied c. 15% of the
+lake area, were observed to a maximum depth of
+1.9 m, and hydrocharitacean species were not
+recorded (de Winton et al. 2000b).
+
+We used fish exclosures to detect the effects of fish
+on establishing charophytes in Lake Rotoroa.
+Exclosures were deployed at three sites (Fig. 1)
+chosen to provide different degrees of wave exposure.
+Relative exposure at each site was calculated
+using a method modified from Keddy (1982) as the
+sum of wind direction x fetch for each of eight
+compass directions, where the wind direction (% of
+records) was based on 8760 wind records from June
+1999 to June 2000 (Ruakura Climate Station) and
+fetch was the distance to shore (km). On this basis,
+the three sites were ranked from most sheltered,
+intermediate in exposure, to most exposed.
+Three fish exclosures were deployed at each site
+in October 1999, within 1.1-1.3 m depth. No plants
+were observed in the immediate vicinity and
+sediment substrates were observed to be fine (no
+conspicuous sand or hard substrates). Exclosures
+(2.5 x 2.5 m) were constructed from Donaghys Quad
+Hail Net® (7 mm mesh aperture) supported by
+surface floats and anchored into the lakebed. The
+netting was cleaned at monthly intervals to maximise
+water exchange. A 0.3 m tall barrier above the
+perimeter of the floats prevented waterfowl from
+perching on the structure.
+Sediment known to contain abundant viable
+oospores was collected from Lake Okataina
+(38°09'S, 176°23'E) and Lake Tarawera (38°13'S,
+176°24'E), Rotorua District, and stored at 20°C for
+2 weeks. Each sediment was mixed in a concrete
+mixer and decanted into 395 ml pots. Ten pots of
+each lake sediment were placed in each exclosure
+and also at an equivalent depth outside the exclosure.
+Charophyte establishment was assessed after 15
+weeks. Germlings from each pot were detected by
+eye, sorted into species according to oospore and
+germling characteristics, counted, and dried (80°C)
+to constant weight (±0.0001 g).
+Plants of Chara corallina were collected from
+Lake Rotoroa, planted in pots of lake sediment and
+grown in outdoor tanks for 3 weeks to facilitate
+rhizoid anchorage. Uniform-size plants were
+selected, comprising 3-4 stems of 50-80 mm in
+height. Three plants were placed inside and outside
+each exclosure, with an additional 19 plants of
+similar size dried to constant weight as above to
+estimate starting biomass. Transplanted plants were
+recovered after 3 weeks, individually dried, and
+weighed as above.
+Key water quality parameters inside and outside
+the exclosures were monitored at 2-week intervals
+(turbidity, photosynthetically active radiation
+(PAR)) or 4-week intervals (chlorophyll a).
+Measurements of PAR were made subsurface and at
+0.43 and 0.86 m depth (Licor LI-188 B Quantum
+photometer) and mean light attenuation (Kd) was
+calculated according to Kirk (1994). A depth integrated
+water sample was taken to 0.8 m depth.
+Turbidity of two subsamples was measured by a
+nephelometric turbidimeter (Hach 21 00P). Chlorophyll
+a samples (400 ml) were transported on ice,
+filtered (GF/C glass fibre), ground, and analysed by
+a spectrophotometric method (Pridmore et al. 1983).
+A sediment trap (78 mm diam.) was placed at the
+centre of each exclosure and outside each exclosure
+for the duration of the experiment and the accumulated
+sediment was dried (80°C) to constant weight
+(±0.01 g). A substrate for epiphytic algae was
+provided by placing plastic tags (9750 mm2) just
+above the sediment surface, both inside and outside
+each exclosure. Upon retrieval after 3 weeks, both
+surfaces of the tags were scrubbed with a fine brush,
+the material homogenised and analysed for chlorophyll
+a as outlined above.
+Germling number per pot, germling dry weight
+per pot, and transplant dry weight per pot were log10
+transformed to stabilise variance among samples,
+and statistically significant differences (P < 0.05)
+were identified by a split-split plot ANOVA (Genstat
+5). The block stratum was the nine chosen areas
+(three sites x three exclosure—open lake pairs), the
+main plot stratum was the two treatments of
+exclosure or open lake and the subplot level was
+individual pots (to identify sediment type effects).
+An ANOVA was used to identify significant differences
+(P < 0.05) in water quality between exclosures
+and the open lake, and within site differences
+were also considered in the analysis. An ANOVA
+was also used to analyse sedimentation data, while
+a t-test was employed to identify differences in
+epiphytic algal development.
+
+xresults
+Relative wave exposure ranged from most shelter at
+Site A, intermediate exposure at Site B, and greatest
+exposure at Site C (Fig. 1). Relative exposure
+differed by 80% between Sites A and B, and 20%
+between Sites B and C.
+With one exception, mean light attenuation (Kd)
+was similar within and outside the exclosures, with
+Kd lower inside exclosures compared with outside
+(ANOVA, P < 0.001) on one date only (Fig. 2).
+Although mean turbidity of exclosures was frequently
+0.3-0.5 nephelometric turbidity units (NTU)
+lower than external values, differences in chlorophyll
+a levels of water samples were not significant (Fig.
+3). No consistent site differences in these parameters
+were detected. Epiphytic algal development
+(chlorophyll a; Table 2) did not differ significantly
+between the inside and outside exclosures at Site A
+or Site B (t-test, P 0.05), but was significantly
+higher within Site C exclosures compared with
+outside (t -test, P < 0.05). Overall, sedimentation
+(Table 2) was significantly greater outside the exclosures
+(ANOVA, P < 0.001), although differences
+were not detected at Site B (ANOVA, P 0.05). A
+missing sediment trap lowered statistical power for
+this latter site (Table 2).
+Only occasional small fish (<50 mm length,
+species unidentified) were observed inside the
+exclosures. Lake level fluctuated by 0.203 m, with
+an overall reduction in water level over the course
+of the trial.
+Germling response from the Okataina sediment was
+dominated by C. corallina (92% of germlings),
+whereas the Tarawera sediment response was
+predominantly C. globularis (99% of germlings).
+Differences in germling number and biomass were
+identified between the two sediment types (ANOVA,
+P < 0.05). The original sediment level in pots was
+discernible at the end of the trial and erosion or
+deposition was not observed.
+Germling number and biomass were consistently
+greater inside the fish exclosures than outside (Fig.
+4 and 5). The mean reduction in germling number
+per pot from outside compared with inside the exclosures
+ranged from 42 to >99% across the three sites
+(Fig. 4). The mean reduction in germling biomass
+per pot from outside compared with inside the
+exclosures ranged from 66 to >99% across the three
+sites (Fig. 5). The differences between germling
+establishment inside and outside exclosures were
+significant (ANOVA, P < 0.001), with the exception
+of germling number arising from Okataina sediment
+and the germling biomass of Tarawera sediment
+(ANOVA, P 0.05) at the most exposed site, Site
+C (Fig. 4 and 5).
+Germling number and biomass of pots placed
+outside the exclosures differed significantly among
+the three sites (ANOVA, P < 0.05), with mean
+germling number and biomass being greater at the
+exposed Site C than at the sheltered Site A (Fig. 4
+and 5). Conversely, no comparable site differences
+were identified for pots from within the exclosures
+(ANOVA, P 0.05).
+The biomass of C. corallina plants transplanted into
+the fish exclosures was significantly greater
+(ANOVA, P < 0.05) than transplanted plants placed
+outside the exclosures at all three sites (Fig. 6). This
+reduction in plant biomass outside exclosures ranged
+from 70 to 95% across the three sites. No significant
+site differences were identified (ANOVA, P 0.05).
+Exclosure plants had increased in biomass (Fig. 6),
+whereas outside plants were often missing entirely
+(one-third of plants) or were noticeably reduced in
+biomass.
+During the trial, Nitella hookeri/N. cristata (a
+species pair difficult to distinguish) had also colonised
+several exclosures from vegetative fragments.
+No colonisation was observed immediately outside
+the exclosures.
+
+xdiscussion
+Restricted fish access resulted in consistently greater
+charophyte germination, growth, and survival,
+suggesting that fish do reduce the potential for plant
+re-colonisation within Lake Rotoroa.
+Reduced wave exposure by the exclosures does
+not appear to have been a major factor in influencing
+charophyte performance. First, where differences in
+charophyte establishment were detected among the
+three sites (outside exclosures only), the most
+exposed site had the greatest germling response. In
+addition, germling response differed least between
+the exclosures and open areas at the most exposed
+site (Site C). These results suggest wave exposure
+was not a major inhibiting factor for charophyte
+establishment at the experimental sites in this lake.
+We also did not detect effects of exclosures upon
+water quality parameters that were likely to mediate
+the enhanced charophyte performance. In our trial
+the exclosures did not present a significantly better
+light environment than external areas. Although
+turbidity of exclosures was slightly lower than
+external values, these differences (0.3-0.5 NTU)
+were extremely small when considering the wide
+range of turbidity of natural waters. Light attenuation
+values provide a more meaningful measure of conditions
+for plant germination and growth. In contrast,
+Sager et al. (1998) found that plastic encased
+exclosures that enhanced propagule establishment
+also modified wave exposure/water exchange to the
+point where total suspended solids, chlorophyll a,
+and light attenuation were dramatically reduced.
+Although we did find bottom sediment mobilisation
+and/or deposition was higher outside the
+exclosures, this disturbance was apparently local
+since it did not impact significantly on the light
+climate. Nor was there any observable erosion or
+burial of the sediments in the transplanted pots. The
+local sediment mobilisation and/or deposition
+outside the exclosures suggested a higher frequency
+or extent of sediment disturbance when exposed to
+fish activity. Elsewhere, activity by benthivorous fish
+in small, shallow lakes is seen as a major cause of
+sediment resuspension (Meijer et al. 1990). This is
+also in keeping with observations by SCUBA divers
+in Lake Rotoroa of pitting of the sediment in a
+manner characteristic offish disturbance (de Winton
+et al. 2000b). The loss of transplanted plants from
+outside the exclosures also indicates direct uprooting
+or grazing, as plants would have persisted under
+stress (i.e., unsuitable growth conditions) for longer
+than the 3-week growth period.
+Nest building by freshwater fish is a source of
+disturbance of submerged vegetation in temperate
+Northern Hemisphere lakes (Carpenter & McCreary
+1985), however no nests or egg masses were
+observed in this trial.
+Grazing by herbivorous waterfowl is cited as one
+factor preventing plant re-establishment in shallow
+lakes (Lauridsen et al. 1994), but we do not consider
+it to be important in this water-body. Low densities
+( 0.5 ha–1) of coot (Fulica atra) and black swan
+(Cygnus atratus, 0.1 ha–1) were recorded at Lake
+Rotoroa during the past 5 years (New Zealand
+Ornithological Society monthly counts). These
+waterfowl densities are 1-2 orders of magnitude less
+than levels suggested to influence macrophyte
+establishment (Lauridsen et al. 1994; van Donk &
+Otte 1996).
+Our results did not support the theory that fish
+predation of snail grazers promotes epiphytic algal
+development and leads to suppression of submerged
+plant growth (Brönmark & Weisner 1992).
+Smothering by epiphytic algae did not explain the
+lower charophyte response outside exclosures, as
+epiphytic algal development outside exclosures was
+either similar to, or was lower than, exclosure values.
+Although fish activities may also indirectly affect
+plant presence by decreasing water clarity (Meijer
+et al. 1990), our experiments would not detect such
+influences due to the exclosure design. Other
+workers have also established from exclosure/
+enclosure trials that fish can reduce plant biomass
+directly without affecting water clarity (Crivelli
+1983; Ten Winkel & Meulemans 1984; Vermaat et
+al. 1990).
+We conclude that fish activities are the major
+factors responsible for the lower charophyte
+performance outside exclosures. This finding is in
+contrast to Sager et al. (1998), who found wave
+exposure, not fish (common carp) access, to be an
+overriding influence for propagule establishment,
+although their conclusion probably reflects the larger
+size, shallow depths, and higher relative exposure of
+their study sites compared with Lake Rotoroa. It is
+not possible to confirm which fish species in Lake
+Rotoroa were responsible, however we suggest the
+impact on plants was mediated directly via uprooting,
+shading by deposited sediment, mechanical
+damage of plants, grazing, or some combination of
+these mechanisms.
+From other studies, there is considerable evidence
+that fish can compromise the condition of shallow,
+eutrophic lakes. Similarly, our results indicate that
+the alien fish communities in shallow New Zealand
+lakes may not be compatible with management goals
+to protect and enhance water quality. In particular,
+the early establishment of charophytes is sensitive
+to fish influences and yet may be critical for the
+restoration of shallow lakes.

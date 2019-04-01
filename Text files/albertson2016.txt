@@ -1,0 +1,480 @@
+xabstract
+
+Crayfish are one of the most prolific freshwater invaders, yet the role of crayfish as ecosystem engineers
+that structure benthic substrates in their nonnative habitat is rarely studied. We used an in situ experimental
+manipulation to document changes in sediment dynamics and macroinvertebrate density and richness caused by
+the presence or absence of invasive rusty crayfish (Orconectes rusticus). Rusty crayfish reduced fine-sediment accumulation
+and increased pit and mound structures in the river bed by moving gravels at the bed surface. We
+predicted that this omnivorous species would directly reduce macroinvertebrate density and richness, but we
+found that macroinvertebrate density was higher in treatments with rusty crayfish present and that macroinvertebrate
+richness did not differ between treatments with and without crayfish. Our findings suggest that
+rusty crayfish, which are spreading throughout the northeast USA, are probably important engineers of physical
+habitat structure in stream ecosystems. Rusty crayfish may also have unexpected, facilitative consequences for
+other benthic species by reducing fine-sediment accumulation in streams that are sediment impaired. Our study
+illustrates that biological forces can influence benthic gravel-size distributions and topography and suggests that
+crayfish may be important drivers of substrate-sorting dynamics and disturbance regimes, with consequences for
+community structure in streams where they are invasive.
+
+xintroduction
+
+Invasive species pose one of the world’s most pressing
+environmental problems (Vitousek et al. 1997, Jenkins
+2003). Invasions are occurring across a variety of habitats,
+but freshwater systems are particularly sensitive to invasion
+by nonnative species compared with their terrestrial
+counterparts (Ricciardi and Rasmussen 1999). For example,
+in freshwater ecosystems, invaders such as carp (Cyprinidae;
+Koehn 2004, Gozlan et al. 2010) and Zebra Mussels
+(Dreissena polymorpha; MacIsaac 1996) have dramatically
+influenced native species diversity, productivity, and ecosystem
+function (Strayer 2010). A significant amount of
+funding is allocated toward invasive control and reintroduction
+of natives because of substantial changes to natural
+habitats and the loss of ecosystem function attributed
+to invasive species in many instances (Bernhardt et al.
+2005, Pimentel et al. 2005). However, the effects of invasive
+species on the structure of ecosystems in the growing
+number of urbanized and impaired streams are not well
+studied and may differ from effects in pristine systems
+(Ricciardi 2001, Smucker and Detenbeck 2014).
+Many invaders are ecosystem engineers (Crooks 2002),
+which are organisms that affect abiotic features of ecosystems,
+including physical habitat characteristics and
+biogeochemical cycles (Jones et al. 1994, Jones 2012). In
+streams, animals can substantially alter habitat structure,
+sediment transport, and nutrient cycling (Moore 2006,
+Albertson and Allen 2015). Aquatic animals ranging from
+nutria to fishes to macroinvertebrates move gravels, alter
+riverbank formation, and make changes to bed topography.
+For example, fish can create divots as they build nests
+for egg protection, and insects can agitate fine sediments
+as they search for food (Zanetell and Peckarsky 1996,
+Moore et al. 2004). Biota can regulate substrate dynamics,
+including grain-size distributions, sediment erosion during
+floods, and fine-sediment suspension levels (Montgomery
+et al. 1996, Albertson et al. 2014, Harvey et al.
+2014).
+Crayfish are one of the most prolific groups of invaders
+across the globe (Lodge et al. 2000, 2012, Savini et al. 2010,
+Twardochleb et al. 2013). Invasive crayfish pose a particu-
+larly significant threat to freshwater ecosystems because
+crayfish are ecosystem engineers of both aquatic community
+structure and physical habitat. Current evidence for the
+effects of crayfish on benthic communities suggests a significant
+reduction in macroinvertebrate, fish, and macrophyte
+density, shifts in macroinvertebrate and fish community
+composition, and an increase in the breakdown of detritus
+(Momot et al. 1978, Wilson et al. 2004, Bobeldyk and
+Lamberti 2008, 2010). Crayfish are bioturbators that also
+can engineer physical habitat by disrupting benthic sediments
+as they forage or build shelters (Parkyn et al. 1997,
+Statzner et al. 2003, Creed and Reed 2004). Disturbance by
+crayfish can loosen riverbed gravels, which subsequently increases
+sediment erosion during floods (Statzner et al. 2003,
+Statzner and Peltret 2006). The bioturbating activities of
+some crayfish species can be extensive and cause complete
+riverbank collapse (Guan 1994, Barbaresi et al. 2004), and
+the role of crayfish as agents of disturbance may have important
+consequences for biodiversity and benthic community
+recovery following high-flow events (Resh et al. 1988,
+Lake 2000). Crayfish also can alter fine-sediment dynamics
+(Harvey et al. 2014), which may influence feedbacks between
+sediment suspension, turbidity, and biofilm communities
+(Wood 1997, Lawler et al. 2006) and regulate suitable
+habitat for fish egg development (Suttle et al. 2004). In
+invasions of Europe by Pacifastacus leniusculus and Procambarus
+clarkii, crayfish altered aquatic communities and
+substantially affected gravel-bed morphology, erosion, and
+fine-sediment suspension (Barbaresi et al. 2004, Johnson
+et al. 2011, Harvey et al. 2014).
+The rusty crayfish (Orconectes rusticus) is native to the
+Ohio River basin and has become invasive in the northeastern
+USA. Spread of the invasive rusty crayfish has
+been identified as a threat for >4 decades (Lodge et al.
+2000, Wilson et al. 2004) and has significantly reduced
+native crayfish diversity (Taylor et al. 1996). Orconectes
+rusticus moved into southern Pennsylvania (PA), the location
+of our research, in the 1960s–1970s (Kuhlmann and
+Hazelton 2007, Lieb et al. 2011). It can outcompete native
+crayfish species, reduce macroinvertebrates and detritus
+(Lodge et al. 1986, Olden et al. 2006), cause shifts in fish
+populations (Roth and Kitchell 2005), and reduce standing
+stock of macrophytes (Roth et al. 2007).
+Several studies now illustrate the strong physicalengineering
+role of invasive crayfishes, but despite its rapid
+spread, few investigators have explored the role of invasive
+O. rusticus in structuring benthic substrate dynamics. We
+conducted a field experiment to investigate the influence
+of rusty crayfish on benthic substrates and macroinvertebrate
+communities. We used an in situ manipulation of
+the presence or absence of O. rusticus to address the following
+questions: 1) Does O. rusticus change riverbed topography,
+sediment sorting, and fine-sediment accumulation?
+2) How does O. rusticus influence macroinvertebrate
+communities? Our study provides some of the first evidence
+of the physical effects of O. rusticus invasions on
+gravel disturbance and consequences for benthic communities
+and ecosystem processes.
+
+xmethods
+
+Study site
+We conducted our study in Valley Creek (lat 40°04′N,
+long 75°27′W), situated in Valley Forge National Historic
+Park, King of Prussia, PA, from 24 October to 14 November
+2014. Valley Creek is an urbanized, perennial
+3rd-order tributary of the Schuylkill River. In autumn, it
+is ∼10 m wide and 0.24 m deep. In the heavily populated
+Schuylkill River basin, 77% of streams are in fair or poor
+condition, and forest buffer zones have been reduced
+along many waterways (Jackson 2009). Valley Creek is
+classified as an impaired stream (VFNHP and PFBCCP
+2004, Jackson 2009). Excessive sedimentation, excessive
+stormwater, polychlorinated biphenyl (PCB) contamination,
+and channel instability have been identified as primary
+drivers of impairment. The hydrologic regime is flashy.
+Base flows range from 0.28 m3/s in autumn to 1.70 m3/s in
+spring, interspersed with frequent flood events. Discharge
+averaged 0.57 m3/s during the study period, and 2 moderate
+flow events peaked at 1.12 m3/s on 1 November and
+0.85 m3/s on 6 November (US Geological Survey gage
+01473169; Fig. 1). Rusty crayfish were first documented in
+Valley Creek in 2008 (http://www.nps.gov/kids/features
+/2014/crayfishCorps.cfm#). The National Park Servicemanages
+rusty crayfish populations in Valley Creek primarily
+by using an intensive, volunteer-based removal effort called
+the Crayfish Corps.
+Experimental design
+The experiment contained 2 treatments: crayfish present
+or absent (control). We ran the experiment as a complete
+block design in which 4 replicates of each treatment
+were run in 2 consecutive temporal blocks for a total of
+n = 8 for each treatment.We placed 2 wire-mesh (100-mm2
+opening) enclosures (0.41 m long × 0.31 m wide × 0.41 m
+high) within 0.5 m of each other at the downstream end of
+each of 4 riffles (= replicates). We selected cage locations
+that were similar in physical condition; velocity averaged
+0.3 m/s. We secured cages to rebar and made them flush
+with the surrounding substrate. Cages were oriented so
+that width was perpendicular and length parallel to the direction
+of flow. Leaves and other small debris accumulated
+on the front of each cage, but we allowed the debris to remain
+for the duration of each temporal block. We filled
+cages with gravel mined from the river bed nearby. At the
+start of each block, we scrubbed gravel clean and passed it
+through sieves to create 2 heterogeneous gravel mixtures of
+grain diameters between 5.6 and 11 mm or 22 and 31 mm.
+We carefully placed a layer of subsurface gravel (5.6–
+11 mm) in the bottom of each enclosure, graded it smooth
+by hand, and then covered it by a layer of surface gravel
+(22–31 mm) to represent an armored surface layer typical
+of gravel-bedded rivers (Dietrich et al. 1989).
+The crayfish-present treatment contained 3 crayfish
+that were selected to be similar in size (25-mm carapace
+length). Crayfish density within the mesh enclosure was
+24/m2, which is on the high end but in the range of densities
+reported for this species (Momot et al. 1978, Hill and
+Lodge 1999). The control treatment was identical but contained
+no crayfish. Each block ran for 2 wk, after which we
+fully disturbed and cleaned sediments to remove any macroinvertebrates.
+After the 1st block, we resieved and graded
+the sediments smooth to reset for the 2nd block. All crayfish
+survived for the duration of the experiment.
+Measurement of the abiotic response
+We took photographs of each replicate crayfish cage
+with a GoPro Hero 3+ Silver (GoPro, Riverside, California)
+at the start and end of each block to estimate
+changes in the gravel-bed matrix. We analyzed photos in
+the laboratory with ImageJ (Rasband 1997) to calculate
+the proportion of the total surface area of the bottom of
+each cage where surface gravels had been moved to expose
+subsurface material or the bottom of the cage. To
+estimate fine-sediment accumulation in the benthos, we
+measured total suspended solids (TSS) in a subset of
+enclosures (n = 3 control cages and n = 4 crayfish cages)
+during block 2. At the end of block 2, we enclosed each
+cage with a modified Hess sampler (0.6 m × 0.4 m ×
+0.5 m), vigorously disturbed all gravels by hand, and collected
+a 1-L water sample. For the purposes of this experiment,
+measures of agitated TSS served as a proxy for
+benthic sediment accumulation. We processed water samples
+in the laboratory by filtering a known volume of wellmixed
+sample through a 0.45-μm mixed cellulose ester membrane,
+drying the sample at 60°C for 24 h, and weighing
+the sample to estimate g/L.
+Measurement of the biotic response
+At the end of each 2-wk block, we used the same Hess
+sampler to isolate each cage and sample macroinvertebrates
+(Hauer and Lamberti 2007). We dislodged macroinvertebrates
+from surface gravels by hand and swept them into a
+mesh (500-μm) drift net secured to a solid frame. This sampling
+technique ensured that any collected invertebrates
+were from the enclosure. To compare macroinvertebrate
+communities and abundances in the experiment to ambient
+conditions in Valley Creek, we used Surber samplers on
+30 October 2015 to collect macroinvertebrates in n = 2
+riffles at the study site. Because of permitting restrictions,
+we kept all macroinvertebrates alive during all macroinvertebrate
+sampling efforts and enumerated them on site.
+We identified insects >500 μm to family to estimate taxon
+richness (count of all families/sample) and density (number
+of individuals/m2; Merritt et al. 2008) and returned macroinvertebrates
+to the stream.
+Data analyses
+We compared TSS levels across crayfish and control
+treatments with a mixed model in which TSS was a function
+of the fixed effect of crayfish treatment and the random
+effect of riffle location. We compared changes in
+bed topography across crayfish treatments by means of
+linear mixed effects models in which density of pit structures
+or proportion of river bed with subsurface exposed
+was a function of the fixed effect of crayfish treatment
+and random effects of replicate nested within block and
+of riffle location. We compared macroinvertebrate density
+and diversity by means of mixed models in which density
+or richness was a function of the fixed effect of crayfish
+treatment and the random effect of replicate nested within
+block and of riffle location. Shannon–Wiener diversity index
+(H) was calculated as:
+H ¼ −ΣPilnPi; (Eq. 1)
+where Pi is the number of the ith species divided by the total
+number of individuals counted. In studies conducted in the
+field, high variation among sampling replicates is often
+expected. Thus, we accepted p ≤ 0.1 as a marginally significant
+effect. All analyses were conducted using R (version
+3.1.0; R Project for Statistical Computing, Vienna, Austria).
+
+xresults
+
+TSS levels were consistently lower in sediment patches
+with crayfish present than in controls, suggesting that cray-
+fish activity increased suspension and reduced settling of
+fine sediments (t = −2.7, p = 0.1; Fig. 2). Comparison of
+photographs of control and crayfish cages before and after
+each 2-wk block showed substantial amounts of finesediment
+material covering the benthos in control cages
+without crayfish (Fig. 3A–D). We found evidence of gravel
+movement in the control treatments resulting from small
+changes in base flow during the sampling period, but after
+2 wk the number of pit and depression structures was significantly
+higher in treatments with crayfish present than
+in controls (t = 8.5, p < 0.001; Fig. 4A). Crayfish activity
+also exposed a significantly greater amount of subsurface
+material composed of the smaller grain-size class than was
+exposed in control treatments (t = 5.0, p < 0.001; Fig. 4B).
+Crayfish activity significantly affected macroinvertebrate
+communities, but not in the direction predicted.Macroinvertebrate
+density was significantly higher in crayfish
+treatments than in controls (t = 2.4, p = 0.04; Fig. 5A).
+Species richness did not differ between treatments (t =
+1.0, p = 0.35; Fig. 5B). Hydropsychid caddisfly larvae (Hydropsychidae)
+and amphipods (Gammaridae) were the most
+common macroinvertebrates sampled across all treatments,
+and the Shannon–Wiener diversity index was similar between
+the crayfish and control treatments (H = 1.57 and
+1.59, respectively). Macroinvertebrate density was lower in
+the experimental enclosures (crayfish present and absent)
+than the ambient macroinvertebrate density in Valley
+Creek (Table 1).
+
+xdiscussion
+
+We have shown that the rusty crayfish, an invasive
+species spreading throughout the northeastern USA, can
+influence substrate dynamics, with potential cascading effects
+for aquatic communities. Our results illustrate that
+rusty crayfish activity can suspend benthic sediments, reduce
+fine-sediment accumulation, and increase pit and
+mound morphology within the river bed. Our results further
+reveal an increase in macroinvertebrate abundance
+in the presence of rusty crayfish. These findings emphasize
+the need to understand better the invasion ecology
+of crayfish because their engineering effects on the physical
+habitat of streams may be more widespread than previously
+documented.
+In support of findings for other crayfish species, we
+found a substantial change in sediment dynamics when
+rusty crayfish were present. Orconectes rusticus altered
+bed topography similarly to other species for which detailed
+measurements of physical substrate dynamics have
+been monitored. Crayfish are often associated with gravel
+and cobble substrate that provides shelter and refuge
+from predators, and crayfish disturb both fine sediments
+and gravels (Kershner and Lodge 1995, Statzner et al.
+2003, Johnson et al. 2011, Harvey et al. 2014, Magoulick
+2014). Changes to grain sorting and movement initiated
+by crayfish activity have important implications for erosion
+regimes. Gravel arrangement can influence grain protrusion
+and friction angles that control when grains move
+downstream (Buffington and Montgomery 1999). Grain
+orientation can regulate critical shear stress and initial
+movement during floods (Carling et al. 1992). In addition,
+changes in grain-size distributions associated with the movement
+of finer, subsurface gravels toward the surface are
+likely to increase bed-material movement during high flows
+(Church 2006). Selective removal of fine silt from the gravel
+matrix can produce infilling of downstream pool volume
+(Lisle and Hilton 1999), and alteration of the fine component
+of a gravel matrix also can influence gravel movement
+(Curran and Wilcock 2005). Although a growing number
+of studies illustrate the effects of crayfish on substratesorting
+dynamics, many of these studies, including ours,
+have been conducted in laboratory flumes or in small spatial
+patches that lack the complexity and heterogeneity of
+natural streams. For example, our enclosures did not con-
+tain larger gravels that provide shelter space for the crayfish,
+a factor that could be considered in future studies
+because shelter may alter crayfish engineering effects and
+change behavioral interactions between individual crayfish
+(Statzner and Peltret 2006). As such, our findings are limited
+but suggest the need for additional research linking invasion
+ecology and geomorphology at larger field scales (Reinhardt
+et al. 2010).
+We found that macroinvertebrates were more abundant
+in treatments with rusty crayfish present than in
+controls. A large portion of crayfish diets consists of detritus
+and plant material, but many investigators have shown
+that crayfish directly reduce the abundance of their macroinvertebrate
+prey across a variety of habitat types, including
+lakes and streams, and across a variety of substrates,
+including rocks and leaves (Momot et al. 1978, Bobeldyk
+and Lamberti 2010, Twardochleb et al. 2013). However,
+some evidence suggests that crayfish control of macroinvertebrates
+is taxon specific. For example, Lodge et al.
+(1994) found that in sandy-bottomed lakes, O. rusticus
+reduced snail macroinvertebrate abundance by 99% but
+had minimal influence on other macroinvertebrate taxa.
+We hypothesize that effects of rusty crayfish on gravel
+movement and the removal of fine sediments is context
+dependent and particular to food availability, substrate
+size, and substrate heterogeneity. In our experiment, the
+indirect, facilitative effect of removing fine sediment may
+have improved habitat for macroinvertebrates that are
+sensitive to sediment accumulation (Richards and Bacon
+1994, Wood 1997). Overall macroinvertebrate colonization
+in the experiment was lower in both experimental treatments
+than natural, ambient macroinvertebrate densities in
+Valley Creek, suggesting that colonization of the enclosures
+may have been limited, potentially because of the
+short time scale of our study. Nevertheless, colonization
+was higher in treatments with rusty crayfish than in control
+treatments. If rusty crayfish shift macroinvertebrate
+communities by increasing their abundance, these effects
+may cascade to other trophic levels. For example, the direct
+effects of crayfish on biofilm may be minimal (Bobeldyk
+and Lamberti 2008, Magoulick 2014), but indirect
+effects on biofilm biomass in response to shifts in the invertebrate
+grazer community that result from crayfish activity
+have been suggested (Charlebois and Lamberti 1996).
+Future researchers might investigate links among crayfish,
+fine sediment, grazers, and biofilm productivity.
+Rusty crayfish can outcompete and eliminate native crayfish
+species (Hill and Lodge 1999, Wilson et al. 2004), and
+the consequences of native biodiversity loss for ecosystem
+functioning are wide reaching (Hooper et al. 2005). Several
+behaviors probably drive competition between invasive
+rusty crayfish and native crayfish. For example, crayfish
+often display aggressive, territorial behaviors as they compete
+for food or protect young (Capelli and Munjal 1982),
+and rusty crayfish are known to be more efficient predators
+of fish eggs than their native counterparts (Sargent et al.
+2013). Except for limitations imposed by streams and lakes
+with low pH or low Ca, rusty crayfish have been moving
+rapidly throughout the midwestern and northeastern USA,
+and native crayfish have been declining as a result (Olden
+et al. 2006). In PA, shifts in crayfish species distributions
+associated with rusty crayfish invasion have been documented,
+but the mechanisms driving these shifts and the
+physical constraints on rusty crayfish invasion (e.g., substrate
+size, pH) have yet to be identified (Lieb et al. 2011).
+In a 2003–2006 survey in northern PA, the historically numerically
+dominant Orconectes limosus constituted only
+2.4% of the crayfish assemblage, whereas O. rusticus was the
+most commonly collected crayfish and constituted 37% of
+the assemblage. In southern PA sites where O. rusticus has
+not yet invaded, O. limosus constituted 52% of the crayfish
+assemblage during the same survey. Although O. limosus,
+which is native to our study system, can also alter gravelbed
+topography (Statzner et al. 2000, 2003), we hypothesize
+that the larger body mass, faster growth rate, and higher
+density achieved by the rusty crayfish, which has been documented
+in other systems with multiple species of crayfish
+present (Hill and Lodge 1999, Wilson et al. 2004), may
+make it a more effective engineer of stream substrate (Albertson
+and Allen 2015), producing increased rates and
+depths of substrate disturbance, increased baseflow finesediment
+transport rates, and decreased embeddedness of
+gravels. Direct comparisons between rusty crayfish and the
+abundant and widely distributed mid-Atlantic native spiny
+cheek (Orconectes limosus) and Appalachian Brook crayfish
+(Cambarus bartonii) are an important next step for
+research.
+Our cage enclosures isolated the effects of crayfish
+and excluded other relatively large organisms known to
+disrupt benthic substrates. Fish, in particular, are important
+substrate engineers that were excluded from our cages
+but can influence grain-size distributions and entrainment
+by building redds for eggs or by foraging for food (Flecker
+1996, Moore et al. 2004, Hassan et al. 2008). Statzner and
+Sagnes (2008) found that crayfish and fish both influence
+gravel transport and bed surface characteristics when alone,
+but their effects when together in polyculture were less than
+expected given their effects in monoculture. The joint influence
+of multiple coexisting and interacting animals is
+relatively understudied. As a growing body of research highlights
+the importance of species traits and mechanistic abilities
+in regulating the magnitude of ecosystem engineering
+effects on physical habitat conditions, understanding the
+relative effect of native vs invasive species, body size, mechanistic
+activity (e.g., burrowing vs foraging), and competitive
+fitness will be important directions for future research
+(Hughes and Stachowicz 2004, Albertson et al. 2014, Allen
+et al. 2014).
+The relative roles of competitive dominance and environmental
+degradation in controlling the effects of invasive
+crayfish also deserve further attention (MacDougall
+and Turkington 2005, Light and Marchetti 2007). Many
+streams in the northeastern USA are impaired (Bernhardt
+et al. 2005), and most invasions are occurring in already
+highly disturbed ecosystems (Hobbs and Huenneke 1992,
+Strayer 2010, Früh et al. 2012). The positive, indirect influence
+that we detected of crayfish on macroinvertebrates,
+possibly mediated by a reduction in fine sediment
+in the substrate, was unexpected but highlights the need
+for a better understanding of invasive species in impaired
+systems (Ricciardi 2001, Tablado et al. 2010). Invasive
+species may be beneficial in some impaired ecosystems,
+but the small sample size of our study does not allow us
+to make management recommendations. Future work might
+address whether crayfish engineers help ameliorate habitat
+degradation associated with high fine-sediment loads in
+urbanized streams. Some researchers have suggested that
+habitat degradation combined with species invasion is a
+more likely driver of ecological change than are invasive
+dominants alone (Didham et al. 2005). Given the large
+amount of funding that is allocated to river restoration,
+including removal of invasive crayfish (Gherardi et al.
+2013, Rogowski et al. 2013), a better understanding of invasions
+may help improve restoration designs that have been
+only minimally successful (Stranko et al. 2012, Smucker and
+Detenbeck 2014). In freshwater ecosystems, both species
+invasion and increased sediment loads because of landuse
+change have been identified as significant impairment
+factors (Richter et al. 1997), and future investigators should
+consider crayfish invasion, crayfish removal, and ecosystem
+function in the context of many streams’ modern, impaired
+status.
+Authors of a growing number of synthesis papers have
+emphasized the strong effect that biology can have on physical
+habitat conditions in streams (Jones 2012, Statzner
+2012). Rusty crayfish engineering effects provide further
+evidence that biology can alter substrate dynamics. The
+importance of invasive ecosystem engineers is recognized
+(Crooks 2002). However, the role of O. rusticus engineers
+in structuring benthic substrate dynamics is poorly documented
+but may play a critical role in guiding the management
+of degraded, sediment-impaired streams where
+these crayfish are invasive. Including invasive species across
+stream impairment gradients will be an important next step
+in studies that incorporate the complexity of ecological dynamics
+into models of sediment transport.

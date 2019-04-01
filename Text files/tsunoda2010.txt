@@ -1,0 +1,368 @@
+﻿xabstract
+The change in fish fauna was monitored in ponds within irrigation systems in Iwate prefecture, north-eastern
+Japan to evaluate the effectiveness of eradicating the invasive piscivorous largemouth bass, Micropterus
+salmoides.
+Eleven study ponds were categorized into three pond groups: bass-dwelling (n53), bass-eradicated (n53)
+and non-invaded ponds (n55).
+Species richness and diversity, which temporally decreased in bass-dwelling ponds, increased in basseradicated
+ponds. Furthermore, in bass-eradicated ponds, the mean numbers of topmouth minnow and
+freshwater goby were gradually restored, but in bass-dwelling ponds the numbers decreased and both species
+eventually disappeared.
+Although the eradication of piscivorous invaders is helpful for restoring fish species diversity in ponds, its
+effectiveness varies among species, and other alien fish such as the rose bitterling (Rhodeus ocellatus ocellatus)
+often invade and proliferate in the bass-eradicated ponds.
+To ensure successful restoration of native biota and avoid undesirable results, it is necessary to plan and
+implement continuous monitoring and adaptive management after eradication of alien predators.
+
+xintroduction
+The problem of invasive alien species is a major factor in the
+loss of biodiversity (Vitousek et al., 1996). In freshwater
+systems, the introduction of invasive species, especially exotic
+predators, has a serious impact on native organisms (Moyle
+and Light, 1996; Whittier and Kincaid, 1999; Rahel, 2002),
+because top-down forces can easily affect several trophic levels
+(Strong, 1992; Polis and Strong, 1996). One invasive species
+that is considered to have a serious impact on native
+freshwater organisms is the largemouth bass (Micropterus
+salmoides, Centrarchidae). This is a typical piscivorous fish
+that has been introduced into more than 50 countries from
+North America (Welcomme, 1992) and can dramatically
+change the lake food-web structure (Keast and Webb, 1966;
+Whittier and Kincaid, 1999; Jackson, 2002).
+The species was introduced into Japan in 1925 for the
+purpose of sport fishing and aquaculture (Kaneko and
+Wakabayashi, 1998) and spread throughout the lakes and
+ponds by 2000 (Yodo and Iguchi, 2004). Degradation of fish
+fauna and extinction of several local native fish populations
+occurred after the invasion of largemouth bass in many lakes
+and ponds (Azuma and Motomura, 1998; Maezono and
+Miyashita, 2003; Abekura et al., 2004; Nakai 2004; Yonekura
+et al., 2004; Sugiyama and Jinguji, 2005; Tsunoda et al., 2008).
+The impact of the largemouth bass is especially serious in small
+pond systems (Maezono and Miyashita, 2003; Maezono et al.,
+2005) where the loss of fish species diversity in ponds occurred
+after its invasion (Yonekura et al., 2004; Sugiyama and Jinguji,
+2005; Tsunoda et al., 2008) as seen by the small biomass of
+native fish.
+Thus, programmes to resolve the problem of largemouth
+bass have become increasingly important for conservation and
+restoration of native biodiversity in Japanese freshwater
+systems. The best solution is to prevent introduction of nonnative
+species in the first place, but once introduced,
+eradication might be effective (Myers et al., 2000).
+Programmes have been implemented to eradicate largemouth
+bass and have succeeded in some cases (Ministry of the
+Environment, 2004). Generally, however, fish faunal change
+was not monitored and, hence, the effectiveness of eradication
+was not evaluated. Moreover, it should be noted that
+eradication occasionally results in undesirable changes such
+as reinvasion of the target alien species, negative trophic
+cascade effects, degradation of habitat conditions by exotic
+species, or establishment and/or proliferation of other exotic
+species (Zavaleta et al., 2001).
+The objective of this study was to monitor the change in fish
+fauna in ponds within irrigation systems and evaluate the
+effectiveness of eradicating largemouth bass by comparing
+three types of ponds: bass-dwelling, bass-eradicated and noninvaded
+ponds. Research also focused on other exotic species
+and suggested an eradication and management plan for exotic
+fish in ponds and irrigation systems. Since pond biota is not
+usually monitored and largemouth bass are secretly brought
+into Japan by anglers (Yodo and Iguchi, 2004), there is little
+information about the native fish fauna before the invasion of
+largemouth bass, as well as the period of introduction and
+initial population of introduced bass. Thus, it is difficult to
+grasp the exact impact of largemouth bass on native
+communities. However, by including non-invaded ponds as a
+reference habitat in the study, it was possible to evaluate the
+impact of largemouth bass and the effectiveness of its
+eradication.
+
+xmethods
+The study sites were 11 small farm ponds in Isawa Ward of
+Oshu City, Iwate Prefecture, north-eastern Japan
+(391040–070N, 1411000–030E; Figure 1). The area is in the cool
+temperate zone and the pond surface freezes over in the winter.
+The 11 study ponds are situated within an alluvial fan and are
+surrounded by irrigation channels. The surface area and
+maximum depth of the ponds ranges from 1400 to 8400m2
+(median54050m2) and from 0.6 to 2.9m (median51.2 m),
+respectively. All the ponds are connected to a narrow channel
+(o1m width) and fish are able to migrate from upstream
+channels to the ponds but have difficulty entering from
+downstream because of the dams. Although some of the fish
+species (e.g. loach, Misgurnus anguillicaudatus (Cobitidae))
+temporarily migrate between pond and paddy fields for
+spawning (Mitsuo et al., 2008), most other species, including
+the largemouth bass, inhabit only ponds during their life time.
+Since all the ponds are sited within the same irrigation systems,
+the fish fauna in each pond is likely to be similar in nature. In
+all the study ponds, the bottom substrate is mud and sand, the
+surface area is partly covered with floating plants (Trapa
+japonica, Brasenia schreberi, Nymphoides indica) and there is an
+emergent plant zone (Phragmites australis, Typha spp.) along
+the littoral zone. All the ponds have relatively high turbidity
+(transparency measured by turbidity tube (AT-3; HOGA, Inc.,
+Kyoto, Kyoto, Japan)) is less than 60 cm in each pond) and
+their physicochemical environment appears to be similar. Pond
+management, such as desiccation and macrophyte removal, has
+not been conducted for the last three decades (Oshu City
+administrator, personal communication).
+Although the largemouth bass was introduced into Iwate
+prefecture after the 1990s (Yodo and Iguchi, 2004), the exact
+time of its introduction into the study area/ponds is not known.
+However, since there is no habitat for this species in the
+upstream area, it must have been introduced by anglers within
+the last several years. Largemouth bass were found in six of the
+11 ponds in the area by 2004 (Oshu City administrator, personal
+communication). In the winter of 2004/2005, largemouth bass in
+three of the six ponds were eradicated by drainage and
+desiccation by pond managers, whereas the species still
+inhabits the other three ponds. Thus, three of the ponds were
+bass-dwelling, another three were bass-eradicated and the
+remaining five ponds were never invaded by bass at the
+beginning of the study period. Moreover, another invasive
+alien fish, the rose bitterling Rhodeus ocellatus ocellatus
+(Cyprinidae), inhabits some ponds and channels in the area.
+Surveys were conducted throughout each pond every midsummer
+and late autumn from 2005 to 2009. Fish were
+collected by cast net (4.4m diameter with 12mm mesh size),
+dip net (40 cm diameter with 2mm mesh size) and minnow trap
+(254025 cm with 2mm mesh size). One cast net, two hand
+nets and three minnow traps were used for each sampling.
+Sampling was conducted for 40 min by three researchers in
+each pond. To prevent the demise of sampled fish due to
+anoxia, minnow traps were also used for 40 min and fishing
+bait (Marukyu Co., Ltd, Okegawa, Saitama, Japan) was used
+to compensate for the short saturation time. Sampled fish were
+identified and the number of individuals counted in situ. All
+fish, except for largemouth bass, were released back into the
+same ponds.
+To evaluate the success of restoration activity, it is necessary to
+compare the conditions of the restored sites not only with
+those of the control sites (which are equally degraded, but will
+not be restored) but also with those of the reference sites
+(which have the desired end conditions) (Chapman, 1999;
+Chapman and Underwood, 2000). Referring to the above
+assessment design, the study ponds were categorized into three
+groups as follows: the ‘control group’ is the bass-dwelling
+ponds (n53) in which largemouth bass have not been
+eradicated during the study period; the ‘treatment group’ is
+the bass-eradicated ponds (n53) as of winter 2004/2005 and
+is the target for evaluating the effectiveness of eradication; and
+the ‘reference group’ is the ponds that were never invaded by
+bass (n55) and have the desired fish fauna as the conservation
+goal. Hereafter, the control, treatment and reference groups
+are described as ‘control ponds’, ‘treatment ponds’ and
+‘reference ponds’, respectively. For comparing temporal
+changes of fish fauna among the three groups, the mean
+species richness (total species number) and species diversity
+(Shannon–Wiener diversity index5H’) were calculated in
+each year. In the calculation of species richness and H’,
+largemouth bass was excluded. The mean number of
+individuals for some frequent fish species (consistent
+appearance in more than half the study ponds) was also
+compared among the three groups in each year. For statistical
+analysis, the Kruskal–Wallis test was used for data comparison
+among the three groups and post hoc Scheffe’s multiple
+comparison was used for each combination of two groups.
+Principal component analysis (PCA) was used to determine the
+relationship between pond groups and fish species
+composition. Fish species composition was analysed annually
+using the variable ‘portion of each fish species in each pond’,
+which was calculated as a percentage of the number of
+individuals of each species per total number of all collected
+fish. All statistical analysis of data was conducted using Excel
+Statistics 2008 for Windows (SSRI Co., Ltd).
+
+xresults
+In total, 15 fish species, not including largemouth bass, were
+found during the study period and mean species number
+(range) of control (bass-dwelling), treatment (bass-eradicated)
+and reference (non-invaded) ponds was 3.6 (2–6), 5.8 (2–10)
+and 5.2 (2–9), respectively. Species richness and diversity (H’)
+temporally decreased in the control ponds, whereas it
+increased in the treatment ponds and did not change greatly
+in the reference ponds (Figure 2). Among these, there was a
+significant difference in species richness and H’ only in 2009
+(Kruskal–Wallis test: Po0.05 for both). Moreover, species
+richness in 2009 was significantly different between the control
+and treatment ponds (post hoc Scheffe’s multiple comparison
+after Kruskal–Wallis test: Po0.05). On the other hand, there
+were no significant differences in temporal changes for species
+richness or H’ in each group (Kruskal–Wallis test: n.s. for all).
+Four of 15 species, topmouth minnow Pseudorasbora parva,
+crucian carp Carassius sp. (Cyprinidae), loach
+M. anguillicaudatus (Cobitidae) and freshwater goby
+Rhinogobius sp. OR (Gobiidae), consistently occurred in more
+than half the ponds each year during the study period. Mean
+number of topmouth minnow and freshwater goby in the
+treatment ponds gradually increased during 2005–2007,
+decreased in 2008 and then stabilized to the same level as in
+the reference ponds during 2008–2009 (Figure 3). On the other
+hand, the mean number in the control ponds gradually
+decreased until the two species disappeared in 2007 (topmouth
+minnow) and 2009 (freshwater goby) from all control ponds.
+Mean number was significantly different for the topmouth
+minnow in 2008 and 2009 (Kruskal–Wallis test: Po0.05
+for both) and the freshwater goby in 2007 and 2009
+(Kruskal–Wallis test: Po0.05 for both) among the three
+groups. There was also a significant difference in the mean
+number of freshwater goby between the control ponds and
+treatment ponds (post hoc Scheffe’s multiple comparison after
+Kruskal–Wallis test: Po0.05). Mean number of loach in the
+treatment ponds gradually increased during 2005–2008
+(Kruskal–Wallis test: n.s.), but was the least among the three
+groups. Mean number of crucian carp gradually decreased in
+both the control and treatment ponds, but there were no
+significant differences among the three groups (Kruskal–Wallis
+test: n.s. for all). There were no significant differences in
+temporal changes of number of all fish species in each group
+(Kruskal–Wallis test: n.s. for all).
+Frequency of occurrence of the alien rose bitterling R. o.
+ocellatus among the ponds was 27.3–54.5% (three–six ponds)
+during 2005–2009. Mean number of this species increased
+dramatically only in the treatment ponds, whereas the number
+was quite low in both the control and reference ponds during
+the period (Figure 4). There were significant differences in
+number of species among the three groups in 2007 and 2009
+(Kruskal–Wallis test: Po0.05 for both). However, there were
+no significant differences in temporal changes of number of
+species in each group (Kruskal–Wallis test: n.s. for all).
+As a result of PCA, the first two axes of the principal
+component explained 72.16% of the variables in the data set.
+Principal component 1 (PC1) explained 49.09% and was
+positively related to the loach (PC score: 0.93) and negatively
+related to the topmouth minnow (PC score: 0.82). Principal
+component 2 (PC2) explained 23.07% and was positively
+related to the crucian carp (PC score: 0.88). Fish species
+composition of the control ponds was divided into those in the
+treatment and in the reference ponds by PC1 (Figure 5).
+Furthermore, in the analysis of fish species composition
+between the treatment and the reference ponds, the first two
+axes of the PCA explained 63.87% of the variables. PC1
+explained 40.33% and was positively related to the topmouth
+minnow (PC score: 0.97) and negatively related to the crucian
+carp (PC score: 0.63). PC2 explained 23.55% and was
+positively related to the freshwater goby (PC score: 0.69) and
+the alien rose bitterling (PC score: 0.60) and negatively related
+to the crucian carp (PC score: 0.61). Fish species composition
+between the treatment and the reference ponds was divided by
+PC2 (Figure 6).
+
+
+xdiscussion
+In this study, there were significant differences in fish fauna
+among the three pond groups compared, whereas there were no
+differences in temporal changes of fish fauna in each group. Fish
+species richness and diversity gradually declined and, in
+particular, the number of small-sized Cyprinidae and goby
+species decreased and eventually disappeared in the bassdwelling
+(control) ponds. On the other hand, these species
+were obviously restored in the bass-eradicated (treatment)
+ponds. Previous studies have reported that the impact of
+largemouth bass is particularly serious for cyprinid species
+(Mori, 2004; Nakai, 2004; Sugiyama and Jinguji, 2005; Tsunoda
+et al., 2008) and the fish fauna in ponds is clearly divided into
+cyprinid-dominant and centrarchid-dominant assemblage
+(Tonn and Magnuson, 1982; Rahel, 1984; Whittier and
+Kincaid, 1999). In the study area, eight of the 15 observed
+species were cyprinid fish. Moreover, a characteristic feeding
+habit of largemouth bass in Japanese water bodies is the
+preference for Gobiidae such as certain species of Rhinogobius
+(Yodo and Kimura, 1998; Kuge et al., 2004; Tsunoda et al.,
+2008, 2009), Tridentiger obscurus and R. giurinus (Azuma and
+Motomura, 1998) or T. brevispinis (Tsunoda et al., 2009). In the
+control ponds, species composition was characterized by
+the loach whose population number did not decrease during
+the study period. Thus, it is considered that the impact of
+largemouth bass was relatively smaller on the loach compared
+with other species. Prey selection and predatory success of the
+largemouth bass were influenced by water turbidity (Miner and
+Stein, 1996; Reid et al., 1999; Shoup and Wahl, 2009), because
+this species forages for prey by sight (Crowl, 1989). The study
+ponds had low water transparency and the loach hides in the
+muddy substrate (Miyadi et al., 1976); hence, it is considered
+that the loach is not vulnerable prey for largemouth bass. There
+have been some cases of co-occurrence of alien largemouth bass
+and loach in small ponds (Maezono and Miyashita, 2003;
+Sugiyama and Jinguji, 2005; Tsunoda et al., 2008).
+This study demonstrated the process of restoring fish fauna
+in bass-eradicated (treatment) ponds, but the effectiveness
+varied among species. Moreover, the characteristics of fish
+species composition differed between the treatment and
+reference ponds. Since none of the fish species was
+reintroduced into the treatment ponds after eradication,
+restoring fish fauna depended solely on immigration from
+surrounding channels as a population source (‘passive
+restoration’). Generally, colonization is an important factor
+in both species richness and composition in a patchy habitat
+(MacArthur and Wilson, 1967; Tonn et al., 1990) and species
+composition and abundance are reflected by the pattern of
+source assemblage structure (Snodgrass et al., 1996). In this
+study, even though there was a conspicuous increase in the
+number of topmouth minnow and freshwater goby individuals,
+the number of crucian carp did not change during the period.
+Both topmouth minnow and freshwater goby are widely
+distributed throughout the channels and ponds in the area,
+whereas lentic crucian carp are rarely found in the surrounding
+channels (Mitsuo et al., 2010). Thus, the migration of
+topmouth minnow and freshwater goby is considered to be
+much more likely than that of crucian carp. Moreover,
+topmouth minnow showed a dramatic increase in number
+and tended to easily dominate the community in a non-native
+environment (Britton et al., 2007, 2010), and the alien rose
+bitterling increased dramatically but dominated only in the
+treatment ponds. Since all three species (topmouth minnow,
+rose bitterling and crucian carp) are of similar size and are
+omnivorous nekton, and the freshwater goby is also an
+omnivorous species (Miyadi et al., 1976), it is considered
+that interspecific competition exists among these fish. Hence,
+the ‘prior residence effect’ (Braddock, 1949) might have an
+influence on the migration and establishment of other fish
+species, and eventually on species composition and community
+structure.
+Another species characterizing the fish fauna of the
+treatment ponds was the alien rose bitterling. This species
+also ranged broadly in the area (Mitsuo et al., 2010) and, thus,
+could have migrated from the surrounding channels. In this
+study, the species dramatically increased in number after
+eradication of the largemouth bass. Similar cases have
+occurred in other taxa and ecosystems (Zavaleta et al., 2001)
+as well as in other eradication programmes for largemouth
+bass. For example, Maezono and Miyashita (2004) showed
+that removal of largemouth bass led to restoring the
+population number of native fish but decreased odonate
+species richness in farm ponds, because exotic crayfish
+(Procambarus clarkii), the main prey of largemouth bass,
+dramatically increased in number and adversely affected the
+macrophyte-based habitats and oviposition sites of odonate
+species. Although the impact of alien rose bitterling on native
+species was not clear in the study, competitive exclusion and/or
+hybridization have occurred between the species and native
+endangered bitterlings (Kawamura et al., 2001; Suguro, 2005).
+Since two native endangered bitterlings, Acheilognathus
+melanogaster and A. tabira subsp., appear in the study area
+(Mitsuo et al., unpublished data), measures should be taken to
+prevent the invasion of rose bitterling into their main habitats.
+The results of this study showed the effectiveness of
+eradicating invasive predators in restoring native species
+populations, but also indicated the difficulty of restoring
+‘native’ biota. When the restoration of biota depends on
+recolonization by native species, consideration must be given
+to the environmental conditions of the restored site and
+the mobility of each species and/or distance from colonist
+pools (Palmer et al., 1997; Scott et al., 2001). Furthermore,
+connectivity among habitat patches not only contributes to
+reestablishing the community through colonization of native
+species but also increases the risk of invasion by alien species.
+If recolonization of dominant native species or invasion of
+non-target alien species occurs quickly during the restoration
+process, attempts to achieve the restoration goal might be
+disrupted due to ‘competitive exclusion’ and/or the ‘prior
+residence effect’, as shown in the present study. To ensure
+successful restoration of native biota and avoid undesirable
+results such as invasion, establishment and proliferation of
+non-target alien species, it is necessary to plan and implement
+continuous monitoring and adaptive management after
+eradication of alien predators.

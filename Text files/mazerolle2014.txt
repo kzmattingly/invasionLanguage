@@ -1,0 +1,801 @@
+xabstract
+Invasive plants can substantially modify
+wetland structure and animal distribution patterns. In
+eastern North America, a Eurasian haplotype of the
+common reed (Phragmites australis, haplotype M) is
+invading wetlands. We studied the invasion of common
+reed in freshwater wetlands of an urbanized
+landscape and its effects on the distribution of
+amphibians at different life stages. Specifically, we
+hypothesized that the probability of reed invasion
+would be greatest in wetlands near anthropic disturbances.
+We predicted that the probability of desiccation
+at sampling stations increases with reed cover.
+Furthermore, we expected that wetlands invaded by
+common reed would have lower amphibian abundances,
+apparent survival, and rates of recruitment.
+We conducted trapping surveys to compare anuran
+assemblages of tadpoles, juveniles, and adults in 50
+wetlands during two field seasons. The probability of
+reed invasion in wetlands increased with the cover of
+heavily-managed areas within 1,000 m and the distance
+to the nearest forest, but decreased with the
+length of roads within 1,000 m. The probability of
+station desiccation increased with reed cover. We
+found no evidence of a negative effect of reed presence
+on anuran population parameters, at any life stage.
+Landscape variables, such as the percent cover of
+forest or heavily-managed areas within a given radius
+from each wetland, influenced the abundance or the
+apparent survival of juvenile frogs and the abundance
+of ranid tadpoles. Our results show that amphibian
+patterns depend more strongly on the structure of the
+landscape surrounding wetlands than on exotic reed
+invasion in wetlands.
+
+xintroduction
+Invasions by exotic species can substantially alter
+biotic communities and ecosystem functions (Drake
+et al. 1989; Gurevitch and Padilla 2004; Davis 2009).
+Wetlands are a case in point, where exotic invasive
+plants can alter water regimes, the structure, and
+functions of such ecosystems (Macdonald et al. 1989;
+Meyerson et al. 1999). Invasive plants monopolize
+space and nutrients, excluding native flora and fauna
+(Lockwood et al. 2001; Kercher and Zedler 2004;
+Zedler and Kercher 2004). Exotic plant invasion can
+reduce the abundance of fish (Able and Hagan 2000),
+invertebrates (Cheruvelil et al. 2002; Canhoto and
+Laranjeira 2007), and disturb amphibian larval development
+and behavior (Maerz et al. 2005a; Watling
+et al. 2011a; Cotten et al. 2012). Among invasive
+plants, the common reed (Phragmites australis) has
+been the focus of recent investigations in brackish and
+freshwater wetlands.
+The Eurasian haplotype of common reed (P.
+australis, haplotype M) is one of the most aggressive
+exotic plants in North America. This large perennial
+grass occurs in colonies containing up to 325 stems/m2
+(League et al. 2007). The range expansion of common
+reed is largely associated with anthropogenic activity
+(Chambers et al. 1999; Saltonstall 2002). The ecological
+impacts of common reed invasion are varied. Its
+rapid growth and high organic sediment accumulation
+rate alterwetland hydrology and ecosystemfunctions as
+well as physical and biogeochemical processes (Meyerson
+et al. 1999; Windham and Lathrop 1999; Rooth
+et al. 2003). The effect of the common reed on animal
+communities is less straightforward than on plants.
+Studies have documented both positive and negative
+effects of reed establishment on invertebrates, fish, or
+birds (Benoit and Askins 1999; Talley and Levin 2001;
+Warren et al. 2001). To date, research on amphibians in
+the context of reed invasion or other exotic plants has
+almost exclusively focused on larval development
+(Maerz et al. 2010; Cohen et al. 2012; Rogalski and
+Skelly 2012, but see Maerz et al. 2005b and Watling
+et al. 2011b).
+Wetland-breeding amphibians are among the vertebrates
+most likely to be influenced by reed invasion.
+First, wetland-breeding amphibians have a biphasic
+life cycle with important morphological and physiological
+changes (Wilbur 1980). Second, amphibians
+maintain a close relationship with aquatic environments
+and the surrounding terrestrial habitats (Sinsch
+1990; Pope et al. 2000). The epidermis of amphibians
+is permeable and must remain moist to allow gas and
+water exchanges (Thorson and Svihla 1943; Thorson
+1955). Third, landscape composition (i.e., type and
+quantitity of suitable habitat) and lanscape configuration
+(e.g., patch arrangement, habitat fragmentation)
+influence the connectivity between the different habitats
+necessary to complete amphibian life cycles
+(Semlitsch 2002; Mazerolle et al. 2005). Consequently,
+a reduction in quality of either terrestrial or
+aquatic habitats can potentially lower amphibian
+reproductive success and limit successful colonization
+(Semlitsch 2002). Reed invasion entails major
+changes in wetlands (Meyerson et al. 1999). These
+changes might also influence amphibian distribution
+in the landscape.
+In this study, we assess the importance of anthropic
+disturbances on reed invasion in wetlands. We also
+evaluate the impact of local and landscape characteristics
+on amphibian abundance dynamics at different
+life stages, after accounting for detection probability.
+Here, we define local characteristics as variables at the
+wetland scale such as wetland size or presence of
+common reed. Landscape characteristics relate to
+either landscape composition (e.g., cover of certain
+habitat within a given radius) or landscape configuration
+(e.g., distance to a given habitat). In these
+assessments, we contrasted forest patches against
+areas undergoing heavily-managed land uses such as
+residential areas, parking lots, roads, and agriculture.
+We hypothesized that (a) reed invasion increases with
+heavily-managed areas, (b) an increase in reed cover
+decreases habitat quality by increasing desiccation
+rate, (c) amphibian habitat use is negatively influenced
+by reed invasion with the strongest effects on early
+developmental stages.
+
+xmethods
+Study area
+We conducted most of our study within a 50 kmradius
+of the city of Montre´al, Que´bec, Canada, in the
+mixedwood plains ecozone (Fig. 1). The climate is
+wet and defined by warm to hot summers and cool
+winters with an average year temperature of 6.2 C and
+total precipitations of 979.1 mm (Environment Canada,
+http://climate.weatheroffice.gc.ca/). We targeted
+50 wetlands within our study area, 25 of which were
+invaded by the exotic P. australis. These wetlands
+consisted of ponds, marshes, swamps, and oxbow
+ponds. Because relatively undisturbed and uninvaded
+sites were difficult to find within the parks of the city of
+Montre´al, we also considered seven uninvaded wetlands
+from the Plaisance National Park (ca. 110 km
+away) to reach our goal. With these constraints, we
+selected wetlands randomly within our study area.
+Wetlands ranged in area between 0.08 and 3 ha, and
+were separated by a minimum of 500 m. We chose this
+distance to ensure independence among sites as the
+amphibian species in our study have low dispersal
+abilities (see ‘‘Species under study’’ section below).
+Wetlands were surrounded by different environments,
+either deciduous forest, agricultural fields, roads, or
+urbanized lands (e.g., parking lots, residential areas).
+Species under study
+Nine anuran species occur in the study area: northern
+leopard frog (Lithobates pipiens), wood frog
+(Lithobates sylvaticus), bullfrog (Lithobates catesbeianus),
+green frog (Lithobates clamitans), pickerel frog
+(Lithobates palustris), American toad (Anaxyrus
+americanus), gray treefrog (Hyla versicolor), spring
+peeper (Pseudacris crucifer), and the western chorus
+frog (Pseudacris triseriata). At our latitude, most of
+these species breed between April and August (Wright
+and Wright 1949; Desroches and Rodrigue 2004). The
+amphibians in our study are semi-aquatic species, and
+require a terrestrial core area adjacent to the wetland to
+forage, breed, disperse, or overwinter (Semlitsch
+2008). The habitat used by frogs can extend to a mean
+maximum radius buffer of 368 m around breeding
+wetlands (Martof 1953; Dole 1965; Semlitsch and
+Bodie 2003). Studies on some of the above-mentioned
+species reported migration and dispersal distances
+rarely exceeding 1 km (Dole 1968; Dole, 1971; Berven
+and Grudzien 1990; Dodd 1996).
+Amphibian sampling
+Each wetland was sampled at several fixed stations
+along its perimeter. The number of stations increased
+with wetland area. We established two sampling
+stations for the first 25 m2 and added a station
+whenever the wetland surface doubled (Adams et al.
+1997). Sampling stations were positioned on the
+wetland perimeter from a random selection in ArcGIS
+9.3 (ESRI 2008) with the condition that adjacent
+stations had to be separated by at least 30 m. For the
+two smallest sites (\0.27 ha), we prioritized the
+minimum distance between sampling stations rather
+than the effort. Based on these rules, we established a
+total of 455 sampling stations, each wetland having
+between 4 and 11 sampling stations (average of 9.1 per
+wetland). We sampled anurans using minnow traps
+(Adams et al. 1997).
+We determined the life stage of all individuals
+trapped: adult, juvenile, and tadpole. We considered
+an individual as a juvenile if it had metamorphosed
+during the field season in which it was captured. We
+based our classification of juvenile or adult on the
+known minimal size of the different species in our
+study area (Desroches and Rodrigue 2004). Traps
+were set at the call stations described above for two
+consecutive days. We monitored traps each morning to
+record and release captured animals. At each trap, we
+identified adults and juveniles to species, whereas
+tadpoles were identified to family. We noted the
+minimum temperature of the night before each data
+collection, obtained from Environment Canada (http://
+climate.weatheroffice.gc.ca).
+We conducted one trapping session of two consecutive
+days in each of the 2009 and 2010 field seasons
+(21 July 2009–15 August 2009, 18 June 2010–15 July
+2010). Sites within a geographical region were visited
+in a random sequence in any given season. With the
+repeated visits from this design, we could estimate the
+influence of wetland and landscape-scale variables on
+abundance and associated dynamic parameters after
+accounting for imperfect detection probability (Royle
+and Dorazio 2008; Dail and Madsen 2011).
+Pond and landscape variables
+We measured different variables at the wetlands. We
+used releve´s to estimate the percent cover of common
+reed and cattail (Typha latifolia, T. angustifolia, and
+possibly Typha x glauca) at each wetland and at every
+amphibian sampling station (see ‘‘Amphibian sampling’’
+section). Most of the Typha were Typha
+angustifolia L. (narrow-leaved cattail), but some were
+occasionally mixed with Typha latifolia L. (broadleaved
+cattail). Many individuals showed intermediate
+characters, suggesting hybridization (Typha x glauca
+Godr.). Identification to species (or hybrid) without
+genetic analysis is virtually impossible for some
+intermediate plants. For the purposes of the study,
+we grouped all Typha irrespective of species. We also
+considered the percent cover of emergent plants,
+excluding cattail and reed. Vegetation sampling
+occurred during the summer of 2009, when the aerial
+structures of the species were well developed and easy
+to observe. We recorded hydroperiod data at each
+station (i.e., water present or absent) during the funnel
+trapping sessions.
+To assess the effect of landscape structure on
+amphibian patterns, we computed landscape metrics in
+a geographic information system using ArcGIS 9.3
+(ESRI 2008). We obtained spatial data from Natural
+Resources Canada, the Que´bec Ministry of Natural
+Resources, and wetland cartographies of Ducks
+Unlimited Canada. Based on amphibian movement
+distances, we created buffers of 100, 500, and 1,000 m
+around each wetland. We extracted the landscape
+cover data for forest, water, and heavily-managed
+areas. Heavily-managed areas consisted of residential
+areas, parking lots, agricultural fields, and roads. We
+also computed the total length of roads within the
+above-mentioned buffers. We measured the distance
+from each wetland to the nearest forest, water, and
+heavily-managed area.
+Statistical analyses
+In all the analyses, we used a model selection and
+multimodel inference approach based on the secondorder
+Akaike information criterion (AICc; Burnham
+and Anderson 2002). We checked the collinearity
+among numeric variables and did not include any
+variables with a Pearson |r|[0.7 in the same model.
+To avoid problems of model convergence, we centered
+numeric variables by subtracting the mean from each
+value before analysis (Kleinbaum et al. 1998). All
+analyses were performed in R 2.15.2 (R Core Team
+2012). We computed AICc, delta AICcðDiÞ, Akaike
+weights (wi) as well as model-averaged parameter
+estimates ð^ bÞ with the AICcmodavg package (Burnham
+and Anderson 2002; Mazerolle 2012). We present
+the analytical approach along with the candidate
+models used to test our biological hypotheses for each
+of our data sets in the following sections.
+Probability of reed invasion
+We used classic logistic regression to estimate the
+probability of reed invasion in the wetlands (assessed
+in 2009) as a function of local wetland characteristics,
+landscape cover and configuration variables. We
+formulated 16 models. These included a null model
+(intercept only), a wetland area and cattail cover
+model, a configuration model, as well as a natural
+cover model and anthropic cover model (Table 1).
+Other models combined wetland variables with either
+landscape cover or configuration variables. We
+repeated the 16 models for each of the three spatial
+scales considered (Table 1). Model fit was assessed
+with the Hosmer and Lemeshow as well as the Le
+Cessie and van Houwelingen goodness-of-fit tests
+(Hosmer and Lemeshow 1989; Le Cessie and van
+Houwelingen 1991).
+Probability of station desiccation
+We assessed the effect of different variables on the
+probability of desiccation at the sampling stations
+throughout the two field seasons using logistic
+regression with random intercepts (Zuur et al. 2009).
+Here, we treated each wetland and station nested
+within wetland as randomeffects. For this analysis, we
+considered five candidate models that consisted of: (1)
+the percent cover of reed, Julian date, and sampling
+year (hereafter, the main effects model), (2) main
+effects with interaction between reed cover and Julian
+date, (3) main effects with interaction between reed
+cover and year, (4) main effects with interaction
+between Julian date and year, (5) a null model with
+random intercepts (no fixed effects). Parameters were
+estimated with the Laplace approximation to the
+likelihood in R with the lme4 package (Bates et al.
+2012).
+Amphibian abundance dynamics
+Our trapping data followed a robust design where each
+sampling season was considered a primary period, and
+with two secondary periods (nights) within each
+primary period (e.g., Pollock 1982). We used dynamic
+N-mixture models (Dail and Madsen 2011) to estimate
+the abundance of the initial year (k2009), the
+recruitment rate (c), the apparent survival probability
+(x), and the detection probability of individuals (p).
+Here, apparent survival denotes the complement of
+emigration and mortality. This approach consists in
+using counts of unmarked individuals collected in a
+given season at a suite of sites. Dynamic N-mixture
+models estimate the abundance at each site, as well as
+parameters describing changes in abundance across
+seasons (i.e., c and x), after accounting for imperfect
+detectability. Our model assumes that the abundance
+at a site does not change between the two consecutive
+nights of trapping in a given season, and that the
+abundance, the rate of recruitment, as well as the
+probabilities of apparent survival and detection are
+modeled appropriately with covariates. The model
+also assumes that detections within each site are
+independent across visits, and that the abundance
+follows a Poisson distribution.
+We tallied the total number of individuals captured
+for each life stage and species (or family for tadpoles)
+across all sampling stations of a given site on a given
+day. These counts formed the data in the N-mixture
+models. We analyzed data separately for adults and
+juveniles of each species. For each species, we
+formulated 19 hypotheses involving wetland characteristics
+and landscape variables on abundance, recruitment,
+and apparent survival (Table 2). To minimize
+the number of parameters estimated, we considered the
+following scenarios on either abundance, recruitment
+rate, or apparent survival: (1) additive effects of reed
+presence and wetland area (wetland additive model),
+(2) interactive effects of reed presence and wetland
+area (wetland interaction model), (3) landscape configuration
+model, (4) landscape cover within 100 m,
+(5) landscape cover within 500 m, and (6) landscape
+cover within 1,000 m. The landscape configuration
+model included the distance of each wetland relative to
+the closest forest, water, and heavily-managed areas
+(agricultural, urban, or road). Landscape composition
+models included the cover of forest habitat and that of
+heavily-managed areas (agricultural and urban cover
+combined) within a given radius of the three radii (e.g.,
+100, 500, and 1,000 m).
+For each scenario on the demographic parameters
+described above, we tested three hypotheses on
+detection probability (p): (1) additive effects of
+sampling effort (number of sampling stations at a
+given wetland), minimum air temperature on the night
+before trap checking, and year, (2) additive effect of
+minimum air temperature and interactive effects of
+effort and year, (3) additive effect of sampling effort
+and interactive effects of minimum air temperature
+and year. Thus, we considered 57 models to test our
+hypotheses (i.e., 19 scenarios on population parameters
+9 three scenarios on detectability). Reviewers
+suggested to include models with the effects of
+precipitation on detection probability. To address
+reviewer concerns, we obtained total precipitation
+24 h before trap checking from Environment Canada
+(http://climate.weatheroffice.gc.ca). We included this
+variable on three new scenarios (i.e., 57 models) on
+detection probability: (1) additive effects of sampling
+effort, total precipitation 24 h before trap checking,
+and year, (2) additive effect of total precipitation and
+interactive effects of effort and year, (3) additive effect
+of sampling effort and interactive effects of total
+precipitation and year. We contrasted these models
+against a null model that considered all parameters
+constant (k c x p).
+Ranid tadpoles were analyzed as a single group as
+they could not be identified to species in the field.
+Tadpoles captured in our traps were of size classes
+near metamorphosis. We modeled their abundance
+assuming complete turnover between the 2 years. This
+assumption seemed appropriate in our case as tadpoles
+reaching metamorphosis are not available for capture
+as tadpoles the next year.We implemented this model
+by using single season N-mixture models (Royle
+2004), where we modeled abundance with a zeroinflated
+Poisson distribution. In this case, we included
+a year factor on abundance in all models. We
+considered the same scenarios on abundance and on
+detection probability as for the adult and juvenile
+analyses above. We also included a null model with
+both abundance and detectability constant, for a total
+of 19 models (Table 2).
+We tested the fit of the top-ranked N-mixture
+models with a parametric bootstrap approach based on
+the v2 statistic and 5,000 bootstrap samples. Parameter
+estimates were obtained by maximum likelihood using
+the unmarked package (Fiske et al. 2012) and model
+selection was implemented with the AICcmodavg
+package (Mazerolle 2012).
+
+
+xresults
+
+
+xdiscussion
+Forty-five wetlands (91 %) retained water during our
+sampling seasons, although some sampling stations
+dried up. Reed cover in invaded wetlands ranged
+between 1 and 64 %, with a mean ± SD of
+27.8 ± 18.7 %. Cattail covered 0–93.4 % of wetland
+surface area. Forest and water cover around wetlands
+in buffers of 100, 500, and 1,000 m, ranged between
+8.9 and 100 %, whereas the cover of heavily-managed
+areas in these buffers ranged from 0 to 91.1 %. The
+distance between heavily-managed areas and wetlands
+varied between 0 and 356 m. In contrast, forested
+areas were between 0 and 1,085 m from wetlands.
+Probability of reed invasion
+There was no indication of lack of fit for the models.
+Both the Hosmer and Lemeshow and Le Cessie and van
+Houwelingen tests produced P[0.11. There was
+considerable model selection uncertainty among the
+reed invasion models, with four models having Di\2.
+The highest-ranked model consisted of the length of
+roads and cover of heavily-managed areas within
+1,000 m of the wetland and was followed very closely
+by a second model combining the same two variables
+with wetland area and cattail cover (Table 3). The
+third-ranked model consisted of the distance to
+landscape elements, whereas a fourth model included
+the wetland area and cattail cover. The probability of
+reed invasion in wetlands marginally increased with
+the cover of heavily-managed areas within 1,000 m
+(^ b ¼ 2:94; 95%CI : 0:03; 5:91; Fig. 2a), but
+decreased with the length of roads within 1,000 m
+(^ b ¼ 0:08; 95%CI : 0:16; 0:01; Fig. 2b). The
+probability of reed invasion also tended to increase
+with the distance to the nearest forest
+(^ b ¼ 3:76; 95%CI : 0:31; 7:84; Fig. 2c). In contrast,
+reed invasion probability did not vary with
+wetland area, cattail cover, distance to nearest heavilymanaged
+area, and distance to nearest water.
+We predicted that reed invasion would increase
+with anthropic disturbances such as habitat loss
+through urban expansion. The probability of reed
+invasion in a wetland increased with the percent cover
+of heavily-managed areas within 1,000 m. This result
+was consistent with our hypothesis. Similarly, Chambers
+et al. (1999), Bart et al. (2006), and Silliman and
+Bertness (2004) noted that common reed is closely
+associated with areas undergoing anthropic disturbances.
+We also observed that the probability of reed
+invasion increased with the distance to the nearest
+forest. Shoreline areas where woody vegetation has
+been removed tend to have greater cover of common
+reed (Silliman and Bertness 2004). Common reed is a
+wetland species thriving in open areas, and there is
+evidence that trees can impose barriers to reed
+dispersal (Brisson et al. 2010). Our results support
+the latter hypothesis.
+Surprisingly, we found that the probability of reed
+invasion decreased with increasing length of roads
+within 1,000 m. This result was unexpected, because
+reeds disperse along road corridors (Lelong et al.
+2007; Brisson et al. 2010). The type of road, road
+width, and surface deposit may also influence the
+occurrence of common reed along roads, with a
+greater probability of reed establishment along highways
+(Lelong et al. 2009). In our case, we did not
+record data on the previously-mentioned road
+attributes, which could explain the discrepancies we
+report.
+Probability of desiccation
+Out of the 455 sampling stations, 126 dried at least
+once during our two sampling seasons. There were
+similar amounts of precipitations and mean temperatures
+during the two field seasons (339 mm and
+18 C in 2009, 379 mm and 20 C in 2010). The
+model with the interaction between year and date
+had the entire support (Table 3). The probability of
+the station drying out increased with reed cover
+ð^ b ¼ 1:87; 95%CI : 0:47; 3:28Þ. Furthermore, the
+probability of desiccation increased with Julian date
+in 2010, but did not vary with Julian date in 2009
+ð^ b ¼ 0:04; 95%CI : 0:03; 0:06Þ.
+We predicted that increasing reed cover would
+reduce habitat quality by increasing the desiccation
+rate at sampling stations. As expected, the probability
+of desiccation at a station increased with the reed
+cover. Our results are consistent with Chambers et al.
+(1999). Common reed has a high transpiration rate
+which can decrease the water level (Burba et al. 1999;
+Windham and Lathrop 1999). A reduction in water
+level would primarily influence tadpole development,
+as shortening the hydroperiod can reduce the time to
+metamorphosis (Laurila and Kujasalo 1999). Early
+metamorphosis at a smaller size can induce a lower
+post-metamorphic survival rate compared to development
+under longer hydroperiods (Laurila and Kujasalo
+1999; Altwegg and Reyer 2003).
+Abundance dynamics
+We captured an average of 15.3 and 14.9 anurans
+(adults and juveniles) per 100 trap nights in 2009 and
+2010, respectively, where one trap night equates to one
+trap open for one night. We caught potential predators
+of amphibians including fish, leeches, giant water bugs
+(Belostoma sp.), diving water beetles (Dytiscus sp.),
+dragonfly larvae (Aeshna sp.), and water scorpions
+(Ranatra fusca). Due to the high aquatic predator
+occurrence and low variability among wetlands
+(80–96 % of the wetlands), we could not include
+these variables in our analyses.
+We trapped an average of 89.8 and 47.1 ranid
+tadpoles per 100 trap nights in 2009 and 2010,
+respectively. Most of the anurans captured were green
+frogs and leopard frogs. No American toads or western
+chorus frogs were caught. Green frog and leopard frog
+captures were sufficient to attempt analyses for each of
+their life stages (tadpoles, juveniles, and adults). Our
+goodness-of-fit test with 5,000 iterations indicated that
+N-mixture models fit the data for most groups
+(P between 0.24 and 0.26), except for adult leopard
+frogs and juvenile green frogs for which the fit was
+marginal (P = 0.06 and 0.04, respectively).
+For most groups, models including landscape-scale
+variables on population parameters ranked as well or
+higher than those with wetland-scale variables
+(Table 4). The effect of landscape variables on
+abundance and vital rates varied across groups. The
+highest-ranked models for juvenile green frogs included
+the effect of landscape cover on annual apparent survival
+and constant abundance and recruitment rate. Annual
+apparent survival of juvenile green frogs increased with
+the cover of heavily-managed areas within 500 m
+ð^ b ¼ 18:22; 95%CI : 2:27; 34:17; Fig. 3a). For adult
+green frogs, the top-ranked models consisted of
+wetland characteristics on abundance with constant
+recruitment rate and annual apparent survival
+(Table 4). The abundance of adult green frogs in
+2009 was greater in wetlands invaded by reeds than in
+wetlands without reeds ð^ b ¼ 1:17; 95%CI : 0:29;
+2:05; Fig. 3b). Furthermore, the abundance of adult
+green frogs in 2009 decreased with increasing wetland
+area ð^ b ¼ 1:72; 95%CI : 3:32;0:13; Fig. 3c).
+The top-ranked models for juvenile leopard frogs
+consisted of landscape cover within 100 m on the
+abundance of the first year, and constant rate of
+recruitment and apparent annual survival (Table 4).
+The abundance of juvenile leopard frogs in 2009
+decreased with increasing forest cover within 100 m
+ð^ b ¼ 1:69; 95%CI : 2:98;0:39; Fig. 3d) and the
+cover of heavily-managed areas within 100 m
+(^ b ¼ 2:41; 95%CI : 3:78;1:04; Fig. 3e). The
+top-ranked model for adult leopard frogs consisted
+of landscape cover variables within 500 m on recruitment
+rate, with constant abundance and apparent
+survival. However, this model was followed closely by
+the null model (Di ¼ 1:61, Table 4). None of the
+population parameters of adult leopard frogs varied
+with the variables we considered.
+For ranid tadpoles, the model consisting of landscape
+cover within 500 m on abundance was the most
+parsimonious and had almost all of the support
+(wi = 0.91, Table 4). The abundance of this group
+increased with the amount of forest cover within
+500 m (^ b ¼ 2:35; 95%CI : 1:79; 2:90; Fig. 4a) and
+the cover of heavily-managed areas within 500 m
+(^ b ¼ 3:39; 95%CI : 2:86; 3:92; Fig. 4b). The abundance
+of ranid tadpoles was greater in 2010 than 2009
+ð^ b ¼ 0:87; 95%CI : 0:02; 1:75Þ.
+We hypothesized that amphibian abundance and
+vital rates in wetlands would be lower in the presence
+of common reed. In a recent review, Martin and
+Murray (2011) predicted that the establishment of
+exotic plants could negatively impact anuran habitat
+use, species diet and interactions, and reproductive
+success. However, we found no negative effects of
+reed presence on the demographic parameters we
+considered. In fact, the abundance of adult green frogs
+in 2009 was greater in wetlands invaded by reed than
+in wetlands without reed. In an observational field
+study, Meyer (2003) observed amphibian juveniles
+and adults in reed stands, but did not detect tadpoles in
+these habitats. In our case, we detected all life stages at
+capture stations among reed stands.
+Cohen et al. (2012) observed no differences in the
+development of tadpoles reared in habitats dominated
+by either native plants or exotic plants including
+common reed. Two field studies focusing on adult
+amphibians report negative effects of invasive plant
+species. Watling et al. (2011b) report lower amphibian
+species richness in plots invaded by Lonicera
+maackii than in uninvaded plots, potentially related to
+low temperatures induced by the presence of L.
+maackii. Maerz et al. (2005b) observed that the
+invasive Japanese knotweed (Fallopia japonica)
+reduces foraging success of adult L. clamitans.
+Based on the reports published so far, common reed
+invasion would mostly influence the larval period.
+Indeed, Perez et al. (2013) observed that wood frog (L.
+sylvaticus) tadpoles developped more slowly under
+medium and high reed densities than under a control.
+This negative effect might be offset by the reduction of
+the water level by common reed, though it remains to
+be confirmed. The results from our observational study
+oppose those of experiments conducted with tadpoles
+in mesocosms or field cages. In a study of nine wetland
+plant species, Cohen et al. (2012) reported negative
+impacts of certain plant traits, namely soluble phenolics
+and litter C:N ratio, on the larval development of
+three anuran species. These traits were independent of
+plant origin (native or exotic). In contrast, Rogalski
+and Skelly (2012) reported positive effects of reed
+litter on bullfrog larval development. The discrepancies
+between manipulative experiments and our own
+study suggest that reed presence has a weak effect
+relative to other wetland characteristics or landscape
+variables.
+With a single exception, wetland-scale characteristics
+had weak effects on amphibian variables in our
+study. The abundance of adult green frogs in 2009
+decreased with increasing wetland size. Some authors
+report that amphibian presence increases with pond
+size (Laan and Verboom 1990; Bradford et al. 2003;
+Hamer and Mahony 2010), whereas others indicate a
+negative relationship (Knutson et al. 2004). Amphibian
+species richness, occupancy, and abundance can
+vary with a number of wetland variables such as water
+body depth and vegetation cover (Knapp et al. 2003;
+Knutson et al. 2004; Pearl et al. 2005; Hamer and
+Parris 2011). The presence of aquatic predators can
+also influence amphibian patterns, but often varies
+with the type of predator (Babbitt et al. 2003; Porej
+and Hetherington 2005; Shulse et al. 2013). Unfortunately,
+the high occurrence of fish and invertebrate
+predators in our wetlands precluded their inclusion in
+our analyses. The weak relationships of amphibian
+demographic parameters and wetland-scale variables
+might be due to the high urbanization in our landscape.
+However, this should be substantiated with a formal
+evaluation of interactive effects by considering landscapes
+with different levels of urbanization.
+Landscape cover influenced the abundance or vital
+rates of three groups. Ranid tadpole abundance
+increased with the proportion of forest cover around
+a wetland. This suggests that forest habitat in the
+landscape promotes the recruitment of ranid tadpoles.
+Forest habitat in the vicinity of the wetland may
+facilitate individual movements to wetlands, as juveniles
+of certain species are more likely to move toward
+forest than open-field habitats (Rothermel and Semlitsch
+2002). No adult or juvenile parameter increased
+with forest cover in our study, although other studies
+report a positive association between occurrence of
+pond-breeding species and forest cover or forest
+proximity (Hecnar and M’Closkey 1998; Guerry and
+Hunter 2002; Weyrauch and Grubb 2004; Hamer and
+Parris 2011).
+Species responded differently to the cover of
+heavily-managed areas around wetlands. The apparent
+survival of juvenile green frogs increased with the
+cover of heavily-managed areas within 500 m of the
+wetland. The abundance of ranid tadpoles followed a
+similar pattern. In contrast, the abundance of juvenile
+leopard frogs in 2009 decreased with increasing cover
+of forest and heavily-managed areas within 100 m.
+Heavily-managed environments in our study consisted
+of residential areas, agricultural fields, and roads.
+Amphibian distribution is influenced by environmental
+variables such as the availability of breeding,
+foraging, and overwintering areas (Wilbur 1980;
+Semlitsch 2002). The quantity, accessibility, and
+suitability of these habitats also determine amphibian
+population structure (Semlitsch 2002). Hostile
+environments in the landscape, such as those encountered
+in urbanized landscapes, can hinder movements
+of individuals (Rothermel 2004; Mazerolle and Desrochers
+2005; Mazerolle and Vos 2006). For instance,
+roads or urban areas pose barriers to juvenile dispersal
+and adult seasonal migrations (Marsh et al. 2005;
+Andrews et al. 2008; Bouchard et al. 2009). Similarly,
+Knutson et al. (1999) and Hamer and Parris (2011)
+reported that anuran species richness decreased with
+the presence of urban areas or the density of
+residences. The expansion of heavily-managed areas
+in the vicinity of wetlands may concentrate individuals
+in wetlands in the short term, while reducing genetic
+diversity in the long term, though this remains
+speculative and should be tested formally.
+Nonetheless, increasing road density ultimately lowers
+amphibian occupancy, abundance, and genetic
+diversity (Fahrig et al. 1995; Vos and Chardon 1998;
+Vos et al. 2001).
+Adults and juveniles are the most mobile amphibian
+life stages. We expected that these life stages would
+respond to landscape-scale variables more strongly
+than tadpoles. Unexpectedly, we found that juveniles
+and tadpoles responded to landscape characteristics,
+but not adults. The juvenile stage is associated with
+dispersal and long-distance colonization events,
+although generally shorter than 10 km (Dole 1971;
+Berven and Grudzien 1990; Semlitsch 2008). Furthermore,
+juveniles lose water more rapidly than adults
+(Thorson 1955). Our results suggest that the landscape
+is more permeable to adult than juvenile movements.
+This is consistent with higher rates of evaporative
+water loss and greater dispersal distances than adults.
+However, the interpretation of landscape variables on
+tadpoles is more problematic and may reflect indirect
+effects on adults. For instance, adults may have higher
+reproductive outputs when forest cover within 500 m
+is high, but further investigation on this issue is
+warranted.
+Detection probability
+The detection probability of juvenile green frogs was
+greater in 2010 than in 2009 (^ b ¼ 1:28; 95%CI :
+0:13; 2:43, Fig. 5a) and marginally increased with
+precipitation in the previous 24 h (^ b ¼ 0:05; 95%CI :
+0:005; 0:096, Fig. 5b). However, detection probability
+of the group did not vary with sampling effort or
+minimum air temperature. The detection probability
+of adult green frogs increased marginally with
+sampling effort (^ b ¼ 0:23; 95%CI : 0:02; 0:48,
+Fig. 5c), but did not vary with any other variable.
+The detection probability of juvenile leopard frogs
+increased with sampling effort, but its effect was
+weaker in 2010 than 2009 (year  effort interaction;
+^
+b ¼ 0:91; 95%CI : 1:60;0:21, Fig. 5d). Despite
+this interaction, detection probability was substantially
+higher in 2010 than 2009 (^ b ¼ 2:7; 95%
+CI : 0:49; 4:91). The probability of detection of juvenile
+leopard frogs increased with the amount of
+precipitation in the previous 24 h (^ b ¼ 0:15; 95%
+CI : 0:00; 0:30, Fig. 5e), but did not vary with air
+temperature. Detectability of adult leopard frogs did
+not vary with any of the sampling covariates we
+considered. The detection probability of tadpoles
+increased with minimum air temperature in 2010,
+but did not vary with the variable in 2009 (^ b ¼
+0:26; 95%CI : 0:17; 0:36, Fig. 5f). Detection probability
+of the group did not vary with precipitation on
+the previous day or sampling effort.
+The probability of detection varied with sampling
+year, minimum air temperature within 24 h, total
+precipitation within 24 h, and sampling effort for
+some species. Weather variables influence amphibian
+breeding activity (Obert 1976; Oseen and Wassersug
+2002; Steen et al. 2013) and our reported effect of air
+temperature on detectability (i.e., capture) is consistent
+with such patterns. As we expected, the effect of
+some variables on detectability varied with year, as
+was the case of air temperature for ranid tadpoles and
+juvenile leopard frogs. We included covariates known
+to influence detectability to improve estimates of
+abundance, recruitment, and apparent survival (Mac-
+Kenzie et al. 2006, Royle and Dorazio 2008).
+Detectability in our study was a nuisance parameter,
+in the sense that it must be included in the
+analysis, while not being the focus of the analysis. In
+our case, abundance dynamics were the focus of our
+study. During a sampling event in the field (e.g., trap
+open for 24 h), some individuals are likely missed
+(Williams et al. 2002). As a result, counts provide a
+minimum number of individuals present at a site
+during the sampling period. Counts are difficult to
+compare across sites without making strong assumptions
+about detectability being constant across habitat
+type, sites, season, weather conditions, sex, or sampling
+method (Anderson 2001; Mazerolle et al. 2007).
+This problem has been addressed by a large class of
+models in animal ecology. For example, capture–
+mark–recapture, distance sampling, and site occupancy
+models estimate the biological parameters of
+interest after having accounted for imperfect detectability
+or capture probability (Mazerolle et al. 2007;
+Williams et al. 2002). Such approaches provide better
+estimates than methods assuming that detectability is
+constant, allowing one to compare population parameters
+across studies, species, and habitats (Mazerolle
+et al. 2007; Williams et al. 2002).
+Conclusion
+Wetlands in the vicinity of heavily-managed areas
+were more likely to be invaded by common reed. The
+probability of desiccation at stations increased with
+the percent cover of reed. However, we found no
+negative effect of reed invasion on the distribution of
+amphibian tadpole, juvenile, or adult life stages in our
+urbanized landscape. The abundance or vital rates of
+juvenile green frogs, juvenile leopard frogs, and ranid
+tadpoles varied with the amount of forest cover and
+heavily-managed areas within 100 and 500 m. In the
+context of plant invasion, the landscape surrounding
+breeding wetlands had a greater influence on amphibian
+patterns than the invasion of common reed and
+wetland characteristics. The more important drivers of
+population dynamics in our system may be reproductive
+output and movements of juveniles and adults
+outside wetlands, rather than reed invasion.

@@ -1,0 +1,351 @@
+xabstract In many aquatic ecosystems benthic invertebrate abundance has increased following
+zebra mussel (Dreissena polymorpha) invasion. We examine the impact of zebra mussel density on the
+abundance and distribution of benthic invertebrates and postulate refuge from predation as a mechanism
+for the increases we found in some taxa. Benthic invertebrates in zebra mussel druses and in adjacent
+sediment samples were surveyed at sites in six locations representing various trophic conditions in lower
+Green Bay. Mean invertebrate density and taxa richness were significantly higher in the druses than in
+the adjacent sediment. Species diversity in the druses was inversely correlated to turbidity over the study
+area. Sediment samples were dominated by oligochaetes and chironomids. Amphipods were the most
+abundant taxa in most, but not all, of the druse samples. Other taxa present included leeches, hydra,
+mayflies, and caddisflies. The effectiveness of druses as refuge from predation for amphipods was investigated
+under laboratory conditions with various predators (perch, round goby, and rusty crayfish). In
+mesocosms, predation losses averaged 75% lower where zebra mussels were present. In the absence of
+mussels, predation loss to perch and round goby was 100% and 66% to crayfish. We conclude that the
+increased abundance of other invertebrates in druses in lower Green Bay may be due to increased refugia,
+however the assemblage composition at any given site varies with local conditions. 
+
+
+xintroduction
+
+
+ Zebra mussel invasion can cause dramatic
+changes throughout a lake (Nalepa and Fahnenstiel
+1995). Perhaps the most dramatic changes occur in
+the benthos, where zebra mussels colonize in large
+numbers and substantially modify the physical
+character of the bottom. The change in habitat
+structure can lead to greater macroinvertebrate den-sity (Stewart et al. 1998, Horvath et al. 1999). Benthic
+invertebrate densities increase on rocky substrates
+where complex habitat is already available
+(Strayer and Smith 2000) and in soft sediments
+where free standing zebra mussel colonies (druses)
+provide refuge from predation (Stewart et al. 1999),
+habitat and a constant food source in the form of
+feces and pseudofeces (Silver Botts et al. 1996). In
+some systems benthic invertebrate densities have
+not increased (i.e., Mercer et al. 1999), but zebra
+mussel colonization has been associated with large increases in particular taxa such as Gammarus amphipods
+(Dermott and Barton 1992, Ricciardi et al.
+1997). Even in systems where there has been no
+overall gain in invertebrate abundance, amphipod
+biomass has increased (Kuhns and Berg 1999).
+Predation is a strong structuring variable for amphipod
+distribution and abundance (Russo 1991,
+Corona et al. 2000). Researchers have suggested
+that zebra mussel druses may offer a refuge to invertebrates
+from predation by fish (Gonzalez and
+Downing 1999, Stewart et al. 1999). Amphipod activity
+outside of mussel beds can be reduced by
+10ñ95% in the presence of fish (Kolar et al. 2002).
+Round gobies can significantly reduce overall invertebrate
+biomass (Kuhns and Berg 1999). Yellow
+perch consume significantly more benthos when
+zebra mussels are present (Thayer et al. 1997)
+which may reflect a greater overall invertebrate
+density when zebra mussels are present. In mesocosm
+experiments perch were able to capture amphipods
+from within a continuous single layer of
+zebra mussels, although at somewhat reduced rates
+compared with sandy substrates (Cobb and Watzin
+2002). In areas dominated by soft sediments, such
+as Green Bay, zebra mussel druses form rolling
+spheres that are likely to provide a different architectural
+structure than layers of mussels on hard
+substrate. This increased architectural structure may
+provide increased refugia and may serve as a mechanism
+for increased invertebrate abundances in
+druses.
+While the abundance of benthic invertebrates increases
+following zebra mussel invasion, community
+composition may not change substantially
+(Hayes et al. 1999) because other factors may be
+controlling community composition. In lower
+Green Bay there is a strong trophic gradient, ranging
+from relatively nutrient poor waters along the
+western shore, to a hypereutrophic area at the
+mouth of the Fox River, which contributes a large
+sediment load to the bay, as well as a more
+mesotrophic region moving up along the eastern
+shore (Sager and Richman 1991). This makes Green
+Bay a unique system within which to study the role
+of druses versus other environmental factors, such
+as temperature, substrate type, and trophic status,
+on the distribution of benthic invertebrates within
+and adjacent to zebra mussel colonies.
+Here we present the results of a survey of selected
+sites in lower Green Bay designed to compare
+the impact of druses with other environmental
+variables on the distribution of non-zebra mussel
+invertebrates (hereafter referred to as invertebrates)
+colonizing zebra mussel druses. We also present the
+results of a laboratory experiment designed to investigate
+the effectiveness of zebra mussel druses
+as refugia for amphipods from fish predation. xmethods
+
+ Six sites were chosen around Lower Green Bay
+(Fig. 1) representing the variety of trophic conditions
+in the bay. Green Bay has a strong trophic gradient
+driven by the circulation patterns (Sager and
+Richmond 1991). Relatively oligotrophic water enters
+the bay from Lake Michigan and flows south
+down the west shore and toward the inner bay
+(Miller and Saylor 1985). The Fox River delivers a
+heavy sediment load to the inner bay making those
+waters hypereutrophic. As the current moves north
+along the eastern shore it carries this sediment, the
+concentration of which gradually drops off creating
+a strong trophic gradient that goes from hypereutrophic
+to mesotrophic conditions (Sager and Richmond
+1991). Sites include relatively nutrient poor sites (17 and 24), very nutrient rich, highly turbid
+inner bay sites (1 and 9), and east shore sites where
+the nutrient load declines as the current moves up
+the bay (14 and 4E). All sites had either sand or silt
+substrate (Table 1).
+Druse samples were taken by divers who collected
+all zebra mussels within a 20 m2 swath along
+a 10 m transect. To collect sediment samples divers
+took three sediment cores (depth 10 cm, diameter
+7.6 cm) from within a square meter quadrat haphazardly
+thrown from the boat. These different sampling
+methods were necessary because the zebra
+mussel distribution was extremely patchy and at
+most sites a randomly thrown quadrat would not
+have captured a druse. Samples were preserved in
+95% ethanol for later processing. Wherever possible
+we sampled 1 m and 3 m depth sites at each location.
+Depth at sites 1 and 9 was insufficient to
+collect a 3 m sample. Site 14 had no zebra mussels
+at the 1 meter site so only the 3 meter site was sampled.
+Other limnological measures taken at each site
+included Secchi depth, a dissolved oxygen/temperature
+profile, and turbidity. In the laboratory invertebrates
+were picked from the samples using sugar
+flotation technique (Wetzel and Likens 2000) and
+identified to the appropriate taxonomic level using
+available keys (Hilsenhoff 1975, Thorp and Covich
+1991, Merritt and Cummins 1996).
+Invertebrate abundances in the druses sample series
+and the sediment sample series were based on
+volume. While 10 cm of sediment were collected in
+each core to insure that all invertebrates were collected,
+in calculating the sediment volume we assumed
+that the majority of invertebrates were
+confined to the first 5 cm based on observed depth
+of chironomid activity (Mermillod-Blondin et al.
+2002). This gave each sediment core a volume of
+226.8 cm3. Mussels in druses were separated,
+counted, and sorted into 5-cm size classes. Volumes
+for each size class of mussel were calculated by
+measuring water displacement by mussels in each
+size class (based on 20 mussels of each size class).
+The volume of a druse was therefore the sum of the
+average volume of the mussels in each size category.
+The density of invertebrates within the druses
+was compared to that in the sediment using a paired
+t-test. We also investigated correlations between
+density within druses and the sediment, taxa richness
+and environmental variables using a correlation
+matrix.
+Predation Experiment
+A controlled laboratory experiment was used to
+test the effectiveness of zebra mussel druses as
+refuge from predators. We subjected amphipods to
+predation pressure far more extreme than would be
+found in natural environments by placing them in
+barren plastic mesocosms with individual predators
+for 24 hours. By weighting the experiment in favor
+of the predators we insured that we were testing the
+effectiveness of the druses as refuge rather than
+testing the effectiveness of the predators.
+TABLE 1. Environmental variables and non-zebra mussel invertebrate densities and taxa richness for
+several sites in Green Bay.
+Density of non Density of non Taxa Taxa
+Dissolved zebra mussel zebra mussel richness richness
+Oxygen Turbidity invertebrate invertebrates per druse sediment
+Site (mg/L) Secchi (m) (NTU) Substrate per cm3 druse l cm3 sediment samples samples
+West shore
+24 (1 m) 11.5 2 2.23 Sand 2.333 0.009 10 2
+24 (3 m) 10.7 2 2.23 Sand 1.543 0.261 11 7
+17 (1 m) 10.6 2 1.86 Sand 1.923 0.034 9 2
+17 (3 m) 9.2 2 1.86 Sand 0.433 0.010 8 3
+Fox inlet
+1 (1 m) 12.3 0.5 15.1 Silt 0.227 0.085 4 3
+9 (1 m) 10.2 0.5 9.75 Silt 3.137 0.003 4 1
+East shore
+14 (3 m) 10.2 0.5 14.53 Silt 2.171 0.044 11 3
+4E (1 m) 8.8 3 0.97 Silt 0.124 0.025 8 3
+4E (3 m) 11.2 3 0.97 Silt 0.509 0.018 7 3
+Benthic Invertebrates in Green Bay 393
+Three predators were used; yellow perch (Perca
+flavescens), average length 8.6 cm (± 2.1), rusty
+crayfish (Orconectes rusticus), average length 13.4
+cm (± 1.7), and a single round goby (Neogobius
+melanostomus), length 5.6 cm. When individual
+predators were used more than once, these predators
+were starved for 24 hours before each trial. For
+each predator type we ran five trials of the following
+experiment. Within mesocosms filled with 9.5 L
+spring water we placed twenty Gammarus amphipods
+and allowed them to acclimate for 24 hours
+at room temperature. Washed druses (mean weight
+114.2 ± 12.2 g) were randomly assigned to half the
+containers. Predators were randomly assigned to
+each mesocosm and left for 24 hours (because we
+had only one goby we randomly assigned the goby
+to either a druse or a non-druse container and when
+that treatment was completed we starved the goby
+for 24 hours before completing the trial with the
+other treatment). The druses were subsequently removed
+and washed to collect the remaining amphipods,
+which were then counted. To test the
+efficiency of the washing procedure a druse and 20
+amphipods were placed in a mesocosm without a
+predator. All individuals were recovered after colonizing
+the druse.
+All predators were collected from lower Green
+Bay or the surrounding watershed and allowed to
+acclimate to captivity in aquaria at room temperature
+for four months before the study began. Zebra
+mussel druses were collected from lower Green
+Bay, washed under high-pressure cold water for 30
+seconds, and then soaked for 1 hour to ensure the
+removal of all invertebrates. The washing process
+was repeated 3 weeks later before the experiment
+began. Druses were starved and, because we were
+primarily interested in the druses as structure, we
+did not measure mussel mortality. Gammarus amphipods
+were purchased from Jones Biomedicals.
+The experimental data were analyzed using analysis
+of variance (ANOVA) with two treatments (druse
+vs. no druse) and two factors, predator presence and
+predator type. 
+xresults The study sites reflected the trophic gradient of
+this system. The sites with the deepest Secchi reading
+were along the western shore (17 and 24) and
+the northernmost site along the eastern shore (4E)
+(Table 1). The highest turbidity was found at the
+two Fox River inlet stations (sites 1 and 9). Turbidity
+was negatively correlated with Secchi depth (r =
+ñ0.91). For all sites dissolved oxygen on the bottom
+varied from 8.8ñ12.3 mg/L (Table 1).
+Invertebrate density was significantly lower in
+sediment cores than in zebra mussel druses (t-test, p
+= 0.003). This finding was robust when sediment
+core volume was calculated assuming 2 cm depth
+(p < 0.01) or 10 cm depth (p < 0.01) as well as calculating
+density based on surface area of the mussels
+and sediment (p = 0.03). On average 0.05 ±
+0.08 invertebrates cmñ3 were found in sediment
+cores compared to 1.38 ± 1.08 invertebrates cmñ3 in
+the druses (Table 1). Within the druses amphipod
+and total invertebrate abundance were significantly
+positively correlated with zebra mussel volume
+(Fig. 2, r = 0.77 and 0.98 respectively). There were
+no significant correlations between invertebrate
+density and dissolved oxygen, Secchi depth, turbidity,
+substrate, depth, or between the druse and sediment
+samples.
+Taxa richness in the druse samples (8.0 ± 2.6)
+was significantly higher than in the sediment samples
+(3.0 ± 1.7, p = 0.0001). Within the druses amphipods
+were the dominant organism (Table 2).
+Other taxa included Hydra, Hydracarina, Caenis
+mayflies, and four familes of Trichoptera (Polycentropidae,
+Hydroptilidae, Leptoceridae, and Hydropsychidae. Sediment samples were dominated
+by oligochaetes and chironomids (Table 3).
+Taxa richness in the druses was weakly negatively
+correlated with turbidity (r = ñ0.35) and positively
+correlated with depth over the study area (r = 0.44).
+Sediment sample richness was correlated with
+depth (r = 0.57) but not correlated with any other
+measured environmental variables. Druse and sediment
+sample taxa richness was lowest in the Inner
+Bay (Table 1).
+Predation Experiment
+In mesocosm experiments more benthic invertebrates
+survived under predation pressure from all
+three predators when zebra mussel druses were present
+(Fig. 3). Without zebra mussels, perch and
+goby consumed all 20 amphipods within 24 hours,
+usually within an hour of introduction. In the presence
+of zebra mussel druse, fish consumed an average
+of 4.2 (perch) and 4.0 (goby) amphipods after
+24 hours. Rusty crayfish consumed fewer amphipods
+than either species of fish (ANOVA p <
+0.01), capturing an average of 13.2 amphipods
+without druses and 2.6 with druses present. For all
+predators the number of amphipods consumed was
+significantly greater in the absence of druses
+(Anova p < 0.00001). 
+
+
+xdiscussion
+ Zebra mussel invasion has resulted in increased
+invertebrate abundance (Stewart and Hayes 1994,
+Karatayev et al. 1997, Ricciardi et al. 1997). This
+has been explained by increased habitat structure
+and food availability (Silver Botts et al. 1996, Gonzalez
+and Downing 1999). By increasing the benthic
+physical complexity zebra mussels create more
+substrate available for invertebrate colonization.
+There may be many other factors influencing the
+presence and abundance of any given taxa including
+the presence of a colonization source, water
+quality, and competition and predation pressures.
+In Green Bay invertebrate taxa were not evenly
+distributed throughout the study system. Taxa richness
+was higher in the druses than in the sediment,
+indicating that zebra mussel druses increase the diversity
+of the invertebrate community. Although not
+strong, the negative correlation between richness
+and turbidity in druse samples suggests that the impact
+of sediment loading from the Fox River, at the
+south end of the bay, may be a structuring factor for
+the invertebrate community in this system.
+In lower Green Bay, invertebrate density was significantly
+higher in the zebra mussel druses than in
+adjacent sediment samples, possibly because druses
+provide refugia from predation. This was demonstrated
+in the mesocosm experiments where, under
+extremely heavy predation pressure, zebra mussel
+druses provided amphipods with refuge from large
+predators. Similarly, the refuge provided by druses
+may be important to amphipods and other invertebrates
+in the field. Other researchers have shown
+the importance of predation pressure in structuring
+amphipod distribution (Russo 1991, Corona et al.
+2000).
+Zebra mussels shift the secondary energy production
+from pelagic to benthic in invaded systems by
+filtering large amounts of phytoplankton and transferring
+that material into feces and pseudofeces.
+This fuels secondary production in the benthos
+while decreasing the amount of food available to
+zooplankton and thereby decreasing pelagic secondary
+production (Nalepa and Fahnenstiel 1995).
+Theoretically this shift could provide increased
+food for benthivorous fish while decreasing the material
+available to planktivorous fish. However, our
+results indicate the possibility that invertebrates
+may be able to escape this predation by taking
+refuge within zebra mussel druses as shown in the
+mesocosms experiments.
+In summary, our results indicate that the presence
+of these detached zebra mussel druses on soft substrates
+in lower Green Bay dramatically impacts the
+abundance, distribution, and diversity of benthic invertebrates.
+Turbidity and trophic status also appear
+to be important variables in overall benthic community
+composition. Further study is needed to assess
+the magnitude of the impact of zebra mussels on the
+Green Bay food web.

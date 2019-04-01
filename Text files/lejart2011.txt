@@ -1,0 +1,559 @@
+xabstract
+When the Pacific oyster (Crassostrea gigas, Thunberg) was introduced into France for aquaculture in the midsixties,
+it was initially confined to the sites where it was farmed. Subsequent global warming most likely
+facilitated the establishment of wild populations throughout the French coastline. This phenomenon of
+spread has become so great that oyster reefs have recently appeared in sheltered estuaries, on both soft and
+hard substrate. The present study examined two such sites in the Bay of Brest, Brittany. It is the first to
+investigate the impacts of this new substrate on the biocoenosis of uncolonised intertidal habitats in France.
+Increased species richness and abundance of intertidal macrofauna were observed in the presence of oyster
+reefs on both, mud (4 and 20 fold respectively) and rock (5 fold for both). The dominance of suspension
+feeders in mud changed to carnivores in reefs and their underlying sediment. Calculation of biotic
+coefficients (BC) of the soft-bottom fauna revealed only a slight organic enrichment, and the organic and silt
+composition in the sediment beneath oyster reefs were not significantly different from that on bare sites. On
+rock, the dominance of grazers remained unchanged between bare rock and oyster reef, while reef on rock
+was also characterised by deposit and detritic feeders. C. gigas is suspected to cause a homogenisation of
+coastal habitats with an impoverishment of overall quality but we detected only 11 common species
+between reefs on mud (60 species) and those on rock (55 species).
+
+xintroduction
+Introduced marine species are known to have an impact on native
+ecosystems, especially on very productive systems like those in
+coastal regions and estuaries, which have high biodiversity (Ruiz et al.,
+1997; Cohen and Carlton, 1998; Ruiz et al., 1999; Wasson et al., 2005).
+Although only a few introduced species (10–15%) are considered as
+pests (Williamson and Fitter, 1996; Ruiz et al., 1997), most studies
+show undesirable effects of invasive species on native biodiversity,
+community structure and function, genetic diversity, population
+dynamics, economy, and even human health (Ruiz et al., 1997; Parker
+et al., 1999; Mack et al., 2000; Grosholz, 2002).
+However, although it cannot be denied that introduced species are
+capable of causing dramatic damaging effects on the ecosystems they
+invade, some studies show that such invaders are not always as bad as
+they might seem (Thieltges et al., 2006). This ambivalence is
+illustrated by the example of the American slipper limpet Crepidula
+fornicata (Thieltges et al., 2006), which was accidentally introduced
+into Europe from the Eastern coast of America at the end of the
+nineteenth century and now extends along European coasts from
+Spain to Norway (Blanchard, 1997). In localised areas, such as some of
+the places it has colonised in France, populations reach very high
+densities (1000 individualsm−2) that can have detrimental ecological
+impacts like: increased siltation related to pseudofaeces and faeces
+production (Erhold et al., 1998), lowering of native species recruitment
+by spatial competition processes (Thouzeau et al., 2000), and
+alteration of benthic community structure (Thouzeau et al., 2000;
+Chauvaud et al., 2003a,b). However, in certain situations, this invasion
+has had positive effects. One study showed that C. fornicata protects
+the Bay of Brest (France) from toxic algal blooms by changing
+plankton composition and food web structure (Chauvaud et al., 2000).
+The extensive spread of C. fornicata has increased suspension feeder
+biomass and therefore increased biodeposition, which has then
+enhanced biogenic silica retention in the bay. Recycling of biogenic
+silica through the summer maintains diatom populations and limits
+chronic toxic algal blooms occurring in eutrophic conditions (Chauvaud
+et al., 2000; Ragueneau et al., 2002, 2005).
+In the present study we examined ecological impacts of another
+non-indigenous species, the Pacific oyster Crassostrea gigas, on
+intertidal communities of the coastal ecosystem of the Bay of Brest
+(France). Pacific oysters have been intentionally introduced into 66
+countries for aquaculture (Ruesink et al., 2005) and self-sustaining
+populations have today become established in 17 of these. In some of
+these countries C.gigas has been revealed to be more competitive than
+native oyster species, such as in New Zealand where C.gigas rapidly
+out-recruited the native Saccostrea comercialis (Dinamani, 1991). The
+same type of competition was observed in Australia where,30 years
+after its introduction C.gigas recruitment dominated that of S.
+commercialis (Chew, 1990). Reise (1998), Diederich (2005, 2006)
+and Schmidt et al. (2008) showed that the native intertidal blue
+mussel beds in the Wadden Sea had become overgrown by Pacific
+oysters but had not been replaced by them (Fey et al., 2010). Markert
+et al. (2010) found that Pacific oyster reefs were higher in diversity
+than native blue mussel beds, promoting epibenthic species of the
+Wadden Sea. In Willapa Bay, the comparison of native intertidal
+mudflat and oyster-dominated habitats as well showed that oysters
+harboured a higher diversity of epifauna (Hosack et al., 2006).
+Ecological effects of invasive Pacific oysters on intertidal communities
+have been very little examined so far, especially on rocky communities
+for which only one study is known (Escapa et al., 2004).
+C. gigas was intentionally introduced into France at the end of the
+1960 s to replace cultivated oyster stocks of Ostrea edulis and
+Crassostrea angulata decimated by disease (Grizel and Heral, 1991).
+For more than 20 years C. gigas did not reproduce in Brittany. Because
+C. gigas is a subtropical species, its minimal temperature requirement
+for spawning is above 18 °C (Mann, 1979) and the water was simply
+not warm enough on this part of the French coast. However, with the
+rise in temperature that has occurred over recent decades, environmental
+conditions in Brittany became favourable for spawning and C.
+gigas started to reproduce there in the 1990s (Lejart, 2009). Today,
+wild sustainable populations have become established in the
+intertidal zone all along the Brittany coast. Although populations are
+found on exposed oceanic shores, the highest densities, with more
+than 1000 individuals m−2 (Lejart and Hily, 2005), are reached in
+estuarine and sheltered habitats. Over the last few years, particularly
+on soft sediment but more recently even on rocks, oysters have
+become so abundant that one can observe the formation of oyster
+reefs. That is particularly the case in the Bay of Brest where the total
+stock of wild oysters was estimated at 10 000 tons in 2005 (Lejart and
+Hily, 2005). Although the presence of oysters on the Brittany shore is
+now common, oyster reefs are new biogenic structures on these
+coasts. We are therefore witnessing a drastic change in the intertidal
+landscape. In the United States, oyster reefs of Crassostrea virginica,
+are seen as a valuable habitat that needs to be restored and protected
+from overfishing (Coen and Luckenbach, 2000; Peterson et al., 2003;
+Rodney and Paynter, 2006). The situation is however very different in
+France as the new oyster reefs are not native, but the result of the
+settlement and spread of an alien species. The present study is the first
+to investigate the influences of this species on intertidal communities
+in France. Its goal was to examine the oyster reefs formed by invasive
+C. gigas in Brittany by addressing three basic questions: 1) Can we
+consider these reefs as a new biogenic habitat? 2) Can we detect
+differential responses of benthic macrofaunal organisms to the
+formation of oyster reefs on mud and on rock? 3) Does this new
+habitat induce a homogenization of intertidal communities?
+
+xmethods
+2.1. Study area
+The study was carried out in the Bay of Brest, western Brittany
+(France), in January 2006. This shallow semi-enclosed coastal bay
+covers 180 km2 and is connected to the Atlantic Ocean by a small strait
+(1.8 km wide, 50 m deep). Freshwater entering the bay is mostly
+(80%) brought in by two rivers, the Elorn in the North of the bay and
+the Aulne in the South.
+The Bay of Brest is a shallow (mean depth 8 m) macrotidal
+coastal system. Less than 50% of the bay is deeper than 5 m and, as
+the tide can rise and fall by as much as 8 m, a very large intertidal
+surface of substrate is available for potential colonisation by oysters.
+Oysters were introduced into the Bay of Brest at the beginning of the
+seventies but the invasion did not start until the nineties and
+massive spread has only been observed since 2000. In 2005, this
+colonised surface was estimated at 3 km2 with a mean oyster
+density of 84 individuals m−2 (Lejart and Hily, 2005). Hard and soft
+sustrate are both colonised. As oyster larvae need a support to settle,
+pebbles and shells existing on mudflat were used by the first
+individuals to arrive. This phenomenon has been also seen by Troost
+(2010). Then, as C.gigas settles preferentially on conspecifics rather
+than on any other substrate (Diederich, 2005), reefs developed
+progressively.
+Sampling was done in January 2006. Two sampling sites were
+chosen in sheltered areas in the South-East of the bay, near the
+Aulne estuary (Fig. 1), where oyster reefs had formed on natural
+rocks (“rock” at Pointe du Château…) and on mud (“mud” at Faou
+river). Both study sites were at the same tidal elevation, with a
+mean low tide exposure time of about 4 h per tidal cycle. In the area
+we find a salinity of ~34 psu and an average temperature of 13.6 °C
+(2003–2006, SOMLIT, INSU-CNRS). These parameters are the same
+for the both sites because of a tidal range of 8 m, 40% of the total
+volume of the bay are mixed every day. In the Bay of Brest, rocks are
+dominated by barnacles, and mussels are present at very low
+abundance.
+2.2. Field sampling
+Mud: five 1000 cm2 samples of oyster reefs colonising the mud of
+the Faou river (Fig. 2) were taken randomly. For each 1000 cm2
+sample, the matter composing the reef (oysters and trapped
+sediment) was collected and placed in plastic bags. At each sampling
+position, three cores (11.2 cm diameter) of the underlying sediment
+were taken down to a depth of 10 cm, sieved through 1 mmmesh size
+and then placed in plastic bags for later species analysis. Two more
+10 cm-deep cores (6 cm diameter) of the underlying sediment were
+taken per sample and placed in plastic bags for later analyses of
+organic matter content and the sediment particle size.
+For comparison with uncolonised habitat, five 1000 cm2 samples
+of bare mud close to the reef (2–3 m) were randomly sampled. Five
+cores were taken at each sampling position, three for species analysis
+and two for sediment analysis using the same sampling procedure as
+for sediment underlying the reefs.
+Rock: hard substrate samples were taken on the rocky shore at the
+Pointe du Château (Fig. 2). Five 1000 cm2 samples of oyster reef
+(oysters and trapped sediment) and five 1000 cm2 samples of
+epifauna from bare rock; all samples were placed in plastic bags.
+2.3. Laboratory measurements
+On our return to the laboratory, each reef sample was gently
+washed and sieved through 1 mm mesh for infaunal organisms. The
+sediment trapped between shells was not preserved. To characterize
+the reef habitat structure, we measured the following parameters for
+each reef sample (including live and dead oysters): fresh weight,
+water displacement volume and developed surface. Developed
+surface was quantified by covering the whole surface of the reef
+sample, including the interior surfaces of the larger crevices, with
+pieces of fine paper of known area. This parameter is an expression of
+the surface available for sessile epibenthic species. All samples were
+then frozen. Epibionts (barnacles and worms) were detached from
+oyster shells and all individuals found in reefs, bare rock epifaunal and
+mud infaunal samples were identified to species level (except
+nemerteans and oligochaetes). Encrusting animals (sponges, bryozoans
+and colonial ascidians) were not considered in this study because
+they could not be individually counted and weighted. For each
+sample, individuals were pooled by trophic group and weighed (Ash
+Free Dry Weight; AFDW) after drying and combusting in a fumace
+using standard methods. For mud infaunal samples, where biomass
+was low, the five replicates were pooled. For the sediment samples
+organic matter content (%) was calculated from the differences
+between dry weight (48 h at 60 °C) and AFDW in each core sample.
+Particle size analysis was made on a 13 Afnor sieve series (10 000 to
+63 μ).
+2.4. Data analysis
+2.4.1. Statistical analysis
+ANOVA was used to compare macrofaunal abundance and species
+richness between muddy and rocky substrate and between substrate
+and reefs. Student t-tests were used to compare surface, volume, fresh
+weight between reefs on the two substrates, and organic matter
+content. A Kolmogorov–Smirnov test was used to compare particle
+size distribution between bare sediment and sediment under reef.
+Analyses were performed using Statgraphics Plus 5.1 statistics
+software.
+Multivariate analysis was performed to compare reef communities
+of the two substrates, using PRIMER v6 software. Bray–Curtis
+similarity coefficients of macrofaunal samples were calculated based
+on fourth-root transformed abundance data. Coefficients were then
+used to classify samples by similarity in a hierarchical cluster
+analysis.
+2.4.2. Ecological group and biotic coefficient
+As stated in Hily (1984), soft-bottom macrofauna can be classified
+into five ecological groups, according to their sensitivity to an
+increasing stress gradient of organic matter enrichment:
+Group I. Very sensitive species
+Group II. Indifferent species
+Group III. Tolerant species
+Group IV. Second-order opportunistic species
+Group V. First-order opportunistic species
+Here we used the percentages of abundance of each ecological
+group, to obtain the biotic coefficient (BC or AMBI) as defined by Borja
+et al. (2000). This continuous coefficient was used in the present study
+to compare patterns of macrofauna between sediment under reefs
+and neighbouring sediment without any reef development.
+
+
+xresults
+3.1. Habitat properties
+3.1.1. Sediment organic matter content and particle size analysis
+There was no significant difference between the level of organic
+matter found in bare mud (4.9%, SD=0.5) and the level found in mud
+from under oyster reefs (5.47%, SD=0.47). Particle size analysis also
+showed no significant difference between bare mud and mud under
+oyster reefs (Fig. 3). Oysters seemed to reduce the proportion of very
+fine particles (b63 μm) and to increase the proportion of very large
+particles (N1250 μm), but these differences were not statistically
+significant.
+3.1.2. Physical characteristics of oyster reefs
+In terms of surface, volume and fresh weight, results showed no
+significant difference between the reefs that had developed on soft
+and hard substrate (Fig. 4; t-test pN0.1). The surface available for
+epibenthic species was increased by a factor of 4 when oysters had
+colonised the substrate (Fig. 4A). For 1 m2 of colonised substrate, the
+reef added 3.87 m2 (SD=0.94) on soft sediment and 3.97 m2
+(SD=1.89) on rock. Reef volumes were 21.62 L m−2 (SD=4.66) on
+soft sediment and 25.93 Lm−2 (SD=6.67) on rock (Fig. 4B) and
+corresponded to 33.65 kg m−2 (SD=5.34) and 39.51 kg m−2
+(SD=7.96), respectively (Fig. 4C), including the shells of both dead
+and living oysters.
+3.2. Macrofauna analyses
+(nb: C. gigas was excluded from the analysis of the associated
+macrofauna)
+3.2.1. Abundance
+Macrofaunal abundance was 3 times higher in the mud under
+oyster reefs (Mean=1182, SD=503) than in bare mud (Mean=368,
+SD=171) (Fig. 5). This ratio reached 20 when we compared the total
+macrofaunal abundance of the new habitat, including both the reef
+and the sediment beneath it (Mean=7409, SD=3860), with bare
+mud. Compared to bare rock (Mean=5686, SD=3203), abundance
+increased by a factor of 5 when oyster reefs were present
+(Mean=26074, SD=4551) (Fig. 5). Due to barnacles (Table 1),
+which need hard substrate to settle, macrofaunal abundance on bare
+rocks was more than 15 times higher than in bare mud.
+This trend between hard and soft substrate was the same but less
+pronounced in the reefs. Macrofaunal abundance was more than 3
+times higher in reefs present on rocks than those on mud. Barnacles
+were the most abundant species on reefs on both rock and mud.
+3.2.2. Species richness
+On mud, the presence of an oyster reef significantly increased
+species richness in the mud (pb0.0001); 20 (Mean=7.2, SD=3.4)
+species were found in bare mud while 34 (Mean=13.4, SD=4.9)
+were found in mud under oyster reefs (Fig. 6, Table 1). In the reef
+samples themselves, 60 (Mean=39.6, SD=4) species were found.
+This trend is reflected at a higher level of classification. Mud under
+oyster reefs contained a larger number of different taxonomic groups
+than bare mud (10 and 7, respectively) (Fig. 6). Proportions of
+molluscs (21% and 21% respectively), crustaceans (12% and 10%,
+respectively) and annelids (57% and 54% respectively) remained
+unchanged. In reefs on mud, 14 taxonomic groups were found, and
+proportions of molluscs (36%), crustaceans (19%): exclusive occurrence
+of barnacles, isopods and more amphipods, and annelids (32%)
+were different from those found in bare mud.
+On rock, 10 (Mean=5.4, SD=1.7) species were found on bare
+rock while 55 (Mean=33, SD=2.3) species were found on the reef
+(Fig. 6, Table 1). Higher taxa were more diverse on the reef (13) than
+on bare rock (5) (Fig. 6). In a similar way to the situation seen on the
+muddy shore, proportions of molluscs (50%), crustaceans (20%), and
+annelids (30%) on bare rocks were different
+3.2.3. Community composition
+3.2.3.1. Comparison of community composition. Even though the
+physical characteristics of oyster reefs on soft and hard substrate
+seem similar, their macrofauna showed only 11 species in common
+(Table 1): corresponding to 17.5% and 20% of the total species present
+on reefs over mud and rock respectively. The dendrogram resulting
+from hierarchical classification analysis (Fig. 7) confirms that
+macrofaunal assemblages were markedly different between the two
+reefs. Of the species present in the reefs formed on mud, 41% were
+characteristic of rocky substrate habitat. Conversely, only 16% of the
+species present in the reefs on rock were characteristic of soft
+sediment habitat (Table 1).
+3.2.3.2. Trophic groups. In bare mud, suspension feeders (2.16 g m−2)
+were themost abundant trophic group in terms of biomass, followed by
+carnivores (1.22 g m−2) (Table 2). As for abundance and species
+richness, the biomass was double in the mud under reefs (7.84 g m−2)
+compared with bare mud (3.38 g m−2). In the mud under reefs,
+carnivores were dominant (5.03 g m−2), followed by micrograzers
+(1.81 gm−2) and deposit feeders (0.25 g m−2). Biomass of suspension
+feederswas, however, hugely reduced. Carnivoreswere highly dominant
+on reefs (Mean: 13.81 g m−2, SD: 8.82 g m−2), followed by deposit
+feeders (Mean: 4.49 g m−2, SD: 2.89 g m−2). Suspension feeders,
+micrograzers and detritus feeders were also present on reefs, but in
+lesser biomass than carnivores and deposit feeders.
+On bare rocks, micrograzers were largely dominant (Mean:
+13.80 g m−2, SD: 3.95gm−2), with suspension feeders (Mean:
+1.58 g m−2, SD: 1.40 g m−2) and carnivores (Mean: 0.51 g m−2, SD:
+0.57 g m−2) representing a low biomass. Biomass was significantly
+higher on oyster reefs over rock (Mean: 24.15 g m−2, SD: 4.50 g m−2)
+than on bare rock (Mean: 15.89 g m−2, SD: 5.34 g m−2). Micrograzers
+were the highly dominant trophic group (Mean: 13.67 g m−2, SD:
+4.28 g m−2) (Table 2), followed by suspension feeders (Mean:
+3.87 g m−2, SD: 1.22 g m−2) and carnivores (Mean: 3.12 g m−2, SD:
+1.48 g m−2). Deposit and detritus feeders occurred only on oyster
+reefs and not on bare rock.
+3.2.3.3. Ecological groups. In bare mud, the most abundant group was
+group II (Fig. 8), followed by group I and IV. Biotic coefficient (BC) was
+1.5 (SD=0.4), a value which corresponds to a slightly polluted level
+with an unbalanced benthic community. Under reefs, group IV was
+largely dominant but group I was still present in a higher proportion
+than groups II and III. Group V was present on reefs, corresponding to
+the presence of the polychaete Capitella capitata (Table 1). Under
+reefs, BC was 3.3 (SD=0.2) and therefore higher than in bare mud.
+This increase in coefficient corresponds to a slight increase in organic
+enrichment that reaches the value just between the slightly polluted
+and the meanly polluted level.
+
+xdiscussion
+4.1. Crassostrea gigas: an ecosystem engineer
+After more than 30 years of introduction in France, our study was
+the first to explore the response of the benthic macrofauna to the
+spread of C. gigas in Brittany. Thus we have seen that oysters
+drastically change the physical characteristics of both soft and hard
+substrates when oyster colonisation results in reef formation. C. gigas
+creates a more complex 3D habitat structure on these substrates and
+increases the surface available for epifauna and algae by a factor of 4.
+By modifying the initial physical environment and creating a new
+habitat that can be used by other species, C. gigas can be defined as an
+ecosystem engineer (Kochmann et al., 2008; Markert et al., 2010) as
+described by Jones et al. (1994, 1997): “physical ecosystem engineers
+are organisms that directly or indirectly control the availability of
+resources to other organisms by causing physical state changes in
+biotic or abiotic materials. Physical ecosystem engineering by
+organisms is the physical modification, maintenance, or creation of
+habitats. The ecological effects of engineering on other species occur
+because the physical state changes directly or indirectly control
+resources used by other species”. Crooks (2002) showed that many of
+today's ecosystem engineers are exotic species like C. gigas. The role of
+the Pacific oyster as an ecosystem engineer is much more pronounced
+on soft sediment because hard substrate is built where it was initially
+rare. The physical characteristics of oyster reefs tend to be the same
+whatever the underlying substrate, as though the physical structure of
+C. gigas reef was intrinsically determined. C. gigas can also be defined
+as an autogenic engineer, as the organisms themselves are part of the
+engineered habitat (Jones et al., 1994, 1997). By creating their own
+reefs, C. gigas shell aggregations introduce complexity and heterogeneity
+into benthic environments and are thus important elements of
+habitat structure affecting community- and ecosystem-level processes
+(Simenstad and Fresh, 1995; Gutierrez et al., 2003).
+4.2. Benthic macrofaunal responses to the formation of oyster reefs
+Macrofaunal analysis showed that abundance and species richness
+were higher on reefs than on bare substrate (Figs. 5–6). Equivalent
+patterns have already been found on wild oyster beds (Escapa et al.,
+2004; Markert et al., 2010), on experimental designed oyster beds
+(Kochmann et al., 2008), on cultivated oyster beds (Hosack et al.,
+2006, Kelly et al., 2008), and are well known in C. virginica reefs (Coen
+and Luckenbach, 2000; Meyer and Townsend, 2000; Grabowski et al.,
+2005; Shervette and Gelwick, 2008). Increases in abundance can
+partly be explained by the increased available surface (Fig. 4) to which
+macrofauna can attach (Dumbauld et al., 2001). This effect is further
+enhanced by the fact that C. gigas produces large ornamented shells
+that are known to support more individuals of fouling species than do
+small shells (Creed, 2000; Gutierrez et al., 2003). The fact that overall
+macrofaunal abundance was more than 3 times higher in reefs
+present on rocks than those on mud could be explained by barnacle
+sensitivity. Barnacles were the most abundant species on reefs both
+over rock and mud, but studies have shown that the proximity of
+muddy sediment reduced barnacle settlement and survival (Silina,
+2002). Another hypothesis is that when oysters colonise the tidal
+zone, they can be considered as a clean substrate, free from epibiotic
+macrofauna. To colonise this new habitat, epibionts can either spread
+from the substrate around or under the reef or their larvae can settle
+on the reef. This is probably why abundance was higher on reefs
+formed on rock than those formed on mud. Indeed, as the species that
+lived on the reefs were mostly those characteristic of a rocky
+substrate, to colonise reefs on rock they could have arrived by
+migration and settlement, whereas the species that colonised reefs on
+mud they relied exclusively on larvae settlement. This phenomenon is
+much more pronounced for young reefs, such as those in the Bay of
+Brest, than it is for older ones.
+Species richness was higher in mud under reefs than in bare mud,
+and higher on reefs than on bare substrate for the two types of habitat.
+There was also greater diversity at a higher level of classification,
+which confirmed a biodiversification. Reefs provide an increased
+surface for macrofauna and also provide various microhabitats that
+are different from the usual native habitat of bare mud and rocks
+(Lohse, 1993). The provision of diversified microhabitats and
+sediment caught up among C. gigas shells (Markert et al., 2010),
+may explain the presence of mud species like Amaeana trilobata or
+Chaetozone setosa (infaunal polychaetes) in the reefs that colonised
+rocks.
+An important result was that macrofaunal abundance increased
+under reefs compared with bare mud. In the case of cultivated oyster
+beds, Castel et al. (1989) suggested that this increase was due to
+oyster biodeposits, which provide increased food resources for fauna.
+A way to detect organic enrichment in soft sediment communities
+is to use ecological groups (Hily, 1984) and the Biotic Coefficient
+(Borja et al., 2000). In bare mud, the BC value of 1.5 (SD=0.4)
+corresponded to slightly polluted conditions with an unbalanced
+benthic community. This value is the most common value found in
+European estuarine and coastal environments (Borja et al., 2000).
+Even though oyster reefs increased BC in the sediment (3.3; SD=0.2),
+this corresponded to the lower value of meanly enriched conditions.
+This increase in BC may indicate lower oxygenation conditions rather
+than an organic enrichment. Indeed, sediment under a reef is more
+confined than in bare mud, and water circulation and therefore
+oxygenation is probably reduced. This hypothesis is supported by the
+organic matter and particle size analysis. No organic or silt enrichment
+was measured in the mud beneath the reef. We know that oysters
+produce a large amount of biodeposits (Haven and Morales-Alamo,
+1966; Razet et al., 1990; Hayakawa et al., 2001), but these are
+probably washed away from the area every day by the powerful tide,
+currents and waves. Therefore at this step of the invasion, effects of
+organic enrichment by oyster biodeposits on intertidal communities
+remain weak in the vicinity of the oyster reefs. The mass of
+biodeposits washed away from the reefs could sediment in areas
+further away and, on a larger scale, could contribute to the overall
+increase of the mud fraction in coastal sediments.
+Phyla representation gave another kind of information on the
+impact of C. gigas on intertidal communities. In soft sediment, reefs
+had no effect on higher taxa composition. Indeed proportions of
+molluscs, crustaceans and annelids in the mud remained the same
+whether or not a reef had developed above them. However, the new
+habitat was composed of both the mud and the reef above, and
+proportions of higher taxa in the reef were quite different from those
+in the sediment. The proportion of annelids was lower, with relatively
+more molluscs and crustaceans. Proportions of taxa in the new habitat
+as a whole, had therefore changed. Bare rock was largely dominated
+by molluscs, primarily gastropods. Despite of a higher diversity of
+gastropods and the exclusive occurrence of bivalves, proportion of
+molluscs in reefs on rock was lower while crustaceans gained in
+importance due to the exclusive occurrence of isopods and amphipods.
+Therefore proportion of crustaceans increased in both reef types
+whereas molluscs showed contrasting trends with an increase in reef
+on mud and decrease in reef on rock. This could be explained by the
+fact that the proportion of annelids was the same between bare rock
+communities and oyster reefs. Hence, oyster reefs have an effect on
+the taxonomic composition of the community.
+Impacts of oyster reefs can also be studied from a more functional
+point of view, for example in terms of community trophic group
+analysis. Biomass of bare mud was dominated by suspension feeders,
+consisted to a smaller degree of carnivores and deposit feeders were
+of minor importance. When mud was colonised by oysters, biomass of
+mud under reefs increased with all trophic groups being present.
+Carnivores became largely dominant whereas the proportion of
+suspension feeders decreased dramatically. In the reefs themselves,
+biomass increased to a large extent with carnivores remaining largely
+dominant, followed by deposit feeders that colonise the sediment
+trapped among oysters and suspension feeders were low in biomass.
+These results correspond to the findings of Markert et al. (2010)
+which revealed a new dominance of carnivores due to an increase in
+habitat complexity after the transformation of blue mussel beds into
+oyster reefs. Reef building therefore modified the trophic composition
+of the intertidal communities in the Bay of Brest by providing habitat
+properties to species of all trophic groups.
+On rock, reefs increased macrofaunal biomass but proportions of
+the trophic groups changed, promoting the presence of carnivores like
+Carcinus maenas in both habitats. In accordance with our results,
+Escapa et al. (2004) showed in Northern Patagonia, that the densities
+of the larger native intertidal crab Cyrtograpsus angulatus, a predator,
+were higher inside oyster beds than on bare rock.
+Micrograzers were dominant on bare rocks as well as on reef but
+the increase of carnivores and suspension feeders and the appearance
+of deposit and detritic feeders would reveal that the formation
+of reefs on rock as on mud led in both cases to a more balanced
+distribution of trophic groups. Compared to bare substrate, reefs on
+rock increased macrofaunal biomass but to a smaller amount as on
+mud.
+These results should be considered cautiously because they only
+concern associated macrofauna. We must not lose sight of the fact that
+the majority of the new biocoenosis biomass consists of oysters,
+meaning that this new biocoenosis is in fact dominated by suspension
+feeders on both habitats.
+4.3. The larger spatial scale
+We finally asked whether colonisation of all substrates of the
+intertidal shore by oyster reefs would result in a large scale
+uniformisation of biodiversity. Indeed we previously saw that mud
+specific species colonised reef on rocky shore where they had initially
+been absent and that rock specific species colonised reefs on mud. Our
+results showed that 38% of the species present in the reefs on mud
+were characteristic of rocky substrate habitat and only 15% of the
+species present in the reefs on rock were characteristic of mud habitat
+(Table 1). The majority of the muddy reef community was composed
+of mud specific species and the majority of the rocky reef community
+was composed of hard substrate specific species. Furthermore, even
+though physical characteristics of oyster reefs on soft and hard
+substrate seemed to be similar, they had only 11 species in common
+(out of 123 identified, Table 1). The dendrogram confirmed that
+macrofauna assemblages were markedly different between the two
+reefs. This difference may decrease as these reefs age, as colonisation
+of the reefs on mud by species characteristic of rocky substrate takes
+longer and is much more difficult than colonisation of reefs on rock
+because migration from adjacent substrate is not possible. On a more
+functional level, analysis of trophic groups also showed that the rocky
+reef community is dominated by micrograzers, while the community
+of reefs on mud is dominated by carnivores. Oyster reefs can invade
+the intertidal shore and, for the moment, their communities seem to
+have conserved the characteristics of their original native habitat. On a
+larger scale, because oyster reefs act mainly as a habitat creating
+shelter and substrate for the local species, the species composition of
+the associated communities will vary according to the variability of
+the local set of species present in the environment. Consequently
+there is no reason (and our personal observations confirm this) that
+the β biodiversity should change when oyster reefs develop.
+4.4. Management aspects
+Today, the invasion of the coasts of Brittany by C. gigas is a very
+complex problem. On one hand, like all invasive species, C. gigas can
+have undesirable effects on native intertidal communities. Previous
+studies have shown major effects on valuable native habitats like
+seagrass (Kelly et al., 2008) or Sabellaria alveolata reefs (Cognie et al.,
+2006). On the other hand, Markert et al. (2010) found a higher
+biodiversity in Crassostrea-reefs than in Mytilus-beds in the intertidal
+of the Wadden Sea. Our study showed that C. gigas increased as well
+intertidal biodiversity of more simple communities. In addition, C.
+gigas has become a common species on Brittany coasts. The situation
+is exactly the opposite to that of C. virginica reefs in estuaries on the
+Atlantic Coast of the United States. Oyster reefs of C. virginica, are
+recognised as a valuable habitat that should be restored and protected
+from overfishing (Coen and Luckenbach, 2000; Peterson et al., 2003;
+Rodney and Paynter, 2006). C. virginica reefs are a native habitat
+exploited by man and are known to play multiple roles in the
+estuarine ecosystem (Ruesink et al., 2005): as a habitat for sessile and
+mobile invertebrates because they provide refuge, attachment
+surfaces and populations of prey; by influencing the flow of water
+within estuaries; by modifying patterns of sedimentation deposition,
+consolidation and stabilization; and by filtering large volumes of
+water. Although C.virginica reefs have been degraded and reduced in
+size by destructive harvesting practices, the value of this habitat is
+now recognised, leading to protection and restoration programs. The
+first difference with the situation in France is that C. gigas is an exotic
+species. The second is that, even though it is a cultivated species, the
+reefs are not exploited. C. gigas reefs therefore seem to be drastically
+changing the landscape of the Brittany shoreline, but do not yet have
+any commercial value. However, this situation will probably change
+following a mass mortality episode of cultivated oysters in summer
+2008 and 2009. Survival rate of wild oysters was found to be better
+than exploited stocks, so a decree was made to protect wild
+populations from potential non-professional exploitation so as to
+supply wild spat for cultivation.
+Wild populations are therefore progressively becoming a valuable
+resource as well as a new habitat. Overall, more studies will be needed
+to fully assess the impact that these reefs can have on native
+ecosystems and particularly on sites of nature conservation interest.

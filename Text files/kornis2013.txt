@@ -1,0 +1,637 @@
+xabstract
+Aim Environmental and biological characteristics interact in complex ways to
+determine ecosystem susceptibility to invasive species, and a greater understanding
+of their relative roles in invader spread and impact is needed. We
+evaluated relationships between environmental characteristics, biodiversity of
+indigenous species, and the abundance and ecological impact of an invasive
+fish, round goby (Neogobius melanostomus).
+Location Tributaries to Lake Michigan, WI, USA.
+Methods We assessed the distribution and abundance of round gobies and
+native fishes in tributaries via electrofishing. We compared fish community
+composition and diversity in streams with (n = 30) and without (n = 52)
+round gobies and examined how trends in round goby abundance from 2007
+to 2010 correlated with changes in abundance of five native benthic fishes. We
+used redundancy analysis to determine how indigenous stream communities
+related to environmental characteristics and round goby abundance.
+Results Round goby abundance was best explained by environmental
+characteristics, with watershed area and temperature explaining 22.4% of the
+variation. Species richness and Shannon diversity only explained 6.9% of the
+variation in round goby abundance and only an additional 2.3% after considering
+environmental characteristics. Round goby abundance was not a significant
+predictor of fish community composition, which was best explained by seven
+environmental variables (30.3% of the variation). Invaded communities had
+significantly higher indigenous species richness than uninvaded communities
+(8.38 vs. 6.54). Round goby abundance was low compared with estimates from
+other studies, but showed an increasing trend in many tributaries (average
+10.8-fold increase from 2007 to 2010). Surprisingly, there were no temporal
+trends in native benthic fish abundance despite increases in round goby
+abundance.
+Main conclusions Environmental characteristics favouring high fish diversity
+(e.g. resource availability and warm water temperature) were positively
+associated with round goby abundance. However, round goby density and
+impact are relatively low in most tributaries at present, emphasizing the importance
+of considering heterogeneity in an invader’s abundance when assessing
+invasion success.
+
+xintroduction
+Invasive species inflict huge economic and ecological costs
+world-wide (Vitousek et al., 1996; Pimentel et al., 2005;
+Lodge et al., 2006) in part by altering the composition of
+communities and reducing ecosystem services (Chapin et al.,
+2000). Understanding factors related to invader abundance
+and impact remains an important goal in ecology (Parker
+et al., 1999; Byers et al., 2002; Kulhanek et al., 2011). Ecological
+niche models are often employed to assess ecosystem
+susceptibility to invasion based on environmental conditions
+(Peterson, 2003; Mercado-Silva et al., 2006; Kornis & Vander
+Zanden, 2010). However, biotic factors such as community
+composition and diversity can also play a role in susceptibility
+to invasion. Theory predicts diverse and intact assemblages
+of native species should be resistant to species
+invasions at local scales (Elton, 1958); this is supported by
+models (Case, 1990) and experimental studies (Tilman, 1997;
+Stachowicz et al., 1999; Kennedy et al., 2002). At larger
+scales, however, environmental factors related to high native
+species diversity may facilitate species invasions (Levine,
+2000; Hooper et al., 2005). Thus, invasion success, in terms
+of invader establishment, spread and abundance, is likely
+determined by a combination of environmental conditions,
+resource availability and biotic community composition at
+multiple spatial scales (Shea & Chesson, 2002).
+Although invasive species commonly invade ecosystems
+similar to their native habitat, species may act unpredictably
+outside of their native range (Mooney & Cleland, 2001; Peterson
+& Vieglais, 2001). Invasion of habitats dissimilar from
+a species’ native range is not uncommon, complicating our
+ability to predict ecosystem susceptibility (Urban et al., 2007;
+Loo et al., 2007; Kornis & Vander Zanden, 2010). Invasive
+species are often characterized by genetic plasticity, allowing
+rapid adaptation to novel environments (Lee et al., 2003;
+Lavergne & Molofsky, 2007; Prentis et al., 2008; Facon et al.,
+2008). Broad physiological tolerance (Reid & Orlova, 2002)
+and release from predators, competitors or parasites (Keane
+& Crawley, 2002; Blumenthal, 2006) can also lead to invasion
+of unexpected habitats. Ecological niche theory suggests that
+species are not equally suited to multiple habitats; for invasive
+species, lower density and impact would be expected in
+suboptimal habitats (Yokomizo et al., 2009). Comparing a
+single species’ invasion in multiple habitats could provide
+valuable insight into the heterogeneity of invasion effects.
+Round goby (Neogobius melanostomus) invasion of the
+Laurentian Great Lakes provides a unique opportunity to
+compare invasion of multiple ecosystem types. Native to the
+Black and Caspian Seas, round gobies are associated with
+numerous negative effects in the Laurentian Great Lakes
+(Kornis et al., 2012), including local extirpations of native
+fishes (Janssen & Jude, 2001; Lauer et al., 2004) and declines
+in fish and invertebrate abundance (Balshine et al., 2005;
+Lederer et al., 2008). Round gobies are becoming increasingly
+common in Laurentian Great Lake tributaries (Kornis &
+Vander Zanden, 2010; Poos et al., 2010) an unexpected
+secondary invasion considering round gobies are largely a
+lentic species (Charlebois et al., 1997; Harka & Bı´ro´ , 2007).
+Few studies have examined round goby invasion success in
+tributaries. Kornis & Vander Zanden (2010) found watershed
+area and stream gradient to be the strongest predictors of
+round goby presence/absence, Krakowiak & Pennuto (2008)
+concluded stream size was a good predictor of presence, and
+Baldwin et al. (2012) added that streams with low concentrations
+of dissolved ions such as calcium resist invasion. Conflicting
+evidence exists with regard to biotic factors: several
+studies have suggested that round gobies tend to invade low
+diversity streams (Carman et al., 2006; Krakowiak & Pennuto,
+2008), but Poos et al. (2010) documented an invasion
+of species diversity hot spots in Ontario tributaries. Thus,
+the respective roles of abiotic and biotic factors in round
+goby invasion success remain undetermined.
+The ecological impacts of round gobies in Laurentian
+Great Lake tributaries are also unclear. Potential impact on
+tributary communities is large (Poos et al., 2010) but may
+not translate into realized impact. Krakowiak & Pennuto
+(2008) found significantly reduced invertebrate diversity in
+four goby-invaded tributaries of Lake Erie compared with
+four non-invaded streams. This study also suggested
+decreased fish diversity in invaded systems, but this trend
+proved statistically insignificant. Further comparison of biological
+communities in streams invaded and not invaded by
+round gobies is warranted because Krakowiak & Pennuto
+(2008) only studied sites within 2–3 km of Lake Erie. Round
+gobies have invaded farther upstream (> 10 km) in many
+tributaries (Kornis & Vander Zanden, 2010), and upstream
+sites often differ from downstream sites in terms of environmental
+factors, habitat complexity and biological community
+structure (Harrel et al., 1967; Gorman & Karr, 1978;
+Vannote et al., 1980).
+We pose two overarching questions in this study: (1) do
+biological characteristics such as community diversity and
+abundance affect round goby invasion success? and (2) are
+invaded communities in turn affected by round goby
+invasion? These intertwining issues are common in invasion
+biology, as native communities can both affect and be
+affected by an invader, and both issues can be addressed by
+viewing the same data from different perspectives. We
+address question one by describing the amount of variation
+in round goby density explained by biotic and abiotic
+factors. Question two is addressed by describing the
+composition of stream fish communities in terms of their
+relationship with round goby density and environmental
+conditions, by comparing indigenous fish species densities in
+invaded and uninvaded systems, and by evaluating changes
+in the density of five indigenous benthic fishes at invaded
+sites over time. We also compare fish community diversity
+in streams with and without round gobies, with implications
+for both questions. In this study, ‘non-native species’ refers
+to species outside of their native range, while ‘invasive species’
+refers to non-native species with documented negative
+ecological effects. ‘Establishment’ will be used to describe a
+species’ presence/absence, ‘spread’ a species’ range and
+‘abundance’ a species’ density. ‘Invasion success’ encompasses
+high degrees of establishment, spread and abundance.
+
+
+xmethods
+Site selection and fish collection
+Sites used in this study (Fig. 1) represent a subset of sites
+from a 2007 census of all Wisconsin tributaries of Lake
+Michigan, with sampling designed to ascertain the distribution
+of round gobies in these streams (Kornis & Vander Zanden,
+2010). In the current study, we only evaluated wadeable
+sites (< 1 m maximum depth) where the stream bottom was
+visible (82 sites from 58 distinct streams). Sites were sampled
+using a battery-powered backpack electrofishing unit with
+pulsed DC current, the most widely used method in studies
+of riverine fish communities (Zalewski, 1983). Sites from
+Kornis & Vander Zanden (2010) that were too deep or turbid
+to sample via electrofishing were excluded because they
+were sampled using minnow traps, a sampling method with
+considerable bias towards small benthic fishes and thus not
+suitable for studies of fish communities. As physical barriers
+such as dams impede the spread of round gobies, only sites
+downstream of such barriers were considered in our analysis
+such that all sites were connected to Lake Michigan without
+interruption. Each site was electrofished for 20 min, working
+upstream and sampling from bank to bank so as to cover all
+microhabitats (mean area sampled was 268 m2 ± 28 SE). All
+fish captured were identified, measured, enumerated and
+released at the site of capture except for round gobies, which
+were euthanized with tricaine methanesulfonate (MS-222)
+and retained. Catch per unit effort (CPUE, measured in individuals
+captured per minute of electrofishing) was used as a
+proxy for species density throughout.
+Round goby absence at some sites may have been due to
+lack of colonization time or failure to detect round goby
+presence. We estimated a 75% probability of detection when
+round gobies were rare, based on twelve 20-min electrofishing
+samples at sites with the minimum CPUE (0.05
+fish min
+1) detected by our method (Kornis & Vander
+Zanden, 2010). We found round gobies at 0.05 CPUE at 8
+of 30 goby-present sites; if our 75% detection probability for
+such sites is accurate, we would anticipate only a handful of
+absences (two to three sites) owing to detection failure.
+Regarding colonization time, sampling conducted in 2008
+detected round goby presence at five of our 2007 absence
+sites, and these sites were considered ‘invaded’ in this study.
+Most absence sites (44/52) occurred in streams where round
+gobies were not observed, however, and the eight absence
+sites that occurred upstream of a presence site typically had
+suboptimal goby habitat (high stream gradient, sandy/silty
+substrate). Although we cannot rule out lack of colonization
+time or inability to detect presence as sources of goby absences,
+unfavourable environmental conditions likely played a much
+larger role.
+A total of 23 sites were selected for the multi-year monitoring
+portion of this study. At these sites, round gobies cooccurred
+with at least one of five indigenous benthic stream
+fishes during summer 2007: Johnny darter (Etheostoma nigrum),
+mottled sculpin (Cottus bairdii), logperch (Percina caprodes),
+blackside darter (Percina maculata) and fantail darter
+(Etheostoma flabellare). These five indigenous species were
+selected because of previous studies from the Great Lakes
+indicating negative effects of round gobies (Janssen & Jude,
+2001; Lauer et al., 2004; Balshine et al., 2005) or because of
+suspected diet and habitat overlap (Poos et al., 2010). Each
+of these 23 sites was sampled again in 2010 using identical
+electrofishing methods, allowing for comparison of round
+goby and native species CPUE between years. We examined
+the change in round goby and native fish CPUE from 2007
+to 2010, expressed as a ratio, such that positive values indicate
+an increase and negative values indicate a decrease in
+CPUE. Ratios were calculated by
+þ2010 CPUE
+2007 CPUE
+when CPUE increased from 2007 to 2010 and calculated by
+2007 CPUE
+2010 CPUE
+when CPUE decreased from 2007 to 2010. To allow a ratio
+calculation when native species absence resulted in a 0
+denominator, absences were assigned a CPUE value of
+0.05 fish min
+1, equivalent to the minimum possible capture
+(one fish) in a standard 20-min electrofishing survey.
+Round goby density was estimated in four rivers (three
+sites in each river) through depletion electrofishing methods
+following Bohlin et al. (1989). At each of these 12 sites, a
+reach was cordoned off with two block nets and sampled in
+three consecutive electrofishing passes. A tow boat electrofishing
+unit with gas-generated pulsed DC current was used
+instead of the battery-powered backpack unit to provide a
+larger electrical field, resulting in greater capture efficiency
+and reducing the number of passes needed to observe clean
+depletion curves. These sites had predominantly run geomorphology,
+were comparable in terms of environmental characteristics
+and represented sites with above-average round goby
+CPUE. Average area sampled was 202 ± 60 (SD) m2, mean
+substrate size was 123 ± 43 mm, water temperature
+19.4 ± 3.5 °C, stream width 10.5 ± 2.1 m and mean depth
+0.38 ± 0.11 m.
+Environmental variables
+Several landscape-scale variables [watershed area, watershed
+slope, watershed soil permeability, mean July air temperature
+(a correlate of water temperature), baseflow index (90% exceedance
+flow/watershed area), stream gradient and watershed land
+use (categorized as per cent urban, agricultural, wetland and
+forested land)] were considered in our multivariate analysis of
+fish community composition. These data were obtained from
+a geographical information system (GIS) database (US
+Geological Survey, Great Lakes Aquatic GAP Analysis Project)
+and were calculated on the scale of confluence-bound stream
+segments, with each segment between the confluence of two
+streams considered as one unit. Conductivity, water temperature
+and per cent substrate composition, assessed at each site,
+were also considered potential predictors of fish community
+structure. Per cent substrate composition was visually assessed
+into the following categories: silt, sand, gravel, rock (cobble
+and boulder) or bedrock. Conductivity and water temperature
+were measured using a YSI 85 metre (YSI Inc., Yellow Springs,
+OH, USA). Watershed area values were log-transformed to
+produce a non-skewed distribution, and each environmental
+variable was z-standardized to convert all environmental data
+to the same unitless scale.
+Statistical methods
+Stream fish communities were related to environmental conditions
+and round goby CPUE using a redundancy analysis
+(RDA; Van den Wollenberg, 1977). RDA is a direct gradient
+analysis technique that partitions variation in community
+composition into components associated with multiple predictor
+variables. The response variables in a RDA can be
+expressed as a linear combination of the predictor variables,
+and the approach handles species abundance data, sample
+sites and environmental data simultaneously (Borcard et al.,
+1992). It is especially useful in understanding patterns of
+community composition and has been applied to fish communities
+in several contexts (Angermeier & Winston, 1999;
+Sharma et al., 2011). Rare species (species occurring in < 5%
+of sites) were removed from the analysis, as they can have a
+disproportionate effect on ordinations (Jackson & Harvey,
+1989). Tubenose gobies (Proterorhinus semilunaris), a Great
+Lakes invader in the same family as round goby (Gobiidae),
+were not captured at any of our sites. Species CPUE data
+were transformed using Hellinger distance, which decreases
+the importance of the most abundant species, as recommended
+by Legendre & Gallagher (2001). The subset of seven
+environmental predictors used for this analysis were selected
+because they explained a significant amount of variation in
+the community data (P < 0.05) and were minimally correlated
+(Pearson correlation coefficient, all r2 < 0.35). The
+‘packfor’ R package (creators: Ste´phane Dray, Pierre Legendre
+and Guilluame Blanchet) was used for the RDA analysis
+and included a forward selection procedure (env.sel) from
+which our subset of environmental variables was chosen. The
+package is available at http://www.bio.umontreal.ca/legendre/
+indexEn.html.
+Redundancy analysis, correlation analysis and linear
+regressions were performed using the R statistical package
+(version 2.13.2; www.r-project.org/). The map depicting
+round goby presence/absence and sample sites was constructed
+using ARC-GIS software (ESRI, Redlands, CA, USA).
+
+
+xresults
+Patterns of round goby abundance
+Round goby CPUE (number of fish captured per minute of
+electrofishing) and % relative abundance (% of total numerical
+catch) had strongly right-skewed distributions, with low
+CPUE and % relative abundance values at most invaded sites
+(Fig. 2). Round gobies were the numerically dominant
+species at four of the 30 invaded sites (sites in Big Creek,
+Pensuakee R., Sheboygan R. and Suamico R.). At these four
+sites (Fig. 1), round goby relative abundance ranged from
+31.5 to 83.3% of all individuals captured, and CPUE was
+significantly greater at these sites (mean of 0.83 fish min
+1)
+than at sites where gobies were not dominant (mean of
+0.31 fish min
+1) (P = 0.02, t = 2.56, d.f. = 27, two-tailed
+Student’s t-test assuming equal variance). Round goby relative
+abundance was 15.3% of all individuals captured on
+average, but this value drops to 8.8% excluding the four sites
+where they are numerically dominant. See Table S1 for
+stream names, global positioning system (GPS) coordinates
+and round goby CPUE of all sites.
+Round goby density was estimated through 39 depletions
+at a subset of sites (n = 12 sites in 4 streams) to provide a
+value comparable with other studies and ranged from 0.07 to
+0.36 fish m
+2. These sites represent areas with comparatively
+high round goby CPUE (mean of 0.53 in subset vs. 0.27 at
+goby-present sites not in subset).
+Predictors of round goby CPUE
+A RDA found only two environmental characteristics,
+watershed area and water temperature, to be significant predictors
+of round goby CPUE. These two predictors explained
+22.4% of the variation in round goby CPUE. Two biological
+predictors, species richness and Shannon diversity (Shannon
+& Weaver, 1949), only explained an additional 2.3% of the
+variation in round goby CPUE when added to the analysis.
+A RDA using only the two biological predictors explained
+6.9% of the variation in round goby CPUE, and neither
+biological characteristic was a significant predictor.
+Patterns in native fish communities
+Three community metrics, Shannon diversity, fish species
+richness and total fish CPUE, were compared for invaded
+and non-invaded sites (Table 2). Round goby sites had significantly
+greater Shannon diversity (1.56 vs. 1.23) and species
+richness (9.38 vs. 6.54) compared with non-invaded sites
+(P = 0.003 and < 0.001, respectively). Excluding gobies from
+diversity and richness calculations produced similar though
+less significant results (species richness, 8.38 vs. 6.54,
+P = 0.02; Shannon diversity, 1.44 vs. 1.23, P = 0.07). Neither
+total CPUE nor non-goby CPUE differed significantly
+between invaded and non-invaded sites.
+A RDA examining how the CPUE of 23 fish species related
+to seven environmental variables and round goby CPUE
+explained 31.2% of the variation in species-specific CPUE
+(Fig. 3). 15.3% of the variation was explained in the first
+two axes. Round goby CPUE was not a significant predictor
+of stream fish community composition (P = 0.28) but was
+included in the RDA because of biological relevance. Round
+goby CPUE was most strongly related to watershed area and
+mean July air temperature, although% rocky substrate and
+baseflow index were also positively associated. Species that
+fell within 0.1 RDA units of the origin were considered
+generalists relative to the predictor variables included in the
+RDA. As the round goby CPUE aligns primarily with the
+x-axis of the RDA plot, species with RDA1 values of less
+than 0.1 were considered positively associated with round
+gobies while species with RDA1 values of greater than 0.1
+were considered negatively associated with round goby. In
+total, eight taxa were positively associated with round goby
+CPUE, including three members of Percidae (Johnny darter,
+logperch and blackside darter), two members of Cyprinidae
+(hornyhead chub and common shiner) and three members
+of Centrarchidae (green sunfish, rock bass and smallmouth
+bass). Five species were negatively associated with round
+goby CPUE, including yellow perch, one species tolerant of
+low oxygen conditions (central mudminnow) and three taxa
+that are associated with cooler water temperature and higher
+gradient systems (rainbow trout, mottled sculpin and brook
+stickleback). Four species had differences in CPUE of at least
+1.0 fish min
+1 between goby-present and goby-absent sites:
+yellow perch, bluntnose minnow, brook stickleback and creek
+chub, although no statistically significant differences were
+found (Bonferroni-corrected a of 0.002). Sites where native
+species were absent were not included in these comparisons
+because our RDA indicated that such absences are far more
+likely to be due to environmental characteristics than round
+goby presence/absence.
+Impact of round gobies on native benthic fishes
+We compared the change in CPUE from 2007 to 2010 for
+round gobies to that of five indigenous species: Johnny
+darter, mottled sculpin, logperch, fantail darter and blackside
+darter (Fig. 4). Between 2007 and 2010, round goby
+abundance increased at 19 of 23 sites, with at least a doubling
+of round goby CPUE at 65% of sites (15 of 23). On
+average, round goby CPUE was 10.8 times higher in 2010
+than in 2007; at five sites, CPUE had increased more than
+20-fold from 2007 to 2010. Despite increases in round gobies
+CPUE, native species CPUE showed no major trends. The
+change in CPUE of Johnny darter (P = 0.87), mottled sculpin
+(P = 0.81), logperch (P = 0.24), blackside darter
+(P = 0.40) and fantail darter (P = 0.99) did not significantly
+correlate with the change in round goby CPUE.
+We also compared species richness at three of the four
+round goby–dominated sites (Fig. 1) to other sites located
+within the same river (n = 4 sites per river). Sites where
+round gobies were numerically dominant had 2.9 fewer
+native species on average when compared to other sites in
+the same rivers (P = 0.08, d.f. = 2, two-tailed paired t-test).
+This difference was at least partially explained by the absence
+of darter species (one or two of Johnny darter, fantail darter,
+blackside darter or logperch, depending on the stream) at
+the goby-dominated site compared with other sites in the
+river (average of 1.11 fewer darter species at the gobydominated
+site).
+
+
+xdiscussion
+We found round gobies were associated with high diversity
+streams, and we attribute this result not to high species
+diversity per se, but rather to round gobies inhabiting
+streams with an environmental profile that facilitates high
+species richness. Although the potential for diverse species
+assemblages to resist species invasions is well documented
+(Tilman et al., 1996; Hooper & Vitousek, 1998; Knops et al.,
+1999; Kennedy et al., 2002), environmental characteristics are
+often a greater structuring force than biodiversity (Moyle &
+Light, 1996; Holway et al., 2002), and abiotic factors
+favouring diversity can favour invasion success (Levine &
+D’Antonio, 1999; Foster et al., 2002; Marchetti et al., 2004).
+Our results corroborate this: a RDA of round goby
+abundance based on environmental characteristics explained
+three times as much variation as a RDA based on biological
+descriptors. Additionally, we observed greater native species
+richness (number of taxa) in streams invaded by round
+gobies (P = 0.02, Table 2). This may be related to a positive
+association between round goby abundance and watershed
+area and a negative association with environmental variables
+(i.e. high slope, cool temperature) typical of lower order
+streams (Fig. 3). Fish diversity, resource availability and
+habitat complexity tend to increase with watershed area
+(Gorman & Karr, 1978; Schlosser, 1982; Fauch et al., 1984;
+Lamberti & Steinman, 1997), though specific sites may be
+exceptions (Bott et al., 1985). Round gobies also have an
+energetic optimum temperature of about 26 °C (Lee & Johnson,
+2005) and appear to avoid colder streams (Kornis &
+Vander Zanden, 2010), which tend to support fewer species
+(Magnuson et al., 1979). Our findings therefore support
+recent evaluations of the diversity/resistance hypothesis
+suggesting abiotic factors positively correlated with species
+diversity improve invasion success, and often override the
+resistance effects of species richness (Stohlgren et al., 1999;
+Levine & D’Antonio, 1999; Hooper et al., 2005).
+We report a positive relationship between round goby
+presence and native species diversity, contrasting the finding
+that invasive species often contribute to biodiversity loss
+(Ricciardi & Rasmussen, 1998; Clavero & Garcı´a-Berthou,
+2005; Dextrase & Mandrake, 2006). Round gobies have been
+implicated in localized species extirpations and abundance
+declines in the Laurentian Great Lakes by several studies
+(Janssen & Jude, 2001; Lauer et al., 2004; Balshine et al.,
+2005). In contrast, we found stream fish community composition
+was strongly associated with environmental variables and
+not goby abundance. RDA only explained 30.3% of the variation
+in species-specific abundance, likely because the sampling
+strategy did not account for variables such as the chance
+distribution and establishment of individuals, animal activity,
+local disturbances or fine-scale environmental heterogeneity
+(Gauch, 1982).
+Although round goby abundance was not a significant
+factor in shaping stream communities, our analysis highlights
+several associations between round gobies and native species.
+Species positively associated with round goby abundance
+likely to be found in systems susceptible to invasion and
+may be vulnerable to negative effects. Amongst these species
+are three small, benthic Percid species – Johnny darter, logperch
+and blackside darter – that are particularly at risk
+because of dietary and habitat overlap with round goby
+(French & Jude, 2001; Poos et al., 2010). However, our study
+found no changes in the abundance of these species despite
+increases in round goby abundance from 2007 to 2010.
+Species negatively associated with round gobies are unlikely
+to co-occur because of preference for habitat characteristics
+suboptimal for round goby, including tolerance of low
+oxygen conditions (central mudminnow), watersheds with
+higher slope and faster flow (rainbow trout, brook stickleback)
+and cooler temperature (mottled sculpin). We also
+observed a negative association between yellow perch and
+round gobies, a finding opposite to that of one Great Lakes
+study (Dopazo et al. 2008). Similarly, limited co-occurrence
+of mottled sculpin and round goby in streams is particularly
+interesting as mottled sculpin declines in Lake Michigan were
+associated with round goby invasion (Janssen & Jude, 2001).
+This suggests round gobies, mottled sculpin and yellow perch
+share habitat preferences in the Great Lakes but not in tributaries.
+Impact assessments are emerging as an important component
+of understanding and managing invasive species, but
+impacts are often heterogeneous across an invaded range.
+Parker et al. (1999) define an invader’s impact by its range,
+abundance and per-capita effect. High abundance is often
+considered a defining quality for invasive species (Kolar &
+Lodge, 2001; Vale´ry et al., 2008), but recent evidence (G.J.A.
+Hansen, M.J. Vander Zanden, M.J. Blum, M.K. Clayton, E.F.
+Hain, J. Hauxwell, M. Izzo, M.S. Kornis, P.B. McIntyre, A.
+Mikulyuk, E. Nilsson, J.D. Olden, M. Papes, and S. Sharma,
+in review) suggests aquatic invasive species across a wide
+range of taxa (plants, molluscs, crustaceans and fishes) tend
+to have high abundance at few locations and low abundance
+at most locations throughout their range. This follows the
+same general trend observed for most native species (Brown
+et al., 1995, 1996). Our results suggest differences between
+round goby abundance and impact between the Laurentian
+Great Lakes and some of their tributaries. Round gobies are
+rapidly increasing in abundance in Lake Michigan tributaries,
+but current densities (0.07–0.36 fish m
+2 at sites with aboveaverage
+round goby CPUE) are low when compared to estimates
+from the Laurentian Great Lakes. Johnson et al.
+(2005) reported round goby densities ranging from
+0.62 fish m
+2 in sandy habitat to 6.94 fish m
+2 in rocky
+habitat in western Lake Erie, while Taraborelli et al. (2009)
+reported densities from 0.63 to 3.88 fish m
+2 across depth
+and substrate gradients in the Bay of Quinte, Lake Ontario.
+This comparison is limited by different density estimation
+methods (video transects vs. depletion electrofishing) and by
+a low number of studies reporting density (most report relative
+abundance). Relative abundance and CPUE data from
+our study can be compared with values reported from the
+downstream sections of Lake Erie tributaries owing to similar
+sampling methods. Round goby relative abundance is greater
+in these tributaries, with a mean of 33.5% vs. 15.3% reported
+from our study (Lake Erie mean combined from Phillips
+et al., 2003 and Krakowiak & Pennuto, 2008). CPUE is also
+greater, with abundance increasing from spring to autumn
+and peaking at 7.2 and 12.6 fish min
+1 in October. At 96%
+of our invaded sites, round goby CPUE was < 1 fish min
+1,
+with 1.8 fish min
+1 the maximum observed value. This demonstrates
+heterogeneity in round goby abundance amongst
+tributaries, which may be due to differences in habitat suitability
+or population residence time.
+Our ability to compare impact between Great Lake and
+tributary habitats is limited to comparing short-term effects
+on native benthic fishes; nevertheless, trends were notably
+different in these two habitat types. Johnny darter and
+mottled sculpin populations precipitously declined within
+1–2 years following the discovery of round gobies in southern
+Lake Michigan (Janssen & Jude, 2001; Lauer et al., 2004).
+Round gobies have also been associated with declines in logperch
+abundance (Balshine et al., 2005) and were predicted
+to negatively impact blackside and fantail darter abundance
+(Poos et al., 2010). Conversely, we observed no significant
+change in the abundance of five indigenous benthic fishes
+from 2007 to 2010 despite dramatic increases in round goby
+abundance. Although our comparisons are limited in scope,
+the density and impact discrepancies between ecosystems
+described here highlight the importance of considering an
+invader’s density when managing for their impacts.
+Although we report limited round goby abundance and
+impact on fishes in Lake Michigan tributaries thus far, this
+could potentially be due to sites only recently becoming
+invaded (e.g. short residency time). The observed increase in
+round goby abundance from 2007 to 2010 raises concerns
+that more prominent impacts will develop over time. There
+is often a time lag between invader establishment and growth
+in abundance (Crooks & Soule´, 2001), and other studies
+have reported high round goby abundance in tributaries with
+longer resident populations (Phillips et al., 2003; Carman
+et al., 2006; Pennuto et al., 2010). Although major gobyrelated
+changes to fish communities have been reported over
+short time periods in areas of the Great Lakes (Janssen &
+Jude, 2001; Lauer et al., 2004), similar changes may take
+longer to develop in stream ecosystems. Our comparison of
+invaded and uninvaded communities/habitats is also limited
+by the short residency time of round gobies in tributaries. As
+of 2007, round gobies only occupied about 20% of their
+forecasted range in habitats downstream of impassable
+barriers (Kornis & Vander Zanden, 2010). Although many
+uninvaded sites examined by our study fit an environmental
+profile unfavourable to round gobies (e.g. cooler water temperature,
+high stream gradient), several of these sites may
+become invaded as the range expands in the region. This is
+especially likely for the 11 of our 52 absence sites that were
+predicted to be invaded by the range forecast model presented
+by Kornis & Vander Zanden (2010). Assessments of
+early-stage invasions tend to underpredict potential range
+and impact compared with those conducted at later stages
+(Va´clavı´k & Meentemeyer, 2012). However, early-stage
+characterization of an invader’s impact and preferred habitat
+provides a greater opportunity to use gained information for
+preventative management, a distinct advantage over late-stage
+studies. We recommend further investigation into the effects
+of invader residency time on the accuracy of invasion assessments,
+with a focus on identifying stages of invasion that
+maximize the trade-off between accuracy and utility.
+This study highlights several challenges in studying and
+managing species invasions. An invader’s abundance and
+impact will likely vary at multiple spatial scales, and assessments
+of this variability could better inform decision makers.
+In the case of round gobies, we highlighted different shortterm
+impacts on native benthic fishes between lake and
+stream ecosystems, provided evidence that abundance could
+differ between these systems and described variability in
+abundance among stream sites. Management decisions often
+take place at local scales, and evaluation of invader impact at
+this scale may be essential to this process. In addition,
+greater clarity is needed when referring to invasion success,
+which can be defined by either presence or abundance. This
+and other studies (Moyle & Light, 1996; Foster et al., 2002;
+Hooper et al., 2005) point to environmental characteristics
+as the predominant factor in the establishment of invasive
+species, a relationship that can produce positive associations
+between invader presence and indigenous species diversity.
+What promotes invader presence will not necessarily promote
+abundance, however, as competitor density and
+diversity may limit invader abundance by reducing niche
+opportunity. The relative importance of environmental and
+biological factors will differ on a species-by-species basis.
+Incorporating both environmental and biological factors in
+understanding the spread, abundance and impact of invasive
+species will lead to improved ability to assess, predict and
+effectively manage for their effects.

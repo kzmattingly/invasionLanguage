@@ -1,0 +1,660 @@
+xabstract
+We examined how dominance (% canopy
+cover) and invasion history of common reed, Phragmites
+australis, affected benthic macroinvertebrate
+diversity and density in 8 marshes along Lake Erieís
+southern shoreline. We also compared macroinvertebrate
+densities among patches (0.25 m2
+) of reed, cattail
+(Typha spp.), and native flora (e.g., Sagittaria, Sparganium)
+and epiphytic algal communities on submerged
+stems of reed and cattail. Narrow-leaf cattail
+(T. angustifolia) is also a common invasive plant to
+these wetlands, but does not greatly change plant
+community composition or ecosystem conditions like
+reed. Macroinvertebrate diversity (ShannonñWeaver
+H0
+) was positively related to reed cover and was highest
+(4.6) in two marshes with *35- and 5-year invasion
+histories. Shading from high reed cover increased
+H0
+-diversity, in part, by reducing the abundance of
+floating duckweed, which harbored many Hyalella
+azteca amphipods. Percent Ephemeroptera, Odonata,
+and Trichoptera was low to moderate across marshes,
+regardless of reed cover and invasion history. Macroinvertebrate
+density was not affected by reed cover or
+average plant stem density, and did not differ among
+plant types. However, epiphyton densities and %
+diatoms were greater on reed than on cattail, suggesting
+reed provides a better feeding habitat for microalgal
+grazers than Typha. Abundance rankings of common
+species in these diatom-dominated communities were
+also typically dissimilar between these plant types.
+Although % grazers was unrelated to epiphyton densities
+and % diatoms, grazer identity (snails) differed
+between natural and diked marshes, which had different
+microalgal food supplies. Our findings suggest that
+Phragmites does not necessarily adversely affect macroinvertebrate
+community structure and diversity and
+that invasion history alone has little effect on the
+H0
+-diversityñreed dominance relationship.
+xintroduction
+Emergent macrophytes play a major role structuring
+benthic communities in salt and freshwater marshes
+(Bertness 1991). Macrophytes can directly affecbenthic communities by providing habitat and trophic
+support (Dvorak and Best 1982), and indirectly affect
+them by influencing ecosystem-processes such as
+hydrology, nutrient status, and sedimentation rate
+(Levin and Talley 2000; Cooper et al. 2007).
+Phragmites australis (Cav.) Trin. ex Steud., the
+common reed, is a tall ([2-m), perennial grass that
+has existed in wetland plant communities in North
+America for at least 3,000 years (Orson et al. 1987).
+However, only in the last *60 years has reed greatly
+expanded its range to displace native vegetation in
+many brackish and freshwater marshes (Marks et al.
+1994). Reasons for its rapid spread and dominance
+probably include the introduction of a competitively
+superior genotype (haplotype M) from Europe
+(Galatowitsch et al. 1999; Saltonstall 2002), the
+ability of clones to transport nutrients by rhizomes to
+different plants in a stand (Amsberry et al. 2000), its
+relative unpalatability to invertebrate herbivores
+(Polunin 1982; Graca et al. 2001), and its ability to
+tolerate, and even thrive in, low water (Marks et al.
+1994) and highly saline (Bernstein 1981) conditions.
+Habitat homogenization resulting from reed spread
+and dominance has been associated with reductions in
+benthic fish and macroinvertebrate diversity and
+densities in some marine tidal marshes (Angradi
+et al. 2001; Able and Hagan 2003; Raichel et al.
+2003). However, reed expansion has also led to
+neutral or positive effects on the macrobenthos (Fell
+et al. 1998; Able and Hagan 2000; Warren et al.
+2001; Hanson et al. 2002; McClary 2004), in part
+because reed effects on abundance patterns can be
+highly taxon-specific (Talley and Levin 2001).
+Between-system variation in reed effects may also
+partly relate to differences in stand age/size and the
+relative dominance of reed within the plant community.
+Rooth et al. (2003) found reed standing crops to
+be 39 greater, and sedimentation rates 29 greater, in
+20-year old stands than in 5-year old stands in a tidal
+marsh in Eastern Maryland. As aging reed beds
+spread to form near-monocultures, the eventual
+collapse and submersion of their above-ground
+biomass ([1 kg m-2 year-1
+; Kve?t and Westlake
+1998; Warren et al. 2001) creates large detrital pools
+that can affect system hydroperiods and geochemical
+patterns (Kneib 1997; Templer et al. 1998), and cause
+sediment anoxia and phytotoxin accrual (Armstrong
+et al. 1996). Decreases in hydroperiod from both
+sedimentation and reed litter accumulation can, in
+turn, decrease macroinvertebrate and fish abundance
+(Fell et al. 2003; Raichel et al. 2003). However,
+Phragmites invasion, at least initially, may produce
+mixed vegetative stands that actually increase habitat
+heterogeneity (Posey et al. 2003), and possibly
+macrofaunal and epifloral diversity. Thus, determining
+whether Phragmites has a qualitatively different
+effect on patterns of benthic biodiversity in stands of
+different age or relative dominance is highly relevant
+to whether and when reed is controlled and how
+marshes are managed to maintain biodiversity.
+Here, we compare benthic macroinvertebrate and
+epiphytic algal communities in Lake Erie coastal
+marshes with varying amounts and invasion histories
+of reed. We realize timing of invasion does not
+necessarily correspond with stand age, but dates of
+reed establishment and spread can relate to changes
+in system spatial structure and biophysical processes
+(Rooth and Stevenson 2000; Rooth et al. 2003),
+which may influence current abundance patterns of
+the benthos. Reed has historically been a minor
+component of wetland plant communities of the
+Lower Laurentian Great Lakes, but has spread rapidly
+since 2000 when lake water levels decreased (Wilcox
+et al. 2003). To date, only a few studies done in
+freshwater wetlands have explicitly examined Phragmites
+effects on benthic community structure, but
+these studies suggest that densities of macroinvertebrates,
+fish, and amphibians are similar between small
+(\0.5 ha), young (\6-years old) stands of reed and
+cattail (Typha spp.) (Meyer 2003; Kulesza et al.
+2008). Narrow-leaf cattail (T. angustifolia L.) is
+another invasive plant common to many Great Lakes
+coastal marshes (Reed 1988; Shih and Finkelstein
+2008) but is rapidly being replaced by reed
+(Marks et al. 1994; Wilcox et al. 2003). However,
+T. angustifolia is considered more ëdesirableí because
+it has not caused dramatic changes in plant composition,
+or supposedly altered wetland function and
+value, like reed (Findlay et al. 2002). Effects of reed,
+as well as plant type and heterogeneity, on epiphyton
+communities in these marshes are essentially
+unknown, but are important to understanding grazer
+assemblages and trophic structure.
+Our study addressed several questions: (1) How
+does macroinvertebrate diversity relate to reed dominance
+(% canopy cover) and invasion date? (2) Do
+macroinvertebrate densities differ between patches of
+reed, cattail, and native flora? (3) Do epiphyton densities and assemblages differ between P. australis
+and Typha angustifolia stems? Thus, we also aimed
+to explore how these invasive plants might differentially
+affect benthic biodiversity in freshwater marsh
+ecosystems.
+xmethods
+We sampled 8 marshes along Lake Erieís southern
+shoreline from Lake Co., Ohio, *40 km NE of Cleveland (41240
+N, 81510
+W) to Ottawa Co.
+*25 km E of Toledo (41360
+N, 83480
+W) and
+Maumee Bay (Fig. 1). Surface waters of each wetland
+are linked to Lake Erie to varying degrees and in
+different ways. Sheldon Marsh is affected by lake
+seiches and water levels by a permanent *25-m wide
+connection at the western end of its 1.8-km long
+barrier beach (Morang and Chader 2005). Old
+Woman Creek (OWC) and Arcola Creek are drowned
+river mouths that are connected to Lake Erie only
+after floods destroy sand-barriers built during storm
+interludes (Herdendorf et al. 2004). Dupont Marsh is
+a riparian wetland along the Huron River, so it is
+indirectly linked to Lake Erie 2.5 km to the north.
+Mentor Marsh is *1-km south of Lake Erie and lies
+in the ancient bed of the Grand River (Whipple
+1999). It is unclear how the marshís hydrology is
+connected to Lake Erie (Fineran 2003). Darby,
+Magee, and Metzger Marshes are diked and have
+only narrow, regulated connections or pumps to Lake
+Erie to draw enough water to stabilize water levels to
+maintain emergent vegetation for macrofaunal communities
+(de Szalay and Cassidy 2001). Despite their
+hydrological differences, these marshes are generally
+eutrophic, owing to agriculture or urbanization in
+their watersheds (Herdendorf et al. 2004).
+Reed amount and age vary among these wetlands
+(Table 1) because of differences in invasion history,
+control efforts, and salt contamination. Reed was
+absent or rare in Sheldon, OWC, Dupont, and the
+Fix diked marshes until the drop in Lake Erie water levels
+in 2000 shifted the vegetation mainly from openwater
+plant communities dominated by American
+lotus (Nelumbo lutea Willd.) and water lily (Nymphaea
+odorata Ait., Nuphar advena Ait.) to emergent
+plant communities dominated by T. angustifolia and
+Phragmites (Trexel-Kroll 2002; Whyte et al. 2009).
+Based on this shift, we estimate reed stands in these
+marshes to be B4-years old at the time of the study.
+The native, mixed plant communities in these
+marshes, and Arcola Creek, contain mostly sedges
+(Carex spp., Sparganium sp., Schoenoplectus acutus
+Muhl. ex Bigelow), and broad-leaf herbaceous
+emergents (Sagittaria latifolia Willd.) (Reed 1988;
+Whyte et al. 2003). Phragmites is only patchily and
+sparsely distributed in Arcola Creek largely because
+of a cutting regime in the mid-1980s that reduced
+reed abundance and vigor and facilitated recovery of
+a mixed plant community (Marks et al. 1993). In
+contrast, reed is essentially the only macrophyte in
+Mentor Marsh, probably because of its ability to
+tolerate salt leaching from a nearby mine (Whipple
+1999). Even in 1976, reed covered 60ñ70% of the
+marsh (Bernstein 1981). Thus, some reed stands in
+both Arcola Creek and Mentor Marshes are probably
+C20-years old.Macroinvertebrates were sampled on 8 dates from 3
+July to 26 August 2004. One wetland was sampled on
+each date, and an area (*3ñ4 ha) with a mix of
+Phragmites, Typha, and native flora was sampled at
+each wetland, except Mentor. Sample areas were
+selected mainly on the basis of accessibility by canoe,
+footpath, or nearby road. Samples were taken in a
+0.5 9 0.5 m throw trap (0.5 m high, open top and
+bottom), framed by wood and sided with nylon
+screening (5 mm mesh). The bottom was weighted
+with rebar to help sink and keep the trap flush with
+bottom sediments. To further increase capture effectiveness,
+throws were usually made 1ñ5 m within the
+emergent plant zone, where Phragmites stem heights
+at apex were typically \2.0 m and water depths
+\0.4 m. Throws were made at 10 m intervals along
+*50ñ100 m-long transects that generally paralleled
+edges of emergent plant zones. Within each wetland,
+17ñ20 throws were made along 2 or 3 transects.
+Within each throw, live macrophyte stems were
+counted and vegetative microhabitats were assigned
+as Phragmites-dominated, Typha-dominated or native
+flora-dominated (i.e., native emergent and floatingleaved,
+rooted plants) based on a plant type comprising[50%
+of the total stem count. Immediately after
+counts, a standard D-frame net (800 9 900-lm
+mesh) was used to sweep the inside of the trap until
+no macroinvertebrates were captured in two consecutive
+sweeps. Each sample was preserved in 95%
+ethanol in a Ziploc bag (1 gal.). Macroinvertebrates
+were sorted from vegetative debris in the laboratory
+and stored in 95% ethanol. Macroinvertebrates were
+usually identified to genus using Brigham et al.
+(1982) and Peckarsky et al. (1990) as primary
+references. We lacked the expertise for generic
+identifications of the Oligochaeta and Hydrachnida,
+and thus used higher classifications, and we identified
+chironomids to subfamily.
+Macroinvertebrate communities in sampled areas
+of each wetland were characterized using the ShannonñWeaver
+diversity index (H0
+) (Shannon and
+Weaver 1963), density estimates, functional feeding
+group composition, and proportion of Ephemeroptera,
+Odonata, and Trichoptera (% EOT). The Shannonñ
+Weaver formula incorporates both species richness
+and evenness, and is expressed as:H0 º X pilnpi
+where pi is the proportion of individuals found in the
+ith species. H0 was computed from a composite of all
+throws in a wetland. Densities were calculated for
+each throw in each wetland and expressed as
+individuals/m2
+. However, densities were likely
+underestimated because the use of both the throw
+trap and dip net undoubtedly allowed some mobile
+organisms to escape capture (Kulesza et al. 2008).
+Each taxon collected at each wetland was assigned to
+one of four key functional feeding groups, shredders,
+predators (piercers, engulfers), grazers, and collectorgatherers,
+or a fifth group, other (i.e., parasites,
+scavengers, unassigned) using mainly Merritt and
+Cummins (1996). Last, % EOT, an indicator of
+system ecological health (Stewart and Downing
+2008), was calculated as the density of these groups
+divided by the total macroinvertebrate density in the
+wetland, times 100.After throws, epiphyton was collected from 3
+Phragmites and 3 Typha stems at each wetland to
+compare algal composition and densities between
+plant types and wetlands. Stems were collected
+along the same transects as throws but at a location
+where both reed and cattail were present. Our aim in
+choosing all stems from one location within a
+sample area was to decrease the effect of spatial
+variability on epiphyton communities between plant
+types. A *10 cm long piece of submerged, live
+stem was cut near the base, placed in a PVC tube
+with corked ends, and refrigerated in the laboratory
+at 4C. After *24 h, length and diameter of each
+host stem was measured to determine surface area to
+estimate algal cell densities, and algae from the
+entire stem were scraped with the blunt side of a
+scapel into distilled water of known volume to
+determine assemblages. Samples were homogenized
+to produce a uniform suspension, and all units
+from a *0.04 mL subsample were placed on a
+22 9 22 mm cover slip and counted at 4009
+magnification. A unit was equivalent to a cell for
+colonial and unicellular algae or a 10-lm length of
+filamentous algae with relatively large cells (e.g.,
+Mougeotia). Either 300 units were counted or 500
+fields (field area = 0.1257 mm2
+) were viewed for
+each sample. Epiphyton H0 for each plant type per
+wetland was computed from a composite of counts
+from sample stems. Cell counts were used to
+compute densities (cells/cm2
+) and to determine
+relative abundances (%) of the common divisions,
+Bacillariophyta (diatoms), Chlorophyta (green
+algae), and Cyanophyta (blue-greens). Taxa were
+identified to genus or species using Wehr and
+Sheath (2003).
+An additional subsample (5ñ10 mL) was taken
+from each sample per wetland to confirm diatom
+identification and to determine diatom assemblages,
+because these algae are an important food to grazers
+(Lamberti and Moore 1984). Subsamples were
+cleaned with concentrated sulfuric acid, 6% potassium
+dichromate, and concentrated hydrogen peroxide,
+air-dried on a cover slip, and mounted on a slide
+with Hyrax medium. Typically 200ñ250 diatoms
+per subsample were counted and identified to genus
+or species using Krammer and Lange-Bertalot (1986,
+1988, 1991a, b).We estimated % canopy cover, used as an indicator of
+reed relative dominance, and determined the water
+chemistry of sample areas in each wetland. Reed
+cover was estimated visually in 1-m2 quadrats
+outlined by PVC pipe. A quadrat was positioned
+1ñ2 m from the side, but outside the path, of each
+throw. The mean cover from the 17ñ20 quadrat
+samples per wetland was assigned to one of five
+classes, each corresponding to a specific % cover
+range: 0ñ5, [5ñ25, [25ñ50, [50ñ75, and [75ñ100
+(Brower et al. 1998). This cover range was used as an
+estimate of % reed cover in the sampled area of a
+wetland. The advantage of this coarse-scale classifi-
+cation is that there is little chance of personal error in
+class assignments, yet when results from many small
+quadrats per site are averaged, dominance differences
+among sites can become evident (Daubenmire 1968).
+Samples for water chemistries (n = 3 per wetland)
+were taken 5ñ10 cm below the surface from an
+untrampled area along transects where stems were
+collected. Each sample was collected in a 250 mL
+acid-rinsed, polypropylene bottle, immediately
+placed on ice in the field, refrigerated (4C) in the
+laboratory, and analyzed within 24 h of collection.
+Nitrate (NO3
+-) and phosphate (PO4
+-3
+), indicators of
+eutrophication and determinants of microalgae productivity
+and composition (Borchardt 1996), were
+measured by the cadmium reduction method and the
+ascorbic acid, two reagent method, respectively,
+using a spectrophotometer. Calcium (Ca?2
+), a
+potential limiting element for gastropods (Lodge
+et al. 1987), which are key grazers in some of these
+systems (Kulesza et al. 2008), was measured using
+atomic absorption spectrophotometry (APHA 1998).
+Chloride (Cl-) levels, which can vary greatly
+between marshes depending on pollutional source
+and affect reed abundance (Whipple 1999), were
+measured by potentiometric titration using a standard
+silver nitrate solution (APHA 1998).Multiple regression analyses (Wilkinson 2000,
+SYSTAT version 9.0) were used to determine
+whether % Phragmites cover and total macrophyte
+stem density affected macroinvertebrate H0 and
+density, and % EOT. For Phragmites cover, we used the average estimated cover range (1ñ5) of each
+sample area per wetland in the model. We compared
+macroinvertebrate densities between Phragmites, Typha,
+and native flora with two-way ANOVA, using
+wetland (excluding Mentor) as a blocking variable
+(SYSTAT 9.0). Relative proportions of the five
+functional feeding groups were compared among
+wetlands using a G-test for heterogeneity (Sokal and
+Rohlf 1995). Multiple regressions were also used to
+determine whether grazer abundance (%) was related
+to epiphyton densities and % diatoms and whether
+epiphyton densities and % diatoms were related to
+NO3
+- and PO4
+-3 levels (SYSTAT 9.0). We ran paired
+t-tests to compare epiphyton H0
+, density, and %
+diatoms between reed and cattail because sample
+stems were taken from one general locality in each
+wetland, which might correlate their epiphyton communities
+in some way (Sokal and Rohlf 1995).
+Relative frequencies of the dominant diatoms were
+compared between reed and cattail for each wetland
+using Kendallís coefficient of concordance (W) (Sokal
+and Rohlf 1995). Percent EOT and grazer abundance
+were arscine-transformed, whereas stem, algal, and
+macroinvertebrate densities were log (x ? 1) transformed
+prior to analyses to homogenize variances.
+
+results
+Multiple regression showed that macroinvertebrate
+diversity (H0
+) was positively related to Phragmites
+cover (Fig. 2; Table 2). Sample areas in Mentor and
+Metzger Marshes, with high reed cover (50ñ75%),
+had the highest H0
+-diversity (4.6), whereas Sheldon
+Marsh, with low reed cover and a relatively high
+abundance of floating-leaved macrophytes, had the
+lowest H0
+-diversity (1.1) (Table 3). Average macrophyte
+stem density did not significantly influence
+macroinvertebrate H0 (Table 2).
+Phragmites cover and average macrophyte stem
+density did not affect sample-area macroinvertebrate
+density (multiple regression, R2 = 0.036, P = 0.912,
+n = 8) (Table 3). Among plant types, average
+(±1SE) macroinvertebrate density, computed by
+pooling throws across wetlands, was slightly greater
+in Phragmites (183 ± 34, n = 39) than in Typha
+(116 ± 16, n = 58) and native flora (158 ± 16n = 48), but this difference was not statistically
+significant (2-way ANOVA, plant type, F2,117 =
+1.764, P = 0.176).
+Functional feeding group composition varied
+greatly among wetlands (GH = 10,217, df = 4,
+P\0.001), as did the dominant feeding group in each
+wetland (Fig. 3). Grazers were particularly abundant in
+Mentor, where Gyraulus sp. and Physa sp. snails
+together comprised 32% of all macroinvertebrate
+captures. Grazer abundance (%) was unrelated to
+epiphyton densities and % diatoms (multiple regression,
+R2 = 0.222, P = 0.535, n = 8), but grazer
+identity differed between diked and natural marshes.The snails Physa sp. and Fossaria sp. were generally
+the dominant grazers in natural marshes, except at
+Sheldon where Physella gyrina Say was especially
+abundant. However, Stagnicola sp. was the dominant
+snail in diked marshes, and was not captured in the
+natural marshes. Average stem density was also greater
+in diked marshes than in natural marshes (Table 3;
+1-way ANOVA, F1,6 = 19.131, P = 0.030). Mean
+water Ca?2 levels were C30 mg/L in all marshes
+(Table 1); levels B5 mg/L can limit shell formation,
+and hence, snail abundance (Lodge et al. 1987).
+Shredding macroinvertebrates were particularly
+abundant at Sheldon and Darby, where the amphipod
+Hyalella azteca Saus. comprised 64 and 57% of total
+macroinvertebrate captures, respectively. Amphipods
+were particularly abundant in throws with duckweed
+(mostly Lemna minor L.). Predators, especially
+Trichocorixa spp. waterboatmen, were abundant at
+Arcola Creek and Metzger Marshes.
+Percent EOT ranged from *1 to 18% across
+wetlands (Table 3) and varied independently from
+both Phragmites cover and macrophyte stem density
+(multiple regression, R2 = 0.144, P = 0.679, n = 8).
+The predominant ephemeropterans in all marshes
+were Caenis latipennis Banks and Callibaetis sp.,
+whereas the dominant odonates were Anax junius
+Drury, Ischnura verticalis Say, and I. posita Hagen.
+The only trichopteran captured was Polycentropus sp.
+at Darby.
+Epiphyton
+Epiphyton H0 did not differ between reed and cattail
+stems from the 7 marshes with both macrophytes
+(paired t-test, t = -1.473, P = 0.191, df = 6)
+(Fig. 4). Reed epiphyton H0 was highest at Mentor
+Marsh and Arcola Creek (both 3.1). However,
+epiphyton densities were significantly higher on
+Phragmites than on Typha (t = -2.604, P = 0.040,
+df = 6), as were % diatoms (t = 3.972, P = 0.007,
+df = 6) (Fig. 4). Location-specific epiphyton densities
+and % diatoms, computed by pooling stem types
+within each marsh, were unrelated to NO3
+- and PO4
+-3
+levels (multiple regression, both P C 0.562).
+Diatoms comprised, on average, 80ñ98% of epiphytic
+algal communities in all wetlands, except At Metzger, the cyanophtye Tolypothrix tenuis
+Ku®tz. and the chlorophytes Ulothrix spp. and Oedognoium
+sp. jointly comprised 42ñ56 and 79ñ92% of
+epiphytic densities on Phragmites and Typha, respectively.
+Elsewhere, cyanophytes and chlorophytes
+comprised 0ñ11 and *1ñ12% of the microalgal
+community, respectively, with Oscillatoria tenuis Ag.
+and Pseudoanabaena sp. being the dominant bluegreens
+and Oedogonium spp. the dominant green
+alga.Metzger Marsh, where \20% of the community was
+diatoms (Table 3). Further, 9ñ13 species comprised
+C60% of the total diatom density at each wetland.
+Rankings of these species were dissimilar between
+Phragmites and Typha stems in 5 of 7 wetlands
+(Kendallís concordance, all P[0.05), and were
+concordant at Darby (W = 0.945, P\0.05) and
+Arcola (W = 0.920, P\0.05). Generally, Achnanthes
+hungarica Grun. was more abundant on Phragmites,
+whereas Navicula confervacea (Ku®tz.) Grun.
+was more abundant on Typha (Fig. 5). Other common
+diatoms included A. lanceolata (Bre¥b.) Grun., Eunotia
+bilunaris Ehrenb., Gomphonema parvulum Ku®tz.,
+and Nitzschea palea (Ku®tz.) W. Sm. (Fig. 5).
+xdiscussion
+We found that reed cover positively affected macroinvertebrate
+H0
+-diversity, despite using broad cover
+categories that likely decreased our ability to detect
+an effect. Our results also indicate that macroinvertebrate
+densities were similar among patches of reed,
+Typha, and native flora. Studies done in oligohaline
+salt marshes similarly show that reed invasion and
+dominance does not necessarily adversely affect
+benthic macroinvertebrate diversity and density (Fell
+et al. 1998; Able and Hagan 2000; Warren et al.
+2001; Hanson et al. 2002; McClary 2004).
+Reed cover, and its effect on light penetration, may
+impact the macrobenthos by affecting underlying
+epifloral communities, and hence trophic processes.
+For example, cordgrass (Spartina foliosa) in salt
+marshes can generate considerable shading, which
+can increase benthic macrofaunal diversity, particularly
+the microalgae grazers, by increasing the
+diversity and density of their diatom food supply
+(Whitcraft and Levin 2007). Dense reed cover can
+also generate considerable shading (Gu®sewell and
+Edwards 1999), which may have affected macroinvertebrate
+diversity in our sample areas by increasing
+diatom abundance (%). We were unable to relate
+epiphyton density and % diatoms to reed cover
+because algal sampling and reed dominance estimates
+were done at different spatial scales (one location vs.
+entire sample area, respectively). However, we did
+find that diatom-dominated epiphyton was consistently
+denser on reed than on Typha across wetlands.
+Kulesza et al. (2008) suggested that differences in
+epiphyton densities between reed and cattail could be
+from differences in allelopathic effects generated by
+phytotoxic leachates (phenoloic compounds [e.g.,
+caffeic acid, 2-chlorophenol, salicylaldehyde)] from Typha (Gallardo et al. 1998, 1999). They also attributed
+a finding of more herbivorous snails in stands of
+Phragmites than in Typha to this difference in
+microalgal food supply. Regardless of the underlying
+mechanism, it appears reed provides a better feeding
+habitat for microalgal grazers than Typha.
+Still, it remains unclear whether food is driving
+grazer abundance in these marshes. Grazer abundance
+(%) was unrelated to epiphyton density and %
+diatoms; an unexpected result if this trophic link
+was bottom-up controlled. However, it is possible
+food supply is accounting for some taxon-specific abundance patterns. We found Physa and Stagnicola
+gastropods to be the dominant grazers in natural and
+diked marshes, respectively. Stagnicola adults are
+generally 2ñ39 larger, eat more, and are better
+competitors than Physa adults (Brown 1982; Turner
+et al. 2007). We also found macrophyte stem
+densities to be higher in diked marshes than in
+natural marshes. If diatom supply is linked to stem
+density, and to hydrological stability that helps ensure
+epiphyton submergence, then food may partly explain
+abundance differences of these snails between marsh
+types.
+Reed shading may indirectly affect food supply,
+and hence benthic macrofaunal diversity, by directly
+affecting duckweed abundance. Floating duckweed
+(mostly Lemna minor) was essentially absent from
+heavily shaded areas with high reed cover, but was
+abundant along the lightly shaded, open waterPhragmites
+interface. This pattern was particularly
+evident at Sheldon, where we captured large numbers
+of H. azteca, a facultative detritivore (Kulesza and
+Holomuzki 2006), in dense mats of duckweed near
+Nelumbo beds. As a consequence, species evenness,
+and hence H0
+-diversity (1.1), at the marsh were
+relatively low. Chilton (1990) and Hann (1995)
+similarly found high numbers of H. azteca in dense
+beds of floating-leaved Ceratophyllum, which accumulates
+edible organic matter and provides shelter
+from predators. Duckweed may provide similar
+benefits to amphipods in our study marshes. Although
+the exact mechanisms behind our observed relationship
+between reed cover and macroinvertebrate
+diversity remain unclear, studying how reed shading
+affects food supplies, predator hunting success, or
+understory physical conditions (e.g., water and sediment
+temperatures) will provide information on the
+importance of light as a structuring agent of faunal
+communities in emergent plant zones.
+Invasion history appears to have little influence on
+the H0
+-diversityñreed dominance relationship. We
+found high macroinvertebrate diversity (H0 = 4.6) in
+Mentor Marsh, where reed invaded [30 years ago
+and comprises *100% of the emergent plant community
+(Whipple 1999). Macroinvertebrate H0
+-diversity
+was also 4.6 in Metzger Marsh, where reed was
+rare before 2000. Sampled areas in these marshes also
+had the highest reed cover estimates in the survey
+(Table 3). Moreover, % EOT was low to moderate
+(USEPA 2002; Tangen et al. 2003) across marshes
+and unrelated to reed invasion history, further suggesting
+other factors are driving macroinvertebrate
+abundance patterns. At Mentor, drought caused
+standing water to be present only in semi-isolated
+pools, where nearly all benthic macroinvertebrates
+and fish (mudminnows, Umbra limi Kirt.) were
+aggregated. This spatial clustering shaped by surface
+hydrology likely contributed to the high macroinvertebrate
+H0
+-diversity observed at this marsh. Plant
+litter accrual, which can positively affect macrobenthic
+detritivore densities (Warren et al. 2001), can
+likely be ruled out as a factor, given an accidental fire
+in 2003 burned roughly a third of the marsh,
+including our sample area. Reed was essentially the
+only emergent plant present in Mentor the following
+year, suggesting the burn was not hot enough to kill
+roots. Last, relatively high haline conditions can also
+be ruled out as a primary determinant of benthic
+biodiversity, given macroinvertebrate and epiphyton
+H0 and % EOT were comparatively high at Mentor
+(Table 3).
+Multiple regression analysis showed that stem
+density had no detectable effect on macroinvertebrate
+diversity or density, suggesting that macrohabitat
+suitability in stands did not depend on live shoot
+number per se. Kulesza et al. (2008) similarly
+reported that benthic macroinvertebrate densities in
+emergent plant zones in OWC were unrelated to stem
+densities. However, macroinvertebrate diversity can
+be positively related to macrophyte diversity (Whyte
+et al. 2009), suggesting that management practices
+that promote the long-term maintenance of a diverse
+plant community will also promote a functionally
+diverse macroinvertebrate community. Even slight
+increases in plant diversity can increase macrobenthic
+diversity (Whyte et al. 2009), so the curbing of reed
+expansion and dominance appears critical to maintaining
+overall system health. Short-term control of
+reed expansion can be accomplished by herbicide
+(glyphosates) application and/or cutting (Carlson
+et al. 2009), both of which have no discernable
+detrimental effect on macrobenthic communities
+(Warren et al. 2001; Kulesza et al. 2008). However,
+the macrophyte diversityñfaunal diversity relationship
+in these freshwater coastal marshes remains
+unclear, particularly when considering the high
+macroinvertebrate H0
+-diversity in Phragmites-dominated
+Mentor Marsh. It does seem clear that systemwide
+replacement of native flora by Phragmites causes major shifts in faunal community composition,
+at least in brackish marshes (e.g., Benoit and
+Askins 1999; Meyerson et al. 2000; Angradi et al.
+2001; Robertson and Weiss 2005). We propose that
+future studies elucidate the ëëcriticalíí amount or age at
+which spatial structure and biophysical processes are
+disrupted by reed, given 100% eradication of reed is
+probably economically impossible and ecologically
+unnecessary. We also suggest more comparative work
+be done in Great Lake coastal wetlands, like that of
+Meyer (2003), to assess how reed amount/age affects
+other macrofauna, such as waterfowl, songbirds,
+mammals (e.g., muskrat, deer), and amphibians.

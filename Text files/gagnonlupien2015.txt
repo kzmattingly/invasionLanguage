@@ -1,0 +1,1168 @@
+xabstract
+
+
+ The Eurasian genotype of common reed Phragmites australis subsp. australis is
+
+rapidly invading freshwater marshes in North America. Several bird species
+
+depend upon particular plant assemblages for feeding and reproduction and
+
+could be adversely affected by the expansion of this invader. The objective of
+
+this study was to evaluate the effect of common reed on the abundance, richness,
+
+diversity and site occupancy of bird assemblages in freshwater marshes
+
+recently invaded by the plant (southern Quebec, Canada). We conducted fixeddistance
+
+point counts for songbirds (passerines and rails) and visual surveys for
+
+waterbirds (ducks, geese and waders) during two nesting seasons (2009 and
+
+2010). There were major structural differences between common reed stands and
+
+marsh vegetation assemblages dominated by other plant species (bulrushes, cattails,
+
+sedges). However, there was a little difference in abundance, richness,
+
+diversity and site occupancy for songbirds. Marsh wren Cistothorus palustris, a
+
+wetland specialist, was the only nesting bird that preferred a native plant
+
+(cattail) over common reed, probably because common reed stands have low
+
+plant diversity and few appropriate nest materials. No major differences were
+
+observed in the abundance of waterbirds between invaded and non-invaded
+
+marshes. For most bird species, the water depth of the marsh had more influence
+
+on the abundance of individuals and on site occupancy than the composition
+
+of the plant assemblage. Common reed stands can therefore be used by
+
+generalist and specialist marsh passerines as feeding and reproduction sites.
+
+However, it is possible that in southern Quebec, the number and extent of
+
+common reed populations have not yet reached a threshold beyond which
+
+adverse effects of the invader on avian species could be significant. This study
+
+adds to a growing body of evidence showing that the relationship between invasive
+
+plants and birds is not straightforward. xintroduction
+
+
+ Wetlands are strongly disturbed by biological invasions:
+
+though they cover only 6% of the surface of the Earth, they
+
+host 24% of the most invasive species on the planet (Zedler
+
+& Kercher, 2004). Several bird species depend upon specific
+
+marsh plant assemblages for feeding and reproduction
+
+(Weller, 1994; Gjerdrum, Elphick & Rubega, 2005) and can
+
+be adversely affected by the expansion of plant invaders.
+
+They can lose the native vegetation types that are preferably
+
+used as nesting sites or as refuges from predators (Johnson
+
+& Dinsmore, 1986; Lor & Malecki, 2006). They can also lose
+
+invertebrate-rich feeding habitats, such as the interfaces
+
+between vegetation stands and open water areas (Kaminski
+
+& Prince, 1981; Rehm & Baldassarre, 2007), once the areas
+
+without plant cover are occupied by the invaders. Finally,
+
+their mobility can be restricted by the biomass produced by
+
+productive plant invaders. For example, waterfowl foraging
+
+can be hampered by floating or submerged plants forming a
+
+dense and thick carpet near the water surface (Ma et al.,
+
+2010).
+
+As recently highlighted by Schlossberg & King (2010),
+
+research on the effects of invasive plants on avian species
+
+have produced equivocal results. In wetlands, plant species
+
+like smooth cordgrass Spartina alterniflora and common
+
+water hyacinth Eichhornia crassipes had significant negative
+
+impacts on the abundance of marsh birds (Gan et al., 2009;
+
+Gunaratne, Jayakody & Bambaradeniya, 2009). In contrast,
+
+other invasive species such as purple loosestrife Lythrum
+
+salicaria and waterthyme Hydrilla verticillata apparently
+
+have little effects on birds (Hoyer et al., 2008; Lavoie, 2010).
+
+In North America, marsh birds are increasingly exposed to the exotic subspecies of the common reed Phragmites
+
+australis subsp. australis that is rapidly spreading through
+
+freshwater wetlands (Guo et al., 2013), especially around
+
+the Great Lakes (Wilcox et al., 2003; Trebitz & Taylor,
+
+2007; Tulbure, Johnston & Auger, 2007; Whyte et al., 2008;
+
+Tulbure & Johnston, 2010; Wilcox, 2012) and along the
+
+St. Lawrence River (Hudon, Gagnon & Jean, 2005). Once
+
+established in a marsh, common reed quickly forms large,
+
+homogeneous populations with low plant diversity
+
+(Ailstock, Norman & Bushmann, 2001; Lavoie et al., 2003).
+
+This grass species also accumulates litter at a much higher
+
+rate than that of the majority of native plants, which contributes
+
+to a gradual filling of the marsh bed (Windham &
+
+Lathrop, 1999; Meyerson et al., 2000).
+
+In freshwater marshes, the few studies that examined the
+
+effects of common reed on fishes (Aday, 2007; Kulesza,
+
+Holomuzki & Klarer, 2008; Larochelle, 2011), turtles
+
+(Bolton & Brooks, 2010), amphibians (Meyer, 2003; Perez,
+
+2011) and mammals (Meyer, 2003; McGlynn, 2006)
+
+revealed low to moderate effects on animal populations.
+
+Information on the effect of common reed on birds remains
+
+limited and sometimes contradictory. In the freshwater and
+
+brackishwater marshes of New York, avian diversity was
+
+reduced by common reed: red-winged blackbird Agelaius
+
+phoeniceus, a generalist species, took advantage of the presence
+
+of the invader for perching and roosting, but other
+
+wetland-specialist birds like the least bittern Ixobrychus
+
+exilis, marsh wren Cistothorus palustris and Virginia rail
+
+Rallus limicola had a reduced number of nests in invaded
+
+sites (Wells et al., 2008). In brackishwater marshes of Connecticut,
+
+some wetland-specialist birds (marsh wren, swamp
+
+sparrow Melospiza georgiana) benefited from the presence
+
+of common reed, while other marsh-nesting birds (saltmarsh
+
+sparrow Ammodramus caudacutus, seaside sparrow
+
+Ammodramus maritimus) were less abundant in common
+
+reed stands than in short-grass assemblages of native plants
+
+(Benoit & Askins, 1999). The same phenomenon (a combination
+
+of winners and losers) was also observed in Ontario
+
+(Meyer et al., 2010) and Virginia (Paxton, 2007). To date,
+
+common reed does not apparently have large effects on bird
+
+richness and abundance in freshwater marshes (McGlynn,
+
+2006; Meyer et al., 2010), but to what extent this situation
+
+may be changing with the spread of the invader remains
+
+unknown. For instance, although only 200 ha of riverine
+
+marshes are currently (2010) invaded by common reed along
+
+the St. Lawrence River, climate change and ecohydrological
+
+models predict that the area occupied by the plant could
+
+increase to 17 000 ha in the near future (Tougas-Tellier,
+
+2013). Wetland bird assemblages will likely be affected by
+
+such a large invasion.
+
+The main objective of this study was to evaluate the
+
+effect of common reed invasions on bird assemblages in
+
+freshwater marshes of southern Quebec (Canada), where
+
+the plant is currently rapidly expanding its range (Hudon
+
+et al., 2005; Lelong et al., 2007). We determined whether
+
+the invader already had some impacts on the abundance,
+
+richness, diversity and site occupancy of birds. We targeted
+
+four groups of birds which represent the majority of species
+
+using marshes during the spring/summer [i.e. the
+
+Passeriformes (passerines), Rallidae (rails), Anatidae
+
+(ducks and geese) and Ardeidae (waders)]. We predicted
+
+that the passerines that depend exclusively on marshes for
+
+food and/or reproduction should be more affected by the
+
+invader compared with generalist passerines. We also predicted
+
+that the presence and abundance of ducks, geese,
+
+rails and waders should be negatively affected by common
+
+reed, first because less open water areas are available for
+
+feeding and second because common reed hampers their
+
+mobility. xmethods
+
+
+ The study area (Fig. 1) was located in southwestern Quebec
+
+where the bulk of common reed populations is found in the
+
+province (Jodoin et al., 2008). Eight freshwater marshes,
+
+five invaded and three not invaded and used as control (or
+
+reference) sites, were selected. These marshes were chosen
+
+partly because they were invaded to various degrees and
+
+partly because they were easily accessible by road and suitable
+
+(six of the eight sites) for the establishment of observation
+
+towers on dikes. All marshes were located within 1 km
+
+of a major river (St. Lawrence River or Ottawa River). The
+
+landscape surrounding the marshes was essentially composed
+
+by agricultural fields. Four of the five invaded
+
+marshes were close to the Beauharnois Canal, three to the
+
+south (BC1, BC2 and BC3) and one to the north (BC4) of
+
+the canal. These artificial marshes (28ñ85 ha each), created
+
+by Duck Unlimited Canada in 1979, had common reed
+
+stands covering 10ñ35% of their surface. Apart from
+
+common reed stands, patches of flowering-rush Butomus
+
+umbellatus (an exotic species) and cattails Typha spp. were
+
+also present. The fifth invaded marsh (BV: 86 ha) surrounded
+
+some of the islands of the Œles-de-Boucherville
+
+National Park near Montreal. This park is currently the
+
+most invaded site by common reed along the St. Lawrence
+
+River, and the reed stands currently cover 48 ha
+
+(Tougas-Tellier, 2013) or about 40% of the sector of the
+
+park that has been studied for birds. Stands of cattails and
+
+reed canary grass Phalaris arundinacea (an exotic species)
+
+were also found. Of the eight marshes sampled, it was the
+
+only one not surrounded by a dike.
+
+The three non-invaded (control) marshes were man-made
+
+impoundments where common reed was absent or confined
+
+to the surrounding dikes. The Digue aux Aigrettes marsh
+
+(60 ha) was located in the Lac Saint-FranÁois National
+
+Wildlife Area and dominated by southern wild rice Zizania
+
+aquatica and a few sedges Carex spp. The marsh of the
+
+Marguerite-díYouville Wildlife Refuge (MY: 30 ha), on
+
+Saint-Bernard Island, was mostly covered with cattails and
+
+arrowheads Sagittaria spp. The third marsh, near Thurso
+
+(TH: 60 ha), was located in the Plaisance National Park and
+
+covered by a highly diversified emergent vegetation including
+
+cattails, sedges and southern wild rice. Between 20 and 60% of the area of these marshes were occupied by open
+
+water areas (no emergent plant) in mid-July. The bird surveys were spread over 2 years (2009 and 2010)
+
+from the beginning of May to the end of July during the
+
+nesting season. Data were collected in the morning from
+
+5:00 to 10:30 am on days with light wind and no rain by the
+
+same observers each year to ensure consistency in the detection
+
+and identification capacities (Boulinier et al., 1998).
+
+Two methods were used, point counts for songbirds
+
+(passerines and rails) and visual counts for waterbirds
+
+(ducks, geese and waders). The sampling season was divided
+
+into five periods of about 15 days, and each marsh was
+
+surveyed once per period to increase chances of bird detection,
+
+except for the MY marsh that was visited only once in
+
+2009 due to time constraints.
+
+For locating point counts, a vegetation map was created
+
+for each marsh using aerial photographs to circumscribe the
+
+main vegetation types, that is (1) common reed stands; (2)
+
+cattail stands; (3) the other types of emergent plants dominated
+
+by various short forb, grass and sedge species and
+
+which were grouped together as ëshort-heightí vegetation
+
+stands. From the vegetation maps, fixed-distance point
+
+count stations with a 50-m radius were placed in each of the
+
+three vegetation types. Using a geographic information
+
+system, each station was positioned =50 m from any other
+
+vegetation types and =250 m from each other to ensure
+
+independence of the data (Bird Studies Canada, 2008;
+
+Meyer et al., 2010). The resulting 36 stations were relocated
+
+in the field using a geographic positioning system. In 2009,
+
+we surveyed 10 stations in common reed stands, six in cattail
+
+stands and 13 in short-height vegetation stands, and in 2010,
+
+15, 8 and 13 stations, respectively. Each of our eight study
+
+marshes had between two and seven point count stations,
+
+though stations located in common reed stands were obviously
+
+restricted to the invaded part of the marshes.
+
+The daily sequence used for visiting the stations at a
+
+specific marsh varied between periods because detection
+
+probability can diminish with increasing time from sunrise
+
+(Lynch, 1995). Listening time at each station was 12
+
+minutes, which is considered as a sufficient amount of time
+
+for birds (Ralph, Droege & Sauer, 1995; Dettmers et al.,
+
+1999). To detect secretive birds, bird calls were broadcasted
+
+(4 minutes) during the listening period. The species selected
+
+for bird calls were the same as those chosen by Meyer et al.
+
+(2010), who conducted a similar study in common reed
+
+stands in Ontario (i.e. common moorhen Gallinula
+
+chloropus, least bittern, pied-billed grebe Podilymbus
+
+podiceps, sora Porzana carolina and Virginia rail). Two
+
+observers were present during the counts. Every bird
+
+detected visually or heard within the station boundaries was
+
+identified to the species level. A range finder was used to
+
+determine if the bird was within the 50-m radius. For flying
+
+birds, only those =100 m above the station and which
+
+appeared to be hunting were considered (Bird Studies
+
+Canada, 2008; Meyer et al., 2010).
+
+Visual counts of birds seen in the marshes were made
+
+chiefly from 5-m high observation towers. The absence of
+
+such structures at BC3 and BV prevented visual counts at
+
+these two sites. To cover marsh areas not visible from the
+
+towers, observers standing on the dikes simultaneously
+
+scanned the marsh and counted the birds. The observers
+
+communicated with each other using walkie-talkies to
+
+ensure that individuals were not counted twice. Visual
+
+counts were made at the same frequency as the point counts.
+
+In 2009, 26 visual counts were made (from May 22 to July 24), whereas in 2010, the sampling effort was increased to 29
+
+visits (from May 5 to July 26). Using landmarks on the
+
+ground and aerial photographs, the total area under observation
+
+from the towers and the dikes was calculated with a
+
+geographic information system to adjust the total number of
+
+counted individuals observed at each marsh by unit of area
+
+(hectare). The vegetation within each point count station was sampled
+
+in July 2010. Five points were sampled per station, one in
+
+the center of the station and four others 20 m from the
+
+center in the four cardinal directions. At each point, a 2-m
+
+rod was laid horizontally on the ground or water surface. A
+
+second rod, 4 m long and 3 cm wide with alternating 20-cm
+
+red and white bands, was placed upright at one end of the
+
+horizontal rod. Each plant species touching the vertical rod
+
+was noted, as well as the height of each contact (in 20-cm
+
+increments); this operation was repeated each 20 cm along
+
+the horizontal rod. Plant species were grouped into the following
+
+categories: (1) common reed; (2) sedges or bulrushes;
+
+(3) other herbaceous plants (almost exclusively cattails, and
+
+hereafter referred as such); (4) other plants (ferns, woody
+
+plants, etc.). The total number of contacts per vegetation
+
+category and for each height class was calculated for the five
+
+sampling points. The average number of contacts per
+
+station was then calculated for point count stations dominated
+
+by common reed, cattails and short-height vegetation.
+
+This method was also used to estimate the percentage of a
+
+station occupied by open water (here, inundated sites with
+
+no emergent vegetation). Finally, at each visit, the water
+
+depth at the center of each station was measured; a zero
+
+value was attributed to a water level below the soil surface. Because point count stations were visited more than once, we
+
+used site occupancy models to determine the occupancy
+
+probability. These models take into consideration the fact
+
+that an undetected individual was not necessarily absent
+
+from the study site and allow a separate estimate of the
+
+probability of occurrence (?) and of detection (p) of a species,
+
+which may vary by site (MacKenzie et al., 2006). Brownheaded
+
+cowbird Molothrus ater, common grackle Quiscalus
+
+quiscula, common starling Sturnus vulgaris and red-winged
+
+blackbird were excluded from the site occupancy analyses as
+
+they were present at almost all the stations. The first bird
+
+assemblage considered for analyses grouped the generalist
+
+passerines (i.e. birds that use marshes during their life cycle
+
+but that do not exclusively depend on it) according to the
+
+Canadian Wildlife Service, Ontario Region (2006). This
+
+group included song sparrow Melospiza melodia (reference
+
+species), American goldfinch Spinus tristi, American yellow
+
+warbler Setophaga aestiva, chipping sparrow Spizella
+
+passerina and willow flycatcher Empidonax traillii. Specialist
+
+passerines ñ birds nesting in marshes ñ formed the second
+
+assemblage. This group included swamp sparrow (reference
+
+species), common yellowthroat (Geothlypis trichas) and
+
+marsh wren. Rails formed a third assemblage and included
+
+Virginia rail (reference species), common moorhen and sora.
+
+For each bird assemblage, we examined the effects of
+
+habitat variables associated with point count stations on the
+
+site occupancy probability. The variables were (1) the vegetation
+
+type, that is, common reed (reference group), cattail
+
+and short-height vegetation; (2) presence of water above the
+
+soil surface; (3) the percentage of the station occupied by
+
+open water; (4) the average water depth. We considered
+
+models where the effect of habitat variables were the same
+
+for all the bird species or varied between the species (i.e. with
+
+species ◊ habitat interaction). We also considered the possibility
+
+that the detection probability might vary between
+
+species. Each model included only one explanatory variable
+
+at a time (vegetation or one of the three variables associated
+
+with water) to avoid collinearity because preliminary
+
+analyses showed significant differences among vegetation
+
+types for water-related variables. Ultimately, 31 models
+
+capable of explaining the variation in site occupancy probabilities
+
+were tested for each bird assemblage. All continuous
+
+variables were centered and reduced to normalize their
+
+distribution.
+
+The site occupancy analyses were run with programme
+
+presence 3.1 (Patuxent Wildlife Research Center, Patuxent,
+
+MD, USA; MacKenzie et al., 2003) for each year separately.
+
+Each time, we tested the adjustment of the most general
+
+occupancy model (single season) with a bootstrapping procedure
+
+(10 000 iterations) to obtain an estimate of c-hat and
+
+correct for overdispersion (MacKenzie et al., 2006). We
+
+ranked each model based on the second-order Akaike information
+
+criterion corrected for overdispersion (QAICc) and
+
+calculated the AICc weights to determine the support for
+
+each model (Burnham & Anderson, 2002). We calculated
+
+the parameter estimates taking into account model selection
+
+uncertainty (model averaging) using the AICcmodavg
+
+package of r software (Mazerolle, 2013; R Development
+
+Core Team, 2013). The effects of explanatory variables were
+
+considered significant when the 95% confidence interval of
+
+the slopes (ﬂ) excluded 0.
+
+Data for bird abundance, richness and diversity were
+
+analysed with mixed linear regression models; we included
+
+individual point counts nested within marshes (point count
+
+data) or individual marshes (visual count data) as a random
+
+effect. The tested variables were as follows: (1) the total
+
+abundance (number of individuals per hectare for the particular
+
+case of visual counts); (2) the abundance of each
+
+species or species assemblage; (3) the richness (total number
+
+of species detected); (4) the Shannon diversity index
+
+(Magurran, 1988). A log (x + 1) transformation was used on
+
+these variables to normalize data distribution, except for
+
+species abundance data obtained from point counts and for
+
+which a generalized mixed model with a Poisson distribution
+
+was used.
+
+For point count surveys, we conducted analyses only on
+
+species with at least 50 observations during a sampling
+
+season. We excluded barn swallows Hirundo rustica and tree
+
+swallows Tachycineta bicolor because their abundance was extremely variable between sampling periods. The five
+
+explanatory variables tested in these models were (1) the
+
+sampling period; (2) the vegetation type, with common reed
+
+still used as the reference group; (3) presence of water above
+
+the soil surface; (4) the percentage of the station occupied by
+
+open water; (5) the average water depth. Again, each model
+
+included only one explanatory variable at a time to avoid
+
+collinearity. Eleven models were ultimately compared.
+
+Finally, two explanatory variables were tested for visual
+
+count surveys (i.e. the sampling period and the presence of
+
+common reed in the marsh) for a total of five models. All
+
+linear models were adjusted with r software (R
+
+Development Core Team, 2013), and model selection and
+
+parameter estimation were executed as for site occupancy
+
+models. xresults There were major structural differences between the three
+
+vegetation types present in point count stations (Fig. 2). The
+
+maximal height reached by common reed stems (4.2 m) was
+
+much higher than that of cattails (2.4 m) and short-height
+
+vegetation (1.2 m). The mean number of contacts per height
+
+class also varied greatly among vegetation types. In
+
+common reed stands, there were few contacts near the soil/
+
+water surface (0ñ20 cm), and they were most numerous
+
+from 20 to 240 cm. In cattail and short-height vegetation
+
+stands, most contacts occurred close to the soil/water
+
+surface (0ñ60 cm). In 2009, 1453 bird individuals (excluding swallows) from 48
+
+species were seen or heard during the 109 visits to point
+
+count stations. In 2010, 1969 individuals from 47 species
+
+were recorded (168 visits). Both years combined, a similar
+
+number of individuals were recorded in the common reed
+
+stands (on average, 12.3 individuals per visit and per
+
+station), in the cattail stands (11.3) and in the short-height
+
+vegetation stands (13.0). More species were seen or heard in
+
+the common reed (43) and short-height vegetation (41)
+
+stands than in the cattail (32) stands.
+
+Among generalist passerines, American yellow warbler
+
+was the most frequently recorded species (107 observations),
+
+followed by song sparrow (52). The average water depth was
+
+the only explanatory variable with a significant effect on site
+
+occupancy by generalists (Supporting Information Appendix
+
+S1). In both years, the site occupancy probability
+
+decreased with water depth (Table 1). For specialist
+
+passerines, marsh wren (256 observations) and marsh
+
+sparrow (211) were the most frequently recorded species.
+
+The percentage of the area of a station occupied by open
+
+water and, to a lesser extent, the average water depth were
+
+the variables with a significant effect on site occupancy, but
+
+this influence varied among species (Supporting Information
+
+Appendix S1). In general, the site occupancy probability
+
+for specialist passerines decreased with a rising area
+
+occupied by open water (2009 and 2010); this was especially
+
+remarkable for common yellowthroat in 2009 (Table 1).
+
+However, the presence of marsh wren increased in stations
+
+with more open water areas. For rails, presence of water was
+
+the only variable with a significant effect on site occupancy
+
+(2010 only) as more rails were observed when the water level
+
+was above the soil surface (Table 1).
+
+The sampling period was the most influential variable on
+
+songbird abundance (according to AICc weights; Supporting
+
+Information Appendix S2); in general, the abundance of
+
+birds decreased through the sampling season in both years
+
+(Fig. 3). Birds were also more abundant in stations with
+
+deep water or with presence of water above the soil surface
+
+(Table 2). However, vegetation type did not have any significant
+
+influence on songbird abundance. Among generalist
+
+passerines, the vegetation type and the sampling period
+
+were the most influential variables on American yellow
+
+warbler and common grackle (Supporting Information Appendix S3). More warblers were observed in common
+
+reed stands than in the other vegetation types, and in stations
+
+with shallow water (Table 2). Common grackle was
+
+less numerous in short-height vegetation stands. Among
+
+specialist passerines, marsh sparrow was one of the rare
+
+species with a rising abundance during the spring/summer in
+
+2009. The percentage of open water areas (both years) and
+
+the water depth (2009) had a negative influence on the
+
+abundance of this species (Table 2). The water depth also
+
+negatively influenced the abundance of the common yellowthroat
+
+(2010). Finally, the abundance of marsh wren
+
+was higher in cattail than in common reed stands (both
+
+years), and in stations with deep water and open water areas
+
+(2010). In both years, the water-related variables were the most
+
+influential variables on the abundance of Virginia rail, the
+
+only rail species with a sufficient number of observations for
+
+analysis (Supporting Information Appendix S3). In 2009,
+
+Virginia rail abundance was lower in stations with more
+
+open water areas, whereas in 2010, a dry year, the abundance
+
+of this species was higher in stations with deep water
+
+and presence of water above the soil surface (Table 2).
+
+The sampling period was the most influential variable for
+
+the richness and diversity of songbirds (Supporting Information
+
+Appendix S2). In 2009, the richness and diversity
+
+decreased during the spring/summer (Fig. 2; Table 2), but
+
+no other variable had a significant influence, with the exception
+
+of vegetation type in 2010, as the diversity of songbirds
+
+was lower in short-height vegetation stands than in the other
+
+vegetation types that year. Twenty-six visual count surveys were conducted in 2009 and
+
+29 in 2010. The waterbirds recorded included 33 species,
+
+mostly ducks and geese (77% of records). The most abundant
+
+species were mallard Anas platyrhynchos and Canada
+
+goose Branta canadensis (especially at the first survey in
+
+2010) for waterfowl and great blue heron Ardea herodias
+
+and great egret Ardea alba for waders. There was no significant
+
+difference in waterbird abundance and richness
+
+between invaded and non-invaded (reference group)
+
+marshes (Fig. 4; Supporting Information Appendix S4). In
+
+2009, invaded marshes had a higher waterbird diversity than
+
+non-invaded marshes (ﬂ = 0.116; se = 0.054). 
+
+
+xdiscussion
+ Overall, we found few differences between common reed
+
+stands and other freshwater marsh vegetation assemblages
+
+for songbird abundance, richness and diversity. Similar
+
+results have been reported in the few studies conducted in
+
+freshwater marshes in New York and Ontario (McGlynn,
+
+2006; Meyer et al., 2010). In our study, presence of water
+
+above the soil surface and water depth generally had more
+
+effects on bird assemblages than vegetation per se.
+
+Generalist songbirds were not affected by common reed
+
+as expected (Wells et al., 2008; Meyer et al., 2010), and one
+
+species, American yellow warbler, was even more abundant
+
+in common reed than in the other vegetation types.
+
+This species nests in shrubs located near open areas,
+
+brooks and ponds and usually select large shrub stands to enhance protection against predators (Knopf & Sedgwick,
+
+1992). In the study area, almost all old fields and
+
+shrublands surrounding the marshes were converted into
+
+corn and soybean fields, especially during the last 30 years
+
+(Domon & Bouchard, 2007). Common reed stands form
+
+one of the few large vegetation assemblages remaining
+
+near water bodies; the warbler likely uses these stands as
+
+alternative nesting sites as their dense, tall and robust vegetation
+
+structure probably provides a suitable support for
+
+nests and a good protection against predators (Meyer
+
+et al., 2010).
+
+Marsh wren was the only marsh-specialist bird species
+
+that was less abundant in common reed stands, especially
+
+compared with cattail stands. Most studies on the effect of
+
+common reed on marsh wren found negative impacts on its
+
+abundance or nesting activity (McGlynn, 2006; Wells et al.,
+
+2008; Meyer et al., 2010; Lazaran, Bocetti & Whyte, 2013),
+
+probably because common reed stands have low plant diversity
+
+and few appropriate nest materials (Verner & Engelsen,
+
+1970; Meyer et al., 2010; Tozer, Nol & Abraham, 2010).
+
+Marsh wren was also the only passerine that preferred the
+
+wettest parts of the marshes. This preference could be associated
+
+either with a better protection from predators
+
+(Leonard & Picman, 1987; Picman, 1988; Jobin & Picman,
+
+1997) or a higher abundance of prey (Tarr, Baber & Babbitt,
+
+2005; Tozer et al., 2010). The vegetation type had no significant effect on Virginia
+
+rail, a species that is not known to be associated with a
+
+specific plant assemblage during the reproduction period
+
+(Johnson & Dinsmore, 1986; Lor & Malecki, 2006). The
+
+abundance of this rail species was reduced in common reed
+
+stands in Connecticut tidal wetlands (Benoit & Askins,
+
+1999), but stands in those brackishwater marshes had
+
+apparently a higher stem density than freshwater ones
+
+(Meyerson et al., 2000), which could represent a physical
+
+obstacle for birds moving on the ground or water surface
+
+like rails. In the freshwater marshes that we studied, the
+
+vegetation near the soil/water surface is not very dense in
+
+common reed stands, and thus, rails should be able to move
+
+through the common reed, unlike what we initially suspected.
+
+A finer analysis of the vegetation structure may thus
+
+be required to fully understand the role of common reed as
+
+a physical barrier for birds. On the other hand, waterrelated
+
+variables were influential on Virginia rail, but their
+
+effect was variable between years: in 2009, a year with water
+
+levels higher than normal in marshes (Larochelle, 2011),
+
+Virginia rail occupied the drier sections of the marshes,
+
+while in 2010, a year with very low water levels, it was
+
+confined to the wettest areas. Therefore, this species does
+
+not apparently use sites that are either too wet or too dry
+
+during the reproduction period (Lor & Malecki, 2006). In
+
+Wales, the abundance of the water rail Rallus aquaticus, a
+
+species that uses common reed beds for breeding, is mostly
+
+associated with the wettest parts of the beds, which probably
+
+reflects lower predation risk and higher food availability
+
+(Jenkins & Ormerod, 2002).
+
+Data from visual counts do not support the hypothesis of
+
+a negative impact of common reed on waterfowl and
+
+waders, at least in marshes with less than 50% of their area
+
+invaded by the plant. This conclusion should nevertheless be
+
+considered with caution since birds were essentially
+
+observed from parts of the marshes without common reed.
+
+In fact, very few ducks and waders were observed inside
+
+common reed stands, probably because (1) they are hardly
+
+penetrable (Benoit & Askins, 1999); (2) they do not provide
+
+high-quality nesting material (Meyer et al., 2010); (3) they
+
+block the view and therefore hamper the detection of prey or
+
+predators (Gilbert et al., 2005; Kessler et al., 2011). Smallsized
+
+wading birds apparently use common reed stands for
+
+reproduction, but there is no evidence that large-sized
+
+waders (e.g. great blue heron or great egret) feed or nest in
+
+these stands (Parsons, 2003; Trocki & Paton, 2006). In
+
+summary, common reed stands do not prevent the use of
+
+non-invaded parts of the marshes by birds but may have a
+
+local effect for some waterbirds by reducing the availability
+
+of feeding and nesting sites.
+
+This study adds to a growing body of evidence (see
+
+Schlossberg & King, 2010; Lavoie, 2010; Tavernia & Reed,
+
+2012; Ma et al., 2013) showing that the relationship between
+
+invasive plants and birds is not straightforward. Common
+
+reed stands are clearly not barren zones devoid of birds as
+
+they are used by generalist and specialist marsh passerines
+
+for feeding and reproduction. In Europe, the probable
+
+origin of the invader (Plut et al., 2011; Meyerson & Cronin,
+
+2013), common reed beds are used as nesting sites by a large
+
+number of bird species, including grebes, passerines, rails
+
+and small-sized waders (Bibby & Lunn, 1982; Tscharntke,
+
+1992; Jenkins & Ormerod, 2002; Poulin, Lefebvre &
+
+Mauchamp, 2002; Gilbert et al., 2005). Common reed
+
+stands could thus potentially represent suitable habitats for
+
+related species in North America, as far as the invader does
+
+not locally reduce food resource for bird species (Poulin
+
+et al., 2002). Preliminary samplings of invertebrates conducted
+
+in the Beauharnois Canal marshes in 2010 (Gagnon
+
+Lupien, 2013) suggest that the total biomass of the invertebrates
+
+of the common reed beds was similar to that of the
+
+other vegetation types, although there were some differences
+
+in species composition; similar results have been reported
+
+for other freshwater wetlands invaded by the common reed
+
+(McGlynn, 2006; Kulesza et al., 2008; Holomuzki & Klarer,
+
+2010). Other food sources for birds, especially for waders,
+
+are apparently not affected by the common reed in southern
+
+Quebec. There is no evidence of a negative effect of common
+
+reed presence on anuran populations at any life stage
+
+(Mazerolle, Perez & Brisson, 2014). The invasion of wetlands
+
+by the common reed does not seem to have a major
+
+effect on the relative abundance, growth and feeding of
+
+young northern pikes Esox lucius, one of the most important
+
+fish species of freshwater marshes (Larochelle, 2011). Consequently,
+
+the common reed is more likely to affect bird
+
+assemblages because of its effect on the vegetation structure
+
+of marshes than because of its effect on food resources.
+
+Overall, the scant amount of data currently available
+
+makes it impossible to determine whether common reed
+
+stands constitute a favorable habitat for bird species in
+
+general, or for some specialists in particular, over the long
+
+term. It is also possible that, along the St. Lawrence River,
+
+the number and extent of common reed populations in
+
+freshwater marshes have not yet reached a threshold beyond
+
+which adverse effects of the invader on birds may be more
+
+significant. Moreover, little is known on the magnitude or
+
+the effects of common reed biomass accumulation in North
+
+American freshwater wetlands, which could strongly disturb
+
+the hydrology by elevating the marsh floor (Rooth,
+
+Stevenson & Cornwell, 2003). Several bird species, and especially
+
+rails, could be affected by such disturbance. Consequently,
+
+conservationists should be cautious and should not
+
+interpret our data as definitive evidence of a weak effect of
+
+the invasive common reed on freshwater marsh birds.

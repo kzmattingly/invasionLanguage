@@ -1,0 +1,452 @@
+xabstract The introduced North American signal crayfish Pacifastacus leniusculus (Dana) has replaced the native
+noble crayfish (Astacus astacus) in many European freshwaters and can be considered a new component of these
+ecosystems. The 2 species are apparently similar in many respects, but their ecological equivalence is uncertain and
+has been little investigated, especially at the whole-lake scale. We compared the effects of the 2 species on the
+abundance, species richness, and composition of littoralmacroinvertebrate assemblages in a set of small- andmediumsized
+boreal lakes, which included 8 lakes with noble crayfish, 8 lakes with signal crayfish, and 8 lakes without
+crayfish. We collected semiquantitative littoral macroinvertebrate samples with a kick net from 3 replicate sites
+in each lake. The abundance of invertebrates did not differ significantly among the 3 lake categories, but lakes with
+crayfish had lower species richness than lakes without crayfish. Mollusk taxa, in particular, were fewer in lakes with
+crayfish. Assemblage composition also differed between lakes with and without crayfish. However, macroinvertebrate
+species richness and composition did not differ between lakes with signal or noble crayfish, indicating that
+the 2 crayfish species are ecologically equivalent with respect to their effects on shallow, littoral invertebrate assemblages
+of boreal lakes. 
+
+
+xintroduction Freshwater ecosystems worldwide are among the habitats
+particularly affected by introductions of invasive exotic
+species, which represent a serious threat to their biodiversity
+(Dudgeon et al. 2006, Strayer and Dudgeon 2010,
+Jackson and Grey 2012). Freshwater crayfish have been
+widely translocated from their native ranges to new habitats
+all over the world (Holdich et al. 2009, Gherardi 2010).
+Because they are omnivorous and capable of interacting
+across multiple trophic levels (Lodge et al. 1994, Geiger
+et al. 2005), crayfish can be considered particularly influential
+in foodweb structure (Nystrˆm 2002, Stenroth and
+Nystrˆm 2003, Reynolds and Souty-Grosset 2012b) and as
+ecosystem engineers that exert a strong effect on native
+biota (Nystrˆm et al. 1999, Wilson et al. 2004, McCarthy
+et al. 2006).
+Many investigators have reported that nonnative crayfish
+can strongly affect littoral macroinvertebrate assemblages,
+especially snails (Nystrˆm and Perez 1998, Nystrˆm
+et al. 2001, Correia 2002, Wilson et al. 2004, McCarthy
+et al. 2006, Gherardi 2007, Ruokonen et al. 2014), reducing
+abundance and species richness directly by predation
+(Nystrˆm et al. 2001, Wilson et al. 2004, McCarthy
+et al. 2006, Ruokonen et al. 2014) or indirectly via more
+complex interactions through habitat alteration (Nystrˆm
+et al. 1999), bioturbation, and consumption of detritus (Usio
+2000).
+Authors of global meta-analyses (McCarthy et al. 2006,
+Twardochleb et al. 2013) have found that nonnative crayfish
+tend to have stronger negative effects than native crayfish
+on benthic invertebrates and especially snails. However,
+studies specifically contrasting ecological effects between
+invasive and native crayfish are few and do not provide
+conclusive support for differences in ecological roles between
+them (McCarthy et al. 2006, Twardochleb et al. 2013).
+In general, studies of the effects of nonnative crayfish species
+have mainly been small-scale experiments or single
+crayfish species investigations, reporting effects on specific
+taxa or ecosystem processes (Lodge et al. 2000, Geiger
+et al. 2005, Crawford et al. 2006, Gherardi and Acquistapace
+2007, Ruokonen et al. 2014). Moreover, only small-scale
+studies based on experimental manipulations were included
+in the meta-analyses by McCarthy et al. (2006) and Twar-dochleb et al. (2013). A more comprehensive understanding
+of the effects of invasive crayfish requires complementary
+research done at different spatial scales (McCarthy
+et al. 2006, Rosenthal et al. 2006, Hansen et al. 2013).
+Lodge et al. (1998) found consistent results among a laboratory
+experiment, small field-cage experiment, and a lake
+survey. Even though their study suggested that small-scale
+experiments can provide information relevant to management
+of invasive crayfish, results of studies done at different
+spatial scales often are not consistent (Schindler 1998).
+Hence, in general, direct comparisons of the effects of invasive
+and native crayfish species and, in particular, studies
+done in natural conditions at the whole-lake scale are
+needed. In the absence of comparative studies done at a
+realistic scale, whether invasive and native crayfish have
+equivalent roles in and effects on lake ecosystems will remain
+unclear. However, this information is important for
+assessing risk associated with invasive species (Leung et al.
+2012) and for detecting the effects of native crayfish on littoral
+assemblages in their natural range. It also is essential
+to understand the potential ecological effects of native species
+when transferred to new ecosystems, e.g., the potential
+threat posed to other protected or endangered native
+species (Olden et al. 2010).
+The signal crayfish, Pacifastacus leniusculus Dana, has
+been introduced repeatedly from the Pacific Northwest of
+North America to Europe, including Finland, since ~1960.
+Introductions often were deliberate attempts to replace
+populations of native noble crayfish, Astacus astacus, lost
+during the outbreak of crayfish plague (Aphanomyces astacii)
+(Sˆderb‰ck 1995, Holdich et al. 2009). In Finland, signal
+and noble crayfish often are regarded as being ecologically
+equivalent (Kirjavainen and Sipponen 2004), even though
+the results of some earlier (e.g., Nystrˆm et al. 1999) and
+quite recent (Dunoyer et al. 2014) manipulative studies have
+suggested that the invasive signal crayfish can have greater
+impacts than native noble crayfish on littoral assemblages
+and ecosystem processes.
+We investigated the effects of nonnative signal crayfish
+and native noble crayfish on benthic macroinvertebrate assemblages
+under natural conditions at a replicated wholelake
+scale in a set of small- and medium-sized boreal lakes.
+Our main aims were to: 1) investigate the effects of crayfish
+on littoral macroinvertebrate assemblages, and 2) examine
+whether the effects of invasive signal and native
+noble crayfish are equivalent in such lakes. We used 8 replicate
+lakes in each of 3 categories (with signal crayfish, with
+noble crayfish, and without crayfish), so our findings should
+be more robust than, and an important supplement to,
+those reported from small-scale and short-term experimental
+manipulations. 
+
+
+xmethods We identified potential study lakes on the basis of the
+crayfish introduction register maintained by the Finnish
+Game and Fisheries Research Institute. We made the final
+selection of study lakes on the basis of similar abiotic features
+(Tables 1, S1) and the crayfish species present. We
+selected 8 lakes with signal crayfish, 8 with noble crayfish,
+and 8 lakes without crayfish (controls), from south-central
+Finland (Fig. 1). We had originally planned to include lakes
+with both crayfish species, but we were unable to find
+lakes in which the 2 species coexist. Signal and noble crayfish
+lakes fell into 2 more-or-less distinct regional groups
+(Fig. 1) that reflected the current distributions of the 2 species
+in the area, but control lakes were chosen to cover
+the whole study lake area and, thus, countered any possible
+geographical differentiation in response variables between
+lakes with and without crayfish.
+The signal crayfish was introduced into the study lakes
+in the 1990s and is now well established. We assumed that noble crayfish populations have occupied their lakes for
+much longer (J‰rvi 1910), but the picture is confused because
+in Finland the noble crayfish has been extensively
+stocked in lakes in its historic range that lacked crayfish
+and in lakes well beyond its natural range. Quantitative
+data on crayfish abundance were not available for all lakes
+and not for the study years, but previously collected catch
+per unit effort (CPUE) data suggest that the 2 crayfish species
+had similar abundances in our studied lakes (Table S1).
+All lakes containing crayfish had a harvestable population
+during the study years, and qualitative samples of crayfish
+were caught for other purposes (Ercoli et al. 2014). Environmental features and habitat type greatly affect littoralmacroinvertebrate
+assemblage composition, and effects
+of the crayfish species on the invertebrate assemblages could
+be masked by differences in environmental features among
+lake categories. Therefore, we selected lakes that were as
+similar as possible in their key environmental characteristics.
+We obtained water-quality (pH, color, and P concentration
+at 1 m depth) and lake morphometry (lake area, shoreline
+length) data for each lake from the HERTTA database
+(http://wwwp2.ymparisto.fi/scripts/hearts/welcome.asp)
+maintained by the Finnish Environment Institute. Values
+of water-quality variables were calculated as means of annual
+measurements registered during the previous 10 y for
+each lake.
+We sampled macroinvertebrates from 3 replicate sampling
+sites at 0.5 m depth in each lake (see below). For each
+replicate, we visually estimated the % cover of each mineral
+particle size (modified Wentworthís scale; Allan 1995)
+within a 0.25-m2 quadrat. We calculated the mean percentageweighted
+particle size per replicate, used those values to
+calculate a site mean, and used the site means to calculate
+the mean for each lake.
+We estimated the shore slope at each of the 3 replicate
+sampling sites by measuring the perpendicular distance from
+the shoreline at 0.5, 1.0, 2.0, 3.0, and 4.0 to 5.0 m of water
+depth with a laser distance measurer (400LH; Opti-Logic
+Corp., Tullahoma, Tennessee). We calculated the mean slope
+of each site, expressed as the angle between the bottom
+and the water surface, from the 5 distance measures and
+used the values from the 3 sites to calculate a mean slope
+value for the lake.
+Lakes with the same surface area but increasing shore
+length will have a larger littoral area, which will influence
+habitat characteristics and assemblage composition (Kalff
+2003). Thus, macroinvertebrate assemblage structure and
+crayfish feeding might be affected by lake shape. We estimated
+the degree of lake shoreline irregularity as the shoreline
+development factor (Sdf) calculated as:
+Sdf º L
+2 ffiffiffiffiffiffi Ap
+p (Eq. 1)
+where L is the shoreline length (km) and A is the area of
+the lake (km2) (Wetzel 2001). We collected macroinvertebrate samples in August
+2010 or 2011. We sampled at 3 replicate sites chosen at
+each lake from open stony shore areas at 0.5 to 1 m depth.
+We selected stony shores because they are the preferred
+habitat for and, therefore, could be most strongly affected
+by the 2 crayfish species (Ruokonen et al. 2014). At each
+site we moved along a 1-m stretch of bottom (parallel
+to the shoreline) for 30 s while kicking the substrate and
+capturing the detached and suspended material by sweeping
+with a kick net (Johnson and Goedkoop 2002), after
+which samples were immediately preserved in 70% ethanol.
+In the laboratory, samples were sorted, identified to the
+lowest feasible taxonomic level (mostly to species or genus),
+and counted. We tested for differences in each environmental variable
+among lake categories with 1-way analysis of variance
+(ANOVA) to evaluate if the 3 groups of lakes represented
+comparable samples from the same parent lake population.
+We calculated mean macroinvertebrate abundance for
+each lake from the mean number of animals/sample and
+taxon richness as the total number of taxa sampled from
+each lake. We also calculated the Shannon diversity index
+(McCune and Grace 2002) to quantify species diversity
+among the 3 lake categories by taking into account both
+the richness and the relative abundance of macroinvertebrate
+taxa. We then tested abundance and diversity metrics for differences among the 3 lake categories with
+1-way ANOVA and Tukeyís Honestly Significant Difference
+(HSD) post hoc pairwise comparisons. We also compared
+abundance and richness separately for the main
+taxonomic groups. The normality assumption was violated
+for some groups, so we used nonparametric KruskalñWallis
+tests and pairwise Bonferroni-corrected MannñWhitney
+U-tests for this analysis.
+We used multivariate analyses to compare assemblage
+composition among lake categories. We grouped macroinvertebrates
+into higher taxa: Gastropoda, Bivalvia (Sphaeriidae),
+Oligochaeta, Hirudinea, Isopoda (Asellus aquaticus), Ephemeroptera,
+Odonata, Plecoptera, Neuroptera (Sisyridae),Megaloptera
+(Sialidae), Heteroptera (Corixidae), Coleoptera,
+Chironomidae, Ceratopogonidae, and Trichoptera. We used
+this low taxonomic resolution because most lower-level
+taxa (species and genera) were rare and, therefore, higher
+taxonomic resolution resulted in greater assemblage variation
+within and less differentiation among lake categories.
+We used nonmetric multidimensional scaling (NMDS) ordination
+on transformed (log[mean count + 1]) abundance
+data and the BrayñCurtis distance measure to visually explore
+whether invertebrate assemblages differed systemaically
+among lake categories. We used the same data to test
+for differences in assemblages among lake categories with
+Multi-Response Permutation Procedures (MRPP). Statistical
+analyses were performed in R (version 2.15.2; R Project
+for Statistical Computing, Vienna, Austria). For the NMDS
+we used metaMDS and ordiellipse functions, which are
+part of the package vegan (Oksanen 2013). 
+
+
+xresults
+
+
+ The measured environmental characteristics did not differ
+among the 3 lake categories (Table 1), indicating that
+our lakes represented 3 different crayfish treatments but
+otherwise had equivalent characteristics.
+Total invertebrate abundance did not differ significantly
+among lake categories (F = 0.341, df = 2, p = 0.71;
+Fig. 2A), but total taxon richness did (F = 6.723, df = 2,
+p = 0.005; Fig. 2B). Signal (p = 0.03) and noble (p = 0.004)
+crayfish lakes had significantly fewer taxa than control lakes,
+but taxon richness did not differ between signal and noble
+crayfish lakes (p = 0.65) (Fig. 2B). The Shannon diversity
+index differed among lake categories (F = 10.18, df = 2,
+p = 0.0008; Fig. 2C). Signal (p = 0.005) and noble (p = 0.001)
+crayfish lakes had lower Shannon diversity than control
+lakes, but Shannon diversity did not differ between signal
+and noble crayfish lakes (p = 0.79).
+Most macroinvertebrate taxonomic groups showed comparable
+abundance and taxon richness among lake categories,
+but certain groups showed marked and significant
+differences (Table 2). Gastropoda abundance differed among
+lake categories (KruskalñWallis ?2 = 7.43, df = 2, p = 0.02;
+Fig. 3, Table 2), but post hoc comparisons did not reveal
+differences between signal crayfish and control lakes (p =
+0.07), noble crayfish and control lakes (p = 0.12), or signal
+and noble crayfish lakes (p = 1.00). Gastropoda taxon
+richness differed among lake categories (?2 = 8.27, df = 2,
+p = 0.01; Fig. 4, Table 2), with significantly fewer snail
+taxa in signal crayfish than in control lakes (p = 0.03), but
+no difference between noble crayfish and control (p = 0.15),
+or between signal and noble crayfish lakes (p = 0.88).
+Bivalvia (all were pea clams, Sphaeriidae) and Odonata
+abundances differed among lake categories (Table 2), mainly
+between noble crayfish and control lakes ( p = 0.008, p =
+0.01, respectively; Fig. 3). Odonata taxon richness did not
+differ among lake categories (Fig. 4, Table 2), whereas
+Bivalvia taxon richness was significantly lower in signal
+and noble crayfish lakes than in control lakes (noble vs control lakes: p = 0.01, signal vs control lakes: p = 0.04;
+Fig. 4, Table 2). Neither abundance nor taxon richness of
+Oligochaeta, Isopoda (Asellus aquaticus), Ephemeroptera,
+Coleoptera, Chironomidae, and Trichoptera differed among
+lake categories (Figs 3, 4, Table 2).
+Nonmetric multidimensional scaling (NMDS) ordination
+suggested a 3-dimensional solution (final stress = 0.15) for
+the best representation of the lake categories grouped on the
+basis of their macroinvertebrate assemblages (Fig. 5AñC).
+Signal and noble crayfish lakes overlapped each other and
+were clearly separated from the control lakes in the plots of
+axis 1 vs 2 and axis 1 vs 3 (Fig. 5A, B), indicating a similar
+macroinvertebrate composition in the 2 crayfish lake categories
+and differing composition in the control lakes. NMDS
+axes 2 and 3 did not strongly differentiate among lake categories
+(Fig. 5C). MRPP showed significant differences in assemblage
+composition between signal crayfish and control
+lakes (A = 0.06, p = 0.04) and between noble crayfish and
+control lakes (A = 0.09, p = 0.009), but not between signal
+and noble crayfish lakes (A = 0.02, p = 0.15). A permutation
+test did not reveal any significant correlations between environmental
+variables and NMDS ordination axes.  xdiscussion
+ Many studies have been done on the effects of one or
+more nonnative crayfish on freshwater littoral assemblages
+at different spatial scales. However, very few investigators
+have compared the ecological effects of native and invasive
+crayfish species in the same region. We addressed
+long-term effects of signal and noble crayfish on macroinvertebrate
+assemblages at a whole-lake scale in small- and mediumsized
+Finnish boreal lakes. We think our study is the most
+comprehensive comparison to date of the effects of nonnative
+signal and native noble crayfish in boreal lakes. Overall macroinvertebrate abundance did not appear
+to differ between crayfish and control lakes. This result
+is consistent with a study by Ruokonen et al. (2014) who
+found that macroinvertebrate density was not reduced
+by invasive signal crayfish in large boreal lakes. However,
+our results differ from those reported by Nilsson et al. (2012)
+who found that macroinvertebrate abundance was negatively
+affected by invasive rusty crayfish (Orconectes rusticus) in
+10 Wisconsin lakes. This discrepancy might be accounted
+for by the generally low abundance of crayfish in boreal
+lakes (CPUE typically <<10 individuals; Erkamo et al. 2010,
+Ruokonen et al. 2014, Sandstrˆm et al. 2014), including
+our study lakes (Table S1), compared to the large catches
+of O. rusticus typically reported from North American lakes
+(Kreps et al. 2012, Nilsson et al. 2012). Signal crayfish were
+introduced into our study lakes almost 20 y ago, and presumably,
+noble crayfish have occupied their lakes for a
+very long time. Thus, populations probably have reached
+an equilibrium in each lake (Sandstrˆm et al. 2014). Hence,
+crayfish in these lakes do not have an important effect on
+macroinvertebrate abundance, although lakes with unusually
+high crayfish densities might be an exception.
+However, lakes in both crayfish categories had significantly
+lower macroinvertebrate taxon richness relative
+to control lakes, and the Shannon index clearly showed
+higher diversity in control than in signal or noble crayfish
+lakes. Many investigators have reported similar results
+for lakes (Nilsson et al. 2012, Ruokonen et al. 2014) and
+streams (Stenroth and Nystrˆm 2003, Crawford et al.
+2006, Moorhouse et al. 2014). However, taxon richness
+and taxonomic composition did not differ between signal
+crayfish and noble crayfish lakes, a result suggesting that
+the 2 species have an equivalent role as consumers in these
+lakes. Signal and noble crayfish exploit the same food resources
+(Nystrˆm and Strand 1996, Nystrˆmet al. 1999) and
+have similar trophic niches (Olsson et al. 2009, Ercoli et al.
+2014). Signal crayfish consumed more food than noble crayfish,
+but these results were from short-term experiments
+in small artificial settings (Nystrˆm 2005, Dunoyer et al. 2014). Thus, our conclusions with regard to the similar
+effects of the 2 species of crayfish on macroinvertebrate
+assemblages are broadly in line with previous studies and
+provide no clear evidence that the signal crayfish is a more
+active predator than the noble crayfish.
+Nystrˆm et al. (1999) argued that prey activity would
+be an important influence on crayfish consumption. Mollusks
+are slow moving and probably are the taxa most
+vulnerable to predation by crayfish, which can greatly reduce
+mollusk population size and species richness (Lodge
+et al. 1994, Dorn and Wojdak 2004, Klose and Cooper
+2012, Ruokonen et al. 2014). We found significantly lower
+abundance of Sphaeriidae and a tendency for lower abundance
+of Gastropoda in crayfish lakes than in control lakes.
+Furthermore, Gastropoda species richness differed between
+signal crayfish and control lakes but not between
+noble crayfish and control lakes, a result that might be
+explained by more selective feeding by signal crayfish. A
+meta-analysis by Twardochleb et al. (2013) showed consistently
+negative effects of crayfish on Gastropoda abundance
+and suggested a tendency for effects of nonnative
+species to be stronger than that of native species. However,
+the abundance and species richness of Sphaeriidae
+and Gastropoda did not differ between signal and noble
+crayfish lakes, and recent direct experimental comparisons
+indicate that effects can be either similar or different
+between species independent of species origin (Nystrˆm
+et al. 1999, Olden et al. 2009, Haddaway et al. 2012, Dorn
+2013, Jackson et al. 2014). Limited data are available on
+effects of crayfish on small Bivalvia in general (e.g., they
+were not included in the meta-analysis by Twardochleb
+et al. 2013), but Klocker and Strayer (2004) found that
+the invasive species Orconectes rusticus and the native
+crayfish Orconectes limosus both fed readily and to the
+same extent on native bivalves (Sphaeriidae) in a laboratory
+experiment.
+The effects of crayfish on the abundance of macroinvertebrate
+groups other than snails tend to be weak and
+variable (McCarthy et al. 2006, Twardochleb et al. 2013).
+Larger, more mobile invertebrates generally are less susceptible
+than smaller, less mobile invertebrates to crayfish
+predation (e.g., Hanson et al. 1990), but burrowing taxa
+may be concealed and less susceptible to predation by
+crayfish. Nystrˆm et al. (1999) suggested that sedimentdwelling,
+infaunal taxa can become dominant in the presence
+of crayfish. However, the abundance and taxon richness
+of most groups, including mobile taxa like Ephemeroptera
+and Coleoptera, less mobile taxa like Trichoptera or Isopoda
+(Asellus aquaticus), and burrowing taxa like Chironomidae
+and Oligochaeta, did not differ among lake categories.
+Odonata was the only group apart from Mollusca
+that was significantly less abundant in crayfish lakes (particularly
+noble crayfish) than in control lakes. However,
+crayfish did not affect Odonata taxon richness. Ruokonen
+et al. (2014) reported similar findings from larger boreal
+lakes, but in general, responses of Odonata to crayfish have
+been variable (McCarthy et al. 2006, Twardochleb et al.
+2013). Odonata are mostly sit-and-wait or stalking predators,
+and their large body size may make them particularly
+attractive prey for crayfish.
+Recent meta-analyses have suggested that nonnative
+consumers generally have greater effects than native consumers
+(Paolucci et al. 2013), and that nonnative crayfish
+potentially have stronger effects than native crayfish on native
+assemblages (McCarthy et al. 2006, Twardochleb et al.
+2013). Ercoli et al. (2014) used a stable-isotope approach
+to show that signal and noble crayfish in our study lakes
+had very similar diets and similar within-lake trophic niche
+widths. They did find some evidence that, across the whole
+set of lakes, signal crayfish had a somewhat broader trophic
+niche than noble crayfish. Similar results were obtained
+in a study of Swedish streams (Olsson et al. 2009). In our
+study, the similar trophic characteristics of the 2 crayfish
+species were manifested as equivalent effects on littoral macroinvertebrate
+abundance and assemblage structure among
+crayfish lakes. However, different crayfish species can have
+different effects on macroinvertebrate abundance (e.g.,
+Haddaway et al. 2012, Dunoyer et al. 2014, Jackson et al.
+2014), so our results, which pertain to one pair of invasive
+and native species, should not be generalized.
+We showed that signal and noble crayfish have similar
+effects on littoral macroinvertebrate assemblages in
+boreal lakes. Nevertheless, we urge caution when considering
+the introduction of signal crayfish to lakes like those
+in our study because the 2 species can differ in their effects
+on other ecosystem components, e.g., leaf-litter decomposition
+(Dunoyer et al. 2014, Jackson et al. 2014),
+macrophytes (Hansen et al. 2013), fine sediment dynamics
+(Harvey et al. 2014), or macroinvertebrates in other habitats
+than stony littoral zones. Influence of crayfish on invertebrate
+prey generally is habitat-specific (e.g., Kreps
+et al. 2012, Hansen et al. 2013, Ruokonen et al. 2014). For
+instance, Ruokonen et al. (2012) suggested that signal crayfish
+can exploit prey and have impacts at greater depths
+than noble crayfish, although this wider foraging range
+might not be relevant for our smaller, shallower lakes
+(Table S1).
+Our results also show that equal caution should be exercised
+when considering the domestic introductions of
+native noble crayfish into lakes currently without crayfish,
+either with the purpose of creating ìArk sitesî (Reynolds
+and Souty-Grosset 2012a, Rosewarne et al. 2013)
+for this endangered native crayfish species or for fisheries
+purposes. Noble crayfish had effects on macroinvertebrate
+assemblages that were similar to the effects of signal crayfish.
+Thus, the native crayfish can be considered an introduced
+ìnative invaderî (Simberloff et al. 2012) in lakes that
+previously lacked this omnivorous species even if those lakes lie within the natural range of the species, and particularly
+if they lie beyond that natural range.

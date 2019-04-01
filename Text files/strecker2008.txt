@@ -1,0 +1,1415 @@
+xabstract
+
+
+Bythotrephes longimanus is an invertebrate predator
+
+that has invaded the North American Great Lakes
+
+and a number of inland lakes, where it preys on
+
+crustacean zooplankton. We examined the effect of
+
+Bythotrephes on two measures of ecosystem function
+
+during a four-month observational study of freshwater
+
+lakes on the boreal shield. Bythotrephes-invaded
+
+lakes had significantly lower epilimnetic
+
+zooplankton abundance and production compared
+
+to reference lakes. On average, Bythotrephes consumed
+
+34% of zooplankton production when it
+
+was present in lakes. There was some evidence of
+
+changes in the timing of zooplankton production,
+
+as well as shifts to cooler, less productive habitats,
+
+which may lessen the overall effect of the invader
+
+on the transfer of energy to higher trophic levels.
+
+We experimentally demonstrated a weak trophic
+
+cascade where invader predation reduced zooplankton
+
+biomass, and subsequently increased
+
+phytoplankton growth. However, the response was
+
+small in magnitude and not biologically relevant at
+
+the whole lake-scale. The most conspicuous effect
+
+of Bythotrephes that we measured was a diversion of
+
+energy away from native predators at higher trophic
+
+levels. xintroduction
+
+
+The introduction of non-indigenous species is
+
+expected to be one of the greatest threats to species
+
+across all ecosystems (Wilcove and others 1998;
+
+Sala and others 2000) and the single most important
+
+driver of biodiversity loss in freshwater lakes
+
+(Sala and others 2000). Although there is evidence
+
+that invasive species can alter ecosystem function
+
+(Brooks and others 2004; Zhu and others 2006), we
+
+currently lack understanding of how newly introduced
+
+species may affect ecosystem processes
+
+(Millenium Ecosystem Assessment 2005). Thus, the
+
+invasion of a non-native species presents a unique
+
+opportunity to understand how complex ecosystems
+
+operate.
+
+Bythotrephes longimanus (Crustacea, Branchiopoda,
+
+Onychopoda) is a parthenogenetic invertebrate
+
+predator that has invaded all of the North
+
+American Great Lakes (Jin and Sprules 1990), and
+
+more than 100 inland lakes in North America,
+
+including waterbodies in Ontario (N. Yan, unpublished
+
+data), Minnesota (Branstrator and others
+
+2006), and Michigan (Jarnagin and others 2000).
+
+Although studies have indicated that Bythotrephes
+
+prefers large, deep, low productivity lakes in both
+
+its native Eurasia and in invaded regions (MacIsaac and others 2000), it has been found in smaller
+
+shallow waterbodies and higher productivity lakes
+
+as well (Jarnagin and others 2000). Bythotrephes has
+
+the potential to invade many boreal shield and
+
+northern temperate lakes, especially those visited
+
+by human vectors.
+
+Bythotrephes can have substantial effects on the
+
+community structure of its primary prey, crustacean
+
+zooplankton, and although there is some
+
+degree of among-lake variability in the response to
+
+invasion, the general trend has been reductions in
+
+species richness (Yan and others 2002; Strecker and
+
+others 2006), total community biomass (Boudreau
+
+and Yan 2003; Strecker and Arnott 2005), and total
+
+community abundance of zooplankton (Yan and
+
+others 2001; Strecker and Arnott 2005; Strecker
+
+and others 2006). These trends follow from dramatic
+
+declines in cladoceran zooplankton richness
+
+and abundance (Yan and others 2001; Boudreau
+
+and Yan 2003; Strecker and others 2006).
+
+Zooplankton are a central component in freshwater
+
+food webs, transferring energy to young-ofyear
+
+(YOY) and planktivorous fish via production
+
+of biomass, grazing on phytoplankton biomass, and
+
+recycling dissolved nutrients to phytoplankton.
+
+Foraging success of juvenile fish can be greatly
+
+influenced by variability in zooplankton populations
+
+in freshwater ecosystems (Chick and van den
+
+Avyle 1999; Beauchamp and others 2004). In one
+
+study, it was observed that Bythotrephes consumed
+
+large portions of zooplankton production in Harp
+
+Lake, Ontario during summer (Dumitru and others
+
+2001), potentially decreasing the amount of production
+
+available to other components of the
+
+aquatic food web. Additionally, when Bythotrephes
+
+was present, total consumption of the invertebrate
+
+predator guild increased by greater than 300% (S.
+
+Foster, personal communication), potentially
+
+reducing the efficiency of energy transfer to higher
+
+trophic levels (Sprules 1980).
+
+The impact of zooplankton on phytoplankton is
+
+influenced by zooplankton biomass and community
+
+compositionóand is therefore potentially affected
+
+by Bythotrephes predation. Zooplankton
+
+grazing and nutrient recycling can have a greater
+
+effect on phytoplankton biomass in lakes than
+
+nutrient recycling of fish (Sarnelle and Knapp
+
+2005), and grazing by large cladoceran zooplankton
+
+can exert strong top-down control on phytoplankton
+
+(Elser and Goldman 1991). Thus, zooplankton
+
+community structure in lakes can be a
+
+primary determinant of the flow of energy and
+
+nutrients to all trophic levels; however, few studies
+
+have examined the effects of invaders on nutrient
+
+and energy flow at multiple levels of organization
+
+in freshwater systems (Simon and Townsend
+
+2003).
+
+The overall purpose of this study was to determine
+
+the effects of the invasive predator, Bythotrephes,
+
+on ecosystem function in boreal lakes.
+
+Ecosystem function is commonly measured as
+
+changes in rates of productivity, decomposition,
+
+nutrient cycling, and resistance and resilience to
+
+perturbations (Loreau and others 2001). In our
+
+study, we measured ecosystem function as changes
+
+in rates of secondary productivity and the combined
+
+effects of zooplankton grazing and nutrient
+
+cycling on phytoplankton. The two main objectives
+
+of our study were to examine: (1) the effect of
+
+Bythotrephes on crustacean zooplankton production
+
+within each lake stratum and throughout the icefree
+
+season; and (2) if zooplankton impact on
+
+phytoplankton is influenced by Bythotrephes-induced
+
+changes in community composition and
+
+biomass.
+
+Based on reductions in zooplankton abundance
+
+observed in previous studies (Yan and others 2001;
+
+Strecker and others 2006), we hypothesized that
+
+Bythotrephes would negatively affect zooplankton
+
+production. Bythotrephes tends to be absent in lakes
+
+until middle-to-late June (Yan and others 2001),
+
+creating a window of opportunity before this time
+
+period for zooplankton to increase their reproduction.
+
+Therefore, we expect to see a less pronounced
+
+effect of Bythotrephes on coarse measures of overall
+
+seasonal and whole-water column production, but
+
+differences in fine-scale temporal (biweekly) and
+
+spatial (variation between strata) patterns of zooplankton
+
+production. Secondly, the effects of zooplankton
+
+grazing and nutrient recycling on
+
+phytoplankton are significantly influenced by both
+
+community biomass and composition (Elser and
+
+Goldman 1991; Cyr 1998; Elser and others 2000),
+
+thus, we would expect zooplankton communities
+
+in invaded lakes to have a lessened impact on
+
+phytoplankton as a result of Bythotrephes-induced
+
+reductions in total zooplankton biomass and
+
+selective predation on cladocerans. xmethods
+
+Eight lakes in the Parry Sound and Muskoka districts
+
+of south-central Ontario were chosen for our
+
+study (Table 1). The study lakes are located in
+
+mixed-forest catchments, have low productivity
+
+(oligo-mesotrophic), and are circumneutral. Lakes
+
+are relatively deep, ranging from 23 to 59 m, and
+
+have surface areas ranging from 72 to 2058 ha (Table 1). Lakes were chosen based on prior
+
+knowledge of the invasion of Bythotrephes (invaded
+
+lakes had Bythotrephes for at least 5 years), proximity,
+
+and similarity of chemical, physical, and
+
+morphometric characteristics. As well, all of the
+
+lakes contained the glacial relict Mysis relicta, which
+
+is indicative of a similar post-glacial history, and
+
+planktivorous fish communities, including yellow
+
+perch (Perca flavescens) and a combination of cisco
+
+(Coregonus artedi), rainbow smelt (Osmerus mordax),
+
+and lake whitefish (Coregonus clupeaformis)
+
+(Appendix 1).
+
+Lakes were visited every two weeks from May to
+
+September 2003 (n = 9), and samples were generally
+
+taken within a five-day time period. At a deep
+
+station in the lake, temperature, dissolved oxygen,
+
+and Secchi depth were measured, and samples
+
+were taken for zooplankton, Bythotrephes, and
+
+chlorophyll a (chl a). Four additional sample stations
+
+for Bythotrephes collection were chosen along
+
+a transect, starting at the deep station and moving
+
+toward shore, marking each station with a GPS to
+
+locate it on the next sampling date (see Strecker
+
+and others 2006 for sampling details). Logistical
+
+constraints prevented sampling at night so all
+
+samples were taken during the day. Chl a samples
+
+were taken from the epilimnion using a 2.5-cm
+
+diameter integrated tube sampler. The integrated
+
+tube sampler was also used to collect water from
+
+the epilimnion on the week of 14 July 2003 for
+
+analysis of water chemistry variables.
+
+Zooplankton were sampled with a 110-lm mesh
+
+conical closing net that was 0.5 m in diameter.
+
+Samples were taken in the epilimnion, metalimnion,
+
+and hypolimnion (from 5 m off the lake
+
+bottom to the top of the hypolimnion) after thermal
+
+strata were determined from a temperature
+
+profile taken at 1-m intervals. The top of the
+
+metalimnion was defined as a change of more than
+
+1C per meter, and the top of the hypolimnion by a
+
+change of less than 0.2C per meter. On the first
+
+sampling date, stratification had not yet been
+
+achieved in Bernard Lake, so the depth of the entire
+
+water column was roughly divided in to 3 and
+
+samples were taken from those depths. Average
+
+temperatures from each strata in Bernard Lake on
+
+the first date were consistent with other lakes, thus,
+
+we do not believe that this method affected our
+
+results. The hypolimnion of Doe Lake could not be
+
+sampled on seven dates because it was too shallow; therefore, this lake was excluded from hypolimnetic
+
+abundance and production estimations.
+
+Samples for Bythotrephes were taken over the entire
+
+water column, starting from 5 m off the lake bottom,
+
+using a 400-lm mesh conical net that was
+
+0.5 m in diameter. Bythotrephes and zooplankton
+
+samples were anesthetized and preserved in 5.5%
+
+sugared and buffered formalin.
+
+Zooplankton samples were enumerated and
+
+measured on a Leica MZ12.5 dissecting microscope
+
+using the semi-automated counting system ZEBRA2
+
+(Allen and others 1994). Subsamples of a
+
+known volume were taken and a minimum of 350
+
+individuals were identified to genus, with the
+
+exception of Daphnia mendotae, Eubosmina (Neobosmina)
+
+tubicen, Eubosmina (Eubosmina) coregoni, Eubosmina
+
+(Eubosmina) longispina, and other species
+
+which are the only representative of their genus in
+
+the area. Diaptomid calanoid copepods belonging
+
+to the genera Leptodiaptomus and Skistodiaptomus
+
+were grouped simply as Diaptomus spp. To obtain a
+
+representative enumeration of all zooplankton
+
+genera present, only 40ñ50 individuals of the
+
+dominant taxa, 40ñ50 copepodids per order, and
+
+20ñ30 nauplii per order were counted. Both loose
+
+and attached eggs were counted in the subsamples,
+
+stopping either when the minimum number of
+
+individuals was reached or more than 700 loose
+
+eggs were counted. Loose eggs were designated as
+
+cladoceran or copepod and apportioned to the
+
+number of adults present. Bythotrephes samples
+
+containing less than 32 individuals were counted in
+
+their entirety, whereas samples with greater numbers
+
+were split with a Folsom plankton splitter and
+
+mixed to ensure that clumping did not occur. All
+
+instars were enumerated and abundances were
+
+averaged across the five sampling stations. Although Bythotrephes (Pangle and Peacor 2006)
+
+and other visual predators (Lampert 1989) can induce
+
+diel vertical migration of zooplankton, we
+
+chose to sample during the day to specifically
+
+examine the vertical distribution of productivity
+
+available to visually foraging predators, such as
+
+cisco, which are daytime feeders (Milne and others
+
+2005). Comparisons of day and night vertically
+
+stratified samples of zooplankton taken in 2007 in
+
+most of our study lakes suggest that some zooplankton
+
+migrated downwards in invaded lakes
+
+during the day, whereas diel migrations in noninvaded
+
+lakes tended to be small in magnitude
+
+(S. Arnott, unpublished data). There was variability
+
+in the extent of migration in invaded lakes: on
+
+average 15% of total zooplankton (range: )13 to
+
+31%; negative value represents migration in the
+
+opposite direction) moved from the metalimnion to
+
+the epilimnion at night, but migration of zooplankton
+
+away from the hypolimnion to warmer
+
+temperatures at night was small (mean: 9%, range:
+
+)9 to 28%). We acknowledge that as a result of
+
+these migrations, our calculations may underestimate
+
+metalimnetic production in invaded lakes by
+
+including organisms that have spent nights at warmer
+
+temperatures.
+
+Biweekly zooplankton production was calculated
+
+using two methods. For the calanoid copepod species
+
+that do not carry their eggs in an egg sac (for
+
+example, Senecella calanoides), the cohort method
+
+was used (Downing 1984). For all other zooplankton,
+
+the egg-ratio method was used (Borgmann
+
+and others 1984), following Paloheimo
+
+(1974). Temperature and species-specific values for
+
+egg development time were determined from the
+
+literature (see Kuns and Sprules 2000), and the
+
+mean temperature of each stratum was used. Mean
+
+dry weights for zooplankton were calculated using
+
+lengthñweight regressions (McCauley 1984; Culver
+
+and others 1985; Yan and Mackie 1987; Yan and
+
+Pawson 1997; W.G. Sprules unpublished data).
+
+Areal biweekly production was calculated by multiplying
+
+volumetric production by the depth of the
+
+stratum. All of our production estimates were calculated
+
+at the genus level and then summed across
+
+all taxa to obtain total crustacean zooplankton
+
+production. Bythotrephes production was calculated
+
+separately from the crustacean zooplankton community,
+
+as we wanted to examine the effects of Bythotrephes as a predator on zooplankton productivity,
+
+exclusive of its contribution to total zooplankton
+
+productivity (for comparison, Bythotrephes
+
+production is displayed in Figure 1). Biweekly Bythotrephes
+
+consumption (mg m)2 fortnight)1) was
+
+estimated by dividing Bythotrephes biweekly production
+
+(mg m)2 fortnight)1; calculated by the eggratio
+
+method from whole-water column samples)
+
+by growth efficiency, which was estimated at 27%
+
+for a population of mixed instars (Dumitru and
+
+others 2001). Consumption by Bythotrephes was
+
+contrasted with zooplankton production from the
+
+epilimnion and metalimnion, as a concurrent study
+
+in a subset of the lakes in our study suggests that
+
+this is where the invader is generally found (Young
+
+and Yan 2008). To assess the effects of Bythotrephes on trophic
+
+interactions between zooplankton and phytoplankton,
+
+an in situ experiment was conducted
+
+three times in a subset of the study lakes: two invaded
+
+and three reference lakes. Using a technique
+
+modified from Elser and Goldman (1991), Cyr
+
+(1998), and Sommer and others (2001), we measured
+
+zooplankton impact on the phytoplankton
+
+community, including direct grazing effects, but
+
+also indirect effects, such as nutrient recycling, as no
+
+nutrients were added to the carboys. Four translucent
+
+20-l carboys were deployed for 72 h in each
+
+lake, once during June, July, and August, approximately
+
+4 weeks apart. Carboys were filled with
+
+water and incubated at a depth corresponding to
+
+50% light penetration, thereby minimizing between
+
+lake differences in light exposure. Water was
+
+filtered through 80-lm mesh to remove zooplankton
+
+and added to each carboy. Zooplankton were
+
+added to each of the carboys at several densities (0,
+
+1, 2, and 3∑ ambient) by taking discrete hauls with a
+
+closing net through each of the strata (epi-, meta-,
+
+and hypolimnion), thus compensating for any diel
+
+vertical migration that may have been occurring,
+
+but also likely overestimating grazing due to the
+
+presence of hypolimnetic taxa that would not be
+
+feeding in the epilimnion during the day. The carboys
+
+were then sealed, weighted, and incubated for
+
+72 h. All predaceous macroinvertebrates, such as
+
+Bythotrephes, were excluded from the carboys. By
+
+removing Bythotrephes from the carboys, we are thus
+
+explicitly testing how zooplankton communities
+
+shaped by invasion will influence algal community
+
+biomass in short-term experiments in invaded and
+
+reference lakes. Although initial differences in the
+
+composition of phytoplankton communities could
+
+influence zooplankton grazing, the invaded and
+
+reference lakes in this study have similar proportions
+
+of edible phytoplankton cells (B. Beisner,
+
+unpublished data), suggesting that conditions were
+
+relatively comparable in invaded and reference
+
+lakes. Chl a samples from each carboy were taken at
+
+the beginning and end of the experiment, concentrating
+
+water samples onto 1.2-lm glass fiber filters,
+
+and measured using fluorometry. Following Cyr
+
+(1998), the realized algal growth rates per day for
+
+the carboys that contain zooplankton (r) were calculated
+
+from
+
+r º lnC1=C0ﬁ=T 1ﬁ
+
+where C0 and C1 are the chl a concentrations (lg l)1)
+
+at the beginning and end of the experiment,
+
+respectively, and T is the length of time the experiment
+
+ran (days). Zooplankton impact was calculated
+
+as the slope (b) of the equation
+
+r º bZBﬁ ˛ a 2ﬁ
+
+where ZB is the zooplankton biomass at 0, 1, 2, or
+
+3∑ ambient biomass and a is the growth rate in the
+
+absence of zooplankton. Zooplankton biomass was
+
+determined from the average of the two survey
+
+sampling dates that surrounded the experiment.
+
+The coefficients of the equation were estimated by
+
+linear regression. Percent change in algae (per day)
+
+was calculated as ()(1 ) eb) ∑ 100). Although this
+
+experiment and others upon which it was modeled
+
+(Elser and Goldman 1991; Cyr 1998) are brief, our
+
+experiment was designed to provide insight into
+
+possible trophic interactions that may result from
+
+changes in lake food webs and should be looked
+
+upon as a simplified test of the interaction between
+
+zooplankton and phytoplankton without confounding
+
+factors from higher trophic levels. One-way ANOVAs were used to examine differences
+
+in physical, chemical, and morphological
+
+characteristics of study lakes. Repeated measures
+
+ANOVAs were used to test if there were differences
+
+between invaded and reference lakes for chl a,
+
+secondary production, zooplankton abundance,
+
+and egg ratio (eggs individual)1). Because of nonnormality
+
+and heteroskedasticity in some of the
+
+above measures, all values were log (x + 1)-transformed.
+
+The HuynhñFeldt adjusted P-value was
+
+used in situations where the assumption of sphericity
+
+was not met for repeated measures analyses.
+
+Although we would expect to observe seasonal
+
+changes in zooplankton communities, independent
+
+of invasion status, it was not our intention to describe these changes; therefore, we will not discuss
+
+time effect results unless there is an interaction
+
+with invasion. A two-factor ANOVA was used to
+
+test for differences in zooplankton grazing impact
+
+over all three experimental time periods in invaded
+
+and reference lakes, with time as a block factor.
+
+Statistical analyses were performed using Statistica
+
+6.0 (StatSoft 2001). 
+
+xresults Reference and invaded lakes were similar in surface
+
+area, maximum depth, and primary productivity
+
+(chl a and total phosphorus) (Table 1), as well as
+
+thermal structure (epilimnetic temperature:
+
+F1,6 = 0.01, P = 0.98). There was also no significant
+
+difference in concentrations of calcium and dissolved
+
+organic carbon, pH, and conductivity between
+
+lake categories (Table 1).
+
+Zooplankton production was significantly lower
+
+in the epilimnion of Bythotrephes-invaded lakes
+
+throughout the summer, declining on average by
+
+more than 6000 mg m)2 season)1, or about 67%
+
+(Figure 2, Table 2). There was no difference in
+
+metalimnetic or hypolimnetic production between
+
+invaded and reference lakes (Figure 2, Table 2),
+
+although the hypolimnions of two of the four invaded
+
+lakes, Bernard and Harp, were 18∑ and 13∑
+
+more productive than the average hypolimnetic
+
+productivity of reference lakes (Figure 1). When all
+
+of the strata were combined, there was no statistical
+
+difference in whole-water column zooplankton
+
+production between invaded and reference lakes
+
+(Figures 1, 2 and Table 2).
+
+In the epilimnion, production of calanoid copepods,
+
+cyclopoid copepods, and small cladocerans
+
+was significantly reduced in Bythotrephes-invaded
+
+lakes (Figure 3 and Table 3). Epilimnetic production
+
+by large cladocerans tended to be reduced in
+
+Bythotrephes-invaded lakes, although not significantly.
+
+There was a significant Time ∑ Invasion
+
+interaction for small cladocerans, where production
+
+in invaded lakes was high early in the season, but
+
+declined precipitously from an average of
+
+442 mg m)2 fortnight)1 in May and early June to
+
+less than 2 mg m)2 fortnight)1 over the remainder
+
+of the sampling dates (Figure 3 and Table 3). In the
+
+metalimnion, production by cyclopoids, calanoids,
+
+and small cladocerans was similar in reference and
+
+invaded lakes, whereas large cladoceran production
+
+was 90% lower in invaded lakes compared to reference
+
+lakes, averaging 13 mg m)2 fortnight)1
+
+over the season (Figure 3 and Table 3). In the
+
+hypolimnion, cyclopoid copepods had higher production
+
+in invaded lakes early in the season, followed
+
+by a decrease beginning in mid-June, and
+
+calanoid copepod production was significantly
+
+greater in invaded lakes (Figure 3 and Table 3).
+
+There was no difference in large and small cladoceran
+
+hypolimnetic production between lake groups
+
+(Figure 3 and Table 3).
+
+The abundance of crustacean zooplankton in the
+
+epilimnion was significantly affected in invaded
+
+lakes, with declines of more than 33,000 individuals
+
+m)3 over the summer, on average (Figure 4
+
+and Table 2). There was also a significant
+
+Time ∑ Invasion interaction, such that abundances
+
+were similar in invaded and reference lakes in May
+
+and early June, but showed significant declines in
+
+the invaded lakes after this time. There was no
+
+difference between invaded and reference lake
+
+zooplankton abundance in the metalimnion, 
+
+
+hypolimnion, and when all strata are combined,
+
+nor were there any interactions between invasion
+
+status and time (Figure 4 and Table 2).
+
+Bythotrephes-invaded lakes had a marginally significant
+
+increase in numbers of eggs produced per
+
+individual zooplankter in the hypolimnion, which
+
+was most noticeable early in the summer (Figure 5
+
+and Table 2). This peak was likely driven by extremely
+
+high egg production by hypolimnetic cyclopoid
+
+copepods, producing on average more than
+
+9000 eggs m)3 between the first and second sampling
+
+dates (A. Strecker, unpublished data), far
+
+greater numbers than other zooplankton of a similar
+
+size, and had greater numbers of eggs per individual
+
+in invaded lakes compared to reference lakes (Figure
+
+5 and Table 4). When all strata were combined,
+
+there was a marginally significant increase in eggs
+
+produced per individual zooplankter in invaded
+
+lakes compared to reference lakes on the first sampling
+
+date (F1,6 = 3.82, P = 0.10). This early season
+
+peak in number of eggs per individual in invaded
+
+lakes came mostly from small cladoceran and cyclopoid
+
+functional groups (Figure 5). There was no
+
+significant effect of invasion on total or functional
+
+group eggs per individual in the epilimnion, metalimnion,
+
+or when all strata were combined, nor were
+
+there any significant Time ∑ Invasion interactions
+
+(Figure 5 and Table 2).
+
+Bythotrephes consumed substantial portions of the
+
+total seasonal zooplankton production in three of
+
+the four invaded lakes (Figure 6), on average
+
+consuming more than 1000 mg m)2 season)1 or
+
+about 17% of secondary production from the
+
+middle of May to the middle of September. However,
+
+Bythotrephes did not tend to appear until mid-
+
+June in our samples, thus zooplankton production
+
+consumed after Bythotrephes starts reproducing is,
+
+on average, about 34% (Figure 6). Bythotrephes
+
+consumed greater than 100% of zooplankton production
+
+on two sampling dates in Bernard Lake and
+
+Harp Lake, but its consumption never exceeded
+
+zooplankton production in Peninsula and Vernon
+
+lakes. In general, Bythotrephes production was low,
+
+only comprising less than 6% of total zooplankton
+
+production, on average (Figure 1). In each grazing experiment, algae decreased in reference
+
+lakes and increased in invaded lakes (Figure
+
+7a). There was a significant effect of invasion on
+
+zooplankton impact on the algal community (invasion:
+
+F1,8 = 23.13, P < 0.01, time: F2,8 = 0.85,
+
+P = 0.46), such that % change in algae increased in
+
+the invaded lakes. However, this increase is likely
+
+not biologically meaningful in the long term, as
+
+changes in chl a in the experimental carboys were
+
+typically less than 1 lg l)1. Indeed, there was no
+
+significant difference in epilimnetic chl a concentrations
+
+between lakes with and without Bythotrephes
+
+throughout the entire season in the entire subset of
+
+lakes sampled (Figure 7b and Table 1). xdiscussion
+We found that the invasive invertebrate predator,
+
+Bythotrephes, altered some measures of ecosystem
+
+function in freshwater lakes, such as epilimnetic
+
+secondary production, but that other measures
+
+were generally unchanged. There was some evidence
+
+for seasonal shifts in the production of different
+
+functional groups and individual egg
+
+production in invaded lakes in May and early June,
+
+but this was not great enough to balance production
+
+lost to Bythotrephes consumption later in the
+
+season. The effects of Bythotrephes on whole lake
+
+productivity may be moderated by behavioral shifts
+
+in zooplankton abundance to the cool dark waters
+
+of the hypolimnion and/or increased abundance of
+
+hypolimnetic species, and consequently, increased
+
+production in the hypolimnion of some lakes. Bythotrephes
+
+cannot compensate for the declines in
+
+biomass production observed in invaded lakes, as it
+
+generated less than 6% of total zooplankton production.
+
+Our study provides compelling evidence
+
+that Bythotrephes can alter the flow of energy in
+
+parts of freshwater lakes, but may leave other
+
+measures of ecosystem function relatively unaffected.
+
+Changes in energy flow will likely have
+
+implications for growth and reproduction of other
+
+trophic levels in the food web, including macroinvertebrates,
+
+planktivorous fish, and young-of-year
+
+piscivorous fish, because these organisms all rely on
+
+zooplankton as a major food source. There was a significant decrease in epilimnetic
+
+zooplankton production in lakes invaded by Bythotrephes.
+
+This was likely the result of significant
+
+reductions in zooplankton abundance in the epilimnion,
+
+as there was no difference in other factors
+
+that influence productivity, such as egg production, chl a, and temperature, in invaded lakes compared
+
+to non-invaded lakes. Although previous studies
+
+have observed declines in overall zooplankton
+
+abundance (Yan and others 2001; Strecker and
+
+others 2006), this is the first study to detect negative
+
+effects of Bythotrephes on epilimnetic zooplankton
+
+production in multiple lakes and reduced
+
+production in several functional groups (calanoids,
+
+cyclopoids, and small cladocerans) within the epilimnion.
+
+The substantial declines in epilimnetic
+
+production are likely the result of a combination of
+
+direct predation on zooplankton by Bythotrephes, as
+
+well as behavioral shifts away from the epilimnion
+
+to cooler darker habitat. Although we cannot
+
+determine the relative importance of predation vs.
+
+migration, what remains is that the epilimnion of
+
+lakes has dramatically changed following the
+
+invasion of Bythotrephes, and that there is significantly
+
+less productivity available to foraging species.
+
+Although few studies exist that compare
+
+secondary productivity across different predatory
+
+regimes, our results are similar in magnitude to
+
+those observed in a fish biomanipulation experiment,
+
+where the introduction of piscivores into a
+
+piscivore-free lake resulted in reductions in planktivorous
+
+fish, increased biomass of the native
+
+invertebrate predator Chaoborus, and significant
+
+declines in zooplankton productivity (Ramcharan
+
+and others 2001). This suggests that the introduction
+
+of non-native species can act in an analogous
+
+fashion to the complete restructuring of a lake food
+
+web by the introduction of a top predator.
+
+We observed an increase in productivity in the
+
+hypolimnion in some invaded lakes, which likely
+
+results from predator-induced habitat shifts. As
+
+discussed above, diel vertical migrations of zooplankton
+
+can confound estimations of secondary
+
+productivity. However, it is unlikely that these
+
+migrations influenced our estimates of epilimnetic
+
+or hypolimnetic production because we have no
+
+evidence that zooplankton migrated downwards
+
+from the epilimnion at night, and zooplankton
+
+migration upwards from the hypolimnion at night
+
+was minor (S. Arnott, unpublished). However, we
+
+may have underestimated metalimnetic production
+
+in invaded lakes, as diel migrations from the warmer
+
+epilimnion at night to the cooler metalimnion
+
+during the day may be a response of some zooplankton
+
+taxa to Bythotrephes. Dumitru and others
+
+(2001) examined the effect of Bythotrephes on
+
+whole-water column zooplankton production in a
+
+single lake, and therefore did not consider the
+
+spatial distribution of production. Pangle and Peacor
+
+(2006) and Pangle and others (2007) demonstrated
+
+that Bythotrephes can induce cladoceran taxa
+
+to migrate into the hypolimnion to avoid predation,
+
+with significant costs as a result of exposure to
+
+cooler temperatures: our results extend their findings
+
+to the entire zooplankton community over a
+
+greater part of the ice-free season. The non-lethal
+
+costs of these migrations may be substantial. Using
+
+Harp Lake as an example, we estimate that epilimnetic
+
+production would be about 44% greater if
+
+approximately 50% of zooplankton (based on differences
+
+in hypolimnetic abundance between Harp
+
+and reference lakes) in the hypolimnion of Harp
+
+Lake are epilimnetic species that have behaviorally
+
+shifted habitats to avoid Bythotrephes. There was considerable among-lake variability in
+
+response to the invasion of Bythotrephes. Although
+
+the hypolimnion of some invaded lakes made
+
+substantial (>25%) contributions to total seasonal
+
+productivity, the hypolimnion contributed very
+
+little to overall productivity in other invaded lakes
+
+(<4%). This variability in invaded lakes may be
+
+partly due to differing planktivore communities.
+
+Planktivores may influence the vertical distribution
+
+of Bythotrephes, which may, in turn, influence the
+
+distribution of zooplankton. A concurrent study in
+
+two of our invaded lakes revealed that Bythotrephes
+
+distribution is indeed related to the presence of the
+
+cold-water planktivore, cisco (Young and Yan
+
+2008), suggesting that other components of the
+
+food web may mediate the effects of Bythotrephes on
+
+crustacean zooplankton.
+
+In addition to spatial shifts in productivity, we
+
+observed seasonal shifts in invaded lakes during
+
+periods when Bythotrephes was not present, that is,
+
+in the spring before population growth rates increase.
+
+In three of the four invaded lakes, there was
+
+a large pulse in small cladoceran epilimnetic production
+
+early in the season, likely from above
+
+average egg production per individual small cladoceran
+
+in two of the invaded lakes, in combination
+
+with greater abundances in May and early
+
+June. This suggests that small cladocerans may alter
+
+their life history, at least in some lakes, by shifting
+
+reproduction to earlier in the season to avoid the
+
+invader. This is in agreement with another field
+
+study, where temporal shifts in copepod egg production
+
+were observed as a result of the presence of
+
+a fish predator (Hairston and Walton 1986).
+
+Increased production of other intermediate trophic
+
+levels may offset reduced epilimnetic crustacean
+
+production. For instance, rotifers were more
+
+abundant in lakes invaded by Bythotrephes, especially
+
+the colonial Conochilus (Hovius and others
+
+2006), which has high intrinsic rates of increase
+
+(Allan 1976) and is probably an inedible prey item
+
+for Bythotrephes. However, rotifers likely do not substitute for crustacean zooplankton as prey for
+
+fish (Threlkeld 1988). In addition, Sherwood and
+
+others (2002) showed that the lack of large-bodied
+
+prey groups could reduce the efficiency of energy
+
+transfer to fish in metal-polluted lakes with simplified
+
+food webs, implying that the loss of typical
+
+prey in invaded lakes may prevent higher trophic
+
+levels from reaching their normal body size. The spatial, temporal, and taxonomic redistribution
+
+of secondary production in Bythotrephes-invaded
+
+lakes will likely have important implications
+
+for aquatic food webs. Shifts in zooplankton
+
+reproduction from the epilimnion to the hypolimnion
+
+may negatively affect epilimnetic-feeding fish
+
+species that rely on zooplankton, such as larval
+
+cisco, which inhabit surface waters (Oyadomari
+
+and Auer 2004), and are highly reliant on crustaceans
+
+as their prey (Davis and Todd 1998). In
+
+addition, cold-water planktivores (that is, adult
+
+cisco) would be unlikely to benefit from this shift
+
+because they have reduced foraging success in
+
+poorly lit waters (Milne and others 2005) and tend
+
+to prefer temperatures around 12C (Rudstam and
+
+Magnuson 1985), which falls into the metalimnion
+
+in most of our lakes. Despite experimental results that were suggestive
+
+of reduced control of the algal community by the
+
+zooplankton community, we did not observe the
+
+expected changes in phytoplankton biomass (as
+
+measured by chl a) at the lake level in Bythotrephes- invaded lakes. Even though low-productivity lakes,
+
+such as those in our study, are predicted to be
+
+influenced more by bottom-up, rather than topdown,
+
+forces (Jeppeson and others 2003), significant
+
+effects of zooplankton on phytoplankton biomass
+
+have been observed in other oligotrophic
+
+lakes (Sarnelle and Knapp 2005). The weak overall
+
+effects of zooplankton on phytoplankton echo the
+
+experimental results of Sommer and others (2001),
+
+where increased abundance of zooplankton functional
+
+groups had no effect on total phytoplankton
+
+biomass. Pe¥rez-Fuentetaja and others (2000) also
+
+found that zooplankton had a weak influence on
+
+chlorophyll in oligo- and meso-trophic lakes. Thus,
+
+it appears that the invasion of Bythotrephes will
+
+probably not have a large cascading effect on
+
+phytoplankton biomass in lower productivity lakes,
+
+despite large reductions in epilimnetic zooplankton
+
+biomass (>70%). However, more productive lakes
+
+may be more likely to respond to top-down changes
+
+(Jeppesen and others 2003), and although Bythotrephes
+
+seems to prefer oligotrophic lakes, it has
+
+been found in some mesotrophic systems (Jarnagin
+
+and others 2000), suggesting that the invader may
+
+have the potential to instigate increases in algal
+
+biomass in lakes of moderate productivity.

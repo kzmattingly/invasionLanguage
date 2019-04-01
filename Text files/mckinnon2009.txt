@@ -1,0 +1,390 @@
+xabstract
+Caulerpa taxifolia is a habitat-forming green alga that has invaded several temperate regions worldwide. Although C. taxifolia covers large areas of soE-sediment habitat, liFle is known about its eBects on soEsediment invertebrate assemblages. We compared soE-sediment macroinvertebrate assemblages in 2 estuaries in southeastern Australia invaded by C. taxifolia to examine 2 main predictions: (1) areas covered with C. taxifolia will have diBerent assemblages compared to unvegetated sediment because infauna are inhibited but epifauna are facilitated, and (2) areas with C. taxifolia will have diBerent assemblages compared to those with native seagrasses (Halophila ovalis and Zostera capricorni) because infauna are inhibited but epifauna are not. Multidimensional scaling and ANOSIM showed diBerences in invertebrate assemblages between all habitats. In C. taxifolia, infauna were less abundant and epifauna were more abundant compared to unvegetated sediment. However, when compared to native seagrasses, epifauna in C. taxifolia were more abundant than in H. ovalis in one estuary but less abundant than in Z. capricorni in another estuary, while infauna in C. taxifolia were less abundant than in both seagrass species. Ce consistently low infaunal abundance in C. taxifolia, irrespective of infaunal feeding mode, suggests C. taxifolia impacts infauna generally. Examination of environmental factors potentially responsible for the low abundance of infauna indicated that diBerences in redox potential (and associated chemical changes) may explain paFerns in abundance of infauna among habitats. Our Dndings indicate that invasion by C. taxifolia causes important changes to soE-sediment macroinvertebrate assemblages and suggest that infauna may be particularly vulnerable to invasion because of changes to sediment chemistry.
+
+xintroduction
+Marine and estuarine habitat-forming invasive species have major effects on native 2 
+communities. In soft-sediment marine systems, they modify a range of abiotic factors 3 
+including water flow, food availability, the deposition of organics and sediment chemistry 4 
+which all have potentially important implications for native fauna (Posey 1988, Chisholm and 5 
+Moulin 2003, Neira et al. 2005; 2006; Hacker & Dethier 2006). However, their effects on 6 
+soft-sediment fauna are complex and appear to depend on the habitat invaded (unvegetated 7 
+vs. native habitat-forming species) and whether fauna live in or above the sediment (infauna 8 
+vs. epifauna). Compared to unvegetated sediment, habitat-forming invasive species typically 9 
+have a higher abundance of epifauna but a lower abundance of certain infaunal species or 10 
+functional groups and consequently, very different faunal assemblages (Crooks 1998, Crooks 11 
+& Khim 1999, Hedge & Kriwoken 2000, Neira et al. 2005, 2006, Levin et al. 2006). An 12 
+exception to this general pattern is the invasive seagrass Zostera japonica which had a higher 13 
+abundance of infauna compared to unvegetated sediment (Posey 1988). Compared to native 14 
+habitat-forming species, invasive habitat-forming species have a similar abundance of 15 
+epifauna and infauna and consequently, similar faunal assemblages (Hedge & Kriwoken 16 
+2000) or assemblages differing in some species or functional groups and consequently 17 
+different faunal assemblages (e. g. fewer infaunal surface feeders; Levin et al. 2006, Neira et 18 
+al. 2005). The reasons why some infauna are negatively affected by habitat-forming invasive 19 
+species is unresolved but it may relate to changes to the sediment quality following invasion. 20 
+For example, sediment pore water sulphides and anoxia have been linked to poor 21 
+survivorship of infauna beneath invasive Spartina (Neira et al. 2006).  22 
+Caulerpa taxifolia is a habitat-forming green alga considered one of the worst 100 23 
+invasive species in the world (Lowe et al. 2000). It has invaded several temperate regions 24 
+worldwide where it covers large areas of soft-sediment habitat (Meinesz et al. 2001, Creese et 25 
+ 4 
+al. 2004, Anderson 2005). C. taxifolia spreads rapidly across unvegetated sediment, reaches 1 
+very high-densities, forms a thick vegetated mat above the sediment (Wright 2005, Wright & 2 
+Davies 2006) and modifies chemical and physical sediment properties (Chisholm and Moulin 3 
+2003, Gribben et al. In press). C. taxifolia outperforms native seagrasses in the Mediterranean 4 
+(Ceccherelli & Cinelli 1997), although seagrass beds in southeastern Australia do not appear 5 
+to be readily invaded (Glasby and Creese 2007). Consequently, invaded estuaries in 6 
+southeastern Australia may become a mosaic of different habitat-forming macrophytes 7 
+(invasive C. taxifolia and native seagrasses) and unvegetated sediment. Although C. taxifolia 8 
+covers large areas of soft-sediment habitat and fish assemblages differ between C. taxifolia 9 
+and seagrass (York et al. 2006), with the exception of studies of a dominant estuarine bivalve 10 
+species in southeastern Australia (Gribben & Wright 2006a, b, Wright et al. 2007, Wright and 11 
+Gribben 2008, Gribben et al. In press) there is little known about how soft-sediment 12 
+macroinvertebrate assemblages are affected by C. taxifolia invasion.  13 
+In estuaries invaded by C. taxifolia in southeastern Australia there may be two main 14 
+predictions of its impact. First, compared to unvegetated sediment C. taxifolia will have very 15 
+different assemblages because epifauna are facilitated by the addition of structure but infauna 16 
+are inhibited by changes to the sediment. Second, compared to native seagrasses C. taxifolia 17 
+will have different assemblages because infauna are inhibited by changes to the sediment 18 
+even though epifauna are not. However, there may be some similarities between C. taxifolia 19 
+and seagrasses if they are functionally similar or indeed, there may be stronger differences 20 
+than expected, if epifauna (e.g. herbivores, Gollan and Wright 2006) are also inhibited. We 21 
+tested our predictions by examining patterns of macrobenthic invertebrate assemblages 22 
+associated with C. taxifolia, two seagrass species and unvegetated sediment at sites in two 23 
+estuaries in southeastern Australia. Specifically, we asked the following questions. 1) Do 24 
+macrobenthic invertebrate assemblages differ among habitats and sites? 2) Does the total 25 
+ 5 
+species richness, total faunal abundance, epifaunal abundance and infaunal abundance differ 1 
+among habitats and sites? 3) Does the abundance of different feeding groups differ among 2 
+habitats and sites? 4) Do environmental characteristics potentially important for fauna 3 
+(sediment properties and water quality) differ among habitats and sites and are they 4 
+correlated with any differences in faunal assemblages?
+
+xmethods
+Study Organisms and locations 8 
+In southeastern Australia, C. taxifolia has invaded 14 estuaries since its discovery in 2000. 9 
+Our study was conducted from May to June 2006 in two of these estuaries where C. taxifolia 10 
+is locally abundant (St Georges Basin, 150°36’E 35°11’S, and Burrill Lake 150°27’E 11 
+35°24’S). C. taxifolia was first described in Burrill Lake in 2001 and St Georges Basin in 12 
+2004 (Creese et al. 2004). As of June 2006 approximately 0.1 km2 (< 1%) of the soft-13 
+sediment benthos of St Georges Basin and approximately 0.5 km2 (~12%) of the soft-14 
+sediment benthos of Burrill Lake was affected by C. taxifolia. In St Georges Basin, C. 15 
+taxifolia co-occurs primarily with the seagrass Halophila ovalis and unvegetated sediment. In 16 
+Burrill Lake, C. taxifolia co-occurs primarily with the seagrass Zostera capricorni; 17 
+unvegetated sediment only occurred as very small patches (< 1 m diam.) at invaded sites and 18 
+appeared to have been caused by disturbance to vegetated native habitat. Consequently, we 19 
+did not sample unvegetated habitat in Burrill Lake. Zostera capricorni and H. ovalis differ in 20 
+ways that may be important for invertebrate assemblages. Z. capricorni has long densely 21 
+packed leaves and thick rhizomes compared to H. ovalis which has short leaves and thin 22 
+rhizomes (Edgar 2000). The greater above and below-ground biomass of Z. capricorni might 23 
+influence sediment properties or water flow (e.g. Reusch & Williams 1999). In St Georges 24 
+Basin, Z. capricorni was sparse or absent from the sites invaded by C. taxifolia.  25 
+ 6 
+ 1 
+Sediment properties and water quality  2 
+To investigate differences in sediment redox potential, pH and silt fraction among habitats, 3 
+replicate (N=5/habitat/site) sediment cores were collected from 1-5m water depth at each site 4 
+in each estuary. Samples were collected from patches of approximately 100% cover in the 5 
+habitat sampled. In St Georges Basin, cores were taken to a depth of 20 cm using a stainless 6 
+steel wedge (dimensions of top of wedge: 20 x 10 cm) which gave a vertical profile of the 7 
+core from which measurements could be taken. We sampled a sediment profile to understand 8 
+changes in redox potential with sediment depth. Three redox readings were taken per core at 9 
+profile depths of 0-2 cm, 2-5 cm and 5-10 cm. For pH, a single reading was taken between 2-10 
+5 cm depth as the probe did not allow resolution at smaller scales. In Burrill Lake, the wedge 11 
+could not be used as the sediment was a thin layer (~ 5 cm) overlying very coarse shell grit 12 
+and the corer could not be pushed in deeply enough to obtain a depth profile. Instead a shovel 13 
+was used to carefully scoop up sediment with care taken to ensure the core was kept intact. 14 
+The presence of the rhizoids or rhizomes maintained the integrity of the profile. 15 
+Subsequently, in sediment cores from Burrill Lake both redox potential and pH were only 16 
+measured once (between 2-5 cm depth). Redox potential was measured using a Metrohm AG 17 
+9109 Herisau Combined Pt-wire electrode with Ag/AgCl reference electrode. The instrument 18 
+was calibrated using Orion Application Solution ORP Standard 967961 and all redox 19 
+readings corrected for EHRef = -210 ± 3 mV, i. e. reported redox potentials are versus the 20 
+hydrogen electrode, EH0 = 0 mV. A Sensorex Combination pH electrode (450C) with a Rex 21 
+pH meter (Model pHβ-4) was used for all pH measurements and was calibrated against 22 
+standardised pH 4 and 7 NIST buffers before use. The electrode was rinsed with deionised 23 
+water before and after each measurement. Instruments were recalibrated after sampling each 24 
+habitat (i.e. after five replicate cores).  Silt fraction in the sediment samples was determined 25 
+ 7 
+from the top 5cm from the same cores used to measure redox and pH. Initially laser 1 
+diffraction using an X-ray Diffraction instrument (Mastersizer, Malvern Instruments Inc) of 2 
+sediment samples (50 mL) was done. Following this, sub-samples (of approximately 1 g) 3 
+were taken from each sample using thief sampling (Gale & Hoare 1991). Samples were then 4 
+added to a tap water dispersant and the proportion of silt and clay determined.  5 
+ Water dissolved oxygen (DO) was measured using a YSI 95 DO and Temperature 6 
+Microelectrode Array Model #95/25 Ft and all other water quality parameters measured using 7 
+a Yeo-Kal multiparameter water instrument, YSI 460 MSD. For consistency, water 8 
+measurements in all habitats were taken between 10 and 15cm above the sediment. 9 
+ 10 
+Macrobenthic invertebrate assemblages 11 
+To compare differences in macrobenthic invertebrate assemblages among habitats within 12 
+estuaries, faunal core samples were collected from 1-1.5 m water depth using a handheld, 13 
+stainless steel corer (22 cm diam. x 10 cm deep) from two sites in both St Georges Basin 14 
+(Smiths Bay and Pats Bay) and Burrill Lake (Kings Point and Broadwater). Replicate (N=10 15 
+per habitat) cores were collected from intermingling patches in C. taxifolia, H. ovalis and 16 
+unvegetated sediment at both sites in St Georges Basin, and C. taxifolia and Z. capricorni at 17 
+both sites in Burrill Lake. All cores were collected from patches of approximately 100% 18 
+cover in the habitat sampled. Core contents were sieved on site through a 1 mm sieve. After 19 
+sieving, all invertebrates were placed into individually labelled ziplock bags. Samples were 20 
+fixed in 5% formalin and stored in 70% ethanol for further identification.  21 
+ Most invertebrates were identified to species level, except for polychaetes and some 22 
+other rare taxa, which were only identified to family, and counted. Taxa were further defined 23 
+by (1) whether they were epifauna or infauna and (2) their feeding mode  (suspension feeders, 24 
+surface detritus feeders, sub-surface deposit feeders and predators/omnivores according to 25 
+ 8 
+Fauchald & Jumars 1979) to analyse potential effects of C. taxifolia invasion on specific 1 
+functional groups. Although other studies have placed suspension feeders and surface deposit 2 
+feeders into the same group (Neira et al. 2005, Levin et al. 2006), we analysed these groups 3 
+separately as their food source (i.e. suspended material vs. detritus or microorganisms in the 4 
+sediment), and feeding function are different. We also placed Anadara trapezia adults and 5 
+recruits into separate categories for both multivariate analyses and univariate analyses of 6 
+epifaunal abundance and infaunal abundance as they change their living arrangement with 7 
+ontogeny (i.e. post-settlement recruits are epifaunal and adults are infaunal, Gribben & 8 
+Wright 2006a, Wright et al. 2007). This distinction was not made for analysis of species 9 
+richness.   10 
+ 11 
+Statistical Analyses 12 
+Because different habitats were sampled at each estuary, estuaries were analysed 13 
+separately. Two-factor analyses of variance (ANOVA) with the factors habitat (fixed) and 14 
+site (random) were used to determine differences in sediment silt fraction, pH and redox. In 15 
+St Georges Basin, redox potential data for Pats Bay could not be collected due to a 16 
+malfunctioning probe. Consequently, redox in Smiths Bay was analysed with a 3-factor 17 
+ANOVA with habitat (fixed), block (= core; random) and sediment depth (fixed). Because 18 
+there is only one replicate of each habitat x depth combination within each core there is no 19 
+test for the factor block and interactions including the block factor in this analysis (Quinn and 20 
+Keough 2002). 21 
+Multidimensional scaling (nMDS, Clarke 1993) was used to illustrate the patterns of 22 
+variability in macrobenthic invertebrate assemblages in invaded and native habitats within 23 
+and between sites. For each estuary, differences in the composition of macrobenthic 24 
+invertebrate assemblages between habitats and sites were investigated using analysis of 25 
+ 9 
+similarities (ANOSIM) using the Bray-Curtis measure of similarity (Clarke 1993). Similarity 1 
+percentage (SIMPER) analysis was used to determine the percentage-contribution of each 2 
+taxon to the Bray-Curtis measure of dissimilarity among habitats within sites, and between 3 
+the same habitat between sites. We did not consider comparisons of different habitat types 4 
+between sites relevant so they were not compared. Two-factor ANOVAs (habitat x site) were 5 
+then used to determine differences in the abundance of individual taxa that contributed >75% 6 
+of the dissimilarities among assemblages in the Simper analyses. Two-factor ANOVAs 7 
+(habitat x site) were also used to determine differences in total faunal abundance, species 8 
+richness, infaunal abundance, epifaunal abundance and the proportional representation of 9 
+each of the four functional groups. We used proportional abundance of each feeding group to 10 
+understand their relative abundance within assemblages. 11 
+For ANOVAs data were tested for homogeneity of variance using Cochran’s test 12 
+(Winer 1991) and transformed as appropriate. When transformations did not remove 13 
+heterogeneity analysis proceeded as ANOVAs are robust to deviations from heterogeneity 14 
+when balanced designs are employed (Quinn & Keough 2002). Tukey’s tests were used to 15 
+assess for differences between habitats within sites when interaction terms were significant 16 
+and when a significant difference was detected between habitats. Non-significant interaction 17 
+terms in ANOVAs were removed if P > 0.25 (Underwood 1997). 18 
+Because anoxia negatively affects many marine invertebrates, and sediment redox 19 
+potential differed among habitats in a reasonably consistent way across sites and estuaries 20 
+(see results), correlations were used to explore relationships between redox potential and the 21 
+four major macrobenthic invertebrate indicator categories: total abundance, species richness, 22 
+infaunal abundance and epifaunal abundance. Because separate cores were used to collect 23 
+redox potential and invertebrate data, we performed correlations using mean values of redox 24 
+ 10 
+and the invertebrate categories for each habitat at each site (n=7 habitat means for each 1 
+analyses). 
+
+xresults
+Sediment properties and water quality 5 
+Silt content was higher in C. taxifolia compared to seagrass in Smiths Bay and at both 6 
+sites in Burrill Lake, although differences were not statistically significant in Kings Point 7 
+(Fig. 1A, D; Table 1). Silt content did not differ between seagrass and unvegetated sediment 8 
+in St Georges Basin. Sediment redox potential was extremely reducing in all sediments. 9 
+Redox potentials were lower in C. taxifolia compared to unvegetated sediment at Smiths Bay 10 
+in St Georges Basin (Fig. 1B; Table 1) and lower in C. taxifolia compared seagrasses in both 11 
+estuaries (Fig. 1B, E; Table 1). There was no difference between H. ovalis and unvegetated 12 
+sediment in Smiths Bay. Sediment pH was relatively neutral across all sites but was 13 
+significantly lower in C. taxifolia and H. ovalis compared to unvegetated sediment in Pats 14 
+Bay (Fig. 1C; Table 1), but not at Smiths Bay. Sediment pH was significantly higher in C. 15 
+taxifolia compared to H. ovalis in Smiths Bay. All other habitat comparisons within sites in 16 
+St Georges Basin were non-significant.  17 
+ Generally, habitats in St Georges Basin and Burrill Lake were broadly similar in 18 
+water quality parameters. Pooled results across sites were: water pH (mean ± SE, 8.0 ± 0.2 in 19 
+C. taxifolia, 7.8 ± 0.0 in H. ovalis, 8.0 ± 0.1 in Z. capricorni, and 8.1 ± 0.2 in unvegetated);  20 
+salinity (ppt: mean ± SE, 30 ± 2 in C. taxifolia, 30.4 ± 0.1 in H. ovalis, 28 ± 2 in Z. capricorni 21 
+and 30 ± 1 in unvegetated); DO (mg/L: mean ± SE, 13 ± 3 in C. taxifolia, 12.4 ± 0.4 in H. 22 
+ovalis, 11 ± 4 in Z. capricorni, and 13 ± 2 in unvegetated); temperature (°C: mean ± SE, 14 ± 23 
+1 in C. taxifolia, 13.4 ± 0.2 in H. ovalis, 13 ± 1 in Z. capricorni and 14 ± 1 in unvegetated);  24 
+ 11 
+and turbidity (NTU: mean ± SE, 3 ± 6 in C. taxifolia, 4 ± 7 in Z. capricorni, below detection 1 
+in H. ovalis and unvegetated). 2 
+ 3 
+Macrobenthic invertebrate assemblages 4 
+Multivariate comparisons 5 
+A total of 28 benthic invertebrate taxa were recorded: 25 taxa at St Georges Basin and 15 6 
+taxa at Burrill Lake (Table 2). In both estuaries, nMDS plots indicated differences in 7 
+invertebrate assemblages between habitats (Fig. 2A, B). In St Georges Basin, all pair-wise 8 
+ANOSIM analyses showed significant within- and between-site variation in assemblages 9 
+between habitats (all P<0.002). Within-site pair wise comparisons between C. taxifolia and 10 
+unvegetated sediment were most dissimilar (R=0.840 and 0.890 in Smiths Bay and Pat’s Bay, 11 
+respectively) while within-site pair wise comparisons between C. taxifolia and H. ovalis were 12 
+most similar (R=0.252 and 0.433 in Smiths Bay and Pat’s Bay, respectively). In Burrill Lake, 13 
+pair wise ANOSIM tests were significantly different within and between sites (all P<0.05) in 14 
+all but one case: assemblages in C. taxifolia at Broadwater and Kings Point were not 15 
+significantly different (R=0.043, P=0.166).  16 
+Univariate comparisons 17 
+In both estuaries the epifaunal gastropod Batillaria australis contributed most to dissimilarity 18 
+between assemblages (>55%). The bivalve A. trapezia (both infaunal adults and epifaunal 19 
+juveniles) and the epifaunal gastropod Nassarius burchardi also contributed significantly to 20 
+dissimilarities between assemblages. In addition, significant dissimilarities between 21 
+assemblages occurred in St Georges Basin due to contributions from three families of 22 
+infaunal polychaete (Cirratulidae, Capitellidae and Maldanidae) and in Burrill Lake due to 23 
+the infaunal bivalve Tellina deltoidalis.   24 
+ 12 
+The epifaunal gastropods, B. australis and N. burchardi were significantly more 1 
+abundant in C. taxifolia than unvegetated sediment but not H. ovalis in St Georges Basin 2 
+(Table 3). In contrast, the infaunal polychaetes; Cirratulidae, Capitellidae and Maldanidae 3 
+were less abundant in C. taxifolia compared to unvegetated sediment, although differences 4 
+were not statistically significant for Cirratulidae (both sites) and Maldanidae (Smiths Bay, 5 
+Table 3). In Burrill Lake, B. australis (Kings Point) and N. burchardi were significantly less 6 
+abundant in C. taxifolia compared to Z. capricorni as were the infaunal bivalves A. trapezia 7 
+(Broadwater) and T. deltoidalis.   8 
+ The total abundance of invertebrates was significantly higher in C. taxifolia and H. 9 
+ovalis compared to unvegetated sediment but there was no significant difference in total 10 
+abundance between C. taxifolia and H. ovalis in St Georges Basin (Fig. 3A; Table 4).  In 11 
+Burrill Lake, total abundance of invertebrates was lower in C. taxifolia compared to Z. 12 
+capricorni, although these differences were not significant (Fig. 3E; Table 4).  13 
+Species richness was significantly higher in seagrass compared to C. taxifolia in both 14 
+estuaries and higher in C. taxifolia compared to unvegetated sediment in St Georges Basin 15 
+although differences were not statistically significant (Fig. 3B, F; Table 4). Species richness 16 
+was also significantly higher in seagrass compared to unvegetated sediment.  17 
+Infaunal abundance was significantly lower in C. taxifolia compared to unvegetated 18 
+sediment in St Georges Basin (Fig. 3C; Table 4). In both estuaries infaunal abundance was 19 
+also lower in C. taxifolia compared to seagrass, although at Kings Point the difference 20 
+between C. taxifolia and Z. capricorni was not significant (Fig. 3C, G; Table 4). Infaunal 21 
+polychaetes (St Georges Basin) and bivalves (Burrill Lake) were the species at notably lower 22 
+densities in C. taxifolia. Infaunal abundance was significantly higher in H. ovalis compared to 23 
+unvegetated sediment in St Georges Basin.  24 
+ 13 
+ Epifaunal abundance was significantly higher in C. taxifolia and H. ovalis compared 1 
+to unvegetated sediments, and significantly higher in C. taxifolia compared to H. ovalis in St 2 
+Georges Basin (Fig. 3D; Table 4).  Epifaunal A. trapezia recruits, gastropods and one 3 
+ascidian (at Smiths Bay) were the species at high abundance in C. taxifolia. By contrast, in 4 
+Burrill Lake, epifaunal abundance was lower in C. taxifolia compared Z. capricorni at both 5 
+sites although differences were not statistically significant in Broadwater (Fig. 3H; Table 4). 6 
+Epifaunal gastropods were the species at high abundance in Z. capricorni. There was a 7 
+significant difference between sites at St. Georges Basin.  8 
+  9 
+Functional groups 10 
+Surface detritus feeding was the most abundant feeding mode observed in both estuaries 11 
+(49.17% and 84.61% of all individuals in St Georges Basin and Burrill Lake, respectively).  12 
+The proportion of surface-feeding detritivores was significantly higher in C. taxifolia 13 
+compared to unvegetated sediment in St Georges Basin (Fig. 4A; Table 5). In contrast, the 14 
+proportional representation of suspension feeders, sub-surface deposit feeders, and 15 
+predators/omnivores were higher in unvegetated sediment compared to C. taxifolia, although 16 
+differences between habitats were not significant (Fig. 4B-F; Table 5).  Similar patterns of 17 
+lower but non-significant differences between habitats were observed in the proportion of 18 
+feeding groups between the seagrass H. ovalis and unvegetated sediment (Fig. 4B-D; Table 19 
+5). In both estuaries, the proportional representation of feeding groups in C. taxifolia and 20 
+seagrasses were very similar (Fig. 4A-H; Table 5).  21 
+ Habitats/sites with low average redox potential (e.g. the three C. taxifolia sites) had a 22 
+significantly lower average abundance of infauna (Fig. 5). Relationships between redox 23 
+potential and total abundance, species richness and epifauna were all non-significant (Fig. 5).   
+
+xdiscussion
+In line with our predictions, there were very different macroinvertebrate assemblages in C. 2 
+taxifolia, seagrass and unvegetated sediment. More specifically, when compared to 3 
+unvegetated sediment, C. taxifolia had a higher abundance of epifauna but a lower abundance 4 
+of infauna and when compared to seagrass, C. taxifolia also had a lower abundance of 5 
+infauna but the epifaunal response depended on seagrass species. Epifauna were less 6 
+abundant in C. taxifolia compared to Z. capricorni but more abundant in C. taxifolia 7 
+compared to H. ovalis. The consistently lower infaunal abundance in C. taxifolia compared to 8 
+all habitats across multiple sites suggests that inhibition of infauna may be a general outcome 9 
+of invasion by C. taxifolia. In contrast, differences in the response of epifauna suggests that 10 
+general predictions for them will be difficult to make because their response depends on the 11 
+habitat they invade (vegetated or unvegetated sediment) and native seagrass species. 12 
+The higher total and epifaunal abundance in C. taxifolia (and H. ovalis) compared to 13 
+unvegetated sediment were due to the numerical dominance of the gastropods B. australis 14 
+and N. burchardi. Although we only described patterns, possible mechanisms facilitating 15 
+epifauna in C. taxifolia compared to unvegetated sediment include decreased predation, 16 
+increased food supply, reduced physical stress and enhanced propagule supply and/or 17 
+retention (Bruno & Bertness 2001, Rodriguez 2006). The provision of a refuge from 18 
+predation for fauna associated with invasive macrophytes is widely reported (Crooks 2002, 19 
+Rodriguez 2006). Indeed, Gribben and Wright (2006a) found that C. taxifolia provided a 20 
+refuge from predation for A. trapezia recruits. Alternatively, increased detrital food supply 21 
+following invasion may be important. For example, invasion of a macroalga to sand flats 22 
+appears responsible for a greater abundance of an epifaunal gastropod (Bolam & Fernandes 23 
+2002) and the invasion of Spartina-hybrid to an unvegetated tidal flat has positive effects on 24 
+sub-surface deposit feeders which use Spartina detritus as a food resource (Neira et al. 2005, 25 
+ 15 
+Levin et al. 2006). The relative importance of decreased predation or increased food supply 1 
+may vary depending on the facilitated epifaunal species: increased detritus may be important 2 
+for the epifaunal gastropods B. australis and N. burchardi but not A. trapezia recruits.  3 
+ Differences in epifaunal abundance between C. taxifolia and native seagrass also 4 
+appeared driven by the relatively high abundance of the gastropods, B. australis and N. 5 
+burchadi in C. taxifolia vs. H. ovalis, and a lower abundance of these two species in C. 6 
+taxifolia vs. Z. capricorni. Although we cannot directly compare epifaunal abundances 7 
+between H. ovalis and Z. capricorni in the different estuaries, these differences may be 8 
+related to differences between the two seagrass species in structural complexity or above and 9 
+below-ground biomass, both of which could influence predation and detrital food supply 10 
+(Bruno & Bertness 2001, Williams & Heck 2001). However, whether differences in epifaunal 11 
+abundance between native seagrasses and C. taxifolia are related to differences in traits of the 12 
+seagrasses, or simply reflect differences between estuaries unrelated to seagrass species 13 
+remains to be determined. For example, a potentially important factor not taken into account 14 
+by our sampling is the greater time C. taxifolia has been present at sites (five years at Burrill 15 
+Lake vs. two years at St Georges Basin). However, given that the traits of ecosystem 16 
+engineers can have strong effects on facilitation (Bruno & Bertness 2001, Gutierrez et al. 17 
+2003) and the mean abundance of epifauna in C. taxifolia was similar at three out of the four 18 
+sites (Fig. 2), differences in traits between the seagrass species may explain the observed 19 
+patterns of epifaunal abundance.  20 
+ Despite the lower infaunal abundance in C. taxifolia compared to both unvegetated 21 
+sediment and seagrass, there was no effect of habitat on the proportional representation of 22 
+different infaunal functional groups (suspension feeders and sub-surface deposit feeders). 23 
+This finding suggests that any impacts of C. taxifolia on infauna may not be restricted to 24 
+specific functional groups but affect infauna generally. Indeed, the abundance of most 25 
+ 16 
+polychaete and bivalve taxa was lower in C. taxifolia compared to unvegetated and native 1 
+seagrass habitats in both estuaries irrespective of feeding mode – even detritus and/or deposit 2 
+feeding infauna (Cirratulidae and Tellina) were at lower abundance. Levin et al. (2006) and 3 
+Neira et al. (2005) found lower abundances of surface-feeders but no difference in sub-4 
+surface deposit feeders in sediments underlying the invasive Spartina- hybrid compared to 5 
+nearby unvegetated tidal flats.  6 
+The lower densities of infauna in C. taxifolia may be related to changes in 7 
+environmental characteristics following invasion. In our study, redox potential varied 8 
+consistently among habitats (i.e. unvegetated > H. ovalis > C. taxifolia, Z. capricorni > C. 9 
+taxifolia) and the correlation between mean redox potential and mean infaunal abundance 10 
+indicated that redox may be a strong structuring force among habitats at large spatial scales. 11 
+Anoxia or hypoxia, resulting from reduced redox potential, has demonstrated negative effects 12 
+on infauna (Shumway & Scott 1983, Laudian et al. 2002). Neira et al. (2006) showed that 13 
+reduced water flow associated with the establishment of hybrid Spartina patches promoted 14 
+the deposition of fine grained organic rich sediments which resulted in an increase in pore-15 
+water sulfur and anoxia. Reduced flow (Gribben et al. In press) and increased levels of H2S 16 
+(Chishlom & Moulin 2003) have also been recorded in C. taxifolia compared to unvegetated 17 
+sediment. Low dissolved oxygen within C. taxifolia compared to unvegetated sediment 18 
+(Wright et al. In review) may also contribute to the low abundance of surface feeding 19 
+infauna.  The reasons for differences in infaunal composition between C. taxifolia and native 20 
+seagrasses in this study are less clear but may also be linked to differences in anoxia, sulphur 21 
+or the degree of structural complexity of C. taxifolia vs. seagrasses and its subsequent effects 22 
+on flow regimes, dissolved oxygen and food supply. The mechanisms of impact on infauna 23 
+by C. taxifolia and other habitat-forming invasive species remain to be determined 24 
+experimentally.  25 
+ 17 
+ Despite the differences in community structure among habitats, the total abundance, 1 
+species richness, and abundance of infauna and epifauna in C. taxifolia were very similar 2 
+across sites and estuaries (Fig. 2). Multivariate analyses also indicated no difference in 3 
+assemblages in C. taxifolia between sites in Burrill Lake and the lowest difference for 4 
+assemblages in C. taxifolia between sites in St Georges Basin. Neira et al. (2005) present 5 
+similar data showing a reasonably consistent number of individuals and species per core in 6 
+Spartina-hybrid at different sites, despite large differences in the same parameters in 7 
+uninvaded habitats between sites. Homogenisation of communities in soft-sediment marine 8 
+habitat-forming invasive species across large spatial scales may result from the strong 9 
+consistent effects that these species have on environmental factors such as water flow and 10 
+sediment quality. The potential effect of habitat-forming invasive species in decreasing 11 
+ecological variation in assemblages at large scales is an important avenue for future research. 12 
+Our findings are consistent with invasion by C. taxifolia causing important changes to 13 
+soft-sediment macroinvertebrate assemblages. The low abundance of infauna compared to 14 
+unvegetated sediment and native vegetated habitats is similar to results for several other 15 
+habitat-forming invasive species into soft-sediments (Levin et al. 2006, Neira et al. 2005) 16 
+although other species show weak or positive effects on infaunal abundance (Posey 1988, 17 
+Hedge & Kriwoken 2000). Thus, generalisations about changes associated with invasion of 18 
+marine habitat-forming species may be difficult to make. Overall, our conclusions are 19 
+tempered as we have no information on assemblages at these sites before the invasion of C. 20 
+taxifolia nor have we determined effects using manipulative experiments. We have simply 21 
+described patterns inside and outside of invaded areas. Future work should focus on 22 
+experimental manipulations of C. taxifolia to determine if it is indeed causing the observed 23 
+changes in assemblages. Moreover, manipulations of abiotic factors potentially affecting 24 
+macroinvertebrate survivorship (sediment properties, water quality, food supply, larval 25 
+ 18 
+supply and predator activity) will be important in identifying mechanisms causing impacts (e. 1 
+g. Neira et al. 2006).  

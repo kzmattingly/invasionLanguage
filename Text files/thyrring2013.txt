@@ -1,0 +1,253 @@
+﻿xabstract
+We provide an example of extensive facilitation
+of a sessile community throughout an invaded estuary
+by the invasive snail Batillaria australis. We show that B.
+australis greatly increases a limiting resource (attachment
+space) to a community of sessile organisms and estimate
+that a large part of the invaded estuary now contain ca. 50
+times more sessile individuals associated with the invader
+than all native snails combined. We argue that native snails
+are unlikely to have been dramatically reduced by the
+invader, and we therefore suggest that the shell-attached
+sessile community, as a functional group, has benefitted
+significantly from this invasion. These results expand the
+current understanding of how invaded marine systems
+respond to habitat-forming invaders.
+
+xintroduction
+When non-indigenous species invade new communities,
+they interact with and have effects on many resident species
+(Staehr et al. 2000; Crooks 2009; Altieri et al. 2010).
+Similar to any other ecological network of interactions, this
+leads to some residents being adversely affected while
+others benefit. Ecologists have traditionally focused on
+how negative species interactions structure natural communities,
+but intensive research on positive effects is rectifying
+this imbalance, resulting in a more nuanced
+‘modern ecology’ (Stachowicz 2001). However, the traditional
+perception of nature, where negative interactions are
+most important, still dominates invasion ecology (Rodriguez
+2006; Bulleri 2009). A key mechanism whereby
+marine invaders can have positive impacts on local species
+is via habitat formation (Crooks 2002; Bulleri 2009;
+Thomsen et al. 2010a), a process that is particularly
+important for shell-forming species (epibiosis, reviewed in
+Gutierrez et al. 2003; Wahl 2009). Many studies have
+documented facilitation from invasive marine shell-formers,
+typically focusing on specific positively affected species
+(e.g. Wonham et al. 2005) or on community
+facilitation in a specific habitat or from a few study sites
+(e.g. Gribben et al. 2009). However, we are not aware of
+studies that have quantified community facilitation across
+multiple habitats and throughout an invaded system. Such
+large-scale community facilitation is most likely to occur
+when an invader provides a novel function or greatly
+increases the availability of a limiting resource and is
+abundant in the major habitats within the invaded system
+(Crooks 2002; Thomsen et al. 2010a).
+Sessile species typically live attached to hard substratum,
+a strongly limited resource in most estuaries where
+sedimentary soft bottom prevails. Abiotic hard substratum
+(e.g. rocks, boulders) is at high risk of burial by sediments
+over time, but biotic shell-formers can remain on the sediment
+surface and thereby provide attachment space for
+sessile organisms (this resource provision also depend on
+the species abundance, size, longevity, shell properties,
+behaviour, and local abiotic conditions) (Gutierrez et al.
+2003; Gribben et al. 2009; Wahl 2009). We recently documented
+that Batillaria australis has invaded the Swan
+River Estuary (the only invaded estuary in Western Australia)
+and that B. australis today is by far the most
+abundant snail in this estuary (Thomsen et al. 2010b). We
+also made the qualitative observations that sessile organisms
+are common on the shell of this invader.
+The aims of our study were here to (a) quantify the
+sessile communities found on dominant shell types in key
+habitats in the Swan River Estuary and (b) combine these
+data with known shell densities to quantify and compare
+sessile communities associated with the invader versus
+native shell-formers throughout key habitats in the estuary.
+
+xmethods
+From October to December 2011 (austral spring and early
+summer), we collected 3,226 shells randomly by snorkelling,
+covering paired seagrass beds and interspersed sandflats
+shallower than 3 m depth at 13 random sites (Fig. 1)
+distributed throughout the Swan River Estuary. At each site,
+visual searches covering 150 m 9 150 m were made for
+60–90 min. The 3,226 shells represented 7 types of shells,
+including 5 forms of B. australis (Bat) and two native
+species: ‘Bat Gra?’ = live adult B. australis with attached
+dense fronds of the coarsely branched red alga Gracilaria
+Comosa (n = 233 from seagrass beds vs. 243 from interspersed
+sand-flats), ‘Bat Gra-’ = live adult B. australis
+without G. comosa (n = 410 vs. 250), ‘Bat Small’ = B.
+australis recruits with shell length less than 1.3 cm (n = 81
+vs. 65), ‘Bat Empty’ = empty shells of adult B. australis
+(n = 241 vs. 250), ‘Bat Hermit’ = shells of adult B. australis
+occupied by hermit crabs (n = 240 vs. 250), ‘Bedeva’
+= Bedeva paiva (n = 204 vs. 194), and
+‘Nassarius’ = Nassarius pauperatus (n = 287 vs. 278).
+Most shell types were found in both habitats at most sites,
+except that we found few B. australis recruits and there
+were no seagrass beds at site 2 (see Fig. 1) (see online S1
+for replication level for each shell type). These shell types
+comprise [99 % of all snail shells found in this system
+(Thomsen et al. 2010b). Shells were brought to the laboratory,
+and sessile epibionts directly attached to the shells
+were identified and quantified under a dissection microscope.
+We estimated percentage cover of modular organisms
+(e.g. encrusting seaweeds and bryozoa) and counted
+solitary organisms (e.g. Chaetomorpha linum, Gracilaria
+comosa) on each shell. Subsequently, epibiont data (see
+Fig. 2b, c) were combined with shell abundance data (from
+Thomsen et al. 2010b), and the spatial extent of the sampled
+region [Fig. 1; the area that is shallower than 3 m in the
+middle and lower Swan River Estuary is ca. 10 km2 (pers.
+com. B. Marillier) of which ca. 5.5 km2 are seagrass beds
+(Hillman et al. 1995)], to calculate region-wide abundances
+of solitary and modular sessile organisms associated with
+invasive versus native shells, for example, sessile organisms
+per region = sessile organisms per shell 9 shells per habitat
+9 habitat per region. We also scaled up percentage
+cover of solitary organisms to m2 per sampled region using
+the following shell sizes: large B. australis = 4.7 cm2,
+small B. australis = 1.5 cm2, B. paiva = 3.5 cm2, N.
+pauperatus = 1.5 cm2 (Thomsen et al. unpublished data).
+We used two-way PERMANOVA based on Euclidian
+distances to test for the effect of habitat (fixed factors) and
+shell type (fixed factors) on taxonomic richness and density
+of solitary and modular epibionts (999 permutations)
+(Andersen et al. 2008). Data were log x ? 1 transformed to
+ensure variance homogeneity. We report densities of sessile
+organisms per shell with 95 % confidence limits for
+each habitat (using sites as replicates), and differences
+between mean values were quantified using PERMANOVA
+pairwise comparison with paired t tests. Mean values
+were considered significantly different when p\0.05. The
+region-wide calculations of sessile communities on different
+shell types were shown without errors because error
+estimates do not exist for sand and seagrass areas from the
+Swan River Estuary.
+
+xresults
+We found no significant ‘habitat x shell type’ interaction
+effects and no single factor effects of ‘habitat’ on differences
+in sessile organisms attached to shells from seagrass
+beds versus sand-flats (p[0.05 for all three tests)
+(Fig. 2a–c, online S2-3). However, we found strong
+patterns among shell types (p\0.001 for all three tests).
+For taxonomic richness (Fig. 2a), we found most taxa
+associated with live adult B. australis with G. comosa
+attached, and least on B. australis recruits and Nassarius
+pauperatus (the remaining three shell types were in
+between). This pattern was almost identical for counts of
+solitary sessile organisms (Fig. 2b), but less clear for cover
+values of modular organisms, where taxonomic richness
+typically overlapped between species (but with almost the
+same pattern, Fig. 2c). Sessile species were, across the
+sampled region, overwhelmingly associated with live adult
+B. australis without G. comosa from seagrass beds and
+sand-flats, as well as empty B. australis shells from seagrass
+beds (Fig. 2e–f).
+
+xdiscussion
+The lowest taxonomic richness and density of solitary and
+modular sessile organisms was found on B. australis
+recruits and N. pauperatus. A simple explanation is that N.
+pauperatus often bury themselves when not feeding,
+leaving little time for epibiont settlement. Furthermore, B.
+australis recruits and N. pauperatus have the smallest
+shells and, in the case of N. pauperatus, are short-lived
+(Brearley 2005), i.e. sessile organisms have little space or
+time to settle and grow (Wernberg et al. 2010). The high
+richness and densities of sessile organisms found on live
+adult B. australis with G. comosa attached is partly
+explained by sampling methodology; by default, this shell
+type always has a minimum of ‘one species and several
+individuals’ (=dense G. comosa). Nevertheless, this still
+represents a true epibiota response and not a sampling
+artefact.
+Our data suggest that 98 % of all sessile organisms
+attached to snail shells in the most common habitats of the
+Swan River Estuary are associated with the invader.
+Importantly, the large differences in shell densities
+(Fig. 2d) were more important in determining region-wide
+community abundances, than how much epibiota was
+attached to individual shell types (Fig. 2b–c). We therefore
+conclude that these sessile communities, which inhabit
+snail shells, are likely to have benefitted significantly from
+the invasion of B. australis. We envision a few objections
+to this conclusion. First, we did not sample deep or lowsalinity
+regions within the Swan River Estuary. However,
+these regions contain relatively few sessile organisms
+attached to hard substratum (pers. obs.), probably because
+few habitat-formers and sessile organisms tolerate these
+habitats that are characterized by high sedimentation and
+sediment organic matters, low oxygen, light, and/or low
+salinity (Brearley 2005). Our data are therefore applicable
+in most areas of the Swan River Estuary where sessile
+communities are abundant. Second, our analysis assumes
+that native sessile species have not been dramatically
+reduced by B. australis. There are currently no data to
+suggest detrimental invasion effects on other shell-formers,
+like N. pauperatus or Bedeva paiva, that also can be hosts
+to sessile epibionts (Brearley 2005). For example, analysis
+of 100 s of sediment cores do not suggest any large pool of
+empty native shells (unpublished data and Thomsen et al.
+2010b), in contrast to empty shells of the invader that can
+be found in the tens of 1,000 s in ‘graveyards’ (Fig. 3). We
+have also shown that even at extremely high B. australis
+densities, all three snail species co-occur (Thomsen et al.
+2012). Furthermore, given that only few organisms are
+found attached to N. pauperatus (Fig. 2), even unrealistically
+high pre-invasion densities would not affect our
+conclusion. Third, B. paiva predates on mollusks and is
+therefore likely to have benefitted from the invasion
+because B. australis could be a new food resource. The
+final objection would be that alternative hard substrates
+exist in the Swan River Estuary, e.g. rocks, boulders and
+pilings, and non-snail habitat-formers such as bivalves and
+seagrasses (Halophila ovalis). However, this does not
+change our conclusion with respect to region-wide facilitation
+of sessile communities per se, but downgrades the
+importance of invader facilitation if these alternative substrates
+are ubiquitous and heavily fouled by similar species.
+A future study should therefore quantify the abundance of
+these types of substrates and their sessile communities,
+although our preliminary observations suggest that live
+buried bivalves contain virtually no sessile organisms, that
+abiotic substrates are scattered mainly ‘surviving’ sedimentation
+at shallow wave-exposed sites, and that both
+abiotic substrates and seagrasses support somewhat different
+sessile communities compared to B. australis (e.g.
+we have not found G. comosa or C. linum attached to
+seagrasses). We emphasize that our data address potential
+impact on sessile organisms; supplementary studies are
+needed to document impacts on other biotic communities
+in the Swan River Estuary, including infaunal invertebrates,
+mobile invertebrates, meiofauna, microbes, drifting
+seaweeds, and fish and birds. Nevertheless, our data provide
+a rare example of region-wide facilitation of a sessile
+community by an invasive snail, through increased provision
+of a limited resource (attachment space). We also
+suggest that this process extends beyond the facilitated
+sessile organisms, as these sessile organisms themselves
+are ‘secondary habitat-formers/modifiers’ that, like the
+‘primary habitat-formers/modifiers’ (the shell-forming
+invader), provide living space, predation refugium, and
+food resources to mobile invertebrate ‘end-users’, including
+polychaetes, crustaceans, and small gastropods
+(Thomsen et al. 2010a). This ‘habitat cascades’ process
+(Thomsen et al. 2010a) is particularly important for
+B. australis with attached G. comosa, because this seaweed
+can grow into large fronds that dominate the habitat
+structures on unvegetated sand-flats and thereby facilitate
+communities of mobile invertebrates (Thomsen et al.
+2010a; Thomsen et al. 2012). Finally, we suggest that
+invasion ecologists should investigate the prevalence and
+context whereby large-scale community-wide facilitation
+occurs (is this process rare in nature or has research been
+biased?) and what, if any, functional groups and alternative
+communities are negatively affected when community
+facilitation is reported.

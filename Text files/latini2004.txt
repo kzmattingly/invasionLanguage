@@ -1,0 +1,455 @@
+xabstract
+The consequences of introducing Cichla cf. monoculus Spix & Agassiz, Astronotus ocellatus (Agassiz)
+and Pygocentrus nattereri Kner into lakes in the River Doce basin, Brazil, on richness, diversity and efficiency of
+aquatic macrophytes as natural refugia to native fishes was investigated. Samples were taken from lakes with and
+without alien fishes in areas with and without aquatic macrophytes. The presence of alien fishes reduced richness
+and diversity of the native fish community. The refugia function, which could be attributed to the clustering of
+aquatic macrophytes, does not exist in these lakes probably because the alien fishes exploit such habitats for
+reproduction. Since introductions threaten the native fish diversity of the region, studies on regional dispersion and
+factors that minimise the spread of alien fishes are needed.
+
+xintroduction
+Stimulated by increasing food production, generation
+of economic benefits and recreation (Welcomme 1988),
+the introduction of alien fishes has caused great
+changes to the composition of fish fauna in many
+lakes, e.g. Nile perch, Lates niloticus (L.) into Lake
+Victoria in Africa (Ogutu-Ohwayo 1990). These introductions
+modify local ecological conditions by altering
+the reproduction, growth and development of native
+species, as well as hybridisation and introducing
+diseases and parasites.
+In Brazil, fish translocation was common during the
+1960s and 1970s, mainly from the Amazon Basin to the
+north-east and south-east of the country (Agostinho,
+Ju´ lio & Petrere 1994; Agostinho 1996; Agostinho &
+Ju´ lio 1996). The Parque Estadual do Rio Doce, an
+important reserve within the Atlantic Forest biome, is
+located in the middle River Doce, southeastern Brazil.
+The peacock cichlid, Cichla cf monoculus Spix &
+Agassiz, oscar, Astronotus ocellatus (Agassiz), and
+red piranha, Pygocentrus nattereri Kner, were introduced
+into lakes neighbouring this Park, later reaching
+the lakes within the reserve area (Sunaga & Verani
+1985, 1987; Godinho & Formagio 1992). The introduction
+of these species in lakes of the Park affected
+the native fish community, causing the disappearance
+of some species and a reduction in the abundance of
+young individuals of others, coupled with reduction in
+mean weight of these individuals (Sunaga & Verani
+1991; Godinho, Fonseca & Arau´ jo 1994).
+The effects of introducing these alien fishes into the
+lakes of River Doce State Park and the effectiveness of
+aquatic macrophytes as refugia for native fish species
+from the alien species was examined. Six lakes were
+sampled: three with alien fishes (experimental group)
+and three without (control group) and the following
+hypotheses were tested: (i) is there a decrease in the
+native species richness and diversity between these two
+groups of lakes as a function of the introductions? (ii)
+do areas with larger heterogeneity (due to the presence
+of macrophyte mats) serve as refugia for the native
+species in lakes with the alien species? (iii) are there
+changes in the total fish biomass and mean weight of
+native species as a function in the presence of alien
+species?
+The hypothesis of differences in mean weight for
+native populations is suggested as a measure of the
+impact of alien species on certain native species, since
+young individuals of the latter could serve as food for
+the alien piscivorous species. Thus, a reduction in the
+abundance of young individuals of the native species is
+expected, which should result in an increase of the
+mean weight of the individuals in these populations.
+
+xmethods
+Study area
+This study was conducted at River Doce State Park,
+located in the southeast of the State of Minas Gerais
+(Fig. 1). The predominant vegetation is Atlantic
+Forest, a biome that was regarded as the fourth most
+important hotspot for biodiversity on earth, based on
+endemism and the density of vertebrates and plants
+(Myers, Mittermeier, Mittermeier, Fonseca & Kent
+2000). The total park area is about 35 000 ha, with
+altitudes varying between 236 and 515 m (Tundisi &
+De Meis 1985). The climate is tropical hot and semihumid,
+with a rainy season in the summer and a dry
+season that lasts for 4–5 months in the winter. The
+park is bound to the east by the River Doce and to the
+northwest by the River Piracicaba. Some streams cross
+the park flowing into the River Doce. About 50 lakes
+make up its lacustrine system (Fig. 1), occupying 6%
+of its area (Godinho 1996).
+Three alien species occur in the lakes of the park: the
+peacock cichlid, C. cf. monoculus, the oscar, A. ocellatus
+and the red piranha, P. nattereri. The peacock cichlid is
+a piscivorous species with a generalist diet (Keenleyside
+1991). Once introduced, this species has great
+potential to cause damage to the native fish communities
+(Fontenele & Peixoto 1979; Welcomme 1988).
+The oscar is also a cichlid fish, with an omnivorous
+diet, feeding on fruits, insects, crustaceans and small
+fish. This species displays parental care and is territorial
+during the reproductive period (Lowe-McConnell
+1999). The red piranha is a piscivorous characid fish
+that also feeds on shrimps and other aquatic invertebrates
+(Sazima & Machado 1990; Uetanabaro, Wang
+& Abe 1993). During the reproductive season, this
+species displays territorialism as they build and protect
+nests in the aquatic vegetation (Lowe-McConnell
+1999).
+Experimental design
+Samples were collected in six lakes located inside the
+park, where fishing is only allowed for scientific
+purposes. The lakes were divided in two groups: the
+Gamba´, A´ guas Claras and Bonita lakes with alien
+fishes, and the Gambazinho, Azul and Lagoinha lakes
+without, constituting the control group (Table 1).
+These groups constituted the factor type of lakes used
+in the factorial analyses.
+The ecotype of the littoral zone of these lakes was
+classified (based on physical aspects) as macrophyte
+and forest edge areas according to De Marco & Latini
+(1998). The macrophyte areas are coastal areas with a
+smooth bathymetric profile and without a pronounced
+increase in depth. In these areas, the margin consists of
+grasses and fallen logs rarely being shaded by forest.
+The bathymetric profile and lack of canopy favour the
+development of dense clusters of macrophytes, with a
+dominance of Eleocharis sp., followed by Salvinia sp.
+and Nympheaceae.
+The forest edge areas correspond to littoral areas
+where the bathymetric profile is steeper, with an abrupt
+increase in depth. In these areas, the margin is
+frequently shadowed by the forest, precluding the
+development of aquatic macrophytes. Nympheaceae
+species occur at greater depths. In these areas, the
+substratum consists of vegetation and dead leaves.
+In each lake, six littoral areas were identified: three
+with macrophytes, regarded as possible refugia, and
+three as forest edge areas. Each of these areas
+constituted a sampling unit and these area categories
+were the factor habitat type. In A ´ guas Claras Lake,
+three areas with macrophytes and only two forest edge
+areas were identified.
+Fish were sampled between May and August 2000.
+The order of sampling of the lakes was random. The
+fishing effort was standardised using 13 gill nets with
+the same length (10 m) and height (1.6 m), but with
+meshes varying from 15 to 110 mm, knot to knot. The
+gill nets were set perpendicularly from the shoreline in
+a random order, maintaining a spacing of 5 m. Fishing
+began at 16:00 hrs and finished at 08:00 hrs. Three
+samples were taken from both areas comprising an
+effort of 12 480 m h)1 in each lake.
+Fishes were fixed in 10% formalin. In the laboratory,
+specimens were identified to species using appropriate
+identification keys (Ge´ry 1977; Garavello 1979;
+Britski, Silimon & Lopes 1999). Standard length (Ls in
+cm), and total weight (W in g) were recorded.
+Statistical analysis
+To compare species richness between the two groups of
+lakes, the jackknife procedure was used (Magurran
+1988) based on each sample collected. For lakes with
+alien species, two estimates, total number of species and
+number of native species were obtained. This procedure
+presents an advantage over other richness estimators,
+which normally give an underestimated value for the
+community’s richness. The jackknife procedure gives a
+more realistic estimate of species richness, by taking
+into account rare species (Krebs 1999).
+Shannon and Berger–Parker diversity indices were
+calculated for each sampling unit (Magurran 1988).
+Both indices were computed for the weight data and
+for the total number of individuals. The Shannon
+index (H¢) considers that the individuals were
+randomly sampled and that all the species were
+represented in the same sample (Magurran 1988).
+The Berger–Parker index expresses the proportional
+importance of the most abundant species (Magurran
+1988) and it is one of the more satisfactory diversity
+measures according to May (1975). The reciprocal of
+that index (1/d) was used so that it reflected a direct
+relationship with an increase in diversity. These indices
+were used in the factorial analyses.
+To evaluate richness among the lake communities,
+the variance of the species richness estimated from the
+jackknife procedure was used, to obtain 95% confidence
+intervals, according to (Krebs 1999):
+IC95% ¼ S^  ta qffivffiffiaffiffirffiffiðffiffiS^ffiffiffiÞffi; ð1Þ
+where IC95% is the 95% confidence interval, ^S the
+jackknife estimate of species richness, ta is the Student t
+value for n ) 1 degrees of freedom for the suggested a
+value and var(^S) the variance of the jackknife estimate.
+Two-way ANOVA was used to test the hypotheses
+(i)–(iii). In hypotheses (i) and (ii), one model was used
+to test the homogeneity of the diversity indices (H¢ and
+1/d) between lakes with and without alien species, and
+the refugia effect of macrophytes. In hypothesis (iii),
+this model was used to test total weight of captured fish
+among the factors type of lakes (two levels, with and
+without alien species), and type of habitats (two
+levels, with and without macrophyte mats). Thus, the
+additive linear model for the experimental design is:
+Yijk ¼ l þ pi þ cj þ ðp  cÞij þ eijk ð2Þ
+where Yijk(H¢ or 1/d) is the response variate, l the
+overall mean, pi the factor type of lake with i ¼ 1, 2, cj
+the factor type of habitats with j ¼ 1,2, (pÆc)ij the
+interaction term, k the replication, and eijk a random
+variate supposed N (0, r2).
+Two-way ANCOVA was used to test for differences in
+weight measurements (W) and the standard length (Ls)
+of native species among lakes:
+lnðWijkÞ ¼ l þ pi þ yj þ ðp  cÞij þ b lnðLsijkÞ þ eijk ;
+ð3Þ
+whereWijk (g) is the total weight, l the overall mean, pi
+the factor type of lake with i ¼ 1, 2, cj the factor type
+of habitats with j ¼ 1, 2, (pc)ij the interaction term,
+k the replication and Lsijk is the covariate coefficient of
+the covariate standard length, Ls (cm) and eijk is
+a random variate supposed N (0, r2).
+Independence among the experimental units, normality
+of the data and homogeneity of the variances
+are conditions for the use of factorial analyses. For all
+groups of data, asymmetry (c1) and kurtosis (c2) of the
+curve were analysed through comparison of the
+estimated values of their respective estimators g1 and
+g2 from the residual of the model ((observed value) –
+(expected value)), with the tabulated values in
+Snedecor & Cochran (1989) and D’Agostino & Tietjen
+(1971). Homocedasticity was tested with the Levene
+test when significant values were detected a square root
+or logarithmic transformation was applied to the data
+(Zar 1996). For all tests, a significance level of 5% was
+used.
+
+
+xresults
+Community composition
+Fish catches were restricted to the 15–60 mm mesh
+sizes, gill nets greater than 70 mm mesh did not
+capture fish. A total of 1301 individuals were caught,
+with 265 individuals (20.3%) showing signs of predation,
+as evidenced by mutilations and scars over the
+body while in the nets. Weights of these fish were not
+included and the length measurements were only used
+when the mutilations did not affect determination of Ls
+The remaining 1036 fish weighed 163 kg and were
+distributed amongst 14 species belonging to 13 genera
+and six families (Table 2). Characiformes dominated
+with eight species in three families.
+Lakes where alien fishes were present had at most,
+six species of six genera and four families. These lakes
+always had two alien species, C. cf. monoculus and
+P. nattereri, while A ´ guas Claras included a third
+species, A. ocellatus. The largest number of native
+species found in lakes with alien species was three: the
+trahira, Hoplias malabaricus (Bloch), the singing catfish,
+Parauchenipterus striatulus (Steindachner) and the
+curimbata´ , Prochilodus vimboides Kner.
+Species richness and diversity
+Use of the confidence intervals for species richness
+showed that only Lake Azul had a greater richness
+than lakes with alien species (Fig. 2) and that there
+were no differences among lakes Gambazinho, Lagoinha
+and Bonita. However, comparison of the second
+richness estimate, only for native species, showed that
+all the lakes with alien fish species had fewer total
+species than lakes without alien species. Therefore, the
+presence of alien species is correlated with decreasing
+richness of fishes.
+For all the diversity indices, the normality and
+homocedasticity assumptions were not violated.
+Two-way ANOVA indicated differences between lakes
+with and without alien species (Table 3). There were no
+differences among the factors type of habitat
+(F(1,31) ¼ 0.060; P ¼ 0.808 for weight and F(1,31) ¼
+0.006; P ¼ 0.940 for number of individuals) and there
+was no interaction between the factors type of habitat
+and type of lakes (F(1,31) ¼ 2.590; P ¼ 0.118 for
+weight and F(1,31) ¼ 2.567 and P ¼ 0.119 for number
+of individuals). However, for both indices, significant
+differences for the factor type of lakes were observed
+(F(1,31) ¼ 10.512; P ¼ 0.003 for weight and F(1,31) ¼
+49.631; P ¼ 0.003 for number of individuals). These
+results confirm that diversity is higher in lakes without
+alien species, and that areas of higher heterogeneity are
+apparently not being used as refugia by native species.
+The inverse of Berger–Parker index for weight did
+not reveal differences among the factors type of
+habitats (F(1,31) ¼ 0.026; P ¼ 0.874), type of lakes
+(F(1,31) ¼ 2.443; P ¼ 0.128), and there was no interaction
+between these two factors (F(1,31) ¼ 1.371;
+P ¼ 0.251). The same index calculated for number of
+individuals indicated equality among the factors type
+of habitats (F(1,31) ¼ 1.358; P ¼ 0.253) and differences
+among the factors type of lakes (F(1,31) ¼ 29.980;
+P < 0.001), as well as a significant interaction between
+the two factors (F(1,31) ¼ 7.854; P ¼ 0.009; Fig. 3).
+These results indicate that diversity is greater in lakes
+without alien species, but not so in lakes with the
+presence of aquatic macrophythes. However, the
+results of the interaction suggest that in the most
+heterogeneous habitats there is a tendency for lower
+diversity with the presence of alien species, reflecting a
+characteristic of refugia.
+Total weight and mean weight of native populations
+Data for total weight of fish captured in the communities
+were normally distributed but did not meet the
+test for homoscedasticity (Levene test: F(1,31) ¼ 4.014;
+P ¼ 0.015), and were thus log transformed (F(1,31) ¼
+2.343; P ¼ 0.091).
+Two-way ANOVA of transformed data with normal
+residuals, showed no difference in weight of fish across
+the factor type of habitats (F(1,31) ¼ 0.610;
+P ¼ 0.441). Similarly, no difference was found for
+the factor type of lakes (F(1,31) ¼ 0.251; P ¼ 0.620) or
+for the interaction between these two factors
+(F(1,31) ¼ 1.671; P ¼ 0.206; Table 4). The explanation
+of this model was low (r2 ¼ 0.07).
+Only three species of native fish were detected in
+lakes with alien species: the Brazilian croaker,
+Pachypops adspersus Steindachner, the singing catfish,
+P. striatulus and trahira, H. malabaricus. The
+weight data were insufficient to perform a strong test
+for P. adspersus (n ¼ 7) and P. striatulus (n ¼ 14),
+leaving comparisons for H. malabaricus (n ¼ 254)
+only.
+The relationship between weight (W) and standard
+length (Ls ) for H. malabaricus was not linear, but it
+could be made so with a log–log transformation. In the
+exploratory application of Eq. (2) outliers were detected,
+even after successive removals. The conclusions,
+however, remained the same. As there is not a ready
+equivalent non-parametric test for the ANCOVA, the
+first result was accepted, treated as a strong one, even
+though asymmetric results and significant kurtosis
+were detected.
+Two-way ANCOVA revealed that habitat complexity
+(type of habitats) did not affect the weight of
+H. malabaricus (F(1,250) ¼ 0.002; P ¼ 0.969). However,
+the presence of alien species (type of lakes) affected it
+(F(1,250) ¼ 6.629; P ¼ 0.011), even with a difference of
+just 6 g. The interaction between the factors type of
+habitats and type of lakes did not exert an effect
+on the weight of H. malabaricus (F(1,250) ¼ 1.308;
+P ¼ 0.254). The covariate Ls was significant, as expected
+in the weight/length relationship (F(1,250) ¼ 42,499;
+P < 0.001). The factors and covariate explained 82%
+of the model (Table 5).
+
+xdiscussion
+Effects of the alien fishes on the local fish
+community
+The presence of alien species in lakes of the River Doce
+State Park is correlated with reduced richness of the
+local fish community. This agrees with ecological
+studies in several parts of the world that focus on the
+invasion of reservoirs by alien species (Ricciardi, Neves
+& Rasmussen 1998). Taken together, such studies
+indicate a non-random pattern in the response of
+communities faced with invasion by alien species.
+Behavioural relationships between native and alien
+species can be important in explaining the success of
+biological invasions (Probert & Litvaitis 1996; Holway
+& Suarez 1999). Parental care and predatory behaviour
+are two ecological characteristics of the alien species of
+this study (Lowe-McConnell 1999). The parental care
+may increase the competitiveness of these species and
+the predatory behaviour put the alien fishes on top of
+the food web in these lakes. The absence of these
+characteristics in the populations of the native species,
+indicating insufficient anti-predatory mechanisms as
+seen in Table 2, where the traits cn, ds, dj, if, are not
+possessed by native species, except H. malabaricus,
+suggesting that the presence of alien species is the
+precursor of local extinction of the native populations.
+It is expected that lakes invaded by alien species would
+have a decrease in richness and diversity of their fish
+fauna as evident in Figure 2 and Table 3, although in
+Lake Victoria with a reduction of the stocks of the
+alien Nile perch the original fauna is resetting itself
+(Mkumbo, Ezekiel, Budeba & Cowx 2002).
+Hoplias malabaricus is the only native species that is
+still able to persist in the invaded lakes. Its persistence
+is probably linked to its prey-ambush foraging
+behaviour and strong territoriality during the reproductive
+season (Paiva 1974). Its persistence in disturbed
+habitats is also evident by the similarity in the
+mean weight of its populations among lakes with and
+without alien species, an unexpected pattern, if the
+young were rare in the lakes with the alien species due
+to its preferential predation. The current analysis
+indicated a significant difference of just 6 g among
+the mean weights in lakes with alien species (230 g) and
+without (224 g). This small difference, albeit statistically
+significant, has no practical meaning. Furthermore,
+the log-transformation resulted in a compression
+of the data, thus decreasing the variance.
+Although the alien species reduced richness and the
+diversity of the native fish community, the total weight
+of captured fish was not reduced in the lakes with
+aliens. This reflects a decrease of the energy lost in
+the food web due to the loss of trophic levels in the
+community and, consequently, to the reduction of the
+sum of energy lost in the transfers among the existing
+levels. This may be exemplified by the Nile perch in
+Lake Victoria: between the 1980s and 1990s the total
+catch increased five times and the Nile perch catch
+contributed over 70% of total landings; but in the mid-
+1990s this dominant species showed signs of decline,
+due to the intense fishing pressure and use of illegal
+gears (Mkumbo et al. 2002).
+If a native fish population is not competitive or
+possess an efficient anti-predatory mechanism, its
+chances of persisting in invaded communities, before
+the presence of the alien species, can be linked to its
+ability of using refugia inside the lakes. An area of
+higher heterogeneity inside aquatic systems often
+reduces the effectiveness of predators and strong
+competitors (Power, Marks & Parker 1992) and
+increases the persistence of prey species and weak
+competitors (Ross 1991). Although there is a tendency
+in the presence of alien species, towards a smaller
+reduction in diversity in areas with macrophytes
+compared with areas of forest edge (Fig. 3), the
+diversity and weight of the species is the same between
+these two areas.
+Consequently, in the lakes with alien species, the
+most heterogeneous habitats do not apparently serve
+as refugia for the native fish populations. These facts
+suggest that the importance of macrophyte mats as
+refugia to native fishes should be related with bionomics
+and behaviour of native and alien species that
+comprise the impacted community. If an alien species
+efficiently uses these mats, e.g. P. nattereri, there would
+be a smaller chance for a native species, e.g. the
+chameleon cichlid, Cichlasoma facetum (Jenyns), to
+efficiently use the same area as refugia.
+Perspectives for the fish community of middle River
+Doce Basin
+The reduction in the regional fish community is still
+not fully understood: the group of streams that cross
+the park and the channels that drain excess water
+during the rainy season, connect the lakes and may
+allow a temporary connection that may facilitate the
+dispersion of aquatic organisms. This connection
+between lotic and lentic habitats seems to be the main
+factor responsible for the invasion of those lakes by
+alien species on a regional level. This is evident from
+the presence of alien species in at least 67% (n ¼ 45) of
+the lakes in the park. Thus, the occurrence of alien
+species in the lakes of the area has increased and
+consequently the regional fish diversity has declined. It
+is concluded that the dispersion of alien species is not
+only restricted to some lakes of the park and their
+neighbouring habitats, but it is affecting the maintenance
+of the whole fish community of the valley of the
+middle River Doce.
+To understand fully how alien species affect the
+native fish community of the area, information is
+needed on their dispersion within and between lakes
+and streams to formulate the necessary measures to
+conserve the native fish community in areas free of
+invaders.

@@ -1,0 +1,515 @@
+xabstract
+
+Species with complex life cycles are good models to understand trade-offs between life in hostile and
+favourable habitats. Newts remain in breeding wetlands for a long period and are strongly affected by
+fish introduction; however, mechanisms of the exclusion observed in the field are still not well known. In
+particular, whether newts skip breeding and leave water for land in response to fish introduction and
+how aquatic shelter may influence their choice remain open questions. To investigate these questions, we
+experimentally studied the use of aquatic and terrestrial habitats during the breeding season of palmate
+newts, Lissotriton helveticus, in the presence and absence of goldfish, Carassius auratus. We determined
+the consequences of habitat choice on newt fitness by assessing sexual activity and number of eggs.
+There was a strong, significant avoidance of the aquatic environment in the presence of fish, particularly
+when no aquatic shelter was available. This escape from the water had an impact on reproduction: newts
+decreased their sexual activity and laid fewer eggs. The availability of shelters favoured coexistence but
+did not prevent a large proportion of the newts from leaving water and skipping reproduction. This study
+shows how the presence of fish and the absence of aquatic shelters can lead to newts forgoing aquatic
+life, thus improving our understanding of the mechanisms behind the coexistence and exclusion patterns
+found in the wild. More broadly, these data contribute to explaining aquatic versus terrestrial life in
+favourable and unfavourable environments.
+
+
+xintroduction
+
+
+Many species have a complex life cycle that requires both
+terrestrial and aquatic habitats; while wintering and aestivating
+often take place on land, reproduction is exclusively aquatic
+(Pittman, Osbourn, & Semlitsch, 2014; Wells, 2007; Wilbur, 1980).
+Theoretical models have proposed that the selection of terrestrial
+and aquatic habitats depends on their respective costs and benefits
+(Werner, 1986; Wilbur & Collins, 1973). In particular, habitat choice
+has functional relationships with reproduction and survival, and,
+consequently, fitness covaries directly with habitat use (Morris,
+2011). Both abiotic and biotic habitat characteristics have been
+shown to affect habitat selection (Albeny-Sim~oes et al., 2014;
+Amburgey, Bailey, Murphy, Muths, & Funk, 2014; Indermaur,
+Schaub, Jokela, Tockner, & Schmidt, 2010). For instance, adult amphibians
+can shorten the time spent in water when the density is
+too high (Grayson & Wilbur, 2009), while they can remain aquatic
+during winter to avoid colder conditions on land (Pilliod, Peterson,
+& Ritson, 2002). During reproduction, a pond's hydroperiod
+strongly regulates the habitat suitability for aquatic-breeding
+species (McCaffery, Eby, Maxell, & Corn, 2014; Williams, Heeg, &
+Magnusson, 2007), but habitat quality is also determined by
+resource competition and predation risk (Indermaur et al., 2010;
+Rieger, Binckley, & Resetarits, 2004).
+The presence of potential predators, such as fish, is a critical
+determinant of the occurrence and abundance of prey, including
+organisms as varied as amphibians and insects (Binckley &
+Resetarits, 2008; Blaustein, Kiflawi, Eitam, Mangel, & Cohen,
+2004). It is believed that the evolution of pond-breeding species,
+such as newts,was made possible because such habitats are usually
+devoid of fish or because predatory pressure is limited. Indeed, in
+contrast to many anurans, newts are long-term breeders that
+remain in the water for weeks or even months to actively court and
+lay eggs one by one (Wells, 2007). The selection of a suitable
+breeding habitat is, therefore, of primary importance both for the
+adult newts' offspring and for themselves. The introduction of alien
+species, such as fish in naturally fish-free environments, thus
+constitutes a major threat by risking amphibians' use of the aquatic
+environment (McGeoch et al., 2010). Among other factors, this
+contributes to the current amphibian decline, which has been
+identified as part of the sixth world mass extinction (Stuart et al.,
+2004; Wake & Vredenburg, 2008). A large number of environmental
+studies support these conclusions by showing exclusion patterns between fish and pond-breeding amphibians (Kats &
+Ferrer, 2003), amphibian extirpations after fish introduction
+(Pilliod et al., 2010) and resilience after fish removal (Knapp,
+Boiano, & Vredenburg, 2007; Vredenburg, 2004).
+The disappearance of many amphibian populations after fish
+introductions can have different causes. The two primary reported
+detrimental effects are direct predation on adults, larvae and/or
+eggs (Leu, L¸scher, Zumbach, & Schmidt, 2009; Monello & Wright,
+2001; Orizaola & Bra~na, 2006) and competition through the consumption
+of important resources such as food (Joseph, Piovia-Scott,
+Lawler, & Pope, 2011). An additional mechanism that can lead to
+exclusion patterns is avoidance behaviour. On the one hand, the
+adults can check breeding sites and avoid those occupied by potential
+predators such as fish (Binckley & Resetarits, 2003; Hopey &
+Petranka,1994; Orizaola & Bra~na, 2003a; Rieger et al., 2004). On the
+other hand, behavioural avoidance can be expressed in the aquatic
+habitat where amphibians can increase the use of microhabitats as
+shelter in the presence of fish (Orizaola & Bra~na, 2003b; Teplitsky,
+Plenet, & Joly, 2003). This is nevertheless a costly antipredator
+response, as it can impair fitness through a reduction of important
+activities, such as foraging and reproduction (Lima, 1998; Winandy
+& DenoÄel, 2013a, 2013b).
+An important nonconsumptive effect that has not been studied
+so far is whether the absence of newts from fish habitats is due to
+their transient or permanent escape from the aquatic environment
+to the terrestrial habitat and whether the availability of aquatic
+shelter could affect this behavioural choice (for instance, by
+allowing coexistence between newts and fish). Understanding
+these patterns is essential to explaining the use of aquatic versus
+terrestrial environments by amphibians in fish and fishless habitats
+(Langerhans, 2007).
+To test these hypotheses, we monitored the aquatic versus
+terrestrial use of habitats and the associated fitness consequences
+in the palmate newt, Lissotriton helveticus, in response to the
+presence of goldfish, Carassius auratus (Fig.1).We used goldfish as a
+model species because this is the most introduced and invasive
+ornamental fish in the world (Maceda-Veiga, Escribano-Alacid, de
+Sostoa, & GarcÌa-Berthou, 2013) and because it has caused
+amphibian decline (Meyer, Schmidt, & Grossenbacher, 1998). Both
+exclusion and coexistence patterns between newts and goldfish
+have been found, but the mechanisms that may explain these observations
+are still not well known (DenoÄel, Dzukic, & Kalezic,
+2005; DenoÄel & Ficetola, 2014). Goldfish can forage on eggs and
+larvae of salamanders (Monello & Wright, 2001), but are not
+thought to predate on adult newts. This suggests that exclusion
+patterns observed in the field can be particularly explained by
+nonconsumptive processes such as behavioural avoidance
+(Winandy & DenoÄel, 2013b).We chose palmate newts because they
+are in decline and are affected by goldfish in the wild (DenoÄel, 2012;
+DenoÄel & Ficetola, 2014). Our approach was experimental, using a
+laboratory replicated design during the entire breeding period of
+newts. We assessed a gradient of behavioural responses considering
+four different treatments mimicking high- to poor-quality
+aquatic habitats using both biotic and abiotic factors: no fish with
+aquatic shelter, no fish without aquatic shelter, fish with aquatic
+shelter and fish without aquatic shelter. Along this environmental
+gradient, we expected an increase in the use of the terrestrial
+habitat and a decrease in sexual activity and reproductive success of the newts.
+xmethods
+Study Organism and Laboratory Maintenance
+We caught 96 palmate newts by dip netting (48 individuals of
+each sex) at the beginning of the reproductive period (11 March
+2014) in a fishless pool (Romeree, Belgium: 50080N, 4400E).
+Newts had no prior experience with fish because no fish were
+found in the varied waterbodies within the usual dispersal distances
+of newts (i.e. up to 400 m) around the capture site. In their
+natural habitat, they coexisted with alpine newts, Ichthyosaura
+alpestris. After capture, we directly brought newts to the
+laboratory, keeping sexes separated, in several tanks (2 h transport);
+six 9-litre tanks filled with water and stuffed with towels
+were placed in two large refrigerated boxes of 230 litres. At the
+end of the experiment, all newts were released in good health
+into their capture pond (26 May 2014) in accordance with capture
+permits.
+In the laboratory, we distributed the newts between 24 identical
+and independent aquaria (60  60 cm, 40 cm water level; 135
+litres) with four individuals (two males and two females) per
+aquarium. Before their release in the aquaria, we carefully
+measured them using a ruler. They had a mean ± SE snoutevent
+length (i.e. from the tip of the snout to the end of the cloaca) of
+4.24 ± 0.03 cm (N º 96). An oxygen diffuser was placed in each
+aquarium to maintain a high oxygenation of water (mean ± -
+SE º 9.70 ± 0.05 mg/litre). The ambient air temperature was
+regulated to maintain water temperature at an average of 14.7 C
+(SE º 0.05 C). We established a photoperiod of 13:11 h light:dark
+(Lumilux de lux 2350 lm daylight tube, L36W/12e950 and Sylvania
+Professional tube, 36 W DECOR183). In all aquaria, a
+terrestrial habitat was composed of a 23  46 cm floating ëTurtle
+Dockí (Zoo Med Laboratories Inc., San Luis Obispo, CA, U.S.A.)
+covered by natural moss taken at the capture location (watered
+daily to maintain the humidity at an average of 84.75%,
+SE º 0.05%) and containing a shelter (14  11 cm and 6 cm high).
+In 12 of the 24 aquaria, we placed one large aquatic shelter
+(20  60 cm) closed by a grid to avoid fish entering. In every
+aquarium, we also put two supports for egg laying (strips of filter
+papers). In the aquarium providing an aquatic shelter, one support
+was placed under the shelter. Newts were fed with 50 mg of
+Chironomus larvae per newt every day in the afternoon. This food
+is a typical newt prey and the quantity given was ad libitum,
+corresponding to the newts' needs. Food was provided on the dock
+and in the water under a grid to avoid consumption by fish (the
+grid was removed at the end of the day when all the food was
+consumed).
+We obtained the goldfish from the Aquarium of Liege and stored
+them in a large tank (180  80 cm, 60 cm water depth) in our laboratory.
+They had never been in contact with amphibians prior to
+the experiment and they were all healthy. They had a mean ± SE standard length (i.e. from the tip of the snout to the posterior end of
+the last vertebra) of 11.4 ± 0.18 cm (N º 12). We placed the fish at
+the same time as the newts in 12 of the 24 experimental newt tanks
+as described above; the conditions applied to the fish were similar
+to those applied to the newts. Goldfish and newts were in direct
+contact, but the fish could not get into the aquatic shelter. Similar to
+the newts, goldfish were fed with Chironomus larvae (500 mg per
+fish every day).
+Experimental Procedure
+We used four experimental treatments (N º 6 aquaria and
+N º 24 newts for each treatment): control (no fish) with an aquatic
+shelter, control without aquatic shelter, fish with aquatic shelter
+and fish without aquatic shelter (Fig. 2). The experiment lasted 8
+weeks (17 Marche25 May 2014), i.e. the duration of the aquatic and
+reproductive period.
+By using sketches of unique features of the newts, we were able
+to visually recognize each of the four individuals from each
+aquarium (Winandy & DenoÄel, 2011). To assess the use of the
+terrestrial habitat by newts, we used a scan sampling (Martin &
+Bateson, 2007) method twice a day (morning and afternoon), 5
+days a week. Therefore, we obtained the proportion of terrestrial
+habitat use of each newt based on 10 repeated measures every
+week during the 8 weeks (i.e. 7680 observations of presence/
+absence in each habitat). To assess sexual activity, we used a focal
+sampling (Martin & Bateson, 2007) method on the four newts of
+each aquarium for 3 min. We repeated the focal sampling measure
+twice a day (morning and afternoon), 5 days a week (during the 8
+weeks) to obtain the number of courtship events for each newt per
+week (i.e. 7680 observations of occurrence of sexual activity). To
+assess reproductive success, we counted the eggs in each aquarium
+every week (i.e. 192 records). We changed the egg supports every
+day, placing them in independent tanks to avoid predation risk.
+Statistical Analyses
+We used a generalized linear mixed model (GLMM) to test the
+effects of three variables as fixed effects: fish (presence versus
+absence), aquatic shelter (presence versus absence) and week
+(ordinal variable; 1e8 weeks), and interactions between these
+variables, on (1) the proportion of terrestrial habitat use (using
+binomial error distribution), (2) the number of sexual activity
+events (using a Poisson error distribution) and (3) the number of
+eggs (using a Poisson error distribution). We assessed significance
+using likelihood-ratio tests (ANOVA of the model with a particular
+explanatory variable versus the model without that variable). In
+analyses of terrestrial habitat use and sexual activity, aquaria and
+individuals were included as random factors (individuals nested
+within aquaria). In the analyses of eggs, we included aquaria as a
+random factor. We also included, as a covariate, the number of
+newts present in the water for the analyses on sexual activity and
+the number of females present in water for the analyses on eggs.
+Finally, to assess the gradient of responses between the four
+treatments on terrestrial habitat use and reproduction, we used a
+Tukey contrast test. We chose an a priori level of significance of 0.05. Analyses were performed in R 3.0.2 (www.r-project.org) using
+lme4 and multcomp packages.
+Ethical Note
+The aim of this study was to determine only the potential
+nonconsumptive effects of goldfish on adult newts by observing
+their behaviour. Consequently, care was taken to plan the experiment
+accordingly and, thus, to avoid any newts being harmed.
+Moreover, newts had the opportunity to hide in protected areas
+from fish; a large terrestrial shelter was available all the time so
+newts could avoid any direct contact with fish. This study mimics
+natural conditions in wild and garden ponds where goldfish are
+introduced and coexist with newts (DenoÄel & Ficetola, 2014). No
+alternative design would have been suitable since a direct interaction
+between fish and newts is the key to understanding newt
+avoidance and the only situation present in the wild (Winandy &
+DenoÄel, 2013b). Therefore, goldfish were able to touch newts and
+could try to ëpeckí them. However, given gape size limitations of fish
+in comparison with newt size, fish could not catch or wound them.
+However, the direct contact may frighten the newts. The study was
+carried out in an accredited laboratory of the University of Liege
+(LA1610429), and the research project was accepted by the university's
+ethics commission (Protocol No. 1246). The collecting
+permit was issued by the Service Public de Wallonie (SPW),
+following approval by the Conseil Superieur Wallon de la Conservation
+de la Nature. In the laboratory, all individuals were checked
+and fed every day. At the end of the experiment, newts were
+released alive and unharmed into their capture habitat following
+the recommendations of the capture permit. All materials used for
+capture and maintenance were well washed and disinfected before
+and after use following the recommendations of the study permit.
+
+
+xresults
+
+
+Terrestrial Habitat Use
+The GLMM analysis of the proportion of terrestrial habitat use
+(Table 1) indicated a significant effect of fish: in the presence of fish,
+more newts left thewater than in the control treatment (mean ± SE
+of 0.16 ± 0.01 and 0.67 ± 0.02 newts on land per aquarium for
+control and fish treatments, respectively). There was also a significant
+effect of the presence of an aquatic shelter: when a shelter
+was available in the water, fewer newts left the water than when it
+was absent (0.28 ± 0.02 and 0.55 ± 0.02 newts on land per aquarium
+for the treatments with and without aquatic shelter, respectively).
+Finally, there was a significant effect of week indicating an
+increase in terrestrial habitat use with time. Tukey contrast tests
+showed a significant gradient of response between the four
+experimental treatments (Fig. 3a). There was also a significant
+interaction between fish, aquatic habitat and week (Fig. 4).
+Sexual Activity (Courtship)
+The GLMM analysis on sexual activity (Table 1) indicated a significant
+effect of fish, i.e. less sexual activity in the presence than in
+the absence of fish (mean ± SE of 0.91 ± 0.06 and 0.24 ± 0.04
+courtship events per newt and per week for control and fish
+treatments, respectively). There was also a significant effect of the
+presence of the aquatic shelter: there were more courtship displays
+exhibited when an aquatic shelter was available than when it was
+not (0.86 ± 0.06 and 0.29 ± 0.04 courtship events per newt and per
+week for the treatments with and without aquatic shelter,
+respectively). Finally, there was a significant effect of week, indicating
+a decrease in the number of courtship events with time.
+Tukey contrast tests showed a significant gradient of response between
+the four experimental treatments (Fig. 3b). The presence of
+newts in water (included as a covariate in the model) had a significant
+effect on sexual activity, as it affected positively the number
+of courtship events (c21
+º 76.38, P < 0.001).
+Production of Eggs
+The GLMM analysis on egg production (Table 1) showed a significant
+effect of fish, with a total of 2475 eggs in control aquaria and
+297 eggs in aquaria with fish (mean ± SE of 25.8 ± 2.6 and 3.1 ± 0.7
+eggs per week and per aquarium for the control and fish treatments,
+respectively). There was also a significant effect of week, showing a decrease in the number of eggs with time, and a significant interaction
+between week and fish, showing a very low production of
+eggs over time for the fish treatment, and a decrease in egg production
+with time for the control treatment. There were also significant
+interactions between aquatic habitat and week, and
+between fish, aquatic habitat and week (i.e. a more pronounced
+decrease in the numberof eggs in the control without aquatic shelter
+than in the control with aquatic shelter). Tukey contrast tests
+showed a significant difference between both the fish groups and
+the control groups (Fig. 3c). The presence of females in the water
+(included as a covariate in the model) was significant and affected
+positively the production of eggs (c21
+º 73.28, P < 0.001). Indeed,
+females were seen inwater 2.5 times more often in the absence than
+in the presence of fish (mean ± SE of 84 ± 1.6% and 33 ± 3.4% of
+water residency, respectively). Taking into account the presence of
+females in the water, there were still 3.3 times fewer eggs laid by
+aquatic females in the presence of fish than in the absence of fish.
+
+
+xdiscussion
+
+The results presented in this behavioural study highlight an
+important cause of the rarity of coexistence patterns observed
+between fish and pond-breeding amphibians in the wild
+(Bucciarelli, Blaustein, Garcia, & Kats, 2014; DenoÄel & Ficetola,
+2014). In unfavourable aquatic habitats, i.e. in the presence of fish
+in our design, newts chose to leave their aquatic habitat for
+terrestrial life (Fig.1) and, therefore, give up reproduction. When an
+aquatic shelter was available, more newts stayed in the water and
+displayed courtship; however, despite this choice, their reproductive
+success was very low. By exploring these nonconsumptive
+behavioural effects, this study contributes to the understanding of
+the complex patterns of newt distribution in fish and fishless
+habitats, but also of the consequences of fish introduction on
+amphibian diversity.
+Impact of Fish Presence on Habitat Use in Newts
+Both biotic and abiotic conditions influence the occurrence of
+amphibians in their breeding habitat (Indermaur et al., 2010; Van
+Buskirk, 2005). Indeed, newt distribution can be explained by the
+quality of their habitat such as deep and fishless ponds (DenoÄel &
+Ficetola, 2008). When these conditions deteriorate, newts are no
+longer found or are present in lower population densities (DenoÄel
+et al., 2005; DenoÄel & Ficetola, 2014). By showing that newts can
+avoid contact with fish by leaving the aquatic habitat, our results
+provide a new empirical explanation in support of such field observations
+(Langerhans, 2007). This habitat shift is in agreement
+with models on complex life cycles that predict life on land when
+the aquatic habitat provides poor aquatic conditions (Werner,1986;
+Whiteman, 1994; Wilbur & Collins, 1973). When not leaving for the
+entirety of the breeding season, this allows for a reduction in the
+contact time with fish.
+The escape of newts to terrestrial shelters highlights that these
+habitats are essential to newts, not only for aestivation or overwintering
+(DenoÄel & Ficetola, 2008), but also for the whole year in
+providing a safe place when aquatic habitats become less hospitable.
+Indeed, newt survival has been shown to be higher on land
+than in the water in another newt species (Unglaub, Steinfartz,
+Drechsler, & Schmidt, 2015). Previous studies showed the importance
+of the forest in the core zone around the breeding ponds of
+amphibians including newts (DenoÄel & Ficetola, 2008; Gustafson,
+Malmgren, & Mikusinski, 2011; Indermaur & Schmidt, 2011).
+Indeed, forests can contain moist and shaded ground, which is
+favourable for feeding, but also for migration, aestivating and overwintering (Jehle & Arntzen, 2000; Marty, Angelibert, Giani, &
+Joly, 2005; Schabetsberger, Jehle, Maletzky, Pesta, & Sztatecsny,
+2004). The consideration of the effects of fish should, thus, focus
+not only on the aquatic environment, but also on its terrestrial
+surroundings (Ficetola, 2015). The presence of a favourable terrestrial
+habitat near a breeding pond invaded by goldfish could allow
+multiple movements of newts between aquatic and terrestrial
+habitats, therefore limiting the contact with fish while keeping the
+opportunity to reproduce.
+Along with the terrestrial habitat, aquatic microhabitats are
+essential environmental features to sustain newt populations. Field
+ecological studies have shown that amphibians, such as newts, are
+present in ponds with plentiful vegetation, which provides shelter
+for both adults and larvae, and substrate for spawning (Hartel et al.,
+2007; Joly, Miaud, Lehmann, & Grolet, 2001; Landi, Piazzini, &
+Saveri, 2014). In this study, we found that the availability of
+aquatic shelter allows half of the newt population (53%) to coexist
+with fish, whereas almost all newts (87%) left the water when they
+had no aquatic shelter. The use of aquatic shelters is the most
+frequently described avoidance strategy in response to fish introduction
+in the natural environment (Hartman & Lawler, 2014;
+Petranka, Kats, & Sih, 1987). However, the presence of the aquatic
+microhabitat is also important regardless of fish presence: in an
+aquatic habitat that provided shelter and was devoid of fish, most
+newts (92%) stayed in the water for the entire experiment (8
+weeks), while, in the absence of an aquatic shelter, they started to
+leave the water after only 4 weeks. This concurs with a previous
+study showing that, when the aquatic environmental conditions
+were unfavourable (too high a density), newts began the migration
+to the terrestrial habitat sooner (Grayson & Wilbur, 2009). Our
+results support the hypothesis of newt selectivity based on the
+quality of their aquatic habitat (DenoÄel & Lehmann, 2006). They
+show that microhabitat availability can allow the persistence of
+populations in both fish and fishless habitats (see also Winandy &
+DenoÄel, 2013b). Indeed, the increase in aquatic vegetation could
+reduce the impact of introduced predators and competitors on
+native species (Kiesecker, Blaustein, & Miller, 2001; Pearl, Adams,
+Leuthold, & Bury, 2005). However, in the natural environment,
+goldfish introduction often leads to a reduction in vegetation that
+could provide shelter (Richardson, Whoriskey, & Roy, 1995). Safe
+habitats in the water can, therefore, be a limited resource, making
+the coexistence between fish and amphibians difficult.
+Impact of Fish Presence and Habitat on Newt Reproduction
+Antipredator behaviour has been shown to imply a reduction in
+the time spent on essential activities such as reproduction (Lima &
+Dill, 1990; Strauss, Lau, & Carroll, 2006). Although such a trade-off
+between breeding and predation risk can be adaptive (Rohr &
+Madison, 2001), skipping reproduction entirely is certainly not. In
+the presence of fish, newts maintained some reproduction (see also
+Winandy & DenoÄel, 2013b), but the production of eggs was very
+limited and not compensated by density effects (i.e. by aquatic
+newts that could have deposited more eggs in the absence of
+competitors). Indeed, there were eight times fewer eggs deposited
+in fish environments than in favourable fishless habitats. Therefore,
+the presence of aquatic shelters made the persistence of sexual
+activity possible, but poorly improved the egg deposition rate.
+Although goldfish can be predators of eggs and salamander larvae
+(Monello &Wright, 2001), in this study, females were able to wrap
+their eggs, and therefore, protect them against predation (Miaud,
+1993; Orizaola & Bra~na, 2003a). In our study, eggs were removed
+from the aquaria every day; thus consumption by fish was unlikely
+and indeed not observed. Moreover, in aquaria with aquatic shelter,
+newts could lay eggs under the shelter. Therefore, the difference in
+the number of eggs between the control and fish treatments was
+not due to predation, but was partly because females left the water.
+By fleeing the aquatic habitat in response to the presence of fish,
+newts forgo reproductive opportunities.
+When an aquatic shelter was available and newts stayed in the
+water, this low reproductive success could be explained by both a
+reduction in sexual activity and females deciding not to lay eggs.
+This confirms that, in the natural environment, the absence of eggs
+and larvae may indicate not only a high predatory pressure, but also
+a decrease in reproductive effort (Ficetola et al., 2011). Therefore, in
+the wild, the measure of reproductive success may allow a more
+accurate assessment of the impact of introduced predators than the
+mere presence of adults (Ficetola et al., 2011). Oviposition habitat
+selection has been largely studied in pond-breeding insects such as
+mosquitos, beetles and midges (Binckley & Resetarits, 2005;
+Blaustein et al., 2004; Brodin, Johansson, & Bergsten, 2006) and
+in amphibians, particularly in anurans (Egan & Paton, 2004; Schulte
+et al., 2011). In these taxa, females choose to breed more in sites
+without predators than in ponds with a high risk of predation for
+their offspring. Therefore, the escape from water in the presence of
+fish could be interpreted as dispersal away from fish to potentially
+more suitable ponds. However, in our study, females did not have a
+choice to breed in a habitat devoid of fish; nevertheless, they
+decided not to lay eggs in the presence of fish. An explanation for
+this forgoing of reproduction could be that the behavioural
+response is not based on an assessment of the different breeding
+possibilities in order to maximize reproductive success. Indeed, it
+has been shown in mosquitos that females do not adjust their decisions
+to the heterogeneity in habitat quality. In contrast, they
+responded to the absolute value of a potential oviposition site, and
+not to the relative value in comparison with other sites (Kiflawi,
+Blaustein, & Mangel, 2003). Therefore, the ability of females to
+assess habitat quality for offspring can strongly influence reproductive
+success (Rieger et al., 2004): in a positive way when multiple
+breeding sites are available at a low interpond distance, but in
+a negative way when the breeding site assessed as unsuitable by
+females is isolated from other ponds. Unfortunately, current
+anthropogenic pressure, such as the destruction and fragmentation
+of habitats, leads more to the isolation of breeding and terrestrial
+habitats (Da Silva & Rossa-Feres, 2011; DenoÄel & Ficetola, 2008;
+Greenwald, Gibbs, & Waite, 2009). Indeed, the lack of landscape
+connectivity between suitable aquatic and terrestrial habitat constrains
+many amphibian species with aquatic reproduction to undertake
+risky migration in a more disturbed environment, which
+could probably contribute to population decline (Becker, Fonseca,
+Haddad, Batista, & Prado, 2007). Moreover, compared with flying
+pond-breeding insects, semiaquatic amphibians, such as newts,
+have more limited dispersal capability (Ficetola & De Bernardi,
+2004), making migration to alternative aquatic habitats possibly
+more problematic. In landscapes in which ponds are isolated,
+although a high emigration of newts was found in fish ponds, few
+movements were observed between distant fish and fishless ponds
+(Unglaub et al., 2015). However, as long as newts still occur in fish
+ponds (even without reproductive success) or in nearby habitats, as
+it is often the case (see e.g., DenoÄel, Scime, & Zambelli, in press),
+there is potential for their conservation. In particular, if management
+provides new adequate aquatic sites near the invaded ponds
+(Manenti, Bonelli, Scaccini, Binda, & Zugnoni, 2014) or if fish
+disappear naturally (e.g., after pond drying) or by removal
+(Vredenburg, 2004), there is hope for the persistence of newts and
+for an increase in their population.
+The long-term consequences of skipping reproduction may be
+difficult to assess because amphibians can make strategic decisions
+over their lifetime about whether to breed or not to breed. For
+instance, amphibians may benefit from skipping reproduction by reducing the number of eggs laid in a breeding season, then saving
+energy, allowing for a higher reproductive value the subsequent
+year (Reyer, Frei, & Som, 1999). Indeed, reproduction in amphibians
+may incur a high energy cost that can lead to the decision to skip a
+breeding opportunity and attempt reproduction in years that present
+suitable environmental conditions for both adults and
+offspring (Cayuela et al., 2014; Church, Bailey, Wilbur, Kendall, &
+Hines, 2007). Therefore, the decision of an organism to reproduce
+depends on environmental conditions that directly affect individual
+fitness and the probability of offspring survival (McNamara &
+Houston, 1996). However, in the case of fish introduction, the
+poor environmental quality repeatedly affects a population over
+more than one year; both the decision to skip reproduction and the
+impossibility to find another breeding habitat may lead to the
+extinction of the population.
+In conclusion, escape from fish habitats by pond-breeding amphibians
+is a mechanism that contributes to explaining the negative
+spatial association observed in the field between introduced fish
+and amphibians (DenoÄel & Ficetola, 2014; Orizaola & Bra~na, 2006;
+Pilliod et al., 2010). Fish species, such as goldfish, that have been
+shown to be problematic for the larval stage of amphibians through
+consumptive effects (Monello & Wright, 2001) are, thus, also
+detrimental for the adult stage of amphibians through nonconsumptive
+effects, i.e. by behavioural avoidance. Habitat selection
+has a direct functional relationship with survival and reproduction
+and, therefore, strongly influences fitness (Morris, 2011). In this
+study, the consequences were particularly acute, as the escape
+response implied a complete habitat shift for a large part of a
+population, with the fitness consequence of forgoing reproduction.
+More broadly, these results also showthe importance of integrating
+behavioural patterns and habitat heterogeneity in conservation
+biology studies (Caro, 2007).

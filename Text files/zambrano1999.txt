@@ -1,0 +1,489 @@
+xabstract
+In Mexico, as in many other subtropical and tropical countries, there has been a recent trend towards stocking
+non-native carp (Cyprinus carpio) in lakes and ponds as a source of food in rural areas. However, the results of
+a study in a series of small (1–8 ha), shallow (<2 m), semi-natural ponds in Acambay, a high altitude valley in
+the basin of the Lerma river in the volcanic belt in central west Mexico, illustrate that the stocking of carp over
+a threshold value may have a detrimental ecological impact at several trophic levels. Ponds with carp tended to
+be turbid with high levels of suspended solids, and with few rooted macrophytes and epibenthic invertebrates.
+In contrast, ponds without carp had clear water and abundant rooted macrophytes and associated invertebrates,
+particularly gastropod molluscs. The direct uprooting of macrophytes by benthic foraging carp appeared to be
+the most important mechanism in switching the ponds from a clear macrophyte-dominated to a turbid state. The
+subtropical study ponds thus appear to confirm the alternative stable-state hypothesis developed in temperate lakes,
+although the importance of benthic rather than pelagic interactions was emphasised. The implications of stocking
+carp for native fauna of high intrinsic conservation value and as a food supply for local people are outlined.
+
+xintroduction
+It is now widely accepted that shallow lakes may exist
+in either of two alternative stable states, one dominated
+by phytoplankton and the other by submerged
+macrophytes, within a range of nutrient concentrations
+(Irvine et al., 1989; Scheffer et al., 1993). Each state
+is buffered by a variety of mechanisms, even in the
+face of an increase or decline in available nutrients
+(Moss et al., 1996). Theoretical models and practical
+experience of such dynamics are, however, largely
+restricted to temperate zones. Subtropical and tropical
+lakes, in contrast, are relatively poorly understood.
+Due to their higher light availability and temperature,
+biological production is intuitively higher in
+tropical than in temperate lakes, provided that nutrients
+are not limiting. Consequently, minimum phytoplankton
+biomass tends to be higher for a given
+nutrient status in tropical systems (Lewis, 1990),
+although composition or seasonal dynamics do not
+appear to differ in any fundamental way between
+the two types (Kalff & Watson, 1986; Matveev et
+al., 1992). Because of the a protracted growing
+season of tropical lakes, submerged macrophytes may
+also be expected to achieve higher biomass than in
+temperate systems. The higher macrophyte density,
+through a variety of mechanisms, may help to buffer
+a lake from any impact of an increase in nutrient
+loading (see Stansfield et al., 1997). A high primary
+productivity of phytoplankton may not be manifested
+as a high density of individuals, or even biomass,
+of grazing zooplankton (Fernando, 1994) in tropical
+lakes, because of predation by characteristically
+abundant, productive, and efficient fish stocks
+(Gliwicz, 1994).
+In temperate shallow lakes, the abundance and
+biomass of fish may be instrumental in the ultimate
+dominance of phytoplankton or submerged macrophytes,
+through two major pathways, either acting
+individually or in combination. Firstly, fish may exert
+top-down control of zooplankton, which has a positive
+potential subsequent impact upon phytoplankton and,
+therefore, a negative effect on water clarity (the trophic
+cascade-Carpenter et al., 1987). Secondly, there may
+be a variety of direct and indirect mechanisms as a
+result of benthic foraging by the fish. These include
+the re-suspension of suspended solids (Szumiec, 1989;
+Breukelaar et al., 1994), promotion of nutrient release
+(Tatrai & Istvanovics, 1986; Tatrai et al., 1990; Cline
+et al., 1994), and uprooting of macrophytes (Ten
+Winkel&Meulemans, 1984). The presence or absence
+of submerged macrophytes has a major feedback
+effect on fish community structure, especially the ratio
+of piscivores to zooplanktivores/benthivores (Bronmark
+& Weisner, 1992). The impact of foraging fish
+in tropical waters, without a cold season, is predicted
+to be more intense than in temperate lakes, although
+little quantitative information is as yet available.
+The introduction of fish, particularly members
+of the Cyprinidae, Cichlidae and Clupeidae, as a
+source of protein for human consumption, into tropical
+and subtropical lacustrine systems is continuing
+apace (Fernando, 1991). Stocking of carp (Cyprinus
+carpio) is prevalent in Mexican rural zones, partly as
+a result of its high capacity to survive and grow in
+poor quality waters (Maitland & Campbell, 1992). It
+has long been known that carp may have a dramatic
+impact on lake ecology (Cahn, 1929). Introductions of
+carp and related species such as goldfish (Carassius
+auratus) may have severe negative impacts on native
+fauna and flora through changes in water quality and
+disturbance or depletion of shared resources in both
+temperate (Richardson et al., 1995) and subtropical
+systems (Brumley, 1991). The current paper reports
+on the first attempt to assess the trophic impacts of
+stocking of carp inMexico. The basic approach was to
+determine the general pattern of relationships between
+biological, chemical, and physical parameters and
+carp biomass in a series of ponds in a valley of the
+Lerma River. The results of the study are discussed
+in the light of the alternative stable state hypothesis
+and its application to suptropical rather than temperate shallow lakes.
+
+
+xmethods
+Data were collected from small (0.8–8 ha), shallow
+(mean 1 SE = 0.840.21 m) ponds in Acambay
+in the Alto Lerma zone on the Mexican volcanic
+belt (altitude 2550 m) in central west Mexico (19
+570 N, 99 510 E). The region is delimited in the
+north by the Acambay-Tixmadeje fault system and
+in the south by the Venta de Bravo fault system.
+Acambay is in a valley in the basin of the Lerma
+river identified as being of conservation value because
+of its high density of endemic species. Some of
+these, including axolotl (Ambystoma mexicanum),
+crayfish (Cambarellus montezumae), and long-finned
+amarillo (Girardinichthys multiradiatus) (Espinoza et
+al., 1993), a small live-bearing fish of the family
+Goodeidae, are present in the ponds. Some ponds are
+natural but most are artificial, created partly to provide
+irrigation for the surrounding agricultural land and the
+crops (mainly maize and wheat) it supports. Ponds are
+dependent on precipitation (903.8 mm per annum –
+García, 1988) in the wet season beginning in June.
+The ponds tend to fill in July/August, coinciding with
+the heaviest rains. The annual average annual temperature
+is 14.2 C (maximum 16.8 C, minimum 10.6 C
+– García, 1988). During the sampling season in this
+study water temperatures ranged from 8 C at 6.00 in
+the morning on the coldest day to 24 C at 13.00 in the
+afternoon on the hottest day.
+In some ponds juvenile carp are stocked at 3–5
+cm in length, often in densities >2 m−2 (above the
+governmental recommended stocking level of 0.5–2
+m−2), according to availability from the centres of
+production, and left to grow for one or two years
+(preferably to a minimum of 20 cm) before being
+harvested, traditionally around Easter. This coincides
+with the peak of the dry season, when the ponds
+partially or even totally dry out. The fish crop is
+insufficient to be of commercial interest. Relatively
+wealthy farmers may allow their workers to harvest
+the carp for their own consumption, which they catch
+when the water level declines to 20–30 cm, with a
+simple mesh bag or by hand. Subsistence farmers
+harvest the fish for their own purposes, although a
+number of fish are lost to poachers, who may use rifles
+to shoot carp where the water is clear. Although native
+fauna, including amphibians, fish, and especially crayfish,
+is consumed to a greater or lesser extent by local
+people, carp is generally welcomed as an additional
+source of protein.
+A variety of physical, chemical and biological variables
+across all trophic levels were quantified from
+the twelve study ponds at the onset of the dry season.
+Nine ponds were sampled from January to March
+1995, and three in February of 1996. Eight ponds
+were known to be stocked with carp, whereas four
+were thought to be carp-free. Unfortunately, some
+of the ponds dried out before data on all variables
+could be collected. Physical variables included pond
+morphometry (area in ha and mean depth in m), Secchi
+depth, and temperature.Water quality parameters were
+measured from a pooled sample (of three subsamples)
+of 1 litre of water collected around midday in each
+pond, according to the standard methods described by
+APHA (1985). These included total organic nitrogen
+(TON) and ammonia NH3 by the Kjeldahl technique;
+nitrate (NO3) by the Brusin Sulphate technique (see
+DGN, 1986), and total phosphorus (TP) and orthophosphate
+(PO4) by the Stannous chloride method.
+The concentration (mg l−1) of total suspended solids
+was obtained by the gravimetric method after ignition
+to 105 C.
+Chlorophyll a concentration was used as an index
+of phytoplankton biomass and consequently primary
+productivity. This was determined using the fluorometric
+method (Lorenzen, 1966) from 50–500 ml
+of filtered water from a pooled sample of three
+subsamples taken at 10 cm under the water surface.
+As an index of macrophyte abundance, cover of rooted
+(submerged and emergent) and floating macrophytes
+was estimated within a 40 cm diameter circular frame
+(Necchi et al., 1995) at 5 sample points along each of
+twelve 10 m transects (60 samples per pond in total).
+Sampling thus encompassed the zone close to the
+littoral margin, where the majority of any macrophytes
+occurred. As ponds were generally square, three transects
+were taken at equal distances along each side,
+originating from, and perpendicular to, the littoral
+margin.
+Five samples of the entire water column (from 0.5
+m to 1.9 m depth and 2–6 litres volume) were taken
+with a PVC tube (2 m length, 7 cm diameter) for
+zooplankton. The resulting pooled sample was filtered
+through a 200  mesh plankton net and stored in
+alcohol. In the laboratory the sample was made up
+to 200 ml. Five 5 ml subsamples were taken and
+the number of cladocerans and copepods in each was
+determined.
+The abundance (org. m−3) of epibenthic invertebrates
+and small native fishes was estimated using a
+small beam net (Renfro, 1962) along three transects
+of 12 m in length in each pond. The abundance (org.
+m−3) of benthic organisms was estimated from a 5 litre
+pooled sample of mud taken by means of an Ekman
+grab in a variety of locations. Organisms were separated
+from the mud in the field by 3 sieves (4 mm, 2
+mm and 0.4 mm mesh size) and identified and counted
+in the laboratory. An overall estimate of abundance
+of the various groups was provided by combining the
+estimates obtained by each sampling method.
+Two multi-mesh gill-nets of 20 m in length, split
+into four panels of 5 m each with 1.27 cm, 5.71 cm,
+7.62 cm and 8.9 cm (0.5–3.5 inches) mesh, respectively,
+were used to sample carp from 7–40 cm,
+covering the entire size range expected in the ponds.
+The first net was set at 90 to, and from, whereas the
+second was set in a transverse manner to the first in
+the middle of the pond. Nets were set in the hours
+of daylight for between 6–10 hours. The difference
+in the length of time the nets were set was found to
+be of little consequence, as subsequent analysis of
+catch over the time period showed the bulk of captures
+occurred within 4 hours of the net being set. Data were
+expressed as catch per unit effort (CPUE) ha−1 by
+abundance and biomass.
+The Kendall coefficient of concordance (W; Siegel
+& Castellan, 1988) was used to test the degree of association
+of variables within each of three groups, indicative
+of the likely trophic pathways of the impact of
+carp. The first group comprised the variables predicted
+to respond to an increase in nutrients (Carvalho &
+Moss, 1995). The second group consisted of those
+variables illustrative of potential top-down control of
+zooplankton by young carp (Carpenter et al., 1987).
+The third group was composed of those variables
+potentially affected by the benthic foraging action of
+carp. To indicate potential cause and effect, Spearman
+rank correlation coefficient (rs) was used to describe
+the relationships between variables obtained from
+significant Kendall concordance coefficients (W). The
+nature of any significant relationships was then further
+qualified by determining the best-fit curve for the data
+(SIGMASTAT. Jandel-Scientific, V.1, USA).
+
+xresults
+Nutrient concentrations were typically high, with
+mean TP of 232 g l−1 and mean TON of 1.7 mg l−1
+(Table 1). All ponds were therefore classed as hypereutrophic
+(Wetzel, 1983). However, a high nutrient
+concentration was not necessarily expressed as a high
+biomass of algae. Chlorophyll a concentrations ranged
+from 0.31 to 170 g l−1 (Table 1) and appeared not to
+be related to the concentration of nutrients (Table 2).
+Total macrophyte cover ranged from 4% to
+98% divided between rooted (4–54%) and floating
+macrophtytes (0–54%; Table 1). The abundance
+of rooted macrophytes was significantly positively
+related to Secchi depth (which ranged from 5–127
+cm; Tables 1 and 2) and accordingly to the concentration
+of suspended solids (Table 2). Suspended, mostly
+organic, solids were of sufficient concentration (to 188
+mg l−1) to bestow a brown coloration in some ponds.
+The concentration of suspended solids was significantly
+related to the abundance of rooted macrophytes
+(Tables 1 and 2).
+Populations of benthic and epibenthic organisms
+were variable but often relatively high (Table 1), with
+the invertebrate orders Malacostraca (the native crayfish
+C. montezumae), Insecta, Gastropoda, Lamellibranchia,
+Ostracoda, and Turbellaria represented.
+Insecta was present in all ponds for which data were
+available, Gastropoda in 64% and Malacostraca in
+40%, while the rest of the orders appeared only in one
+pond.
+The density of cladoceran and copepod zooplankton
+was low (5–23 individuals l−1). The
+potentially zooplanktivorous native G. multiradiatus
+occurred in all ponds and reached a high density >4
+m−3 (Table 1). The native amphibian A. mexicanum
+was only present in one pond and is thus unlikely to
+have had a general functional role in the structure of
+the trophic web.
+Carp had been introduced into eight of the twelve
+ponds, although density varied from 0 to 4.8 CPUE
+and biomass ranged from 0 to 3623 g CPUE (Table
+1). Because of the seasonal nature of the ponds, carp
+were generally young and therefore relatively small
+(i.e. in pond 6 mean (1 SE) length = 13.31.09 cm,
+mean (1 SE) weight = 14546.2 g). However, in
+pond 9, carp were much larger (mean (1 SE) length =
+44.05.26 cm, mean (1 SE) weight = 2150362 g),
+suggesting this pond had retained water for at least two
+seasons and, probably as a consequence, had not been
+harvested. Carp biomass was related to the benthic
+group of variables in the concordance analysis (Table
+2), with significant negative correlations between carp
+and Secchi depth, rooted macrophytes and epibenthic
+organisms (Table 3). These relationships were nonlinear
+(Figure 1).
+
+
+xdiscussion
+The partial or even total drying out of some ponds
+may have led to fundamental differences in the structure
+of the food web, confounding the interpretation
+of the impact of carp on the ponds. Ponds retaining
+water may have been expected to have more stable
+communities of macrophytes and epibenthic invertebrates
+and native fish than those subject to water
+loss. However, observations suggest that the speed at
+which macrophytes and benthos can colonise any pond
+was less than two months from the onset of the wet
+season. This suggests adaptations on the part of many
+of the plants and animals. For example, several of
+the macrophyte species may have resistant bulbs and
+seeds. Contrary to other studies on temporary ponds
+(e.g. Bazzanti et al., 1996), the potential dominance
+of less mobile, slow to colonise, groups, such as gastropods,
+in the ponds also suggests some resistance to
+drying-out.
+The live-bearing strategy of the fish G. multiradiatus
+may be a specific adaptation to exploit temporary
+waterbodies as they become available. This fish is not
+thought to be tolerant of drying out, and its ubiquitous
+presence in the pond system indicates that the pond
+system is readily connected by the temporary streams
+that begin to flow at the onset of the wet season.
+The resistance of several important components of the
+community to drying coupled with the speed of colonisation
+of others, and exacerbated by the connection to
+temporary streams suggests that the temporary status
+of some ponds should not be the dominant factor in
+determining pond community structure.
+The ready division of the ponds into those that
+were clear with a high coverage of rooted macrophytes
+and those that were turbid with a low coverage of
+rooted macrophytes within a narrow range of nutrient
+loading, conforms to the alternative stable state hypothesis
+proposed for temperate shallow lakes (Irvine et
+al., 1989; Scheffer et al., 1993). The negative exponential
+relationships between carp and macrophytes
+and Secchi depth is also supportive of the view that
+fish may not only have a critical role in determining
+the alternative states in subtropical in temperate lakes
+(Bronmark & Weisner, 1992; Jeppesen et al., 1997),
+but that a threshold value (around a carp CPUE of
+1) operates, above which any buffering mechanism
+is over-run and the water body rapidly switches from
+the clear to the turbid state (see Scheffer et al., 1993).
+Although further experimental work is required, there
+are also indications of the nature of the fish-induced
+mechanisms responsible.
+The lack of any relationship between carp and
+nutrients and chlorophyll a suggests that carp did
+not contribute to the overall nutrient values of the
+ponds, and thus to algal production, either through
+physiological processes or release through sediments
+(Breukelaar et al., 1994; Tatrai & Istvanovics, 1986;
+Cline et al., 1994). The hypertrophic nature of the
+ponds is somewhat unexpected given their altitude
+and seasonal nature. However, Acambay valley is
+in a tectonic depression and the base volcanic rock
+is some 200 m below the surface and overlain with
+soil deposits potentially from the bed of an ancient
+lake (Ramirez-Herrera et al., 1994). Consequently,
+the area is favoured for agriculture. Evidence that
+the general source of nutrients was from run-off
+from the surrounding crops is provided by the high
+ammonia: nitrate ratio (>10:1) indicating input of
+fertilisers (Wetzel, 1983). The high proportion (mean
+89.018.7%) of inorganic solids also suggests allochthonous
+input of chemicals (Table 1). We therefore
+suggest that the ponds would naturally be of significantly
+lower nutrient status and therefore most likely
+to be dominated by macrophytes rather than phytoplankton
+(Scheffer et al., 1993).
+Although nutrients appeared to be abundant in the
+water, the ponds seem to have a relatively low primary
+productivity of algae (mean  SE = 24.0320.94 g
+l−1). This pattern may be linked to complex water
+chemical interactions at this level, such as changes
+in the limited availability of nutrient in a form for
+algal uptake. For example, the ratio of PO4:TP varied
+from pond to pond (mean  SE = 4.061.04, min.
+1.07, max. 9.55) suggesting differences in the P cycle.
+However, currently it is unknown whether the concentration
+of nutrients in this type of system should be
+considered only as an upper limit for chlorophyll a
+productivity instead of a defined curve-fit between
+nutrients and algae densities (Scheffer, 1998). Additionally,
+it is not clear whether this is an effect of an
+enhanced rate of cycling in the higher temperatures
+of the subtropics and whether carp have some role in
+nutrient cycling.
+The generally low biomass of algae in the ponds
+is intuitively likely to limit the size and structure of
+the zooplankton populations. The lack of a significant
+concordance correlation between G. multiradiatus,
+carp, zooplankton and chlorophyll a (Table 2),
+suggests that pelagic interactions were unimportant in
+these systems. This is further supported by the presence
+of only a few zooplankton in the diet of a small
+number carp (n = 100) taken for analysis. There has
+been some suggestion that zooplankton populations
+are generally of insufficient size or lacking in suitable
+structure (i.e. lacking large grazing Cladocerans although
+this is debated, Dumont, 1994) in subtropical
+and tropical systems to be of importance in promoting
+clear water through algal control (Crisman & Beaver,
+1990), in contrast with the typical pattern in many
+temperate shallow lakes (Perrow et al., 1997).
+Concordance analysis and subsequent correlations
+with suspended solids, Secchi depth and rooted macrophytes,
+suggest that the benthic foraging of carp
+(digging pits to 10 cm in depth – Ivlev, 1961),
+exploiting what may be an abundant benthic resource,
+is responsible for the observed patterns. This is
+supported by limited dietary samples, which mainly
+consisted of mud, epibenthic algae and benthic fauna.
+Values of Secchi depth around 20–30 cm appeared
+to be the critical threshold value above which the
+production of a high coverage of rooted macrophytes
+could occur in the ponds. This in turn appeared to be
+dependent on the concentration of suspended solids.
+The latter are less strongly related to carp than to
+rooted macrophytes. The strong negative relationship
+between carp and rooted macrophytes may thus be
+more indicative of direct disturbance (Ten Winkel &
+Meulemans, 1984; Kolasa & Weber, 1995) than an
+indirect effect through shading (see Meijer et al., 1990;
+Breukelaar et al., 1994). Once the macrophytes are
+lost, the potential for sedimentation of solids may be
+dramatically reduced (James & Barko, 1990).
+The abundance of epibenthic invertebrates also
+declined rapidly for values of CPUE ha−1 of carp
+>1 (Figure 1), corresponding with the value at which
+macrophytes declined, suggesting an indirect rather
+than direct impact of carp upon invertebrates (Tatrai
+et al., 1994). Moreover, as there was no relationship
+between carp and benthic organisms, which
+normally constitute the bulk of the diet (Lammens
+& Hoogenboezem, 1991), a strong direct predation
+effect seemed unlikely. The proportion of gastropods
+in the community, the group intuitively linked to the
+abundance of macrophytes, also declined rapidly with
+macrophytes, from 60% ( SE 5.4) in ponds with
+CPUE ha−1 of carp >1 to 2.1% ( SE 0.4) in ponds
+with CPUE ha−1 of carp >1.
+This preliminary correlational study results
+suggest that the introduction of a non-native
+benthivorous fish, carp, to the study ponds, has
+provoked a detrimental ecological impact, as
+predicted by other studies in both temperate and
+subtropical systems (e.g. Cahn, 1929; Szumiec, 1989;
+Brumley, 1991; Breukelaar et al., 1994; Richardson
+et al., 1995). The effect appeared stronger than
+either nutrient enrichment from the surrounding
+arable land or partial drying-out for some ponds. On
+one hand, the loss of rooted macrophytes, possibly
+directly through uprooting during benthic foraging,
+is intuitively likely to lead to a decline in biological
+diversity (Crowder & Painter, 1991) in the ponds of
+this area of high intrinsic conservation, particularly
+for endemic fish, amphibians, and reptiles. On the
+other, the lack of a detectable impact upon the
+native fish (G. multiradiatus) suggests otherwise;
+apparently, this native fish is not affected by changes
+in the bottom-benthos-macrophyte interactions.
+Moreover, as G. multiradiatus are also exploited as
+food by local people, at face value, the introduction
+of carp represents a net gain in the available food
+resource. However, the impact upon other exploitable
+natural food resources, such as the native crayfish
+(C. montezumae), and other endemic species of
+freshwater fish from nearby zones, is also unknown.
+As such species are consumed by the poorest people of
+the zone, there may also be sociological implications.
+The relative costs and benefits of the introductions
+of carp clearly depend on a more thorough analysis
+of the impact upon native species, exploitable natural
+food resources and social consequences, than was
+possible in the current study.
+The current work has provided a baseline of the
+potential for trophic interactions within the ponds
+and some insight into the similarities and differences
+between subtropical and temperate shallow lakes.
+For example, benthic interactions may be dominant
+in subtropical and tropical systems. Further, more
+detailed experimental work is required to unravel
+the interactions within the ponds and ultimately to
+determine whether the introduction of carp can be
+undertaken in a less detrimental and more sustainable
+manner, both in ecological and socio-economic terms.

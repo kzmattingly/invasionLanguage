@@ -1,0 +1,1264 @@
+xabstract
+The spiny cladoceran (Bythotrephes longimanus)
+is an invasive, predaceous zooplankter that is
+expanding from Great Lakes coastal waters into inland
+lakes within a northern latitudinal band. In a large,
+Boundary Water lake complex (largely within Voyageurs
+National Park), we use two comparisons, a
+2-year spatial and a 12-year temporal, to quantify
+seasonal impacts on food webs and biomass, plus a
+preliminary calculation of secondary production
+decline. Bythotrephes alters the seasonal biomass
+pattern by severely depressing microcrustaceans during
+summer and early fall, when the predator is most
+abundant. Cladoceran and cyclopoid copepods suffer
+the most serious population declines, although the
+resistant cladoceran Holopedium is favored in spatial
+comparisons. Microcrustacean biomass is reduced
+40ñ60 % and secondary production declines by about
+67 %. The microcrustacean community shifts towards
+calanoid copepods. The decline in secondary production
+is due both to summer biomass loss and to the
+longer generation times of calanoid copepods (slower
+turnover). The Bythotrephes ëëtop-downíí perturbation
+appears to hold across small, intermediate, and largesized
+lakes (i.e. appears scale-independent), and is
+pronounced when Bythotrephes densities reach 20ñ40
+individuals L-1. Induction tests with small cladocerans
+(Bosmina) suggest that certain native prey populations
+do not sense the exotic predator and are ëëblindsidedíí.
+Failure of prey to deploy defenses could
+explain the disproportionate community impacts in
+New World versus Old World lakes.
+xintroduction
+There is growing awareness that freshwater communities
+are more seriously threatened by the introduction
+of non-indigenous species than by atmospheric
+pollution, agricultural land use practices, or even
+global climate change (Vitousek et al. 1996; Simberloff
+and Van Holle 1999; Sala et al. 2000). In the Great Lakes region, exotic species impacts are major
+and accumulative (Mills et al. 1993; Ricciardi 2006).
+The spiny cladoceran (Bythotrephes longimanus) is an
+invasive, predaceous zooplankter that impacts Great
+Lakes assemblages and that is spreading out from
+coastal waters to colonize inland lakes across a
+temperature-related northern latitudinal band (Fig. 1;
+Kerfoot et al. 2011). The inland region stretches from
+Vermont, eastern Ontario, and New York, through
+Michigan, Wisconsin, Minnesota and Manitoba.
+In the first stage of New World expansion, the spiny
+cladoceran invaded very large lakes, e.g. all of the
+Laurentian Great Lakes by 1987 (Fig. 1; Lehman
+1987; Cullis and Johnson 1988). Initial study of
+Bythotrephes in the Great Lakes yielded some insights
+into the speciesí colonization characteristics. For a
+cladoceran, Bythotrephes carries a long, barbed caudal
+appendage (Fig. 1, insert). The tail spine protects
+Bythotrephes from small young-of-the year (YOY)
+fish (Barnhisel 1991a, b), although larger fish can
+ingest great numbers of adults (Mills et al. 1992;
+Branstrator and Lehman 1996). Bythotrephes is epilimnetic
+and metalimnetic, and sometimes hypolimnetic
+in reservoirs during the day. There are often midsummer
+density oscillations (Berg and Garton 1988;
+Lehman 1991), and individuals have high energetic
+demands (Lehman and Ca¥ceres 1993; Yurista et al.
+2010). In the Great Lakes, Bythotrephes were
+observed to depress herbivorous cladocerans such as
+D. retrocurva and Bosmina (Lehman and Ca¥ceres 1993; Barbiero and Tuchman 2004). Despite the
+spineís effectiveness against YOY fish (Jarnagin
+et al. 2004; Compton and Kerfoot 2004), spiny
+cladocerans survived under a delicate demographic
+balance. Although generation times were short,
+enough larger fish consumed the cladoceran that
+ingestion by fish contributed an estimated 40ñ70 %
+of annual mortality (Jarnagin et al. 2004; Pothoven
+et al. 2007).
+In the second stage of geographic expansion, after
+colonizing embayments and harbors, Bythotrephes
+began to invade relatively small inland lakes (Fig. 1;
+MacIsaac et al. 2000, 2004; Yan et al. 2001;
+Branstrator et al. 2006; Kerfoot et al. 2011). Rapid
+inland expansion across the northern US states and
+Canadian provinces is linked to recreational fishing.
+Dispersal was promoted by snagging of tail spines on
+fishing lines, anchor ropes, nets and minnow seines,
+but also by use of local baitfish and inter-lake transfer
+of fish. The unusual thick-shelled diapausing eggs can
+pass through fish guts in viable condition (Jarnagin
+et al. 2000, 2004). Inspection of fish guts (yellow
+perch, cisco, alewives) documented that large numbers
+of viable eggs end up in stomachs during summer
+and fall (Jarnagin et al. 2004; Kerfoot et al. 2011).
+Diapausing eggs that pass through fish guts may be
+defecated into live wells and bait buckets, or the eggladen
+fish transferred from one lake to another.
+Much of the recent demographic and food-web
+impact information has come from studies of relatively
+small lakes: Harp Lake, Ontario (Yan and
+Pawson 1997; Yan et al. 2001), Lake Michigamme,
+Michigan (Jarnagin et al. 2000, 2004), and an additional
+series of eastern Ontario lakes (Strecker and
+Arnott 2005; Strecker et al. 2011). During the daytime,
+egg-carrying adult Bythotrephes seek shelter in epilimnetic
+strata between the bottom of the photic zone
+and the top of the hypolimnion, reducing risk from fish
+consumption. In small lakes, Bythotrephes became
+most abundant in summer (July, August). In Harp
+Lake, Bythotrephes caused shifts in zooplankton size
+and species composition, reducing small cladoceran
+density and overall species richness, while favoring
+the gelatin capsule-protected cladoceran Holopedium
+(Yan et al. 2002). In Harp Lake, prey species
+selections were similar to those observed in Swedish
+mesocosm investigations, within the predatorís natural
+habitat (Wahlstrom and Westman 1999). However
+in Europe, Bythotrephes generally does not have the
+serious biomass and biodiversity effects observed in
+North America and often co-occurs with taxa that we
+see removed from northern Midwestern lakes (Straile
+and Haelbich 2000; Korovchinsky 2000; Kelly et al.
+2013).
+Thus previous geographic knowledge comes from a
+mixture of very large and relatively small lakes. Here
+we use extensive spatial and temporal sampling in
+Voyageurs National Park lakes to examine responses
+in an inter-connected, intermediate-sized series of
+lakes, to see if prior observations are scale-independent.
+Our study benefits from extensive and historical
+sampling before, during, and after colonization.
+Moreover, the interconnected lakes resemble, in
+miniature, circumstances in the Great Lakes. Initial
+documentation sets the stage for even longer-term
+observations. For example, because there are substantial
+community biomass effects, we could examine
+ëëcascading effectsíí up and down food webs. Moreover,
+one might expect resting-egg ëëseed banksíí to
+initially moderate effects. Despite strong depressions
+of vulnerable species, populations may linger until
+recruitment from ëëegg banksíí is depleted.
+We report that, as in smaller lake studies,
+Bythotrephes is creating major, progressive impacts
+on microcrustacean assemblages. Even though the
+lakes are larger in size than previous inland studies,
+there are severe shifts in microcrustacean seasonal
+density patterns, community composition, biomass
+and secondary productivity. In addition, there are
+initial indications of ëëcascading effectsíí in colonized
+waters. We also observe that species appear to be
+barely hanging on, at very low densities, an indication
+of initial ëëseed bankíí moderation of losses. Because
+there are fewer multiple stressors (no zebra or quagga
+mussel colonization, fewer changes in fish stocking,
+lack of phosphorus abatement) in Voyageurs National
+Park waters, the studies may aid interpretation of
+recently observed shifts in Laurentian Great Lakes
+food webs due to increased Bythotrephes density. We
+also begin to address the question of disproportionate
+food-web effects between New World and Old World
+food webs by including Bythotrephes in prey ëëinductioníí
+experiments. Small cladocerans (Bosmina,
+Eubosmina, Ceriodaphnia) typically respond to natural
+predators by deploying a variety of defensives.
+However, Bosmina fail to react to Bythotrephes, as if
+prey individuals are incapable of sensing the presence
+of the exotic predator and are ëëblind-sidedíí by its presence. Disproportionate effects of invasive predators
+are often thought to derive from prey lacking the
+ability to detect or respond appropriately to novel
+predators, due to absence of shared evolutionary
+history [i.e. prey naivete¥ hypothesis, Cox and Lima
+(2006)]. Several studies report a lack of recognition of
+invasive predators by native prey that lack an evolutionary
+history with the predator (Shave et al. 1994;
+Smith et al. 2008).
+xmethods
+The species is well spread across Ontario, occupying a
+band with a cluster in central Ontario (Fig. 1). South of
+the international boundary, the colonization stretches
+into New York and Vermont. Towards the west, the
+species has moved through Michigan, Wisconsin, and
+into Minnesota. Expansion of Bythotrephes into the
+10,000 lake district of northern Minnesota and western
+Ontario along a preferred temperature band (Kerfoot
+et al. 2011) places the entire northern region at great
+risk. Bythotrephes appears to prefer 14ñ23 C waters
+(Yurista 1999). Prolonged temperatures above
+25ñ26 C can cause reproductive failure (Garton
+et al. 1990; Yurista 1999), which explains the lack of
+Bythotrephes colonization in southern Wisconsin,
+Minnesota, and Michigan inland lakes (Kerfoot et al.
+2011). The temperature regimes found in Voyageurís
+lakes (Table 1), and regional boundary waters, seem
+ideal for colonization. The large Voyageurs lake
+complex also provides an example that falls between
+small inland and exceptionally large lakes (e.g.
+Laurentian Great Lakes).Voyageurs National Park is located in northern
+Minnesota (Fig. 2). The Park was established in
+1975 around a system of four interconnected lakes
+(Kabetogama, Namakan, Rainy, Sand Point), plus
+associations with Crane and Little Vermilion Lakes on
+the southeastern edge, all occupied by zooplankton
+that seem a mixture of glacial relic, mesotrophic lake,
+and a few eutrophic bay species. The large interconnected
+lakes include Rainy Lake (932 km2 surface
+area), Namakan Lake (97.4 km2), Kabetogama Lake
+(97.3 km2), and Sand Point Lake (34.5 km2). Crane
+Lake (11.8 km2) and Little Vermilion Lake (5.2 km2)
+are linked to Sand Point Lake along a southeastern
+corridor and lie just outside of park boundaries. Four
+of the lakes straddle the International Boundary
+between Canada and the United States (heavy black
+line). Portions of the large lakes and more than 30
+named smaller interior lakes (ranging in size from 0.08
+to 3.05 km2) comprise more than half of the parkís
+total area of 883 km2.The lakes share several general limnological
+features (Table 1). All five interconnected lakes are
+ice-covered 5 months out of the year, and four
+maintain thermal stratification during the warm
+season. The exception is Kabetogama, which is
+polymictic. Mean August temperatures range
+between 20.8 and 22.3 C. All are soft-water lakes
+(CaCO3 concentrations = 12.2ñ44.8 mg/L), with a
+wide range in productivity. Rainy, Namakan, and
+Sand Point have been oligotrophic since 2000,
+whereas Kabetogama is mesotrophic, with shallowwater
+regions \15 m deep) bordering on eutrophic.
+The relatively large Black Bay region (22.6 km2;
+3 m depth) of Rainy Lake is also much more
+productive, bordering on eutrophic conditions. Bythotrephes
+was established in Rainy, Kabetogama and
+Namakan Lake by 2007. The species has since been
+reported in Sand Point, Crane, and Little Vermilion
+lakes, although population densities in the latter three
+lakes were still quite low in 2009 (Fig. 3).
+Prior to our studies, several surveys of Voyageurs
+National Park established physical, chemical, and
+biological properties (Table 1). Dates for four microcrustacean
+surveys include an early University of
+Minnesota survey (1973, 1976), Hargisí samples
+(1978ñ1980), extensive investigations by the Park
+and USGS personnel during 1981ñ1984, plus repeated
+USGS sampling of Namakan and Rainy Lakes during
+1996. Previous survey results were published in Hargis
+et al. (1981) and a USGS report (USGS/BRD/ITR assemblage, including Daphnia longiremis, D. pulicaria,
+D. galeata mendotae [sic], D. retrocurva, socalled
+Bosmina longirostris, Eubosmina coregoni,
+Chydorus sphaericus, Diaphanosoma leuchtenbergianum
+(now D. birgei), Ceriodaphnia lacustris, C.
+quadrangula, and Holopedium gibberum. The large,
+predatory cladoceran, Leptodora kindtii, was also
+frequently detected. The most commonly occurring
+cyclopoid copepods were Diacyclops bicuspidatus
+thomasi, Tropocyclops prasinus, Acanthocyclops vernalis,
+and Mesocyclops edax. The most abundant
+filter-feeding calanoid copepods were Diaptomus
+ashlandi, D. sicilis, Skistodiaptomus oregonensis,
+and Leptodiaptomus minutus. Large omnivorous
+calanoid copepods included Epischura lacustris,
+Limnocalanus macrurus, and Senecella calanoides.
+Plankton samples in deeper lakes also included
+occasional opossum shrimp (Mysis diluviana) and a
+variety of phantom midges (Chaoborus spp.), all of
+which exhibited vertical migration.
+All of the large interconnected lakes had similar
+zooplankton communities prior to Bythotrephes arrival
+(Hargis et al. 1981; Kallemeyn et al. 2003). At
+Voyageurs, we used two independent sampling comparisons
+to examine food web impacts after Bythotrephes
+colonization. The first we termed a Spatial
+Contrast approach. During 2009ñ2010, microcrustacean
+communities from Voyageursí lakes that contained
+high densities of Bythotrephes (3 lakes) were
+compared with lakes that contained low densities (3
+lakes). The second comparison was termed a Temporal
+Contrast. Here we compared pre- versus post-invasion
+zooplankton communities in the three high Bythotrephes-
+density lakes (Rainy, Namakan, and Kabetogama),
+using long-term periodic sampling done
+independently from the spatial contrast sampling.
+Spatial contrast
+The Spatial Contrast approach determined mean
+Bythotrephes densities in each lake during
+2009ñ2010 (Fig. 3). We classified three lakes (Rainy,
+Kabetogama and Namakan) as ëëhigh-densityíí
+(shaded bars; 24.2, 33.0, and 29.0 Bythotrephes m-3,
+respectively), whereas Sand Point, Crane, and Little
+Vermilion were designated ëëlow-densityíí lakes (clear
+bars; 5.7, 0.3, 0.5 Bythotrephes m-3). Monthly
+zooplankton samples were collected from 13 stations
+(Fig. 2) during the summers of 2009 and 2010, with
+sampling sites dispersed more or less equidistant
+across the space of the interconnected system. Sampling
+sites in the larger lakes were close to sites used
+for routine, long-term bi-weekly vertical tows associated
+with water quality monitoring (see Temporal
+Contrast). Six stations were in Rainy Lake (including
+one in the shallow, more eutrophic Black Bay), two
+stations each in Namakan and Kabetogama, and one
+station each in Sand Point, Crane, and Little Vermilion
+Lakes. At each station, two tows were taken vertically
+from bottom to surface with a single 25 cm-diameter
+Wildco Plankton Net (125 lm Nitex mesh), whereas
+one long tow was collected diagonally (horizontal) in
+the epilimnion with a 50 cm-diameter, 350 lm mesh
+Nitex net (Research Nets, Inc., Bothell, Washington).
+The 350 lm net was equipped with a unidirectional
+flow meter for calculating sampled water volume, and
+was drawn from the thermocline to the surface. The
+flow meter was checked dockside at MTU and the
+towed track length in the field with a Magellen Triton
+GPS meter. Samples were rinsed into 500 mL Nalgene
+plastic sample jars, preserved in 10 % formalin/sucrose,
+and kept in cold storage until processed. Results
+from the two vertical tows were averaged. However,
+horizontal large-net tows greatly improved density
+estimates for large-bodied epilimnetic predators and
+prey (e.g. Bythotrephes, Leptodora, Holopedium,
+Daphnia mendotae, Epischura) relative to numbers
+captured in smaller vertical net tows, and these values
+were used for the larger-bodied taxa. In particular,
+Holopedium showed a tendency for high spatial
+clumping, and was best sampled with the larger,
+horizontal coarse mesh tows. The Spatial Contrast net
+tows were done during June, July, August and
+September, producing 67 site density estimates over
+the 2-year (2009ñ2010) interval.
+In the laboratory, collections were stirred in a
+beaker with a magnetic stirring rod, then a subsample
+constituting at least 10 %of the sample by volume was
+taken with a Hensen-Stempel Pipette. All microcrustaceans
+belonging to cladoceran and copepod taxa
+were identified following Balcer et al. (1984) and
+Haney et al. (2013). Counting was done under an
+Olympus dissecting microscope at 409, whereas
+lengths for biomass calculations were measured at
+80X, using a 2X WD38 auxiliary lens. For larger
+predatory species (e.g. Bythotrephes, Leptodora,
+Limnocalanus), every individual in the sample was
+counted. For copepods, nauplii were counted separately and lumped into one category. Pelagic
+densities for microcrustacean taxa were based on
+counts, whereas length measurements were used to
+estimate biomass using published length/weight
+regression models (e.g., Culver et al. 1985; Manca
+and Comoli 2000). Densities and biomass of microcrustacean
+taxa were compared between the two sets
+of lakes (high Bythotrephes density, low Bythotrephes
+density) using a one-way Analysis of Variance
+(ANOVA) on log-transformed data. The Spatial
+Contrast series captured spatial impacts at a brief
+moment during a time when the Bythotrephes population
+was actively expanding spatially in Voyageurs
+National Park.
+Taxa abundant enough to be tallied in the Spatial
+Contrast series included the cladocerans Daphnia
+longiremis, D. pulicaria, D. mendotae (formerly D.
+galeata mendotae), D. retrocurva, Bosmina sp.,
+Diaphanosoma birgei, and Holopedium gibberum.
+Densities for the large, predatory cladoceran, Leptodora
+kindtii, were also tabulated. Cyclopoid copepods
+included Diacyclops bicuspidatus thomasi, Acanthocyclops
+vernalis, Tropocyclops prasinus and Mesocyclops
+edax. Filter-feeding diaptomid calanoid
+copepods were lumped together into one herbivorous
+category, Diaptomidae, separate from the omnivorous
+large-bodied taxa, Epischura lacustris and Limnocalanus
+macrurus. Dominant species of filter-feeding
+diaptomid copepods included Leptodiaptomus sicilis,
+Leptodiaptomus ashlandi, and Skistodiaptomus oregoninsis
+in the collective category.
+Temporal contrast
+In the Temporal Contrast approach, we utilized a longterm
+data set collected in the large lakes (Rainy,
+Namakan, Kabetogama) by the National Park Service
+in collaboration with the Minnesota Department of
+Natural Resources (Minnesota DNR) and the United
+States Geological Survey (USGS). In the DNR yearly
+sampling, microcrustacean plankton assemblages
+were sampled at twelve sites within Voyageurs
+(Fig. 2; i.e., all four large lakes; unfortunately there
+was no pre-Bythotrephes sampling in Crane and Little
+Vermilion Lakes) using vertical tows with a 30 cm
+diameter Wildco Hensen Egg Net (153 lm Nitex
+mesh). At each station, two separate vertical hauls
+were taken. Each year, samples were collected
+monthly from May to October. To compare pre- with
+post-colonization communities, pre-invasion zooplankton
+data from 2001 to 2003 were compared with
+more recent, post-invasion data from 2007 to 2010 in
+the high-density Bythotrephes lakes (Rainy, Namakan,
+Kabetogama) during summer months (June, July, and
+August). We stress that the Temporal Contrast samples
+were an independent set of collections than those
+used in the Spatial Contrast, although site proximity
+(almost the same locations) and some time overlap
+(2009ñ2010) are likely to foster close correlations.
+The temporal sequence was intended to compare
+differences before and after Bythotrephes arrival in the
+three largest lakes during months when Bythotrephes
+were present. In contrast, the Spatial Contrast had
+Bythotrephes in all lakes, although with relative
+ëëhighíí versus ëëlowíí densities. The Temporal Contrast
+comparisons also integrated samples over a much
+greater period of time, and included full vertical
+(epilimnetic-hypolimnetic) profile coverage. The temporal
+series included a total of 237 independent
+samples for comparisons. We contrasted pre-invasion
+to post-invasion species biomass using one-way
+ANOVA (i.e. contrasting before and after predation
+dichotomy) on log-transformed data. Logarithmic
+transformation was applied to normalize data. Because
+biomass calculations utilized density estimates transformed
+by biomass regressions, relative differences
+for density and biomass were expected to be very
+similar. To judge differences in diversity, we calculated
+the Shannon-Wiener Index (Hí) of diversity for
+late-summer assemblages, using species categories
+and density. As a check, we also ran an independent
+ANOVA analysis on Sand Point Lake, a lake where
+there was pre- and post-Bythotrephes sampling, but
+where spiny cladocerans were in relatively low, but
+rising, abundance (Fig. 3).
+In past park surveys, bosminids were placed into
+two categories: a small-bodied species, Bosmina
+longirostris, and a slightly larger species, Eubosmina
+coregoni. Although modern electrophoretic and genesequencing
+studies show that the predominantly
+European species B. longirostris does exist in North
+America, two recently described small-bodied species,
+B. liederi and B. freyii, are the usual upper Midwestern
+species in larger lakes (Taylor et al. 2002; Kerfoot and
+McNaught 2010). The genus Eubosmina can be
+distinguished from the two smaller Bosmina species
+by lateral head pore position. Eubosmina occurs as
+either the larger invasive species E. coregoni, which usually lacks a tail spine (mucro), or the naturally
+occurring slightly smaller species E. longispina, which
+has a well-developed mucro. In our investigations,
+because several species fell under the two genera, for
+convenience we lumped individuals into only two
+categories: Bosmina spp. and Eubosmina spp.
+Principal components analysis
+To help density and biomass variables conform to a
+normal distribution, both were subjected to logarithmic
+transformation. As mentioned earlier, in the
+Spatial and Temporal Contrasts, we used a one-way
+Analysis of Variance (ANOVA) to establish significance
+levels. However, to further investigate and
+display collective correlation patterns between species
+densities, we applied a Principal Component Analysis
+(PCA) ordination on the biomass correlation matrix to
+examine cluster patterns. Factor loadings (eigenvalues)
+for the Principal Components are shown in
+figures for the first three orthogonal axes (eigenvectors).
+Analyses utilized SYSTAT 12 (SYSTAT Software,
+Inc. 2007) on a PC platform. Axes were ranked
+by their eigenvalues and Scree tests indicated the
+appropriate number of significant axes. Typically only
+3ñ4 factors (eigenvalues) were significant, so we
+plotted the first three in a 3-dimensional diagram. The
+clusters aided species-by-species comparisons, so they
+were included in the general treatment.
+Preliminary secondary production calculations
+Potential changes in ëëSecondary Productioníí were
+estimated using the following model from Shuter and
+Ing (1997):
+log10P=Bgs º a ˛ bTgs ˛ U log10gsﬁﬁ
+where P/Bgs is the ratio of ëëSecondary Productioníí to
+ëëBiomassíí over the growing season for taxon categories.
+In the equation, a, b, and U are constants, with
+a being distinct for each of the three taxon categories
+(cladocerans, cyclopoid copepods, and calanoid copepods).
+Values for the constants (a, b, U) were taken
+directly from Shuter and Ing (1997), derived from
+numerous studies. The variables Tgs and gs refer to
+daily temperature (C) over the growing season, and
+the total length of the growing season (days), respectively.
+We arbitrarily defined the growing season to
+coincide with the locally ice-free months of May
+through October, and used the average daily high
+temperature for this time period (19.9 C) as Tgs. After
+calculating a value for log10(P/Bgs), one can solve for P,
+by plugging in the estimated Bgs, based on our biomass
+estimates for each taxon category multiplied by the
+length of the growing season. The obtained pre- and
+post-invasion Pgs values for each zooplankton species
+were summed into the broader cladoceran, cyclopoid
+copepod, and calanoid copepod groupings to obtain preand
+post-invasion total ëëSecondary Productioníí estimates.
+Post-invasion secondary production was then
+compared to pre-invasion secondary production to give
+us a preliminary estimate of declines.
+Laboratory induction experiments
+Prior studies established that small cladocerans, like
+Bosmina, undergo spine elongation and increased
+body size when placed in close proximity to many
+natural invertebrate predators (Kerfoot 1987; Kerfoot
+and McNaught 2010). The transmitting agent may be a
+chemical kairomone, since effects pass through nets
+on submersed bottles (Kerfoot and McNaught 2010;
+Kerfoot and Savage 2016), but may also involve
+physical stimulation (Sakamoto et al. 2007). When
+compared with Bythotrephes, Leptodora is similar in
+its handling responses, reduces small cladocerans, and
+induces spine elongation in Bosmina (McNaught et al.
+2004; Kerfoot and McNaught 2010). Therefore, we
+anticipated that Bythotrephes should induce spine
+defenses in Bosmina.
+For comparing Bosmina responses to Bythotrephes
+relative to an array of natural predators, we utilized a
+split clonal design (see Kerfoot 2006; Kerfoot and
+McNaught 2010). Bosmina stem females were netted
+(125 lm Nitex plankton net, towed vertically) from
+Portage Lake, Michigan, which is connected to Lake
+Superior. Individuals were transferred into finely
+filtered (0.4 lm Millipore) and aged lake water
+(6 month old, refrigerated Portage Lake water) in
+35 mL glass shell vials. Chlamydomonas reinhardii
+(U. Tex 90) was added as food each day, and medium
+changed every 2ñ3 weeks. Breeding parthenogenetically,
+stem females established clonal lines that grew
+exponentially. After a minimum of three generations
+(ca. 2 weeks) to purge maternal effects, a growing
+clone was split into two vials. The split-clonal design featured several advantages: (1) control and predatorexposed
+populations were genetically identical, (2)
+populations initially had similar demography, and (3)
+initial densities of prey (75ñ100 Bosmina/vial) were
+sufficient so that predators normally did not consume
+all prey during the limited time of exposure
+(7ñ12 days). In the small vial (35 mL) exposures,
+Bosmina liederi were tested against several known
+effective predators: the calanoids Epischura lacustris
+and Limnocalanus macrurus, and a suite of predatory
+cyclopoid copepods (Acanthocyclops vernalis, Mesocyclops
+edax), all known residents of Voyageursí
+waters. For comparisons, Bythotrephes was introduced
+in similar fashion as an invasive predatory
+species. All the predators used in this experiment came
+from either Portage Lake or from Lake Superior. More
+details on experimental design, responses of Bosmina
+spp. from numerous geographic locations, and reactions
+to a larger variety of predators, can be found in
+Kerfoot and Savage (2016).
+In the ëëpredationíí treatment, one of the split
+population vials received a single predator (e.g.
+advanced instar cyclopoid copepod Mesocyclops
+edax; calanoid copepod Epischura lacustris, small
+Bythotrephes), whereas the other split population vial
+served as a control. There was initial concern that
+large-bodied predators might consume high numbers
+of Bosmina and differentially deplete smaller instars.
+For this reason, predators were not acclimated to
+laboratory conditions. Moreover, confusion by large
+predators in the well-lit, relatively tight quarters of the
+35 mL vials usually aided survival of prey, offsetting
+initial fears. However, additional concern that large
+predators might deplete oxygen in the small 35 mL
+vials caused us to use only immature stages of largerbodied
+predators. Vial exposures were run for
+7ñ12 days, after which the entire vial contents were
+preserved. If predators died during the experiment,
+they were replaced (less than 20 % of trials). If there
+was any evidence for major size-selective depletion of
+young during the exposure, the results were not
+included in tests. Tests were run on multiple clones.
+All Bosmina were preserved in a 5 % formalin
+solution to which 40 g L-1 of sucrose were added.
+Around 40 Bosmina were haphazardly removed from
+each plankton sample and mounted for measurement.
+Individuals were placed on a glass slide in a 50 %
+glycerin-water mixture. Slides were covered with a
+glass cover-slip and measurements were made under a
+Leitz Wetzler compound microscope at 400X. Features
+measured on all individuals included: (1) total
+body length, (2) length of mucro (tail spine) from base
+to tip, and (3) length of antennule (anterior spine),
+measured from the proximal tooth (setae) to the distal
+tip. If the antennule was curved, measurements
+followed the curvature. Previous studies have established
+that the distribution of spine lengths closely
+resemble the normal distribution, although a positive
+relationship between the standard deviation and mean
+reveals an underlying log normal distribution (Kerfoot
+1988). Moreover, spine length often remains nearly
+constant over body size, simplifying statistical comparisons
+(Kerfoot 1987; Kerfoot and McNaught 2010;
+Kerfoot and Savage 2016). Here mean spine elongation
+(predator treatment spine lengthócontrol length)
+from multiple ëësplit-cultureíí experiments were compared
+using t tests. For cross-comparisons, additional
+induction tests were performed on small-bodied
+Daphnia species, but these results are reported
+elsewhere.
+xresults
+Pre-Bythotrephes pelagic microcrustacean sampling
+(2001ñ2003; Table 2) revealed a diverse assemblage
+of microcrustaceans (cladocerans and copepods),
+initially very similar to the above previously published
+accounts (e.g. Hargis et al. 1981). Some diaptomid and
+cyclopoid species occur throughout the winter in
+pelagic waters (e.g. Limnocalanus, Diaptomus sicilis,
+Acanthocyclops), whereas the majority of microcrustacean
+species emerge from diapausing eggs in spring,
+progressively adding species and individuals to the
+later-season communities. Extensive sampling in all
+the large lakes documented a pre-Bythorephes seasonal
+pattern of increasing biomass and biodiversity
+from spring to summer. Some species showed a
+preference for early-season cooler waters (the cladocerans
+Holopedium gibberum; the cyclopoid Diacyclops),
+whereas others preferred warmer summer
+waters (the cladocerans Diaphanosoma, Bosmina,
+Chydorus, Ceriodaphnia; the cyclopoid
+Mesocyclops).Bythotrephes was first detected in 2007. Invasion by
+Bythotrephes dramatically changed the overall seasonal
+density patterns (Fig. 4). In Fig. 4, the summer
+density pattern for Bythotrephes (solid line) is superimposed
+on the pre- and post-Bythotrephes total
+microcrustacean density patterns (dashed lines; example
+from Namakan Lake). The seasonal timing of the
+microcrustacean decline coincides with the increase in
+Bythotrephes density. Severe depression of cladoceran
+species extends into the fall, when diapausing eggs are
+produced (Table 2). Nauplii and early immature
+copepods also show significant declines in summer
+and fall samples (Table 2). Since Bythotrephes does
+not become abundant in the water column until late
+June, the early spring pattern shows less suppression
+than the summer and fall assemblages. However,
+eventually we expect a carry-over in spring as
+recruitment begins to show effects from a depleted
+egg bank. A few species (D. pulicaria, Bosmina spp.,
+Chydorus) already exhibited significant declines in
+spring (Table 2).
+Spatial contrast: comparison of prey in highdensity
+versus low-density Bythotrephes lakes
+Based on the density of Bythotrephes in 2009ñ2010,
+we divided the lakes into two categories (Fig. 3), one in which Bythotrephes was relatively abundant
+(24.2ñ33.0 individuals m-3; Kabetogama, Namakan,
+Rainy) and the other in which Bythotrephes was
+relatively scarce (0.3ñ5.7 individualsm-3; Sand Point,
+Crane, Little Vermilion; see ëëMethodsíí). The spatial
+comparison contrasted differences between the two
+categories of lakes during 2009ñ2010. Effects on the
+microcrustacean assemblage were both general and
+taxon-specific.
+There were major microcrustacean differences
+between low- and high-density Bythotrephes lakes
+(Fig. 5a; Table 3). Filter-feeding cladocerans suffered
+the greatest reductions in density, with some of the
+smaller-bodied species the most depressed. Significant
+differences are indicated by asterisks. ANOVA (df
+1/42) tests indicated that significantly reduced taxa in
+high-density Bythotrephes lakes included Diaphanosoma
+(F = 54.3, p = 4.3 9 10-9), Daphnia
+mendotae (F = 23.6, p = 1.7 9 10-5), D. retrocurva
+(F = 6.3, p = 0.02), D. longiremis (F = 8.9, p =
+4.7 9 10-3), and Bosmina (F = 28.4, p = 3.6 9
+10-6). Diaphanosoma fell from a density of 11.8
+individuals L-1 in low-Bythotrephes lakes to a low of
+0.2 individuals L-1 in high-Bythotrephes lakes.Daphnia g. mendotae fell from 11.1 individuals L-1 in
+low-Bythotrephes lakes to 3.5 individuals L-1 in high-
+Bythotrephes lakes. The predatory cladoceran Leptodora
+was also significantly reduced, declining from
+0.8 individuals L-1 in low-Bythotrephes lakes to 0.1
+individuals L-1 in high-Bythotrephes lakes (F = 5.3,
+p = 0.03). In the Spatial Contrast, only one cladoceran
+taxon other than Bythotrephes increased in
+density, and that was the cladoceran Holopedium.
+Holopedium density increased significantly (F = 6.5,
+p = 0.01) from 0.3 to 2.9 individuals L-1. Because of
+variance due to clumping, without the long horizontal
+net tows, that increase would have been difficult to
+demonstrate statistically.
+Among the copepods (Fig. 5a), cyclopoid taxa
+generally decreased in density, whereas a few calanoid
+categories increased. The cyclopoid Mesocyclops
+edax decreased significantly (F = 60.9, p = 1.1 9
+10-8) in density from 5.2 to 0.2 individuals L-1,
+whereas Diacyclops thomasi decreased significantly
+(F = 4.1, p = 0.05) in density from 9.8 to 6.4
+individuals L-1. The remaining tallied cyclopoid
+(Acanthocyclops vernalis) declined from 1.9 to 1.1
+individuals L-1, but the decline was not significant.
+Calanoid copepods (the combined category Diaptomidae;
+Epischura lacustris, Limnocalanus mucrurus)
+increased slightly (12ñ15 individuals L-1), but again
+these changes were not significant. In contrast,
+although not included as a category in Fig. 5 or in
+Table 3, nauplii and young copepodites suffered a
+significant decrease from 11.2 to 6.9 individuals L-1
+(F = 5.5, p = 0.02). To view the relative decreases in
+biomass, differences for species are plotted separately
+on a logarithmic scale in Fig. 5b. The graph emphasizes
+that many species were still present after
+Bythotrephes colonization, yet at 1/100th their original
+densities. Whether the species persisted at low levels
+because of continuing recruitment from egg banks
+could not be determined, but the decreases were
+substantial.
+Was there any evidence for reciprocity? That is,
+how much biomass increase occurred versus decrease?
+Holopedium increased from 0.3 % of microcrustacean
+biomass in low-Bythotrephes lakes to 5.7 % in high-
+Bythotrephes lakes. The Spatial Contrast recorded a
+biomass increase of 4.25 lg L-1 for Holopedium (i.e.,
+low-Bythotrephes lakes had only a mean biomass of
+0.39 lg L-1, whereas high-Bythotrephes lakes had a mean biomass of 4.64 lg L-1). The only other
+significantly increasing species, Bythotrephes, had a
+biomass of 0.46 lg L-1 in high-Bythotrephes lakes,
+compared to 0.02 lg L-1 in low-Bythotrephes lakes.
+Combining Bythotrephes plus Holopedium biomass
+gives a 4.7 lg L-1 biomass increase compared to the
+total microcrustacean decrease of 54.2 lg L-1. That
+is, given the significant increases and decreases, the
+differences do not appear balanced, i.e. reciprocal.
+However, the biomass of diaptomid copepods
+increased from 28.5 to 40.3 lg L-1, a difference of
+11.8 lg L-1, which could be important. That is, filterfeeding
+calanoids could be replacing a portion of the
+depressed filter-feeding cladocerans.
+Temporal contrast
+The Temporal Contrast data were derived from an
+independent set of vertical plankton hauls that
+extended over a much greater interval of time, from
+2001 until 2010. Not surprisingly, comparison of postinvasion
+with pre-invasion densities and biomass in
+Kabetogama, Namakan, and Rainy Lakes also documented
+differences in the microcrustacean community.
+Again there were major, similar differences
+among densities and biomass for different taxa (Fig. 6;
+Table 4).
+The long-term temporal data set documented
+similar, but perhaps even more pervasive summer
+changes across the zooplankton community (Fig. 6;
+Table 4). Greater resolution came from the larger
+number of samples, emphasis on the 3 large lakes, and
+restriction to summer samples (see Methods). In
+Fig. 6, biomass differences are again plotted on a
+logarithmic scale. In the Temporal Contrast, again
+almost all filter-feeding cladoceran species were
+depressed in post-invasion samples compared to preinvasion
+conditions. One-way ANOVA (df = 1/232)
+documented significance (Table 4): Diaphanosoma
+(F = 27.5, p = 3.6 9 10-7), Daphnia mendotae
+(F = 5.6, p = 0.02), D. retrocurva (F = 8.7,
+p = 3.4 9 10-3), D. pulicaria (F = 5.5, p = 0.02),
+Bosmina (F = 5.5, p = 0.02), Eubosmina (F = 8.7,
+p = 3.4 9 10-3), Chydorus (F = 6.5, p = 0.01), and
+Ceriodaphnia (F = 5.2, p = 0.02). In the Temporal
+Contrast series, two larger-bodied taxa [Leptodora
+(F = 0.1, p = 0.75) and Holopedium (F = 2.6,
+p = 0.11)] did not change significantly.
+Among cyclopoids, Mesocyclops (F = 20.6,
+p = 9.2 9 10-6) and Diacyclops (F = 8.7, p = 3.5
+9 10-3) decreased significantly,whereas Tropocyclops increased significantly (F = 8.4, p = 4.1 9 10-3).
+Among large-bodied hypolimetic calanoid species, the
+glacial relict species Senecella calanoides (F = 6.2,
+p = 0.01) decreased after Bythotrephes invasion,
+although the other glacial relict, Limnocalanus macrurus,
+did not. None of the other calanoid copepods
+(Diaptomidae, Epischura) and the one remaining
+cyclopoid (Acanthocyclops; F = 1.0, p = 0.31) had
+significant differences. However, again nauplii and
+early copepodites decreased significantly in biomass
+from 5.0 to 3.8 lg L-1 (F = 3.8; p = 0.02). Seasonal
+comparisons (summer, fall) of nauplii and early copepodites
+were also significant (Table 2). ANOVA was
+run separately on Sand Point Lake, to check pre-2007
+versus post-2007 densities in a lake where Bythotrephes
+were at low, but increasing, densities (Table 3). Densities
+for cladoceran taxa were slightly lower, but not
+significant (F = 2.62, p = 0.11).
+As for reciprocal responses in biomass, if overall
+gains are compared to losses, gains amounted to only a
+2.1 lg L-1 gain versus a 84.1 lg L-1 loss. Although
+species responses were very similar to the Spatial
+Contrast, calanoid copepods here posted a 8.7 lg L-1
+decline in total biomass. Thus in this comparison, there
+was even less evidence for filter-feeding calanoids
+increasing to fill a gap left by depressed filter-feeding
+cladocerans, and strong evidence that both cyclopoids
+and calanoids were mutually depressed. A Principal Components Analysis (PCA) of the
+correlation matrix of speciesí biomass, run on Spatial
+Contrast and Temporal Contrast data sets, helped
+clarify speciesí responses. A factor loadings plot of
+microcrustacean responses for the Spatial Contrast
+data is shown in Fig. 7a. Of twelve variables (corresponding
+to the twelve speciesí categories), only four
+latent roots (eigenvalues) fell above 1.00 (1 = 5.14,
+2 = 1.77, 3 = 1.63, 4 = 1.22; where 1.00 is a random
+spread). The total variance explained in the Spatial
+Contrast PCA analysis was high (71.2 % Variance).
+Factor 1 was by far the most important axis (42.9 %
+Variance), weighted primarily by strong positive and
+negative biomass shifts. There was a clear cluster of
+filter-feeding cladocerans (Diaphanosoma, Daphnia,
+Bosmina), omnivorus copepods (Mesocyclops, Diacyclops),
+and one predatory cladoceran (Leptodora) that
+represent taxa strongly reduced in density by Bythotrephes.
+Along the opposite axis direction of Factor 1,
+there were strong loadings for the two species
+(Bythotrephes, Holopedium) that show positive
+increases in density. Between the two extreme clusters
+lie two calanoid copepods with weaker positive
+density responses (Epischura, Diaptomidae), and
+two additional copepods with weak density declines
+(Acanthocyclops, Limnocalanus). Factors 2 and 3
+more strongly separated out the latter two clusters, the
+first two positive and the last two more strongly
+negative. Recall that Bythotrephes is largely epilimnetic,
+whereas the latter clusters with hypolimnetic
+species (some Diaptomidae, Limnocalanus) could be
+illustrating weak, independent fluctuations.
+A 3-dimensional PCA plot for the summer-season,
+Temporal Contrast correlation matrix was similar
+(Fig. 7b), but explained less total variance, about
+50 % (49.7 %). Again, positive and negative biomass
+responses dominated clustering. The first (25.5 %
+variance) and third (10.4 % variance) factors separated
+species depressed by Bythotrephes (a cluster of
+cladocerans Diaphanosoma, Bosmina, Chydorus,
+Daphnia retrocurva, D. mendotae; D. pulicaria; the
+copepods Mesocyclops edax and Diacyclops), whereas
+the opposite extreme along the axis clusters species
+showing biomass increases associated with Bythotrephes
+(Tropocyclops, and Epischura). The third
+cluster contained Scenecella and Limnocalanus, both
+cold-water, hypolimnetic calanoid copepods. Neither
+of the latter species occurs directly with Bythotrephes
+in epilimnetic waters, thus the latter correlations may
+again represent independent effects.
+Density shifts in spring-fall seasonal patterns
+Comparing pre- with post-Bythotrephes assemblages in
+the larger lakes (Fig. 8), the late summer cladoceran
+peak that was so characteristic of Kabetogama,
+Namakan, and Rainy Lakes prior to Bythotrephes
+completely disappeared. Using Rainy Lake as an
+example, the pre-Bythotrephes pattern of low total
+zooplankton density in spring (e.g. 5ñ20 organisms
+L-1) was followed by a late-summer to early fall
+maximum density peak (60ñ150 organisms L-1). After
+Bythotrephes, summer and early fall densities fell
+below 20 organisms L-1. All three large lakes showed
+similar biomass shifts. After Bythotrephes colonization,
+the late-season reduction in total zooplankton density
+was so pronounced that the relative seasonal pattern
+reversed. Zooplankton in Bythotrephes lakes were now
+more abundant in spring (15ñ60 organisms L-1) than in
+summer (5ñ20 organisms L-1).
+Biomass, secondary production, and diversity
+comparisons
+In the Spatial Contrast, biomass and diversity were
+influenced by Bythotrephes abundance (Fig. 9;
+Table 3). In low-density Bythotrephes lakes, the
+biomass of microcrustaceans averaged
+135.6 ñ 6.2 lg L-1. Of that total, cladocerans
+amounted to 60.6 ± 9.5 lg L-1 (45 %) and copepods
+75 ± 4.4 lg L-1 (55 %). Within high-Bythotrephes
+lakes, total biomass fell to 81.4 lg L-1. Of that total,
+cladocerans declined to a biomass of only
+14.2 ± 1.1 lg/L (17 %), whereas copepods made up
+a biomass of 67.3 ± 6.4 lg/L (83 %). Cladocerans
+and certain species of cyclopoid copepods were
+reduced, as the assemblage moved relatively towards
+calanoid copepods. For late summer, the Shannon-
+Wiener Index (Hí) of diversity was 1.98 in low-density
+Bythotrephes lakes compared to 1.22 in high-density
+Bythotrephes lakes (t test; p = 0.035*). Reduced
+density of cladoceran and copepod taxa contributed
+to the decline in the index.
+In the Temporal Contrast series (Fig. 9; Table 4),
+biomass plots again emphasize the severe losses among cladoceran species, but also accumulative
+losses in copepod species. Pre-invasion total biomass
+was 142.9 lg L-1, of which 67.6 lg L-1 (47 %) was
+cladoceran and 75 lg L-1 (52 %) was copepod, very
+close to the low-density Spatial Contrast tallies. In
+post-Bythotrephes samples, total mean biomass was
+reduced to 59 ± 1.2 lg L-1 (60 % reduction), with a
+corresponding 12 ± 0.7 lg L-1 (82 % reduction) for
+cladoceran biomass and 47 ± 2.6 lg L-1 (38 %
+reduction) for copepod biomass. After Bythotrephes,
+cladocerans made up only 20.5 % of the microcrustacean
+biomass, whereas copepods made up 79.5 % of
+the microcrustacean biomass. Again, on a relative
+basis the assemblage moved strongly towards calanoid
+copepods. Mid-summer diversity also declined as the
+Shannon-Weiner Index of diversity fell from 2.26 to
+1.81 (t test; p = 0.015*).
+As discussed in the Methods, changes in secondary
+production were estimated using the following model
+from Shuter and Ing (1997): log10(P/Bgs) =
+a ? b(Tgs) ? U(log10(gs)), where P/Bgs is the ratio
+of secondary production (P) to biomass (B) over the
+growing season for a specific taxon (i.e. cladocerans,
+cyclopoid copepods, or calanoid copepods), a, b, and
+U are constants, with a being distinct for each of the
+three taxa (cladocerans, -1.725; cyclopoid copepods,
+-1.766; and calanoid copepods, -2.458). Corresponding
+estimates for B were: cladocerans 0.044;
+cyclopoids, 0.040, and calanoids 0.050). The variables
+Tgs and gs refer to daily temperature (C) over the
+growing season, and the total length of the growing
+season (days), respectively. The growing season was
+estimated as 215 days. Annual production was the
+product of three distinct variables: the average daily
+weight-specific production rate, the average biomass
+over the growing season, and the length of the growing
+season. Pre-invasion production for all microcrustaceans
+(cladoceran, cyclopoid, and calanoid taxa)
+was estimated at 744 g/m3/year, whereas post-invasion
+production was estimated at 245 g/m3/year. The
+difference amounted to a reduction of 67 %. The
+pronounced production decline was largely
+attributable to serious biomass losses (B) during the
+warm summer months of cladoceran taxa plus the
+longer lifespans of calanoid and cyclopoid copepods
+relative to cladocerans. To underscore how changing
+community differences influence production values,
+median P/Bgs values for cladocerans and calanoids
+from Shuter and Ing (1997) were estimated as 0.16 and
+0.04, respectively, indicating a four-fold difference
+between cladocerans and calanoids.
+Laboratory induction experiments
+Tests with co-occurring natural predators showed that
+spines responded strongest to the calanoid copepod
+Epischura and to an assortment of predatory calanoid
+copepod and cyclopoid copepods know to commonly
+co-occur with, and be effective predators on, Bosmina.
+Responses were greatest to Epischura, although
+increases in mucro (posterior spine) and antennule
+(anterior spine) lengths were intermediate in a suite of
+cyclopoid and calanoid copepods (Limnocalanus,
+Mesocyclops, Acanthocyclops). When mean responses
+(Fig. 10) are plotted, Bosmina failed to respond
+significantly in mucro and antennule length to the
+exotic species Bythotrephes (mucro df = 1121;
+F = 0.162, p = 0.69; antennules df = 1121, F =
+2.83, p = 0.10). Whereas these preliminary experiments
+tested only Bosmina liederi, they clearly show
+that this small cladoceran is not enlarging defensive
+spines against the invasive Bythotrephes, increasing
+its susceptibility to predation. The results suggest that
+some prey species may not perceive the predatorís
+presence and are ëëblind-sidedíí by the predator.
+xdiscussion
+Because of its size, the Voyageurs Park study allowed
+for two separate comparisons, a spatial and a temporal.
+Results of the two comparisons were basically similar,
+i.e. severe depression of summer cladoceran populations
+and certain cyclopoid taxa in summer and early
+fall. As compared to other small and large lake studies,
+we clearly show that effects are large enough to
+strongly influence basic seasonal patterns of microcrustacean
+biomass and secondary productivity. Typically
+early spring assemblages of calanoid and
+cyclopoid copepods transition into more dense summer
+assemblages of mixed copepods and cladocerans.
+Bythotrephes not only halved normal summer densities,
+it reversed the seasonal density pattern, severely
+reducing late season cladoceran density and biomass.
+Summer biodiversity was decreased, as lake assemblages
+were pushed more towards a mixture of
+calanoid copepod species.(ëëlow-densityíí versus ëëhigh densityíí) involved clustering
+Crane Lake (0.3 Bythotrephes/m3) and Little
+Vermillion Lake (0.5 individuals/m3) together with
+Sand Point Lake (5.7 individuals/m3). The ëëhighdensityíí
+lakes featured similar, high densities (Rainy,
+Kabetogama, Namakan; 24ñ33 Bythotrephes/m3). In
+addition, the large lakes were more closely connected
+relative to geographic distribution and water
+exchange, factors which probably contributed to
+similar high Bythotrephes densities. Some workers
+argue that Bythotrephes effects are evident at densities
+as low as 2ñ3 Bythotrephes/m3 (Boudreau and Yan
+2003). A separate cross-comparison between Sand
+Point Lake and the other two low-density lakes did
+show weak, but significant, effects (45 % reduction in
+cladoceran densities; ANOVA, F = 5.84, p = 0.018,
+F crit = 3.99). The weak effects, even at low densities,
+probably contribute to the reduced differences in
+the Spatial Contrast comparison relative to the
+Temporal Contrast result.
+Whereas there was substantial (40ñ60 %) loss of
+summer standing zooplankton biomass in Voyageurs,
+there was an even greater reduction in secondary
+production (67 % decline) for three reasons: (1)
+serious reduction of summer-fall biomass, (2) loss of
+biomass during the warm season of the year (influencing
+P/B ratio), and (3) a shift of the community
+towards calanoid copepods that have longer generation
+times (slower turnover) than cladoceran assemblages.
+Cladocerans are generally considered much
+more productive than copepods, about four times more
+productive (P/B ratios: cladocerans 0.16, cyclopoid
+copepods 0.10; calanoid copepods 0.04; Shuter and
+Ing 1997). Cladocerans also have greater estimated
+filter-feeding rates for algae (Peters and Downing
+1984), raising intriguing questions of cascading
+trophic effects up and down food webs. The decline
+in secondary production indicates a loss of energy
+available to higher trophic levels, one that may have
+cascading impacts on small planktivorous fish. Staples
+et al. (in prep) found growth rates of young-of-the-year
+yellow perch, for which Daphnia are a major dietary
+source during summer, to be reduced in both Rainy
+and Kabetogama lakes after the Bythotrephes invasion.
+Since yellow perch are an important prey item in
+these lakes, the observed decrease in growth rates
+could also affect piscivorous fish and birds as well.
+The substantial decline in zooplankton biomass,
+and especially cladoceran filtration, in Voyageurs also Decreases were sometimes less in the Spatial
+Contrast than in the Temporal Contrast comparisons,
+probably because Bythotrephes were present in all
+Spatial Contrast lakes, although at different relative
+densities, and there was the issue of water exchange
+between lakes. In comparison, the Temporal Contrast
+involved a simple 100 % before-after comparison in
+the large lakes. The Spatial Contrast dichotomy sets up a test for grazing release of phytoplankton
+populations. Under conditions of abrupt grazer
+decline, we should expect an increase in phytoplankton
+biomass, especially under more productive (eutrophic,
+mesotrophic) conditions. If biomass
+perturbations are severe in lakes that differ in productivity,
+the top-down effects should allow for a
+convenient test of the ëëtrophic cascadeíí hypothesis
+relative to bottom-up effects (Carpenter et al. 1985). In
+this regard, early comparisons of Bythotrephes invasion
+in oligotrophic Lake Michigan, did not associate
+cladoceran decrease with phytoplankton increase
+(Lehman 1988; Lehman and Ca¥ceres 1993). A weak
+to nonexistent cascade effect was also reported by
+Strecker et al. (2011) for geographic comparison of 22
+Canadian Shield lakes, following cladoceran depression
+by Bythotrephes. Productivity in those Canadian
+lakes was again very low, so that algae may be limited
+more by nutrient concentrations (bottom-up) than by
+grazing (top-down). Oligotrophic lakes are less likely
+to show top-down effects at lower trophic levels
+because of strong counter bottom-up forces (Leibold
+et al. 1997; Jeppesen et al. 2003). That is, grazers are
+more food-limited than predator-limited, so that
+release from predation does not result in a major
+response. In experimental mesocosms, increases in
+chlorophyll (phytoplankton biomass) in the presence
+of Bythotrephes, consistent with trophic cascades,
+have been observed (Strecker and Arnott 2005). An
+intensive study of Kabetogama Lake, the most
+productive of the Voyageursí lakes, conducted during
+2008ñ2009, provided some evidence for increases in
+Chl a concentrations and primary productivity compared
+to earlier measurements (Chrisensen et al.
+2011), yet a direct connection to Bythotrephes presence
+has not yet been established.
+In our studies, the primary mechanism of microcrustacean
+biomass depression seems to come through
+direct consumption of zooplankton species (Fig. 11).
+Spatial comparisons showed that most small cladoceran
+populations (D. retrocurva, Bosmina, Ceriodaphnia,
+Chydorus) were severely depressed in
+summer and early fall, when Bythotrephes was most
+abundant. Larger Daphnia mendotae showed only
+modest reductions, and persisted in the large lake
+complex. Daphnia mendotae has the ability to migrate
+into hypolimnetic waters, away from epilimnetic
+Bythotrephes, and this trait undoubtedly aids its
+survival in other large lakes (e.g. Lake Michigan;
+Lehman and Ca¥ceres 1993; Pangle et al. 2007).Springtime abundances of cladocerans are strongly
+associated with Bythotrephes abundance (Young et al.
+2011). However, the escape response of D. mendotae
+to Bythotrephes is also fairly effective (Pichlova-
+Ptacnikova and Vanderploeg 2011). It is intriguing
+that D. mendotae in the Laurentian Great Lakes
+contain D. galeata genes (Kerfoot and Weider 2004),
+which might account for some of the superior evasive
+traits (Bourdeau et al. 2013). Although not a smallbodied
+cladoceran, Daphnia pulicaria was severely
+reduced to one tenth of its former abundance. Severe
+reduction of D. pulicaria was also noted when
+Bythotrephes invaded Lake Michigan (Lehman and
+Ca¥ceres 1993; Schulz and Yurista 1999). The large
+cladoceran Holopedium was exceptional in that it
+benefited from Bythotrephes presence in the Spatial
+Contrast data from Voyageurs, similar to the circumstance
+reported from Harp Lake (Yan and Pawson
+1997; Yan et al. 2002). Holopedium is protected by
+virtue of being enclosed in a gelatinous sheath, which
+is recognized as an effective deterrent against
+invertebrate predators (Stenson 1973, 1987; OíBrien
+et al. 1979). Holopedium probably also benefited from
+reduced competition, as other cladocerans were driven
+to low densities.
+Responses of individual copepod genera to Bythotrephes
+appeared more complex, probably operating
+through a combination of direct and indirect pathways
+(Fig. 11). In both the spatial and temporal comparisons,
+naupliar stages of copepods were reduced.
+Bythotrephes probably ingested cyclopoid nauplii as
+an important part of their diet, a circumstance noted by
+Nauwerck (1993), in Lake Huron enclosure experiments
+by Vanderploeg et al. (1993), and in Harp Lake
+enclosure studies by Dumitru et al. (2001). The latter
+should not be surprising, as naupliar stages appear to
+be vulnerable to Bythotrephes (Schulz and Yurista
+1999), although copepodid and adult stages of
+calanoid and cyclopoid species possess better evasive
+swimming skills than cladocerans (Kerfoot et al. 1980;
+Schulz and Yurista 1999; Bowers and Vanderploeg
+1982). Several omnivorous copepods suffered density
+declines. Mesocyclops was strongly depressed in both
+the spatial and temporal comparisons, whereas Diacyclops
+and Acanthocyclops were depressed marginally
+in the spatial comparison, and strongly in the
+temporal analysis. Adult cyclopoid copepods are
+rarely found in the diets of Bythotrephes (Lehman
+and Branstrator 1995; Schulz and Yurista 1999;
+Yurista et al. 2010). The major decreases of Mesocyclops,
+Diacyclops, and Acanthocyclops were probably
+indirect, a consequence of omnivorous copepodid to
+adult stages competing for prey items (small cladocerans
+and rotifers) depleted by Bythotrephes. Hence
+in our hypothesized food web (Fig. 11), we have
+Bythotrephes both directly and indirectly impacting
+cyclopoid copepods.
+The observed responses in Voyageurs also resemble
+results from published mesocosm experiments.
+Strecker and Arnott (2005) found reductions in small
+cladocerans (Bosmina, Eubosmina), cyclopoid copepods
+and calanoid copepods, and again increases in
+Holopedium. Biomass and biodiversity repercussions
+were greatest in the initially most diverse community,
+counter to their initial expectations that high biodiversity
+in natural communities protects against consumer
+impacts from invasives.
+We emphasize long-term concern about progressive,
+accumulative effects of Bythotrephes presence.
+In particular, prolonged contact with cladoceran prey in late summer and early fall leads to severe prey
+population declines during the prime period of
+diapause egg production, a condition that, if not
+reversed, will eventually lead to failure of spring egg
+hatching (recruitment). Although spring recruitment
+reduction appears evident in only a few species
+(Table 2; D. pulicaria; Bosmina; Chydorus), we
+suggest that egg bank depletion over time requires
+study and may contribute to long-term progressive
+negative effects.
+In Europe, Bythotrephes often co-exists with the
+very array of species suppressed in North American
+Lakes. For example, in Lake Constance, Bythotrephes
+co-exists with two Daphnia species, two Bosmina
+species, Eudiaptomus gracilis, three cyclopoid copepod
+species, and the predatory cladoceran Leptodora
+kindtii (Straile and Haelbich 2000). Why does the
+spiny cladoceran, an invasive species, have such a
+widespread effect on North American resident assemblages,
+but not a comparable effect on European
+assemblages of similar composition? We would argue
+that natural selection and evolution of defensive
+mechanisms in prey species over time is a key
+response circumvented by Bythotrephes (for natural
+responses to Epischura and Leptodora, see Kerfoot
+and McNaught 2010). An upcoming article (Kerfoot
+and Savage 2016) discusses 55 split-clone experiments
+with three small prey species and 12 different
+predators from three locations in North America and
+three in Europe. The study shows that prey ëëcountermeasuresíí
+are common in pelagic food-webs. We
+would argue that when a prey species fails to increase
+defenses to an efficient predator, something is seriously
+wrong. Although our example is admittedly only
+one taxon (Bosmina), we suggest that many New
+World zooplankton species are blind-sided, i.e. they
+simply do not recognize the presence of Bythotrephes
+in the water column and do not deploy natural
+behavioral (vertical migration) or morphological
+(body size, spines) defenses, the kinds of resistant
+traits that allow potentially vulnerable prey to co-exist
+with predators in natural assemblages.
+Interpretations for Great Lakes communities
+Because of multiple stressors, unraveling impacts of
+invasive species on Laurentian Great Lakes pelagic
+communities, the original source of Bythotrephes
+before its inland spread, poses problems. Factors such
+as other exotic species (quagga and zebra mussels),
+changes in fish stocking, or trends in nutrient loading
+(phosphate abatement), all complicate interpretations
+of top-down and bottom-up effects in the Laurentian
+Great Lakes (Bunnell et al. 2014). Another consideration
+is scale, for the enormous size and interconnected
+hydrodynamic nature of the Great Lakes
+creates conditions more suitable for metapopulation
+analysis. Yet there is a growing sense of urgency as
+planktonic biodiversity is related to lake size, and
+nowhere are there are there as many pelagic freshwater
+zooplankton species as in the Great Lakes (Dodson
+1992; Kerfoot et al. 2001). The Voyageurs Lake
+system is also a large lake interconnected system, with
+relatively high species diversity, yet is not as complicated
+in time or space with ancillary issues (mussel
+introductions, fish or nutrient perturbations). Voyageurs
+could provide insight into how Bythotrephes
+perturbations now are influencing Laurentian Great
+Lakes zooplankton communities or will be influencing
+Lake Champlain. Recent collapse in alewife populations
+in the Great Lakes released Bythotrephes from
+top-down limitation (Jarnagin et al. 2004; Pothoven
+et al. 2007; Pothoven and Madenjian 2008), initiating
+increased Bythotrephes densities and a second round
+of microcrustacean community responses.
+The responses to Bythotrephesí predation seem
+complex, but make sense as a simple top-down
+interaction. Bythotrephesí position in the lakeís food
+web is illustrated in Fig. 11. The spiny cladoceran is
+consumed by planktivorous fish, and preys directly on
+cladocerans and copepod nauplii (ëëdirect effectíí).
+However, because omnivorous copepods also draw
+from the small-bodied cladoceran pool, there could
+also be an ëëindirect effectíí upon cyclopoid densities.
+After colonization in the mid-1980s, Bythotrephes
+rose to densities in Lake Michigan and Huron of 20ñ80
+individuals m-3 by 1988ñ1998, then declined to 5ñ15
+individuals m-3 in 1999. Initial impacts on zooplankton
+communities in Lakes Superior, Huron, and
+Michigan included declines in the following species:
+Leptodora kindtii, Daphnia pulicaria, Daphnia retrocurva,
+Eubosmina coregoni, and Mesocyclops edax,
+i.e., very similar to changes seen in Voyageurs. In the
+middle and eastern basins of Lake Erie, the list
+included two additional depressed taxa: Daphnia
+mendotae and Diaphanosoma birgei, again similar to
+changes observed in Voyageurs. Daphnia mendotae
+experienced an initial decline in Lakes Michigan and Huron (Lehman and Ca¥ceres 1993), but subsequently
+increased to pre-Bythotrephes levels or above (Barbiero
+and Tuchman 2004). Again, there are similarities
+as D. mendotae seems to persist in Voyageurs. Since
+alewife collapse in Lake Ontario and subsequent
+Bythotrephes increase, Leptodora kindtii, Daphnia
+retrocurva, Bosmina and Eubosmina, Diaphanosoma
+birgei, and Mesocyclops edax have all seriously
+declined, whereas Holopedium gibberum has dramatically
+increased (Barbiero, personal communication),
+again very close to changes observed in Voyageurs.
+Recent reductions of cyclopoid copepod species
+(Mesocyclops, Acanthocyclops, Diacyclops) in Lakes
+Michigan, Huron, and Ontario, also suggest the longterm
+trends seen in Voyageurs lakes. The cyclopoid
+collapses in the Laurentian Great Lakes were initially
+difficult to interpret (Kerfoot et al. 2010). However,
+the observed changes in the Laurentian Great Lakes so
+closely resemble modifications observed in Voyageurs
+assemblages following introduction of Bythotrephes,
+that they are interpretable as similar top-down direct
+and indirect effects, superimposed upon declining
+productivity (bottom-up effects) associated with
+quagga and zebra mussels. All these observations
+suggest that the microcrustacean declines recently
+observed in the Laurentian Great Lakes are not
+necessarily connected to the bottom-up declines in
+productivity brought about by mussels, but are more
+closely related to a secondary collapse of planktivorous
+fish density, one that has created a series of
+transitory perturbations coursing through the foodweb
+system in top-down fashion. At the moment,
+Laurentian Great Lakes assemblages also seem to be
+moving towards a set of calanoid copepods, Daphnia
+mendotae, and the resistant cladoceran Holopedium,
+again much as seen in Voyageurs National Park.

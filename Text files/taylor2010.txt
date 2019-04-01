@@ -1,0 +1,568 @@
+﻿xabstract
+Invasive primary producers can dramatically reorganize food webs through detrital subsidies.
+This study assessed (1) contributions of the invasive alga Caulerpa taxifolia to detrital
+resources of temperate Australian estuaries, and (2) effects of these contributions on sedimentdwelling
+invertebrates. In an invaded estuary, sampling of an intertidal shore indicated C. taxifolia
+fragments were consistently present in organic matter deposits and were particularly abundant following
+storms. Sampling of the alga across 6 invaded estuaries showed that the ratio of organic carbon
+to nitrogen (C:N) in fresh tissue varied between 7 and 16. To determine how C. taxifolia detritus
+influences benthic macrofaunal assemblages and whether this influence depends on the quantity and
+C:N ratio of C. taxifolia detritus, a manipulative field experiment was performed. On a sheltered
+intertidal mudflat, 0.25 m2 plots of sediment were experimentally enriched with either a high (90 g
+DW) or low (30 g) loading of high C:N (14) or low C:N (7) C. taxifolia detritus. Experimental enrichment
+negatively affected the total abundance and species richness of macroinvertebrates relative to
+controls, and these effects increased with detrital loading. For some macrofauna, reducing the C:N
+ratio tended to exacerbate negative effects on abundances, whereas it moderated these effects for
+other species. Given that organic matter derived from invasive species can be transported beyond the
+distribution of live invaders, greater consideration should be given to the potential broad-scale effects
+of invasive primary producers on detrital pathways.
+
+xintroduction
+Detritus (i.e. decaying dedead organic matter) serves
+as an important source of energy and nutrients in many
+aquatic and terrestrial food webs (Polis & Strong 1996,
+Moore et al. 2004). Detritus is directly consumed by
+some detritivores (Findlay & Tenore 1982) or is the
+indirect source of nutrition for other organisms that
+consume microorganisms stimulated by detrital breakdown
+(Rublee 1982). Detritivores are in turn eaten by
+secondary consumers that fuel higher trophic levels
+(e.g. Chen & Wise 1999).
+Detritus is frequently transported across ecosystem
+boundaries by water, wind or animals (see Polis et al.
+1997). Hence, the detritus supporting a particular food
+web may come from autochthonous or allochthonous
+sources, which are of varying value to food webs
+(Moore et al. 2004). Refractory sources of detritus,
+which have a high carbon to nitrogen ratio (C:N), are
+composed of complex structural materials, providing
+more prolonged nutrition to slow growing consumers
+with powerful digestive mechanisms (Tenore et al.
+1979). Detritus derived from less structurally complex
+biota with a high nitrogen content, termed labile
+sources, typically degrades rapidly and produces a
+short-term nutritional source to fast growing consumers
+(Tenore 1977). Although the C:N ratio of detritus
+can change during degradation (Anderson 1973,
+Suberkropp et al. 1976), the starting C:N ratio is a good
+predictor of decomposition rate (Enriquez et al. 1993).
+Invasive primary producers are an increasingly large
+component of detrital pools (Kennedy & Hobbie 2004,
+Rodil et al. 2008) and have the potential to markedly
+alter their value. Many successful invaders have rapid
+individual growth, early maturity, a short life span,
+high fecundity, minimal structural defence and extensive
+dispersal capacity (Lodge 1993, Schaffelke et al.
+2006). Consequently, invasive primary producers tend
+to generate large amounts of labile detritus with a low
+C:N ratio, which is more readily decomposed than is
+litter from native species (Vitousek et al. 1987, Ashton
+et al. 2005). Whereas small amounts of refractory detritus
+may fuel productivity, large quantities of labile
+detritus may induce sediment anoxia (Pearson &
+Rosenberg 1978). This phenomenon may be exacerbated
+in areas of nutrient enrichment where invasive
+primary producers, which tend to display plasticity in
+physiological traits (Callaway et al. 2003, Funk 2008),
+may acquire a much higher nitrogen content than in
+less enriched environments.
+In general, the potential effect of organic material
+from invasive species on detrital pathways of nutrition
+is rarely considered. The first studies to address effects
+of invasive species on detritus considered only
+changes in the decomposition processes (e.g. Allison &
+Vitousek 2004, Kennedy & Hobbie 2004, Ashton et al.
+2005). Recent studies have now begun to consider
+effects propagating through the food web to consumers
+(Levin et al. 2006, Rodil et al. 2008, Whitcraft et
+al. 2008, Casu et al. 2009). No studies have investigated
+whether effects are greater when the detrital
+material has come from a source growing in nutrientenriched
+environments, where the invasive plant may
+rapidly assimilate nitrogen, making its detritus a more
+labile resource.
+Caulerpa taxifolia (Vahl) C. Agardh is an invasive
+marine macroalga from the phylum Chlorophyta, of
+which 7 of the 9 orders contain introduced species
+(Schaffelke et al. 2006). The invasive alga earned notoriety
+from its proliferation in the Mediterranean (see
+Meinesz et al. 2001), but since 2000 has also established
+in 13 estuaries or coastal lakes of New South
+Wales (NSW), Australia. Research into C. taxifolia has
+focused largely on its range expansion (e.g. Meinesz et
+al. 2001) and effects of the live alga on local seagrass
+populations (Ceccherelli & Cinelli 1997, Ceccherelli &
+Sechi 2002, Holmer et al. 2009), epi- and in-fauna (Gollan
+& Wright 2006, Wright et al. 2007, Gribben et al.
+2009, McKinnon et al. 2009) and fish assemblages
+(York et al. 2006). Also, C. taxifolia also has the potential
+to markedly alter detrital pools. C. taxifolia easily
+fragments and can be transported large distances
+(Ceccherelli & Cinelli 1999, West et al. 2009), it contains
+the secondary metabolite Caulerpenyne that can
+deter some herbivores and limit fouling (Lemée et al.
+1993, Amade & Lemée 1998). Caulerpa spp. are known
+to rapidly assimilate nitrogen from their environments
+(Chisholm & Moulin 2003, Lapointe et al. 2005).
+This study provides the first assessment of the effects
+of detritus derived from Caulerpa taxifolia. An observational
+component documents the contribution of
+C. taxifolia to detrital resources of temperate Australian
+estuaries, whilst a detrital addition experiment
+assesses effects of C. taxifolia detritus to sediment
+communities. It is anticipated that (1) in an invaded
+estuary, C. taxifolia will be a temporally persistent,
+though proportionately variable, component of wrack
+deposits; (2) among invaded estuaries, the C:N ratio of
+the material deposited will be spatio-temporally variable;
+and (3) the quantity and initial quality of C. taxifolia
+detritus enriching sediments will determine the
+effect on infaunal assemblages. The detrital addition
+experiment thereby provides the first test of how plasticity
+in the traits of an invader (C:N ratio) can affect its
+consumers. Understanding effects of invasive species
+on detrital resources is critical, given the importance of
+this pathway in determining food web structure.
+
+
+xmethods
+To determine whether in an invaded estuary
+Caulerpa taxifolia is a persistent component of
+wrack deposits and displays significant temporal variability
+in its contribution, monthly samples of wrack
+(dislodged macrophytic matter) were collected between
+February and July 2007 from the southern side of
+Botany Bay (33° 59’ S, 151° 12’ E), a large embayment,
+15 km south of Sydney. On each sampling date, 5 replicate
+samples of wrack, floating in the shallow water of
+the intertidal zone (~mean low water [MLW], +0.4 to
+0.6 m), were collected at each of 2 sites using a 250 ×
+190 mm dip net. The sites were 260 m apart and were
+not places where living C. taxifolia was growing. Each
+site was sampled on an incoming tide at ~0.5 m water
+depth. We chose to sample wrack on, rather than below,
+the sediment surface because the particulate
+nature of material incorporated into sediments makes it
+difficult to identify to species. We also expected that C.
+taxifolia in sediments would rapidly decompose, making
+the standing stock in sediments a poor metric of the
+contribution of C. taxifolia to detrital pathways. Observations
+of some larger C. taxifolia fragments in sedi-
+ments in these and other sites around Botany Bay indicate
+that much of this material ends up in sediments.
+In the laboratory, wrack samples were washed over a
+6.7 mm sieve to remove sand and shell grit. In each
+sample, Caulerpa taxifolia was separated from other
+wrack components, dried at 60°C to a constant weight
+(DW), and weighed. The combined DW of the other
+detrital fractions was also determined to calculate the
+percentage contribution of C. taxifolia to the total
+detrital biomass. The temporal contribution of C. taxifolia
+to wrack deposits was then used to ascertain high
+and low loadings to be added to sediments in the
+manipulative field experiment, also conducted in this
+estuary (see ‘Experimental namipulation of quantity
+and quality of detritus’).
+To ascertain how the C:N ratio of Caulerpa taxifolia
+varies across large spatio-temporal scales, C. taxifolia
+was collected from 6 estuaries where the alga is established:
+Pittwater (33° 35’ S, 151° 19’ E), Botany Bay
+(34° 00’ S, 151° 14’ E), St Georges Basin (35° 11’ S,
+150° 36’ E), Lake Conjola (35° 16’ S, 150° 30’ E), Narrawallee
+Inlet (35° 18’ S, 150° 28’ E) and Burrill Lake
+(35° 24’ S, 150° 27’ E). Within each estuary, a 200 to
+300 g sample of live C. taxifolia was randomly taken
+from at least 1 location, but more typically 2 to 3, separated
+by kilometres. Where possible, samples were collected
+from each location on multiple dates during the
+warm months (November to May; see Table 1). Each
+sample was dried at 60°C prior to transport back to the
+laboratory to avoid any changes in C:N ratio as a result
+of degradation. Upon return to the laboratory, each
+sample was ground into a fine powder using a ball mill.
+Total organic C and N of a ~0.2 g sub-sample were
+determined as a percentage using a CHN analyser
+(Leco TrueSpec CN). We ascertained the C:N ratio of
+live material as opposed to wrack, to minimise variability
+due to differences in the age of the material. A pilot
+study in Botany Bay indicated that the C:N ratio of
+fresh wrack samples washed up on shore was within
+the range found within live specimens collected from
+this estuary.
+A field experiment investigating effects of
+Caulerpa taxifolia detritus on soft sediment macrofauna
+was done on an intertidal mudflat in Quibray
+Bay (33° 59’ S, 151° 12’ E), on the south side of Botany
+Bay (Bishop et al. 2007). The mudflat receives organic
+matter inputs from an adjacent Avicennia marina mangrove
+forest, intertidal and shallow subtidal seagrasses,
+and seasonally, from dense patches of C. taxifolia
+within and around the seagrass (S. L. Taylor pers.
+obs.). Experimental enrichments of C. taxifolia detritus
+were done at a tidal height of MLW neap + 0.4 m, in
+0.25 m2 sediment plots, separated by 1 m and marked
+with a PVC stake such that they were open to mobile
+species. A small spatial scale was chosen for manipulation
+of C. taxifolia detritus because mudflats are typically
+‘patchy’ in resources on a spatial scale of metres
+(Thrush 1991, Kelaher & Levinton 2003), with organic
+material tending to accumulate in depressions formed
+by bioturbation e.g. by sting rays.
+The experiment had 5 treatments: 2 fully orthogonal
+factors, quantity and quality of Caulerpa taxifolia detritus,
+each with 2 fixed levels, and an unenriched control.
+The 2 levels of detrital quantity were high (90 g
+DW) and low (30 g DW). The high quantity was based
+on observations of C. taxifolia washed up on shores following
+severe storms in winter, the season in which
+there is also typically a reduction in C. taxifolia biomass
+(see ‘Results’). The low quantity represented a
+deposit more likely to occur during normal weather
+periods. The 2 levels of detrital quality were nitrogenrich
+(low C:N of 7.5 ± 0.3, n = 4, from Silver Beach,
+NSW) and nitrogen-poor (high C:N of 13.9 ± 0.9, n = 4,
+from Pittwater, NSW) C. taxifolia detritus. Two detrital
+qualities were used following evidence of differences
+in C:N ratios of C. taxifolia among and within NSW
+estuaries (see ‘Results’). The 2 different quality types
+were harvested from live beds of C. taxifolia, dried at
+60°C to constant weight and the quality determined
+using CHN analysis as described above. The control
+treatment did not receive any detritus but was otherwise
+treated identically to the C. taxifolia addition
+treatments. Seven plots were randomly assigned to
+each of the 5 treatments.
+Caulerpa taxifolia was added to plots assigned to the
+addition treatments in a dried, shredded (<2 mm diameter)
+form. This was to represent natural wrack, which
+on mud flats experiences drying at low tide and often
+needs to be mechanically broken down before it can be
+incorporated into intertidal sediments. Drying the C.
+taxifolia before adding it to the plots also prevented
+significant decomposition from occurring between collection
+and the experiment, which would have lead to
+heterogeneity in C:N ratio. When rehydrated in the
+sediment, the detritus was expected to break down
+and subsequently the C:N ratio would change, but the
+starting quality was constant for all replicates within a
+treatment. Experimental additions of detritus were
+performed by hand-churning the shredded C. taxifolia
+into the top few centimetres of experimental plots. Previous
+studies have shown this method of addition successfully
+manipulates detrital quantity at this and other
+sites (see Kelaher & Levinton 2003, Bishop & Kelaher
+2008). Furthermore, trials with recalcitrant Juncus sp.
+detritus indicated that only 10% of the material mixed
+into sediments using this method is washed out over
+a 1 mo period (M. J. Bishop unpub.). To control for
+the physical disturbance of sediments associated with
+detrital addition, control plots received similar hand-
+churning as detrital addition treatments. Undisturbed
+control plots were not included in the design because
+a previous study on the same mudflat found that in
+the absence of detrital enrichment, there is no significant
+difference in invertebrate communities between
+churned and undisturbed plots (Bishop et al. 2007).
+After 7 wk, macroinvertebrates were sampled from
+each experimental plot using a 100 mm internal diameter
+corer depressed to a depth of 100 mm. Cores were
+washed through a 500 μm sieve and all fauna retained
+on the sieve were fixed in 8% buffered formalin and
+then transferred to 70% ethanol for enumeration and
+identification to either species level or, where this was
+not possible, morphospecies (Oliver & Beattie 1996).
+Two-way analysis of variance (ANOVA)
+tested for differences of Caulerpa taxifolia DW in
+wrack among sampling dates (monthly, February to
+July) and between the 2 study sites (n = 5). One-way
+ANOVA tested for differences in C:N ratio of C. taxifolia
+samples among the 19 collections made over a 5 mo
+period from 13 sites distributed across 6 estuaries (n =
+2, see Table 1 for details of each collection). Samples
+collected from multiple sites within an estuary and
+from an estuary at multiple times were considered
+independent. Differences between these samples from
+within a single estuary were just as great as between
+samples that had come from different estuaries. Prior
+to each ANOVA, homogeneity of variances was tested
+using Cochran’s C test, which was found to be nonsignificant
+for all tests. A posteriori Student-Newman-
+Keuls (SNK) tests identified significant differences
+among the means of treatments when ANOVA was
+significant.
+Non-metric multidimensional scaling (nMDS) was
+used to produce a 2D ordination of macrofaunal
+assemblages present in cores of sediment collected
+from the field experiment. The ordination was based
+on a Bray–Curtis dissimilarity matrix (Bray & Curtis
+1957) derived from untransformed data. Hypotheses
+about the effects of Caulerpa taxifolia detritus on
+infaunal communities were tested using 1-way nonparametric
+multivariate analyses of variance (PERMANOVA,
+Anderson 2001) on Bray–Curtis dissimilarity
+measures derived from untransformed data. The
+single factor, treatment, had 5 levels: the control plus
+the 4 experimental treatments. The SIMPER (Similarity
+of Percentages) routine in PRIMER version 5.2.7
+(Primer-E) identified species that were important discriminators
+of macroinvertebrate assemblages among
+treatments (dissimilarity to SD ratio >1.3, Clarke 1993).
+One-way ANOVA was used to assess the effects of
+Caulerpa taxifolia detrital addition on the abundance
+and species richness of infauna as well as taxa identified
+by SIMPER as key species. As with the PERMANOVA,
+the single factor treatment had 5 levels.
+Homogeneity of variances was confirmed using
+Cochran’s C test, and SNK tests were used for a posteriori
+comparisons (as above).
+
+xresults
+At each of the two sites in Botany Bay, Caulerpa taxifolia
+was present in wrack deposits at all 6 sampling
+times (February to July 2007). At one of the sites, the
+contribution of the alga to wrack deposits peaked in
+February (ANOVA: month × site: F5,48 = 5.64, p =
+0.0004; SNK, Site 1: March = April = July = May = June
+< February), but at the other site, a peak was seen in
+June following winter storms, which coincided with
+the natural annual regression of C. taxifolia (SNK,
+Site 2: March = May = February = July = April < June).
+At the first site, the contribution by weight of the alga
+to total wrack deposits remained <1%, even during the
+February peak. At the second site, the June influx of C.
+taxifolia inflated the contribution of the non-native
+species from a baseline of <1% to 13 ± 5% of total
+wrack.
+Sampling ofCaulerpa taxifolia from13 sites distributed
+across 6 estuaries revealed significant spatio-temporal
+variability in the C:N ratio of the alga (ANOVA: F18,19 =
+50.13, p < 0.0001, Table 1). The highest C:N was 15.9 ±
+0.0 at St Georges Basin, while the lowest C:N ratio of
+7.2 ± 0.2 was recorded in Botany Bay.
+A total of 3568 invertebrates from 41 species were
+identified from the manipulative experiment. Polychaetes
+and gastropods were the 2 most diverse groups,
+contributing 12 and 11 different species, respectively.
+The sabellid polychaete Euchone variabilis constituted
+57% of the total number of individuals sampled.
+Infaunal assemblages in control plots were significantly
+different from those receiving Caulerpa taxifolia
+detritus (PERMANOVA: pseudo-F4,30 = 9.86, p < 0.001;
+Fig. 1). There was a clear effect of quantity of detritus,
+but no significant effect of the quality of C. taxifolia
+detritus on macroinvertebrate assemblages (pairwise
+tests: [90 g, low C:N = 90 g, high C:N] ≠ [30 g, low C:N
+= 30 g, high C:N] ≠ Control; Fig. 1).
+The abundance of macroinvertebrates was reduced
+significantly in plots enriched with 90 g of detritus and
+also, but to a lesser extent, in plots enriched with 30 g
+of detritus (ANOVA: F4,30 = 25.0, p < 0.001; Fig. 2a).
+The quality of the detritus (low versus high C:N) had
+no discernable effects on macroinvertebrate abundance
+(Fig. 2a). Macroinvertebrate species richness
+was reduced significantly by the addition of 90 g of
+either low or high C:N detritus (ANOVA: F4,30 = 6.0,
+p < 0.01), whereas the 30 g additions had no significant
+effects on richness (Fig. 2b).
+SIMPER analyses identified 4 taxa –– the polychaetes
+Euchone variabilis and Nephtys australiensis,
+the gastropod Salinator fragilis and a gammarid amphipod
+morphospecies –– as good discriminators of macrofaunal
+assemblages among treatments.
+Patterns for total macroinvertebrate
+abundance were driven primarily by
+the numerically dominant polychaete
+E. variabilis, which showed the same
+significant reduction in abundances
+with increases in quantity of detritus,
+but no significant effect of detrital
+quality (ANOVA: F4,30 = 18.4, p <
+0.001). There was, however, a non-significant
+trend for numbers of E. variabilis
+to be reduced more by the lower
+quality detritus in the 90 g addition
+treatments (Fig. 2c). Patterns for the
+gammarid amphipod were essentially
+the same as those for E. variabilis, with
+abundances decreasing with increasing
+quantity of detritus (ANOVA:
+F4,30 = 4.5, p < 0.01; Fig. 2d). SNK tests
+could not, however, resolve any differences
+among the 30 g low or high quality
+detritus and the 90 g high quality
+treatment (Fig. 2d).
+Abundances of the polychaete
+Nephtys australiensis were reduced significantly by
+the addition of 90 g of high quality detritus (ANOVA:
+F4,30 = 10.8, p < 0.001; Fig. 2e). Again, a posteriori comparisons
+of means could not unequivocally discriminate
+differences among the other treatments, but there
+was a clear trend for high quality detritus to have the
+most negative impact on abundances of N. australiensis
+for both the 30 and 90 g additions (Fig. 2e). Detrital
+additions had no significant effects on abundances of
+the gastropod Salinator fragilis (ANOVA: F4,30 = 1.1,
+p > 0.30). Interestingly the pattern among treatments
+for S. fragilis was the opposite of that for the other taxa,
+with means of all detrital addition treatments being
+greater than the unenriched control (Fig. 2f).
+
+xdiscussion
+The alteration of detrital food webs by the organic
+material of invasive plants has received little attention.
+Siphonous green seaweeds, such as Caulerpa taxifolia,
+C. racemosa and Codium fragile ssp. fragile are highly
+successful invaders of aquatic ecosystems. Due to their
+high productivity and rapid growth, these species have
+the potential to contribute significantly to organic
+matter supply. This study demonstrated that the invasive
+alga C. taxifolia provides a temporally persistent
+source of organic matter to spatially subsidize estuarine
+soft-sediments. Its contribution to wrack resources
+was highly variable and, following a storm event in
+winter, when live C. taxifolia biomass can regress
+(Glasby et al. 2005), was as high as 13 ± 5%. Furthermore,
+the enrichment experiment indicated that such
+pulses of C. taxifolia wrack influence negatively on the
+abundance and species richness of macroinvertebrate
+populations.
+Both low and high loadings of sediment with
+Caulerpa taxifolia wrack reduced the overall abundance
+of macroinvertebrates relative to unenriched
+control plots. The magnitude of negative effects increased
+with the volume of C. taxifolia material added.
+Negative responses of invertebrate communities to
+organic enrichment have also been seen following
+addition of large volumes of some other types of wrack
+to estuarine sediments, presumably due to sufficient
+stimulation of microbial processes to deplete sediment
+oxygen (Rossi 2006). The negative effects of C. taxifolia
+on macroinvertebrates were, however, far greater
+than those previously observed following the addition
+of other detrital sources to Botany Bay sediments. The
+addition of 90 g of litter from the eelgrass Zostera
+capricorni or from a mixture of sources including the
+strap weed Posidonia australis, the alga Sargassum sp.
+and the mangrove Avicennia marina did not reduce
+macroinvertebrate abundance over a similar 2 mo
+period (Bishop et al. 2007, Bishop & Kelaher 2008).
+Other algal sources (Ecklonia radiata, Sargassum sp.,
+or Phyllospora comosa) reduced abundances by only
+10 to 30% (Bishop et al. 2010), not the 70% seen here
+following loading with C. taxifolia. In the present
+study, the reduction of abundances in experimental
+plots receiving C. taxifolia were unanticipated as plots
+never exhibited any evidence of surface anoxia, such
+as black patches or the presence of white, sulphurreducing
+bacteria.
+Secondary metabolites may have contributed to the
+negative effects of Caulerpa taxifolia detritus. The
+abundance of almost all invertebrate taxa decreased
+following addition of C. taxifolia detritus to plots, but
+one species showed a slight increase in numbers. Even
+opportunistic taxa such as capitellids and oligochaetes
+did not display their paradigmatic proliferation following
+organic enrichment (cf. Pearson & Rosenberg 1978,
+Beukema 1991). Only the gastropod Salinator fragilis,
+a surface dwelling grazer, was more abundant in
+enriched than control plots. On the surface of the sediment,
+S. fragilis would be less exposed to C. taxifolia
+detritus than infaunal taxa and may, in fact, have benefited
+from the alga as a result of the negative influence
+of C. taxifolia on competitors. Studies examining
+the nutritional quality of macroalgal detritus have
+emphasized the inhibitory role of secondary metabolites
+on detritivores (Hanson & Tenore 1981, Enriquez
+et al. 1993, Duggins & Eckman 1997). Amade & Lemée
+(1998) found degraded caulerpenynes in seawater can
+still inhibit larval recruitment of sea urchins; however,
+the capacity for caulerpenynes to influence the structure
+of detritivore communities has not been directly
+assessed and more research is needed in this area.
+Like other foliose green macroalgae, Caulerpa taxifolia
+rapidly absorbs nutrients from the water column, but
+it also has the ability to fix nitrogen from its substrate
+(Chisholm et al. 1996, Ceccherelli & Cinelli 1997,
+Chisholm & Moulin 2003). It was predicted that the C:N
+ratio of live C. taxifolia would vary in space and time,
+presumably in response to environmental nutrient
+availability and therefore, the detritus emanating from
+these sources would also be of differing quality. Predictions
+were also made that more labile C. taxifolia detritus,
+of lower C:N ratio, would exacerbate the negative
+effects of the high quantity treatment by further stimulating
+microbial productivity and sediment anoxia.
+Sampling of 6 estuaries revealed that the alga’s C:N ratio
+ranged from 7 to 16, which greatly exceeded variation
+amongst other wrack contributors (e.g. Avicennia
+marina C:N ratio: 26.3 ± 0.1, n = 2; Posidonia australis:
+23.0 ± 0.1, n = 2; Zostera capricorni: 22.8 ± 0.3, n = 2;
+Bishop & Kelaher 2008, B. P. Kelaher unpubl.).
+The manipulative experiment confirmed Caulerpa
+taxifolia detritus significantly affected abundances of
+certain macrofauna regardless of whether its C:N ratio
+was at the lower or higher end of the range. At the high
+detrital loading of 90 g, there was a weak trend for a
+greater abundance of Euchone variabilis in plots with
+high rather than with low C:N detritus as predicted
+under the hypothesis of exacerbation of anoxic effects.
+But at the low detrital loading of 30 g, no difference in
+the abundance of E. variabilis was evident between
+quality treatments. The predatory polychaete Nephtys
+australiensis displayed the opposite pattern, with a
+weak indication of greater abundance in the low rather
+than the high C:N treatment. Increasing the nitrogen
+content of detritus tends to accelerate decomposition
+processes (Tenore et al.1979, Mann 1988) and hence
+promote secondary production (Findlay 1982, Levinton
+& Stewart 1988). Nevertheless, it was the predator not
+the detritivore that appeared to benefit from more
+labile detritus. This may reflect the top-down force of
+predation offsetting any bottom-up effect of the labile
+detritus on detritivore abundance.
+In the present study, the effect of the initial quality of
+Caulerpa taxifolia detritus was much weaker (and
+never statistically significant) than the effect of quantity.
+It is important to note, however, that each of the
+estuaries from which C. taxifolia was collected were
+relatively oligotrophic (Scanes et al. 2007). In eutrophic
+estuaries, where there is greater nitrogen availability,
+it is possible that even lower C:N ratios of C. taxifolia
+may be observed. Lower C:N ratios could exacerbate
+negative effects of high detrital loading by stimulating
+excessive bacterial metabolism that depletes sediments
+of oxygen. In other ecosystems, the starting C:N
+ratio of detritus is a key determinant of decomposition
+rate (Enriquez et al. 1993).
+Coastal marine food webs are being dramatically
+altered through the shift in species composition (see
+Byrnes et al. 2007). There are now over 277 introduced
+macroalgal species, globally, several of which are considered
+among the world’s 100 most invasive species
+(Williams & Smith 2007). Our results, in combination
+with those of recent studies (Rodil et al. 2008, Rossi et
+al. 2010), indicate that some introduced macroalgae
+can have broad-scale impacts on benthic communities
+by modifying detrital subsidies. It is likely that many
+other invasive macrophytes will produce similarly
+large impacts for several reasons. (1) According to the
+enemy release hypothesis, introduced plants should
+experience a decrease in regulation by herbivores due
+to the absence of their natural grazers (Keane & Crawley
+2002). Hence, a higher proportion of introduced
+biomass than that of the native species may enter the
+detrital food web. (2) A recent review has shown that
+several families of algae contribute disproportionately
+to the number of invasive macroalgal species (Williams
+& Smith 2007). Among these are several families well
+known to contain unique chemical faunal deterrents
+(e.g. Caulerpaceae, Codiaceae, Fucaceae, Ceramiaceae).
+Overall, this study demonstrates that invasive algae
+can impact communities that support productive detrital
+food webs of estuaries. Future efforts to manage
+aquatic or terrestrial invasive species and their influences
+should not only consider the impacts of live
+plants, but also the dead organic material from invasive
+species that can be transported across ecosystem
+boundaries, potentially well beyond the point of
+invasion.
