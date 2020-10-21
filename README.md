@@ -1,6 +1,6 @@
 # invasionLanguage
 
-## This repository includes R scripts and data files associated with Mattingly et al.'s analysis of language use in the invasion biology literature.
+## This repository includes R scripts and data files associated with Mattingly et al.'s analysis of language use in the invasion biology literature: Mattingly, K. Z., T. A. Pelletier, J. Lanterman, D. Frevola, B. Stucke, K. Kinney, R. Schwartz, D. Spacht, G. Dixon, S. M. Hovick. 2020. Disconnects between communicated impact and ecological impact of biological invasions. BioScience 70(3):252-263. 
 
 ### `Extract word frequencies.Rmd` - script to parse text files to calculate frequency of a given word. As an example, loops through `Text files` for frequency of "invasive"
 ### `Text files` folder - text files for all 202 papers included in Mattingly et al. analysis
